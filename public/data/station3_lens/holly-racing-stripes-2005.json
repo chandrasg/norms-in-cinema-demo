@@ -1,0 +1,302 @@
+{
+  "film": {
+    "id": "6439",
+    "title": "Racing Stripes",
+    "year": "2005",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/epDsuf5oUdzTFYHqV2IRcyy8Rwc.jpg",
+    "overview": "Shattered illusions are hard to repair -- especially for a good-hearted zebra named Stripes who's spent his life on a Kentucky farm amidst the sorely mistaken notion that he's a debonair thoroughbred. Once he faces the fact that his stark stripes mark him as different, he decides he'll race anyway. And with help from the young girl who raised him, he just might end up in the winner's circle."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 29
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 5
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 14,
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1118_holly",
+      "emotion": "pride",
+      "dialogue": "If you're going to be a champion, I suggest you start acting like one.  - Oh, your dad scares me, dude. - Not me.  - Pride! Ruffshodd! - Coming, Father.  Yeah, coming, Mr. Sir Trenton, sir.  I don't understand. Why won't he let them play with me?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1119_holly",
+      "emotion": "pride",
+      "dialogue": "Don't you have a board meeting at the track to get to?  As a matter of fact, I do.  Yo, yo, Pride. Check out the new filly. What a mane.  Look at those flanks.  Watch. She's gonna come straight for me. Do I have anything in my teeth?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1120_holly",
+      "emotion": "pride",
+      "dialogue": "- Oh, it's my dad. - Listen, you.  I want you to stop bothering my son. And you can tell Tucker I said that.  Trenton's Pride is a champion with a real future. And you, well... You have your place.  You have your place.  - Father, l... - You and I will talk later.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "his son's future success",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1121_holly",
+      "emotion": "pride",
+      "dialogue": "Tonight's first contestant is 10-0 and good to go.  He is the baddest pony on the prairie.  Give it up for Trenton's Pride.  Step right up, if you're horse enough.  - Not me, no way. - Who's feeling their oats?",
+      "target_person": "Trenton's Pride",
+      "target_gender": "male",
+      "cause_raw": "being the baddest pony on the prairie",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1122_holly",
+      "emotion": "pride",
+      "dialogue": "Up to that heap, around it and back to here.  I am going to make you look so bad in front of your girlfriend.  - Send him home, Pride. - Show him who's boss.  You got guts, kid.  Come on, Pride. You show him who's in charge.",
+      "target_person": "Pride",
+      "target_gender": "male",
+      "cause_raw": "showing dominance",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1123_holly",
+      "emotion": "pride",
+      "dialogue": "- Send him home, Pride. - Show him who's boss.  You got guts, kid.  Come on, Pride. You show him who's in charge.  Let's go!  Come on, Stripey, try and keep up. See you, loser.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1124_holly",
+      "emotion": "pride",
+      "dialogue": "Come on, Stripey, try and keep up. See you, loser.  Just giving you a head start. You're gonna need it.  Come on, Pride, is that all you got?  I'm not even breaking a sweat yet.  Good thing your daddy's not here to see this.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1125_holly",
+      "emotion": "pride",
+      "dialogue": "And pulling that thing can only help. Put your back into it. Get to work.  Yeah. I will make it to the track, Tucker.  And when I do, I'm gonna beat Pride and win the big race.  - Whoa, big fella! - That's the attitude.  Well, like my mama used to say:",
+      "target_person": "Tucker",
+      "target_gender": "male",
+      "cause_raw": "winning the big race",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1126_holly",
+      "emotion": "pride",
+      "dialogue": "I'm expressing myself.  You are the reason they invented fly swatters.  There are those that say Trenton's Pride is the only real contender this year.  - How do you feel about that? - Well, dear, how do you feel about that?  Miss Dalrymple, how does Trenton's Pride compare with his legendary father?",
+      "target_person": "Miss Dalrymple",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1127_holly",
+      "emotion": "pride",
+      "dialogue": "There are those that say Trenton's Pride is the only real contender this year.  - How do you feel about that? - Well, dear, how do you feel about that?  Miss Dalrymple, how does Trenton's Pride compare with his legendary father?  Well, I like to believe that I can see a good bet, and l... What...? Where's...? What the...? Excuse me. Excuse me!  Excuse me. Excuse me!",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1128_holly",
+      "emotion": "pride",
+      "dialogue": "Come on, Nolan.  No. That's final.  Too poor to paint, too proud to whitewash.  He's not gonna let Stripes race. That's not cool.  Let's go talk to Tucker.",
+      "target_person": "Nolan",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1129_holly",
+      "emotion": "pride",
+      "dialogue": "Please, Father, don't interfere. I can win it, fair and square.  That's not a risk I'm willing to take.  Double Pride's workout schedule.  Pull! Pull! Come on, pull!  Come on, Scuzz! What are you doing here? Give it to me! Push!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1130_holly",
+      "emotion": "pride",
+      "dialogue": "This is Courtney Jones, KNN, coming to you live... ...from Turfway Park, where horseracing history is about to be made.  ...from Turfway Park, where horseracing history is about to be made.  - Can a zebra...? - Sentimental favorite, Stripes... ...can beat Trenton's Pride.  ...can beat Trenton's Pride.  He is trained by the legendary Nolan Walsh... ...who came out of retirement specifically for this race.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1131_holly",
+      "emotion": "pride",
+      "dialogue": "...from Turfway Park, where horseracing history is about to be made.  - Can a zebra...? - Sentimental favorite, Stripes... ...can beat Trenton's Pride.  ...can beat Trenton's Pride.  He is trained by the legendary Nolan Walsh... ...who came out of retirement specifically for this race.  ...who came out of retirement specifically for this race.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1132_holly",
+      "emotion": "pride",
+      "dialogue": "You're a joke!  They're all in.  And away they go. Marietta's Rock, Pirate's Cove and Trenton's Pride... ...came away smartly, with Jordan's Revenge... - Ride, Stripes! - Go! Come on, Stripes!  - Ride, Stripes! - Go! Come on, Stripes!  Ruffshodd keeping Stripes tight on the rail... ...with Marc's A Mystery, Flemish Fury and Brown-Nose-Biren.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1133_holly",
+      "emotion": "pride",
+      "dialogue": "- Tell Tucker Ruffshodd's got him boxed in! - Copy that, Goose!  Ten-four! Roger Wilco!  Trenton's Pride is back in third. Stripes is along the inside... - Ruffshodd's boxed him in. - Tell Stripes hug the rail... ...and make his move at the turn. - Got it! Let's fly!  ...and make his move at the turn. - Got it! Let's fly!  - Hey, Buzz? - What?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1134_holly",
+      "emotion": "pride",
+      "dialogue": "- Marietta's Rock... - That's my boy.  You've always been a pain in the butt.  They're down the back stretch. Trenton's Pride is running the perfect race.  He's moving like an absolute winner. Trenton's Pride, right up there in third spot.  The sentimental choice, Stripes, is coming under pressure and starting to drop back.",
+      "target_person": "my boy",
+      "target_gender": "male",
+      "cause_raw": "Trenton's Pride is running the perfect race",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1135_holly",
+      "emotion": "pride",
+      "dialogue": "You've always been a pain in the butt.  They're down the back stretch. Trenton's Pride is running the perfect race.  He's moving like an absolute winner. Trenton's Pride, right up there in third spot.  The sentimental choice, Stripes, is coming under pressure and starting to drop back.  - Stripes seems to be running out of steam. - Had enough, boy?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1136_holly",
+      "emotion": "pride",
+      "dialogue": "The sentimental choice, Stripes, is coming under pressure and starting to drop back.  - Stripes seems to be running out of steam. - Had enough, boy?  Trenton's Pride is going strongly up there amongst the leading line.  Three parts of the way through the race, Marietta's Rock still in front... ...from Pirate's Cove, then Trenton's Pride moving like a winner in third.  ...from Pirate's Cove, then Trenton's Pride moving like a winner in third.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1137_holly",
+      "emotion": "pride",
+      "dialogue": "- Stripes seems to be running out of steam. - Had enough, boy?  Trenton's Pride is going strongly up there amongst the leading line.  Three parts of the way through the race, Marietta's Rock still in front... ...from Pirate's Cove, then Trenton's Pride moving like a winner in third.  ...from Pirate's Cove, then Trenton's Pride moving like a winner in third.  It was just too much to ask of him.",
+      "target_person": "Trenton's Pride",
+      "target_gender": "unclear",
+      "cause_raw": "performing well in the race",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1138_holly",
+      "emotion": "pride",
+      "dialogue": "Trenton's Pride is going strongly up there amongst the leading line.  Three parts of the way through the race, Marietta's Rock still in front... ...from Pirate's Cove, then Trenton's Pride moving like a winner in third.  ...from Pirate's Cove, then Trenton's Pride moving like a winner in third.  It was just too much to ask of him.  - in comes Miyuki's Magic.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1139_holly",
+      "emotion": "pride",
+      "dialogue": "- Good boy! Go, Stripes! Let's go! - Stripes is starting to get in on the inside.  Stripes is surging back into contention.  Trenton's Pride in front, but here comes Stripes charging along the inside.  And Stripes is picking them off one by one, he's coming at Trenton's Pride!  - Come on, Stripes! - Stripes! Come on, Stripes!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1140_holly",
+      "emotion": "pride",
+      "dialogue": "Stripes is surging back into contention.  Trenton's Pride in front, but here comes Stripes charging along the inside.  And Stripes is picking them off one by one, he's coming at Trenton's Pride!  - Come on, Stripes! - Stripes! Come on, Stripes!  Stripes is coming in around the inside.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1141_holly",
+      "emotion": "pride",
+      "dialogue": "These two are now locked together!  Stripes inside, finding trouble on the rail.  Behind him, Trenton's Pride. These two are head-to-head!  - Come on! - Let him run!  They're head-to-head. They're inside the final stages!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1142_holly",
+      "emotion": "pride",
+      "dialogue": "- Come on! - Let him run!  They're head-to-head. They're inside the final stages!  Stripes and Trenton's Pride... - Come on! Yes, yes! - Come on!  - Come on! Yes, yes! - Come on!  They're racing up towards the line. Stripes along the inside.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1143_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah!  That's my boy right there!  - Kentucky Open, he's edged out Trenton's Pride... ...and Stripes is the winner of the Kentucky Open... ...narrowly beating Trenton's Pride in a driving finish.  ...narrowly beating Trenton's Pride in a driving finish.  I won. I can't believe I won!",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "winning the Kentucky Open",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1144_holly",
+      "emotion": "pride",
+      "dialogue": "That's my boy right there!  - Kentucky Open, he's edged out Trenton's Pride... ...and Stripes is the winner of the Kentucky Open... ...narrowly beating Trenton's Pride in a driving finish.  ...narrowly beating Trenton's Pride in a driving finish.  I won. I can't believe I won!  That's my best boy.",
+      "target_person": "best boy",
+      "target_gender": "male",
+      "cause_raw": "winning the Kentucky Open",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1145_holly",
+      "emotion": "pride",
+      "dialogue": "This is his moment, guys. Come on. He did it!  Did you see him, Dad? Did you see him? He almost shot out from underneath me!  Your mom would be so proud.  And so am I.  - Hey, Stripey. - Yeah?",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "son's achievement",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP1146_holly",
+      "emotion": "pride",
+      "dialogue": "- Thanks, kid. - The roses make you look like Elvis.  Very Elvis. Very Elvis '75.  - I'm so proud of you, Stripes. - Thanks, Sandy.  Coming through! Coming through! Big winner! Coming through!  Yeah! Catch me, baby, catch me! Get the good side!",
+      "target_person": "Sandy",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

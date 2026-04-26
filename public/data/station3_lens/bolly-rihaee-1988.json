@@ -1,0 +1,165 @@
+{
+  "film": {
+    "id": "515629",
+    "title": "Rihaee",
+    "year": "1988",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6ol7WBwuloxub3dRgMP1CRG6b98.jpg",
+    "overview": "A village is inhabited mainly by women whose husbands are in the cities earning a living. Taking advantage of the situation, a man who returns to his village succeeds in seducing most of the women."
+  },
+  "totals": {
+    "shame": 11,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 4
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 3
+    },
+    {
+      "label": "Marital Status",
+      "count": 3
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 8,
+      "male": 3
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1678_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm scared. Where are you coming from? Do you know what you are upto? Have you got no shame? Is there nobody to rein you? - But what have I done? - Didn't you go with that man? Which man? it's been two years since I saw a man.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being with a man",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1679_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't this charade. I'm on the look out for a groom for my daughters. And you have a husband and you're eying another man? - Don't you have any shame? - What are you saying? Stop chasing Mansukh. Roopji will skin you if he comes to know. Don't you know what happened to Dhani?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1680_bolly",
+      "emotion": "shame",
+      "dialogue": "You have so much anger in you. These are the signs of a true man. You don't know how much I love you. You are so shameless to chase a man. If a woman chases a man she's shameless,...and if a man chases a woman he's a stud! Let me go. I heard enough of your nonsense.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "chasing a man",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1681_bolly",
+      "emotion": "shame",
+      "dialogue": "You don't know how much I love you. You are so shameless to chase a man. If a woman chases a man she's shameless,...and if a man chases a woman he's a stud! Let me go. I heard enough of your nonsense. - Coming. - Is this tea?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "chasing a man",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1682_bolly",
+      "emotion": "shame",
+      "dialogue": "Or she'll drown and kill herself. She always acted like a chaste woman. Now she'll be exposed. You are no less. Only difference is that you are shameless. I'm the only one who's eager to get my unmarried girls married. And look at this wretch carrying somebody else's child!",
+      "target_person": "unmarried girl",
+      "target_gender": "female",
+      "cause_raw": "carrying someone else's child while unmarried",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1683_bolly",
+      "emotion": "shame",
+      "dialogue": "I tend to this land to survive and get my daughters married. And now this rascal has come in this state. Rascal, have you got no shame? First you had a woman on whom you squandered all your earnings. Now you've come all infected back to me.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "irresponsible behavior and contracting disease",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1684_bolly",
+      "emotion": "shame",
+      "dialogue": "No woman has a right to thrust her sins on her husband. Just bash her. I'm appalled at her shamelessness. How could she tell you this? If she has this child it'll give our wives the courage to do the same.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1685_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll keep it at all costs. It is my child and it is my duty to protect it. If you are ashamed of me, then stop talking to me. Just leave me alone. Takubai, you've slept with another man in your husband's absence.",
+      "target_person": "Takubai",
+      "target_gender": "female",
+      "cause_raw": "Infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1686_bolly",
+      "emotion": "shame",
+      "dialogue": "- Amarji, you want to say anything? - That she didn't do the right thing. She should've destroyed the proof of her infidelity. What could be more shameful for a man? Amarji, let me speak. In the first place she shouldn't have been disloyal.",
+      "target_person": "Amarji's wife",
+      "target_gender": "female",
+      "cause_raw": "Infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1687_bolly",
+      "emotion": "shame",
+      "dialogue": "If you can't bear to hear the truth, then leave. So, my dear honest men,....which society permits you to sleep with your daughters-in-law? And Khetaji, you are a member of the assembly, you should be ashamed. That girl Dhara is as old as your granddaughter and you,...We don't want to hear anything more. Aren't you ashamed to marry again for the third time at the age of seventy?",
+      "target_person": "Khetaji",
+      "target_gender": "male",
+      "cause_raw": "inappropriate relationships and marrying multiple times at an old age",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1688_bolly",
+      "emotion": "shame",
+      "dialogue": "And Khetaji, you are a member of the assembly, you should be ashamed. That girl Dhara is as old as your granddaughter and you,...We don't want to hear anything more. Aren't you ashamed to marry again for the third time at the age of seventy? Didn't you go to see that Rewa whose thirteen years old? Motibai, enough is enough!",
+      "target_person": "Khetaji",
+      "target_gender": "male",
+      "cause_raw": "Marrying a much younger girl and multiple marriages",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p886_bolly",
+      "emotion": "pride",
+      "dialogue": "With three daughters she's so arrogant,...l wonder what she'd have done had she had three sons! Can only you give birth to sons? An astrologer has predicted a son for me. So don't be so proud. Why is she getting so upset? I think her husband is no longer attracted to her.",
+      "target_person": "first speaker",
+      "target_gender": "female",
+      "cause_raw": "ability to give birth to sons",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p887_bolly",
+      "emotion": "pride",
+      "dialogue": "One day has already lapsed. One day you too have to be buried in this earth. So don't be proud We are all travelers in this world We are here for only a short while",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

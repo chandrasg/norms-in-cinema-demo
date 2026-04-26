@@ -1,0 +1,91 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+const meta = (await import("../../public/data/meta.json", { assert: { type: "json" } })).default;
+const base = import.meta.env.BASE_URL;
+---
+
+<Layout>
+  <section class="container-kiosk pt-16 pb-24 md:pt-24 md:pb-32">
+    <p class="mb-6 text-xs uppercase tracking-[0.3em] text-gold-400">
+      Penn · World Bank · Norman Lear Center
+    </p>
+
+    <h1 class="font-display text-kiosk-xl text-white max-w-4xl">
+      <span class="text-white">Cinema's Mirror.</span>
+      <span class="block italic text-white/70 mt-2">Shame, Pride and Prejudice.</span>
+    </h1>
+
+    <div class="accent-line my-10"></div>
+
+    <p class="max-w-2xl text-kiosk-md text-white/80 leading-snug">
+      <span class="text-white">{meta.corpus_size.toLocaleString()} dialogues</span>
+      from {meta.films_matched.toLocaleString()} films across Bollywood and Hollywood.
+      Read through the lens of two emotions —
+      <span class="text-bolly">shame</span>,
+      <span class="text-holly">pride</span> —
+      and the social expectations they enforce.
+    </p>
+
+    <p class="mt-6 max-w-2xl text-base text-white/50">
+      Cultural surfaces differ. The gendered substrate is shared.
+    </p>
+
+    <div class="mt-12 grid gap-6 md:grid-cols-3">
+      <a href={base + "/mirror"} class="panel block p-7 transition hover:ring-gold-400/40">
+        <p class="text-xs uppercase tracking-[0.25em] text-gold-400">Station 1</p>
+        <h2 class="mt-2 font-display text-2xl text-white">The Mirror</h2>
+        <p class="mt-3 text-sm text-white/60 leading-relaxed">
+          Guess the industry. Watch the gender asymmetry build across decades.
+          The room-stopper.
+        </p>
+        <p class="mt-6 text-xs text-white/40 group-hover:text-gold-400">Begin →</p>
+      </a>
+
+      <a href={base + "/atlas"} class="panel block p-7 transition hover:ring-gold-400/40">
+        <p class="text-xs uppercase tracking-[0.25em] text-gold-400">Station 2</p>
+        <h2 class="mt-2 font-display text-2xl text-white">The Atlas</h2>
+        <p class="mt-3 text-sm text-white/60 leading-relaxed">
+          {meta.themes.shame + meta.themes.pride} themes. {meta.films_matched.toLocaleString()} films searchable.
+          Drill into any cluster and read the lines that built it.
+        </p>
+        <p class="mt-6 text-xs text-white/40">Explore →</p>
+      </a>
+
+      <a href={base + "/lens"} class="panel block p-7 transition hover:ring-gold-400/40">
+        <p class="text-xs uppercase tracking-[0.25em] text-gold-400">Station 3</p>
+        <h2 class="mt-2 font-display text-2xl text-white">The Lens</h2>
+        <p class="mt-3 text-sm text-white/60 leading-relaxed">
+          Pick a film. Or paste a scene of your own. Read it through both
+          cultural lenses at once.
+        </p>
+        <p class="mt-6 text-xs text-white/40">Look →</p>
+      </a>
+    </div>
+
+    <!-- Audience-segmented closing -->
+    <div class="mt-24 grid gap-4 md:grid-cols-3">
+      <div class="panel p-6">
+        <p class="text-xs uppercase tracking-[0.2em] text-bolly">For filmmakers</p>
+        <p class="mt-3 text-sm leading-relaxed text-white/75">
+          See what your scenes carry — what they sanction, what they celebrate,
+          and who pays the cost.
+        </p>
+      </div>
+      <div class="panel p-6">
+        <p class="text-xs uppercase tracking-[0.2em] text-gold-400">For funders</p>
+        <p class="mt-3 text-sm leading-relaxed text-white/75">
+          MAPGEN scales. The lens shown here is being extended to 250,000 films
+          across 160 countries. Invest in measurement, not just messaging.
+        </p>
+      </div>
+      <div class="panel p-6">
+        <p class="text-xs uppercase tracking-[0.2em] text-holly">For festivals</p>
+        <p class="mt-3 text-sm leading-relaxed text-white/75">
+          Norm-aware programming starts with norm-aware data. We're sharing the
+          method openly.
+        </p>
+      </div>
+    </div>
+  </section>
+</Layout>

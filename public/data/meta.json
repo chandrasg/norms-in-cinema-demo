@@ -1,0 +1,10 @@
+{
+  "corpus_size": 12387,
+  "films_matched": 10066,
+  "themes": {
+    "shame": 24,
+    "pride": 15
+  },
+  "gender_coverage_pct": 77.4,
+  "theme_coverage_pct": 84.4
+}

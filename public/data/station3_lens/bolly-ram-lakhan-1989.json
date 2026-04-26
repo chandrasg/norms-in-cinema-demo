@@ -1,0 +1,198 @@
+{
+  "film": {
+    "id": "72127",
+    "title": "Ram Lakhan",
+    "year": "1989",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/nDqAx0z6u8KJ4arJy40eaKTXB8M.jpg",
+    "overview": "Sharda vows vengeance when her husband is murdered by his two evil cousins, Bhishamber and Bhanu, and she and her two young sons are thrown out on the street. Years after their father's murder, Ram and Lakhan grow up to become policemen. Their personalities are like day and night: while one strives to do what is right, the other often makes poor choices."
+  },
+  "totals": {
+    "shame": 11,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 8,
+      "female": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1620_bolly",
+      "emotion": "shame",
+      "dialogue": "My two precious jewels. One is Ram, the other Lakhan! How did you let them in this house? Despite knowing what difficulty and shame we're borne, due to them! I know my son. I know all. But you must also not forget they are my late brother's sons.",
+      "target_person": "Ram and Lakhan",
+      "target_gender": "male",
+      "cause_raw": "causing difficulty and shame to family",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1621_bolly",
+      "emotion": "shame",
+      "dialogue": "You don't know, Lakhan and his friends know a lot of magic. God forbid if they really turn you into a hen...I'll have to sell eggs laid by you in your own shop! You should be ashamed. You have grown up. Yet you behave like a kid! I just went to meet him out of love.",
+      "target_person": "Character being shamed",
+      "target_gender": "male",
+      "cause_raw": "Immaturity",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1622_bolly",
+      "emotion": "shame",
+      "dialogue": "- Who? - The commissioner's daughter. Her love story with brother is going on for a year now! Shut up! Shameless! Is it possible that he likes somebody and I don't know about it? It is possible. It is happening.",
+      "target_person": "commissioner's daughter",
+      "target_gender": "female",
+      "cause_raw": "having a love affair",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1623_bolly",
+      "emotion": "shame",
+      "dialogue": "Sir, these trucks of BB Roadways without any checking, openly...The rope should be left slack before you catch the big elephant. Let them go. The owners of BB Roadways are related to me. Will you shame me by stopping them? Well done nephew. You've cleared our test.",
+      "target_person": "police officer",
+      "target_gender": "male",
+      "cause_raw": "favoritism and corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s1624_bolly",
+      "emotion": "shame",
+      "dialogue": "Didn't you tell Uncle of all the scoundrels I arrested? Yes, you did. Except for one. - Whom? - Sir, I'm ashamed to take your name. I mean first of all, he raided Seth Dhaniram. The second was Dinaram. He had him hung upside down.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "not sharing complete information",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1625_bolly",
+      "emotion": "shame",
+      "dialogue": "You will come alone to check post number 7. You means only you. So now we have to work with the scare of Sir John's threats! The entire police department is put to shame like this. This will never happen. Does this mean we leave Lakhan there, to die?",
+      "target_person": "police department",
+      "target_gender": "unclear",
+      "cause_raw": "inability to handle threats",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1626_bolly",
+      "emotion": "shame",
+      "dialogue": "This uniform? I now wish that when I die and my brother gets my dead body...It is of an honest inspector Lakhan Pratap Singh! And not of the cheat Lakhan whom everyone was ashamed of! See where your actions brought all of us! Is this what you wanted?",
+      "target_person": "Lakhan Pratap Singh",
+      "target_gender": "male",
+      "cause_raw": "Dishonesty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1635_bolly",
+      "emotion": "shame",
+      "dialogue": "But, Mr. Kashyap, we are decent people . Totally  decent Why would  a decent person feel  shame at being searched? Actually , my friend, in this border area. . . . Kesariya Vilayati  and Sir John's smuggling  activity. .",
+      "target_person": "Mr. Kashyap",
+      "target_gender": "male",
+      "cause_raw": "being suspected of smuggling",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s1636_bolly",
+      "emotion": "shame",
+      "dialogue": "Kashiram I Hail  Ram I You should  feel  ashamed, Lakhanl You have grown up so much, still you play  childish  pranksl Mother, I had gone to pay a social  visit to uncle  Deodhar.",
+      "target_person": "Lakhan",
+      "target_gender": "male",
+      "cause_raw": "behaving childishly",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1637_bolly",
+      "emotion": "shame",
+      "dialogue": "Her and brother Ram's love affair is going on since one yearl Since one yearl Shut upl Shamelessl  If Ram loves someone, would  I remain in the dark? Is it possible ?",
+      "target_person": "Her",
+      "target_gender": "female",
+      "cause_raw": "Having a love affair",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1638_bolly",
+      "emotion": "shame",
+      "dialogue": ". .then it should  be that of real  inspector Lakhan Pratap Singh Not of the corrupt Lakhan, because of whom. . . .everybody had to hang their heads in shamel Lakhanl Look, where your deeds have brought all of us?",
+      "target_person": "Lakhan Pratap Singh",
+      "target_gender": "male",
+      "cause_raw": "Corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p854_bolly",
+      "emotion": "pride",
+      "dialogue": "That is why brother Bishambhar and sister Param. . . . have  shyly sent you these saris as gift. Sister, they are very proud of Ram's success. After all he is his  uncle Keep them here.",
+      "target_person": "Bishambhar and Param",
+      "target_gender": "unclear",
+      "cause_raw": "Ram's success",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p855_bolly",
+      "emotion": "pride",
+      "dialogue": "I have sent invitation to his mother tool So that she  would come and see with her eyes. . . . how her prestige and pride will be  trampled. . . . under Bishambhar's shoes I did not understand.",
+      "target_person": "Bishambhar",
+      "target_gender": "male",
+      "cause_raw": "trampling someone's prestige and pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p856_bolly",
+      "emotion": "pride",
+      "dialogue": ". .and dishonest methods. Will mother's  temple remain here? Sin and virtue are words created by orthodox  people like you. . . .who  proudly  flaunt their virtuousness and honesty They do not understand anybody's  feelings or pain Whose pain are you  talking about?",
+      "target_person": "orthodox people",
+      "target_gender": "unclear",
+      "cause_raw": "their virtuousness and honesty",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

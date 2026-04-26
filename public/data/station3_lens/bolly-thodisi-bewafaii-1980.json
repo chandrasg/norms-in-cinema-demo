@@ -1,0 +1,169 @@
+{
+  "film": {
+    "id": "300312",
+    "title": "Thodisi Bewafaii",
+    "year": "1980",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/TCWNDdePTbQCQ0rYLERWA0Xwn6.jpg",
+    "overview": "Arvind Kumar Choudhary is widowed, respectable and wealthy businessman, who lives with his only son, Arun, in a palatial house. He re-marries another woman, Sujata, who is a widow, with two daughters, Veena and Seema. Arun does not respect her and refuses to even speak with her. Arun meets Neema Deshmukh and both of fall in love. With approval of their respective families they get married. Then things start to slide financially for the Choudharys when Arun accidentally breaks a valuable diamond while daydreaming about Neema; the Choudharys lose all their savings, building, vehicles and property, move to a shanty apartment, and Arvind passes away."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 4
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 3
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    },
+    "pride": {
+      "female": 3,
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4448_bolly",
+      "emotion": "shame",
+      "dialogue": "If he hears this, he will call her home immediately. May fate not betray anyone like this. What is your problem? You should feel ashamed to gossip like that. She is calling as shameless. We took pity on her, and she is abusing us. It's you and your husband who are shameless...that you go out hand in hand.",
+      "target_person": "gossipers",
+      "target_gender": "unclear",
+      "cause_raw": "gossiping and spreading rumors",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4449_bolly",
+      "emotion": "shame",
+      "dialogue": "May fate not betray anyone like this. What is your problem? You should feel ashamed to gossip like that. She is calling as shameless. We took pity on her, and she is abusing us. It's you and your husband who are shameless...that you go out hand in hand. Shut-up, rogues! - She's calling us rogues.",
+      "target_person": "gossipers",
+      "target_gender": "unclear",
+      "cause_raw": "gossiping about others",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4450_bolly",
+      "emotion": "shame",
+      "dialogue": "What is your problem? You should feel ashamed to gossip like that. She is calling as shameless. We took pity on her, and she is abusing us. It's you and your husband who are shameless...that you go out hand in hand. Shut-up, rogues! - She's calling us rogues. You are a rogue, you are a rogue family.",
+      "target_person": "gossiping woman",
+      "target_gender": "female",
+      "cause_raw": "gossiping and spreading rumors",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4451_bolly",
+      "emotion": "shame",
+      "dialogue": "What attitude! Sujata, only you can live with her. She's too much! We were filling water. She called us shameless and rogues. I apologise on her behalf. - Now hear that! Let's go.",
+      "target_person": "Sujata's acquaintance",
+      "target_gender": "female",
+      "cause_raw": "Arrogant behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4452_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't like anyone coming in the way of my happiness. You are doing so much for them. Yet their greed doesn't satiate. They should be ashamed to exert so much right. Speak softly. What is wrong with you today? Where is Nandu? I don't see him. - In hell! How do I know?",
+      "target_person": "unidentified characters",
+      "target_gender": "unclear",
+      "cause_raw": "greed and exerting too much right",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4453_bolly",
+      "emotion": "shame",
+      "dialogue": "Even my own son would not do as much as you are doing. If ever I have committed a sin in life, it is doubting you. I am ashamed of myself. Very ashamed. Mother, you doubted me, yet stood by me. What do I do about those who have left me?",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "doubting her son",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p2468_bolly",
+      "emotion": "pride",
+      "dialogue": "They make a beautiful pair. - Yes. God save them from evil eyes. Nima, remember my words. A wife's pride is her husband. To keep that pride, look for your happiness in his. In that lies the secret of a happy family.",
+      "target_person": "Nima",
+      "target_gender": "female",
+      "cause_raw": "husband's happiness",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2469_bolly",
+      "emotion": "pride",
+      "dialogue": "Nima, remember my words. A wife's pride is her husband. To keep that pride, look for your happiness in his. In that lies the secret of a happy family. Arun, Nima lost her mother when she was little.",
+      "target_person": "Nima",
+      "target_gender": "female",
+      "cause_raw": "husband's happiness",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2470_bolly",
+      "emotion": "pride",
+      "dialogue": "I have bought it for 3 million rupees. But if you give it a good cut...I'll be able to sell it for 5 million. Sir, you trusted us, that alone is a matter of pride for us. I will give it such a good cut...the diamond will talk. Here's the receipt",
+      "target_person": "diamond cutter",
+      "target_gender": "male",
+      "cause_raw": "trust from a client",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2471_bolly",
+      "emotion": "pride",
+      "dialogue": "He has disgraced the sacred relationship of a husband and wife. Ask him, would he accept it if I had behaved in a similar fashion? Shut-up! You take immense pride in your father, brother and your views. Let me see how many days they keep you. I will die, but won't come begging to you.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "standing up for herself",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p2472_bolly",
+      "emotion": "pride",
+      "dialogue": "Veena's husband is a good man. Seema can complete her education there. No mother, you don't know how proud she is. She'd come to my shop today. She answered my every question with bitter words. Like a kid feels happy breaking toys.",
+      "target_person": "Veena's husband",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2473_bolly",
+      "emotion": "pride",
+      "dialogue": "What do you want? That I go and lick her feet? That I beg at her feet? You don't know, but despite so much happening she is still as proud. Arun, we cannot stray from societal norm...if we want to live in society. Son, you don't know, but people will accuse me.",
+      "target_person": "Arun",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2474_bolly",
+      "emotion": "pride",
+      "dialogue": "Which husband and wife don't fight? Do all husbands become so unrelenting? But even their wives don't proudly go and live with their parents. They don't have an acid tongue like yours. They don't drag their husbands to court and humiliate them.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "wife's aggressive behavior",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "film": {
+    "id": "79982",
+    "title": "Yes Boss",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ayp76lRwyp5izlZVnxcZscgHofH.jpg",
+    "overview": "Rahul Joshi wants to be a successful businessman so he works hard for his boss Siddharth. One day Rahul meets Seema, an up and coming model, and he feels like he's finally met his match. Will Seema fall for Rahul?"
+  },
+  "totals": {
+    "shame": 16,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 6
+    },
+    {
+      "label": "Immodesty",
+      "count": 4
+    },
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 10,
+      "female": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4632_bolly",
+      "emotion": "shame",
+      "dialogue": "Boss, thank you for the office. My share? Hey, don't you feel ashamed, repeatedly asking for money? Do you feel ashamed? You don't, right? Then neither do I.",
+      "target_person": "character asking for money",
+      "target_gender": "unclear",
+      "cause_raw": "repeatedly asking for money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4633_bolly",
+      "emotion": "shame",
+      "dialogue": "My share? Hey, don't you feel ashamed, repeatedly asking for money? Do you feel ashamed? You don't, right? Then neither do I. After all, I am your disciple!",
+      "target_person": "disciple",
+      "target_gender": "male",
+      "cause_raw": "asking for money repeatedly",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4634_bolly",
+      "emotion": "shame",
+      "dialogue": "You sent Seema to your boss, didn't you? You knew that he'd explain to her and convince her with his talks. But you weren't ashamed! I was deeply ashamed. But how could you be? You want money, your commission and the office!",
+      "target_person": "Seema's acquaintance",
+      "target_gender": "male",
+      "cause_raw": "sending Seema to the boss for personal gain",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4635_bolly",
+      "emotion": "shame",
+      "dialogue": "You knew that he'd explain to her and convince her with his talks. But you weren't ashamed! I was deeply ashamed. But how could you be? You want money, your commission and the office! And then, you have to even get mother operated, right?",
+      "target_person": "character being spoken to",
+      "target_gender": "male",
+      "cause_raw": "greed and selfishness",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4636_bolly",
+      "emotion": "shame",
+      "dialogue": "I couldn't come wearing only an underwear, could l? That's also a point. Don't you have any shame? You're standing before me in a towel! Go away! I'm leaving. Here's the baggage.",
+      "target_person": "character in towel",
+      "target_gender": "male",
+      "cause_raw": "inappropriate dressing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4637_bolly",
+      "emotion": "shame",
+      "dialogue": "Get out of the bed! I say get out! Why have you worn my nightie? You kept shouting, I was shameless and should change. So, here I am! By the way, how do I look in this? - Absolutely stupid! - Then should I remove it?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "cross-dressing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4638_bolly",
+      "emotion": "shame",
+      "dialogue": "- I know that. What's written? - Only a couple of phone numbers. No! You've written the expenses spent on your wife. Rs. 5 for juice, Rs. 20 for breakfast, Rs. 100 for a gift...What a shame!... Over that, a commission! What's this commission? He is very stingy. He writes the account for anything that I eat.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "being stingy",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4639_bolly",
+      "emotion": "shame",
+      "dialogue": "I have brought her here. I knew this question would arise. Mother, I... I was going to tell you that Seema and I...Look at me. There is no need to feel ashamed. If my son, dreaming to make it big, can get misled by wrong people,...... then why can't you? Why this discrimination? Only because you are a girl?",
+      "target_person": "Seema",
+      "target_gender": "female",
+      "cause_raw": "getting misled by wrong people",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4640_bolly",
+      "emotion": "shame",
+      "dialogue": "Boss, thank you for the office. My share? Hey, don't you feel ashamed, repeatedly asking for money? Do you feel ashamed? You don't, right? Then neither do I.",
+      "target_person": "character asking for money",
+      "target_gender": "unclear",
+      "cause_raw": "constantly asking for money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4641_bolly",
+      "emotion": "shame",
+      "dialogue": "My share? Hey, don't you feel ashamed, repeatedly asking for money? Do you feel ashamed? You don't, right? Then neither do I. After all, I am your disciple!",
+      "target_person": "disciple",
+      "target_gender": "unclear",
+      "cause_raw": "asking for money repeatedly",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4642_bolly",
+      "emotion": "shame",
+      "dialogue": "You sent Seema to your boss, didn't you? You knew that he'd explain to her and convince her with his talks. But you weren't ashamed! I was deeply ashamed. But how could you be? You want money, your commission and the office!",
+      "target_person": "Seema's acquaintance",
+      "target_gender": "male",
+      "cause_raw": "exploiting Seema for personal gain",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4643_bolly",
+      "emotion": "shame",
+      "dialogue": "You knew that he'd explain to her and convince her with his talks. But you weren't ashamed! I was deeply ashamed. But how could you be? You want money, your commission and the office! And then, you have to even get mother operated, right?",
+      "target_person": "character being spoken to",
+      "target_gender": "male",
+      "cause_raw": "greed and selfishness",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4644_bolly",
+      "emotion": "shame",
+      "dialogue": "I couldn't come wearing only an underwear, could l? That's also a point. Don't you have any shame? You're standing before me in a towel! Go away! I'm leaving. Here's the baggage.",
+      "target_person": "character in towel",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate dressing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4645_bolly",
+      "emotion": "shame",
+      "dialogue": "Get out of the bed! I say get out! Why have you worn my nightie? You kept shouting, I was shameless and should change. So, here I am! By the way, how do I look in this? - Absolutely stupid! - Then should I remove it?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "cross-dressing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4646_bolly",
+      "emotion": "shame",
+      "dialogue": "- I know that. What's written? - Only a couple of phone numbers. No! You've written the expenses spent on your wife. Rs. 5 for juice, Rs. 20 for breakfast, Rs. 100 for a gift...What a shame!... Over that, a commission! What's this commission? He is very stingy. He writes the account for anything that I eat.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "being stingy",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4647_bolly",
+      "emotion": "shame",
+      "dialogue": "I have brought her here. I knew this question would arise. Mother, I... I was going to tell you that Seema and I...Look at me. There is no need to feel ashamed. If my son, dreaming to make it big, can get misled by wrong people,...... then why can't you? Why this discrimination? Only because you are a girl?",
+      "target_person": "Seema",
+      "target_gender": "female",
+      "cause_raw": "getting misled by wrong people",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p2613_bolly",
+      "emotion": "pride",
+      "dialogue": "Sir... say something. Tell her that there is no need to talk impudently. And to display the false pride of wealth before me! One also requires etiquette to move in big cars! Sir, that's a long sentence. Tell her directly.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "wealth",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

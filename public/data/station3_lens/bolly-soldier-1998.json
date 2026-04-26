@@ -1,0 +1,205 @@
+{
+  "film": {
+    "id": "9425",
+    "title": "Soldier",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "US|GB",
+    "poster_path": "/g62RTtfhgzJo1GV2jjwdzpNuiUB.jpg",
+    "overview": "Sergeant Todd is a veteran soldier for an elite group of the armed forces. After being defeated by a new breed of genetically engineered soldiers, he is dumped on a waste planet and left for dead. He soon interacts with a group of crash survivors who lead out a peaceful existence. The peace is broken as the new soldiers land on the planet to eliminate the colony, which Sergeant Todd must defend."
+  },
+  "totals": {
+    "shame": 12,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 3
+    },
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    },
+    {
+      "label": "Patriotism",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 10,
+      "female": 2
+    },
+    "pride": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4212_bolly",
+      "emotion": "shame",
+      "dialogue": "But by the sweat and blood of 90 crore indians! You swore to protect the country but you loot it! it's a shame for this uniform to be draped on your body! You'll get only some copper or bronze medals by arresting us. Become our partner. We'll give you one half!",
+      "target_person": "policeman",
+      "target_gender": "male",
+      "cause_raw": "corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4213_bolly",
+      "emotion": "shame",
+      "dialogue": "Rascal! Recounting the tale of his bashing as if he's won a medal! He's not an ordinary boy. Then is he King Kong? If the tale of my shame spreads,...I won't have the face to return to Patna! Take my marksman with you. Go, shoot him! If  you come without shooting him, I'll shoot all of you!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being defeated by a boy",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4214_bolly",
+      "emotion": "shame",
+      "dialogue": "Tell me who he is! He fed brother to the fish! If  I don't feed him to the maggots, shame on my name! Tell me who he is! Think of where you saw this lighter.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "revenge for a murder",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s4215_bolly",
+      "emotion": "shame",
+      "dialogue": "Mother earth took that martyr into her lap. Yet these traitors had evil intentions They put the stigma of shame on his mother's head. And threw her out of the village! Sister, I've come to take you and Raju.",
+      "target_person": "martyr's mother",
+      "target_gender": "female",
+      "cause_raw": "being related to a martyr",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s4216_bolly",
+      "emotion": "shame",
+      "dialogue": "The man who can kill the husband's of hundreds of women..And is responsible for the death of innocent kids...No indian woman not just me......will adorn her hair with the vermilion of his name! I'm proud of you son! The day that was lowered in shame because of my husband's deeds...lt is held high once again thanks to you. It is said, of all God's gifts..The most precious is mother. I am so lucky that I have 2 of them!",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "causing harm and death",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s4217_bolly",
+      "emotion": "shame",
+      "dialogue": "Leave my child! I'm the son of this goddess! This is that goddess...Of whose forehead you wrote the stigma of shame, not pride! I'm the son of Vijay Malhotra! Who was called a traitor despite being a martyr!",
+      "target_person": "Vijay Malhotra",
+      "target_gender": "male",
+      "cause_raw": "being called a traitor",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4218_bolly",
+      "emotion": "shame",
+      "dialogue": "But by the sweat and blood of 90 crore Indians! You swore to protect the country but you loot it! It's a shame for this uniform to be draped on your body! You'll get only some copper or bronze medals by arresting us. Become our partner. We'll give you one half!",
+      "target_person": "policeman",
+      "target_gender": "male",
+      "cause_raw": "corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4219_bolly",
+      "emotion": "shame",
+      "dialogue": "Rascal! Recounting the tale of his bashing as if he's won a medal! He's not an ordinary boy. Then is he King Kong? If the tale of my shame spreads,...I won't have the face to return to Patna! Take my marksman with you. Go, shoot him! If you come without shooting him, I'll shoot all of you!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being physically beaten",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4220_bolly",
+      "emotion": "shame",
+      "dialogue": "Tell me who he is! He fed brother to the fish! If I don't feed him to the maggots, shame on my name! Tell me who he is! Think of where you saw this lighter.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "not able to avenge his brother's death",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4221_bolly",
+      "emotion": "shame",
+      "dialogue": "Mother earth took that martyr into her lap. Yet these traitors had evil intentions They put the stigma of shame on his mother's head. And threw her out of the village! Sister, I've come to take you and Raju.",
+      "target_person": "martyr's mother",
+      "target_gender": "female",
+      "cause_raw": "being related to a martyr",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s4222_bolly",
+      "emotion": "shame",
+      "dialogue": "The man who can kill the husband's of hundreds of women..And is responsible for the death of innocent kids...No Indian woman not just me......will adorn her hair with the vermilion of his name! I'm proud of you son! The day that was lowered in shame because of my husband's deeds...It is held high once again thanks to you. It is said, of all God's gifts..The most precious is mother. I am so lucky that I have 2 of them!",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "causing harm and death",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s4223_bolly",
+      "emotion": "shame",
+      "dialogue": "No! No! No!!! I'm the son of this goddess! This is that goddess...Of whose forehead you wrote the stigma of shame, not pride! I'm the son of Vijay Malhotra! Who was called a traitor despite being a martyr!",
+      "target_person": "Vijay Malhotra",
+      "target_gender": "male",
+      "cause_raw": "being called a traitor",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p2300_bolly",
+      "emotion": "pride",
+      "dialogue": "I considered myself a widow the day..When my own son died along with other kids because of arms he sold! The man who can kill the husband's of hundreds of women..And is responsible for the death of innocent kids...No indian woman not just me......will adorn her hair with the vermilion of his name! I'm proud of you son! The day that was lowered in shame because of my husband's deeds...lt is held high once again thanks to you. It is said, of all God's gifts..The most precious is mother.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "son's actions to restore family honor",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2301_bolly",
+      "emotion": "pride",
+      "dialogue": "Leave my child! I'm the son of this goddess! This is that goddess...Of whose forehead you wrote the stigma of shame, not pride! I'm the son of Vijay Malhotra! Who was called a traitor despite being a martyr!",
+      "target_person": "son of Vijay Malhotra",
+      "target_gender": "male",
+      "cause_raw": "being son of a martyr",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2302_bolly",
+      "emotion": "pride",
+      "dialogue": "I considered myself a widow the day..When my own son died along with other kids because of arms he sold! The man who can kill the husband's of hundreds of women..And is responsible for the death of innocent kids...No Indian woman not just me......will adorn her hair with the vermilion of his name! I'm proud of you son! The day that was lowered in shame because of my husband's deeds...It is held high once again thanks to you. It is said, of all God's gifts..The most precious is mother.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "son's actions to restore family honor",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2303_bolly",
+      "emotion": "pride",
+      "dialogue": "No! No! No!!! I'm the son of this goddess! This is that goddess...Of whose forehead you wrote the stigma of shame, not pride! I'm the son of Vijay Malhotra! Who was called a traitor despite being a martyr!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being the son of a martyr",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

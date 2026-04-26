@@ -1,0 +1,172 @@
+{
+  "film": {
+    "id": "82903",
+    "title": "Tere Ghar Ke Samne",
+    "year": "1963",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/b9f3owGrinCLsUHGlCdtDO7Merm.jpg",
+    "overview": "Rakesh, a successful architect, falls in love with a girl: Sujata whose father happens to be his own father's business rival. Sujata's father unwittingly assigns Rakesh the contract for building his house. This sets the stage for an entertaining story about the love between two individuals and their efforts to reconcile their families."
+  },
+  "totals": {
+    "shame": 11,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 4
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 9
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4386_bolly",
+      "emotion": "shame",
+      "dialogue": "Boss, the chick is good. - You will get a good bashing. Which one? - Is this worth asking? - Not the left one but the right one. The behind one is shameless! Gooey! If this architect doesn't reach in the next five minutes, we will leave. But what are they both doing here? - That which we're doing. Waiting!",
+      "target_person": "women",
+      "target_gender": "female",
+      "cause_raw": "objectifying women",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4387_bolly",
+      "emotion": "shame",
+      "dialogue": "If this architect doesn't reach in the next five minutes, we will leave. But what are they both doing here? - That which we're doing. Waiting! Shameless! They stare as if they have never seen a girl. I hope that Seth hasn't left! Shall we ask them? - Ask. - I'll ask.",
+      "target_person": "two men",
+      "target_gender": "male",
+      "cause_raw": "staring at a girl",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4388_bolly",
+      "emotion": "shame",
+      "dialogue": "Then once or twice I too felt like... - Roopdayi, I hope you're not drunk right now. I just mentioned. - Is this something to be mentioned? O Lord... O Lord...When our elders used to recite the holy tales, we children used to say together...Praise Lord Ram! And nowadays while I'm chanting in the temple, my worthy son, stuck to some......cheap girl, says... Cha... Cha... Cha... Shame. Shame. Whose fault is it? Didn't I cry a lot asking you not to send our son abroad? But you had the ego that our son should get educated in America.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior and relationship",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4389_bolly",
+      "emotion": "shame",
+      "dialogue": "Pal listen, tell him that I'm with some... some... I'm busy with some queen. Did you understand? The same Seth. - He is very shameless! - Just see. Keep him waiting for an hour or so. He will get bugged up and leave himself. - Yes. I think Sulekha, I should meet him otherwise he will complain against me to the boss.",
+      "target_person": "Seth",
+      "target_gender": "male",
+      "cause_raw": "Disrespectful behavior",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4390_bolly",
+      "emotion": "shame",
+      "dialogue": "That the other house which is being built... ...is coming up well. - Yes. Better than our house? - Yes... No... as good as that. As good as that? And aren't you ashamed saying this? What to do? After all it's architect is also...Also? - I am. Are you? - Yes.",
+      "target_person": "architect",
+      "target_gender": "male",
+      "cause_raw": "not building a superior house",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4391_bolly",
+      "emotion": "shame",
+      "dialogue": "Listen. It is your father's letter. He writes that Rakesh has lost his mind. He is refusing to work. He has asked to contract some other architect. Ask Sulekh......what to do. It would be better if you can come to Delhi soon so that we can discuss. I didn't expect you to be so shameless. What is my new crime? - You couldn't come and say that, Sulekh forgive me......I committed a mistake, I'll stop building that other house.\" On the contrary you're coming and telling us to arrange for some other architect.",
+      "target_person": "Rakesh",
+      "target_gender": "male",
+      "cause_raw": "not fulfilling professional commitments",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s4392_bolly",
+      "emotion": "shame",
+      "dialogue": "Even the face of that cursed house shouldn't be visible from here. When you've called me your son, trust me like a son. - Why not? Why not? I want to do such a work that nobody feels ashamed of calling me a son. Very good. Why curtains are being put in front of the house?",
+      "target_person": "cursed house",
+      "target_gender": "male",
+      "cause_raw": "association with a cursed house",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4393_bolly",
+      "emotion": "shame",
+      "dialogue": "Your son's. - With whom? - You had selected the girl. But whose daughter is she? - Our neighbor's. Don't you feel ashamed to say this? - It seems that you're not happy with this wedding. Not happy? I demand to know who has given my name on this card? You're groom's father after all. The invitation will go on your name only.",
+      "target_person": "groom's father",
+      "target_gender": "male",
+      "cause_raw": "not being consulted for his son's wedding",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4394_bolly",
+      "emotion": "shame",
+      "dialogue": "And for that marriage which is not going to happen. Seth Karamchand will become famous like a joke. He will be disgraced. It is a matter of great shame. Why are you standing? Why don't you go somewhere and die? Daddy, what is her fault? You had fixed this marriage.",
+      "target_person": "Seth Karamchand",
+      "target_gender": "male",
+      "cause_raw": "failed marriage arrangement",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4395_bolly",
+      "emotion": "shame",
+      "dialogue": "I haven't heard this but this is certain the houses were built after the wedding was fixed. Brother, theirs seem to be a very old friendship. - They are childhood chums. Is there no law that can be an answer to this shameless insolence? I'm crying, weeping, shouting and screaming... I'm bellowing... that......this marriage won't happen... won't... won't......and the guests are just pouring in and the wedding music is playing on. And that person, whom I want to shoot, is not even coming in front of me.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "forced into a marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4396_bolly",
+      "emotion": "shame",
+      "dialogue": "Like a toad in the well, both of you want to see the world from your own narrow......vision. If one doesn't know you well, he will think that both of you are clowns. Clown? Stop him. - You like the girl, he likes the boy still both of you're against......this marriage. Though we're not compelled to take your permission......still we want to marry by your permission, in your house. So that no one can raise his finger and say that Lala Jagannath's son......has run away with Seth Karamchand's daughter. - Have some shame. Some shame! If not for the question of your prestige, this marriage would have happened long back. But we've decided that without your blessings we won't marry.",
+      "target_person": "Lala Jagannath and Seth Karamchand",
+      "target_gender": "male",
+      "cause_raw": "opposing their children's choice of marriage partner",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p2418_bolly",
+      "emotion": "pride",
+      "dialogue": "I've no relation with people like you. Did you listen? He is scolding them. - Why brother, what happened? Very proud of money? When my father hasn't tolerated anybody's eyes, how would I? He was saying that if I don't make Seth Karamchand's house, he will pay me double......I said clearly...\"How dare you talk cheap with me? I'll make you straight.\" You borrow money from people and swindle it off. You're a fraud and a cheat!",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "standing up against disrespect",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

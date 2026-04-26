@@ -1,0 +1,316 @@
+{
+  "film": {
+    "id": "19404",
+    "title": "Dilwale Dulhania Le Jayenge",
+    "year": "1995",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+    "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga."
+  },
+  "totals": {
+    "shame": 16,
+    "pride": 12
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 4
+    },
+    {
+      "label": "Parental Pride",
+      "count": 3
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 3
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Alcoholism",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4,
+      "male": 10
+    },
+    "pride": {
+      "male": 12
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1205_bolly",
+      "emotion": "shame",
+      "dialogue": "She's shy! See Lajjo? That's our etiquette, our culture My daughter is still so shamefaced. I'm not a failure In the heart of London, I've kept India alive! Still staring? Lajjo, your daughter's wedding! Celebrate it with sweets",
+      "target_person": "Lajjo's daughter",
+      "target_gender": "female",
+      "cause_raw": "Being shy",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1206_bolly",
+      "emotion": "shame",
+      "dialogue": "Will you put it down? - Not that umbrella Here you are. A pound extra? No two. Keep it, okay? Shameless! You call yourself a Hindustani? You give India a bad name You're a liar and insolent! Get out of here",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "dishonesty and rudeness",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1207_bolly",
+      "emotion": "shame",
+      "dialogue": "Rev up! Babuji What is the matter? You're late. - Bloody shameless scoundrel They call themselves Hindustani! Blot on India! Ought to drown themselves Rascals! No shame, no decency. How to respect their elders...they don't even know. - Have you had a fight?",
+      "target_person": "Babuji",
+      "target_gender": "male",
+      "cause_raw": "Disrespect towards elders",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1208_bolly",
+      "emotion": "shame",
+      "dialogue": "What is the matter? You're late. - Bloody shameless scoundrel They call themselves Hindustani! Blot on India! Ought to drown themselves Rascals! No shame, no decency. How to respect their elders...they don't even know. - Have you had a fight? Scum! He came for beer. I told him the store is shut. He took it perforce He even broke the statue of The Goddess! Bloody half-caste!",
+      "target_person": "unknown",
+      "target_gender": "male",
+      "cause_raw": "disrespecting elders and religious sentiments",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1209_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you, fragrance or poison? Come, let me touch you About last night, I'm ashamed I misbehaved with you I wanted to tell you something else",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "misbehavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1210_bolly",
+      "emotion": "shame",
+      "dialogue": "Now, nothing can go wrong What's that? - Life Aren't you ashamed to drink in the presence of a lady? Better than dying before the lady! If you wish to live on...you too should have a bit, Senorita. - Don't you dare come near me All right, don't",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "drinking alcohol in front of a lady",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s1211_bolly",
+      "emotion": "shame",
+      "dialogue": "It's a matter of hearts. Keep it in your heart For a signal from your flying tresses...\"with bated breath, the bachelors await your suit\" The maidens will go into hiding out of shame...\"for these are all madmen from town come to our village\" Keep your eyes downcast: Keep yourself chaste Keep your eyes downcast: Keep yourself chaste",
+      "target_person": "maidens",
+      "target_gender": "female",
+      "cause_raw": "not maintaining modesty",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1212_bolly",
+      "emotion": "shame",
+      "dialogue": "No, maybe same like yesterday I've decided. Today I知 talking it over with Raj Is it something to be ashamed of? - Raj is here Back? So early? Raj! My precious son! Come here. We were just talking of you",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "Discussing personal matters with Raj",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s5045_bolly",
+      "emotion": "shame",
+      "dialogue": "She's shy! See Lajjo? That's our etiQuette, our culture My daughter is still so shamefaced. I'm not a failure In the heart of London, I've kept india alive! Still staring? Lajjo, your daughter's wedding! Celebrate it with sweets",
+      "target_person": "Lajjo's daughter",
+      "target_gender": "female",
+      "cause_raw": "Being shy",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s5046_bolly",
+      "emotion": "shame",
+      "dialogue": "Will you put it down? . Not that umbrella Here you are. A pound eXTra? No two. keep it, okay? Shameless! You call yourself a Hindustani? You give india a bad name You're a liar and insolent! Get out of here",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "dishonesty and rudeness",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s5047_bolly",
+      "emotion": "shame",
+      "dialogue": "rev up! Babuji What is the matter? You're late. . Bloody shameless scoundrel They call themselves Hindustani! Blot on india! Ought to drown themselves rascals! No shame, no decency. How to respect their elders...they don't even know. . Have you had a fight?",
+      "target_person": "Babuji",
+      "target_gender": "male",
+      "cause_raw": "Disrespect towards elders",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s5048_bolly",
+      "emotion": "shame",
+      "dialogue": "What is the matter? You're late. . Bloody shameless scoundrel They call themselves Hindustani! Blot on india! Ought to drown themselves rascals! No shame, no decency. How to respect their elders...they don't even know. . Have you had a fight? Scum! He came for beer. I told him the store is shut. He took it perforce He even broke the statue of The Goddess! Bloody half.caste!",
+      "target_person": "unknown",
+      "target_gender": "male",
+      "cause_raw": "disrespecting elders and religious sentiments",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s5049_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you, fragrance or poison? Come, let me touch you About last night, I'm ashamed I misbehaved with you I wanted to tell you something else",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "misbehavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5050_bolly",
+      "emotion": "shame",
+      "dialogue": "Now, nothing can go wrong What's that? . Life Aren't you ashamed to drink in the presence of a lady? Betterthan dying before the lady! If you wish to live on...you too should have a bit, Senorita. . Don't you dare come near me All right, don't",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "drinking alcohol in front of a lady",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s5051_bolly",
+      "emotion": "shame",
+      "dialogue": "it's a matter of hearts. keep it in your heart For a signal from your flying tresses...''with bated breath, the bachelors await your suit'' The maidens will go into hiding out of shame...''for these are all madmen from town come to our village'' keep your eyes downcast; keep yourself chaste keep your eyes downcast; keep yourself chaste",
+      "target_person": "maidens",
+      "target_gender": "female",
+      "cause_raw": "not maintaining modesty",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s5052_bolly",
+      "emotion": "shame",
+      "dialogue": "No, maybe same like yesterday I've decided. Today I'm talking it over with raj Is it something to be ashamed of? . raj is here Back? So early? raj! My precious son! Come here. We were just talking of you",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "Discussing personal matters with Raj",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p633_bolly",
+      "emotion": "pride",
+      "dialogue": "I hear someone has failed. The Dean has decided...to announce his name in public You've made Dharamveer Malhotra stand an inch and a half taller in his shoes! I don't think you heard it right. - I knew, someday you'd make me proud! And not only me, the whole dynasty is proud of you! Look, they smile at you My great grandfather Diwan Brijnath never went to school",
+      "target_person": "Dharamveer Malhotra",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p634_bolly",
+      "emotion": "pride",
+      "dialogue": "You've made Dharamveer Malhotra stand an inch and a half taller in his shoes! I don't think you heard it right. - I knew, someday you'd make me proud! And not only me, the whole dynasty is proud of you! Look, they smile at you My great grandfather Diwan Brijnath never went to school His son, my grandfather Diwan Dwarkanath failed...his fourth standard examinations. My father, your grandfather...Diwan Pushkarnath, failed his eighth standard examinations",
+      "target_person": "Dharamveer Malhotra",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p635_bolly",
+      "emotion": "pride",
+      "dialogue": "Set sail in stormy waters, and you're in danger of sinking You were so little when we brought you here. And now...They said that a grown-up daughter is a burden on a man But a daughter like you, makes a father's chest swell with pride! You're my good girl Will you give something if I ask you? - Whatever you wish",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "having a good daughter",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p636_bolly",
+      "emotion": "pride",
+      "dialogue": "Your son has deceived all of us. He has shown us where he belongs I won't let my daughter marry a liar! - Enough! I am proud of my son. Don't incite me to passion Kuljit and Raj are fighting at the station We must go there! One might kill the other!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's actions",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2839_bolly",
+      "emotion": "pride",
+      "dialogue": "I hear someone has failed. The Dean has decided...to announce his name in public. You've made Dharamveer Malhotra stand an inch and a half taller in his shoes! I don't think you heard it right. - I knew, someday you'd make me proud! And not only me, the whole dynasty is proud of you! Look, they smile at you. My great grandfather Diwan Brijnath never went to school.",
+      "target_person": "Dharamveer Malhotra",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2840_bolly",
+      "emotion": "pride",
+      "dialogue": "You've made Dharamveer Malhotra stand an inch and a half taller in his shoes! I don't think you heard it right. - I knew, someday you'd make me proud! And not only me, the whole dynasty is proud of you! Look, they smile at you. My great grandfather Diwan Brijnath never went to school. His son, my grandfather Diwan Dwarkanath failed......his fourth standard examinations. My father, your grandfather...Diwan Pushkarnath, failed his eighth standard examinations.",
+      "target_person": "Dharamveer Malhotra",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2841_bolly",
+      "emotion": "pride",
+      "dialogue": "Set sail in stormy waters, and you're in danger of sinking. You were so little when we brought you here. And now...They said that a grown-up daughter is a burden on a man. But a daughter like you, makes a father's chest swell with pride! You're my good girl. Will you give something if I ask you? - Whatever you wish.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "having a good daughter",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p2842_bolly",
+      "emotion": "pride",
+      "dialogue": "Your son has deceived all of us. He has shown us where he belongs. I won't let my daughter marry a liar! - Enough! I am proud of my son. Don't incite me to passion. Kuljit and Raj are fighting at the station. We must go there! One might kill the other!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's actions",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2843_bolly",
+      "emotion": "pride",
+      "dialogue": "I hear someone has failed. The Dean has decided...to announce his name in public You've made Dharamveer Malhotra stand an inch and a half taller in his shoes! I don't think you heard it right. . I knew, someday you'd make me proud! And not only me, the whole dynasty is proud of you! Look, they smile at you My great grandfather Diwan Brijnath neverwent to school",
+      "target_person": "Dharamveer Malhotra",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2844_bolly",
+      "emotion": "pride",
+      "dialogue": "You've made Dharamveer Malhotra stand an inch and a half taller in his shoes! I don't think you heard it right. . I knew, someday you'd make me proud! And not only me, the whole dynasty is proud of you! Look, they smile at you My great grandfather Diwan Brijnath neverwent to school His son, my grandfather Diwan Dwarkanath failed...his fourth standard examinations. My father, your grandfather...Diwan Pushkarnath, failed his eighth standard examinations",
+      "target_person": "Dharamveer Malhotra",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2845_bolly",
+      "emotion": "pride",
+      "dialogue": "Set sail in stormy waters, and you're in danger of sinking You were so little when we brought you here. And now...They said that a grown.up daughter is a burden on a man But a daughter like you, makes a father's chest swell with pride! You're my good girl Will you give something if I ask you? . Whatever you wish",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "having a good daughter",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p2846_bolly",
+      "emotion": "pride",
+      "dialogue": "Your son has deceived all of us. He has shown us where he belongs I won't let my daughter marry a liar! . Enough! I am proud of my son. Don't incite me to passion kuljit and raj are fighting at the station We must go there! One might kill the other!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's actions",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

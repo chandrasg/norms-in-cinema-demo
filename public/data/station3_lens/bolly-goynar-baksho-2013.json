@@ -1,0 +1,186 @@
+{
+  "film": {
+    "id": "213763",
+    "title": "Goynar Baksho",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/v0H3pgHolg2kGt0MUKBIeTMol4y.jpg",
+    "overview": "Shirshendu Mukhopadhyay's famous tale of 3 generations of women & their changing position in society,seen in relation to a box of jewels, handed down from one generation to the next. A film by Aparna Sen."
+  },
+  "totals": {
+    "shame": 13,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 5
+    },
+    {
+      "label": "Promiscuity",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 8
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2204_bolly",
+      "emotion": "shame",
+      "dialogue": "Ruby studded bangles - cancelled ! Just look at that ! Got him tiedto her apron strings already ! Shameless hussy ! Saw that ? Measly gold chain for me & Burmese rubies for her !",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "jealousy and greed",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2205_bolly",
+      "emotion": "shame",
+      "dialogue": "If you are, your child will die too ! Don't you dare sleep with your husband ! Sleep separately. Got that, shameless hussy ?. No salt in the mutton. Sat it ! Saltit ! - Call this cooking ? - What's wrong ?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "accused of being promiscuous and poor cooking skills",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2206_bolly",
+      "emotion": "shame",
+      "dialogue": "Before eyeing the house...... you'd better save your rook ! Trying to scare me off ! What a shame ! Everything's going...everything ! Shame !",
+      "target_person": "opponent",
+      "target_gender": "unclear",
+      "cause_raw": "losing in a game",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2207_bolly",
+      "emotion": "shame",
+      "dialogue": "Trying to scare me off ! What a shame ! Everything's going...everything ! Shame ! Shame on me ! Couldn't save a thing ! Shame ! Oh my goodness !",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "inability to protect or save something",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2208_bolly",
+      "emotion": "shame",
+      "dialogue": "What a shame ! Everything's going...everything ! Shame ! Shame on me ! Couldn't save a thing ! Shame ! Oh my goodness ! Oh, Lata !",
+      "target_person": "Speaker",
+      "target_gender": "female",
+      "cause_raw": "inability to protect or save something",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2209_bolly",
+      "emotion": "shame",
+      "dialogue": "Everything's going...everything ! Shame ! Shame on me ! Couldn't save a thing ! Shame ! Oh my goodness ! Oh, Lata ! Can you do me a favour ?",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "inability to protect or save something",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2210_bolly",
+      "emotion": "shame",
+      "dialogue": "it's not that easy to run a business ! The shop will wind up soon Your son and his wife......will come back shamefaced There won't be any need forwords ! Pishima !",
+      "target_person": "son and his wife",
+      "target_gender": "unclear",
+      "cause_raw": "failure in business",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2211_bolly",
+      "emotion": "shame",
+      "dialogue": "My brother & his wife were very lucky......fort hey died before......they met agirl like you ! Lowly ! Lowly ! Lowly ! Lowly ! Brazen hussy, bringing shame ! Ruining our familyname ! Now you want to start your game......of doing business ! Shame !",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "bringing dishonor to the family",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2212_bolly",
+      "emotion": "shame",
+      "dialogue": "Brazen hussy, bringing shame ! Ruining our familyname ! Now you want to start your game......of doing business ! Shame ! Did you hear my Father's words ? Hmm ?",
+      "target_person": "female character",
+      "target_gender": "female",
+      "cause_raw": "engaging in business activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s2213_bolly",
+      "emotion": "shame",
+      "dialogue": "Why ?. What's that jackass there for ? Your husband ! Can't bear to part with him for a second, can you ? Shameless hussy ! Always wanting to cuddle ! I've only made threats so far,......but when I really make you a widow......you'll know what's what !",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being affectionate with her husband",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s2214_bolly",
+      "emotion": "shame",
+      "dialogue": "Always wanting to cuddle ! I've only made threats so far,......but when I really make you a widow......you'll know what's what ! Shameless, low-born bitch ! Please Pishima ! Stop cursing & think about expenses !",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being affectionate",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s2215_bolly",
+      "emotion": "shame",
+      "dialogue": "How can the priceincrease by 100 in 7 days ? I knew there was something fishy ! What a shame ! I was so confident of yourreliability ! You didn't keep my faith !",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "unreliability and dishonesty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2216_bolly",
+      "emotion": "shame",
+      "dialogue": "Just martyred in thewar ! Ghosts ? Shame on you ! Never call theblind blind thelamelame & ghosts ghosts...to their faces ! lthurts their feelings !",
+      "target_person": "blind lame and dead people",
+      "target_gender": "unclear",
+      "cause_raw": "calling out their disabilities and death",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p1145_bolly",
+      "emotion": "pride",
+      "dialogue": "What were you doing ? Sleeping ? Serves you right ! So proud of your culinary skills ! What happened to you today ?. The mutton was inedible !",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "culinary skills",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

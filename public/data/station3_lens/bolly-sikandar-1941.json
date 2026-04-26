@@ -1,0 +1,165 @@
+{
+  "film": {
+    "id": "326143",
+    "title": "Sikandar",
+    "year": "1941",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/avlYXNDoqQ5pgXnLCXD2vzwuOPh.jpg",
+    "overview": "The film begins after Alexander the Great (Sikander in Hindi/Urdu) conquers Persia and the Kabul valley and approaches the Indian border at Jhelum. Sohrab Modi plays the Indian king Puru (Porus to the Greeks).  The story goes that when Sikander defeated Porus and imprisoned him, he asked Porus how would he like to be treated. Porus replied the same way a defeated king is treated by the winner (meaning killed)."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 11
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 3
+    },
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Patriotism",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4185_bolly",
+      "emotion": "shame",
+      "dialogue": "But where'll you go? To Puru? Yes, to him. Are you not ashamed of leaving your brother and going to his enemy? If my brother is not ashamed....of going to the enemy of this country, Sikander....then why will the sister be ashamed of going to india's friend, Puru? You try to enslave india.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "betraying his country",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4186_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes, to him. Are you not ashamed of leaving your brother and going to his enemy? If my brother is not ashamed....of going to the enemy of this country, Sikander....then why will the sister be ashamed of going to india's friend, Puru? You try to enslave india. I will try to retain the freedom of india.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "betraying his country",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p2267_bolly",
+      "emotion": "pride",
+      "dialogue": "The king should know....that Jupiter's son Alexander is out to conquer the world. But, his soft heart does not wish....that unnecessarily innocents should be killed. That's why he wants....that the way King Ambi and his friends....bent their heads in front of Unan....and have saved the peace of their regions....in the same way, if you surrender to Alexander....then even your kingdom, strength, pride will remain as it is...you need to only give 200 elephants....2000 Hindustani swords....20,000 gold eggs....every year as tax. In lieu of this, ALexander gives an assurance....that there will be no interference in your rule. instead, if a third power attacks you....then Alexander's army will help you.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2268_bolly",
+      "emotion": "pride",
+      "dialogue": "Not from the lips of other world. What wrong has my India done to you? Has anyone from amongst us taken away food, clothes....or your national pride? Has anyone among us forced you to go against your wishes? if no..then on what basis are you thinking about making Hindustan your slave?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2269_bolly",
+      "emotion": "pride",
+      "dialogue": "Ask her instead. By garden, I mean India. and by thief I mean the king Sikandar. He's here to crush our honour and pride. Our people are least bothered. She was singing a romantic song.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Protecting nation's honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2270_bolly",
+      "emotion": "pride",
+      "dialogue": "Leave your house, your comforts....and march to protect your country. Bless you, my child. Take an oath.. a pledge....that you'll die but not let your pride be fall in enemy's hand. Don't worry. We can die for our country.",
+      "target_person": "child",
+      "target_gender": "unclear",
+      "cause_raw": "protecting the country",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2271_bolly",
+      "emotion": "pride",
+      "dialogue": "Samar, you take a troupe of 2000 warriors and march. if it's Abhisar's force, welcome them. And if it's Sikandar, fight back. I'm proud of your warrior ship and intellect. Stop! Stop! Such a huge army?",
+      "target_person": "Samar",
+      "target_gender": "male",
+      "cause_raw": "warrior ship and intellect",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2272_bolly",
+      "emotion": "pride",
+      "dialogue": "He is martyr. And I'm happy he was my son. He honoured my pride. He made his mother proud. He honoured our country's bravery.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "son's bravery and martyrdom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2273_bolly",
+      "emotion": "pride",
+      "dialogue": "And I'm happy he was my son. He honoured my pride. He made his mother proud. He honoured our country's bravery. I can see the tears of anger in your eyes.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's bravery and honour to country",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2274_bolly",
+      "emotion": "pride",
+      "dialogue": "My brave, fiery and iron-man warriors! You're the children of great warriors who fought....but never ran away from the battlefield. You're the citizen of the country....that had lost many children....but never let it's pride crush. Today an egoistic foreigner wants you to....bring the flag of India down. Or else, he'll destroy us.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "defending the country",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2275_bolly",
+      "emotion": "pride",
+      "dialogue": "Today an egoistic foreigner wants you to....bring the flag of India down. Or else, he'll destroy us. if you want to save your country's pride....if you want your country's flag to always hoist high....then gather all your strengths and march. And even after meeting death, divert the enemy. And prove this to the world....that you can't just live but die for your country.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "patriotism and defending the country",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2276_bolly",
+      "emotion": "pride",
+      "dialogue": "There comes a night of celebration. There comes a night of celebration. I should take proud of this night. I should take proud of this night. I should sacrifice life for this night.",
+      "target_person": "<speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2277_bolly",
+      "emotion": "pride",
+      "dialogue": "There comes a night of celebration. I should take proud of this night. I should take proud of this night. I should sacrifice life for this night. I should sacrifice life for this night.",
+      "target_person": "<speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

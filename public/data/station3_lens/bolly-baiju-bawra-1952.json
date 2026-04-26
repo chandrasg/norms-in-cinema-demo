@@ -1,0 +1,190 @@
+{
+  "film": {
+    "id": "159187",
+    "title": "Baiju Bawra",
+    "year": "1952",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/3WfK4t6FjLBV7L95SvbgthCOfVi.jpg",
+    "overview": "During the reign of Akbar the Great, a young singer sets out to avenge his father's death and challenges the killer to a musical duel."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4,
+      "male": 5
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s379_bolly",
+      "emotion": "shame",
+      "dialogue": "Let it be Gauri. Look at this girl. She has grown up so much, but....she does not have any shame. She keeps roaming around all day with this boy. Gauri, Gauri.",
+      "target_person": "Gauri",
+      "target_gender": "female",
+      "cause_raw": "Roaming around with a boy",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s380_bolly",
+      "emotion": "shame",
+      "dialogue": "She keeps roaming around all day with this boy. Gauri, Gauri. And look, where did this shameless....come from in this village? Who knows who his mother and....father are and what caste he belongs to. Narpath, when will you get married to Gauri.",
+      "target_person": "Gauri",
+      "target_gender": "female",
+      "cause_raw": "Roaming around with a boy of unknown caste",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s381_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes, Mohan will be defamed in the society. This is the difference daughter, did you hear. 'And look, where did this shameless....come from in this village.' 'Who knows who his mother and....father are and what caste he belongs to?' What are you thinking son?",
+      "target_person": "Mohan",
+      "target_gender": "male",
+      "cause_raw": "Unknown parentage and caste",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s382_bolly",
+      "emotion": "shame",
+      "dialogue": "Someone is singing far away, singing in this tune. Without you, he is completely lost. There is a guard of shame on my doorsteps. The guard of shame, the guard of shame. My feet are chained up, my feet are chained up.",
+      "target_person": "singer",
+      "target_gender": "male",
+      "cause_raw": "expressing emotions openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s383_bolly",
+      "emotion": "shame",
+      "dialogue": "Without you, he is completely lost. There is a guard of shame on my doorsteps. The guard of shame, the guard of shame. My feet are chained up, my feet are chained up.  Whenever I think of someone, my heart is very hurt.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "feeling of guilt or regret",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s384_bolly",
+      "emotion": "shame",
+      "dialogue": "Why? - What is the matter? Is that so? - What is it? Very shameful! - How? Gauri goes every night to meet Baiju on the dunes. You should be ashamed.",
+      "target_person": "Gauri",
+      "target_gender": "female",
+      "cause_raw": "meeting Baiju at night",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s385_bolly",
+      "emotion": "shame",
+      "dialogue": "Very shameful! - How? Gauri goes every night to meet Baiju on the dunes. You should be ashamed. I will feel ashamed later. First I will kill the one who will falsely accuse my daughter.",
+      "target_person": "Gauri",
+      "target_gender": "female",
+      "cause_raw": "meeting a man at night",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s386_bolly",
+      "emotion": "shame",
+      "dialogue": "Gauri goes every night to meet Baiju on the dunes. You should be ashamed. I will feel ashamed later. First I will kill the one who will falsely accuse my daughter. No matter whom he is!",
+      "target_person": "Gauri's father",
+      "target_gender": "male",
+      "cause_raw": "daughter's alleged inappropriate behavior",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s387_bolly",
+      "emotion": "shame",
+      "dialogue": "He is hiding. Stupid. - Father - Keep quiet! Don't you feel ashamed to open your mouth? You have created this problem. You did not ask or think about anything.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "causing trouble without thinking",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s388_bolly",
+      "emotion": "shame",
+      "dialogue": "Manner less, you don't have any respect. But we are respectable people. You fool, shame on you. Baiju! Don't put the boat in Baiju! It will capsize in the storm.",
+      "target_person": "Baiju",
+      "target_gender": "male",
+      "cause_raw": "Disrespectful behavior",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p167_bolly",
+      "emotion": "pride",
+      "dialogue": "There, now there is darkness in your house. The engagement happened here....and the marriage is taking place there. How can it happen? It is the question of the pride of my family. It is not a joke. We will have to do something about it.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "family honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p168_bolly",
+      "emotion": "pride",
+      "dialogue": "Why are you still asleep, wake up....and think about the consequences.\" Become humans. Many have come here to show off their pride. They tried to show off for a little while. They had forgotten that this world is a guest house.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p169_bolly",
+      "emotion": "pride",
+      "dialogue": "Crown of jewels, a canopy over the head....and a betel leaf in the mouth. Like a king, he sings the Puriya tune. I saw your strange pride and honour, Lord. In the gardens, in the jungle, and in the blue sky. I can see your grandeur, your grandeur.",
+      "target_person": "<speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p170_bolly",
+      "emotion": "pride",
+      "dialogue": "There is life everywhere. The victorious singer attains the world. My friends are my pride. Today the heart is singing merrily. The lover sings because of his love.",
+      "target_person": "friends",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "film": {
+    "id": "208540",
+    "title": "Once Upon a Time in Mumbai Dobaara!",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/guXvxt6hvZyQqHXGYuvujtuxcCQ.jpg",
+    "overview": "Shoaib's life takes a precarious turn when he finds himself pitted against a younger contemporary - not just in \"business\", but in love..."
+  },
+  "totals": {
+    "shame": 15,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 7
+    },
+    {
+      "label": "Betrayal",
+      "count": 3
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 15
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1215_bolly",
+      "emotion": "shame",
+      "dialogue": "Make sure you lock my tyre if it ever happens to me. That shall not be needed Aslam...the one who hungers for love... has no hunger for food. You wimp, coward, weakling ...aren't you ashamed of attempting to commit suicide? Come on, step down from there, step down. Hey, what makes you think I am trying to commit suicide?",
+      "target_person": "Aslam",
+      "target_gender": "male",
+      "cause_raw": "Attempting to commit suicide",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s1216_bolly",
+      "emotion": "shame",
+      "dialogue": "Your daughter is as beautiful  as the taj mahal, And we are awestruck Why don't you let Salma  be a bride? Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy, shame upon you Tayab Ali - the enemy of IoVe, shame upon you",
+      "target_person": "Tayab Ali",
+      "target_gender": "male",
+      "cause_raw": "not allowing his daughter to get married",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1217_bolly",
+      "emotion": "shame",
+      "dialogue": "Why don't you let Salma  be a bride? Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy, shame upon you Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy- shame upon you",
+      "target_person": "Tayab Ali",
+      "target_gender": "male",
+      "cause_raw": "not allowing Salma to get married",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1218_bolly",
+      "emotion": "shame",
+      "dialogue": "Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy, shame upon you Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy- shame upon you The girl and boy are ready",
+      "target_person": "Tayab Ali",
+      "target_gender": "male",
+      "cause_raw": "being the enemy of love",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1219_bolly",
+      "emotion": "shame",
+      "dialogue": "my best friends enemy, shame upon you Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy- shame upon you The girl and boy are ready But the priest objects",
+      "target_person": "Tayab Ali",
+      "target_gender": "male",
+      "cause_raw": "being an enemy and objecting to love",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1220_bolly",
+      "emotion": "shame",
+      "dialogue": "He breaks their heart Why don't you let Salma  be a bride? Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy- shame upon you Tayab Ali - the enemy of IoVe, shame upon you",
+      "target_person": "Tayab Ali",
+      "target_gender": "male",
+      "cause_raw": "preventing Salma from getting married",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1221_bolly",
+      "emotion": "shame",
+      "dialogue": "Why don't you let Salma  be a bride? Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy- shame upon you Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy - shame upon you",
+      "target_person": "Tayab Ali",
+      "target_gender": "male",
+      "cause_raw": "preventing Salma from getting married",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1222_bolly",
+      "emotion": "shame",
+      "dialogue": "Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy- shame upon you Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy - shame upon you You are an old player",
+      "target_person": "Tayab Ali",
+      "target_gender": "male",
+      "cause_raw": "being an enemy and manipulative",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1223_bolly",
+      "emotion": "shame",
+      "dialogue": "my best friends enemy- shame upon you Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy - shame upon you You are an old player But we are the new",
+      "target_person": "Tayab Ali",
+      "target_gender": "male",
+      "cause_raw": "being an enemy and old player",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1224_bolly",
+      "emotion": "shame",
+      "dialogue": "Once revealed  you are in trouble  Why don't you let Salma  be a bride? Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy - shame upon you Oh my eyes are desperate for a glimpse",
+      "target_person": "Tayab Ali",
+      "target_gender": "male",
+      "cause_raw": "not letting Salma get married",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1225_bolly",
+      "emotion": "shame",
+      "dialogue": "Why don't you let Salma  be a bride? Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy - shame upon you Oh my eyes are desperate for a glimpse My desires are on fire",
+      "target_person": "Tayab Ali",
+      "target_gender": "male",
+      "cause_raw": "not allowing Salma to marry",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1226_bolly",
+      "emotion": "shame",
+      "dialogue": "At least now Let two hearts meet Why don't you let Salma  be a bride? Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy - shame upon you You are quite theatrical!",
+      "target_person": "Tayab Ali",
+      "target_gender": "male",
+      "cause_raw": "preventing Salma from getting married",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1227_bolly",
+      "emotion": "shame",
+      "dialogue": "Why don't you let Salma  be a bride? Tayab Ali - the enemy of IoVe, shame upon you my best friends enemy - shame upon you You are quite theatrical! What with all the singing and dancing.",
+      "target_person": "Tayab Ali",
+      "target_gender": "male",
+      "cause_raw": "not allowing Salma to marry",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1228_bolly",
+      "emotion": "shame",
+      "dialogue": "EVen as a kid, I'd dress up in costumes. These two are killing me. You should  be ashamed. -Hey Dedh Taang..do you plan  on compressing my car to half its size? What is it that you were saying? I wasn't saying, I was asking...what do you do?",
+      "target_person": "Dedh Taang",
+      "target_gender": "male",
+      "cause_raw": "Unusual behavior or profession",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1229_bolly",
+      "emotion": "shame",
+      "dialogue": "What? That you...haVe done intercourse. I did tell one...and why not? what's there to be ashamed of. You are dead, Aslam...you haVe stoked all  the wrong sparks. I don't get this...earlier, I was distressed about haVing had intercourse...now you seem distressed about the intercourse...why are you so scared of intercourse?",
+      "target_person": "Aslam",
+      "target_gender": "male",
+      "cause_raw": "having intercourse",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "p642_bolly",
+      "emotion": "pride",
+      "dialogue": "Deceiving is like second nature to him...even, the day I took him under my wing, he was deceiVing someone. Shohaib loved you a lot... I know it. His love is out of pride... and by force...it isn't love... it cannot be love. Boss will make you very happy...he will make your dreams come true before you can see them. Perhaps, even you won't  help me Aslam...but, he can  only snatch me...he will never have me.",
+      "target_person": "Shohaib",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p643_bolly",
+      "emotion": "pride",
+      "dialogue": "Do you know? I used to look at myself in the mirror and  secretly, laugh...now my fear, taunts me by repeating your name...since  childhood, this city has given me all of my rights...look... it turned it's back when it came to love...and  people say I am the bad guy. If someone were to take you away from me now...my pride, will haVe to accept defeat. The conspiracy of love, The game of love",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "love",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

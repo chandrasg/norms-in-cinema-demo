@@ -1,0 +1,209 @@
+{
+  "film": {
+    "id": "393615",
+    "title": "Sanjog",
+    "year": "1972",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fft1MyEyxMk02Fk2CWET03DgjmM.jpg",
+    "overview": "A woman accept a new job only to discover she is now the boss of the man she married in secret a few years ago."
+  },
+  "totals": {
+    "shame": 14,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 3
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 3
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 7
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1874_bolly",
+      "emotion": "shame",
+      "dialogue": "After sending son-in-law to Delhi, please dont say this. Whose son-in-law? Arent you ashamed to call my son your son-in-law? What is your status? You stay in a hut and dream of mansions!",
+      "target_person": "speaker's son-in-law's parent",
+      "target_gender": "male",
+      "cause_raw": "low socio-economic status",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1875_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll leave you home later. First lets eat food. I sent you there to find something or to beg? Arent you ashamed? Dont I give you food to eat? Will you do this again? Tell me! Why are you beating him?",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "begging for food",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s1880_bolly",
+      "emotion": "shame",
+      "dialogue": "Not at all, you are an old man! I'm a child, right? Don't move from here! What's this? Get up! Don't you have any shame? Why? You just called me a child. So, I'm relaxing in your lap.",
+      "target_person": "old man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1881_bolly",
+      "emotion": "shame",
+      "dialogue": "The one in the blue sari. She was so silly. Now there are only six girls. One has to lose, and another wins! There is no shame. One has to lose, and another wins! There is no shame. Six players are here, I hope they stay together.",
+      "target_person": "girl in blue sari",
+      "target_gender": "female",
+      "cause_raw": "being silly or incompetent",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1882_bolly",
+      "emotion": "shame",
+      "dialogue": "Now there are only six girls. One has to lose, and another wins! There is no shame. One has to lose, and another wins! There is no shame. Six players are here, I hope they stay together. She's gone!",
+      "target_person": "girl who lost",
+      "target_gender": "female",
+      "cause_raw": "losing in a game",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1883_bolly",
+      "emotion": "shame",
+      "dialogue": "The one with the beautiful eyes and a sweet voice. Now there are only five friends left. One has to lose, and another wins! There is no shame. One has to lose, and another wins! There is no shame. Five players play this game. Let's hope they stay together.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s1884_bolly",
+      "emotion": "shame",
+      "dialogue": "Now there are only five friends left. One has to lose, and another wins! There is no shame. One has to lose, and another wins! There is no shame. Five players play this game. Let's hope they stay together. She's gone. The one whose name is Rakhi.",
+      "target_person": "Rakhi",
+      "target_gender": "female",
+      "cause_raw": "Losing a game",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1885_bolly",
+      "emotion": "shame",
+      "dialogue": "She's gone. The one whose name is Rakhi. She was too clever. And now there are three. One has to lose, and another has to win. There is no shame. One has to lose, and another has to win. There is no shame. Three friends are playing. I hope they stay together.",
+      "target_person": "Rakhi",
+      "target_gender": "female",
+      "cause_raw": "Being too clever",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1886_bolly",
+      "emotion": "shame",
+      "dialogue": "She was too clever. And now there are three. One has to lose, and another has to win. There is no shame. One has to lose, and another has to win. There is no shame. Three friends are playing. I hope they stay together. You sit. - You sit.",
+      "target_person": "clever girl",
+      "target_gender": "female",
+      "cause_raw": "being too clever",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1887_bolly",
+      "emotion": "shame",
+      "dialogue": "Until now we were just speculating. Now, my son has brought me proof. It's shameful! Exchanging love letters. And looking at each other's photographs in office. I don't like this.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "having a romantic relationship in office",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1888_bolly",
+      "emotion": "shame",
+      "dialogue": "Miserable girl. The fact is, our collector, Ms. Asha....is in love with your husband, Mr. Mohan. - What? You're very naïve and innocent. It shames me to say this. But what can be done? There are illicit relations between....Ms. Asha and your husband. I guess you know what I mean? She must have understood, right?",
+      "target_person": "Mohan's wife",
+      "target_gender": "female",
+      "cause_raw": "Accusation of husband's infidelity",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s1889_bolly",
+      "emotion": "shame",
+      "dialogue": "Let's have dinner now. Come. Did I send you there to find out something or to beg? Are you shameless? Don't I feed you? Do I treat you badly? Will you repeat it?",
+      "target_person": "character being spoken to",
+      "target_gender": "unclear",
+      "cause_raw": "begging or showing desperation",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s1890_bolly",
+      "emotion": "shame",
+      "dialogue": "Not yet. But if this goes on. I will go crazy soon. What's wrong with you? Someone gives him new clothes like a beggar....and this shameless boy wears them and comes home. So what? After all he's just a child. A little child can be beaten and disciplined.",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "accepting charity",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s1891_bolly",
+      "emotion": "shame",
+      "dialogue": "Please, for God's sake don't go away from me. You couldn't understand. When you seek permission with bowed head to enter my room....I feel like dying out of shame. Women of this country have gone through a lot of trials. But the test that I'm going through....can never be found in any epic or history.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "feeling of shame due to husband's behavior",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p992_bolly",
+      "emotion": "pride",
+      "dialogue": "I agree she dances to earn a living, but why show the stomach? But why do you look so lost today? I forgot, a new collector was to come today...How is she? She must be very proud. Was she wearing a diamond or pearl necklace? Was her sari Banarasi or Banglori?",
+      "target_person": "new collector",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p999_bolly",
+      "emotion": "pride",
+      "dialogue": "My daughter is very well educated. She is well-cultured and intelligent. She will be the pride of your home. That's fine. May we see the girl first? Sure. Sister! Please bring Asha out.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "daughter's education and cultured behavior",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

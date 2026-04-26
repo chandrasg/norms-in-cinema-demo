@@ -1,0 +1,389 @@
+{
+  "film": {
+    "id": "612806",
+    "title": "Heer Ranjha",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5bEiMJUkt5WANB6UoyhOKcf8re2.jpg",
+    "overview": "A newer version of the popular love story of Heer (Sridevi) and Deedho (Anil Kapoor), who calls himself Ranjha after leaving his house and living incognito in Heer's village as a labourer in her father's (Shammi Kapoor) house. Heer and Deedho were childhood sweethearts, separated because of family animosities, which have grown over the years and kept on the boil by Kaheda (Anupam Kher), whose leg was irreparably fractured by Deedho's family and friends."
+  },
+  "totals": {
+    "shame": 23,
+    "pride": 9
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 3
+    },
+    {
+      "label": "Betrayal",
+      "count": 3
+    },
+    {
+      "label": "Marital Status",
+      "count": 3
+    },
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Alcoholism",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 10,
+      "female": 11
+    },
+    "pride": {
+      "male": 6,
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2346_bolly",
+      "emotion": "shame",
+      "dialogue": "Loitering around? -Absolutely ! You are always  roaming about in every street of the village . We feel  ashamed when people  tell us. that you sit by the well the entire day and stare at the girls  ! They are all lying!",
+      "target_person": "character being shamed",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior and disrespect towards women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2347_bolly",
+      "emotion": "shame",
+      "dialogue": "Who has dared to do this? He must be some devil  or some sinner. He wasn't ashamed or scared to sleep  here. Do not joke, Bego. Go and bring that damned Ludan here.",
+      "target_person": "Ludan",
+      "target_gender": "male",
+      "cause_raw": "disrespecting a sacred place",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2348_bolly",
+      "emotion": "shame",
+      "dialogue": "There she is We were looking for you in the entire village . And you are sitting here. May God have no mercy on you shameless  girls  We will see to it when the time comes But now, come with us Let's take her to my home Come. Will you come easily  or will we have to force you Come!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being alone in public",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2349_bolly",
+      "emotion": "shame",
+      "dialogue": "Will you come easily  or will we have to force you Come! No matter how many glittering  stars come together..my moon is still incomparable  ! You shameless  girls ! Have some shame It's you who should  feel  ashamed You were with Ranjha.. and gave the excuse that youwere meeting us Leave me",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being with a man",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2350_bolly",
+      "emotion": "shame",
+      "dialogue": "No matter how many glittering  stars come together..my moon is still incomparable  ! You shameless  girls ! Have some shame It's you who should  feel  ashamed You were with Ranjha.. and gave the excuse that you were meeting us Leave me What drug has Ranjha given you that you have forgotten your old  friends",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "disloyalty to friends",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2351_bolly",
+      "emotion": "shame",
+      "dialogue": "when you do not remember anything yourself  Do not drink so much You can go now. You should  be ashamed of yourself  ! If your child  has a flaw , you should  try and hide it ! But you.. You are trying to ruin my family  name !",
+      "target_person": "character being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "excessive drinking",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s2352_bolly",
+      "emotion": "shame",
+      "dialogue": "But you.. You are trying to ruin my family  name ! Oh God! Come Heer. Come inside. Shameless  man! - Come papa! It's not his fault , but it's the drinking ! Do not listen to him.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "alcoholism",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s2353_bolly",
+      "emotion": "shame",
+      "dialogue": "Even I could  not believe  it till I saw Sultan .. taking him away for treatment. So that means your uncle  will now drink the doctor's.. bitter medicine instead of Cannabis! And your Ranjha, he will dream about you day and night..and take your love to great heights! - Shameless  girl! 'In my courtyard. an unknown stranger has come",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "expressing love openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2354_bolly",
+      "emotion": "shame",
+      "dialogue": "Your love and affection had blinded  me! No, Mr. Chaudhary, she is innocent. But if you..Father, do not hit him! - Come on, you shameless  girl! Mother, you take this insolent  girl  home. And I will take care of this rascal. Come!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "disobedience/defiance",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2355_bolly",
+      "emotion": "shame",
+      "dialogue": "Consider your father to be dead. You have proved your insolence ! You have buried your father alive  with shame! No, dad. You can kill me if you want. But do not trash me with such words. Please  do not!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disobedience to father",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2356_bolly",
+      "emotion": "shame",
+      "dialogue": "If I had known you well then..this would  have never happened! Now I have to hide my face like a thief in my own house. Yourfather, who has the reputation.. to stand up against the entire world ..today he is hiding in shame in a dark room! Forget about eating, even aftertrying so much.. he has not even taken a drop of water! Now who shall we tell about this?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "actions of his child",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2357_bolly",
+      "emotion": "shame",
+      "dialogue": "Father! Father! Let it be. Let there be darkness! When I see your face in the light..I feel  even more ashamed of myself ! No, father! No! I am your culprit .",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "guilt and shame for wrongdoings",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2358_bolly",
+      "emotion": "shame",
+      "dialogue": "For the sake of the holy  love of these innocent children ..I place  my turban at your feet, Chaudhary! No, no, no! No. Tell this shameless  boy to go back to his village .... and ask some elderly  person from his house.... to come here. Till they do not come toour house personally ..there is no question of my consent or rejection! After all  , there are some rules  for everything.",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "not following traditional protocols for marriage proposal",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2359_bolly",
+      "emotion": "shame",
+      "dialogue": "My children ! May God be generous to you! Chaudhary! Shame on you! Have you no self -esteem left? And along  with that, you have also  killed  mine!",
+      "target_person": "Chaudhary",
+      "target_gender": "male",
+      "cause_raw": "loss of self-esteem",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2360_bolly",
+      "emotion": "shame",
+      "dialogue": "Heer's father, when you have taken such a big step..wait for some more time more! How do I wait? How? That shameless  Kedo is going about provoking the entire community! Tomorrow, if he gathers everyone and brings them here..then what answer will I give them? What answer will I give?",
+      "target_person": "Heer's father",
+      "target_gender": "male",
+      "cause_raw": "fear of societal judgement",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2361_bolly",
+      "emotion": "shame",
+      "dialogue": "Whom he has never loved? I would  like to make an announcement in this city..of cowards that I have loved someone.. and I haven't sinned! You shameless  girl! Unfortunate girl! I will bury you alive ! No, leave me! No! - Come with me.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "expressing love openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2362_bolly",
+      "emotion": "shame",
+      "dialogue": "He will never forgive you! Leave me! It is a shame! She is not a daughter. She is a burden. She is a risk. God forbid! Her craze will destroy us!",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "being a burden and risk to family",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2363_bolly",
+      "emotion": "shame",
+      "dialogue": "Otherwise they would  have allowed  us to sit.. near Heer during the wedding, would  not they? How will they allow  us to sit? Will not they feel  ashamed while  forcing her to agree? I do not think that she will agree easily . Why do I agree?",
+      "target_person": "Heer",
+      "target_gender": "female",
+      "cause_raw": "forced marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2364_bolly",
+      "emotion": "shame",
+      "dialogue": "Sultan , call your father. This girl  will not spare us! O God, what a shameless  girl  she is! She doesn't have any respect for her religion . and her customs! In the name of customs, you are selling  your self -respect..and why are you maligning  the customs?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "disrespecting religion and customs",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2365_bolly",
+      "emotion": "shame",
+      "dialogue": "Whatever fun you have had with your servant boyfriend..I have heard everything from the people . But then too, I considered your deeds to be the black  spots.. of the moon and I consented!. But now with your shamelessness , I feel  as if..I have married a prostitute! I am not a prostitute but you can make me one now! You are a man.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2366_bolly",
+      "emotion": "shame",
+      "dialogue": "Go and beg somewhere else ! You are very strong, why do not you earn.. your livelihood  through hard work? Aren't you ashamed to beg like this? I have not come to beg. I have come to take my right. - Are you out of your senses?",
+      "target_person": "beggar",
+      "target_gender": "unclear",
+      "cause_raw": "begging instead of working",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2367_bolly",
+      "emotion": "shame",
+      "dialogue": "I am this unfortunate girl's husband. No sir. My real  husband is my Ranjha. I had married this shameless  woman. That marriage was invalid . You rascal! I will  .. - Shut up! Who is right and who is wrong among you both..will not be decided over here, but in the court of our king.",
+      "target_person": "unfortunate girl's husband",
+      "target_gender": "male",
+      "cause_raw": "accused of invalid marriage",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s2368_bolly",
+      "emotion": "shame",
+      "dialogue": "He took a bribe and against my will  , he handed me. over to an unknown man! Wasn't that a crime? And the biggest crime he has done is that I was pleading ..and he took a bribe and announced my approval. It is a shame! She has insulted  me! Such a big insult ..such a big blame ! King, you will get the proof that this girl  is lying..from the testimony of her family  members.. in front of whom I had read the prayers for her wedding. And she had agreed.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "forced marriage and bribery",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p1221_bolly",
+      "emotion": "pride",
+      "dialogue": "We can do that  only if they free  themselves from tending toMauju Chaudhary. Mauju Chaudhary has  also come?-What  else? Look over there !Mr. Chaudhary, it's a matter of pride for any  family..to attend any of  your family functions ! Then, why  wouldn't we have come? Hey, Dido ! Come here Father.",
+      "target_person": "Mr. Chaudhary",
+      "target_gender": "male",
+      "cause_raw": "attending family functions",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1222_bolly",
+      "emotion": "pride",
+      "dialogue": "An ordinary man like me is destined to be with such a beauty! It maybe or not, but you are the grace of God..which was given to me and I it's my  religion to praise it And it's worship is the trial of my craziness ! Enough! Or I will be pride of my beauty. It's me who  should feel proud that I was destined to have you. Every vein was  restless !",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "having a loving partner",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1223_bolly",
+      "emotion": "pride",
+      "dialogue": "It maybe or not, but you are the grace of God..which was given to me and I it's my  religion to praise it And it's worship is the trial of my craziness ! Enough! Or I will be pride of my beauty. It's me who  should feel proud that I was destined to have you. Every vein was  restless ! And even the imaginations were  isolated !",
+      "target_person": "<speaker",
+      "target_gender": "male",
+      "cause_raw": "having the other person in life",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1224_bolly",
+      "emotion": "pride",
+      "dialogue": "Father, I beg of you!  Please grant me the favor of your approval. Chaudhary, where the limits of enmity and pride end..from there the limits of love begin. In order to  abolish the  feeling of revenge.... you do not need anyone's  blood but you need.... the storm of emotions! Let the poison of enmity that is there within you..be washed away by the tears of these innocent  children!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1225_bolly",
+      "emotion": "pride",
+      "dialogue": "O  Almighty, where have you brought me today? On one side my unfortunate daughter..is waiting  eagerly and on the other side, my brother..is asking me for  loyalty! On one side is this community and..on the other, is my pride! At this point, I am   completely  alone, my Lord! No father, you are not  alone!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "loyalty to community and family",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p1226_bolly",
+      "emotion": "pride",
+      "dialogue": "You   silly girl! Even God does not forgive a   rebellious  child. Your pride and your stubbornness will kill you. O unfortunate one! Be a  little  sensible!  Only the fortunate get a good life!",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1227_bolly",
+      "emotion": "pride",
+      "dialogue": "Wow brother! A brother has  Always been the symbol of. his sister's protection! Today, you have proved that wrong! Father, one day, for my happiness..you had   swallowed your pride and agreed. to my wedding with Ranjha. Today, for your happiness, I have given up my love. by covering  myself in  silence!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "daughter's sacrifice for his happiness",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1228_bolly",
+      "emotion": "pride",
+      "dialogue": "Please hand me over to my Ranjha. How do I hand you over?  Should I lower my pride in the entire community?  Should I  malign the name of my  family? The same  relatives, friends, brothers and sisters..who had danced in my wedding, will be suspicious.. of my  manliness!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "maintaining family honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1229_bolly",
+      "emotion": "pride",
+      "dialogue": "'O my dear, your groom is here, he is come to take you. ' 'O my dear, your groom is here, he is come to take you. ' If God is so proud of his love, then today I will break it. These pots, these  celebrations..this sound of music, I will cover it with such..a veil of mourning that there will be no more sounds here! You all go and as soon as I sit near Heer..bring the  plate of sweets.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

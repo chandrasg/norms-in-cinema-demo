@@ -1,0 +1,181 @@
+{
+  "film": {
+    "id": "300757",
+    "title": "Raja Rani",
+    "year": "1973",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/56k4rVgfku7s87yXshtAqKOtbyk.jpg",
+    "overview": "As a young boy Raja turns to a life of crime after the death of his mother. Years  later Raja, now a hardened thief, uses a marriage as an escape ploy but shortly after he is caught."
+  },
+  "totals": {
+    "shame": 12,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 3
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 6,
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1560_bolly",
+      "emotion": "shame",
+      "dialogue": "Anita.. You dirty woman! You blame me and yourself sleep with other men. Shameless! Hey.. you, Mr. loafer! What style! Shameless. Anita, you don't know my temper.",
+      "target_person": "Anita",
+      "target_gender": "female",
+      "cause_raw": "Infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1561_bolly",
+      "emotion": "shame",
+      "dialogue": "You blame me and yourself sleep with other men. Shameless! Hey.. you, Mr. loafer! What style! Shameless. Anita, you don't know my temper. I will count up to three. If you don't get up, I will shoot.",
+      "target_person": "Anita",
+      "target_gender": "female",
+      "cause_raw": "Infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1562_bolly",
+      "emotion": "shame",
+      "dialogue": "I will count up to three. If you don't get up, I will shoot. One, two, three, four, five, six, seven, eight, nine..No reaction. There is a limit to shamelessness. Wait. Who set fire to my leg, brother? I did, brother.",
+      "target_person": "character being threatened",
+      "target_gender": "male",
+      "cause_raw": "not reacting to threats",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1563_bolly",
+      "emotion": "shame",
+      "dialogue": "Me?.. Raja! Raja. There is a limit to shamelessness. I am the husband and all this drama before me? Wait. Hold on. I will set things right.",
+      "target_person": "Raja",
+      "target_gender": "male",
+      "cause_raw": "Infidelity or inappropriate behavior",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1564_bolly",
+      "emotion": "shame",
+      "dialogue": "You characterless woman! - What? Yes. You blame me and look at what you are doing. Shameless! - What I am doing? - Yes. You called me characterless? - Yes. Characterless. You loafer. - What? You called me a loafer?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being characterless",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1565_bolly",
+      "emotion": "shame",
+      "dialogue": "Go to ruin. How did you dare to even come here. Go away. Uncle! - You, uncle's dear. Go away from here. Get out! Uncle's dear. Take your things away. Shameless. Once again the tears rained from the eyes...and the dark clouds have gathered' Tell the writers of fate to write another story",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting family norms",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1566_bolly",
+      "emotion": "shame",
+      "dialogue": "Once again the tears rained from the eyes...and the dark clouds have gathered' Tell the writers of fate to write another story Neither did anyone feel pity, nor did anyone felt shame..''..people just laughed and gazed at one more spectacle'' Look, the string of another kite in the sky is cut. Tell the writers of fate to write another story",
+      "target_person": "victim",
+      "target_gender": "unclear",
+      "cause_raw": "being a spectacle for others",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1567_bolly",
+      "emotion": "shame",
+      "dialogue": "Your room? Are you leaving or I should..You can't throw out an innocent man..Get out. I break your head if you come back. Listen, listen. You are something special. Shameless. Being abusive! Rascal! You idiot! Why were you sleeping with the door open? Feel like killing you.",
+      "target_person": "innocent man",
+      "target_gender": "male",
+      "cause_raw": "being thrown out of the room",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1568_bolly",
+      "emotion": "shame",
+      "dialogue": "I have a sari. I'll wear it. What will you wear? I have this handkerchief. I'll wear it and bathe. Shameless! Surprising. What is shameless about it? Rani, hurry up.",
+      "target_person": "Rani",
+      "target_gender": "female",
+      "cause_raw": "bathing with minimal clothing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1569_bolly",
+      "emotion": "shame",
+      "dialogue": "I have this handkerchief. I'll wear it and bathe. Shameless! Surprising. What is shameless about it? Rani, hurry up. I am all ready. Now, you get ready quickly and come out.",
+      "target_person": "Rani",
+      "target_gender": "female",
+      "cause_raw": "Being asked to hurry up and get ready",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1570_bolly",
+      "emotion": "shame",
+      "dialogue": "When you come out make sure you don't laugh. Oh! Why have you got your eyes shut? Shameless! What do you mean? Open your eyes. You are laughing for no reason at all!",
+      "target_person": "character being laughed at",
+      "target_gender": "unclear",
+      "cause_raw": "laughing without reason",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1571_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll get some clothes. You look lovelier in wet clothes. Why do you need to change it? - Don't you feel ashamed? Yes, but not for long. Go away. -Go away?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p833_bolly",
+      "emotion": "pride",
+      "dialogue": "it is my good fortune that I got this opportunity to atone for my sin. My daughter-in-law became Rani from....Nirmala on my account. But, today, I can say with great pride that I accept her as my....daughter and pray to God that the atrocities of Society and....short-sightedness should not give birth to....any other Raja and Rani. Go, my children. Be happy. May God bless you.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "acceptance of daughter-in-law",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

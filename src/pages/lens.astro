@@ -1,0 +1,36 @@
+---
+import Layout from "../layouts/Layout.astro";
+import FilmPicker from "../components/Lens/FilmPicker.tsx";
+import PasteScene from "../components/Lens/PasteScene.tsx";
+
+let lensIndex: any[] = [];
+try {
+  lensIndex = (await import("../../public/data/lens_index.json", { assert: { type: "json" } })).default;
+} catch {}
+
+const base = import.meta.env.BASE_URL;
+const lensDataPath = `${base}/data/station3_lens`;
+
+// Optional: serverless endpoint for Mode A. Wire later via PUBLIC_LENS_ENDPOINT env var.
+const lensEndpoint = import.meta.env.PUBLIC_LENS_ENDPOINT || "";
+---
+
+<Layout title="The Lens — MAPGEN: Cinema's Mirror" station="lens">
+  <section class="container-kiosk pt-16 pb-32">
+    <p class="text-xs uppercase tracking-[0.3em] text-gold-400">Station 3</p>
+    <h1 class="mt-3 font-display text-kiosk-xl text-white max-w-3xl">The Lens.</h1>
+    <p class="mt-4 max-w-2xl text-kiosk-md text-white/75 leading-snug">
+      Take a film — yours, ours — and read it through the corpus.
+      Every line we extracted, every theme it surfaces, who carries the
+      weight of each.
+    </p>
+
+    <div class="mt-12">
+      <FilmPicker client:load filmIndex={lensIndex} basePath={lensDataPath} />
+    </div>
+
+    <div class="mt-24">
+      <PasteScene client:load endpoint={lensEndpoint} />
+    </div>
+  </section>
+</Layout>

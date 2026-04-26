@@ -1,0 +1,80 @@
+---
+import Layout from "../layouts/Layout.astro";
+import ThemeTugOfWar from "../components/Atlas/ThemeTugOfWar.tsx";
+import FilmSearch from "../components/Atlas/FilmSearch.tsx";
+
+const data = (await import("../../public/data/station2_atlas.json", { assert: { type: "json" } })).default;
+---
+
+<Layout title="The Atlas — MAPGEN: Cinema's Mirror" station="atlas">
+  <section class="container-kiosk pt-16 pb-32">
+    <p class="text-xs uppercase tracking-[0.3em] text-gold-400">Station 2</p>
+    <h1 class="mt-3 font-display text-kiosk-xl text-white max-w-3xl">The Atlas.</h1>
+    <p class="mt-4 max-w-2xl text-kiosk-md text-white/75 leading-snug">
+      Two industries. Twenty-four shame themes. Fifteen pride themes.
+      The center line is balance. Every bar is a finding.
+    </p>
+
+    <!-- SHAME tug-of-war -->
+    <div class="mt-16">
+      <h2 class="font-display text-3xl text-white">What evokes shame?</h2>
+      <p class="mt-2 text-sm text-white/60 max-w-xl">
+        The Bollywood side leans into sexuality, gender roles, family standing.
+        The Hollywood side leans into poverty, self-image, and lack of accountability.
+      </p>
+      <div class="mt-8">
+        <ThemeTugOfWar client:load themes={data.themes} emotion="shame" />
+      </div>
+    </div>
+
+    <!-- PRIDE tug-of-war -->
+    <div class="mt-32">
+      <h2 class="font-display text-3xl text-white">What evokes pride?</h2>
+      <p class="mt-2 text-sm text-white/60 max-w-xl">
+        Bollywood pride is collective and male — son's accomplishments,
+        nation, family honor. Hollywood pride is individual — identity,
+        ambition, financial success.
+      </p>
+      <div class="mt-8">
+        <ThemeTugOfWar client:load themes={data.themes} emotion="pride" />
+      </div>
+    </div>
+
+    <!-- Film search -->
+    <div class="mt-32">
+      <FilmSearch client:load films={data.films_index} />
+    </div>
+
+    <!-- Cultural Pattern essay cards -->
+    <div class="mt-32 grid gap-6 md:grid-cols-3">
+      <article class="panel p-6">
+        <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Pattern</p>
+        <h3 class="mt-2 font-display text-xl text-white">Why is Bollywood pride almost always male?</h3>
+        <p class="mt-3 text-sm leading-relaxed text-white/65">
+          Across our corpus, 79% of labeled pride targets in Bollywood are men.
+          The themes track this: <em>Son's Accomplishments, Patriotism, Heroic
+          Bravery, Family Honor</em>. Pride flows toward men as honor flows
+          toward family.
+        </p>
+      </article>
+      <article class="panel p-6">
+        <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Pattern</p>
+        <h3 class="mt-2 font-display text-xl text-white">Why does Hollywood shame poverty?</h3>
+        <p class="mt-3 text-sm leading-relaxed text-white/65">
+          In an individualist culture, financial standing is read as personal
+          failure. <em>Poverty, Financial Desperation, Negligence</em> all
+          lean Hollywood-ward. The shame is self-directed: "I should have done better."
+        </p>
+      </article>
+      <article class="panel p-6">
+        <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Pattern</p>
+        <h3 class="mt-2 font-display text-xl text-white">Where the cultures converge.</h3>
+        <p class="mt-3 text-sm leading-relaxed text-white/65">
+          Themes like <em>Sexual Harassment</em> and <em>Promiscuity</em>
+          are Bollywood-leaning, but <em>Immodesty</em> is too. Different
+          words, same line — women's bodies, sanctioned the same way in both.
+        </p>
+      </article>
+    </div>
+  </section>
+</Layout>

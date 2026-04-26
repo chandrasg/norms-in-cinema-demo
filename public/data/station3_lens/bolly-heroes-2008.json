@@ -1,0 +1,227 @@
+{
+  "film": {
+    "id": "20563",
+    "title": "Heroes",
+    "year": "2008",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/n3yb9bPeQxJt41thDm7kXjSDbWz.jpg",
+    "overview": "Havaldar Balkar Singh, Captain Dhananjay Shergill and Lieutenant Sahil Naqvi are amongst numerous fatalities on India's side in the 1999 Kargil war against Pakistan. All 3 men had written their last letters to Kuljeet Kaur, Squadron Leader Vikram Singh, and Dr. Naqvi respectively. These letters were located 3 years later by IBN Reporter, Avinash Sarin, who entrusts them to two Indore-based slackers, Ali Shah and Sameer Suri, and asks them to deliver them to Chandigarh, Manali, and Leh respectively. Ali and Sameer set out to film this journey in order to get a graduation degree so that they can re-locate to America as well as televise it widely in order to convince the youth not to join any of India's armed forces."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 18
+  },
+  "themes": [
+    {
+      "label": "Patriotism",
+      "count": 4
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 3
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 13,
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2375_bolly",
+      "emotion": "shame",
+      "dialogue": "Saand, camera.  Fool, you call your mother by her name.  Have you any shame?  Mom... Shut up!  Where did you find these sun glasses?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disrespecting mother by calling her by name",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p1235_bolly",
+      "emotion": "pride",
+      "dialogue": "He was a friend of friends.  He single-handedly taught a lesson to the enemies.  Balkar Singh is the pride of our town.  No one in this town is as brave as our Balkar Singh, son.  Ok, sir. Greetings.",
+      "target_person": "Balkar Singh",
+      "target_gender": "male",
+      "cause_raw": "bravery",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p1236_bolly",
+      "emotion": "pride",
+      "dialogue": "I miss you a lot!  But it's ok.  I am just proud to be your widow.  I would sacrifice a million lives for you.  Some snacks for the road.",
+      "target_person": "widow",
+      "target_gender": "female",
+      "cause_raw": "being the spouse of the deceased",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1237_bolly",
+      "emotion": "pride",
+      "dialogue": "If anybody tries to create enmity or hurt us... ...just give him one tight slap.\"  My India is the best!  It's the pride of the world.  My India is the best!  It's the pride of the world.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "patriotism",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p1238_bolly",
+      "emotion": "pride",
+      "dialogue": "It's the pride of the world.  My India is the best!  It's the pride of the world.  My India is the best!  It's the pride of the world.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "India's greatness",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1239_bolly",
+      "emotion": "pride",
+      "dialogue": "It's the pride of the world.  My India is the best!  It's the pride of the world.  Excuse me, sir.  Yes, officer.",
+      "target_person": "officer",
+      "target_gender": "male",
+      "cause_raw": "patriotism",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p1240_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm really sorry.  Don't be. I'm not.  I'm not sorry about my brother. I'm proud of him.  Even today.  And with this pride I can spend my entire life happily.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "brother's actions",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1241_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm not sorry about my brother. I'm proud of him.  Even today.  And with this pride I can spend my entire life happily.  Nothing is greater than pride. Pride above all else  He surpassed me in the fight for martyrdom.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "brother's martyrdom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p1242_bolly",
+      "emotion": "pride",
+      "dialogue": "Even today.  And with this pride I can spend my entire life happily.  Nothing is greater than pride. Pride above all else  He surpassed me in the fight for martyrdom.  Now you tell me, who is stronger?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "martyrdom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p1243_bolly",
+      "emotion": "pride",
+      "dialogue": "He lives alone, but still says he's happy.  Yes. He's happy.  Living with pride.  What kind of pride, pal?  Is this pride greater than life?",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "living alone",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1244_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes. He's happy.  Living with pride.  What kind of pride, pal?  Is this pride greater than life?  Do you think a small word can just negate the feeling of pain?",
+      "target_person": "pal",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1245_bolly",
+      "emotion": "pride",
+      "dialogue": "Living with pride.  What kind of pride, pal?  Is this pride greater than life?  Do you think a small word can just negate the feeling of pain?  Day 6. We've covered our second destination.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1246_bolly",
+      "emotion": "pride",
+      "dialogue": "Maybe that is why these tea parties... and Mrs. Deoji... My son was not a coward.  He was very brave.  And I am proud of him.  It's the same heart... \"It's the same world.\"  Then why this world... ...appears changed?\"",
+      "target_person": "Mrs. Deoji",
+      "target_gender": "female",
+      "cause_raw": "bravery of her son",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p1247_bolly",
+      "emotion": "pride",
+      "dialogue": "Then why this world... ...appears changed?\"  Why do I avoid meeting eyes with myself?  Who came and whispered in ears to come down... I am just proud to live as your widow.  You know, a few days back I was posted ...on a hill top near a river.  There along with my comrades I've learnt a way of fishing.",
+      "target_person": "widow",
+      "target_gender": "female",
+      "cause_raw": "living as the spouse's widow",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1248_bolly",
+      "emotion": "pride",
+      "dialogue": "Somewhere, there still is a missing link.  An emotion... Nawab Saab, I was wrong, buddy.  Nawab Saab, pride is not just a small word.  It is a reason to live.  That binds families together.",
+      "target_person": "Nawab Saab",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1249_bolly",
+      "emotion": "pride",
+      "dialogue": "That helps them live, even after they've lost everything.  That's what they live for.  There's nothing greater than pride.  Pride, above all else!  You're right, Sammy.",
+      "target_person": "Sammy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1250_bolly",
+      "emotion": "pride",
+      "dialogue": "That's what they live for.  There's nothing greater than pride.  Pride, above all else!  You're right, Sammy.  We just think about ourselves.",
+      "target_person": "Sammy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1251_bolly",
+      "emotion": "pride",
+      "dialogue": "To live without your loved ones is not easy.  Just think about it Sammy... tomorrow... ...I'm not there and you are here, all alone?  It's true Nawab. I have not done anything in my life... ...of Which I could feel proud about myself.  Never ever!  What are you waiting for?",
+      "target_person": "Nawab",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1252_bolly",
+      "emotion": "pride",
+      "dialogue": "We opened a school, not to teach anything, but to share an emotion.  In which we had full faith.  Pride is above all else.  Good morning! - Good morning sir!  Good morning! - Good morning.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "opening a school",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "film": {
+    "id": "685121",
+    "title": "Meherbaan",
+    "year": "1993",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/tzAKjWOzdOmfFpWmwPpiaZEnh9x.jpg",
+    "overview": "A family man has to decide between commitment and love for two women."
+  },
+  "totals": {
+    "shame": 13,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 3
+    },
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Alcoholism",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 9,
+      "female": 3
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3512_bolly",
+      "emotion": "shame",
+      "dialogue": "Where is my wife? What is it? Why are you shouting? You spoilt my mood early morning. Do you have any brains, any shame? I am your husband, and husband is king! All your life, you kept harping that you are my husband.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "not respecting his wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3513_bolly",
+      "emotion": "shame",
+      "dialogue": "There is no rice? Why didn't you say so before? Why hasn't the old woman, Shanti not brought the groceries this month? I've brought it. Shameless, useless, work shirker! I have brought it Greetings, sister-in-law. May you live long. May God always make you shower your mercy on us.",
+      "target_person": "Shanti",
+      "target_gender": "female",
+      "cause_raw": "not performing her duties properly",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3514_bolly",
+      "emotion": "shame",
+      "dialogue": "May God always make you shower your mercy on us. So that you can enjoy free food until you die. Why are you laughing like shameless guys? You have a grown up daughter. You don't care about her. And you are always dressing yourself up.",
+      "target_person": "parent",
+      "target_gender": "male",
+      "cause_raw": "not caring for their daughter's future",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3515_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you talking like that? They will provide for us until they are alive. They will provide and without any shame, you will live off them. As if your father provides for us. - Enough! Don't show off. Her father doesn't provide, my father does.",
+      "target_person": "character being spoken to",
+      "target_gender": "unclear",
+      "cause_raw": "living off someone else's provision",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3516_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't you know who I am? The village chief's to-be father-in-law. So don't you feel ashamed to wear a headgear in my presence? Remove that towel and tie it round your waist. Get lost!",
+      "target_person": "villager",
+      "target_gender": "male",
+      "cause_raw": "disrespecting a person of higher social status",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3517_bolly",
+      "emotion": "shame",
+      "dialogue": "Before promising them, ...didn't you remember the promises given to your father? And to keep that promise, from childhood until now ...l have been helping them. But despite that, her father and brother did not have any shame. If they were respectable, even though poor ...l would never refuse an alliance with them. But they have taken undue advantage of my sympathy, and service.",
+      "target_person": "girl's father and brother",
+      "target_gender": "male",
+      "cause_raw": "taking undue advantage of someone's sympathy and service",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3518_bolly",
+      "emotion": "shame",
+      "dialogue": "They have done such things, that forget an alliance ...l don't even feel like making enemies with them. And so you fixed your alliance with the daughter of that pauper? They may be poor, but they have the wealth of respect and shame. Then you worship that wealth. If that girl comes here, I will not live here.",
+      "target_person": "girl's suitor",
+      "target_gender": "male",
+      "cause_raw": "marrying a poor girl",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3519_bolly",
+      "emotion": "shame",
+      "dialogue": "God bless the couple. Now put your right foot forward and step in. You are my wife, and you are blessing enemies? Are you nuts, or shameless? None. I am not shameless, that is why I blessed Ravi and his wife. Our life is grateful to his favours.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "blessing the enemies",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3520_bolly",
+      "emotion": "shame",
+      "dialogue": "Now put your right foot forward and step in. You are my wife, and you are blessing enemies? Are you nuts, or shameless? None. I am not shameless, that is why I blessed Ravi and his wife. Our life is grateful to his favours. This stiffly ironed dress you are wearing is also given by him.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "blessing the enemies",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3521_bolly",
+      "emotion": "shame",
+      "dialogue": "I will break your head. - Wait! What's going on? You are drunk and creating a ruckus? You are threatening a decent man? Don't you feel ashamed? You have forced me to become shameless. You are my son-in-law, I am your father-in-law.",
+      "target_person": "son-in-law",
+      "target_gender": "male",
+      "cause_raw": "drunkenness and disrespectful behavior",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s3522_bolly",
+      "emotion": "shame",
+      "dialogue": "What's going on? You are drunk and creating a ruckus? You are threatening a decent man? Don't you feel ashamed? You have forced me to become shameless. You are my son-in-law, I am your father-in-law. Why is he messing our relationship?",
+      "target_person": "son-in-law",
+      "target_gender": "male",
+      "cause_raw": "drunkenness and disrespectful behavior",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s3523_bolly",
+      "emotion": "shame",
+      "dialogue": "The old man! He's staring. Why are you staring? Haven't you seen me before? Don't you feel ashamed to do this? What if you become pregnant with his illegitimate child? The whole village will shun you.",
+      "target_person": "old man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate staring",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s3524_bolly",
+      "emotion": "shame",
+      "dialogue": "Come. He's come again! Guru, shame on you! You lost one more relationship. Your son-in-law threw you out, your daughter shunned you ..your wife left you. You just had a son, even he spat on your face!",
+      "target_person": "Guru",
+      "target_gender": "male",
+      "cause_raw": "Losing relationships due to personal behavior",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1872_bolly",
+      "emotion": "pride",
+      "dialogue": "Guru, what are you doing? What noises are you making? My heart is burning in the fire of revenge. ls it? - Ravi is very proud of himself. But even I will break his pride, or I am not worthy of my name! Where does he know the real me yet.",
+      "target_person": "Guru",
+      "target_gender": "male",
+      "cause_raw": "breaking Ravi's pride",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1873_bolly",
+      "emotion": "pride",
+      "dialogue": "My heart is burning in the fire of revenge. ls it? - Ravi is very proud of himself. But even I will break his pride, or I am not worthy of my name! Where does he know the real me yet. I will make his pride fall to dust!",
+      "target_person": "Ravi",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1874_bolly",
+      "emotion": "pride",
+      "dialogue": "But even I will break his pride, or I am not worthy of my name! Where does he know the real me yet. I will make his pride fall to dust! I am waiting for the day when he will marry my daughter. The day he marries Neha ...l will usurp his entire property.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1875_bolly",
+      "emotion": "pride",
+      "dialogue": "He will turn blind at the Square. When will you turn blind? - Tomorrow. God! Everything is finished, but not his pride. What scene are you creating outside the house early morning? Look at my state. Even beggars are making fun of me.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

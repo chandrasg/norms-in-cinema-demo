@@ -1,0 +1,170 @@
+{
+  "film": {
+    "id": "65683",
+    "title": "Dil",
+    "year": "1990",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/aecBFir2aF59MOflpYimaFu7hnI.jpg",
+    "overview": "Raja lives a poor lifestyle along with his dad, Hazariprasad and mom. He attends college where he has several run-ins with wealthy fellow-collegian, Madhu Mehra. Matters escalate to such an extent that she accuses him of sexually molesting her. When his dad comes to know, he decides to seize this chance to get rich quickly, masquerades as a wealthy businessman, approaches Mr. Mehra, and arranges for their children to get married. Murphy's law prevails at the time of the engagement - changing everyone's lives forever."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 6,
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1129_bolly",
+      "emotion": "shame",
+      "dialogue": "Now I will talk to the police commissioner I can't refrain from my duty, I can't release without bail What a shameless girl, has come behind my son even in jail His son is only a rowdy. -Keep quiet Listen, this is not your house but a police station.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "pursuing a man",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1130_bolly",
+      "emotion": "shame",
+      "dialogue": "And I am coming down to kiss her as a prize-Okay Lajjo, I am coming down to kiss you?- Hai Ram! You are shameless, is this something to tell in public My children's mother, I am not telling this. The upstairs Chaila will kiss his Laila on the ground",
+      "target_person": "Lajjo",
+      "target_gender": "female",
+      "cause_raw": "Public display of affection",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1194_bolly",
+      "emotion": "shame",
+      "dialogue": "I can't set them free without bail. Wow! - Very good ! Very good ! Such a shameless girl she is. . . .she didn't leave my son in the jail too. Shameless girl ! His son is shameless, tell him.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being with a man in jail",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1195_bolly",
+      "emotion": "shame",
+      "dialogue": "Wow! - Very good ! Very good ! Such a shameless girl she is. . . .she didn't leave my son in the jail too. Shameless girl ! His son is shameless, tell him. Useless, thug, vagabond, loafer.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being shameless and not leaving the speaker's son alone",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1196_bolly",
+      "emotion": "shame",
+      "dialogue": "Such a shameless girl she is. . . .she didn't leave my son in the jail too. Shameless girl ! His son is shameless, tell him. Useless, thug, vagabond, loafer. Hey, dare you call my son a loafer. - Shut up!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior with a man",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1197_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh my God ! You enjoyed it, right, Laajo? Shut up! You are very shameless. Is this the thing to be said in front of everyone? My dear wife, it's not me.",
+      "target_person": "Laajo",
+      "target_gender": "female",
+      "cause_raw": "inappropriate public behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1198_bolly",
+      "emotion": "shame",
+      "dialogue": "Do not worry about the money. Mr. Mehra has lots of money! You will get a big dowry. We are not so shameless that we will use the things which others. . . . have used and thrown. Did you hear him, Mr. Mehra?",
+      "target_person": "Mr. Mehra",
+      "target_gender": "male",
+      "cause_raw": "accepting dowry",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p621_bolly",
+      "emotion": "pride",
+      "dialogue": "Your bill for 200 chickens. Not Raja, but my dad, will pay the bill. Father says I will make him proud.  My son will do something great.  But no one knows where my destination is.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's future achievements",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p622_bolly",
+      "emotion": "pride",
+      "dialogue": "She's just too much ! She looks like a newcomer. She's as proud as she is beautiful. She's just too hot! Tomorrow I'll teach her a lesson.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p623_bolly",
+      "emotion": "pride",
+      "dialogue": "Comes to college to study.  But is always ready for a fight.  We have taken the vow. We will smash her pride.  We have taken the vow. We will smash her pride.  Yes!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p624_bolly",
+      "emotion": "pride",
+      "dialogue": "But is always ready for a fight.  We have taken the vow. We will smash her pride.  We have taken the vow. We will smash her pride.  Yes!  Yes!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p625_bolly",
+      "emotion": "pride",
+      "dialogue": "Baby, dance with me.  Go away, don't be so arrogant.  Will break your pride.  Go away, don't be so arrogant.  Will break your pride.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p626_bolly",
+      "emotion": "pride",
+      "dialogue": "Will break your pride.  Go away, don't be so arrogant.  Will break your pride.  Make you fall at my feet.  Will make you bow before me.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

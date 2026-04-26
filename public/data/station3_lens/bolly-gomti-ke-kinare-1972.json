@@ -1,0 +1,221 @@
+{
+  "film": {
+    "id": "306385",
+    "title": "Gomti Ke Kinare",
+    "year": "1972",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/kvT3baVTsQFKi0zAN6P3faNEnLn.jpg",
+    "overview": "After his father's death, young Sameer runs away to search for his mother and is adopted by the tawaif Ganga."
+  },
+  "totals": {
+    "shame": 13,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Alcoholism",
+      "count": 3
+    },
+    {
+      "label": "Disrespect",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 8,
+      "female": 4
+    },
+    "pride": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2179_bolly",
+      "emotion": "shame",
+      "dialogue": "Give me a loving glance and even I'll belong to you. Are you in your senses? Don't you feel ashamed to say such things? I am drunk, that's why I don't feel ashamed. You also drink some, then even you won't feel ashamed.",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "inappropriate advances",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2180_bolly",
+      "emotion": "shame",
+      "dialogue": "Are you in your senses? Don't you feel ashamed to say such things? I am drunk, that's why I don't feel ashamed. You also drink some, then even you won't feel ashamed. Take, drink.",
+      "target_person": "first speaker",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior while drunk",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s2181_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't you feel ashamed to say such things? I am drunk, that's why I don't feel ashamed. You also drink some, then even you won't feel ashamed. Take, drink. Yes, man really becomes shameless when drunk!",
+      "target_person": "drunk man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior due to alcohol",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s2182_bolly",
+      "emotion": "shame",
+      "dialogue": "You also drink some, then even you won't feel ashamed. Take, drink. Yes, man really becomes shameless when drunk! Being intoxicating yourself, you are insulting liquor? Leave me!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "alcoholism",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s2183_bolly",
+      "emotion": "shame",
+      "dialogue": "I won't leave you...Let go off my mother! I won't let you go. You rascal! Don't you feel ashamed? Wait! Everything is happening with her consent. He's lying. I came here by mistake.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2184_bolly",
+      "emotion": "shame",
+      "dialogue": "- Did you hear that? - But who are you to interfere? - I'm your father! - What? You bloody wolf! If you have any shame...apologise to the lady, or I'll punch you in the face! I'll send you behind bars! Who do you think you are? Shut-up! Apologise to her, or I'll pull the chain...and call the police.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting a woman",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2185_bolly",
+      "emotion": "shame",
+      "dialogue": "You have Munna's promise, tell me! Alright, then listen. Hearing all this, even if it was my real brother...wouldn't he feel ashamed to get a Rakhi tied by me? Take, tie me a Rakhi. I will pray to God to make me your blood brother...in my next life. Take, tie me a Rakhi.",
+      "target_person": "Munna",
+      "target_gender": "male",
+      "cause_raw": "not being a real brother",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2186_bolly",
+      "emotion": "shame",
+      "dialogue": "- What are you doing? - Let me get off. Has even this been taught to you by your mother? Don't you feel ashamed to crack jokes on a mother? A mother is that idol of affection...at whose feet one finds heaven. What do you know what a mother is? Ask me.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting mother",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2187_bolly",
+      "emotion": "shame",
+      "dialogue": "The one she made fun of until yesterday...she has gone crazy about him today. My love didn't come, despite promising me' Shut-up! Shameless girl! No, don't pretend. When you have given away your heart...why hide it from friends? And then, you are not at fault. That Sameer is a handsome guy.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "expressing her feelings openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2188_bolly",
+      "emotion": "shame",
+      "dialogue": "You, me, the whole society. But she didn't do that. Why? Because if she had lied...then you, who are her life's biggest truth, would become a lie Her sacrifice, her toil, would all be put to shame. A woman who didn't fear the circumstances...who didn't run away from the truth...who nurtured truth in your form & brought it before the world...you want to quash her desires? I still remember that day, when right here, in this office...your voice was more strong than all those experienced men.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "standing up for truth and not conforming to societal expectations",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2189_bolly",
+      "emotion": "shame",
+      "dialogue": "You want to throttle your mother's pride? Only you can make the world realise how great a woman she is. Go, kiss your mother's hands and tell her...that you are not at all ashamed of the fact...that you are her son. I am not Sameer's mother. Sameer is not a whore's son. See! The one who she sired, she denies being his mother.",
+      "target_person": "Sameer",
+      "target_gender": "male",
+      "cause_raw": "being the son of a sex worker",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2190_bolly",
+      "emotion": "shame",
+      "dialogue": "- Mother, come. - Come on! Sister, I deeply regret the way you were treated in my home. Years ago, my friendship & trust reposed in me was put to shame. My conscience still curses me for it. And it is this mother & daughter who were responsible for it.",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "betrayal and breaking trust",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2191_bolly",
+      "emotion": "shame",
+      "dialogue": "You don't know that Sameer is my friend, Bharat's lost son. We were fortunate that he found you. Do you still feel ashamed to apologise to this good woman? Go touch her feet and apologise to her. Roshni, I am not worthy of her pardon.",
+      "target_person": "Roshni",
+      "target_gender": "female",
+      "cause_raw": "not apologizing",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1138_bolly",
+      "emotion": "pride",
+      "dialogue": "I had felt then, that you are such a youth...whose faith will make him a great man one day. You want to break that faith today? You want to throttle your mother's pride? Only you can make the world realise how great a woman she is. Go, kiss your mother's hands and tell her...that you are not at all ashamed of the fact...that you are her son.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being a great man and making his mother proud",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1139_bolly",
+      "emotion": "pride",
+      "dialogue": "Mom, respect mother's feelings. Appreciate her greatness. The truth whose very thought can shake up a person...mother proudly accepted that truth before so many people. Only a great soul can do that. My dream will be fulfilled when I become her daughter-in-law...and accept her as my mother.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "accepting truth and respecting mother's feelings",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p1140_bolly",
+      "emotion": "pride",
+      "dialogue": "My dream will be fulfilled when I become her daughter-in-law...and accept her as my mother. The high of love will fizzle out within a few days, Roshni. When you mix in the society as Mrs. Sameer...will you still proudly be able to claim...that you are proud of the fact...that the wife of the man you are, is the son of a whore? What is so embarrassing about it? You only have taught me to accept the truth boldly.",
+      "target_person": "Roshni",
+      "target_gender": "female",
+      "cause_raw": "accepting truth boldly",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

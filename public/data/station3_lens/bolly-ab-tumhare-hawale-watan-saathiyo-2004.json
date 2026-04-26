@@ -1,0 +1,209 @@
+{
+  "film": {
+    "id": "177360",
+    "title": "Ab Tumhare Hawale Watan Saathiyo",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/rxYbTEakxvnigRab30Nwlyu7lRC.jpg",
+    "overview": "All Maj. Amarjeet Singh wants is for his grandson Kunal to be as noble and brave as Amarjeet and the boy's father, Vikramjeet. But Kunal has other plans and does not wish to follow in his father's and grandfather's military legacies. Reluctantly, Kunal gives in and joins the army and ends up falling for Shweta, the widow of a fallen soldier. When the man later turns up alive, will Shweta return to him or stay with her new love?"
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 3
+    },
+    {
+      "label": "Betrayal",
+      "count": 3
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 3
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 8,
+      "female": 1
+    },
+    "pride": {
+      "male": 5,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4028_bolly",
+      "emotion": "shame",
+      "dialogue": "My dad's dad, you see. No wonder he'll want double! And I said I'd triple the count! Aren't you ashamed, Kunal...? You're <i>so</i> shameless! Wait there, I'll show you.. - Help! Kunal! - What's happening?",
+      "target_person": "Kunal",
+      "target_gender": "male",
+      "cause_raw": "Greed",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4029_bolly",
+      "emotion": "shame",
+      "dialogue": "That's right, grandpa, but.. - Only three days ago..Naresh's father was at our place for dinner Your mother is right! I have spoilt you silly! That's not how it is, grandpa.. - You ought to be ashamed! You go missing from the unit and even tell lies? I thought you'd bring glory to the family..That you'd care for your father's feelings.. but no sir!",
+      "target_person": "Naresh",
+      "target_gender": "male",
+      "cause_raw": "lying and neglecting family's expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4030_bolly",
+      "emotion": "shame",
+      "dialogue": "You want to desert your unit for 2 hours so you can go and.....meet Shweta And you want me to give you a certificate, citing ill-health? Aren't you ashamed? - Why don't you understand? I've done my duty as far as the mobilisation is concerned We've supposed to leave tomorrow morning, Sakshi!",
+      "target_person": "Sakshi",
+      "target_gender": "female",
+      "cause_raw": "deserting duty",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4031_bolly",
+      "emotion": "shame",
+      "dialogue": "That's not true, grandpa. You know it very well..And even Mummy told you that I didn't want to join the army I wanted to go to America and start a business It's such a shame that the educated youth of our country..Do not want to join the army..But give more importance to amassing money They go to foreign lands. And what's wrong with that, grandpa?",
+      "target_person": "grandson",
+      "target_gender": "male",
+      "cause_raw": "not wanting to join the army and preferring to go abroad for business",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4032_bolly",
+      "emotion": "shame",
+      "dialogue": "Make money and progress! Who gives the enemy a fitting response, in that case? It's such a shame! Despite being Vikramjit Singh's son..You subscribe to such a line of thought! Always remember, son. If you are not devoted to the nation you're born in..You betray your own mother, and letdown your father!",
+      "target_person": "Vikramjit Singh's son",
+      "target_gender": "male",
+      "cause_raw": "lack of patriotism",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4033_bolly",
+      "emotion": "shame",
+      "dialogue": "Get up! Up! Nobody touches them! Lay off! It wasn't right, sir. It has brought shame to the entire unit The promise you made wasn't just a promise on your behalf..It was the promise of a Pakistani officer, which ought to.....have fulfilled So what could I do...? Set him free? Broken the law...?Betrayed my country? - Who cares for the law anymore?",
+      "target_person": "Pakistani officer",
+      "target_gender": "male",
+      "cause_raw": "not fulfilling a promise/breaking the law",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4034_bolly",
+      "emotion": "shame",
+      "dialogue": "This uniform is the symbol of the trust our nation reposes in us We haven't been given this uniform to infiltrate soldiers as terrorists. And let them do a Kargil! And to take a beating..And make the masses hang their heads in shame That's a question you must put to the government! They've made eunuchs out of us!",
+      "target_person": "government",
+      "target_gender": "unclear",
+      "cause_raw": "failure in national security",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4035_bolly",
+      "emotion": "shame",
+      "dialogue": "Major General Amarjit Singh's grandson..Lieutenant Commander Vikramjit Singh's son..<i>Was knocked senseless on the battlefield..</i> and came home with a medal that was rightfully someone else's! Shame on you! I won several battles in the years I've spent in the army But you've defeated me in this battle of life, Kunal",
+      "target_person": "Kunal",
+      "target_gender": "male",
+      "cause_raw": "Dishonesty and lack of bravery",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s4036_bolly",
+      "emotion": "shame",
+      "dialogue": "But me, the legislator Maqbool Butt, over the phone! Think of the devil and here he is! It's him calling again! It's a shame Maqbool Miyan! You're a Muslim and..You're striving to make the Amarnath pilgrimage of the.....Infidels a success! But let me tell you that I will never let that happen Abu Hamza...?The pilgrimage to Lord Shiva did not stop..Even when our nation was enslaved to the British..Nor even in the times when Aurangzeb ruled the roost",
+      "target_person": "Maqbool Butt",
+      "target_gender": "male",
+      "cause_raw": "promoting a religious event of a different religion",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s4037_bolly",
+      "emotion": "shame",
+      "dialogue": "Look at all this bloodshed! Had our guest delegation suffered any harm..We couldn't have faced anyone! Look at you! You can hang your face in shame! It's I who has to answer questions on behalf of the Kashmiri government! I'll have to make all the arrangements now",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "causing harm and embarrassment to the guest delegation",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p2185_bolly",
+      "emotion": "pride",
+      "dialogue": "The 10 Para Battalion is landing in the Indian zone at 0600 hours. Remember..It's our nation that has given us everything Fame, pride and an identity Fortunate are those who get an opportunity to repay their nation Destiny has provided us with this opportunity today",
+      "target_person": "soldier",
+      "target_gender": "male",
+      "cause_raw": "opportunity to serve nation",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2186_bolly",
+      "emotion": "pride",
+      "dialogue": "I promise you, every soldier of yours will reach you..In order to make your mission a success, sir All the best, Papa I'm proud to be the father of Lieutenant Commander Vikramjit Singh All the best. - Papa, I want your grandson Kunal..To carry forth this tradition of the family C'mon! Get in! Move!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's military achievement",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2187_bolly",
+      "emotion": "pride",
+      "dialogue": "O carefree little boy, you will be a soldier some day O carefree little boy, you will be a soldier some day You will do something..That does the nation proud Your mother has but one prayer..May no evil eye ever fall on you Your mother has but one prayer..May no evil eye ever fall on you",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "son becoming a soldier",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2188_bolly",
+      "emotion": "pride",
+      "dialogue": "But I have different ideas about patriotism, madam Look at the Tatas and Birlas.. are they in the army? - No! - No! But they're still doing the nation proud..They're serving it well I joined the army only to keep my grandfather happy Just a couple of years.",
+      "target_person": "grandfather",
+      "target_gender": "male",
+      "cause_raw": "joining the army",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2189_bolly",
+      "emotion": "pride",
+      "dialogue": "What? Anyway, Major, it's a pleasure meeting you It's a matter of pride that you and your para-company are associated with us for security in Amarnath It's my pleasure, too, sir",
+      "target_person": "Major",
+      "target_gender": "male",
+      "cause_raw": "providing security",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2190_bolly",
+      "emotion": "pride",
+      "dialogue": "And then I thought, I thought..You will never change, my son C'mon Kunal, I'm so proud of you. - Thank you, sir Doctor, take care of your patient I regret, Mr Akhtar, that in this quest for peace and friendship.",
+      "target_person": "Kunal",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

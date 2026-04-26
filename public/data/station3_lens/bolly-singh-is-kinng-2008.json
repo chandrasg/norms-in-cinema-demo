@@ -1,0 +1,193 @@
+{
+  "film": {
+    "id": "12273",
+    "title": "Singh Is Kinng",
+    "year": "2008",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/w2szK0vL9NzFsp3FHHEaeqGigjX.jpg",
+    "overview": "A comic caper about Happy Singh, a Punjabi villager who goes through a series of misadventures and eventually becomes the King of the Australian underworld."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 4
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4199_bolly",
+      "emotion": "shame",
+      "dialogue": "Send three wrestlers in the guise of goons. Fight them and win the girl's heart oVer. You idiots! Aren't you ashamed of eVe-teasing? C'mon scoot! This is the height of shamelessness!",
+      "target_person": "goons",
+      "target_gender": "male",
+      "cause_raw": "eve-teasing",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4200_bolly",
+      "emotion": "shame",
+      "dialogue": "You idiots! Aren't you ashamed of eVe-teasing? C'mon scoot! This is the height of shamelessness! Prito, Rangeela had hired goons to trouble you. That idiot!",
+      "target_person": "goons",
+      "target_gender": "male",
+      "cause_raw": "eve-teasing",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4201_bolly",
+      "emotion": "shame",
+      "dialogue": "Your uncle's a limp. - Oh great! But he dances to Bhangra! - Oh great! They call you.. - Oh great!..a shameless fellow! - Oh great! You dance to get attention....wearing perfume, donning a groom's turban. You dance to get attention....wearing perfume, donning a groom's turban.",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "Being physically impaired and seeking attention",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4202_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm still single....while you'Ve readily mingled! You'Ve betrayed your friend. Consider our friendship broken. May you feel ashamed....each time you look at me. Jeet! Harjeet! Are you listening, Manjeet? I'm left high and dry while he becomes a groom!",
+      "target_person": "Manjeet",
+      "target_gender": "male",
+      "cause_raw": "getting married before his friend",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4203_bolly",
+      "emotion": "shame",
+      "dialogue": "He's got a heart attack. His heart is bound to ache. Happy, there's no one educated in our Village....who can make these old folks meet their sons....and restore the Village's honour. Shame on us! What did you say? You'll go to Australia to fetch Lucky?! it's not easy to be the most sought after gangster.",
+      "target_person": "villagers",
+      "target_gender": "unclear",
+      "cause_raw": "lack of education",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4204_bolly",
+      "emotion": "shame",
+      "dialogue": "Get away! MoVe! Stop there! Aren't you ashamed of yourself? God has giVen you two hands and legs to work....and not to steal. GiVe me the purse.",
+      "target_person": "thief",
+      "target_gender": "unclear",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s4205_bolly",
+      "emotion": "shame",
+      "dialogue": "Why shop for them now? These are for me! Look, eVen the mannequins are blushing. HaVe some shame! Let's try another store. Come, I'll buy you good indian clothes.",
+      "target_person": "character shopping for clothes",
+      "target_gender": "unclear",
+      "cause_raw": "shopping for non-traditional/ non-Indian clothes",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p2285_bolly",
+      "emotion": "pride",
+      "dialogue": "When I say Singh, you say King! Singh is King. Singh is King. We neither had pride nor plume. We were liVing like paupers. When suddenly, our fortunes changed oVernight.",
+      "target_person": "Singh",
+      "target_gender": "male",
+      "cause_raw": "sudden change in fortune",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p2286_bolly",
+      "emotion": "pride",
+      "dialogue": "Today's a big day. I'm going to distribute money amongst the poor Australians. I'm proud of you, Rangeela! From now on, distribute money amongst the poor....each time there's an improVement in Lucky's health. Absolutely! I can't be miserly today.",
+      "target_person": "Rangeela",
+      "target_gender": "male",
+      "cause_raw": "distributing money amongst the poor",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2287_bolly",
+      "emotion": "pride",
+      "dialogue": "Check the record. Friendship means the life to us. Our pride is extraordinary. Laughter is our identity. That's why, eVerybody says..Friendship means the life to us.",
+      "target_person": "friends",
+      "target_gender": "unclear",
+      "cause_raw": "extraordinary friendship",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2288_bolly",
+      "emotion": "pride",
+      "dialogue": "Laughter is our identity. That's why, eVerybody says..Friendship means the life to us. Our pride is extraordinary. Laughter is our identity. C'mon eVerybody, say!",
+      "target_person": "friends",
+      "target_gender": "unclear",
+      "cause_raw": "extraordinary friendship",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2289_bolly",
+      "emotion": "pride",
+      "dialogue": "Rock this world! Singh is King. Friendship means the life to us. Our pride is extraordinary. Laughter is our identity. That's why, eVerybody says Singh is King.",
+      "target_person": "Singh",
+      "target_gender": "male",
+      "cause_raw": "extraordinary friendship and laughter",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2290_bolly",
+      "emotion": "pride",
+      "dialogue": "That's why, eVerybody says Singh is King. Friendship means the life to us. Our pride is extraordinary. Laughter is our identity. C'mon eVerybody say!",
+      "target_person": "Singh",
+      "target_gender": "male",
+      "cause_raw": "extraordinary friendship",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2291_bolly",
+      "emotion": "pride",
+      "dialogue": "They're willing to lay down their liVes for the same. The Kings and the emperors salute their braVery. The Singhs' pride lies in their turbans. The Singhs who'Ve laid down their liVes....haVe left their marks behind. Singh became the King of the world.",
+      "target_person": "Singhs",
+      "target_gender": "male",
+      "cause_raw": "bravery and sacrifice",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

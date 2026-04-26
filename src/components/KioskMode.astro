@@ -1,0 +1,35 @@
+---
+// Kiosk-mode helper. Activates when URL has ?kiosk=1.
+// - Hides cursor after 5s of stillness
+// - Returns to / after 3 min of no interaction
+// - Suppresses right-click, text-selection, and scroll bounce
+---
+
+<script>
+  const params = new URLSearchParams(location.search);
+  if (params.get("kiosk") === "1") {
+    document.body.classList.add("kiosk-mode");
+
+    let resetTimer: number;
+    const RESET_AFTER_MS = 3 * 60 * 1000;
+    const HOME_PATH = (import.meta.env.BASE_URL || "/") + (location.pathname.includes("/timeline") ? "timeline?kiosk=1" : "?kiosk=1");
+
+    function resetIdle() {
+      clearTimeout(resetTimer);
+      resetTimer = window.setTimeout(() => {
+        // Only redirect if we've drifted off the home page
+        if (location.pathname !== HOME_PATH.split("?")[0]) {
+          location.href = HOME_PATH;
+        }
+      }, RESET_AFTER_MS);
+    }
+    ["pointerdown", "keydown", "touchstart"].forEach(evt => {
+      document.addEventListener(evt, resetIdle, { passive: true });
+    });
+    resetIdle();
+
+    // Suppress right-click + text drag — kiosk hygiene
+    document.addEventListener("contextmenu", e => e.preventDefault());
+    document.addEventListener("dragstart", e => e.preventDefault());
+  }
+</script>

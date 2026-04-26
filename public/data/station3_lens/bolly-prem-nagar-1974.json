@@ -1,0 +1,188 @@
+{
+  "film": {
+    "id": "432516",
+    "title": "Prem Nagar",
+    "year": "1974",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/x0AMba4jKXr6ngeGf2MjO1HpvHF.jpg",
+    "overview": "Karan hires Lata as his secretary and asks her to move to one of his cottages with her family. However, things take a turn when she is accused of stealing a valuable necklace."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 11
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 4
+    },
+    {
+      "label": "Violence",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    },
+    "pride": {
+      "male": 5,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1461_bolly",
+      "emotion": "shame",
+      "dialogue": "How can you talk like that in my presence? When it comes to taunting, sister-in-law is unmatched. Even a drunkard is ashamed to hear her talks. Permit me to leave! I'd only heard of his nobility now I've seen it too.",
+      "target_person": "sister-in-law",
+      "target_gender": "female",
+      "cause_raw": "disrespectful talk",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1462_bolly",
+      "emotion": "shame",
+      "dialogue": "You're the first person to have done this good deed. You'll be appreciated for beating a woman! Aren't you ashamed to beat a woman? Aren't you ashamed to support a criminal? You can't make false allegations.",
+      "target_person": "person beating a woman",
+      "target_gender": "male",
+      "cause_raw": "physical abuse",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s1463_bolly",
+      "emotion": "shame",
+      "dialogue": "You'll be appreciated for beating a woman! Aren't you ashamed to beat a woman? Aren't you ashamed to support a criminal? You can't make false allegations. Do you have proof that she is guilty?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "physical abuse towards a woman",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s1464_bolly",
+      "emotion": "shame",
+      "dialogue": "It's the last wish of a dying man. Why are you worried? It's our problem. How can my son marry a shameless woman like her? Stop! This marriage can't take place. Get up, son!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being perceived as shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p767_bolly",
+      "emotion": "pride",
+      "dialogue": "Good day, master. - What's all this? - Your money and my resignation. Why don't you interpret it as my orders and your pride? Not pride, it's my honour! I can't forsake for the sake of my satisfaction.",
+      "target_person": "master",
+      "target_gender": "male",
+      "cause_raw": "honour",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p768_bolly",
+      "emotion": "pride",
+      "dialogue": "- What's all this? - Your money and my resignation. Why don't you interpret it as my orders and your pride? Not pride, it's my honour! I can't forsake for the sake of my satisfaction. I too value my dignity just the way you value yours.",
+      "target_person": "speaker 2",
+      "target_gender": "male",
+      "cause_raw": "personal dignity",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p769_bolly",
+      "emotion": "pride",
+      "dialogue": "Let's go away from here, father. Ultimately you got what you rightly deserved, isn't it? You were proud that your daughter was earning, isn't it? You preferred to beg rather than seek your son's aid, isn't it? You sweared never to step into your son's home, isn't it?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "daughter's earnings",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p770_bolly",
+      "emotion": "pride",
+      "dialogue": "Do you want our family to be defamed then? Not in my presence. Have you made our family proud by exploiting the innocent? You are a disgrace to the family. Mind your tongue! You belong to a royal family......do you want to tarnish the image of our family......by marrying an ordinary girl?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p771_bolly",
+      "emotion": "pride",
+      "dialogue": "But who am I to forgive you? I deserve only to suffer the punishment. I've realised that if the rich are proud, the poor are no less. Both are unforgiving. You may infer anything you want.",
+      "target_person": "rich",
+      "target_gender": "unclear",
+      "cause_raw": "wealth",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p772_bolly",
+      "emotion": "pride",
+      "dialogue": "People had put the barrier of our status difference between us. Perhaps it would be easier for me to break that barrier. But this barrier of pride that you have created......it's impossible for me to break this barrier. This isn't ego, it is self-respect. It's the only wealth a poor man can possess.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p773_bolly",
+      "emotion": "pride",
+      "dialogue": "Not my final decision, my final plea. Your plea is as painful as my brother's whip. You'll have to pay for your pride it one day. You are committing a greater sin by disowning me. I regret having broken these bottles one day.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p774_bolly",
+      "emotion": "pride",
+      "dialogue": "What do you know of love? Greetings, master! Your sister is very proud and arrogant! I bow before such arrogance, or...Do you deny the fact that you loved me? - Master! - You won't understand, Puran.",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p775_bolly",
+      "emotion": "pride",
+      "dialogue": "She went to meet her lover while the priest called for her. She is involved with rich people. - Listen to me. - Children should make their parents proud. And bring honour to their family. Don't get involved with him. Let's go!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "children bringing honour to family",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p776_bolly",
+      "emotion": "pride",
+      "dialogue": "If character is lost everything is lost. I made a mistake by being very forthright. I valued ego and pride more than love. But I've realised my mistake when it's already very late now. Why should I be decked?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p777_bolly",
+      "emotion": "pride",
+      "dialogue": "Leave me alone and go back to your groom. I've come to my groom! I've forsaken my ego and pride for your sake! I have forsaken my self-esteem too! - Lata you... - There's no room for death in my life.",
+      "target_person": "Lata",
+      "target_gender": "female",
+      "cause_raw": "forsaking ego and pride for loved one",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

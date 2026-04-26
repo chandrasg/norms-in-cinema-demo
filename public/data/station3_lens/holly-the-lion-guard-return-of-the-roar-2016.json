@@ -1,0 +1,437 @@
+{
+  "film": {
+    "id": "359983",
+    "title": "The Lion Guard: Return of the Roar",
+    "year": "2016",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/pzcQ7cQBHIdsKLN4exd7bCyy1pk.jpg",
+    "overview": "Set in the African savannah, the film follows Kion as he assembles the members of the 'Lion Guard'. Throughout the film, the diverse team of young animals will learn how to utilize each of their unique abilities to solve problems and accomplish tasks to maintain balance within the Circle of Life, while also introducing viewers to the vast array of animals that populate the prodigious African landscape."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 44
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 7
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 5
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 4,
+      "male": 23
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP351_holly",
+      "emotion": "pride",
+      "dialogue": "Everything the light touches is part of our kingdom.  The Pride Lands.  Ruling it is a big responsibility, Kiara.  And someday, when you're Queen... Heads up! Incoming!",
+      "target_person": "Kiara",
+      "target_gender": "female",
+      "cause_raw": "becoming queen and ruling the kingdom",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP352_holly",
+      "emotion": "pride",
+      "dialogue": "Kion, I need to talk to your sister.  She'll be tracking gazelles with her friends today.  Because I'm training to be... Queen of the Pride Lands. Yeah, yeah.  Queen of the Pride Lands. Yeah, yeah.  I know all about it, Kiara.",
+      "target_person": "Kiara",
+      "target_gender": "female",
+      "cause_raw": "training to be Queen of the Pride Lands",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP353_holly",
+      "emotion": "pride",
+      "dialogue": "She'll be tracking gazelles with her friends today.  Because I'm training to be... Queen of the Pride Lands. Yeah, yeah.  Queen of the Pride Lands. Yeah, yeah.  I know all about it, Kiara.  Least I have my life figured out.",
+      "target_person": "Kiara",
+      "target_gender": "female",
+      "cause_raw": "training to be Queen of the Pride Lands",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP354_holly",
+      "emotion": "pride",
+      "dialogue": "Come play with me and we'll run free  Whoa  Through the Pride Lands up to the highest tree  Whoa  Gotta live for fun It's the only way",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP355_holly",
+      "emotion": "pride",
+      "dialogue": "Come play with me and we'll run free  Whoa  Through the Pride Lands up to the highest tree  Whoa  Gotta live for fun It's the only way",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP356_holly",
+      "emotion": "pride",
+      "dialogue": "It is the Roar of the Elders!  When you use it,  the great lions of the Pride Lands' past roar with you.  What? You mean that's what happened to my roar?  Yeah, lions in the sky! I saw that!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP357_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah, lions in the sky! I saw that!  The Roar of the Elders is a great gift, Kion.  It will make you the fiercest animal in the Pride Lands.  - But... - But what?  No, no, Simba.",
+      "target_person": "Simba",
+      "target_gender": "male",
+      "cause_raw": "Kion's potential to become the fiercest animal in the Pride Lands",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP358_holly",
+      "emotion": "pride",
+      "dialogue": "You gotta tell me.  What is the Lion Guard?  The Lion Guard is the team that protects the Pride Lands  and defends the Circle of Life.  According to tradition, the Lion Guard is made of the Pride Lands'",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP359_holly",
+      "emotion": "pride",
+      "dialogue": "The Lion Guard is the team that protects the Pride Lands  and defends the Circle of Life.  According to tradition, the Lion Guard is made of the Pride Lands'  fiercest, bravest, fastest, strongest, and keenest of sight.  So what happened to them?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP360_holly",
+      "emotion": "pride",
+      "dialogue": "Wow. Amazing!  It is. And now, as the leader of the Guard,  I need you to assemble the Pride Lands' bravest,  fastest, strongest, and keenest of sight.  Okay, Dad. Got it!",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "becoming the leader of the Guard",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP361_holly",
+      "emotion": "pride",
+      "dialogue": "fastest, strongest, and keenest of sight.  Okay, Dad. Got it!  Don't worry. I'm gonna make you proud!  Yes, Bunga?  This is un-Bunga-Iievable!",
+      "target_person": "Bunga",
+      "target_gender": "male",
+      "cause_raw": "making his dad proud",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP362_holly",
+      "emotion": "pride",
+      "dialogue": "You see, Simba?  And now, Kion will choose the best lions  in the Pride for the Guard.  I hope so, Rafiki.  I'm still not sure he's ready.",
+      "target_person": "Rafiki",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP363_holly",
+      "emotion": "pride",
+      "dialogue": "I hope so, Rafiki.  I'm still not sure he's ready.  Wow! Me. Leader of the Lion Guard... Protectors of the Pride Lands!  Protectors of the Pride Lands!  It's kinda scary.",
+      "target_person": "Rafiki",
+      "target_gender": "male",
+      "cause_raw": "becoming the leader of the Lion Guard",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP364_holly",
+      "emotion": "pride",
+      "dialogue": "I'm still not sure he's ready.  Wow! Me. Leader of the Lion Guard... Protectors of the Pride Lands!  Protectors of the Pride Lands!  It's kinda scary.  - Hey, Kion. - Huh?",
+      "target_person": "Kion",
+      "target_gender": "male",
+      "cause_raw": "becoming the leader of the Lion Guard",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP365_holly",
+      "emotion": "pride",
+      "dialogue": "Lion Guard?  Hmm.  Dad said the Lion Guard needs the Pride Lands' bravest,  strongest, fastest, and keenest of sight.  So I think I'll go ask the bravest animal in the Pride Lands first.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP366_holly",
+      "emotion": "pride",
+      "dialogue": "Dad said the Lion Guard needs the Pride Lands' bravest,  strongest, fastest, and keenest of sight.  So I think I'll go ask the bravest animal in the Pride Lands first.  Kion, wait!  Before you go asking",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP367_holly",
+      "emotion": "pride",
+      "dialogue": "- Ready, Pumbaa? - Ready!  Okay, on three.  One... Two... Stand back, Pride Landers!  Stand back, Pride Landers!  Bunga of the Lion Guard is here!",
+      "target_person": "Bunga",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP368_holly",
+      "emotion": "pride",
+      "dialogue": "Okay, on three.  One... Two... Stand back, Pride Landers!  Stand back, Pride Landers!  Bunga of the Lion Guard is here!  What!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP369_holly",
+      "emotion": "pride",
+      "dialogue": "Dad just told me about it.  The Lion Guard is the team  that protects the Pride Lands  and defends the Circle of Life.  And I'm its new leader.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "becoming the new leader of the Lion Guard",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP370_holly",
+      "emotion": "pride",
+      "dialogue": "I'm gonna be on the Lion Guard, too.  It's un-Bunga-Iievable!  You and Bunga? Protecting the Pride Lands?  Does Dad know about this?  Dad told me to assemble the Pride Lands' best.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "assembling the Pride Lands' best",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP371_holly",
+      "emotion": "pride",
+      "dialogue": "You and Bunga? Protecting the Pride Lands?  Does Dad know about this?  Dad told me to assemble the Pride Lands' best.  And I'm the best. Just ask me.  Well, if you ask me, it sounds like it might be dangerous.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP372_holly",
+      "emotion": "pride",
+      "dialogue": "We always knew you had it in you!  Oh, brother!  Kion's gonna wreck the Pride Lands before I even get to be Queen.  Oh, Bunga. I'm so proud, I could... Oops.  Oops.",
+      "target_person": "Bunga",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP373_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, brother!  Kion's gonna wreck the Pride Lands before I even get to be Queen.  Oh, Bunga. I'm so proud, I could... Oops.  Oops.  Sorry.",
+      "target_person": "Bunga",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP374_holly",
+      "emotion": "pride",
+      "dialogue": "Oops.  Sorry.  Zuri, let's get you back to Pride Rock.  We're outta here!  I better go assemble the rest of my team.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP375_holly",
+      "emotion": "pride",
+      "dialogue": "Don't you know the stories?  The Lion Guard was legendary.  The most powerful team of lions in the Pride Lands.  At least they were... Until Scar destroyed them!  Until Scar destroyed them!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP376_holly",
+      "emotion": "pride",
+      "dialogue": "Yes. The old Lion Guard protected the so-called  Circle of Life.  If Kion's new Lion Guard wins the trust of the Pride Lands,  we Outlanders will... Now, Janja. What were you saying  Now, Janja. What were you saying",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP377_holly",
+      "emotion": "pride",
+      "dialogue": "about the Lion Guard and the Outlanders?  I was saying,  with a Lion Guard patrolling the Pride Lands,  it will be next to impossible for us Outlanders  to take whatever animals we want for food.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP378_holly",
+      "emotion": "pride",
+      "dialogue": "When you live in the Outlands  It's better to make your own rules  Ask anyone outside the Pride Lands  The Circle of Life is for fools  We go where we want when we want to",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP379_holly",
+      "emotion": "pride",
+      "dialogue": "Tonight, we strike Tonight, we strike  So before this new Guard is ready  To defend the Pride Lands from harm  We'll make them all feel unsteady  We'll give them cause for alarm",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP380_holly",
+      "emotion": "pride",
+      "dialogue": "Tonight, we strike Tonight, we strike  Outlanders, arise and follow me!  The Pride Lands will never know what bit them!  Target in sight.  Dive!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP381_holly",
+      "emotion": "pride",
+      "dialogue": "Well, I need your help.  What's the kerbubble, Kion?  The five of us are the Pride Lands' fiercest,  bravest, strongest, fastest and keenest of sight.  And that's why I want you all to join",
+      "target_person": "Kion",
+      "target_gender": "male",
+      "cause_raw": "assembling a strong team",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP382_holly",
+      "emotion": "pride",
+      "dialogue": "And that's why I want you all to join  the new Lion Guard.  Together, we'll protect the Pride Lands  and defend the Circle of Life.  Well, lick my tail and call me a meerkat!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP383_holly",
+      "emotion": "pride",
+      "dialogue": "A Lion Guard?  Figures.  Always the lions lording over the Pride Lands.  I suppose Simba put you in charge of this little team, Kion?  You bet your spots he did!",
+      "target_person": "Kion",
+      "target_gender": "male",
+      "cause_raw": "being put in charge of the Lion Guard by Simba",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP384_holly",
+      "emotion": "pride",
+      "dialogue": "You bet your spots he did!  Fuli, the Lion Guard needs you.  You're the Pride Lands' fastest.  You got that right.  And you're supposed to be the fiercest?",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP385_holly",
+      "emotion": "pride",
+      "dialogue": "Pfft. Groundlings.  Ready?  Okay. This is the Roar... What in the Pride Lands... That was... Different.  That was... Different.  Kion! You call that a roar?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP386_holly",
+      "emotion": "pride",
+      "dialogue": "Kion, the Lion Guard has always been made of lions.  Do you really think a Lion Guard with only one lion  can protect the Pride Lands?  Well, actually... Son, listen.  Son, listen.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP387_holly",
+      "emotion": "pride",
+      "dialogue": "That's why it's important to watch how the grass moves.  Are we going to attack them?  No. My dad says we should only take what the pride needs,  to keep the Circle of Life in balance.  If we took down gazelles just to learn how to do it,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP388_holly",
+      "emotion": "pride",
+      "dialogue": "The Roar will be there for you when you need it.  And so will I.  Until the Pride Lands' end.  Grandfather Mufasa. Don't go yet.  Trust my instincts.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP389_holly",
+      "emotion": "pride",
+      "dialogue": "They don't care about the Circle of Life.  They're not hunting for food.  They want to throw the Pride Lands into chaos.  And it's up to the Lion Guard to stop them!  The Lion Guard?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP390_holly",
+      "emotion": "pride",
+      "dialogue": "What about what Simba said?  So what if we're not all lions?  I know we're the Pride Lands' fiercest, bravest,  fastest, strongest, and keenest of sight!  - That's true. - Of course we are.",
+      "target_person": "Simba",
+      "target_gender": "male",
+      "cause_raw": "for being the Pride Lands' fiercest bravest fastest strongest and keenest of sight",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP391_holly",
+      "emotion": "pride",
+      "dialogue": "What's taking Tiifu so long? Dad needs to stop this!  What?  Till the Pride Lands' end, Lion Guard defend!  Zuka Zama!  Aagh!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP392_holly",
+      "emotion": "pride",
+      "dialogue": "We're the Lion Guard, Janja.  We defend the Circle of Life.  You and your kind are not welcome in the Pride Lands.  Ever!  Zuka Zama! Now that's the Roar!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP393_holly",
+      "emotion": "pride",
+      "dialogue": "If you believe in who you are there's no need to go running  You found a place with your friends The adventures keep on coming  For the Pride Lands  They're united  The Roaris on guard Last time it was Simba",
+      "target_person": "Simba",
+      "target_gender": "male",
+      "cause_raw": "for uniting the Pride Lands",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP394_holly",
+      "emotion": "pride",
+      "dialogue": "They're united  The Roaris on guard Last time it was Simba  Looking after the Pride Lands  Staying strong and united  And no matter where we stand We'll never be divided",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

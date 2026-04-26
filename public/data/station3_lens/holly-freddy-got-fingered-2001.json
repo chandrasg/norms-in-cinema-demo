@@ -1,0 +1,194 @@
+{
+  "film": {
+    "id": "13166",
+    "title": "Freddy Got Fingered",
+    "year": "2001",
+    "industry": "holly",
+    "country": "CH|US",
+    "poster_path": "/gVmSZgxiT7ynyRLsEgg8Xs8ZVWX.jpg",
+    "overview": "Unemployed cartoonist Gord Brody moves back in with his parents Jim and Julie and younger brother Freddy. When his parents demand he leave, he retaliates by spreading rumors that Jim is sexually abusing Freddy."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 12
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 12
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS972_holly",
+      "emotion": "shame",
+      "dialogue": "Sweetie?  You, Gordon Brody, you're nothing.  - You're nothing and will always be nothing. - Dad... God! I've never been so ashamed of anything in my life.  God! I've never been so ashamed of anything in my life.  Dad.",
+      "target_person": "Gordon Brody",
+      "target_gender": "male",
+      "cause_raw": "being considered as nothing",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS973_holly",
+      "emotion": "shame",
+      "dialogue": "You, Gordon Brody, you're nothing.  - You're nothing and will always be nothing. - Dad... God! I've never been so ashamed of anything in my life.  God! I've never been so ashamed of anything in my life.  Dad.  Julie!",
+      "target_person": "Gordon Brody",
+      "target_gender": "male",
+      "cause_raw": "being a disappointment",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS974_holly",
+      "emotion": "shame",
+      "dialogue": "- I can see that. - No, not just how to whack off an elephant.  I learned to believe in myself.  I'm sorry if you're ashamed of me because I do things differently, but I got that from you... ...cos you always do things your own way, no matter what other people think.  ...cos you always do things your own way, no matter what other people think.  And maybe I needed to do the same.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "not conforming to societal norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "WP1815_holly",
+      "emotion": "pride",
+      "dialogue": "You be a good man.  Father, I... I will be a good man.  You make your daddy proud. You hear me?  I'm gonna make you proud, Daddy.  I'm gonna make you so proud.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "son becoming a good man",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1816_holly",
+      "emotion": "pride",
+      "dialogue": "Father, I... I will be a good man.  You make your daddy proud. You hear me?  I'm gonna make you proud, Daddy.  I'm gonna make you so proud.  Make your daddy proud.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "becoming a good man",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1817_holly",
+      "emotion": "pride",
+      "dialogue": "You make your daddy proud. You hear me?  I'm gonna make you proud, Daddy.  I'm gonna make you so proud.  Make your daddy proud.  - You're gonna be so proud. - Proud?",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1818_holly",
+      "emotion": "pride",
+      "dialogue": "I'm gonna make you proud, Daddy.  I'm gonna make you so proud.  Make your daddy proud.  - You're gonna be so proud. - Proud?  Proud.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1819_holly",
+      "emotion": "pride",
+      "dialogue": "I'm gonna make you so proud.  Make your daddy proud.  - You're gonna be so proud. - Proud?  Proud.  Get the fuck outta the way!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1820_holly",
+      "emotion": "pride",
+      "dialogue": "Make your daddy proud.  - You're gonna be so proud. - Proud?  Proud.  Get the fuck outta the way!  Well... ...the boy's grown up.",
+      "target_person": "daddy",
+      "target_gender": "male",
+      "cause_raw": "the boy's growth or maturity",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1821_holly",
+      "emotion": "pride",
+      "dialogue": "I'm a farmer. I'm a farmer, Daddy.  When I grow up I wanna be a farmer! I'm a farmer!  - I'm really proud of that kid. - Yeah. I think he's all grown up.  (# \"I've Gotta Be Me\" by Sammy Davis Jnr.)  # Whether I'm right",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "child's aspiration to be a farmer",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP1822_holly",
+      "emotion": "pride",
+      "dialogue": "Paid for his damn college.  Sits at home all day, whacking off.  Better have a damn job.  Proud... My ass!  My ass!  Hey!  # I'm the backwards man, the backwards man, the backwards man",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1823_holly",
+      "emotion": "pride",
+      "dialogue": "And maybe I needed to do the same.  I know I'll never be the man you want me to be, but I'm your son.  And I want you to be proud.  Son, you did it.  I am proud of you.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1824_holly",
+      "emotion": "pride",
+      "dialogue": "I know I'll never be the man you want me to be, but I'm your son.  And I want you to be proud.  Son, you did it.  I am proud of you.  Proud.  Proud.  Buenos días.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's achievement",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP1825_holly",
+      "emotion": "pride",
+      "dialogue": "And I want you to be proud.  Son, you did it.  I am proud of you.  Proud.  Proud.  Buenos días.  (# traditional song)",
+      "target_person": "Son",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1826_holly",
+      "emotion": "pride",
+      "dialogue": "Son, you did it.  I am proud of you.  Proud.  Proud.  Buenos días.  (# traditional song)  Topping world news tonight, the creator of a popular TV show...",
+      "target_person": "Son",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

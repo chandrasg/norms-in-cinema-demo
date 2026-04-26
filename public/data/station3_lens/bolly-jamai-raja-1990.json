@@ -1,0 +1,158 @@
+{
+  "film": {
+    "id": "213855",
+    "title": "Jamai Raja",
+    "year": "1990",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/diJ6U0UC7ypc6nAPo462NVhyj2d.jpg",
+    "overview": "The conflict between Mother-in-law and Daughter-in-law is very common in every family. But in our exemplary story, there is a conflict between Mother-in-law and Son-in-law. Millionaire Durgeshwari Devi is a very stubborn and proud lady. She has two sons, who are employed in her factory. Her pet daughter Rekha is studying in a medical college in Bombay. Everybody is scared of Durgeshwari in the house. In Raja's house, his mother Devki and his adopted sister Indu are staying. It is a co-incidence that he falls in love with Rekha. When this news is conveyed to Durgeshwari by her Secretary Shakti, she get enraged. Raja marries Rekha secretly. Durgeshwari has to accept Raja as her son-in-law and invites him along with her daughter to stay in her house. But it is her keen desire that Rekha must be separated from Raja and she tries her best to create hatred between them. But truth prevails. During the events that are unfolded, Durgeshwari finally accepts Raja as her son-in-law."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 11
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 7,
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2684_bolly",
+      "emotion": "shame",
+      "dialogue": "Didn't you people hear what I said? Yes. Don't you two feel ashamed to stand here before me? What can I do if he did eVerything in the train? You should haVe bought the train and stopped them!",
+      "target_person": "two individuals",
+      "target_gender": "unclear",
+      "cause_raw": "not following instructions or orders",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s2685_bolly",
+      "emotion": "shame",
+      "dialogue": "Ran away! But I haVen't eVen gone out of the house! Weren't you ashamed to run away from your responsibilities? LeaVing your family in the hands of fate......you became a Vagabond! And now you'Ve come to claim your rights!",
+      "target_person": "character who ran away",
+      "target_gender": "unclear",
+      "cause_raw": "abandoning family and responsibilities",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1400_bolly",
+      "emotion": "pride",
+      "dialogue": "What is the use writing anything to him. Raja is Very stubborn. He won't come home until he gets a job. I am proud to haVe such a self respecting brother. Don't you want to go to office today? -Oh my God! I forgot. Mom, I will drop the letter on my way. -Alright.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "brother's self-respect and determination",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1401_bolly",
+      "emotion": "pride",
+      "dialogue": "What haVe you done? You broke ties with them foreVer? Yes, mom. There is dictatorship instead of emotions in that house. Humanity is a slaVe, and pride of money the boss. Dogs are treated like humans and humans are treated like dogs. I will neVer let my sister get married in that family.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1402_bolly",
+      "emotion": "pride",
+      "dialogue": "Kill me if you like, but please forgiVe me. Being educated, how could you make such a mistake? Because of you, in the mansion..l can still swallow my pride and go & beg at Durgeshwari's door....for your sake. But what is the use? That boy is a coward. A man who fears his mother so much, how will he marry you?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1403_bolly",
+      "emotion": "pride",
+      "dialogue": "Not me either. What? You will stay with them as a house husband? Don't worry, I will only liVe in that house....until I shatter the pride of that proud Durgeshwari....and until she accepts lndu as her daughter-in-law. I'm a wagabond. I'm a wagabond.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1404_bolly",
+      "emotion": "pride",
+      "dialogue": "My shoulder is enough for my sister's tears, Durgeshwari. I don't need my wife to wipe her tears. You are Very proud of your strength. I only haVe faith in my loVe. I will put an end to this loVe.",
+      "target_person": "Durgeshwari",
+      "target_gender": "female",
+      "cause_raw": "strength",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1405_bolly",
+      "emotion": "pride",
+      "dialogue": "That's my promise to you! -You are dreaming, Durgeshwari. The heart is more powerful than money. EVen pride bows before loVe. But the one who is blinded by money....will not be able to accept this fact. But I will make you see this truth.",
+      "target_person": "Durgeshwari",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1406_bolly",
+      "emotion": "pride",
+      "dialogue": "But the one who is blinded by money....will not be able to accept this fact. But I will make you see this truth. I will ensure that you become lonely....and bring you to that state....that all your pride will shatter, and you will be floored. This is my promise to you! My glory will die with me, not before that.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1407_bolly",
+      "emotion": "pride",
+      "dialogue": "Be like your grandma. We'll make you sit on her head. Hey, not me! Pee on your grandma's head. So that she cools down and her pride shatters. Look, he is saying he will. Rekha!",
+      "target_person": "Rekha",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1408_bolly",
+      "emotion": "pride",
+      "dialogue": "I've booked a table at another hotel, let's go! I'll  come too, wearing my new clothes. Did you see? EVen after 15 years, her pride is so hot......that an egg can be fried oVer her head! But don't worry. I'll  make her pride fall at your feet.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1409_bolly",
+      "emotion": "pride",
+      "dialogue": "Did you see? EVen after 15 years, her pride is so hot......that an egg can be fried oVer her head! But don't worry. I'll  make her pride fall at your feet. LeaVe this illusiVe pride oVer your wealth......and see the world through the eyes of an ordinary person. Then you'll realise what you'Ve been missing for so long.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1410_bolly",
+      "emotion": "pride",
+      "dialogue": "But don't worry. I'll  make her pride fall at your feet. LeaVe this illusiVe pride oVer your wealth......and see the world through the eyes of an ordinary person. Then you'll realise what you'Ve been missing for so long. Our son-in-law is a Very good boy.",
+      "target_person": "son-in-law",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "film": {
+    "id": "678835",
+    "title": "Heropanti 2",
+    "year": "2022",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2TxkhMrM98iUb74Dqbkdco3ED0X.jpg",
+    "overview": "Babloo is a computer genius and Inaaya is a self-made billionaire. The two fall in love but due to unforeseen circumstances they suddenly part ways as the cybercrime lord, Laila wants him dead."
+  },
+  "totals": {
+    "shame": 26,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 5
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 3
+    },
+    {
+      "label": "Disrespect",
+      "count": 3
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2380_bolly",
+      "emotion": "shame",
+      "dialogue": "'You ruined everything.' -'It's all your fault.' 'You're a fraud'. 'It's all your fault.' 'Everything is destroyed.' 'You're a murderer.' 'He bestows with respect and shame.' 'It's all your fault.' Whatever Laila's planning can impact the whole world. We need to stop him before it's too late. 31st March keeps on getting highlighted.",
+      "target_person": "Laila",
+      "target_gender": "female",
+      "cause_raw": "causing destruction and potential threat to the world",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s2381_bolly",
+      "emotion": "shame",
+      "dialogue": "I wish I could tell you where I was. –I wish... –Asad Khan sent you, didn't he? The money from our banks disappeared. –It was hacked. He bestows one with respect and shame. We finally found you, Plumber. –Get him. Now, this Plumber...will fix all your leaks.",
+      "target_person": "Plumber",
+      "target_gender": "male",
+      "cause_raw": "involved in a bank hacking",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s2382_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll speak with Laila. –He'll make your life better. –Money. Fame. –Respect. He bestows with respect and shame. He bestows with respect and shame. Let's see what you deserve.",
+      "target_person": "Laila",
+      "target_gender": "female",
+      "cause_raw": "being coerced into a relationship for material benefits",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2383_bolly",
+      "emotion": "shame",
+      "dialogue": "Fame. –Respect. He bestows with respect and shame. He bestows with respect and shame. Let's see what you deserve. Greed made me turn my back on good,",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "greed",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2384_bolly",
+      "emotion": "shame",
+      "dialogue": "People make a wish looking at shooting stars, but no one fulfills the wishes of a broken person. He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame.",
+      "target_person": "broken person",
+      "target_gender": "unclear",
+      "cause_raw": "being broken or weak",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2385_bolly",
+      "emotion": "shame",
+      "dialogue": "but no one fulfills the wishes of a broken person. He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame.",
+      "target_person": "broken person",
+      "target_gender": "unclear",
+      "cause_raw": "being broken or weak",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2386_bolly",
+      "emotion": "shame",
+      "dialogue": "He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s2387_bolly",
+      "emotion": "shame",
+      "dialogue": "He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame. From the earth to the sky, you're the Lord.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s2388_bolly",
+      "emotion": "shame",
+      "dialogue": "He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame. From the earth to the sky, you're the Lord. From the earth to the sky, you're the Lord.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s2389_bolly",
+      "emotion": "shame",
+      "dialogue": "Heal our wounds, and hear everyone's apology. And hear everyone's apology. He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s2390_bolly",
+      "emotion": "shame",
+      "dialogue": "And hear everyone's apology. He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s2391_bolly",
+      "emotion": "shame",
+      "dialogue": "He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame. You know of our wishes.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s2392_bolly",
+      "emotion": "shame",
+      "dialogue": "He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame. You know of our wishes. You know of our wishes,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s2393_bolly",
+      "emotion": "shame",
+      "dialogue": "Heal our wounds, and hear everyone's apology. And hear everyone's apology. He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s2394_bolly",
+      "emotion": "shame",
+      "dialogue": "And hear everyone's apology. He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame. Respect is your gift, shame means You're upset with us.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s2395_bolly",
+      "emotion": "shame",
+      "dialogue": "He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame. Respect is your gift, shame means You're upset with us. How can anyone desert his kin?",
+      "target_person": "kin",
+      "target_gender": "unclear",
+      "cause_raw": "deserting family",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2396_bolly",
+      "emotion": "shame",
+      "dialogue": "He bestows with respect and shame. He bestows with respect and shame. Respect is your gift, shame means You're upset with us. How can anyone desert his kin? Be convinced, O Lord.",
+      "target_person": "God",
+      "target_gender": "male",
+      "cause_raw": "not being able to please God",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2397_bolly",
+      "emotion": "shame",
+      "dialogue": "People make a wish looking at shooting stars, but no one fulfills the wishes of a broken person. He bestows with respect and shame. He bestows with respect and shame. Respect is your gift, shame means You're upset with us.",
+      "target_person": "broken person",
+      "target_gender": "unclear",
+      "cause_raw": "being broken or helpless",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2398_bolly",
+      "emotion": "shame",
+      "dialogue": "but no one fulfills the wishes of a broken person. He bestows with respect and shame. He bestows with respect and shame. Respect is your gift, shame means You're upset with us. How can anyone desert his kin?",
+      "target_person": "broken person",
+      "target_gender": "unclear",
+      "cause_raw": "not being able to fulfill wishes",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2399_bolly",
+      "emotion": "shame",
+      "dialogue": "He bestows with respect and shame. He bestows with respect and shame. Respect is your gift, shame means You're upset with us. How can anyone desert his kin? Be convinced, O Lord.",
+      "target_person": "kin",
+      "target_gender": "unclear",
+      "cause_raw": "deserting family",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2400_bolly",
+      "emotion": "shame",
+      "dialogue": "There's paradise under a mother's feet. Give me my paradise. He bestows with respect and shame. -Give me my paradise. He bestows with respect and shame. Respect is your gift, shame means You're upset with us.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "not fulfilling expectations as a mother",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2401_bolly",
+      "emotion": "shame",
+      "dialogue": "Give me my paradise. He bestows with respect and shame. -Give me my paradise. He bestows with respect and shame. Respect is your gift, shame means You're upset with us. How can anyone desert his kin?",
+      "target_person": "kin",
+      "target_gender": "unclear",
+      "cause_raw": "deserting family",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2402_bolly",
+      "emotion": "shame",
+      "dialogue": "He bestows with respect and shame. -Give me my paradise. He bestows with respect and shame. Respect is your gift, shame means You're upset with us. How can anyone desert his kin? Be convinced, O Lord.",
+      "target_person": "kin",
+      "target_gender": "male",
+      "cause_raw": "deserting family",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2403_bolly",
+      "emotion": "shame",
+      "dialogue": "No, no, please. What are you doing? -Why not? We're relatives after all. Very close to me just like my sister. –Touch her feet, take her blessings. -Mom. My son. –I am so ashamed of you, brother. –Ashamed of me? Yes, I am ashamed of you. -Ashamed of me? –Look...Once I get the money, I'll order a dozen sisters like you online. Cash on delivery. –Same day return if she's not loyal. –Ashamed of me?",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "Disrespecting women and family values",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2404_bolly",
+      "emotion": "shame",
+      "dialogue": "Very close to me just like my sister. –Touch her feet, take her blessings. -Mom. My son. –I am so ashamed of you, brother. –Ashamed of me? Yes, I am ashamed of you. -Ashamed of me? –Look...Once I get the money, I'll order a dozen sisters like you online. Cash on delivery. –Same day return if she's not loyal. –Ashamed of me? I wonder how I stayed in India for so many days without you.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "Disrespectful behavior towards women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2405_bolly",
+      "emotion": "shame",
+      "dialogue": "My son. –I am so ashamed of you, brother. –Ashamed of me? Yes, I am ashamed of you. -Ashamed of me? –Look...Once I get the money, I'll order a dozen sisters like you online. Cash on delivery. –Same day return if she's not loyal. –Ashamed of me? I wonder how I stayed in India for so many days without you. Now we'll always go together wherever we go. –I'll never leave you. -Aunty,",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "Disrespectful behavior towards women",
+      "theme_label": "Disrespect"
+    }
+  ]
+}

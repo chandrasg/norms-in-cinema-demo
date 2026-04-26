@@ -1,0 +1,191 @@
+{
+  "film": {
+    "id": "26277",
+    "title": "Mujhse Dosti Karoge!",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/mHByEO7KRpABh1HvNoel3L6Y74O.jpg",
+    "overview": "A man falls in love with his childhood friend, but another friend is the one who reciprocates his feelings."
+  },
+  "totals": {
+    "shame": 13,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 6
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 10,
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3649_bolly",
+      "emotion": "shame",
+      "dialogue": "Raj! What? Aren't you ashamed to enter a girl's room like this? Aren't you ashamed that a young girl....sleeps with her bedroom door open? How do I know there are such boys in the house too?",
+      "target_person": "Raj",
+      "target_gender": "male",
+      "cause_raw": "invading a girl's privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s3650_bolly",
+      "emotion": "shame",
+      "dialogue": "What? Aren't you ashamed to enter a girl's room like this? Aren't you ashamed that a young girl....sleeps with her bedroom door open? How do I know there are such boys in the house too? Hey, I am like this. Ok listen.",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "entering a girl's room without permission",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3651_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes. - Ready. Smile! What's happening to me? Till today I never felt ashamed of anything. Seeing anyone, I felt nothing. But now, whenever Raj..You know what I mean to say.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "developing feelings for someone",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3652_bolly",
+      "emotion": "shame",
+      "dialogue": "Come on! Come on! Today no excuse! We all will eat together! What stuffed bread! - Hey, Mr. America. You are very shameless! Why? What happened? You are eating all alone.",
+      "target_person": "Mr. America",
+      "target_gender": "male",
+      "cause_raw": "selfishness eating alone)",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s3653_bolly",
+      "emotion": "shame",
+      "dialogue": "Good old days! Forget it! You have come for your daughter's marriage. Have some shame! Shameless people don't know what shame is! I think we should leave them alone. Let's go. - Yeah.",
+      "target_person": "guests",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior at a wedding",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3654_bolly",
+      "emotion": "shame",
+      "dialogue": "Forget it! You have come for your daughter's marriage. Have some shame! Shameless people don't know what shame is! I think we should leave them alone. Let's go. - Yeah. Let's go! - Listen! Fine, go!",
+      "target_person": "guests",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior at a wedding",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3655_bolly",
+      "emotion": "shame",
+      "dialogue": "Come with me! - Where? What's the matter? Where are you taking me early in the morning? Have some shame! You are always joking! Rohan, you sing well! - Thank you. - Even I am a good singer. Take! - I had enough! Excuse me! - Yeah!",
+      "target_person": "Rohan",
+      "target_gender": "male",
+      "cause_raw": "joking around",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3656_bolly",
+      "emotion": "shame",
+      "dialogue": "So! Would you be that special friend? That special friend till the end whether it's worth being friends with you Let me tell you in a day or two...Aren't you ashamed of yourself? Walking into a girl's bedroom uninvited Aren't you ashamed to sleep with the door open with young men in the house? Never expected a shameless young man",
+      "target_person": "young man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior and lack of respect for privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s3657_bolly",
+      "emotion": "shame",
+      "dialogue": "whether it's worth being friends with you Let me tell you in a day or two...Aren't you ashamed of yourself? Walking into a girl's bedroom uninvited Aren't you ashamed to sleep with the door open with young men in the house? Never expected a shameless young man Well, that's me! Anyway, what are you doing today?",
+      "target_person": "young man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3658_bolly",
+      "emotion": "shame",
+      "dialogue": "Let me tell you in a day or two...Aren't you ashamed of yourself? Walking into a girl's bedroom uninvited Aren't you ashamed to sleep with the door open with young men in the house? Never expected a shameless young man Well, that's me! Anyway, what are you doing today? You have to have lunch with Tina and me today",
+      "target_person": "young man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3659_bolly",
+      "emotion": "shame",
+      "dialogue": "Here is your special room Hey where are the flowers for the wedding night? Don't remind me son, don't remind me! Those were the days...It's your daughter's wedding! Don't be so shameless Shameless men have no shame! - I think we should leave them alone Listen... never mind, Scoot",
+      "target_person": "father of the bride",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior at daughter's wedding",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3660_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey where are the flowers for the wedding night? Don't remind me son, don't remind me! Those were the days...It's your daughter's wedding! Don't be so shameless Shameless men have no shame! - I think we should leave them alone Listen... never mind, Scoot This will be your room",
+      "target_person": "father of the bride",
+      "target_gender": "male",
+      "cause_raw": "behaving inappropriately at daughter's wedding",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3661_bolly",
+      "emotion": "shame",
+      "dialogue": "Son, consider this your home, - And put on some muscle Excuse me, come with me, - Where to? So early in the morning? Shameless! Rohan, you sing rather well, - Even I can sing Now seriously, Rohan, Raj isn't here",
+      "target_person": "Rohan",
+      "target_gender": "male",
+      "cause_raw": "not being muscular",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1943_bolly",
+      "emotion": "pride",
+      "dialogue": "You don't know what you are doing. But what did I know.. that not you but I am wrong. I am proud to have loved you. And I am happy that you have loved me. So what if we can't marry?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "loving the other person",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1944_bolly",
+      "emotion": "pride",
+      "dialogue": "During the past few days, I have hated you Pooja I thought you were being too stubborn...that you didn't know what you were doing...Little did I realize that not you, it was me, who was in the wrong, I'm proud I loved you, Pooja and I am happy for the love you gave me Even if we couldn't come together, our love will always be there I don't know the true meaning of love but I do know...whatever happens to us now, is what love really means",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "loving Pooja",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

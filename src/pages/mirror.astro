@@ -1,0 +1,90 @@
+---
+import Layout from "../layouts/Layout.astro";
+import GuessGame from "../components/Mirror/GuessGame.tsx";
+import AsymmetryDots from "../components/Mirror/AsymmetryDots.tsx";
+
+const data = (await import("../../public/data/station1_mirror.json", { assert: { type: "json" } })).default;
+const ratio = data.headline.shame_freq_ratio_bolly_to_holly.toFixed(1);
+const bollyShame = (data.headline.shame_female_share_bolly * 100).toFixed(0);
+const hollyShame = (data.headline.shame_female_share_holly * 100).toFixed(0);
+---
+
+<Layout title="The Mirror — MAPGEN: Cinema's Mirror" station="mirror">
+  <section class="container-kiosk pt-16 pb-32">
+    <p class="text-xs uppercase tracking-[0.3em] text-gold-400">Station 1</p>
+    <h1 class="mt-3 font-display text-kiosk-xl text-white max-w-3xl">The Mirror.</h1>
+    <p class="mt-4 max-w-2xl text-kiosk-md text-white/75 leading-snug">
+      Two cultures speak about shame and pride in different vocabularies.
+      But the line between who is sanctioned and who is celebrated runs the
+      same way in both.
+    </p>
+
+    <!-- ROUND 1: Guess the Industry -->
+    <div class="mt-16">
+      <p class="text-xs uppercase tracking-[0.25em] text-white/50 mb-4">Round one — read it before the credits roll.</p>
+      <GuessGame client:load rounds={data.guess_rounds} />
+    </div>
+
+    <!-- ROUND 2: The asymmetry reveal -->
+    <div class="mt-24">
+      <p class="text-xs uppercase tracking-[0.25em] text-white/50 mb-4">Round two — the pattern beneath the surface.</p>
+      <div class="grid gap-6 md:grid-cols-3">
+        <div class="panel p-6 md:col-span-1">
+          <p class="font-display text-5xl md:text-6xl text-gold-400">
+            {ratio}<span class="text-white/30 text-2xl">×</span>
+          </p>
+          <p class="mt-3 text-sm leading-relaxed text-white/70">
+            Shame is mentioned <span class="text-white">{ratio} times more often</span>
+            in Bollywood than in Hollywood. Eastern cultures use shame openly;
+            Western cultures avoid it.
+          </p>
+        </div>
+        <div class="panel p-6">
+          <p class="font-display text-5xl md:text-6xl text-bolly">{bollyShame}<span class="text-white/30 text-2xl">%</span></p>
+          <p class="mt-3 text-sm leading-relaxed text-white/70">
+            of labeled shame in <span class="text-bolly">Bollywood</span> is
+            directed at women.
+          </p>
+        </div>
+        <div class="panel p-6">
+          <p class="font-display text-5xl md:text-6xl text-holly">{hollyShame}<span class="text-white/30 text-2xl">%</span></p>
+          <p class="mt-3 text-sm leading-relaxed text-white/70">
+            of labeled shame in <span class="text-holly">Hollywood</span> is
+            directed at women. <span class="text-white">Same line, different vocabulary.</span>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-12">
+      <AsymmetryDots client:load asymmetry={data.asymmetry} />
+    </div>
+
+    <!-- Linguistic tells -->
+    <div class="mt-24 grid gap-6 md:grid-cols-2">
+      <div class="panel p-6">
+        <p class="text-xs uppercase tracking-[0.25em] text-bolly">Bollywood shame, in two words</p>
+        <h3 class="mt-2 font-display text-2xl text-white">"<em class="italic">You</em> should be ashamed."</h3>
+        <p class="mt-3 text-sm text-white/65 leading-relaxed">
+          Shame in Bollywood is <span class="text-white">other-directed</span>.
+          Second-person pronouns and references to <em>family / sister / mother</em>
+          dominate. The community delivers the verdict.
+        </p>
+      </div>
+      <div class="panel p-6">
+        <p class="text-xs uppercase tracking-[0.25em] text-holly">Hollywood shame, in two words</p>
+        <h3 class="mt-2 font-display text-2xl text-white">"<em class="italic">I</em> should have known."</h3>
+        <p class="mt-3 text-sm text-white/65 leading-relaxed">
+          Shame in Hollywood is <span class="text-white">self-directed</span>.
+          First-person pronouns and past-tense regret dominate. The character
+          delivers the verdict on themselves.
+        </p>
+      </div>
+    </div>
+
+    <p class="mt-24 max-w-2xl text-kiosk-md font-display italic text-white/70 leading-snug">
+      The cultures argue about who deserves the sanction. They agree, mostly,
+      on whose body it lands on.
+    </p>
+  </section>
+</Layout>

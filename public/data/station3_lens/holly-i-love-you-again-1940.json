@@ -1,0 +1,178 @@
+{
+  "film": {
+    "id": "20643",
+    "title": "I Love You Again",
+    "year": "1940",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/vOqMLBf3AcTqjM1PFcYDDAgye23.jpg",
+    "overview": "Boring businessman Larry Wilson recovers from amnesia and discovers he's really a con man...and loves his soon-to-be-ex wife."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 9
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 3
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    },
+    "pride": {
+      "male": 8,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1173_holly",
+      "emotion": "shame",
+      "dialogue": "- You know mine. - Yeah, ginger ale and grape juice.  - Come, Wilson, that's no drink! - Well, that's all I ever take.  You know, it's a downright shame  that you gentlemen have never been to Habersville.  You don't know what you've missed. Fine cultural background,",
+      "target_person": "Wilson",
+      "target_gender": "male",
+      "cause_raw": "not consuming alcohol",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "WS1174_holly",
+      "emotion": "shame",
+      "dialogue": "Look at that sailcloth.  You'll pardon my cold hands, won't you, Mrs. Albemarle?  Why, she's positively ashamed to be seen in it.  She's probably more ashamed to be seen without it.  You don't know Mrs. Albemarle.",
+      "target_person": "Mrs. Albemarle",
+      "target_gender": "female",
+      "cause_raw": "wearing unfashionable or poor quality clothing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS1175_holly",
+      "emotion": "shame",
+      "dialogue": "You'll pardon my cold hands, won't you, Mrs. Albemarle?  Why, she's positively ashamed to be seen in it.  She's probably more ashamed to be seen without it.  You don't know Mrs. Albemarle.  Now, haven't you something from, say, Charmaine?",
+      "target_person": "Mrs. Albemarle",
+      "target_gender": "female",
+      "cause_raw": "ashamed of her appearance or clothing",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1176_holly",
+      "emotion": "shame",
+      "dialogue": "- I suppose Tommy told you. - I suppose Junior told you.  What a cock-and-bull story. Imagine finding oil out here.  - But Dad, we seen... - Aren't you ashamed of yourself,  dragging your father off on a wild goose chase?  I suppose they got the oil off a truck or something.",
+      "target_person": "Tommy and Junior",
+      "target_gender": "male",
+      "cause_raw": "lying and misleading",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WP2171_holly",
+      "emotion": "pride",
+      "dialogue": "This is Doc Ryan. Oh, yes, yes, good old Doc.  - How are you, Dr. Ryan? - I'm much better now, thanks to him.  - Habersville is pretty proud of that rescue. - Habersville?  Well, yes, good old Habersville.  Did you just leave?",
+      "target_person": "Habersville",
+      "target_gender": "male",
+      "cause_raw": "for the rescue",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2172_holly",
+      "emotion": "pride",
+      "dialogue": "(BAND PLAYING FOR HE'S A JOLL Y GOOD FELLOW)  (PEOPLE CHEERING)  Larry! Darling. Larry! I'm so proud.  Ixnay! Ixnay! The wife.  - Mother! - Kay, darling.",
+      "target_person": "Larry",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2173_holly",
+      "emotion": "pride",
+      "dialogue": "Larry, here's Mayor Carver.  Oh, yeah! Well, how are you, Mr. Mayor? You're certainly looking mighty fit.  Habersville is mighty proud of you, my boy.  What you did was not only a credit to yourself and the community  but a shining example for our youth.",
+      "target_person": "Larry",
+      "target_gender": "male",
+      "cause_raw": "for his creditable actions and being an example for youth",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP2174_holly",
+      "emotion": "pride",
+      "dialogue": "Yes, Mayor, this is my good friend Dr. Ryan.  - Mr. Mayor. - Dr. Ryan.  I am proud and happy to be here, folks,  and I would like to take this occasion to say... Larry, it's my proud privilege to present a gift from the Municipal Band.  Larry, it's my proud privilege to present a gift from the Municipal Band.",
+      "target_person": "Mayor",
+      "target_gender": "male",
+      "cause_raw": "presenting a gift from the Municipal Band",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2175_holly",
+      "emotion": "pride",
+      "dialogue": "- Mr. Mayor. - Dr. Ryan.  I am proud and happy to be here, folks,  and I would like to take this occasion to say... Larry, it's my proud privilege to present a gift from the Municipal Band.  Larry, it's my proud privilege to present a gift from the Municipal Band.  - Well. - A solid silver trumpet.",
+      "target_person": "Dr. Ryan",
+      "target_gender": "male",
+      "cause_raw": "presenting a gift from the Municipal Band",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2176_holly",
+      "emotion": "pride",
+      "dialogue": "I am proud and happy to be here, folks,  and I would like to take this occasion to say... Larry, it's my proud privilege to present a gift from the Municipal Band.  Larry, it's my proud privilege to present a gift from the Municipal Band.  - Well. - A solid silver trumpet.  Well, that's very nice. Thank you very much, Mayor.",
+      "target_person": "Mayor",
+      "target_gender": "male",
+      "cause_raw": "presenting a gift",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2177_holly",
+      "emotion": "pride",
+      "dialogue": "- Not a word? - Just keep quiet. Understand?  You said before that I was lovely, attractive to you! Well, that's not so.  It's just your pride, that's all. Stop doing that.  You're losing me, so suddenly I seem worth holding on to. It's not me.  It's just the idea of giving up anything that ever belonged to you.",
+      "target_person": "second speaker",
+      "target_gender": "female",
+      "cause_raw": "not wanting to give up anything that ever belonged to them",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2178_holly",
+      "emotion": "pride",
+      "dialogue": "Well. Well, that's easy.  - How are you? - At ease, Belenson.  The troop is very proud of you, sir. That rescue at sea.  I'm the guy whose life he saved. Ryan's the name.  Ranger leader Ryan from Scranton?",
+      "target_person": "Ryan",
+      "target_gender": "male",
+      "cause_raw": "for rescuing at sea",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2179_holly",
+      "emotion": "pride",
+      "dialogue": "Come on, fellows, let's go. Good evening, Doctor.  - Good evening, gentlemen. - Good evening, Doctor.  Great work, pal. I was listening at the door. I'm proud of you.  Yes, thanks. Where is Kay?  Kay? I saw her go out a minute ago with a letter in her hand.",
+      "target_person": "pal",
+      "target_gender": "male",
+      "cause_raw": "great work specific reason not given",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

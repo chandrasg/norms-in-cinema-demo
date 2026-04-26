@@ -1,0 +1,201 @@
+{
+  "film": {
+    "id": "42401",
+    "title": "Since You Went Away",
+    "year": "1944",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/wSaJNuhDTzkKntI7Pony2DRyDKY.jpg",
+    "overview": "In 1943, several people enter, re-enter, and exit the difficult life of a Midwestern family whose patriarch has been called up to war, leaving behind his wife and two teen daughters."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 15
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 3
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Patriotism",
+      "count": 2
+    },
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 3,
+      "male": 9
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1243_holly",
+      "emotion": "shame",
+      "dialogue": "Thank heaven my child had the courage to say to you  what should have been said long ago.  And let me add that I'm ashamed  that I've put up with you, that I've even known you.  Well!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "lack of courage and unacceptable behavior",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2245_holly",
+      "emotion": "pride",
+      "dialogue": "I've got a picture of him in his uniform right here.  I'd love to see him.  You're very proud of him, aren't you?  Yes, ma'am.  There are two things that Johnny always wanted to be.",
+      "target_person": "Ma'am",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2246_holly",
+      "emotion": "pride",
+      "dialogue": "Tony, aren't you going to dance with me even once?  Go ahead, Tony.  Jane, I'm really very proud of you.  You're the nicest-looking girl in the place.  Tony, do you think so?",
+      "target_person": "Tony",
+      "target_gender": "male",
+      "cause_raw": "Jane being the nicest-looking girl in the place",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "WP2247_holly",
+      "emotion": "pride",
+      "dialogue": "Colonel Smollett, I wouldn't hurt your feelings for anything.  It's not a question of my feelings.  After all, a man does have his pride.  There's the postman. Maybe it's a letter from Pop!  You'll wait here, won't you?",
+      "target_person": "Colonel Smollett",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2248_holly",
+      "emotion": "pride",
+      "dialogue": "One of them was with Washington at Yorktown.  Although sometimes I think Grandpa just made that one up.  I'm sure he didn't. You ought to be awfully proud.  I'm proud, all right.  But something went wrong with me.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "family's historical achievements",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP2249_holly",
+      "emotion": "pride",
+      "dialogue": "Although sometimes I think Grandpa just made that one up.  I'm sure he didn't. You ought to be awfully proud.  I'm proud, all right.  But something went wrong with me.  Mother died when I was born, so I never knew her.",
+      "target_person": "Grandpa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2250_holly",
+      "emotion": "pride",
+      "dialogue": "You think a lot of him, don't you?  Of course, but what's that got to do with it?  You're a soldier, and I'm... that is, we're proud of you.  And I hope you never get promoted.  All those officers strutting around with their gold braid and everything.",
+      "target_person": "we",
+      "target_gender": "unclear",
+      "cause_raw": "being a soldier",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "WP2251_holly",
+      "emotion": "pride",
+      "dialogue": "Jones City, Nebraska, turns out to greet Sergeant Tommy Blair  of the Army Air Forces.  Tommy, seated between his proud father and mother,  joyfully receives the plaudits of his hometown.  - You say it's animal? - That's right.",
+      "target_person": "father and mother",
+      "target_gender": "unclear",
+      "cause_raw": "their son's military recognition",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "WP2252_holly",
+      "emotion": "pride",
+      "dialogue": "and I will hold as a sacred trust  the symbol of mercy which I wear... the Red Cross.  \"Tell Jane I'm proud of my little Florence Nightingale,  \"and she must hold the thought that next summer,  or the summer after that, we'll be boating again on the lake.\"",
+      "target_person": "Jane",
+      "target_gender": "female",
+      "cause_raw": "becoming a Florence Nightingale nurse",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2253_holly",
+      "emotion": "pride",
+      "dialogue": "Well, maybe you could tell him that... tell him that I'm a Smollett, all right,  tell him that I'm a Smollett, all right,  and before this thing is over, I'll make him proud of me yet.  Gee, that's a grandstand speech for you.  No, it isn't. It's the very nicest gift you could give him.",
+      "target_person": "Smollett",
+      "target_gender": "male",
+      "cause_raw": "making someone proud",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP2254_holly",
+      "emotion": "pride",
+      "dialogue": "- Not about... Pop? - No.  Sit down, darling.  Jane, dear, I'm terribly proud of the way you've grown up.  I'm sorry Pop missed it.  Is that all? That's sweet of you, Mother.",
+      "target_person": "Mother",
+      "target_gender": "female",
+      "cause_raw": "daughter's growth and maturity",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2255_holly",
+      "emotion": "pride",
+      "dialogue": "Don't you remember the message he sent to you... that he was a Smollett, all right,  that he was a Smollett, all right,  and before the war was over, you'd be proud of him?  He did say that, didn't he?  Yes, I am proud of him.",
+      "target_person": "he",
+      "target_gender": "male",
+      "cause_raw": "being a Smollett and his actions during the war",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2256_holly",
+      "emotion": "pride",
+      "dialogue": "and before the war was over, you'd be proud of him?  He did say that, didn't he?  Yes, I am proud of him.  My only grandchild had to die before l... Come in.  Come in.",
+      "target_person": "grandparent",
+      "target_gender": "unclear",
+      "cause_raw": "grandchild's actions before death",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2257_holly",
+      "emotion": "pride",
+      "dialogue": "but as far as making sacrifices,  I'm afraid we're two of a kind.  And the realization of it doesn't make me very proud or happy.  Well!  Good-bye, Major.",
+      "target_person": "Major",
+      "target_gender": "male",
+      "cause_raw": "realization of making sacrifices",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP2258_holly",
+      "emotion": "pride",
+      "dialogue": "I'll bet he didn't tell you he's been recommended for the Navy Cross.  No, really?  He'll make jokes about it, but he's very proud of it.  I want to talk to you, John Paul Jones.  What have I done now?",
+      "target_person": "John Paul Jones",
+      "target_gender": "male",
+      "cause_raw": "being recommended for the Navy Cross",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2259_holly",
+      "emotion": "pride",
+      "dialogue": "- It looks just like that. - Stop it, Tony.  This is an old one. It's last year's model.  He'll joke about it, but he's really very proud of it.  Well, he said the same thing about you.  - If you people will excuse me now. - He did, did he?",
+      "target_person": "Tony",
+      "target_gender": "male",
+      "cause_raw": "his old model",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

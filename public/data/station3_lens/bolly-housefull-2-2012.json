@@ -1,0 +1,152 @@
+{
+  "film": {
+    "id": "85052",
+    "title": "Housefull 2",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/y6L3GpfXWqfO7COtUyiEeACH35G.jpg",
+    "overview": "A comedy of errors wherein four men help each other to fool their prospective father-in-laws creating a cascade of confusion and mayhem."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 6
+    },
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 8
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2450_bolly",
+      "emotion": "shame",
+      "dialogue": "Shut up, woman. What's the point in making steel locks....when your fair neighbor had the key to your house. Have some shame. You shut up. Your fate black.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2451_bolly",
+      "emotion": "shame",
+      "dialogue": "But when I said that I want to meet you he straightaway ref He said that if I meet you....then my image and reputation will be ruined. Because...there's a shameful past connected with you. Shameful past? Mine? Batook was saying that you were a dacoit.",
+      "target_person": "character being spoken to",
+      "target_gender": "male",
+      "cause_raw": "having a past as a dacoit",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2452_bolly",
+      "emotion": "shame",
+      "dialogue": "He said that if I meet you....then my image and reputation will be ruined. Because...there's a shameful past connected with you. Shameful past? Mine? Batook was saying that you were a dacoit. And you were lying that you were a feared dacoit.",
+      "target_person": "character being spoken to",
+      "target_gender": "male",
+      "cause_raw": "having a past as a dacoit",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2453_bolly",
+      "emotion": "shame",
+      "dialogue": "You know. He's hasn't laid his hand on any girl yet. What? - I am ashamed of him. What? - Yes. Sunny, is this true?",
+      "target_person": "Sunny",
+      "target_gender": "male",
+      "cause_raw": "not being sexually active",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2454_bolly",
+      "emotion": "shame",
+      "dialogue": "Go on, fall in love. And when we did, you said Let's go. I feel ashamed to call you father. Bobby. If you want to slap someone then slap me.",
+      "target_person": "Bobby's father",
+      "target_gender": "male",
+      "cause_raw": "not accepting his child's love",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2455_bolly",
+      "emotion": "shame",
+      "dialogue": "Shut up, woman. What's the point in making steel locks.....when your fair neighbor had the key to your house. Have some shame. You shut up. Your fate black.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2456_bolly",
+      "emotion": "shame",
+      "dialogue": "But when I said that I want to meet you he straightaway ref He said that if I meet you.....then my image and reputation will be ruined. Because...there's a shameful past connected with you. Shameful past? Mine? Batook was saying that you were a dacoit.",
+      "target_person": "character being spoken to",
+      "target_gender": "male",
+      "cause_raw": "having a past as a dacoit",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2457_bolly",
+      "emotion": "shame",
+      "dialogue": "He said that if I meet you.....then my image and reputation will be ruined. Because...there's a shameful past connected with you. Shameful past? Mine? Batook was saying that you were a dacoit. And you were lying that you were a feared dacoit.",
+      "target_person": "character being spoken to",
+      "target_gender": "male",
+      "cause_raw": "having a past as a dacoit",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2458_bolly",
+      "emotion": "shame",
+      "dialogue": "You know. He's hasn't laid his hand on any girl yet. What? - I am ashamed of him. What? - Yes. Sunny, is this true?",
+      "target_person": "Sunny",
+      "target_gender": "male",
+      "cause_raw": "not being sexually active",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2459_bolly",
+      "emotion": "shame",
+      "dialogue": "Go on, fall in love. And when we did, you said Let's go. I feel ashamed to call you father. Bobby. If you want to slap someone then slap me.",
+      "target_person": "Bobby's father",
+      "target_gender": "male",
+      "cause_raw": "not accepting his child's love",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1269_bolly",
+      "emotion": "pride",
+      "dialogue": "You're insulting me in front of my friend. I am the one who's feeling insulted. Papa, you'll be proud of me tomorrow. We'll be laying our hands on the real deal tomorrow. - Yes. We'll marry the girls and take all their money and leave them.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "successful scam",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1270_bolly",
+      "emotion": "pride",
+      "dialogue": "You're insulting me in front of my friend. I am the one who's feeling insulted. Papa, you'll be proud of me tomorrow. We'll be laying our hands on the real deal tomorrow. - Yes. We'll marry the girls and take all their money and leave them.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "achieving a financial gain through deceit",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

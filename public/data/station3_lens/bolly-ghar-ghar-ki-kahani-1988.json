@@ -1,0 +1,233 @@
+{
+  "film": {
+    "id": "302520",
+    "title": "Ghar Ghar Ki Kahani",
+    "year": "1988",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5CcTsbspcKXynC6azLM8O8PcwOu.jpg",
+    "overview": "A dysfunctional family is in turmoil after the son of a mild-mannered man accuses his wife of having an affair."
+  },
+  "totals": {
+    "shame": 15,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 3
+    },
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 6,
+      "male": 7
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2063_bolly",
+      "emotion": "shame",
+      "dialogue": "Firstly she makes a mistake and to top it....she makes eyes with her own eyes! How dare she? You keep saying how dare she. Some day she will blacken our face and fly away....after putting us to shame in our community. How dare she? Sorry! I should say that again and again. I'll set her right. Look, please get me some hot tea for me.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "behaving against societal norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s2064_bolly",
+      "emotion": "shame",
+      "dialogue": "Bhabhi, when brother doesn't come home for so....many days your heart too is in pain, isn't it? I also feel a slight, sweet, sour pain like....peppermint in the same place. Aren't you ashamed of talking to me like this? You are my mother friend. That means a friend like my mother.",
+      "target_person": "character speaking to Bhabhi",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior and comments",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2065_bolly",
+      "emotion": "shame",
+      "dialogue": "Really? How dare she? - You will keep saying how dare she. And some day she will elope with some wayward ruffian. We will be put to shame. We won't have a nose to be proud of. No. That won't happen. We will get an iron nose fitted. You cracked a joke again?!! - Joke? What joke?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "eloping without family's consent",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2066_bolly",
+      "emotion": "shame",
+      "dialogue": "And finally ended up creating bedlam. You hit the kids. You slapped Ganga Bhabhi. It is a shameful and sorry thing to happen. Mother, is this a house or hell? Whenever I come home tired, I don't to hear anything....other than abuses, taunts, fights and quarrels.",
+      "target_person": "Ganga Bhabhi",
+      "target_gender": "female",
+      "cause_raw": "physical abuse",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s2067_bolly",
+      "emotion": "shame",
+      "dialogue": "Listen. May we chant the name of God. May the Satan be put to shame? - What? Why are you saying this? Because my Bhabhi knows about us.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "having an affair",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s2068_bolly",
+      "emotion": "shame",
+      "dialogue": "Why? Are you shocked now? Or has your breath stopped? Today I found out what you are up....to in the name of college and library. Shameless! Unabashed! You witch! Come inside! Go to your room. - I will not go inside. Will you go inside or not? - No!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2069_bolly",
+      "emotion": "shame",
+      "dialogue": "Will you go inside or not? - No! What? Are you answering back to me? Are you trying to act pricey? Shameless! Immoral! Shameless! Get into your room! - Bhabhi, let me go. She has delayed very much. I don't think she will come.",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "disobedience",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2070_bolly",
+      "emotion": "shame",
+      "dialogue": "What? Are you answering back to me? Are you trying to act pricey? Shameless! Immoral! Shameless! Get into your room! - Bhabhi, let me go. She has delayed very much. I don't think she will come. Don't say such inauspicious things.",
+      "target_person": "Unnamed Character",
+      "target_gender": "female",
+      "cause_raw": "Answering back and perceived disrespect",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2071_bolly",
+      "emotion": "shame",
+      "dialogue": "I will never do such a thing. Please forgive me. I will make you sick but I will never forgive you. You have brought shame to us! You have put your Bhabhi to shame forever. How will she go out with her soiled dreadful face?!",
+      "target_person": "Bhabhi's husband",
+      "target_gender": "male",
+      "cause_raw": "causing harm to his wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2072_bolly",
+      "emotion": "shame",
+      "dialogue": "I will make you sick but I will never forgive you. You have brought shame to us! You have put your Bhabhi to shame forever. How will she go out with her soiled dreadful face?! I warn you not to step out of this room after today.",
+      "target_person": "character being shamed",
+      "target_gender": "female",
+      "cause_raw": "causing shame to sister-in-law",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2073_bolly",
+      "emotion": "shame",
+      "dialogue": "Move or say something. Why will you say anything? I am not in favour of this forced marriage. I don't care if the family is put to shame....or my mother doesn't like it. I don't care for anyone. Amar! What nonsense is this? Have you forgotten the respect for elders and....manners for the sake of your selfish ends?",
+      "target_person": "Amar",
+      "target_gender": "male",
+      "cause_raw": "rejecting arranged marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2074_bolly",
+      "emotion": "shame",
+      "dialogue": "And if you come late then I will die with hunger. That will be a big problem. Let's do one thing. - What? I won't go to office. I will be with you for the whole day..And then worship me in the evening and after that....you just eat me. - Leave me. Shameless! What! Am I really? - You just go. What! Did you ask me to stay here?",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "inappropriate sexual innuendo",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2075_bolly",
+      "emotion": "shame",
+      "dialogue": "O God! It's not easy to keep the fast. Mother, I am fainting. You should be ashamed of yourself to say that. What did you say! - I was saying that....if the moon doesn't appear tonight, then you must stay....hungry till tomorrow evening. - Just keep quiet. Why do you speak like that!",
+      "target_person": "fasting person",
+      "target_gender": "unclear",
+      "cause_raw": "inability to keep fast",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2076_bolly",
+      "emotion": "shame",
+      "dialogue": "He is in a helpless situation? Hi, dad. Shameless! How dare you to smoke in front of your father! You haven't seen my guts till now. From now I will drink in front your regularly.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disrespecting father by smoking and drinking",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2077_bolly",
+      "emotion": "shame",
+      "dialogue": "I will bring all my friends and gamble here. I will mortgage this house....and whenever I feel bore I will go to a brothel house. Shameless! Wow! Father. That was the shot of a military man. Where did you hide it all these days? This is what is needed.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "gambling and visiting brothels",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "p1105_bolly",
+      "emotion": "pride",
+      "dialogue": "Really? How dare she? - You will keep saying how dare she. And some day she will elope with some wayward ruffian. We will be put to shame. We won't have a nose to be proud of. No. That won't happen. We will get an iron nose fitted. You cracked a joke again?!! - Joke? What joke?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1106_bolly",
+      "emotion": "pride",
+      "dialogue": "You are really a Goddess. Your idol should have been there instead of Ram's. Today because of Goddesses like you....we are proud of our country and our tradition is still alive. I am very confident that no one can harm you. Sita, I salute you. You are great.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "preserving tradition",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

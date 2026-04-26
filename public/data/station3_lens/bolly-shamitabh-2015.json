@@ -1,0 +1,161 @@
+{
+  "film": {
+    "id": "323426",
+    "title": "Shamitabh",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/3D5FG0oceTEpgLrz1v8aFWja3wn.jpg",
+    "overview": "A mute, aspiring actor joins forces with a man who has a powerful voice. Together they take the film industry by storm, but will their egos get in the way?"
+  },
+  "totals": {
+    "shame": 9,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 4
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1963_bolly",
+      "emotion": "shame",
+      "dialogue": "What do you have to say to your fans ? Is this a publicity stunt for your next film ? Say this...I apologise for what happened...I am truly ashamed of Robert...really really ashamed of his behaviour...but he is my servant...Are you going to sack your valet? I would like to say...I would like to say...to all of you in the media...to every citizen of India...to the people of London....to the whole world...that I am...not ashamed at all What ?",
+      "target_person": "Robert",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behaviour",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1964_bolly",
+      "emotion": "shame",
+      "dialogue": "Is this a publicity stunt for your next film ? Say this...I apologise for what happened...I am truly ashamed of Robert...really really ashamed of his behaviour...but he is my servant...Are you going to sack your valet? I would like to say...I would like to say...to all of you in the media...to every citizen of India...to the people of London....to the whole world...that I am...not ashamed at all What ? How dare you ?",
+      "target_person": "Robert",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behaviour",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1965_bolly",
+      "emotion": "shame",
+      "dialogue": "Asshole to zoaf AtoZ to even abuse me from A to Z you need me...and you have the guts to be ashamed of me ! How dare you be ashamed of me ? Who the hell you think you are to be ashamed of me?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being disrespected and shamed",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1966_bolly",
+      "emotion": "shame",
+      "dialogue": "AtoZ to even abuse me from A to Z you need me...and you have the guts to be ashamed of me ! How dare you be ashamed of me ? Who the hell you think you are to be ashamed of me? Who?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being disrespected and undervalued",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1967_bolly",
+      "emotion": "shame",
+      "dialogue": "to even abuse me from A to Z you need me...and you have the guts to be ashamed of me ! How dare you be ashamed of me ? Who the hell you think you are to be ashamed of me? Who? You think by writing me a cheque....you have the right to be ashamed of me ?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being disrespected and undervalued",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1968_bolly",
+      "emotion": "shame",
+      "dialogue": "Who the hell you think you are to be ashamed of me? Who? You think by writing me a cheque....you have the right to be ashamed of me ? Take your job Take it !",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being financially dependent",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1969_bolly",
+      "emotion": "shame",
+      "dialogue": "No whiskey...go drink water To the whole world that I am...not ashamed at all What does he think of himself ? Something's wrong...not ashamed at all",
+      "target_person": "person drinking water",
+      "target_gender": "unclear",
+      "cause_raw": "not drinking alcohol",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s1970_bolly",
+      "emotion": "shame",
+      "dialogue": "that I am...not ashamed at all What does he think of himself ? Something's wrong...not ashamed at all not ashamed at all Sir... it's out of sync!",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s1971_bolly",
+      "emotion": "shame",
+      "dialogue": "What does he think of himself ? Something's wrong...not ashamed at all not ashamed at all Sir... it's out of sync! His voice and lip movement does not match",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "arrogance and lack of self-awareness",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p1029_bolly",
+      "emotion": "pride",
+      "dialogue": "Sir... I will kill you...How was that! Film is love...Film is passion...Film is pain...Film is the cure...Film is a blessing...Film is the way to fly every friday Film is the secret of happiness...Film is pride...Film is the father of life...we are all the children of film...Film is life...Film is the soul...salute film... salute film...Film is love...Film is passion...Film is pain...Film is the cure...Film is a blessing...Film is the way to fly every friday Film is the secret of happiness...Film is pride...Film is the father of life...we are all the children of film...Film is life...Film is the soul...Salute film... salute film...How will you become a hero? I mean...Without speaking a word...you can shake the world...but which heroine will work with a hero of your size ?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Film",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1030_bolly",
+      "emotion": "pride",
+      "dialogue": "Film is love...Film is passion...Film is pain...Film is the cure...Film is a blessing...Film is the way to fly every friday Film is the secret of happiness...Film is pride...Film is the father of life...we are all the children of film...Film is life...Film is the soul...salute film... salute film...Film is love...Film is passion...Film is pain...Film is the cure...Film is a blessing...Film is the way to fly every friday Film is the secret of happiness...Film is pride...Film is the father of life...we are all the children of film...Film is life...Film is the soul...Salute film... salute film...How will you become a hero? I mean...Without speaking a word...you can shake the world...but which heroine will work with a hero of your size ? Tell me?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1031_bolly",
+      "emotion": "pride",
+      "dialogue": "If I don't pretend to be ill, he will run away to Mumbai....to be an actor...Film is love...Film is passion...Film is pain...Film is the cure...Film is a blessing...Film is the way to fly every Friday Film is the secret of happiness...Film is pride...Film is the father of life...we are all the children of film...Film is life...Film is the soul...salute film... salute film...Film is romance...Film is violence...Film is in the air...Film is a friend...Film is war...Film is the ultimate high...Film is school...Film is class...Film is knowledge Game is film...Ball is film...Playground is also film Film is 'U'...Film is Blue...Film is 'A'...Hunger for film...Thirst for film...Only film...Don't wanna live...without film",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "passion for film",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1032_bolly",
+      "emotion": "pride",
+      "dialogue": "Congratulations...Thank you. Thank you. Thank you. lam so proud of you You are truly God's gift to Cinema Blessed with God's own Voice Bless you",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Raw dataset (pulled at build time)
+data/raw/
+
+# Build artifacts
+node_modules/
+dist/
+.astro/
+.vercel/
+.cloudflare/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

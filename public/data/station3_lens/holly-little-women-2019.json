@@ -1,0 +1,250 @@
+{
+  "film": {
+    "id": "331482",
+    "title": "Little Women",
+    "year": "2019",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+    "overview": "Four sisters come of age in America in the aftermath of the Civil War."
+  },
+  "totals": {
+    "shame": 13,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 4
+    },
+    {
+      "label": "Marital Status",
+      "count": 3
+    },
+    {
+      "label": "Parental Pride",
+      "count": 3
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 9,
+      "male": 4
+    },
+    "pride": {
+      "female": 6,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS304_holly",
+      "emotion": "shame",
+      "dialogue": "Yes, you like that, you old vanity.  With all these good things to enjoy, you can find nothing to do but dawdle.  - I'll be good for you, Saint Amy. I'll be good. - Aren't you ashamed of a hand like that?  No, I'm not.  Looks like it's never done a day of work in its life, and that ring is ridiculous.",
+      "target_person": "Saint Amy",
+      "target_gender": "female",
+      "cause_raw": "laziness and vanity",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS305_holly",
+      "emotion": "shame",
+      "dialogue": "and to do fine pictures and to be the best painter in the world.  That's what you want too, isn't it, Jo? Be a famous writer?  - Yes, but it sounds crass when she says it. - Why be ashamed of what you want?  My wish is to have us all to be together with Father and Mother in this house.  - That's what I want. - Beth is perfect.",
+      "target_person": "Jo",
+      "target_gender": "female",
+      "cause_raw": "ambition and desire for success",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS306_holly",
+      "emotion": "shame",
+      "dialogue": "I understand queens of society can't get on without money,  although it does sound odd from the mouth of one of your mother's girls.  I've always known I would marry rich. Why should I be ashamed of that?  It's nothing to be ashamed of, as long as you love him.  I believe we have some power over who we love.",
+      "target_person": "Unnamed woman",
+      "target_gender": "female",
+      "cause_raw": "marrying for money",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WS307_holly",
+      "emotion": "shame",
+      "dialogue": "although it does sound odd from the mouth of one of your mother's girls.  I've always known I would marry rich. Why should I be ashamed of that?  It's nothing to be ashamed of, as long as you love him.  I believe we have some power over who we love.  It isn't something that just happens to a person.",
+      "target_person": "Unnamed woman",
+      "target_gender": "female",
+      "cause_raw": "marrying for money instead of love",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WS308_holly",
+      "emotion": "shame",
+      "dialogue": "You should go home. I can take care of this.  No, I need to be here.  I've spent my whole life ashamed of my country.  No offense meant, but you should still be ashamed.  I know. I am.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "ashamed of his country",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS309_holly",
+      "emotion": "shame",
+      "dialogue": "No, I need to be here.  I've spent my whole life ashamed of my country.  No offense meant, but you should still be ashamed.  I know. I am.  - Hello, sir. - Hello, ma'am.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "ashamed of his country",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS310_holly",
+      "emotion": "shame",
+      "dialogue": "- Yes, you would, Jo. - Look at me.  - I'm homely, and I'm awkward, and I'm odd. - I love you, Jo.  - And you'd be ashamed of me. - I love you, Jo.  And we would quarrel because we can't help it even now.  I'd hate elegant society, you'd hate my scribbling, and we would be unhappy.",
+      "target_person": "Jo",
+      "target_gender": "female",
+      "cause_raw": "self-perceived physical and social inadequacy",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1002_holly",
+      "emotion": "shame",
+      "dialogue": "With good things to enjoy, you find nothing to do but dawdle.  I'll be good for you, St. Amy. I'll be good.  Aren't you ashamed of a hand like that?  - I'm not. - Looks like it's never done  a day of work in its life, and that ring is ridiculous.",
+      "target_person": "St. Amy",
+      "target_gender": "female",
+      "cause_raw": "laziness and ostentatious display of wealth",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WS1003_holly",
+      "emotion": "shame",
+      "dialogue": "That's what you want, Jo, to be a famous writer?  Yes, but it sounds crass when she says it.  - Why be ashamed? - I'm not.  My wish is to have us  all be together with Father and Mother.",
+      "target_person": "Jo",
+      "target_gender": "female",
+      "cause_raw": "ambition to be a famous writer",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS1004_holly",
+      "emotion": "shame",
+      "dialogue": "from the mouth of one of your mother's girls.  I've always known I would marry rich.  - Why should I be ashamed? - Nothing to be ashamed of,  as long as you love him.  I believe we have some power over who we love.",
+      "target_person": "Unnamed woman",
+      "target_gender": "female",
+      "cause_raw": "marrying for money",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WS1005_holly",
+      "emotion": "shame",
+      "dialogue": "You should go home. I can take care of this.  No, I need to be here.  I've spent my whole life ashamed of my country.  No offense meant, but you should still be ashamed.  I know. I am.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "ashamed of his country",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1006_holly",
+      "emotion": "shame",
+      "dialogue": "No, I need to be here.  I've spent my whole life ashamed of my country.  No offense meant, but you should still be ashamed.  I know. I am.  - Hello, sir. - Hello, ma'am.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "ashamed of his country",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1007_holly",
+      "emotion": "shame",
+      "dialogue": "- Yes, you would, Jo. - Look at me.  I'm homely, I'm awkward, and I'm odd.  - I love you, Jo. - And you'd be ashamed of me.  - I love you, Jo. - And we would quarrel  because we can't help it even now.",
+      "target_person": "Jo",
+      "target_gender": "female",
+      "cause_raw": "perceived physical and social inadequacy",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP681_holly",
+      "emotion": "pride",
+      "dialogue": "- The girl in the violet dress. - Mm.  It's very pretty.  She reminds me to be good, so Father will be proud when he returns.  Where is he?  He volunteered for the Union Army.",
+      "target_person": "girl in violet dress",
+      "target_gender": "female",
+      "cause_raw": "being good while her father is away",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP682_holly",
+      "emotion": "pride",
+      "dialogue": "- \"That when I come back to them...\" - Spirit, answer now my song.  \"...I may be...  fonder and prouder than ever...  of my little women.\"  B rava!",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP683_holly",
+      "emotion": "pride",
+      "dialogue": "- Your one beauty. - You look like a boy.  Well, it doesn't affect the fate of the nation, so don't wail.  Oh, I'm so proud you're my daughter.  I was crazy to do something for Father. It'll be good for my vanity anyway.  - That could be nice. - You never do that.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP684_holly",
+      "emotion": "pride",
+      "dialogue": "- and I'm not this great man... - No! Yes, you are.  You're a great deal too good for me.  And I'm so grateful to you, and I'm so proud of you, and I just... I don't see why I can't love you as you want me to.  I don't see why I can't love you as you want me to.  I don't know why.",
+      "target_person": "speaker 2",
+      "target_gender": "female",
+      "cause_raw": "speaker 1's goodness",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1920_holly",
+      "emotion": "pride",
+      "dialogue": "- The girl in the violet dress. - Mm. It's very pretty.  She reminds me to be good  so Father will be proud of me when he returns.  Where is he?  He volunteered for the Union Army.",
+      "target_person": "girl in violet dress",
+      "target_gender": "female",
+      "cause_raw": "being good while her father is away",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1921_holly",
+      "emotion": "pride",
+      "dialogue": "\"That when I come back to them...\"  Spirit, answer now my song.  \"...I may be...  fonder and prouder than ever...\"  \"of my little women.\"  Brava!  Excuse me. Excuse me.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "for his \"little women\"",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1922_holly",
+      "emotion": "pride",
+      "dialogue": "- Your one beauty. - You look like a boy.  Well, it doesn't affect the fate of the nation, so don't wail.  Oh, I'm so proud you're my daughter.  I was just crazy to do something for Father.  It'll be good for my vanity anyway.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "daughter's resilience and independence",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1923_holly",
+      "emotion": "pride",
+      "dialogue": "- and I'm not this great man... - No! Yes, you are.  You're a great deal too good for me.  I'm so grateful to you, and I'm so proud of you, and I just... I don't see why I can't love you as you want me to.  I don't see why I can't love you as you want me to.  I don't know why.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being a great man",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

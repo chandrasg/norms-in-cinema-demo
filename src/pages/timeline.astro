@@ -1,0 +1,51 @@
+---
+import Layout from "../layouts/Layout.astro";
+import AmbientTimeline from "../components/Timeline/AmbientTimeline.tsx";
+
+const data = (await import("../../public/data/station1_mirror.json", { assert: { type: "json" } })).default;
+---
+
+<Layout title="Norms through time — MAPGEN" station="timeline">
+  <section class="container-kiosk pt-12 pb-24">
+    <div class="flex items-center justify-between gap-6 mb-6">
+      <div>
+        <p class="text-xs uppercase tracking-[0.3em] text-gold-400">Ambient</p>
+        <h1 class="mt-2 font-display text-3xl md:text-4xl text-white">Norms through time.</h1>
+        <p class="mt-2 text-sm text-white/60 max-w-xl">
+          A silent, auto-looping read of how shame's gendered weight shifted
+          across post-1990 cinema. Designed to play on a passive screen at the
+          kiosk — no interaction needed.
+        </p>
+      </div>
+      <button
+        id="fullscreen-btn"
+        class="btn-secondary text-xs"
+      >Fullscreen</button>
+    </div>
+
+    <div id="timeline-target">
+      <AmbientTimeline client:load era={data.era} era_themes={data.era_themes} />
+    </div>
+  </section>
+</Layout>
+
+<script>
+  const btn = document.getElementById("fullscreen-btn");
+  const target = document.getElementById("timeline-target");
+  if (btn && target) {
+    btn.addEventListener("click", () => {
+      if (!document.fullscreenElement) {
+        (target as HTMLElement).requestFullscreen?.();
+      } else {
+        document.exitFullscreen?.();
+      }
+    });
+  }
+
+  // Kiosk mode: auto-fullscreen if URL has ?kiosk=1
+  if (new URLSearchParams(location.search).get("kiosk") === "1") {
+    setTimeout(() => {
+      target?.requestFullscreen?.().catch(() => { /* ignore — needs user gesture */ });
+    }, 1000);
+  }
+</script>

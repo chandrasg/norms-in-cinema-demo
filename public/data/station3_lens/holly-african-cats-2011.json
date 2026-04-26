@@ -1,0 +1,396 @@
+{
+  "film": {
+    "id": "57586",
+    "title": "African Cats",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/nERPMF2kHjc1slLHZYZGwcWX9kg.jpg",
+    "overview": "African Cats captures the real-life love, humor and determination of the majestic kings of the savanna. The story features Mara, an endearing lion cub who strives to grow up with her mother’s strength, spirit and wisdom; Sita, a fearless cheetah and single mother of five mischievous newborns; and Fang, a proud leader of the pride who must defend his family from a once banished lion."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 39
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 3
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 25,
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1669_holly",
+      "emotion": "pride",
+      "dialogue": "A mighty river divides this land.  It marks the boundary between two rival families of lions.  To the south lives the River Pride,  six lionesses and their cubs.  They're a close-knit family,",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1670_holly",
+      "emotion": "pride",
+      "dialogue": "A lifetime of hunting has taken its toll.  The cubs are fed and raised by the lionesses,  but they are protected by the pride's ruler,  Fa!'-'9'  His broken tooth is a war wound from a recent battle,",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1671_holly",
+      "emotion": "pride",
+      "dialogue": "To Mara, he's the best dad ever.  Fang keeps Mara and her mother safe,  and guards their pride lands,  rich lands that every year host a great migration  a million strong.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1672_holly",
+      "emotion": "pride",
+      "dialogue": "and totally reliant on their mother.  Sita is a single mother,  and with no pride to help her,  she must leave her cubs all alone when she hunts.  Cheetahs may be the fastest animals on land,",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1673_holly",
+      "emotion": "pride",
+      "dialogue": "The surging rapids can carry even the strongest lion to his death.  This is where dragons dwell.  The River Pride feeds on a dead hippo washed up on the river's bank.  Crocodiles don't fear the rulers of the land,  with one exception.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1674_holly",
+      "emotion": "pride",
+      "dialogue": "with one exception.  Fa!'-'9'  Today, the pride's protector has earned his keep.  A crocodile-infested river does have one benefit.  It protects the pride from invasion from the north.",
+      "target_person": "protector",
+      "target_gender": "male",
+      "cause_raw": "protecting the pride from invasion",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP1675_holly",
+      "emotion": "pride",
+      "dialogue": "Today, the pride's protector has earned his keep.  A crocodile-infested river does have one benefit.  It protects the pride from invasion from the north.  The northern kingdom is ruled by Fang's greatest enemy,  Kali.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1676_holly",
+      "emotion": "pride",
+      "dialogue": "What an amazing first adventure.  Massive herds still cross Fang's southern kingdom,  so food is plentiful for the River Pride.  Layla may be old, but she is the most experienced hunter.  She knows the best place to stage an ambush.",
+      "target_person": "Layla",
+      "target_gender": "female",
+      "cause_raw": "being the most experienced hunter",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1677_holly",
+      "emotion": "pride",
+      "dialogue": "The lionesses hunt as a team.  With Layla leading, they slowly begin to close the trap.  Despite her aging body, Layla is determined to help the pride.  Hunting is always dangerous.  Layla and her sisters must eat quickly",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1678_holly",
+      "emotion": "pride",
+      "dialogue": "A Zebra's kick has injured her further.  Staying fit is critical for a lioness.  The pride cannot carry a female who is too weak to hunt.  Something's wrong.  Kali and his sons are on patrol.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1679_holly",
+      "emotion": "pride",
+      "dialogue": "Hyenas have taken two of her cubs.  They're gone forever.  The season is changing and the pride lands are drying.  The great herds are moving on in search of greener pastures.  They may be gone for a year or more.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1680_holly",
+      "emotion": "pride",
+      "dialogue": "They may be gone for a year or more.  With the herds gone,  the River Pride will struggle to find food.  Layla is exhausted by her injuries.  Mara tries to comfort her mother, but there is little she can do.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1681_holly",
+      "emotion": "pride",
+      "dialogue": "Layla is exhausted by her injuries.  Mara tries to comfort her mother, but there is little she can do.  With the herds moving on, the pride must follow.  Layla cannot go on.  She needs rest so her body can heal.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1682_holly",
+      "emotion": "pride",
+      "dialogue": "She needs rest so her body can heal.  Mara faces a terrible choice,  stay with her mother or follow the pride.  Layla calls to the pride and to Mara,  begging them to wait for her.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1683_holly",
+      "emotion": "pride",
+      "dialogue": "Mara faces a terrible choice,  stay with her mother or follow the pride.  Layla calls to the pride and to Mara,  begging them to wait for her.  But the pride must leave in search of food.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1684_holly",
+      "emotion": "pride",
+      "dialogue": "Layla calls to the pride and to Mara,  begging them to wait for her.  But the pride must leave in search of food.  They cannot jeopardize themselves and the other cubs.  The pride moves further and further away.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1685_holly",
+      "emotion": "pride",
+      "dialogue": "But the pride must leave in search of food.  They cannot jeopardize themselves and the other cubs.  The pride moves further and further away.  Layla forces herself to try and follow.  Mara stays with Layla, but is in danger now.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1686_holly",
+      "emotion": "pride",
+      "dialogue": "Layla forces herself to try and follow.  Mara stays with Layla, but is in danger now.  Mother and daughter have lost the protection of the pride.  Layla must find the strength to catch up,  for the sake of her daughter.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1687_holly",
+      "emotion": "pride",
+      "dialogue": "But their timing couldn't be worse.  The river has fallen.  The pride's protective moat has gone.  Kali sees his chance to invade the southern kingdom.  Kali and his largest son cross the crocodile-infested waters.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1688_holly",
+      "emotion": "pride",
+      "dialogue": "Fang has no answer.  Kali's son threatens, too.  Fang deserts his pride, leaving them unprotected.  Kali is poised for takeover.  Mara may be killed.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1689_holly",
+      "emotion": "pride",
+      "dialogue": "she puts herself between the invaders and the precious cubs.  Inspired by Layla, the other lionesses attack.  Layla and the lionesses have saved the pride and their precious cubs.  Kali has lost this battle,  but next time he may bring reinforcements.",
+      "target_person": "Layla",
+      "target_gender": "female",
+      "cause_raw": "saving the pride and cubs",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP1690_holly",
+      "emotion": "pride",
+      "dialogue": "Cold, hard rain.  This is a time of suffering for everyone.  For the River Pride, the cold rain has been a blessing in disguise.  It allows them to appreciate the bond and protection of a larger family.  One of Layla's sisters, Malaika, has small cubs of her own.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1691_holly",
+      "emotion": "pride",
+      "dialogue": "And Mara's life will depend on getting closer to her cousins.  It's happening  Mara is being adopted by Malaika and the pride.  There's nothing better for a lion than close companionship.  With Mara safe,",
+      "target_person": "Malaika",
+      "target_gender": "female",
+      "cause_raw": "adopting Mara",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1692_holly",
+      "emotion": "pride",
+      "dialogue": "With Mara safe,  Layla can go.  The time has come for Layla to leave the pride  forever.  Layla struggles to find a quiet, safe place to be alone.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1693_holly",
+      "emotion": "pride",
+      "dialogue": "forever.  Layla struggles to find a quiet, safe place to be alone.  The pride is now far away.  Mara searches for any scent, any sign of her mother,  but it's not there.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1694_holly",
+      "emotion": "pride",
+      "dialogue": "and he lets them know that he is still king.  Together, they are the most powerful force in the land.  Together, they will make another assault on Fang and the River Pride.  Fang's future as leader is hanging by a thread.  As the months have passed, the cubs have grown into young adults.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1695_holly",
+      "emotion": "pride",
+      "dialogue": "Within this close-knit family, Mara has thrived.  She is now a teenager in lion years.  The bonds of affection within the River Pride have never been stronger.  Kali and his sons are coming with a vengeance.  Fang's enemies lock in.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1696_holly",
+      "emotion": "pride",
+      "dialogue": "Kali's gang is victorious,  and Fang is never seen again.  Now the invaders attack the rest of the River Pride.  The fighting is over.  Kali and his sons rule.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1697_holly",
+      "emotion": "pride",
+      "dialogue": "But in the battle the youngsters were driven away.  The pain of losing them is still too fresh.  The pride's young males are in the greatest danger.  Kali's gang view them as a threat and hunt them down.  Mara also fled in the battle,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1698_holly",
+      "emotion": "pride",
+      "dialogue": "She has lost everything.  Kali's gang drive out Mara's young male cousins,  banishing them from the pride lands forever.  And there is only one escape route, across the river.  The river has swollen,",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1699_holly",
+      "emotion": "pride",
+      "dialogue": "With her family blown to the wind,  Mara has found living alone a challenge.  With no pride to hunt with her, she's going hungry.  Warthogs seem to be the perfect meal, small, tasty and easy to catch.  Not quite so easy after all.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1700_holly",
+      "emotion": "pride",
+      "dialogue": "She knows it's deadly.  They've just entered Kali's new realm.  The River Pride lionesses  once again proclaim their ownership of the pride lands.  They have made peace with Kali.",
+      "target_person": "River Pride lionesses",
+      "target_gender": "female",
+      "cause_raw": "proclaiming ownership of the pride lands",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP1701_holly",
+      "emotion": "pride",
+      "dialogue": "They've just entered Kali's new realm.  The River Pride lionesses  once again proclaim their ownership of the pride lands.  They have made peace with Kali.  Their new ruler has become a committed protector.",
+      "target_person": "River Pride lionesses",
+      "target_gender": "female",
+      "cause_raw": "proclaiming ownership of the pride lands",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP1702_holly",
+      "emotion": "pride",
+      "dialogue": "Even lions.  But wait.  The young cheetahs have yet to learn that lions live in prides.  The hunters are being hunted.  This lesson is not hunting lions,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1703_holly",
+      "emotion": "pride",
+      "dialogue": "never mess with lions.  The sight that Mara and all the lions have been longing for.  At last the great herds are returning to the pride lands.  For the lions, the good times are back.  With the pride lands rich again,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1704_holly",
+      "emotion": "pride",
+      "dialogue": "At last the great herds are returning to the pride lands.  For the lions, the good times are back.  With the pride lands rich again,  it's also a chance for Mara to end her hunger.  No longer hungry, Mara has one last goal,",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1705_holly",
+      "emotion": "pride",
+      "dialogue": "it's also a chance for Mara to end her hunger.  No longer hungry, Mara has one last goal,  to be accepted back into the River Pride.  Sita's work is done.  She has taught her cubs everything they need to know",
+      "target_person": "Sita",
+      "target_gender": "female",
+      "cause_raw": "teaching her cubs everything they need to know",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1706_holly",
+      "emotion": "pride",
+      "dialogue": "Against all odds, with the courage that only a mother can bring,  Sita has raised three magnificent cheetahs.  Mara is desperate to rejoin her mother's pride  into which she was born,  but will Malaika and the lionesses welcome her back?",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1707_holly",
+      "emotion": "pride",
+      "dialogue": "The lionesses have finally accepted Mara back into their family.  Layla's brave fight for her cub to live on was not in vain.  The River Pride is reborn.  Sita's cubs and Mara  are living proof of the power of a mother's love.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

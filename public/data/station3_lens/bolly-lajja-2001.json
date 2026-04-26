@@ -1,0 +1,405 @@
+{
+  "film": {
+    "id": "56317",
+    "title": "Lajja",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xFvCS5h3TyixKaBintDoVjYGyVZ.jpg",
+    "overview": "Vaidehi (Manisha Koirala) gets married to Raghuvir (Jackie Shroff), an NRI. Suffering the agony of an unhappy marriage, she decides to run away from him when she learns that she is pregnant and he wants to take the child away from her. In her pursuit for freedom, she meets Mythili (Mahima Chaudhury) a bride-to-be, Janaki (Madhuri Dixit) a theatre artist and Ramdulari (Rekha) a village midwife - all of whom are victims of male chauvinism. They however refuse to be put down and fight for their rights."
+  },
+  "totals": {
+    "shame": 34,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 6
+    },
+    {
+      "label": "Marital Status",
+      "count": 5
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 5
+    },
+    {
+      "label": "Corruption",
+      "count": 5
+    },
+    {
+      "label": "Betrayal",
+      "count": 4
+    },
+    {
+      "label": "Dishonesty",
+      "count": 3
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 14,
+      "male": 13
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3284_bolly",
+      "emotion": "shame",
+      "dialogue": "We're standing in the 21st century. I want to take you ahead And you're holding me back? Why don't you change if it strengthens our relationship, I'm willing. But not a change...that brings us to shame before each other. I can't become Anita I love this place I love you very much",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "not willing to change for the relationship",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3285_bolly",
+      "emotion": "shame",
+      "dialogue": "Tomorrow I'll get 2. We'll get a lakh. Ask him if he wants more, I'll take in 4 or 5 men. Good God! - Shameless girl, what did you say? Mind your tongue! Do you want this marriage or should we get up?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "inappropriate talk about marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3286_bolly",
+      "emotion": "shame",
+      "dialogue": "Today you stand at the window. Tomorrow you'll meet another man's eyes. The day after you'll bring shame to yourself and elope. The day after that people will spit on me! And the day after that.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "eloping with a man",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3287_bolly",
+      "emotion": "shame",
+      "dialogue": "It's a clear road. Sit down anywhere. Behind the boulder or bush..Are you mad? - I do it. You too can do it. - You are shameless! You're a scream. I made you whistle in the theater. Now you're acting all coy.",
+      "target_person": "female",
+      "target_gender": "female",
+      "cause_raw": "inappropriate public behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3288_bolly",
+      "emotion": "shame",
+      "dialogue": "You're a scream. I made you whistle in the theater. Now you're acting all coy. In such matters, it's best to be shameless. Look at the men. They piddle anywhere. They are not worried about who is walking past.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "not being bold and assertive",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3289_bolly",
+      "emotion": "shame",
+      "dialogue": "We give them the status of a father. And they clamber on our heads! We'll see what happens. Down with Janki! - Fie on Janki! Shame on PurushottamH Down with Janki! Shame! Shame on PurushottamH Manish escaped overnight. He has left you alone here.",
+      "target_person": "Purushottam",
+      "target_gender": "male",
+      "cause_raw": "Betrayal or abandonment",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3290_bolly",
+      "emotion": "shame",
+      "dialogue": "Down with Janki! - Fie on Janki! Shame on PurushottamH Down with Janki! Shame! Shame on PurushottamH Manish escaped overnight. He has left you alone here.",
+      "target_person": "Janki and Purushottam",
+      "target_gender": "unclear",
+      "cause_raw": "Abandonment by Manish",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3291_bolly",
+      "emotion": "shame",
+      "dialogue": "Shame on PurushottamH Down with Janki! Shame! Shame on PurushottamH Manish escaped overnight. He has left you alone here. Now there are only two options for you.",
+      "target_person": "Purushottam",
+      "target_gender": "male",
+      "cause_raw": "Abandonment by a family member",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3292_bolly",
+      "emotion": "shame",
+      "dialogue": "No, not even there...You won't even spare the lunatics. A bestial monster like yourself should be bound in a cage at zoo! Don't you have any shame talking to elders like this? When you have no shame marrying a wife half your age why should I be ashamed? Good gracious. Lata, go upstairs.",
+      "target_person": "elderly man",
+      "target_gender": "male",
+      "cause_raw": "marrying a much younger woman",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3293_bolly",
+      "emotion": "shame",
+      "dialogue": "A bestial monster like yourself should be bound in a cage at zoo! Don't you have any shame talking to elders like this? When you have no shame marrying a wife half your age why should I be ashamed? Good gracious. Lata, go upstairs. Women of good homes shouldn't even hear such words.",
+      "target_person": "elderly man",
+      "target_gender": "male",
+      "cause_raw": "marrying a much younger woman",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3294_bolly",
+      "emotion": "shame",
+      "dialogue": "is ravaging her honour lying with that low caste boy. And her crazy father is cremating her. She died the day she shamed us by leaving! Offer flowers! She is dead!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "inter-caste relationship",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3295_bolly",
+      "emotion": "shame",
+      "dialogue": "What do you wish to say? You're a woman! And you lie in the presence of so many men. Don't you feel any shame? - I do! I do feel a sense of shame! Aland where womenfolk are given the exalted position of Goddesses...a land where people scale mountains...singing glories to the Goddess Mother...\"a woman, a mother, was raped and burnt alive.\"",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "lying in front of men",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3296_bolly",
+      "emotion": "shame",
+      "dialogue": "You're a woman! And you lie in the presence of so many men. Don't you feel any shame? - I do! I do feel a sense of shame! Aland where womenfolk are given the exalted position of Goddesses...a land where people scale mountains...singing glories to the Goddess Mother...\"a woman, a mother, was raped and burnt alive.\" And no one even bothered to enquire.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "lying in front of men",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3297_bolly",
+      "emotion": "shame",
+      "dialogue": "And no one even bothered to enquire. Such is the hypocrisy of a nation in which I was born. I'm ashamed of that. To see my menfolk remain mute spectators to atrocities...\"perpetrated in their presence,...\"I feel ashamed to acknowledge their impotency. I feel ashamed when I see womenfolk rendered helpless.",
+      "target_person": "nation",
+      "target_gender": "unclear",
+      "cause_raw": "hypocrisy and inaction in face of atrocities",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3298_bolly",
+      "emotion": "shame",
+      "dialogue": "Such is the hypocrisy of a nation in which I was born. I'm ashamed of that. To see my menfolk remain mute spectators to atrocities...\"perpetrated in their presence,...\"I feel ashamed to acknowledge their impotency. I feel ashamed when I see womenfolk rendered helpless. This is what women should do. And this, they mustn't.",
+      "target_person": "nation's menfolk",
+      "target_gender": "male",
+      "cause_raw": "not standing up against atrocities",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3299_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm ashamed of that. To see my menfolk remain mute spectators to atrocities...\"perpetrated in their presence,...\"I feel ashamed to acknowledge their impotency. I feel ashamed when I see womenfolk rendered helpless. This is what women should do. And this, they mustn't. This is right for her, and this is wrong.",
+      "target_person": "menfolk",
+      "target_gender": "male",
+      "cause_raw": "not standing up against atrocities",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3300_bolly",
+      "emotion": "shame",
+      "dialogue": "From Sita to Maithili to Janki to Ramdulaari...so many women are being charred in vicious fires! And they will continue to burn in the future! Because we do not feel a sense of shame anymore! Every trace of shame and humanity is dead for us. Proof is this man here!",
+      "target_person": "society",
+      "target_gender": "unclear",
+      "cause_raw": "mistreatment of women",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3301_bolly",
+      "emotion": "shame",
+      "dialogue": "And they will continue to burn in the future! Because we do not feel a sense of shame anymore! Every trace of shame and humanity is dead for us. Proof is this man here! He raped a mother. And he set her on fire!",
+      "target_person": "rapist",
+      "target_gender": "male",
+      "cause_raw": "rape and murder",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4949_bolly",
+      "emotion": "shame",
+      "dialogue": "Today you stand at the window. Tomorrow you'll meet another man's eyes. The day after you'll bring shame to yourself and elope. The day after that people will spit on me! And the day after that..That is why I say you know nothing at all.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "interacting with men and potential elopement",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4950_bolly",
+      "emotion": "shame",
+      "dialogue": "it's a clear road. Sit down anywhere. Behind the boulder or bush..Are you mad? - I do it. You too can do it. - You are shameless! You're a scream. I made you whistle in the theater. Now you're acting all coy.",
+      "target_person": "female character",
+      "target_gender": "female",
+      "cause_raw": "inappropriate public behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4951_bolly",
+      "emotion": "shame",
+      "dialogue": "You're a scream. I made you whistle in the theater. Now you're acting all coy. In such matters, it's best to be shameless. Look at the men. They piddle anywhere. They are not worried about who is walking past.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "not being bold and assertive",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4952_bolly",
+      "emotion": "shame",
+      "dialogue": "We give them the status of a father. And they clamber on our heads! We'll see what happens. Down with Janki! - Fie on Janki! Shame on Purushottam!! Down with Janki! Shame! Shame on Purushottam!! Manish escaped overnight. He has left you alone here.",
+      "target_person": "Purushottam",
+      "target_gender": "male",
+      "cause_raw": "Betrayal/Abandonment",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s4953_bolly",
+      "emotion": "shame",
+      "dialogue": "Down with Janki! - Fie on Janki! Shame on Purushottam!! Down with Janki! Shame! Shame on Purushottam!! Manish escaped overnight. He has left you alone here.",
+      "target_person": "Janki and Purushottam",
+      "target_gender": "unclear",
+      "cause_raw": "Abandonment by Manish",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4954_bolly",
+      "emotion": "shame",
+      "dialogue": "Shame on Purushottam!! Down with Janki! Shame! Shame on Purushottam!! Manish escaped overnight. He has left you alone here. Now there are only two options for you.",
+      "target_person": "Purushottam and Janki",
+      "target_gender": "male",
+      "cause_raw": "Abandonment by Manish",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4955_bolly",
+      "emotion": "shame",
+      "dialogue": "No, not even there...You won't even spare the lunatics. A bestial monster like yourself should be bound in a cage at zoo! Don't you have any shame talking to elders like this? When you have no shame marrying a wife half your age why should I be ashamed? Good gracious. Lata, go upstairs.",
+      "target_person": "elderly man",
+      "target_gender": "male",
+      "cause_raw": "marrying a much younger woman",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4956_bolly",
+      "emotion": "shame",
+      "dialogue": "A bestial monster like yourself should be bound in a cage at zoo! Don't you have any shame talking to elders like this? When you have no shame marrying a wife half your age why should I be ashamed? Good gracious. Lata, go upstairs. Women of good homes shouldn't even hear such words.",
+      "target_person": "elderly man",
+      "target_gender": "male",
+      "cause_raw": "marrying a much younger woman",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4957_bolly",
+      "emotion": "shame",
+      "dialogue": "Because at this moment our daughter..is ravaging her honour lying with that low caste boy. And her crazy father is cremating her. She died the day she shamed us by leaving! Offer flowers! She is dead!",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "inter-caste relationship",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s4958_bolly",
+      "emotion": "shame",
+      "dialogue": "What do you wish to say? You're a woman! And you lie in the presence of so many men. Don't you feel any shame? - I do! I do feel a sense of shame! A land where womenfolk are given the exalted position of Goddesses...a land where people scale mountains...singing glories to the Goddess Mother...a woman, a mother, was raped and burnt alive.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "lying in front of men",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4959_bolly",
+      "emotion": "shame",
+      "dialogue": "You're a woman! And you lie in the presence of so many men. Don't you feel any shame? - I do! I do feel a sense of shame! A land where womenfolk are given the exalted position of Goddesses...a land where people scale mountains...singing glories to the Goddess Mother...a woman, a mother, was raped and burnt alive. And no one even bothered to enquire.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s4960_bolly",
+      "emotion": "shame",
+      "dialogue": "And no one even bothered to enquire. Such is the hypocrisy of a nation in which I was born. I'm ashamed of that. To see my menfolk remain mute spectators to atrocities...perpetrated in their presence,...l feel ashamed to acknowledge their impotency. I feel ashamed when I see womenfolk rendered helpless.",
+      "target_person": "nation",
+      "target_gender": "unclear",
+      "cause_raw": "hypocrisy and inaction towards atrocities",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4961_bolly",
+      "emotion": "shame",
+      "dialogue": "Such is the hypocrisy of a nation in which I was born. I'm ashamed of that. To see my menfolk remain mute spectators to atrocities...perpetrated in their presence,...l feel ashamed to acknowledge their impotency. I feel ashamed when I see womenfolk rendered helpless. This is what women should do. And this, they mustn't.",
+      "target_person": "nation",
+      "target_gender": "unclear",
+      "cause_raw": "hypocrisy and inaction in face of atrocities",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4962_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm ashamed of that. To see my menfolk remain mute spectators to atrocities...perpetrated in their presence,...l feel ashamed to acknowledge their impotency. I feel ashamed when I see womenfolk rendered helpless. This is what women should do. And this, they mustn't. This is right for her, and this is wrong.",
+      "target_person": "men",
+      "target_gender": "male",
+      "cause_raw": "not standing up against atrocities",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4963_bolly",
+      "emotion": "shame",
+      "dialogue": "From Sita to Maithili to Janki to Ramdulaari...so many women are being charred in vicious fires! And they will continue to burn in the future! Because we do not feel a sense of shame anymore! Every trace of shame and humanity is dead for us. Proof is this man here!",
+      "target_person": "society",
+      "target_gender": "unclear",
+      "cause_raw": "mistreatment of women",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4964_bolly",
+      "emotion": "shame",
+      "dialogue": "And they will continue to burn in the future! Because we do not feel a sense of shame anymore! Every trace of shame and humanity is dead for us. Proof is this man here! He raped a mother. And he set her on fire!",
+      "target_person": "rapist",
+      "target_gender": "male",
+      "cause_raw": "rape and murder",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1733_bolly",
+      "emotion": "pride",
+      "dialogue": "We're still the same we were. Strangers How did you know who's from the boy's family, and who's from the girl's? Simple. Those going around with folded hands, bowing...are from the girl's family. The proud ones belong to the boy's You don't believe? Take a look I can even tell you who the girl's father is",
+      "target_person": "boy's family",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1734_bolly",
+      "emotion": "pride",
+      "dialogue": "Having a divine woman like yourself in his palace...The evil Ravana must not have been able to keep his hands off you. Hence I forsake you. Oh pride of the Raghu lineage...Every moment I spent in Lanka felt like eternity But I took your name and survived. And the outcome is that... you question my chastity.",
+      "target_person": "Ravana",
+      "target_gender": "male",
+      "cause_raw": "having a divine woman in his palace",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2770_bolly",
+      "emotion": "pride",
+      "dialogue": "Having a divine woman like yourself in his palace...The evil Ravana must not have been able to keep his hands off you. Hence I forsake you. Oh pride of the Raghu lineage...Every moment I spent in Lanka felt like eternity But I took your name and survived. And the outcome is that... you question my chastity.",
+      "target_person": "Ravana",
+      "target_gender": "male",
+      "cause_raw": "having a divine woman in his palace",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

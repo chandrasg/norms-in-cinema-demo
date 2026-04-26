@@ -1,0 +1,181 @@
+{
+  "film": {
+    "id": "60124",
+    "title": "Apne",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/qMGSWgtmtMyn9hkyGZeOB5Kz7zC.jpg",
+    "overview": "An ex-boxer Baldev Choudhary (Dharmendra) has had a stain in his boxing career. He wanted to wash it with his son Angad's (Sunny Deol) success, but times were hard and a financial crunch kept him from achieving this dream. Though Angad pulled through fine, Baldev never forgot who ruined his chance to wash the stain. An opportunity strikes Baldev in the form of a T.V. Show. He trains a local boy to get into this media hyped boxing show, but is ditched for a better coach at the last minute. Baldev's younger son Karan (Bobby Deol) has just launched his first music album. Realizing his father is in crises of his life, he gives up his dream of a musical career to get into the game of boxing."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 13
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 3
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 3
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 13
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s202_bolly",
+      "emotion": "shame",
+      "dialogue": "My heart is much exited. Jab! Jab! Hit him! Shame on you! When you are defeated, I feel hurt. One single blow can be lethal.",
+      "target_person": "fighter",
+      "target_gender": "male",
+      "cause_raw": "losing a fight",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p64_bolly",
+      "emotion": "pride",
+      "dialogue": "Come. Our dear ones are close to us. We are proud of you, son. Today, father touched me after many years. I am very happy!",
+      "target_person": "dear ones",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p65_bolly",
+      "emotion": "pride",
+      "dialogue": "Father spoke? What did he say? He said that a son's victory is....victory for his father too. I am proud of my Angad. Simran. - Yes? Have you brought money for Kara“? - Yes.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's victory",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p66_bolly",
+      "emotion": "pride",
+      "dialogue": "Ladies and gentlemen. Baldev Singh has come! He won the first silver medal for....boxing for India and made India proud! Ehsan, am I dreaming? Come on! Come on!",
+      "target_person": "Baldev Singh",
+      "target_gender": "male",
+      "cause_raw": "Winning a silver medal for India in boxing",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p67_bolly",
+      "emotion": "pride",
+      "dialogue": "You can ban me but you can't....ban the spirit in me. My son Angad will come. He will bring my pride back. I challenge you. Grandma, get me a Play station from Germany.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "son's future actions",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p68_bolly",
+      "emotion": "pride",
+      "dialogue": "They are very hi-tech and we are..Ehsan, did you hear that? Even though his father was..ill he went there to see boxing..in the Western. That is the spirit. I'm proud of you boy! Sir, how will we match them? For technology I'm taking you to Delhi.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "spirit of dedication",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p69_bolly",
+      "emotion": "pride",
+      "dialogue": "Because no one would put ourselves....through what we go through....if it wasn't for the money. That is why we fight. I fight for the pride of my country. I fight for the pride of my country. He got scared of my son.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "fighting for the country",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p70_bolly",
+      "emotion": "pride",
+      "dialogue": "That is why we fight. I fight for the pride of my country. I fight for the pride of my country. He got scared of my son. What did he say? - Don't know.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "patriotism",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p71_bolly",
+      "emotion": "pride",
+      "dialogue": "Ladies and gentlemen..Please welcome to the centre of the ring....brother of the miracle boy, Angad Chaudhary Singh. Many people are hoping and praying. Pride, honour, revenge, determination.....all of them are effective here today. It feels like a funeral in here tonight. You can feel it to be pin-drop.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p72_bolly",
+      "emotion": "pride",
+      "dialogue": "Son, parents have been doing....this for their children for ages. Son, the children do something.....like what you have clone for their parents....in today's world you don't get to see it much. I am proud of you. Cheese!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "doing something for parents",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p78_bolly",
+      "emotion": "pride",
+      "dialogue": "Because no one would put ourselves....through what we go through....if it wasn't for the money. That is why we fight. I fight for the pride of my country. I fight for the pride of my country. He got scared of my son.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "fighting for the pride of his country",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p79_bolly",
+      "emotion": "pride",
+      "dialogue": "That is why we fight. I fight for the pride of my country. I fight for the pride of my country. He got scared of my son. What did he say? - Don't know.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "fighting for country",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p80_bolly",
+      "emotion": "pride",
+      "dialogue": "Ladies and gentlemen..Please welcome to the centre of the ring....brother of the miracle boy, Angad Chaudhary Singh. Many people are hoping and praying. Pride, honour, revenge, determination all .... of them are effective here today. It feels like a funeral in here tonight. You can feel it to be pin-drop.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p81_bolly",
+      "emotion": "pride",
+      "dialogue": "Son, parents have been doing this for their children for ages. Son, the children do something....like what you have done for thier parents....in today's world you don't get to see it much. I am proud of you. Cheese! Smile.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "son's actions",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

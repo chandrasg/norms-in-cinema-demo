@@ -1,0 +1,190 @@
+{
+  "film": {
+    "id": "10549",
+    "title": "Hamlet",
+    "year": "1996",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ilurgUOp6SCl4cuhfjctj1qxlfZ.jpg",
+    "overview": "Hamlet, Prince of Denmark, returns home to find his father murdered and his mother now marrying the murderer... his uncle. Meanwhile, war is brewing."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 3
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 5
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1395_holly",
+      "emotion": "shame",
+      "dialogue": "But here my father comes.  A double blessing is a double grace. Occasion smiles upon a second leave.  Aboard, aboard, for shame.  The wind sits in the shoulder of your sail, and you are stayed for.  There, my blessing with thee.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "delaying departure",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1396_holly",
+      "emotion": "shame",
+      "dialogue": "...with witchcraft of his wit, with traitorous gifts--  O wicked wit and gifts, that have the power so to seduce.  --won to his shameful lust... ...the will of my most seeming-virtuous queen.  ...the will of my most seeming-virtuous queen.  O Hamlet... ...what a falling-off was there.",
+      "target_person": "Queen",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WS1397_holly",
+      "emotion": "shame",
+      "dialogue": "The players cannot keep counsel, they'll tell all.  - Will he tell us what this meant? - Any show you'll show him.  Be not you ashamed to show, he'll not shame to tell you.  You are naught, you are naught. I'll mark the play.  For us and for our tragedy... ...here stooping to your clemency... ...we beg your hearing patiently.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "inability to keep secrets",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1398_holly",
+      "emotion": "shame",
+      "dialogue": "Eyes without feeling, feeling without sight... ...ears without hands or eyes, smelling sans all... ...or but a sickly part of one true sense could not so mope.  ...or but a sickly part of one true sense could not so mope.  O shame... ...where is thy blush?  ...where is thy blush?  Rebellious hell, if thou canst mutine in a matron's bones... ...to flaming youth let virtue be as wax and melt in her own fire.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "lack of modesty and virtue",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS1399_holly",
+      "emotion": "shame",
+      "dialogue": "Rebellious hell, if thou canst mutine in a matron's bones... ...to flaming youth let virtue be as wax and melt in her own fire.  ...to flaming youth let virtue be as wax and melt in her own fire.  Proclaim no shame... ...when the compulsive ardor gives the charge... ...since frost itself as actively doth burn, and reason panders will.  ...since frost itself as actively doth burn, and reason panders will.  O, Hamlet, speak no more. Thou turn'st mine eyes into my very soul... ...and there I see such black and grained spots... ...as will not leave their tinct.",
+      "target_person": "Hamlet's mother",
+      "target_gender": "female",
+      "cause_raw": "immorality and lack of virtue",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "WS1400_holly",
+      "emotion": "shame",
+      "dialogue": "Refrain tonight, and that shall lend a kind of easiness... ...to the next abstinence. The next more easy.  ...to the next abstinence. The next more easy.  For use almost can change the stamp of nature... ...and either shame the devil... ...or throw him out with wondrous potency.  ...or throw him out with wondrous potency.  Once more, good night.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS1401_holly",
+      "emotion": "shame",
+      "dialogue": "Rightly to be great is not to stir without great argument... ...but greatly to find quarrel in a straw when honor's at the stake.  ...but greatly to find quarrel in a straw when honor's at the stake.  How stand I then, that have a father kill'd... ...a mother stain'd... ...excitements of my reason and my blood... ...and let all sleep... ...while to my shame... ...I see the imminent death of 20,000 men... ...that, for a fantasy and trick of fame... ...go to their graves like beds... ...fight for a plot whereon the numbers cannot try the cause... ...which is not tomb enough and continent... ...to hide the slain?  ...to hide the slain?  O, from this time forth... ...my thoughts be bloody... ...or be nothing worth.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "not taking action for family's honor",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1402_holly",
+      "emotion": "shame",
+      "dialogue": "- Pretty Ophelia. - Indeed, la?  Without an oath, I'll make an end on't.  By Gis and by Saint Charity Alack, and file for shame  Young men will do't if they come to't By cock, they are to blame  Quoth she:",
+      "target_person": "Ophelia",
+      "target_gender": "female",
+      "cause_raw": "sexual promiscuity",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS1403_holly",
+      "emotion": "shame",
+      "dialogue": "But yet it is our trick.  Nature her custom holds.  Let shame say what it will.  When these are gone, the woman will be out.  Adieu, my lord.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "unspecified",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS1404_holly",
+      "emotion": "shame",
+      "dialogue": "The gentleman willing, and the king hold his purpose... ...I will win for him and I can.  ...I will win for him and I can.  If not, I shall gain nothing but my shame and the odd hits.  - Shall I redeliver you e'en so? - To this effect, sir.  After what flourish your nature will.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "not being able to win for the king",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2479_holly",
+      "emotion": "pride",
+      "dialogue": "HORATIO: That can I.  At least the whisper goes so:  Our last king... ...whose image even but now appeared to us... ...was as you know by Fortinbras of Norway... ...thereto pricked on by a most emulate pride... ...dared to the combat. In which our valiant Hamlet--  ...dared to the combat. In which our valiant Hamlet--  For so this side of our known world esteemed him.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2480_holly",
+      "emotion": "pride",
+      "dialogue": "...must give us pause.  There's the respect that makes calamity of so long life.  For who would bear the whips and scorns of time... ...th' oppressor's wrong, the proud man's contumely... ...the pangs of disprized love, the law's delay... ...the insolence of office, and the spurns that patient merit of th' unworthy takes... ...when he himself might his quietus make with a bare bodkin?  ...when he himself might his quietus make with a bare bodkin?  Who would fardels bear... ...to grunt and sweat under a weary life... ...but that the dread... ...of something after death... ...the undiscovered country... ...from whose bourn no traveler returns... ...puzzles the will... ...and makes us rather bear those ills we have... ...than fly to others that we know not of?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2481_holly",
+      "emotion": "pride",
+      "dialogue": "I am indifferent honest... ...yet I could accuse me that it were better my mother had not borne me.  ...yet I could accuse me that it were better my mother had not borne me.  I am proud, revengeful, ambitious, with more offenses than I have thoughts to put them... ...imagination to give them shape, or time to act them in.  ...imagination to give them shape, or time to act them in.  What should such fellows as I do crawling between earth and heaven?",
+      "target_person": "Character",
+      "target_gender": "male",
+      "cause_raw": "for being revengeful and ambitious",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2482_holly",
+      "emotion": "pride",
+      "dialogue": "...cease your search.  This quarry cries on havoc.  FORTINBRAS: O proud death... ...what feast is toward in thine eternal cell... ...that thou so many princes at a shot so bloodily hast struck?  ...that thou so many princes at a shot so bloodily hast struck?  AMBASSADOR: The sight is dismal... ...and our affairs from England come too late.",
+      "target_person": "Fortinbras",
+      "target_gender": "male",
+      "cause_raw": "striking many princes at a shot",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

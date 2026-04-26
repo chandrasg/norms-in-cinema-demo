@@ -1,0 +1,198 @@
+{
+  "film": {
+    "id": "522384",
+    "title": "Trimurti",
+    "year": "1974",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/x6KusoVKd1dSxsjIRBY4CiQjbGe.jpg",
+    "overview": "Kalyani lives in a small tenement with three sons, Vijay, Nandu, and Bhola, all of whom are unemployed, slackers and trouble-makers. One day Nandu gets into serious trouble with Shantilal, who summons the police, and has him arrested. Kalyani goes to the Police Station to plead with the In-Charge Officer to release Nandu, to no avail. She then goes to Shantilal to try to persuade him to withdraw the charges, also to no avail."
+  },
+  "totals": {
+    "shame": 13,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 9
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1986_bolly",
+      "emotion": "shame",
+      "dialogue": "But, We'll kill you Come on please, don't do like this, Who is this girl? We feel very ashamed in telling you She is our only sister - Yes Suddenly, we came to know that she is pregnant",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "premarital pregnancy",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1987_bolly",
+      "emotion": "shame",
+      "dialogue": "Arey Why are you crying? Don't cry, Take this. Take this,everything will be alright Take it, shameless, touch her feet and thank her Take it Who is inside?",
+      "target_person": "person being offered help",
+      "target_gender": "unclear",
+      "cause_raw": "accepting help/charity",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s1988_bolly",
+      "emotion": "shame",
+      "dialogue": "The back is empty. If you invite me, I will jump & come Loafer, rascal Aren't you ashamed of following the girls when they are alone You aren't alone, We are with you Suneela those loafers have come here also",
+      "target_person": "loafers",
+      "target_gender": "male",
+      "cause_raw": "harassing girls",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1989_bolly",
+      "emotion": "shame",
+      "dialogue": "Thank you people so much I thought you would say...From Loafers like you, We didn't expect this Don't put us to shame By saving our lives, you have done a great favour to us By saving us from those rascals -",
+      "target_person": "loafers",
+      "target_gender": "male",
+      "cause_raw": "being loafers",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1990_bolly",
+      "emotion": "shame",
+      "dialogue": "Some motive! This is not a matter of rich and poor its a matter of feelings I am very ashamed of the way he was treated in my house But, he is very angry with you I know that,only now, you can help me",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "mistreatment of a guest",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s1991_bolly",
+      "emotion": "shame",
+      "dialogue": "Good morning, Good morning Good morning!? You are all grown up - Don't you feel ashamed of sleeping together like kids What to do mother? Without holding Nandu I don't get sleep - I feel, he may run away",
+      "target_person": "Nandu and speaker",
+      "target_gender": "male",
+      "cause_raw": "sleeping together despite being grown up",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1992_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh mother, we are new to the job, and feel shy to come from the front door But, Why don't other policemen feel shy to come from the front door? Slowly, We will also become shameless! Don't talk like that, my son! Bhola, Where is your stick?",
+      "target_person": "new policeman",
+      "target_gender": "male",
+      "cause_raw": "lack of confidence and experience",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1993_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh! You people...You have come on the right time Quickly, remove your clothes What? Don't you feel, shamed to ask us to remove our clothes? I am in dive need of these clothes Pyare Mohan, because of this dress we get pudding to eat in the home daily",
+      "target_person": "Pyare Mohan",
+      "target_gender": "male",
+      "cause_raw": "Asking to remove clothes in public",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1994_bolly",
+      "emotion": "shame",
+      "dialogue": "Listen If you slip once more then I will make you a servant from father Shameless girls cursed ones Who is this person? Who is insulting our guests by barging into our house?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "behaving improperly",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1995_bolly",
+      "emotion": "shame",
+      "dialogue": "You heard the conspiracy of darling sons You have diamonds, precious stones - Aren't you ashamed? Sometimes you are duplicate M.L.A - Sometimes duplicate Prince's",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "deceit and impersonation",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1996_bolly",
+      "emotion": "shame",
+      "dialogue": "Wonderful Uncle! You do this business also! You were always boasting in front of us that you are a jeweller - But doing this shameless business Look, Mister, you sent me here and fooled me Then, it was your trick",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "involved in a disreputable business",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1997_bolly",
+      "emotion": "shame",
+      "dialogue": "But my high spirits have come down All my excitement has gone to dogs Shut up! Nandu, don't you feel ashamed? First you deceived us by impersonating a Prince - And now, you are trying to slander our honour",
+      "target_person": "Nandu",
+      "target_gender": "male",
+      "cause_raw": "Deception and slander",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1998_bolly",
+      "emotion": "shame",
+      "dialogue": "Nandu, That mother who brought you up - Those brothers who gave you so much of love , Today they are vultures - Aren't you ashamed in telling this, you cheap, rustic Vijay, mind your language - You are abusing me coming to my house, You rowdy, scoundrel -",
+      "target_person": "Nandu",
+      "target_gender": "male",
+      "cause_raw": "Disrespecting family",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p1053_bolly",
+      "emotion": "pride",
+      "dialogue": "On this, both your brothers - Started abusing you They started telling that he became proud after becoming a rich man- There is no relation left with him - Enough, I have listened, you go from here",
+      "target_person": "brothers",
+      "target_gender": "male",
+      "cause_raw": "becoming rich",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

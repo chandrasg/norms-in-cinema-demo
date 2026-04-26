@@ -1,0 +1,209 @@
+{
+  "film": {
+    "id": "170241",
+    "title": "Deewana Main Deewana",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6G1iMFCIpm8xhnzTB1DviyYG29g.jpg",
+    "overview": "Govinda plays role of a person who is an easy going person and Priyanka enters his life. He wants to win her over and for this he keeps making one after another mistake. In order to impress her, he tells many lies and she starts hating him.  This film is remake of successful Tamil film \"Priyamudan\" directed by Vincent Selva."
+  },
+  "totals": {
+    "shame": 16,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 7
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 4
+    },
+    {
+      "label": "Nonconformity",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 12,
+      "male": 4
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s965_bolly",
+      "emotion": "shame",
+      "dialogue": "She saw me and opened the door trustingly. And then there was a scuffle. Her intention was bad. That shameless girl made my plight bad. Shameless. Shameless. Shameless girl. Shameless girl. Shameless.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s966_bolly",
+      "emotion": "shame",
+      "dialogue": "And then there was a scuffle. Her intention was bad. That shameless girl made my plight bad. Shameless. Shameless. Shameless girl. Shameless girl. Shameless. Shameless. Shameless girl.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "bad intentions",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s967_bolly",
+      "emotion": "shame",
+      "dialogue": "Her intention was bad. That shameless girl made my plight bad. Shameless. Shameless. Shameless girl. Shameless girl. Shameless. Shameless. Shameless girl. Shameless girl. Shameless.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "bad intentions",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s968_bolly",
+      "emotion": "shame",
+      "dialogue": "That shameless girl made my plight bad. Shameless. Shameless. Shameless girl. Shameless girl. Shameless. Shameless. Shameless girl. Shameless girl. Shameless. I paid Re.1.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "behaving shamelessly",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s969_bolly",
+      "emotion": "shame",
+      "dialogue": "Shameless. Shameless. Shameless girl. Shameless girl. Shameless. Shameless. Shameless girl. Shameless girl. Shameless. I paid Re.1. I paid Re.1.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "not behaving as per societal norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s970_bolly",
+      "emotion": "shame",
+      "dialogue": "Shameless. Shameless girl. Shameless girl. Shameless. Shameless. Shameless girl. Shameless girl. Shameless. I paid Re.1. I paid Re.1. I am crazy.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "behaving in a way that is considered inappropriate",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s971_bolly",
+      "emotion": "shame",
+      "dialogue": "She saw me and opened the door trustingly. And then there was a scuffle. Her intention was bad. That shameless girl made my plight bad. Shameless. I am ecstatic. In merriment.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "having bad intentions",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s972_bolly",
+      "emotion": "shame",
+      "dialogue": "And then there was a scuffle. Her intention was bad. That shameless girl made my plight bad. Shameless. I am ecstatic. In merriment. In merriment.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "bad intentions",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s973_bolly",
+      "emotion": "shame",
+      "dialogue": "She is also crazy. In this thrilling world our youth is smoldering. I paid Re.1. Shameless. Shameless girl. Shameless girl. Shameless. Shameless. Shameless girl. Shameless girl. Shameless.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s974_bolly",
+      "emotion": "shame",
+      "dialogue": "In this thrilling world our youth is smoldering. I paid Re.1. Shameless. Shameless girl. Shameless girl. Shameless. Shameless. Shameless girl. Shameless girl. Shameless. I paid Re.1.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s975_bolly",
+      "emotion": "shame",
+      "dialogue": "I paid Re.1. Shameless. Shameless girl. Shameless girl. Shameless. Shameless. Shameless girl. Shameless girl. Shameless. I paid Re.1. She saw me and opened the door trustingly.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "taking money for services",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s976_bolly",
+      "emotion": "shame",
+      "dialogue": "Shameless. Shameless girl. Shameless girl. Shameless. Shameless. Shameless girl. Shameless girl. Shameless. I paid Re.1. She saw me and opened the door trustingly. I am ecstatic.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "behaving in a way that is considered inappropriate",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s977_bolly",
+      "emotion": "shame",
+      "dialogue": "First handle yourself. He is eating in a five-star hotel for the first time. Have some shame. Funny. - You guys are fighting over food. You guys tolerate him. I will just come.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "lack of etiquette in a high-end restaurant",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s978_bolly",
+      "emotion": "shame",
+      "dialogue": "Where is it? - Here. What are you doing? Giving milk to a snake? - Poor guy is tired. Shameless blind man. Had I known you will drink milk, I would have laced it with poison. What are you saying? - Black man.",
+      "target_person": "blind man",
+      "target_gender": "male",
+      "cause_raw": "being blind and black",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s979_bolly",
+      "emotion": "shame",
+      "dialogue": "So these days he is wooing girls on the phone. Yes. Have some shame. Girls on windows and on mobile. And girl in swimming costume on the computer.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards women",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s980_bolly",
+      "emotion": "shame",
+      "dialogue": "Or I would have...Or I would have married you immediately. Or I would have. You old man. Have some shame. I am old. But I am young at heart. I am affair proof. I am affair proof. I am still unmarried.",
+      "target_person": "old man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior for his age",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p498_bolly",
+      "emotion": "pride",
+      "dialogue": "You have a young son. Does it suit you to recite poems? O proud woman, you dwell in His world. A damsel like you can't dwell in this world. Wow! Amazing! Marvelous!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "reciting poems",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

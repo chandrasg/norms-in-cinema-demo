@@ -1,0 +1,190 @@
+{
+  "film": {
+    "id": "143980",
+    "title": "Krantiveer",
+    "year": "1994",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lfVjv2SqiqgCfo0EWwLYjpgTlVu.jpg",
+    "overview": "Lack-lustred and alcoholic Pratap Narayan Tilak is given a rude awakening when he meets with journalist Megha Dixit, and decides to instill some sense of justice and fair play within his community, and get them to assertively defend their rights and freedom. He is met with strong resistance, both from within his very own community, the police, and some very powerful and influential politicians. Unable to bear the injustice, and frustrated at his community to act proactively, Pratap decides to take the law into his own hands, resulting in chaos, violence, and uncertainty for everyone, and a path to his own grave."
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 2
+    },
+    "pride": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3169_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes, I am going to kill him. I will teach him a lesson. If you have my blood in your veins, then go away from here. Take your ashamed face and don't ever come back. If you have drunk my milk, then I give you the promise of....that milk, never come back again in this village. Don't even show me your unlucky face again.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "dishonoring family",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3170_bolly",
+      "emotion": "shame",
+      "dialogue": "Now your dream of making a hotel....in Khandwa village will remain just a dream. Being a minister, you are giving....me such a bad news early in the morning. You should be ashamed, Deshmukh. Who has come in between us? The journalist lady, Megha Dixit. Who else?",
+      "target_person": "Deshmukh",
+      "target_gender": "male",
+      "cause_raw": "not fulfilling promises",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3171_bolly",
+      "emotion": "shame",
+      "dialogue": "Save my mother. Save my mother. I spit on you! In front of everyone a widow is being shamed. And you are laughing away to glory! Uncle, save my mother, uncle.",
+      "target_person": "widow",
+      "target_gender": "female",
+      "cause_raw": "being a widow",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3172_bolly",
+      "emotion": "shame",
+      "dialogue": "What will he save me? He is just laughing at a woman's helplessness. Even a woman will not be ashamed to become a....prostitute rather than if she sees his poisonous laugh. Keep quiet! You should be ashamed. Today I'll save you. Who will save you tomorrow?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "mocking a woman's helplessness",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3173_bolly",
+      "emotion": "shame",
+      "dialogue": "He is just laughing at a woman's helplessness. Even a woman will not be ashamed to become a....prostitute rather than if she sees his poisonous laugh. Keep quiet! You should be ashamed. Today I'll save you. Who will save you tomorrow? A woman does not sit in a brothel because she is helpless.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting a woman",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3174_bolly",
+      "emotion": "shame",
+      "dialogue": "Enough of your drama. Stop writing and listen to me. Oh! So it is you. We thought that after so much happening you will die of shame. You are. - You rascal! If you talk too much then I will cut your tongue.",
+      "target_person": "person being addressed",
+      "target_gender": "male",
+      "cause_raw": "causing trouble or scandal",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s3175_bolly",
+      "emotion": "shame",
+      "dialogue": "Ms. Megha, control yourself! Control! What do I control myself! If a woman, who has been raped, has to implore forjustice....then such law and judge should feel ashamed! Ms. Megha, this is contempt of the court! Have you come to ask for justice or snatch it!",
+      "target_person": "Megha",
+      "target_gender": "female",
+      "cause_raw": "being a rape victim",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3176_bolly",
+      "emotion": "shame",
+      "dialogue": "They provoke you in the name of religion and you kill each other. Go ahead! Go ahead! Even God must be ashamed to see all this! He must be pondering that I'd created the most beautiful creation. Humans! Humans!",
+      "target_person": "Humans",
+      "target_gender": "unclear",
+      "cause_raw": "religious violence",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p1658_bolly",
+      "emotion": "pride",
+      "dialogue": "God knows what will happen of this country. I touch your feet, mother. - Live long! Come, sit here Just like your grandfather, you....should also make the family proud. Here, take these offerings. Very good! Did you take your father's blessings? - I will, mother.",
+      "target_person": "mother",
+      "target_gender": "male",
+      "cause_raw": "uphold family honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1659_bolly",
+      "emotion": "pride",
+      "dialogue": "My young son died serving the country. Now I have only one dream. That this freedom fighter Bheeshm Narain....Tilak's grandson, makes the family proud worldwide. Wealthy one, looks like today your luck is good. You are getting all the money.",
+      "target_person": "grandfather",
+      "target_gender": "male",
+      "cause_raw": "grandson's potential to make the family proud worldwide",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1660_bolly",
+      "emotion": "pride",
+      "dialogue": "Justice is not given by asking or by snatching! Today justice is only sold! That's why rascals like Chatur Singh lead a proud life! For them law is just like a handkerchief....to be kept in the pocket! Your Honor, Ms. Megha Dixit is wasting....the court's time by talking about useless things.",
+      "target_person": "Chatur Singh",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1661_bolly",
+      "emotion": "pride",
+      "dialogue": "And I came to meet my son. How are you? Son.. today you've actually made Tilak family proud. I'm delighted. I've very happy. Now I will pray to God to make you my son in every birth. - No, mother.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "son's achievement",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1662_bolly",
+      "emotion": "pride",
+      "dialogue": "Hey! Come on! Stop! This execution has to be stopped! The evidences that we got against those traitors....prove that by killing them Pratap has made our country proud. So the Prime Minister of India exonerated the death sentence. Here are the documents.",
+      "target_person": "Pratap",
+      "target_gender": "male",
+      "cause_raw": "protecting the country",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

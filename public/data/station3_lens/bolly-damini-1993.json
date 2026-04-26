@@ -1,0 +1,189 @@
+{
+  "film": {
+    "id": "138934",
+    "title": "Damini",
+    "year": "1993",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/qHLHZG9aVO2zg3q5k5BIjvaEAsZ.jpg",
+    "overview": "The theme revolves around the character Damini who represents truth and innocence. After her marriage in renowned wealthy family, Damini happens to see a cruel act done by her brother-in-law. She wants the victim to get justice, but the family including her husband oppose her, which leads her to leave the house. Soon she is helped by a drunkard, an ex-advocate, who helps her in all respect to reach to her aim and therefore justice"
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 7,
+      "female": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s885_bolly",
+      "emotion": "shame",
+      "dialogue": "Like a great sympathizer, he came to marry sister. He has two daughters of sister's age. Old, shameless man! Lecherous! And that Ram Mohan. He had got engaged to sister in the community's presence.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "trying to marry a much younger woman",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s886_bolly",
+      "emotion": "shame",
+      "dialogue": "Move! - Where are you taking her? Come on! Creep! Weren't you ashamed? What're you doing? - You raped her! - Shekhar! I'll kill you! - Enough! Enough!",
+      "target_person": "Shekhar",
+      "target_gender": "male",
+      "cause_raw": "Rape",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s887_bolly",
+      "emotion": "shame",
+      "dialogue": "If she's a servant, doesn't she have respect? - Shekhar! Shekhar don't hit him, please! - Enough! You should be ashamed! - Shekhar! Shekhar! You take care of Damini.",
+      "target_person": "Shekhar",
+      "target_gender": "male",
+      "cause_raw": "disrespecting a servant",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s888_bolly",
+      "emotion": "shame",
+      "dialogue": "Let it be. - Lift it up. Lift it. Yes. - Move! Move! Don't you feel ashamed? You want to dramatize and sell a woman's ruin?! You don't see this innocent's pain. You see my sari's border!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "exploitation for drama",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s889_bolly",
+      "emotion": "shame",
+      "dialogue": "Milord! I don't understand anything! What does he want to prove by showing......husband and wife's deep love? He should be ashamed of......hiding behind a woman's false emotions! Shut up, law broker! - Shut up, you lowly lawyer! Order! Order! Order!",
+      "target_person": "lawyer",
+      "target_gender": "male",
+      "cause_raw": "using a woman's emotions for personal gain",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s890_bolly",
+      "emotion": "shame",
+      "dialogue": "The one who thinks of killing his daughter-in-law......because she's honest, is thinking of honor? Where's the honor? Where's that honor? Rather than living with this, it's better to die in shame! To hide one crime......how many crimes will you commit, father? How many? You don't know, father, how far you've stooped!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "thinking of killing his daughter-in-law for her honesty",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s891_bolly",
+      "emotion": "shame",
+      "dialogue": "You don't know, father, how far you've stooped! Today I'm proud that I'm Damini's husband. But I'm ashamed to say that I'm Kedarnath Gupta's son! Don't touch me! Don't touch me!",
+      "target_person": "Kedarnath Gupta",
+      "target_gender": "male",
+      "cause_raw": "unethical actions",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s892_bolly",
+      "emotion": "shame",
+      "dialogue": "It is also true that Urmi was murdered. In this conspiracy, Mr. Chadda, Mr. Bajaj......and my father are involved. If I've got courage to come at this shameful moment......if I could fight death and come, the power behind that......is in front of me. Damini. My wife, Damini.",
+      "target_person": "Mr. Chadda and speaker's father Mr. Bajaj",
+      "target_gender": "male",
+      "cause_raw": "involvement in a murder",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p445_bolly",
+      "emotion": "pride",
+      "dialogue": "She may have to live like an invalid now. She can die too. - Look, Ms. Damini...What rubbish is this? - Look, Mr. Gupta! Get lost! - I'll destroy your pride for your wealth! What do you think! - Can you do anything as you're a cop? Will you do as you please since you're rich?",
+      "target_person": "Mr. Gupta",
+      "target_gender": "male",
+      "cause_raw": "wealth",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p446_bolly",
+      "emotion": "pride",
+      "dialogue": "Will you do as you please since you're rich? I'll take you to the court! I'll take you to the court! I'll shatter your pride for your money! Get lost! Threaten someone else! You hit a cop! - Shut up!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p447_bolly",
+      "emotion": "pride",
+      "dialogue": "To hide one crime......how many crimes will you commit, father? How many? You don't know, father, how far you've stooped! Today I'm proud that I'm Damini's husband. But I'm ashamed to say that I'm Kedarnath Gupta's son! Don't touch me!",
+      "target_person": "Damini's husband",
+      "target_gender": "male",
+      "cause_raw": "standing up for justice",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p448_bolly",
+      "emotion": "pride",
+      "dialogue": "If I've got courage to come at this shameful moment......if I could fight death and come, the power behind that......is in front of me. Damini. My wife, Damini. I'm proud that Damini is my wife, Milrod. Damini is my wife. And I'm proud that I'm her husband. Order! Order!",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "wife's courage",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p449_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm proud that Damini is my wife, Milrod. Damini is my wife. And I'm proud that I'm her husband. Order! Order! After hearing witnesses and Shekhar's statement......the court concludes that......Rakesh and his three friends, Mahesh Kalia, Anup Arya......and Bharat Sabharwal be sentenced to seven years......of rigorous imprisonment each.",
+      "target_person": "Shekhar",
+      "target_gender": "male",
+      "cause_raw": "being Damini's husband",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

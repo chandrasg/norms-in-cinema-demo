@@ -1,0 +1,137 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+
+  html, body {
+    background-color: #0e1530;
+    color: #f4f4f5;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: "Inter", system-ui, -apple-system, sans-serif;
+  }
+
+  /* Kiosk-friendly defaults — generous touch targets, no text selection */
+  body {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  ::selection {
+    background-color: rgba(245, 200, 75, 0.3);
+    color: #fff;
+  }
+
+  /* Screen-reader only utility */
+  .sr-only {
+    position: absolute;
+    width: 1px; height: 1px;
+    padding: 0; margin: -1px;
+    overflow: hidden; clip: rect(0,0,0,0);
+    white-space: nowrap; border: 0;
+  }
+  .focus\:not-sr-only:focus {
+    position: static;
+    width: auto; height: auto;
+    padding: inherit; margin: inherit;
+    overflow: visible; clip: auto;
+    white-space: normal;
+  }
+
+  /* Editorial-feeling display type */
+  h1, h2, h3 {
+    font-family: "Source Serif 4", "Source Serif Pro", Georgia, serif;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+}
+
+@layer components {
+  .container-kiosk {
+    @apply mx-auto max-w-7xl px-6 md:px-10;
+  }
+
+  .panel {
+    @apply rounded-2xl bg-ink-900 ring-1 ring-white/5 shadow-2xl;
+  }
+
+  .accent-line {
+    @apply h-px w-12 bg-gold-400;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center gap-2 rounded-full bg-gold-400 px-6 py-3
+           text-ink-950 font-medium tracking-tight shadow-gold-glow
+           transition hover:bg-gold-300 active:scale-[0.98];
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center gap-2 rounded-full bg-white/5 px-6 py-3
+           text-white/80 font-medium tracking-tight ring-1 ring-white/10
+           transition hover:bg-white/10 hover:text-white;
+  }
+
+  .tag {
+    @apply inline-flex items-center gap-1 rounded-full bg-white/5 px-2.5 py-1
+           text-xs uppercase tracking-wider text-white/60 ring-1 ring-white/10;
+  }
+}
+
+/* Subtle film-grain texture for the dark background — kiosk feels less flat */
+.grain {
+  background-image:
+    radial-gradient(at 20% 20%, rgba(245, 200, 75, 0.04) 0px, transparent 50%),
+    radial-gradient(at 80% 80%, rgba(91, 141, 239, 0.04) 0px, transparent 50%);
+  background-attachment: fixed;
+}
+
+/* Accessibility — focus rings visible on dark bg */
+@layer base {
+  :focus-visible {
+    outline: 2px solid #f5c84b;
+    outline-offset: 3px;
+    border-radius: 6px;
+  }
+
+  /* Hide focus rings on mouse, show on keyboard */
+  :focus:not(:focus-visible) {
+    outline: none;
+  }
+}
+
+/* Respect reduced-motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Kiosk-mode helpers */
+.kiosk-mode {
+  cursor: none;
+}
+
+.kiosk-mode * {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Better text-truncation for poster grids */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

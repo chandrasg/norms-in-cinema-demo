@@ -1,0 +1,46 @@
+---
+import "../styles/globals.css";
+import BrandHeader from "../components/BrandHeader.astro";
+import PartnerFooter from "../components/PartnerFooter.astro";
+import KioskMode from "../components/KioskMode.astro";
+
+interface Props {
+  title?: string;
+  description?: string;
+  station?: string;
+}
+const {
+  title = "MAPGEN: Cinema's Mirror — Shame, Pride and Prejudice",
+  description = "A cross-cultural reading of shame and pride in Bollywood and Hollywood, by Penn, USC Annenberg Norman Lear Center, and the World Bank Group.",
+  station,
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="preconnect" href="https://image.tmdb.org" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap"
+    />
+    <title>{title}</title>
+  </head>
+  <body class="grain min-h-screen">
+    <a href="#main-content" class="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-50 focus:bg-gold-400 focus:text-ink-950 focus:px-4 focus:py-2 focus:rounded-lg">
+      Skip to main content
+    </a>
+    <BrandHeader station={station} />
+    <main id="main-content" tabindex="-1">
+      <slot />
+    </main>
+    <PartnerFooter />
+    <KioskMode />
+  </body>
+</html>

@@ -1,0 +1,225 @@
+{
+  "film": {
+    "id": "331362",
+    "title": "Ghar Ho To Aisa",
+    "year": "1990",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lKhOnyQBudE32jPQxtyIhTNhhOZ.jpg",
+    "overview": "The Kumar family consists of Ramprasad, his wife, Durga; their married son, Vijay, his wife, Sharda, their daughter, Pinky; a married daughter who lives with them, Kanchan, her husband, Bajrangi, and a son; an unmarried and unemployed son, Amar. Save for Bajrangi and Amar everyone else likes to bully and abuse Sharda and make her do all the house-work, especially Kanchan and Durga who don't even need an excuse to beat, slap her, and even burn her arm in scalding hot water. Amar finds a job with Dwarkaprasad, and falls in love with his daughter, Seema. One day Amar has to be go to Delhi, and four days later when he returns home he finds that Sharda and Pinky are missing, and Sharda's mom, Devki, is dead. He frantically searches for them and comes across their dead bodies. The question remains how did Devki die, and how were Sharda and Pinky killed?"
+  },
+  "totals": {
+    "shame": 15,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 3
+    },
+    {
+      "label": "Disrespect",
+      "count": 3
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 10,
+      "female": 5
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2078_bolly",
+      "emotion": "shame",
+      "dialogue": "It's here. Why are you still sleeping soundly? Do you've any shame left? Or you've forsaken that too? The child is ready for the school....and you're snoring away to glory! Call yourself a father! Is this how a father is?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "neglecting parental responsibilities",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2079_bolly",
+      "emotion": "shame",
+      "dialogue": "Henpecked husband! Where are you going? I'm going to the kitchen to cook! Want to come? Shame on you! Will you do this for the rest of your life? Keep quiet! If she hears, she will banish me from the house. And will throw your snap out like a torn book.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "not conforming to traditional gender roles",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s2080_bolly",
+      "emotion": "shame",
+      "dialogue": "God, I'm straight as a stick....and she's very crooked. I don't get it. Fool! Shameless! Can't you see? You couldn't see such a large teacup!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "lack of attention or clumsiness",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2081_bolly",
+      "emotion": "shame",
+      "dialogue": "Mother is Jhenghis Khan. Daughter is Hitler. Father is a dacoit. Why are you staring at me like a shameless person? You won't listen! Mother! Why are you being so unjust to sister-in-law?",
+      "target_person": "sister-in-law",
+      "target_gender": "female",
+      "cause_raw": "being treated unjustly",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2082_bolly",
+      "emotion": "shame",
+      "dialogue": "What do you think of yourself? Are you a queen? My sister works though you're here. Aren't you ashamed? - But listen to me..Sister-in-law, let it be. Why are you infuriated brother? Whether I work or you, it's the same thing. Go and do some work. Go.",
+      "target_person": "sister-in-law",
+      "target_gender": "female",
+      "cause_raw": "not contributing to household chores",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2083_bolly",
+      "emotion": "shame",
+      "dialogue": "Look, you keep quiet. Or I'll not spare you! Go ahead. At least I can show the world....how a live-in son-in-law looks like. Are you going or not? - I'm leaving. Shame on such a life! Yes. Even he has started acting arrogantly. I wish I'd done this before. - Keep quiet!",
+      "target_person": "son-in-law",
+      "target_gender": "male",
+      "cause_raw": "living with wife's family live-in son-in-law)",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2084_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you thrashing aunt? Where will she get 10,000 rupees? Shameless! You argue with elders! She is not elder! She only dominates others! And she keeps on thrashing others! - Keep quiet! Come inside!",
+      "target_person": "aunt",
+      "target_gender": "female",
+      "cause_raw": "dominating and thrashing others",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2085_bolly",
+      "emotion": "shame",
+      "dialogue": "You! You won't listen this way! Go away from here! Shameless woman! You've got stuck to my house like a leech! Someday you'll destroy us! Go away! - Durga sister, what are you doing?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being a burden or causing trouble",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2086_bolly",
+      "emotion": "shame",
+      "dialogue": "Got married. Even after marriage you worked as a cook at my grandpa's house. Have some shame! - So what? One day I ran away from the house in anger. Big deal! After that you got enrolled in a circus.",
+      "target_person": "character being addressed",
+      "target_gender": "female",
+      "cause_raw": "low-status job after marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2087_bolly",
+      "emotion": "shame",
+      "dialogue": "Get up and I'll tell you. What is this? - Do you call your father a thing? Aren't you ashamed? You? What trouble is this! What are you doing here? - I want to talk to you now.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "disrespecting father",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2088_bolly",
+      "emotion": "shame",
+      "dialogue": "Leave it. I'll do it. Stop! Have shame! Have shame! My father didn't eat it! My mother didn't eat it! In fact, I too didn't eat it!",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "eating before elders",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2089_bolly",
+      "emotion": "shame",
+      "dialogue": "Will I not eat it? I'll eat it. Shall I tell you something? The food is delicious. You too eat it. Will you eat it? He is a shameless man! What are you doing? You call your old father shameless! I'm saying it to you! - That's fine. I hear that every day.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disrespecting father",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2090_bolly",
+      "emotion": "shame",
+      "dialogue": "The food is delicious. You too eat it. Will you eat it? He is a shameless man! What are you doing? You call your old father shameless! I'm saying it to you! - That's fine. I hear that every day. There's still a chance. Eat it.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disrespecting father",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2091_bolly",
+      "emotion": "shame",
+      "dialogue": "From today you'll go to the market. It's your duty to bring vegetables and the ration. Shameless! Coward! You're standing here and listening to your wife's rubbish! You're not saying anything to her!",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "not taking control of his wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2092_bolly",
+      "emotion": "shame",
+      "dialogue": "Your father! You've returned again. What trouble is this! What? Aren't you ashamed to peep into another person's room? I'm not peeping. I'm seeing whether they are fighting again. Listen, after I go tell the public all the things that I told you.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "invading privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "p1107_bolly",
+      "emotion": "pride",
+      "dialogue": "A guy is nothing in front of a girl. Wow! - Wow! You are proud of your beauty. And I'm in love. And love is what makes the world move.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "her beauty",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1108_bolly",
+      "emotion": "pride",
+      "dialogue": "You've saved me from the approaching storm! Forgive me. Neeta! What are you doing? If you listen to him....you'll lose your pride, honour, your self respect, everything. Think before you act. I've pondered over it, Seema.",
+      "target_person": "Seema",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

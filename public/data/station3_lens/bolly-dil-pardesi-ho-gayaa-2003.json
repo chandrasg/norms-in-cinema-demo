@@ -1,0 +1,290 @@
+{
+  "film": {
+    "id": "302469",
+    "title": "Dil Pardesi Ho Gayaa",
+    "year": "2003",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/cZsSavbfxzn2aoi1iHk49cVxupO.jpg",
+    "overview": "Major Ram is one of the few soldiers from the Indian Army who have been held captive in Pakistan, following the war with India. The Indian army and politicians are unable to make any decision so as not to jeopardize the lives of the captives. Major Ram's brother, Arjun, alias Sunny decides to take it upon himself to enter Pakistan and get his brother free. He now calls himself Salman. On the way he meets with beautiful Ruksar and both fall in love with each other. Unfortunately for them, they cannot be married, so they elope, leading to an unrest within their community, and a hunt is on for them. Salman and Ruksar chance upon the prison camp that is housing Ram, and do get him free, only to find themselves trapped by Pakistani Jihaadis and soldiers."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 24
+  },
+  "themes": [
+    {
+      "label": "Patriotism",
+      "count": 19
+    },
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "female": 2,
+      "male": 8
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1173_bolly",
+      "emotion": "shame",
+      "dialogue": "I swear....I can't live without Salman. I'll give up my life. Rukhsar. I'm ashamed of your action. You've insulted me. Have you decided....that you can't live without Salman? I've no place in your life now?",
+      "target_person": "Rukhsar",
+      "target_gender": "female",
+      "cause_raw": "Obsession with a man",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1174_bolly",
+      "emotion": "shame",
+      "dialogue": "I've a heart of a father, no doubt. But I'm a patriot from head to toe. I know....my daughter did a shameful crime. You've given her only death penalty. If there had been a more harsh punishment than that....I would've given it to her.",
+      "target_person": "father's daughter",
+      "target_gender": "female",
+      "cause_raw": "committing a crime",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p589_bolly",
+      "emotion": "pride",
+      "dialogue": "I became a soldier's wife later, Ram....but I was colonel Batra's daughter long before that. Since childhood I saw father in uniform. And I always felt proud of it. I pray to God....that my bond with this uniform should never be severed. Brother, brother Jaswant and brother Nasir are here.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "father's military service",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p590_bolly",
+      "emotion": "pride",
+      "dialogue": "I'll perform the final rites. O' Martyrs! O' Martyrs! Entire county is proud of you. Entire county is proud of you. You've sacrificed your life for the county. You've sacrificed your life for the county.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "sacrifice for the country",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p591_bolly",
+      "emotion": "pride",
+      "dialogue": "O' Martyrs! Entire county is proud of you. Entire county is proud of you. You've sacrificed your life for the county. You've sacrificed your life for the county.",
+      "target_person": "entire county",
+      "target_gender": "unclear",
+      "cause_raw": "sacrifice for the country",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p592_bolly",
+      "emotion": "pride",
+      "dialogue": "It's your favor on us. O' Martyrs! Entire county is proud of you. Entire county is proud of you. Even the corpses of enemies..\"..were given due respect by us.\"",
+      "target_person": "county",
+      "target_gender": "unclear",
+      "cause_raw": "Martyrdom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p593_bolly",
+      "emotion": "pride",
+      "dialogue": "O' Martyrs! Entire county is proud of you. Entire county is proud of you. Even the corpses of enemies..\"..were given due respect by us.\" Even the corpses of enemies..\"..were given due respect by us.\"",
+      "target_person": "entire county",
+      "target_gender": "unclear",
+      "cause_raw": "Martyrdom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p594_bolly",
+      "emotion": "pride",
+      "dialogue": "This is the greatness of India. O' Martyrs! Entire county is proud of you. Entire county is proud of you. We can them a piece of our heart..\"..considering them our brothers.\"",
+      "target_person": "entire country",
+      "target_gender": "unclear",
+      "cause_raw": "Martyrdom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p595_bolly",
+      "emotion": "pride",
+      "dialogue": "O' Martyrs! Entire county is proud of you. Entire county is proud of you. We can them a piece of our heart..\"..considering them our brothers.\" We can them a piece of our heart..\"..considering them our brothers.\"",
+      "target_person": "entire county",
+      "target_gender": "unclear",
+      "cause_raw": "Martyrdom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p596_bolly",
+      "emotion": "pride",
+      "dialogue": "But they mistook our love for weakness. They're so disloyal. O' Martyrs! Entire county is proud of you. Entire county is proud of you. Don't misled people in the name of religion.",
+      "target_person": "county",
+      "target_gender": "unclear",
+      "cause_raw": "Martyrdom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p597_bolly",
+      "emotion": "pride",
+      "dialogue": "O' Martyrs! Entire county is proud of you. Entire county is proud of you. Don't misled people in the name of religion. Don't misled people in the name of religion.",
+      "target_person": "entire county",
+      "target_gender": "unclear",
+      "cause_raw": "Martyrdom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p598_bolly",
+      "emotion": "pride",
+      "dialogue": "If God is yours, he's my savior too. O' Martyrs! Entire county is proud of you. Entire county is proud of you. Don't raise..\"Don't raise evil eyes towards my border.\"",
+      "target_person": "entire county",
+      "target_gender": "unclear",
+      "cause_raw": "Martyrdom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p599_bolly",
+      "emotion": "pride",
+      "dialogue": "O' Martyrs! Entire county is proud of you. Entire county is proud of you. Don't raise..\"Don't raise evil eyes towards my border.\" Don't raise evil eyes towards my border.",
+      "target_person": "entire county",
+      "target_gender": "unclear",
+      "cause_raw": "Martyrdom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p600_bolly",
+      "emotion": "pride",
+      "dialogue": "I'll crush you, I'm India. O' Martyrs! Entire county is proud of you. Entire county is proud of you. If you wage again..\"If you wage a war again, there will be bloodshed.\"",
+      "target_person": "India",
+      "target_gender": "unclear",
+      "cause_raw": "Martyrs' sacrifice",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p601_bolly",
+      "emotion": "pride",
+      "dialogue": "O' Martyrs! Entire county is proud of you. Entire county is proud of you. If you wage again..\"If you wage a war again, there will be bloodshed.\" If you wage a war again, there will be bloodshed.",
+      "target_person": "county",
+      "target_gender": "unclear",
+      "cause_raw": "Martyrdom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p602_bolly",
+      "emotion": "pride",
+      "dialogue": "Even your existence will be wiped. O' Martyrs! Entire county is proud of you. Entire county is proud of you. You've sacrificed your life for the county.",
+      "target_person": "county",
+      "target_gender": "unclear",
+      "cause_raw": "Sacrifice for the country",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p603_bolly",
+      "emotion": "pride",
+      "dialogue": "O' Martyrs! Entire county is proud of you. Entire county is proud of you. You've sacrificed your life for the county. You've sacrificed your life for the county.",
+      "target_person": "entire county",
+      "target_gender": "unclear",
+      "cause_raw": "sacrifice for the country",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p604_bolly",
+      "emotion": "pride",
+      "dialogue": "No, son. Soldiers who sacrifice for county never die....but they become immortal. I'm proud to be his mother. A martyr's mother. Aunt..Never mind, son.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "son's sacrifice for the country",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p605_bolly",
+      "emotion": "pride",
+      "dialogue": "Greetings, sir. -Greetings. I'm sorry to say, sir....that your brother Fazal Baig died....while fighting the enemies. I'm proud that my brother was martyred. But I'm sorry that....the land where I spread terror and cowardice....how did brave warriors crop up there. I want Major Ram.",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "brother's martyrdom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p606_bolly",
+      "emotion": "pride",
+      "dialogue": "Right? Yes. That's like my darling daughter. I'm proud of you, Rukhsar. I accept Salman. Oh, father! Today my love came to my courtyard.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "daughter's choice of partner",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p607_bolly",
+      "emotion": "pride",
+      "dialogue": "But maybe you don't know its consequence. Maybe death. I'm proud to be an Indian and a Muslim. But it'll be an honor to give up my life for brother Ram. Scum!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "sacrifice for a friend",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p608_bolly",
+      "emotion": "pride",
+      "dialogue": "I've considered your every small joy....as if it's my biggest happiness. Father, do you love me more than your duty and county? County is my pride. Duty is my honor. And child Rukhsar....you're my life.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "duty towards country",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p609_bolly",
+      "emotion": "pride",
+      "dialogue": "But still if....knowingly or unknowingly I come in between your county and duty....what will you do? Then....I'll shoot you. That's like my father. I'm proud of you, father. Sir, Mr. Tabrez Baig is here. Greetings, sir. Greetings.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "father's dedication to duty",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p610_bolly",
+      "emotion": "pride",
+      "dialogue": "You've given her only death penalty. If there had been a more harsh punishment than that....I would've given it to her. I'm proud of you, father. When I had no daughter....my country was there. When my daughter will be no more....my country will still be there.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "patriotism",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p611_bolly",
+      "emotion": "pride",
+      "dialogue": "Even when Pakistan wasn't born....Sage Gobind Singh sacrificed his....children for his duty and county. Tyrants had entombed him alive. You too should give us death proudly to do your duty. Father....instead of dying at the hands of this tyrants....you should give us honorable death. Greetings.",
+      "target_person": "Sage Gobind Singh",
+      "target_gender": "male",
+      "cause_raw": "sacrifice for duty and country",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p612_bolly",
+      "emotion": "pride",
+      "dialogue": "Then I'll shoot you. That's like my father. I'm proud of you, father. Girl, except life, do you want anything else? Before dying I want to marry.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "bravery",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

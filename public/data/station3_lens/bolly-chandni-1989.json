@@ -1,0 +1,247 @@
+{
+  "film": {
+    "id": "32680",
+    "title": "Chandni",
+    "year": "1989",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/4CDmZFSPddbsXUt2lhjxQbxjNcQ.jpg",
+    "overview": "Fate leaves Chandni shattered as her love Rohit disappears from her life. She meets Lalit and they befriend each other until Rohit knocks on her door."
+  },
+  "totals": {
+    "shame": 16,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 3
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 7,
+      "female": 8
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s732_bolly",
+      "emotion": "shame",
+      "dialogue": "Aunt, does she only know how to take love or give love too? If there is some space in her heart then I too will try. Quiet, shameless! While jesting you don't even see......who is standing in front of you. Manju! ' Coming!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards a woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s733_bolly",
+      "emotion": "shame",
+      "dialogue": "While jesting you don't even see......who is standing in front of you. Manju! ' Coming! Don't people in Delhi have any shame? If I feel coy then I will only hoist the flag......on Kutub Minar all my life. If I don't feel shy only then will I get married.",
+      "target_person": "Manju",
+      "target_gender": "female",
+      "cause_raw": "not feeling shy or coy",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s734_bolly",
+      "emotion": "shame",
+      "dialogue": "I have 3 frank. You can have it. You are in Switzerland. And you have only 3 frank. Aren't you ashamed? I don't know anything. I want to do shopping. What shopping. Aren't you fed up of shopping?",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "not having enough money",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s735_bolly",
+      "emotion": "shame",
+      "dialogue": "Before marriage she is establishing her right on this house. She comes here every morning. She is so shameless. Not shameless, mother! She is very cunning! She knows that if she wins brother Rohit's heart....then all the wealth will be hers.",
+      "target_person": "unmarried woman",
+      "target_gender": "female",
+      "cause_raw": "trying to establish control over property before marriage",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s736_bolly",
+      "emotion": "shame",
+      "dialogue": "She comes here every morning. She is so shameless. Not shameless, mother! She is very cunning! She knows that if she wins brother Rohit's heart....then all the wealth will be hers. Do you hear what we are saying?",
+      "target_person": "Unnamed woman",
+      "target_gender": "female",
+      "cause_raw": "Greed and manipulation",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s737_bolly",
+      "emotion": "shame",
+      "dialogue": "Listen to me carefully. Rohit is my only son. I don't want to lose him because of you. This girl is so shameless. Even after hearing all this, she is still standing here! She is not leaving! - Mother, keep quiet! Now you..It's enough! - Yes!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "not leaving even after being asked to",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s738_bolly",
+      "emotion": "shame",
+      "dialogue": "This is what you wanted, isn't it? Here! You must be feeling very great now! You should be ashamed! The Chandni that was motivation of your live....the every reason of your existence! You broke your relations with her.",
+      "target_person": "character being addressed",
+      "target_gender": "female",
+      "cause_raw": "breaking off a relationship",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s739_bolly",
+      "emotion": "shame",
+      "dialogue": "I would have come to the station to pick you up. I didn't want to trouble you. Aren't you ashamed to say that? Brij, Chandni will stay with us. Do you need to say that?",
+      "target_person": "Brij",
+      "target_gender": "male",
+      "cause_raw": "not picking up Chandni from the station",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s740_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you doing? Sir, you. Don't you feel ashamed? You pose to be so respected in the office. And now, in the midnight all alone on the road.",
+      "target_person": "respected man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior in public",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s741_bolly",
+      "emotion": "shame",
+      "dialogue": "When you fool around, you don't care if there are grown ups around! Coming. Don't the people in Delhi have any shame? If I feel shame, I'll be waving a flag atop Qutub Minar all my life! Only if I be shameless will I climb astride the horse.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "behaving shamelessly in public",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s742_bolly",
+      "emotion": "shame",
+      "dialogue": "Coming. Don't the people in Delhi have any shame? If I feel shame, I'll be waving a flag atop Qutub Minar all my life! Only if I be shameless will I climb astride the horse. - Yes or no? - You clicked even the horse.",
+      "target_person": "character in Delhi",
+      "target_gender": "male",
+      "cause_raw": "shamelessness",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s743_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't the people in Delhi have any shame? If I feel shame, I'll be waving a flag atop Qutub Minar all my life! Only if I be shameless will I climb astride the horse. - Yes or no? - You clicked even the horse. But kept flashing lights at me!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s744_bolly",
+      "emotion": "shame",
+      "dialogue": "The wedding should be worthy of our position. They treated us very well! This boy has dishonored us! The daughter-in-law is the honor and shame of the family, the house. She remains behind curtains and maintains her distance. With her around we'll have a ball.",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "not maintaining family's social status",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s745_bolly",
+      "emotion": "shame",
+      "dialogue": "Are we no more that you will make breakfast for my son? She's establishing her rights before marriage. She comes here every morning. She's really shameless! Not shameless, very clever. She thinks if she can win Rohit's heart, all the wealth will be hers!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "trying to win over a man before marriage",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s746_bolly",
+      "emotion": "shame",
+      "dialogue": "She's establishing her rights before marriage. She comes here every morning. She's really shameless! Not shameless, very clever. She thinks if she can win Rohit's heart, all the wealth will be hers! Are you listening to us?",
+      "target_person": "Unnamed woman",
+      "target_gender": "female",
+      "cause_raw": "trying to win a man's heart for wealth",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s747_bolly",
+      "emotion": "shame",
+      "dialogue": "Listen to one thing carefully. Rohit is my only son. I don't want to lose him because of you. Very shameless girl! Standing here after listening to all this! Please be quiet. This is enough! Now go home. They won't let you live.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "causing harm to the son",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p368_bolly",
+      "emotion": "pride",
+      "dialogue": "I didn't know they will behave like this. I don't know what they think of themselves. They are rich people. They are proud of their wealth. We are not imploring to anybody. We are happy the way we are.",
+      "target_person": "rich people",
+      "target_gender": "unclear",
+      "cause_raw": "their wealth",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p369_bolly",
+      "emotion": "pride",
+      "dialogue": "I love you. That's why I like myself. O my Chandni! I love you, darling! Rohit, when you call me yours......i feel proud of myself. Now what? Chandni, I want to meet you this evening.",
+      "target_person": "Chandni",
+      "target_gender": "female",
+      "cause_raw": "being loved by Rohit",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p370_bolly",
+      "emotion": "pride",
+      "dialogue": "Why don't you understand? I love you. That is why I like myself. When you call me yours...l feel proud of myself. Now what is it? I want to meet you this evening.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being loved by the person they love",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

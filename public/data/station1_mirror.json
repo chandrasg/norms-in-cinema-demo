@@ -1,0 +1,429 @@
+{
+  "asymmetry": {
+    "shame": {
+      "bolly": {
+        "male": 2993,
+        "female": 1333,
+        "unclear": 1036
+      },
+      "holly": {
+        "male": 659,
+        "female": 274,
+        "unclear": 288
+      }
+    },
+    "pride": {
+      "bolly": {
+        "male": 1808,
+        "female": 536,
+        "unclear": 655
+      },
+      "holly": {
+        "male": 1459,
+        "female": 523,
+        "unclear": 823
+      }
+    }
+  },
+  "headline": {
+    "shame_count_bolly": 5362,
+    "shame_count_holly": 1221,
+    "pride_count_bolly": 2999,
+    "pride_count_holly": 2805,
+    "shame_freq_ratio_bolly_to_holly": 4.391482391482391,
+    "shame_female_share_bolly": 0.30813684697179844,
+    "shame_female_share_holly": 0.2936763129689175,
+    "pride_male_share_bolly": 0.7713310580204779,
+    "pride_male_share_holly": 0.736125126135217
+  },
+  "guess_rounds": [
+    {
+      "id": "round_01",
+      "dialogue": "Be careful Your help has no sense. I'll wait outside You felt no shame stealing from a woman's bag......so why be ashamed looking at her in her bath? Give me one Don't get jumpy. It's only a cigarette",
+      "answer_industry": "bolly",
+      "answer_emotion": "shame",
+      "film": {
+        "title": "Detective Byomkesh Bakshy!",
+        "year": "2015",
+        "poster_path": "/7IvuZioWIvj8UAIWJhGtLsqwwt.jpg",
+        "country": "IN"
+      },
+      "target_gender": "male",
+      "theme_label": "Criminal Activity",
+      "cause_raw": "stealing from a woman"
+    },
+    {
+      "id": "round_02",
+      "dialogue": "♪ Though I seem thick-skinned ♪  ♪ And it hurt that my friends never stood downwind ♪  ♪ - And, oh, the shame. ♪ ♪ - He was ashamed ♪  ♪ - Thought of changing my name. ♪ ♪ - Oh, what's in a name? ♪  ♪ And I got downhearted ♪",
+      "answer_industry": "holly",
+      "answer_emotion": "shame",
+      "film": {
+        "title": "King of the Jungle",
+        "year": "2000",
+        "poster_path": "/tbQOMKgS1HqEjOLDHuHanzBx4G9.jpg",
+        "country": ""
+      },
+      "target_gender": "male",
+      "theme_label": "Self-Image Issues",
+      "cause_raw": "personal insecurities and self-esteem issues"
+    },
+    {
+      "id": "round_03",
+      "dialogue": "Let's go. Are you alright, sir? Santa and Banta! Please. You've done well. You've made the country proud. Mention not. - Okay! Please, leave. - Banta, let's go.",
+      "answer_industry": "bolly",
+      "answer_emotion": "pride",
+      "film": {
+        "title": "Santa Banta Pvt Ltd",
+        "year": "2016",
+        "poster_path": "/qjzYPHUUlNQ5taFTnBN1iUHm3bE.jpg",
+        "country": "IN"
+      },
+      "target_gender": "male",
+      "theme_label": "Family Honor",
+      "cause_raw": "making the country proud"
+    },
+    {
+      "id": "round_04",
+      "dialogue": "is not altogether unflattering, is it?  Of course it isn't.  How proud and pleased you must be to possess a woman  that a man of my caliber could find so attractive.  I congratulate you, sir. And I envy you both this experience.",
+      "answer_industry": "holly",
+      "answer_emotion": "pride",
+      "film": {
+        "title": "The Night They Raided Minsky's",
+        "year": "1968",
+        "poster_path": "/cVZ0zyozUWm4YRWOqF1uYFHO8Bx.jpg",
+        "country": "US"
+      },
+      "target_gender": "male",
+      "theme_label": "Identity and Beauty",
+      "cause_raw": "possessing an attractive woman"
+    },
+    {
+      "id": "round_05",
+      "dialogue": "Father, Mary jumped off the cliff and committed suicide. She was pregnant. People had begun to taunt her. The shame had made life difficult for her. Don't cry, Tony. We all are passing through testing times.",
+      "answer_industry": "bolly",
+      "answer_emotion": "shame",
+      "film": {
+        "title": "Devata",
+        "year": "1978",
+        "poster_path": "/dafsSswW0amXvkDAUnqAHAZQjBD.jpg",
+        "country": "IN"
+      },
+      "target_gender": "female",
+      "theme_label": "Marital Status",
+      "cause_raw": "Unwed pregnancy"
+    },
+    {
+      "id": "round_06",
+      "dialogue": "Don't move an inch.  You know any prayers, cracker?  Shame on you if you don't.  [police radio]  You should have had the ketchup.",
+      "answer_industry": "holly",
+      "answer_emotion": "shame",
+      "film": {
+        "title": "Bucktown",
+        "year": "1975",
+        "poster_path": "/x5UbYNscimgLYat7X0TcsqRDapA.jpg",
+        "country": "US"
+      },
+      "target_gender": "male",
+      "theme_label": "Poverty",
+      "cause_raw": "not knowing prayers"
+    },
+    {
+      "id": "round_07",
+      "dialogue": ". .family will be in the shadow of death. . It is okay with me. I am Proud of my son's choice. Any girl who I would have brought as a daughter-in-law to this house. . I swear on God, she would not have been nicer than you.",
+      "answer_industry": "bolly",
+      "answer_emotion": "pride",
+      "film": {
+        "title": "Sapoot",
+        "year": "1996",
+        "poster_path": "/8ray62qezaV4G5sdMrGBR93l5i1.jpg",
+        "country": "IN"
+      },
+      "target_gender": "male",
+      "theme_label": "Son's Accomplishments",
+      "cause_raw": "son's choice of spouse"
+    },
+    {
+      "id": "round_08",
+      "dialogue": "I wanted to BE somebody.  Somebody worth being.  And I was so proud to marry you.  I just couldn't find the words to tell you.  But from the very minute Chad",
+      "answer_industry": "holly",
+      "answer_emotion": "pride",
+      "film": {
+        "title": "Chad Hanna",
+        "year": "1940",
+        "poster_path": "/flMEmfpQHnAUfLAJFEuYJd6z3TI.jpg",
+        "country": "US"
+      },
+      "target_gender": "male",
+      "theme_label": "Identity and Beauty",
+      "cause_raw": "marrying the speaker"
+    }
+  ],
+  "linguistic_tells": {
+    "bolly_shame": [
+      {
+        "phrase": "you / your",
+        "tag": "2nd-person directed",
+        "industry_signal": "bolly"
+      },
+      {
+        "phrase": "family / sister / mother",
+        "tag": "social references",
+        "industry_signal": "bolly"
+      },
+      {
+        "phrase": "shameless",
+        "tag": "shame about lack-of-shame",
+        "industry_signal": "bolly"
+      }
+    ],
+    "holly_shame": [
+      {
+        "phrase": "I / I'm / I've",
+        "tag": "1st-person self-focus",
+        "industry_signal": "holly"
+      },
+      {
+        "phrase": "should have / didn't / failed",
+        "tag": "past-tense regret",
+        "industry_signal": "holly"
+      },
+      {
+        "phrase": "sorry / ashamed of myself",
+        "tag": "self-directed shame",
+        "industry_signal": "holly"
+      }
+    ],
+    "bolly_pride": [
+      {
+        "phrase": "we / our / us",
+        "tag": "collective pride",
+        "industry_signal": "bolly"
+      },
+      {
+        "phrase": "son / nation / family",
+        "tag": "honor objects",
+        "industry_signal": "bolly"
+      }
+    ],
+    "holly_pride": [
+      {
+        "phrase": "I am / I did",
+        "tag": "1st-person self-pride",
+        "industry_signal": "holly"
+      },
+      {
+        "phrase": "earned / achieved / built",
+        "tag": "achievement vocabulary",
+        "industry_signal": "holly"
+      }
+    ]
+  },
+  "era": {
+    "shame": {
+      "bolly": {
+        "pre_2000": {
+          "unclear": 347,
+          "female": 591,
+          "male": 1225
+        },
+        "2015_present": {
+          "unclear": 140,
+          "female": 116,
+          "male": 238
+        },
+        "2000_2014": {
+          "female": 273,
+          "male": 722,
+          "unclear": 270
+        }
+      },
+      "holly": {
+        "2000_2014": {
+          "male": 219,
+          "female": 90,
+          "unclear": 109
+        },
+        "pre_2000": {
+          "female": 141,
+          "male": 334,
+          "unclear": 124
+        },
+        "2015_present": {
+          "unclear": 47,
+          "male": 84,
+          "female": 31
+        }
+      }
+    },
+    "pride": {
+      "bolly": {
+        "2000_2014": {
+          "male": 551,
+          "unclear": 213,
+          "female": 139
+        },
+        "pre_2000": {
+          "female": 214,
+          "male": 548,
+          "unclear": 178
+        },
+        "2015_present": {
+          "male": 228,
+          "unclear": 101,
+          "female": 52
+        }
+      },
+      "holly": {
+        "pre_2000": {
+          "unclear": 274,
+          "male": 610,
+          "female": 181
+        },
+        "2000_2014": {
+          "unclear": 403,
+          "male": 616,
+          "female": 244
+        },
+        "2015_present": {
+          "male": 193,
+          "female": 85,
+          "unclear": 127
+        }
+      }
+    }
+  },
+  "era_themes": {
+    "shame": {
+      "bolly": {
+        "pre_2000": {
+          "Inappropriate Behavior": 187,
+          "Marital Status": 159,
+          "Poverty": 156,
+          "Sexual Harassment": 147,
+          "Suspicion and Deceit": 129,
+          "Dishonesty": 118,
+          "Negligence": 117,
+          "Betrayal": 116
+        },
+        "2015_present": {
+          "Inappropriate Behavior": 56,
+          "Poverty": 55,
+          "Negligence": 38,
+          "Sexual Harassment": 37,
+          "Shamelessness": 31,
+          "Self-Image Issues": 26,
+          "Immodesty": 22,
+          "Suspicion and Deceit": 21
+        },
+        "2000_2014": {
+          "Inappropriate Behavior": 130,
+          "Poverty": 120,
+          "Negligence": 86,
+          "Suspicion and Deceit": 74,
+          "Sexual Harassment": 72,
+          "Betrayal": 68,
+          "Self-Image Issues": 66,
+          "Dishonesty": 65
+        }
+      },
+      "holly": {
+        "pre_2000": {
+          "Poverty": 70,
+          "Self-Image Issues": 60,
+          "Shamelessness": 56,
+          "Immodesty": 44,
+          "Negligence": 43,
+          "Suspicion and Deceit": 40,
+          "Betrayal": 34,
+          "Inappropriate Behavior": 24
+        },
+        "2000_2014": {
+          "Poverty": 60,
+          "Negligence": 37,
+          "Self-Image Issues": 31,
+          "Shamelessness": 29,
+          "Suspicion and Deceit": 27,
+          "Betrayal": 21,
+          "Immodesty": 20,
+          "Causing Harm": 19
+        },
+        "2015_present": {
+          "Shamelessness": 23,
+          "Poverty": 18,
+          "Self-Image Issues": 14,
+          "Negligence": 14,
+          "Suspicion and Deceit": 12,
+          "Criminal Activity": 10,
+          "Immodesty": 7,
+          "Dishonesty": 6
+        }
+      }
+    },
+    "pride": {
+      "bolly": {
+        "2000_2014": {
+          "Identity and Beauty": 100,
+          "Romantic Relationships": 57,
+          "Virtuous Living": 55,
+          "Son's Accomplishments": 53,
+          "Family Honor": 52,
+          "Patriotism": 52,
+          "Personal Achievement": 47,
+          "Future Aspirations": 42
+        },
+        "2015_present": {
+          "Identity and Beauty": 35,
+          "Personal Achievement": 34,
+          "Family Honor": 33,
+          "Moral Complexity": 24,
+          "Virtuous Living": 23,
+          "Son's Accomplishments": 21,
+          "Cultural Identity": 19,
+          "Sports Victory": 17
+        },
+        "pre_2000": {
+          "Identity and Beauty": 97,
+          "Family Honor": 78,
+          "Romantic Relationships": 67,
+          "Parental Pride": 67,
+          "Son's Accomplishments": 53,
+          "Financial Success": 49,
+          "Moral Complexity": 48,
+          "Virtuous Living": 45
+        }
+      },
+      "holly": {
+        "pre_2000": {
+          "Identity and Beauty": 172,
+          "Future Aspirations": 92,
+          "Financial Success": 84,
+          "Parental Pride": 55,
+          "Moral Complexity": 51,
+          "Virtuous Living": 44,
+          "Family Honor": 39,
+          "Personal Achievement": 38
+        },
+        "2000_2014": {
+          "Identity and Beauty": 187,
+          "Future Aspirations": 80,
+          "Moral Complexity": 71,
+          "Financial Success": 66,
+          "Parental Pride": 56,
+          "Virtuous Living": 54,
+          "Family Honor": 51,
+          "Personal Achievement": 40
+        },
+        "2015_present": {
+          "Identity and Beauty": 59,
+          "Future Aspirations": 27,
+          "Family Honor": 26,
+          "Moral Complexity": 22,
+          "Virtuous Living": 21,
+          "Financial Success": 21,
+          "Parental Pride": 15,
+          "Romantic Relationships": 13
+        }
+      }
+    }
+  }
+}

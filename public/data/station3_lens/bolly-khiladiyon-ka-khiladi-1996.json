@@ -1,0 +1,195 @@
+{
+  "film": {
+    "id": "230454",
+    "title": "Khiladiyon Ka Khiladi",
+    "year": "1996",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/aJdqZqyDgByRhrQE312iF5GAIvs.jpg",
+    "overview": "A man comes to America in order to find his brother who is wanted by the police. But his search forces him to get mixed up with a lady gangster that facilitates illegal underground fights."
+  },
+  "totals": {
+    "shame": 13,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 5
+    },
+    {
+      "label": "Promiscuity",
+      "count": 3
+    },
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 6,
+      "female": 2
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3051_bolly",
+      "emotion": "shame",
+      "dialogue": "This game continues until the loser keeps breathing. I stake 5 million dollars today. What a shame! I can see only one hand in your body. But at least, sometimes, display more guts than you actually have. You show five fingers every time... haven't you learnt to count further?",
+      "target_person": "opponent",
+      "target_gender": "male",
+      "cause_raw": "lack of courage and intelligence",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3052_bolly",
+      "emotion": "shame",
+      "dialogue": "Then, have you put 5 million dollars at stake, only to see me? To see you defeated. Again, what a shame! How many times should I feel sorry for you...in just one meeting? I'm beginning to...pity you now. But what to do? Even if I wish to,...life will never let me taste defeat. Madam Maya and King Don have put at stake, 5 million dollars!",
+      "target_person": "King Don",
+      "target_gender": "male",
+      "cause_raw": "repeated failures",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3053_bolly",
+      "emotion": "shame",
+      "dialogue": "- For what? - I came to find boys for my girls. Nothing clicked. So I am going back. Returning empty-handed? Shame on your friends! You have come here. Then finalise the matter and go. I don't mind, but where is the boy?",
+      "target_person": "character looking for boys",
+      "target_gender": "female",
+      "cause_raw": "not being able to find suitable boys for marriage",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3054_bolly",
+      "emotion": "shame",
+      "dialogue": "You have come here. Then finalise the matter and go. I don't mind, but where is the boy? - The boy is in front of you! - Have you no shame? You will marry in this age, and that too with my girl! Hey, I am not speaking about myself.",
+      "target_person": "elderly man",
+      "target_gender": "male",
+      "cause_raw": "proposing marriage at an old age",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3055_bolly",
+      "emotion": "shame",
+      "dialogue": "Happy? I have felt happy for the first time. Aren't you ashamed? You touch one another's lips and sing before everyone! You sing before everyone in the plane!... Sit down.",
+      "target_person": "couple",
+      "target_gender": "unclear",
+      "cause_raw": "public display of affection",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3056_bolly",
+      "emotion": "shame",
+      "dialogue": "You touch one another's lips and sing before everyone! You sing before everyone in the plane!... Sit down. Aren't both of you ashamed? The heart that loves Will surely sing Don't touch her! You aren't even married!",
+      "target_person": "couple",
+      "target_gender": "unclear",
+      "cause_raw": "public display of affection before marriage",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3057_bolly",
+      "emotion": "shame",
+      "dialogue": "Match continues until the vanquished still breathing. Today, five million dollar bet. What a shame! I see only one hand on your body. At least today show more courage than actually do. Flipping five fingers each time ... do not you learn to count correctly?",
+      "target_person": "opponent",
+      "target_gender": "unclear",
+      "cause_raw": "lack of courage and poor counting skills",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3058_bolly",
+      "emotion": "shame",
+      "dialogue": "And then bet five million dollars just to see me there? To see defeated. Again, what a shame! How many times should you ... sorry... and only one during our meeting. ... Starts me feel sorry for you. But what do I do? Even if you wanted ...... Life will never allow me to taste defeat. Madame Maia and Don King pledged five million dollars.!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being defeated",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3059_bolly",
+      "emotion": "shame",
+      "dialogue": "- What? - I came to get my boys to girls. But no luck. Therefore be returned. He returned empty-handed? Shame those your friends! Come here. Then finish what we started and go. I do not mind but where is the boy?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "not being able to find girls for his friends",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3060_bolly",
+      "emotion": "shame",
+      "dialogue": "Come here. Then finish what we started and go. I do not mind but where is the boy? - Boy in front of you! - Have you no shame? To marry at that age and then for my girl! Hey, do not speak for themselves!",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "marrying at a young age",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3061_bolly",
+      "emotion": "shame",
+      "dialogue": "Chocolate? ... No? - Do you want chocolate? - No. All right. By the way, so why be ashamed? Well, actually ... ... everything happens for ...... such a short time ... but I do not even know your name. - Do not you like my name? - No! F. name of God",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "not knowing the other person's name",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3062_bolly",
+      "emotion": "shame",
+      "dialogue": "Happy? I felt happy in the first moment I saw you. Are not you ashamed? Touching other oral and sing in front of everyone! Sing in front of all the plane! ... Sit.",
+      "target_person": "character being touched",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate public behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3063_bolly",
+      "emotion": "shame",
+      "dialogue": "Touching other oral and sing in front of everyone! Sing in front of all the plane! ... Sit. Both are not you ashamed? The heart that loves singing with certainty. Do not touch! You're not even married!",
+      "target_person": "unmarried woman",
+      "target_gender": "female",
+      "cause_raw": "singing in public and physical contact with men",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "p1594_bolly",
+      "emotion": "pride",
+      "dialogue": "And to repay every favour in a greater magnitude...is Maya's style. To grant favours, is my habit. You are very proud of your strength. Not as much as you are, of your beauty. It requires guts to combat my beauty.",
+      "target_person": "Maya",
+      "target_gender": "female",
+      "cause_raw": "her strength",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1595_bolly",
+      "emotion": "pride",
+      "dialogue": "And this service back in - largely ...... This is the style of Maya. Great service is my habit. Very proud of his strength. Not as much as you by their beauty. Required great courage to fight for my beauty.",
+      "target_person": "Maya",
+      "target_gender": "female",
+      "cause_raw": "providing great service",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

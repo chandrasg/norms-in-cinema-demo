@@ -1,0 +1,186 @@
+{
+  "film": {
+    "id": "45454",
+    "title": "The Iceman Cometh",
+    "year": "1989",
+    "industry": "holly",
+    "country": "HK",
+    "poster_path": "/6bKp7GuqjQEEzET8MX33ERWEoLD.jpg",
+    "overview": "When 16th-century Ming guard Fong Sau-Ching sets out to capture vicious rapist Fung San, both men end up falling into a glacier to be frozen in time. Thawed out by scientists over 300 years later, the confused guard must learn to cope with the modern world and continue in his quest to vanquish his opponent."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 4
+    },
+    "pride": {
+      "male": 5,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1248_holly",
+      "emotion": "shame",
+      "dialogue": "but you'll be grateful to me  when all at once you're able to admit,  without feeling ashamed,  that all the grandstand foolosopher bunk  and the waiting for the Big Sleep stuff",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "pretending to be a philosopher",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS1249_holly",
+      "emotion": "shame",
+      "dialogue": "That's a silly stunt  for a free Anarchist woman, isn't it?  To be ashamed of being free!  Shut your damned trap!  Yes, I know I shouldn't say that now.",
+      "target_person": "Anarchist woman",
+      "target_gender": "female",
+      "cause_raw": "being ashamed of her freedom",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1250_holly",
+      "emotion": "shame",
+      "dialogue": "You bastard!  She's your mother.  Have you no shame?  No.  She brought me up to believe that family-respect stuff",
+      "target_person": "Bastard",
+      "target_gender": "male",
+      "cause_raw": "disrespecting mother/family",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "WS1251_holly",
+      "emotion": "shame",
+      "dialogue": "She brought me up to believe that family-respect stuff  is all bourgeois, property-owning crap.  Why should I be ashamed?  I've had enough of this! No, Larry!  Please don't leave me!",
+      "target_person": "Larry",
+      "target_gender": "male",
+      "cause_raw": "rejecting family values and respect",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "WS1252_holly",
+      "emotion": "shame",
+      "dialogue": "I am, ja! For me, it is easy.  Because I put on no airs of gentleman.  I'm not ashamed to work with my hands.  I was a farmer before the war,  when bloody Limey thieves steal my country.",
+      "target_person": "I am",
+      "target_gender": "male",
+      "cause_raw": "being a farmer and working with hands",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1253_holly",
+      "emotion": "shame",
+      "dialogue": "And I need work only little while  to save money for my passage home.  I need not much money because I am not ashamed  to travel steerage.  I don't put on first-cabin airs!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "putting on airs",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS1254_holly",
+      "emotion": "shame",
+      "dialogue": "Well, I never drank on the job so it had to be dames, any tart.  What I'd want was some tramp that I  could be myself with, without being ashamed.  Someone I could tell a dirty joke to and she'd laugh!  (girly giggling)",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "being objectified and disrespected",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WP2266_holly",
+      "emotion": "pride",
+      "dialogue": "ah, you know, left the coast, Larry?  I've been a philosophical drunken bum,  and proud of it.  I hope you've deduced  why I answer a lot of impertinent questions",
+      "target_person": "Larry",
+      "target_gender": "male",
+      "cause_raw": "being a philosophical drunken bum",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2267_holly",
+      "emotion": "pride",
+      "dialogue": "Eyesight's a trifle blurry, I'm afraid.  Whitest colored man I ever knew.  Proud to call you my friend.  Oh, I know it's mistake, captain.  You here is a regular,",
+      "target_person": "captain",
+      "target_gender": "male",
+      "cause_raw": "friendship",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2268_holly",
+      "emotion": "pride",
+      "dialogue": "The boys was gonna nominate me for Alderman.  Mm, Bessie wanted it,  and she was so proud.  But when she was taken,  I told 'em, \"No, boys, I can't do it.",
+      "target_person": "Bessie",
+      "target_gender": "female",
+      "cause_raw": "being nominated for Alderman",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2269_holly",
+      "emotion": "pride",
+      "dialogue": "Now don't you get it in your head  that I was pretendin' to be what I ain't,  or that I ain't proud to be what I am  you gettin' me?  Or you and me is goin' to have trouble.",
+      "target_person": "Speaker 1",
+      "target_gender": "male",
+      "cause_raw": "being true to oneself",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP2270_holly",
+      "emotion": "pride",
+      "dialogue": "\"Joe, you sure is white,\" but I'll say:  \"No, I'm black and my dough is black man's dough!\"  \"And you's proud to drink with me or you don't get no drink!\"  Or maybe I'd just says: \"You can all go to hell!\"  \"I don't lower myself drinkin' with no white trash.\"",
+      "target_person": "Joe",
+      "target_gender": "male",
+      "cause_raw": "being black and having black man's dough",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2271_holly",
+      "emotion": "pride",
+      "dialogue": "I'm afraid to live, am I?  And even more afraid to die!  So I sit here with my pride drowned  on the bottom of a bottle, keeping drunk so I won't see  myself shaking in my britches with fright,",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

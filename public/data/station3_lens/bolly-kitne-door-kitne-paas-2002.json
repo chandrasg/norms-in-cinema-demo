@@ -1,0 +1,171 @@
+{
+  "film": {
+    "id": "210614",
+    "title": "Kitne Door Kitne Paas",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/fiCrd9TMXlYKlbLxdj0eEBLbjB.jpg",
+    "overview": "Two young Indians, a male named Jatin, and a woman named Karishma, meet on an airplane, who is on it's way to India. Jatin is returning home to get married to a woman named Jaya, who has been chosen for him by his mother. Karishma is also returning to India to get married to an Indian named Nimesh. Their paths cross, and despite of the difference in their temperaments, both are attracted to each other. Both would like to get married, but also realize and stand by their commitment to Jaya and Nimesh. Will they marry the partners intended for them, and thus regret this meeting for the rest of their lives?"
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 6
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 4
+    },
+    {
+      "label": "Nonconformity",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 4
+    },
+    "pride": {
+      "male": 2,
+      "female": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3148_bolly",
+      "emotion": "shame",
+      "dialogue": "I meant this ring not you. You Indian girls won't change even in America. Very bad manners. My friend...I know you boys well. First you tease girls...then you misbehave. You should be ashamed. You should be ashamed. You're messing with me. Am I...? - Yes, because you are mad.",
+      "target_person": "Indian girls",
+      "target_gender": "female",
+      "cause_raw": "Not adapting to American culture",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3149_bolly",
+      "emotion": "shame",
+      "dialogue": "You Indian girls won't change even in America. Very bad manners. My friend...I know you boys well. First you tease girls...then you misbehave. You should be ashamed. You should be ashamed. You're messing with me. Am I...? - Yes, because you are mad. What did you say? You called me mad? I'll show you how mad I am!",
+      "target_person": "Indian girls and boys",
+      "target_gender": "unclear",
+      "cause_raw": "Bad manners and misbehavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3150_bolly",
+      "emotion": "shame",
+      "dialogue": "Nobody will give you a penny! You turned Dinshaw Palace into Dinshaw guest house! Shameless! You wear my clothes? Idiot! Inspector arrest him! Never release him! Driver, why did you stop?",
+      "target_person": "Dinshaw",
+      "target_gender": "male",
+      "cause_raw": "misuse of property and theft",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s3151_bolly",
+      "emotion": "shame",
+      "dialogue": "You're crazy about me I gave you such a lecture last night. Has it had no effect at all? Do you want your parents to drink poison out of shame? Dhanji, have this luggage sent to Bapu Patel's house. The journey of your love and the lipstick marks on this photograph...amply proves that passions run high on both sides.",
+      "target_person": "speaker's love interest",
+      "target_gender": "male",
+      "cause_raw": "inappropriate romantic behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3152_bolly",
+      "emotion": "shame",
+      "dialogue": "I meant this ring not you. You Indian girls won't change even in America. Very bad manners. My friend...I know you boys well. First you tease girls...then you misbehave. You should be ashamed. You should be ashamed. You're messing with me. Am I...? - Yes, because you are mad.",
+      "target_person": "Indian girls",
+      "target_gender": "female",
+      "cause_raw": "Not adapting to American culture",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3153_bolly",
+      "emotion": "shame",
+      "dialogue": "You Indian girls won't change even in America. Very bad manners. My friend...I know you boys well. First you tease girls...then you misbehave. You should be ashamed. You should be ashamed. You're messing with me. Am I...? - Yes, because you are mad. What did you say? You called me mad? I'll show you how mad I am!",
+      "target_person": "Indian girls and boys",
+      "target_gender": "unclear",
+      "cause_raw": "bad manners and misbehavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3154_bolly",
+      "emotion": "shame",
+      "dialogue": "Even if you beg for medicines outside the hospital...Nobody will give you a penny! You turned Dinshaw Palace into Dinshaw guest house! Shameless! You wear my clothes? Idiot! Inspector arrest him! Never release him! Driver, why did you stop?",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "misuse of property and theft",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s3155_bolly",
+      "emotion": "shame",
+      "dialogue": "You're crazy about me I gave you such a lecture last night. Has it had no effect at all? Do you want your parents to drink poison out of shame? Dhanji, have this luggage sent to Bapu Patel's house. The journey of your love and the lipstick marks on this photograph...amply proves that passions run high on both sides.",
+      "target_person": "speaker's love interest",
+      "target_gender": "male",
+      "cause_raw": "inappropriate romantic behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1639_bolly",
+      "emotion": "pride",
+      "dialogue": "You have brought me up like a son. People ask for sons so that their lineage will live. So that their pride and honour is always maintained. Why must I take a step that will render your respect to dust? And give you a bad name?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "maintaining family honor and respect",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1640_bolly",
+      "emotion": "pride",
+      "dialogue": "What is it with people, my dear? They will become quiet...after they've poked some fun. But you will at least have your love. For the sake of my love, I can't give your love a stigma, Papa. I can't bear to see your pride being squandered. But, my child, to save my pride...I can't bear to see my darling daughter in sorrow. This is our culture, Papa. We'll sacrifice our lives...but never compromise our honour. I'll marry only Nimesh.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "preserving family honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1641_bolly",
+      "emotion": "pride",
+      "dialogue": "For the sake of my love, I can't give your love a stigma, Papa. I can't bear to see your pride being squandered. But, my child, to save my pride...I can't bear to see my darling daughter in sorrow. This is our culture, Papa. We'll sacrifice our lives...but never compromise our honour. I'll marry only Nimesh. I'll marry only Nimesh.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "preserving family honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1642_bolly",
+      "emotion": "pride",
+      "dialogue": "You have brought me up like a son. People ask for sons so that their lineage will live. So that their pride and honour is always maintained. Why must I take a step that will render your respect to dust? And give you a bad name? \"",
+      "target_person": "child",
+      "target_gender": "male",
+      "cause_raw": "maintaining family honor and respect",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1643_bolly",
+      "emotion": "pride",
+      "dialogue": "What is it with people, my dear? They will become quiet...after they've poked some fun. But you will at least have your love. For the sake of my love, I can't give your love a stigma, Papa. I can't bear to see your pride being squandered. But, my child, to save my pride...I can't bear to see my darling daughter in sorrow. This is our culture, Papa. We'll sacrifice our lives...but never compromise our honour. I'll marry only Nimesh.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "uphold family honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1644_bolly",
+      "emotion": "pride",
+      "dialogue": "For the sake of my love, I can't give your love a stigma, Papa. I can't bear to see your pride being squandered. But, my child, to save my pride...I can't bear to see my darling daughter in sorrow. This is our culture, Papa. We'll sacrifice our lives...but never compromise our honour. I'll marry only Nimesh. I'll marry only Nimesh.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "preserving family honor",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

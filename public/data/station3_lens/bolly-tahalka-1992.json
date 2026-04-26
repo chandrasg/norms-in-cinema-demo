@@ -1,0 +1,248 @@
+{
+  "film": {
+    "id": "345988",
+    "title": "Tahalka",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/e9LyciWgbKoTJJUqEABosWLprtM.jpg",
+    "overview": "Dong, the ruler of a small mountainous kingdom is keen to wreak havoc (terrorism, these days) on the general populace in various peaceful countries (mostly India), with the help of assorted people including spies in high positions in India. When he managed to kill the prime-minister (or is it the president?) of India, a small band of commandos takes it upon themselves to bring him down with some unconventional warfare."
+  },
+  "totals": {
+    "shame": 15,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 8
+    },
+    {
+      "label": "Poverty",
+      "count": 3
+    },
+    {
+      "label": "Family Honor",
+      "count": 3
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 13
+    },
+    "pride": {
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4304_bolly",
+      "emotion": "shame",
+      "dialogue": "Put the anklets on my feet and watch my drama. I will dance and sing; there will be chaos here. I am the sizzling Dharam, I have no shame! I am the sizzling Dharam, I have no shame! Put the anklets on my feet and watch my drama.",
+      "target_person": "Dharam",
+      "target_gender": "male",
+      "cause_raw": "self-deprecation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4305_bolly",
+      "emotion": "shame",
+      "dialogue": "I will dance and sing; there will be chaos here. I am the sizzling Dharam, I have no shame! I am the sizzling Dharam, I have no shame! Put the anklets on my feet and watch my drama. I will dance and sing; there will be chaos here.",
+      "target_person": "Dharam",
+      "target_gender": "male",
+      "cause_raw": "self-deprecation for entertainment",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4306_bolly",
+      "emotion": "shame",
+      "dialogue": "Put the anklets on my feet and watch my drama. I will dance and sing; there will be chaos here. I am the sizzling Dharam, I have no shame! I am the sizzling Dharam, I have no shame! Number fifty four..House with the bamboo door..Bamboo roof and a bamboo top..Bamboo roof and a bamboo top..The ceiling's got a bamboo floor.",
+      "target_person": "Dharam",
+      "target_gender": "male",
+      "cause_raw": "self-deprecation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4307_bolly",
+      "emotion": "shame",
+      "dialogue": "I will dance and sing; there will be chaos here. I am the sizzling Dharam, I have no shame! I am the sizzling Dharam, I have no shame! Number fifty four..House with the bamboo door..Bamboo roof and a bamboo top..Bamboo roof and a bamboo top..The ceiling's got a bamboo floor. Number fifty four..One two three-- four 0' clock-- rock rock rock--...around the clock.",
+      "target_person": "Dharam",
+      "target_gender": "male",
+      "cause_raw": "lack of modesty",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4308_bolly",
+      "emotion": "shame",
+      "dialogue": "I will dance and you will dance. The whole world will dance. I am the sizzling Dharam, I have no shame! I am the sizzling Dharam, I have no shame! I rule even today.",
+      "target_person": "Dharam",
+      "target_gender": "male",
+      "cause_raw": "self-deprecation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4309_bolly",
+      "emotion": "shame",
+      "dialogue": "The whole world will dance. I am the sizzling Dharam, I have no shame! I am the sizzling Dharam, I have no shame! I rule even today. I speak to the angels.",
+      "target_person": "Dharam",
+      "target_gender": "male",
+      "cause_raw": "arrogance and lack of humility",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4310_bolly",
+      "emotion": "shame",
+      "dialogue": "Whether it is twenty, thirty, forty or fifty, I am not lesser to anyone. I am the sizzling Dharam, I have no shame! I am the sizzling Dharam, I have no shame! Put the anklets on my feet and watch my drama.",
+      "target_person": "Dharam",
+      "target_gender": "male",
+      "cause_raw": "Ageism",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4311_bolly",
+      "emotion": "shame",
+      "dialogue": "I am not lesser to anyone. I am the sizzling Dharam, I have no shame! I am the sizzling Dharam, I have no shame! Put the anklets on my feet and watch my drama. I will dance and sing; there will be chaos here.",
+      "target_person": "Dharam",
+      "target_gender": "male",
+      "cause_raw": "self-deprecation for entertainment",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4312_bolly",
+      "emotion": "shame",
+      "dialogue": "Put the anklets on my feet and watch my drama. I will dance and sing; there will be chaos here. I am the sizzling Dharam, I have no shame! I am the sizzling Dharam, I have no shame! Why are you people wasting your time?",
+      "target_person": "Dharam",
+      "target_gender": "male",
+      "cause_raw": "self-deprecation for entertainment",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4313_bolly",
+      "emotion": "shame",
+      "dialogue": "I will dance and sing; there will be chaos here. I am the sizzling Dharam, I have no shame! I am the sizzling Dharam, I have no shame! Why are you people wasting your time? I will tell you finally. I have no interest....in your mission and your money.",
+      "target_person": "Dharam",
+      "target_gender": "male",
+      "cause_raw": "not interested in mission and money",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4314_bolly",
+      "emotion": "shame",
+      "dialogue": "Were you just a soldier of the Indian army, not a citizen? I just want to know, is Dharam Singh only a soldier....of the Indian army? Is he not a citizen along with it? Has Dong shamed only the Indian army by killing--...General Sinha, not the entire nation? By entering our country, these infiltrators will cause havoc....will only the police be responsible for that....not the army? Dharam Singh, this struggle is not only of the army....but of every Indian.",
+      "target_person": "Dharam Singh",
+      "target_gender": "male",
+      "cause_raw": "not considering himself as a citizen along with being a soldier",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4315_bolly",
+      "emotion": "shame",
+      "dialogue": "The crazy heart yearned for the beloved. The crazy heart yearned for the beloved. This love is a sickness, I lost all my shame and shyness. This love is a sickness, I lost all my shame and shyness. The whole world says that I am crazy.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4316_bolly",
+      "emotion": "shame",
+      "dialogue": "The crazy heart yearned for the beloved. This love is a sickness, I lost all my shame and shyness. This love is a sickness, I lost all my shame and shyness. The whole world says that I am crazy. The whole world says that I am crazy.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4317_bolly",
+      "emotion": "shame",
+      "dialogue": "My friend, my mission is yours from today. Dong has challenged me; you have to fulfil that now. In front of Dong, this father may be shamed....but not this soldier. Major Kishan Rao, neither will a soldier be shamed....nor will a father. Along with it, we shall not forget....to take your daughter Dolly with us. This is a promise. O Mother India, I have come to put my head in your feet..Whatever breath I have left, I have come to give it to you.",
+      "target_person": "Major Kishan Rao",
+      "target_gender": "male",
+      "cause_raw": "failing to fulfil a challenge",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4318_bolly",
+      "emotion": "shame",
+      "dialogue": "Dong has challenged me; you have to fulfill that now. In front of Dong, this father may be shamed....but not this soldier. Major Kishan Rao, neither will a soldier be shamed....nor will a father. Along with it, we shall not forget....to take your daughter Dolly with us. This is a promise. O Mother India, I have come to put my head in your feet..Whatever breath I have left, I have come to give it to you. O Mother India, I have come to put my head in your feet..Whatever breath I have left, I have come to give it to you.",
+      "target_person": "Major Kishan Rao",
+      "target_gender": "male",
+      "cause_raw": "inability to fulfill a challenge",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2364_bolly",
+      "emotion": "pride",
+      "dialogue": "Nonsense, absolutely nonsense. General, I suggest that..That I get scared of Dong's threat, not go to the parade....and break an age-old tradition of this country. Not just your life, sir, but the pride of the whole nation....is at stake. What if something happens to you, sir? Then what?",
+      "target_person": "General",
+      "target_gender": "male",
+      "cause_raw": "maintaining age-old tradition",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2365_bolly",
+      "emotion": "pride",
+      "dialogue": "We've to go to a conference. Please excuse me. So excuse me, sir. Do not think that Krishna Rao....is so weak that he cannot go to Dongri-La on his own. Krishna Rae can give his resignation here....and before you send your mission he can reach there....and he can kill Dong also. If that happens....then with Dong, once again will perish the pride....of Indian soldiers. Therefore, give the permission, sir. Dong has killed a soldier of the Indian army. Therefore, his death shouldn't be at the hands of....any Krishna Rao, but at the hands of an Indian soldier.",
+      "target_person": "Krishna Rao",
+      "target_gender": "male",
+      "cause_raw": "ability to kill Dong",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2366_bolly",
+      "emotion": "pride",
+      "dialogue": "Dong has killed a soldier of the Indian army. Therefore, his death shouldn't be at the hands of....any Krishna Rao, but at the hands of an Indian soldier. But..I haven't asked anything for my selfish means..--I've only asked for the pride of my nation, not for a throne-. This is my plan, sir. So, you have a team also?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "pride of nation",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2367_bolly",
+      "emotion": "pride",
+      "dialogue": "I will train her. I will make her such....that she will dance in the open market....after one year, on the occasion of Dongrila's annual day. No..Dong is never wrong. You are very proud of being an India solider, isn't it? Save your daughter if you can. Not a day, a month I give you time for a year.",
+      "target_person": "Dong",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2368_bolly",
+      "emotion": "pride",
+      "dialogue": "I'll put down so many corpses of these dogs here today....that there will no earth left to burn their pyres. Dong will remain alive, though. His crime will be alive. But brothers, if we die and Dong remains alive....then along with us will die the pride of those Indians who....know that their soldiers do not protect just their borders....but who can show to the whole world that....whenever a bastard like Dong can wreak havoc....in the world with his sword of terrorism....then Indians can also go into his country and....answer his havoc with ours. Okay, commander. You take these people and....enter into the valley. Till then, I'll stop these people here. You call me commander and teach me the wrong way also.",
+      "target_person": "commander",
+      "target_gender": "male",
+      "cause_raw": "protecting borders and countering terrorism",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2369_bolly",
+      "emotion": "pride",
+      "dialogue": "The traitor. If Major Krishnarao's force five....gave the country of Dong a gift of death....the Indian army gave the highest....level of to him after his death. And Dharamsingh got his lost pride.",
+      "target_person": "Dharamsingh",
+      "target_gender": "male",
+      "cause_raw": "recognition by the Indian army",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

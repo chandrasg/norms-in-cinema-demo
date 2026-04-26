@@ -1,0 +1,52 @@
+---
+// Footer band with the four partner logos, plus a Cannes 2026 mark.
+// White-coated logo plates so the dark partner logos read against the navy bg.
+---
+
+<footer class="mt-32 border-t border-white/10 bg-ink-950/60 py-10 backdrop-blur">
+  <div class="container-kiosk">
+    <div class="mb-6 flex items-center justify-between gap-6">
+      <p class="text-xs uppercase tracking-[0.2em] text-white/40">A research collaboration of</p>
+      <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Cannes 2026</p>
+    </div>
+
+    <div class="grid grid-cols-2 items-center gap-6 md:grid-cols-3">
+      <div class="rounded-lg bg-white p-5">
+        <img
+          src={import.meta.env.BASE_URL + "/logos/UniversityofPennsylvania_FullLogo_RGB.png"}
+          alt="University of Pennsylvania"
+          class="h-10 w-auto mx-auto"
+          loading="lazy"
+        />
+      </div>
+      <div class="rounded-lg bg-white p-5">
+        <img
+          src={import.meta.env.BASE_URL + "/logos/WBG_Horizontal-RGB.jpg"}
+          alt="World Bank Group"
+          class="h-10 w-auto mx-auto"
+          loading="lazy"
+        />
+      </div>
+      <div class="rounded-lg bg-white p-5 col-span-2 md:col-span-1">
+        <img
+          src={import.meta.env.BASE_URL + "/logos/ascj_normanlearcenter_media_impact_project_cardblack_informal_horiz.webp"}
+          alt="USC Annenberg Norman Lear Center"
+          class="h-10 w-auto mx-auto"
+          loading="lazy"
+        />
+      </div>
+    </div>
+
+    <div class="mt-10 flex flex-col gap-2 text-xs text-white/40 md:flex-row md:items-center md:justify-between">
+      <p>
+        MAPGEN — Mapping Gender Norms in Entertainment Media. Data from the
+        <a href="https://github.com/Khushangz/Cross-Cultural-Social-Norms-Dataset"
+           class="text-white/60 hover:text-gold-400 underline-offset-2 hover:underline">
+          Cross-Cultural Social Norms Dataset
+        </a>
+        (Rai et al., NAACL 2025).
+      </p>
+      <p>Examples shown illustrate broader patterns, not film-specific judgement.</p>
+    </div>
+  </div>
+</footer>
