@@ -432,6 +432,220 @@ def build_station3(dialogues: list[dict], top_n: int = 50) -> list[dict]:
 
 
 # =========================================================================
+# Station 4 — The Studio (stakeholder dossiers)
+# =========================================================================
+
+def build_studio(dialogues: list[dict]) -> dict:
+    """Build per-stakeholder data: archetype compass, convergence zone,
+    whitespace map. Companion to station2_atlas which has the per-theme
+    deltas — this layer cuts the same data by character archetype and
+    surfaces the cross-cultural / under-explored views."""
+
+    # ---------- Norm Compass — archetype × theme ranking ----------
+    # 4 archetypes: female/male × bolly/holly. For each, top shame triggers
+    # and top pride triggers, with one example dialogue per top trigger.
+    archetypes = [
+        ("female", "bolly", "Women in Bollywood"),
+        ("female", "holly", "Women in Hollywood"),
+        ("male", "bolly", "Men in Bollywood"),
+        ("male", "holly", "Men in Hollywood"),
+    ]
+
+    def _compass_for(gender: str, industry: str) -> dict:
+        rows = [r for r in dialogues
+                if r["target_gender"] == gender
+                and r["industry"] == industry
+                and r["theme_label"]]
+
+        out = {"shame": [], "pride": []}
+        for emo in ("shame", "pride"):
+            theme_counts = Counter(
+                r["theme_label"] for r in rows if r["emotion"] == emo
+            )
+            total = sum(theme_counts.values())
+            triggers = []
+            for theme_label, n in theme_counts.most_common(6):
+                # Pick a clean example for this theme
+                example_pool = [r for r in rows
+                                if r["emotion"] == emo
+                                and r["theme_label"] == theme_label
+                                and r["film_matched"] == "1"
+                                and r["dialogue"]
+                                and 50 <= len(r["dialogue"]) <= 320]
+                example = None
+                if example_pool:
+                    # Prefer ones with good cause text
+                    example_pool.sort(key=lambda r: (
+                        -1 if r.get("cause_raw") and len(r["cause_raw"]) > 10 else 0,
+                        len(r["dialogue"]),
+                    ))
+                    e = example_pool[0]
+                    example = {
+                        "dialogue": e["dialogue"],
+                        "cause_raw": e["cause_raw"],
+                        "film": {
+                            "title": e["film_title"],
+                            "year": e["film_year"],
+                            "poster_path": e["film_poster_path"],
+                        },
+                    }
+                triggers.append({
+                    "theme": theme_label,
+                    "n": n,
+                    "share": n / total if total else 0,
+                    "example": example,
+                })
+            out[emo] = {"total": total, "triggers": triggers}
+        return out
+
+    compass = []
+    for gender, industry, label in archetypes:
+        data = _compass_for(gender, industry)
+        compass.append({
+            "id": f"{gender}_{industry}",
+            "gender": gender,
+            "industry": industry,
+            "label": label,
+            **data,
+        })
+
+    # ---------- Convergence Zone — themes present in BOTH industries ----------
+    # Rank themes by min(share_bolly, share_holly): high score = strongly present
+    # in both. These are the cross-cultural findings.
+    by_theme = defaultdict(lambda: defaultdict(int))
+    theme_meta = {}
+    by_emotion_industry = defaultdict(int)
+    for r in dialogues:
+        if not r["theme_id"]:
+            continue
+        tid = r["theme_id"]
+        by_theme[tid][r["industry"]] += 1
+        theme_meta[tid] = {"emotion": r["emotion"], "label": r["theme_label"]}
+        by_emotion_industry[(r["emotion"], r["industry"])] += 1
+
+    convergence = []
+    for tid, counts in by_theme.items():
+        meta = theme_meta[tid]
+        n_b, n_h = counts["bolly"], counts["holly"]
+        N_b = by_emotion_industry[(meta["emotion"], "bolly")]
+        N_h = by_emotion_industry[(meta["emotion"], "holly")]
+        if N_b == 0 or N_h == 0:
+            continue
+        share_b = n_b / N_b
+        share_h = n_h / N_h
+        # convergence score = harmonic mean (penalizes themes only present in one)
+        if share_b + share_h > 0:
+            harmonic = 2 * share_b * share_h / (share_b + share_h)
+        else:
+            harmonic = 0
+        convergence.append({
+            "label": meta["label"],
+            "emotion": meta["emotion"],
+            "n_bolly": n_b,
+            "n_holly": n_h,
+            "share_bolly": share_b,
+            "share_holly": share_h,
+            "convergence_score": harmonic,
+            "delta": share_b - share_h,
+        })
+    convergence.sort(key=lambda t: -t["convergence_score"])
+    convergence = convergence[:12]
+
+    # ---------- Whitespace Map — under-explored themes ----------
+    # For funders: themes where one industry has substantial coverage but the
+    # other doesn't. Frames "what stories haven't been told yet."
+    whitespace = []
+    for tid, counts in by_theme.items():
+        meta = theme_meta[tid]
+        n_b, n_h = counts["bolly"], counts["holly"]
+        N_b = by_emotion_industry[(meta["emotion"], "bolly")]
+        N_h = by_emotion_industry[(meta["emotion"], "holly")]
+        share_b = n_b / N_b if N_b else 0
+        share_h = n_h / N_h if N_h else 0
+        # "Whitespace" = a theme robustly present on one side (>=3%), with at
+        # least a 2.5x share gap to the other side. Frames "stories one
+        # industry tells that the other under-tells."
+        if share_h >= 0.03 and share_b < share_h / 2.5:
+            whitespace.append({
+                "label": meta["label"],
+                "emotion": meta["emotion"],
+                "absent_in": "bolly",
+                "present_in": "holly",
+                "n_present": n_h,
+                "n_absent": n_b,
+                "share_present": share_h,
+                "share_absent": share_b,
+                "ratio": share_h / share_b if share_b else 999,
+            })
+        elif share_b >= 0.03 and share_h < share_b / 2.5:
+            whitespace.append({
+                "label": meta["label"],
+                "emotion": meta["emotion"],
+                "absent_in": "holly",
+                "present_in": "bolly",
+                "n_present": n_b,
+                "n_absent": n_h,
+                "share_present": share_b,
+                "share_absent": share_h,
+                "ratio": share_b / share_h if share_h else 999,
+            })
+    whitespace.sort(key=lambda t: -t["ratio"])
+
+    # ---------- Subversion Files — one inverted-gender example per dominant trope ----------
+    # For each top Bolly-leaning shame theme, find an example where a MAN is
+    # shamed (against the dominant pattern). Same for top Holly-leaning, etc.
+    # Quick set of "subverted" picks for the filmmakers section.
+    subversions = []
+    bolly_shame_themes = sorted(
+        [t for tid, t in theme_meta.items() if t["emotion"] == "shame"],
+        key=lambda t: -by_theme[next(k for k, v in theme_meta.items() if v == t)]["bolly"]
+    )[:4]
+    # For simplicity here we pick across the corpus: themes for women-shame
+    # but where the labeled target was male, and vice versa.
+    seen = set()
+    for theme_label_target in [
+        "Inappropriate Behavior", "Marital Status", "Sexual Harassment",
+        "Family Honor", "Modesty", "Promiscuity",
+    ]:
+        # Find a film/dialogue where this theme is applied to a MAN
+        # (in either industry) — this is the subversion.
+        candidates = [r for r in dialogues
+                      if r["theme_label"] == theme_label_target
+                      and r["target_gender"] == "male"
+                      and r["film_matched"] == "1"
+                      and r["dialogue"]
+                      and 60 <= len(r["dialogue"]) <= 300
+                      and r["film_id"] not in seen]
+        if not candidates:
+            continue
+        candidates.sort(key=lambda r: (
+            -1 if r["industry"] == "holly" else 0,  # prefer Holly examples
+            -int(r["film_year"]) if r["film_year"].isdigit() else 0,
+        ))
+        c = candidates[0]
+        seen.add(c["film_id"])
+        subversions.append({
+            "trope": theme_label_target,
+            "subversion": "applied to a male character",
+            "dialogue": c["dialogue"],
+            "industry": c["industry"],
+            "cause_raw": c["cause_raw"],
+            "film": {
+                "title": c["film_title"],
+                "year": c["film_year"],
+                "poster_path": c["film_poster_path"],
+            },
+        })
+
+    return {
+        "compass": compass,
+        "convergence": convergence,
+        "whitespace": whitespace[:8],
+        "subversions": subversions,
+    }
+
+
+# =========================================================================
 # Main
 # =========================================================================
 
@@ -462,6 +676,14 @@ def main():
     print("Building Station 3 (Lens)...")
     s3_films = build_station3(dialogues, top_n=50)
     print(f"  per-film files written: {len(s3_films)}")
+
+    print("Building Station 4 (Studio)...")
+    s4 = build_studio(dialogues)
+    (PUB / "station4_studio.json").write_text(json.dumps(s4, ensure_ascii=False, indent=2))
+    print(f"  archetypes: {len(s4['compass'])}")
+    print(f"  convergence themes: {len(s4['convergence'])}")
+    print(f"  whitespace themes: {len(s4['whitespace'])}")
+    print(f"  subversions: {len(s4['subversions'])}")
 
     # Meta
     meta = {

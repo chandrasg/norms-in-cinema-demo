@@ -1,0 +1,213 @@
+---
+import Layout from "../layouts/Layout.astro";
+import NormCompass from "../components/Studio/NormCompass.tsx";
+import DivergingMirror from "../components/Studio/DivergingMirror.tsx";
+import ConvergenceZone from "../components/Studio/ConvergenceZone.tsx";
+import WhitespaceMap from "../components/Studio/WhitespaceMap.tsx";
+import SubversionFiles from "../components/Studio/SubversionFiles.tsx";
+import WritersChecklist from "../components/Studio/WritersChecklist.astro";
+import DiscussionKit from "../components/Studio/DiscussionKit.astro";
+
+const studio = (await import("../../public/data/station4_studio.json", { assert: { type: "json" } })).default;
+const mirror = (await import("../../public/data/station1_mirror.json", { assert: { type: "json" } })).default;
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+---
+
+<Layout title="The Studio — MAPGEN: Cinema's Mirror" station="studio">
+  <section class="container-kiosk pt-16 pb-32">
+    <p class="text-xs uppercase tracking-[0.3em] text-gold-400">Station 4</p>
+    <h1 class="mt-3 font-display text-kiosk-xl text-white max-w-3xl">The Studio.</h1>
+    <p class="mt-4 max-w-2xl text-kiosk-md text-white/75 leading-snug">
+      Three audiences. One mirror. Different asks. This is what MAPGEN unlocks
+      for filmmakers, funders, and the people who program, study, and govern cinema.
+    </p>
+
+    <!-- Jump-to nav -->
+    <div class="mt-10 flex flex-wrap gap-2 text-xs">
+      <a href="#filmmakers" class="rounded-full bg-bolly/10 ring-1 ring-bolly/30 px-4 py-2 text-bolly hover:bg-bolly/20 transition">
+        ↓ For filmmakers
+      </a>
+      <a href="#funders" class="rounded-full bg-gold-400/10 ring-1 ring-gold-400/30 px-4 py-2 text-gold-400 hover:bg-gold-400/20 transition">
+        ↓ For funders &amp; studios
+      </a>
+      <a href="#programmers" class="rounded-full bg-holly/10 ring-1 ring-holly/30 px-4 py-2 text-holly hover:bg-holly/20 transition">
+        ↓ For programmers, policy, educators
+      </a>
+    </div>
+
+    <!-- =========================================================== -->
+    <!-- §1 — FILMMAKERS                                              -->
+    <!-- =========================================================== -->
+    <div id="filmmakers" class="mt-28 scroll-mt-24">
+      <div class="border-l-2 border-bolly pl-6">
+        <p class="text-xs uppercase tracking-[0.25em] text-bolly">Dossier 01 · Filmmakers</p>
+        <h2 class="mt-2 font-display text-4xl md:text-5xl text-white max-w-3xl leading-tight">
+          What is your script saying that you didn't write?
+        </h2>
+        <p class="mt-4 max-w-2xl text-base text-white/70 leading-relaxed">
+          Every scene carries a default. The corpus has 12,387 of those defaults.
+          If you're writing a young woman who feels shame for her marital status,
+          you'll be the <span class="text-white font-medium">323rd film in the corpus</span> to do so.
+          That's not bad. It's not good. It's just visible — and visible is the first move.
+        </p>
+      </div>
+
+      <div class="mt-12">
+        <NormCompass client:load archetypes={studio.compass} />
+      </div>
+
+      <div class="mt-10">
+        <SubversionFiles client:load items={studio.subversions} />
+      </div>
+
+      <div class="mt-10">
+        <WritersChecklist />
+      </div>
+
+      <div class="mt-10 panel p-6 md:p-8 border-l-2 border-bolly">
+        <p class="text-xs uppercase tracking-[0.2em] text-bolly mb-2">What to do next</p>
+        <p class="text-base text-white/80 leading-relaxed">
+          Take a scene from your current project. Paste it into{" "}
+          <a href={base + "/lens#paste-scene"} class="text-gold-400 hover:underline">The Lens</a> —
+          we'll read it through both cultural lenses and surface what an Indian
+          audience might register that an American one would miss, and vice versa.
+        </p>
+      </div>
+    </div>
+
+    <!-- =========================================================== -->
+    <!-- §2 — FUNDERS                                                 -->
+    <!-- =========================================================== -->
+    <div id="funders" class="mt-32 scroll-mt-24">
+      <div class="border-l-2 border-gold-400 pl-6">
+        <p class="text-xs uppercase tracking-[0.25em] text-gold-400">Dossier 02 · Funders &amp; studios</p>
+        <h2 class="mt-2 font-display text-4xl md:text-5xl text-white max-w-3xl leading-tight">
+          What's the norm profile of your slate — and where's the audience moving?
+        </h2>
+        <p class="mt-4 max-w-2xl text-base text-white/70 leading-relaxed">
+          Representation isn't a moral metric. It's a market signal. The two industries
+          have started moving in opposite directions on the same measure since 2000 —
+          and the audience has shown which way it's leaning.
+        </p>
+      </div>
+
+      <div class="mt-12">
+        <DivergingMirror client:load trend={mirror.era_trend} />
+      </div>
+
+      <div class="mt-10">
+        <WhitespaceMap client:load items={studio.whitespace} />
+      </div>
+
+      <div class="mt-10 grid gap-4 md:grid-cols-3">
+        <div class="panel p-6">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Diagnostic</p>
+          <p class="mt-2 font-display text-xl text-white leading-tight">
+            Audit your slate.
+          </p>
+          <p class="mt-3 text-sm text-white/65 leading-relaxed">
+            Pull 5–10 films you're considering. For each, run them through{" "}
+            <a href={base + "/lens"} class="text-gold-400 hover:underline">The Lens</a>{" "}
+            and look at the combined theme &amp; gender profile. If you're over-indexed on
+            one quadrant, you'll see it.
+          </p>
+        </div>
+        <div class="panel p-6">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Thesis</p>
+          <p class="mt-2 font-display text-xl text-white leading-tight">
+            Bridge the whitespace.
+          </p>
+          <p class="mt-3 text-sm text-white/65 leading-relaxed">
+            Bollywood tells stories about cultural identity, patriotism, and family
+            honor that Hollywood almost never reaches for. Fund the bridge films —
+            the ones that translate the substrate, not just the plot.
+          </p>
+        </div>
+        <div class="panel p-6">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Scale</p>
+          <p class="mt-2 font-display text-xl text-white leading-tight">
+            V2: 250K films, 160 countries.
+          </p>
+          <p class="mt-3 text-sm text-white/65 leading-relaxed">
+            This corpus is 5,400 films. The next iteration unlocks country-level
+            diagnostics — soft-power dashboards, regional norm shifts, audience
+            fit by market. Co-fund the expansion and your team gets early access.
+          </p>
+        </div>
+      </div>
+
+      <div class="mt-10 panel p-6 md:p-8 border-l-2 border-gold-400">
+        <p class="text-xs uppercase tracking-[0.2em] text-gold-400 mb-2">What to do next</p>
+        <p class="text-base text-white/80 leading-relaxed">
+          MAPGEN scales. The lens shown here is being extended to 250,000 films
+          across 160 countries.{" "}
+          <a href="#feedback-anchor" class="text-gold-400 hover:underline">
+            Share what diagnostics would change your green-light decisions →
+          </a>
+        </p>
+      </div>
+    </div>
+
+    <!-- =========================================================== -->
+    <!-- §3 — PROGRAMMERS / POLICY / EDUCATORS                        -->
+    <!-- =========================================================== -->
+    <div id="programmers" class="mt-32 scroll-mt-24">
+      <div class="border-l-2 border-holly pl-6">
+        <p class="text-xs uppercase tracking-[0.25em] text-holly">Dossier 03 · Programmers, policy, educators</p>
+        <h2 class="mt-2 font-display text-4xl md:text-5xl text-white max-w-3xl leading-tight">
+          What does our cinema's mirror say about us?
+        </h2>
+        <p class="mt-4 max-w-2xl text-base text-white/70 leading-relaxed">
+          Below the languages, the genres, the soundtracks — there are constraints that
+          hold across both industries. The convergence zone is where the cross-cultural
+          conversation begins. Most policy and pedagogy lives here.
+        </p>
+      </div>
+
+      <div class="mt-12">
+        <ConvergenceZone client:load items={studio.convergence} />
+      </div>
+
+      <div class="mt-10">
+        <DiscussionKit />
+      </div>
+
+      <div class="mt-10 panel p-6 md:p-8 border-l-2 border-holly">
+        <p class="text-xs uppercase tracking-[0.2em] text-holly mb-2">What to do next</p>
+        <p class="text-base text-white/80 leading-relaxed">
+          Use the framework in your programming, your panels, your syllabi.
+          The dataset is{" "}
+          <a href="https://github.com/Khushangz/Cross-Cultural-Social-Norms-Dataset"
+             target="_blank" rel="noopener" class="text-gold-400 hover:underline">
+            CC-BY-SA on GitHub →
+          </a>
+          {" "}and the paper is{" "}
+          <a href={base + "/paper.pdf"} target="_blank" rel="noopener"
+             class="text-gold-400 hover:underline">
+            Rai et al., NAACL 2025 →
+          </a>
+        </p>
+      </div>
+    </div>
+
+    <!-- =========================================================== -->
+    <!-- Closing — back to feedback                                    -->
+    <!-- =========================================================== -->
+    <div id="feedback-anchor" class="mt-32 panel p-8 md:p-12 text-center border border-gold-400/20 bg-gradient-to-b from-gold-400/[0.04] to-transparent">
+      <p class="text-xs uppercase tracking-[0.25em] text-gold-400">One ask</p>
+      <h3 class="mt-3 font-display text-3xl text-white max-w-2xl mx-auto leading-tight">
+        Tell us what cuts of this data would change your work.
+      </h3>
+      <p class="mt-4 max-w-2xl mx-auto text-sm text-white/65 leading-relaxed">
+        We're shaping V2. The most useful thing we can hear right now is which
+        comparisons, which dashboards, which exports would actually move a decision
+        in your industry.
+      </p>
+      <a href={base + "/#feedback"}
+         class="mt-6 inline-flex items-center gap-2 rounded-full bg-gold-400 text-ink-950 px-5 py-2.5 text-sm font-medium hover:bg-gold-300 transition">
+        Share your input →
+      </a>
+    </div>
+  </section>
+</Layout>

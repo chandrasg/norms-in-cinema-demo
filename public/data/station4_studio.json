@@ -1,0 +1,981 @@
+{
+  "compass": [
+    {
+      "id": "female_bolly",
+      "gender": "female",
+      "industry": "bolly",
+      "label": "Women in Bollywood",
+      "shame": {
+        "total": 1329,
+        "triggers": [
+          {
+            "theme": "Marital Status",
+            "n": 131,
+            "share": 0.09857035364936043,
+            "example": {
+              "dialogue": "Beat him! Get out of here! You shameless woman! Whose sin are you carrying. Bear all sorrow like the earth 'Burn like the sun",
+              "cause_raw": "being pregnant out of wedlock",
+              "film": {
+                "title": "Suhaag Raat",
+                "year": "1968",
+                "poster_path": "/ePFBsDDlkkjg6V0cbdCl9qNlxgh.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Sexual Harassment",
+            "n": 126,
+            "share": 0.09480812641083522,
+            "example": {
+              "dialogue": "Some bitter Some sweet I'm a bit of a tomboy - I'm a bit shamefaced Still it looks as if you and I are just the same Some bitter",
+              "cause_raw": "being a tomboy",
+              "film": {
+                "title": "Kuch Khatti Kuch Meethi",
+                "year": "2001",
+                "poster_path": "/w8zIRrBdLBe5Jz9xAtfyTgxnJVw.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Inappropriate Behavior",
+            "n": 105,
+            "share": 0.07900677200902935,
+            "example": {
+              "dialogue": "What? - And I will dance in front of you.  What?  Aren't you ashamed?  What? - This isn't a beer bar.  You cannot hug me like that.",
+              "cause_raw": "inappropriate physical contact",
+              "film": {
+                "title": "Chal Guru Ho Ja Shuru",
+                "year": "2015",
+                "poster_path": "/fdF7vE1vnqC2mcSjIBLrAFgAS0Q.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Immodesty",
+            "n": 103,
+            "share": 0.07750188111361926,
+            "example": {
+              "dialogue": "No need for your tears, mother Nothing happened. I am intact Have some shame Be modest in front of your father Explain to her",
+              "cause_raw": "lack of modesty",
+              "film": {
+                "title": "Dum Laga Ke Haisha",
+                "year": "2015",
+                "poster_path": "/c9TX2kH1rG7QYEl09flOVg82QdU.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Romantic Expression",
+            "n": 101,
+            "share": 0.07599699021820917,
+            "example": {
+              "dialogue": "Sister-in-law Tanu. Aren't you ashamed? Why would I be ashamed? Pappi is going crazy for you. And you want to know why you should be ashamed.",
+              "cause_raw": "Not reciprocating Pappi's feelings",
+              "film": {
+                "title": "Tanu Weds Manu: Returns",
+                "year": "2015",
+                "poster_path": "/sO3XD6ZDZetb2N6YDQrHLTVQrfq.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Dishonesty",
+            "n": 84,
+            "share": 0.06320541760722348,
+            "example": {
+              "dialogue": "I don't know all this. I swear on you. -Don't swear! You shameless girl! Ah! Great! You look like a fairy in this dress.",
+              "cause_raw": "lying or dishonesty",
+              "film": {
+                "title": "Ujala Hi Ujala",
+                "year": "1974",
+                "poster_path": "/6eQkRRdfhQ5qJi5HEGCJ5MwP6aV.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "pride": {
+        "total": 386,
+        "triggers": [
+          {
+            "theme": "Identity and Beauty",
+            "n": 66,
+            "share": 0.17098445595854922,
+            "example": {
+              "dialogue": "Speech! Speech! No speech, just shut up! It was beautiful my darling So proud of you Beautiful film Really? Very impressed",
+              "cause_raw": "making a beautiful film",
+              "film": {
+                "title": "Dear Zindagi",
+                "year": "2016",
+                "poster_path": "/oUg0N2isgZ5rrxdXnsemcKolfKZ.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Romantic Relationships",
+            "n": 60,
+            "share": 0.15544041450777202,
+            "example": {
+              "dialogue": "Huh? I love you. Love you ! Oh, my! So proud of you, sister Gurleen. How romantic! What happened next? What else could have happened?",
+              "cause_raw": "sister's romantic achievement",
+              "film": {
+                "title": "Saadi Love Story",
+                "year": "2013",
+                "poster_path": "/zCLDaVKxnNlmRe4hUM2q6Vy93hL.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Family Honor",
+            "n": 37,
+            "share": 0.09585492227979274,
+            "example": {
+              "dialogue": "Just look at me. Hey! Beautiful and good looking girl. Don't feel proud of your youthfulness. Oh! Dear. Don't lit fire in water. Hey! Beautiful and good looking girl.",
+              "cause_raw": "youthfulness",
+              "film": {
+                "title": "Ek Tha Raja",
+                "year": "1996",
+                "poster_path": "/lCQddeuBl0FMjxo8AGUEW3AIBKa.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Virtuous Living",
+            "n": 32,
+            "share": 0.08290155440414508,
+            "example": {
+              "dialogue": "How can this stone idol reach him the letter?! Yes aunt. This is my belief. You only are the pride of God. Please get this letter reached to my husband. Come on, aunt.",
+              "cause_raw": "faith and belief",
+              "film": {
+                "title": "Janam Janam Ke Phere",
+                "year": "1957",
+                "poster_path": ""
+              }
+            }
+          },
+          {
+            "theme": "Personal Achievement",
+            "n": 27,
+            "share": 0.06994818652849741,
+            "example": {
+              "dialogue": "I'm not too short Today I smell all sweet I gained this pride for you Do not wait for the dreams of a storm Do not wait if you can fly if you want.",
+              "cause_raw": "personal achievement",
+              "film": {
+                "title": "Uri: The Surgical Strike",
+                "year": "2019",
+                "poster_path": "/yNySAgpAnWmPpYinim9E0tUzJWG.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Cultural Identity",
+            "n": 26,
+            "share": 0.06735751295336788,
+            "example": {
+              "dialogue": "We ought to be thanking you. For the first time I felt proud about Rishi. A sense of pride. Thanks to you. Where is Chandni?",
+              "cause_raw": "Rishi's actions",
+              "film": {
+                "title": "Hum Ho Gaye Aap Ke",
+                "year": "2001",
+                "poster_path": "/jcq5qB9YVpeAZlUSUlXybJnnee8.jpg"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "female_holly",
+      "gender": "female",
+      "industry": "holly",
+      "label": "Women in Hollywood",
+      "shame": {
+        "total": 263,
+        "triggers": [
+          {
+            "theme": "Poverty",
+            "n": 26,
+            "share": 0.09885931558935361,
+            "example": {
+              "dialogue": "It's half past th, Katharina.  Yes, Mama, I have a watch, too.  I'm so ashamed.  Ashamed!  We wanted to keep calm.",
+              "cause_raw": "not adhering to time",
+              "film": {
+                "title": "Bitter Sweet",
+                "year": "2016",
+                "poster_path": "/rfnmbK3bNWSOwC4QXpoK7zeTbt2.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Immodesty",
+            "n": 22,
+            "share": 0.08365019011406843,
+            "example": {
+              "dialogue": "A woman! I say this theater is closed!  Why, sir?  For lewdness and unshamedfacedness!  And for displaying a female on the public stage!  Not him, her!",
+              "cause_raw": "performing in public",
+              "film": {
+                "title": "Shakespeare in Love",
+                "year": "1998",
+                "poster_path": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Suspicion and Deceit",
+            "n": 21,
+            "share": 0.07984790874524715,
+            "example": {
+              "dialogue": "speaking through her every motion...  could you tell her that only a son could wield chi?  That a daughter would risk shame, dishonor, exile?  Ancestors, I could not.  This way.",
+              "cause_raw": "wielding chi as a daughter",
+              "film": {
+                "title": "Mulan",
+                "year": "1998",
+                "poster_path": "/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Shamelessness",
+            "n": 21,
+            "share": 0.07984790874524715,
+            "example": {
+              "dialogue": "Sure, she can.  Thank you, Pat.  They made me so ashamed.  They're so nice and trusting.  They're wonderful people,",
+              "cause_raw": "making someone feel ashamed",
+              "film": {
+                "title": "Saboteur",
+                "year": "1942",
+                "poster_path": "/iDKOOTymUZg0WAWPcbdP6nPZEFF.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Sexual Harassment",
+            "n": 20,
+            "share": 0.07604562737642585,
+            "example": {
+              "dialogue": "The question is had he not been a thing of beauty  Would she be swayed by quite as keen a sense of duty?  For shame  For shame  Poor wandering one",
+              "cause_raw": "being swayed by physical attractiveness",
+              "film": {
+                "title": "The Pirates of Penzance",
+                "year": "1983",
+                "poster_path": "/f2bvgBjzvTXU3qA1EWFhcNRb6Xv.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Promiscuity",
+            "n": 19,
+            "share": 0.07224334600760456,
+            "example": {
+              "dialogue": "Whore!  To stand there so prideful with thy protuberances.  How thou dost shame me.  Company, ready, aim... Fire!  Fire!",
+              "cause_raw": "being sexually provocative",
+              "film": {
+                "title": "The Night They Raided Minsky's",
+                "year": "1968",
+                "poster_path": "/cVZ0zyozUWm4YRWOqF1uYFHO8Bx.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "pride": {
+        "total": 308,
+        "triggers": [
+          {
+            "theme": "Identity and Beauty",
+            "n": 78,
+            "share": 0.2532467532467532,
+            "example": {
+              "dialogue": "Are you with me?  Whoo!  I'll stay.  Oh, I'm proud of you.  Karen.  You found me.  What are you doing?",
+              "cause_raw": "staying with the speaker",
+              "film": {
+                "title": "The Baby-Sitters Club",
+                "year": "1995",
+                "poster_path": "/gJ5caIjtASchaTFx2VJr6drFYBx.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Financial Success",
+            "n": 35,
+            "share": 0.11363636363636363,
+            "example": {
+              "dialogue": "It's so wonderful, Ani.  You have brought hope to those who have none.  I'm so very proud of you.  You!  You swindled me.",
+              "cause_raw": "bringing hope to those who have none",
+              "film": {
+                "title": "Star Wars: Episode I - The Phantom Menace",
+                "year": "1999",
+                "poster_path": "/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Parental Pride",
+            "n": 34,
+            "share": 0.11038961038961038,
+            "example": {
+              "dialogue": "Thank you.  I had a black boyfriend once.  Your mother must be proud.  Yep.  And I'd do it again.",
+              "cause_raw": "daughter's interracial relationship",
+              "film": {
+                "title": "Trainwreck",
+                "year": "2015",
+                "poster_path": "/wrY629UTCUAKLJ4CxQXz6DCE7pr.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Future Aspirations",
+            "n": 30,
+            "share": 0.09740259740259741,
+            "example": {
+              "dialogue": "I'mma go punch a bitch in the throat.  Lindsey! You bilingual bitch!  So proud of you.  Hannah!  Dad!",
+              "cause_raw": "being bilingual",
+              "film": {
+                "title": "Fifty Shades of Black",
+                "year": "2016",
+                "poster_path": "/nkGhv7WMbyX7tL8CJkvMY3S2lW.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Moral Complexity",
+            "n": 26,
+            "share": 0.08441558441558442,
+            "example": {
+              "dialogue": "I am a broken,  desperate,  woman full of pride.  But I get it.  I have to let him go.",
+              "cause_raw": "letting go of someone",
+              "film": {
+                "title": "Breakthrough",
+                "year": "2019",
+                "poster_path": "/lUd2FNC8cMCcHyRMNZtVC48p3xH.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Academic Success",
+            "n": 23,
+            "share": 0.07467532467532467,
+            "example": {
+              "dialogue": "The FBI Academy!  You passed the exam!  I'm so damn proud of you, honey.  Yeah.  Well, I don't know.",
+              "cause_raw": "passing the FBI exam",
+              "film": {
+                "title": "Deadfall",
+                "year": "2012",
+                "poster_path": "/5ZM6uKhuEzWZD3xklmqKPuvq1Nj.jpg"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "male_bolly",
+      "gender": "male",
+      "industry": "bolly",
+      "label": "Men in Bollywood",
+      "shame": {
+        "total": 2990,
+        "triggers": [
+          {
+            "theme": "Inappropriate Behavior",
+            "n": 278,
+            "share": 0.09297658862876254,
+            "example": {
+              "dialogue": "I forgot, Rahul's here. Where's granny? Oh Jesus! Shameless boy. What is your name? Ummm - Rahul. The T.V. 's on.",
+              "cause_raw": "inappropriate behavior",
+              "film": {
+                "title": "Ek Main Aur Ekk Tu",
+                "year": "2012",
+                "poster_path": "/yei87xHRcmf4OhritS6GAju8fdq.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Poverty",
+            "n": 254,
+            "share": 0.08494983277591973,
+            "example": {
+              "dialogue": "You know. He's hasn't laid his hand on any girl yet. What? - I am ashamed of him. What? - Yes. Sunny, is this true?",
+              "cause_raw": "not being sexually active",
+              "film": {
+                "title": "Housefull 2",
+                "year": "2012",
+                "poster_path": "/y6L3GpfXWqfO7COtUyiEeACH35G.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Negligence",
+            "n": 211,
+            "share": 0.0705685618729097,
+            "example": {
+              "dialogue": "What are you doing! Where did it go? I feel ashamed. - Why? Back in that life, you had killed a tiger. That too without a weapon.",
+              "cause_raw": "not living up to past bravery",
+              "film": {
+                "title": "Raabta",
+                "year": "2017",
+                "poster_path": "/ovdpOhdgYqhDmy3uYGhNN16CKzQ.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Self-Image Issues",
+            "n": 191,
+            "share": 0.06387959866220735,
+            "example": {
+              "dialogue": "My heart is much exited. Jab! Jab! Hit him! Shame on you! When you are defeated, I feel hurt. One single blow can be lethal.",
+              "cause_raw": "losing a fight",
+              "film": {
+                "title": "Apne",
+                "year": "2007",
+                "poster_path": "/qMGSWgtmtMyn9hkyGZeOB5Kz7zC.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Sexual Harassment",
+            "n": 191,
+            "share": 0.06387959866220735,
+            "example": {
+              "dialogue": "My father was an honest man. But he made him a wrong man. He put the shroud of shame on him. But Lala... I won't let go of you now. Come!",
+              "cause_raw": "being made to appear dishonest",
+              "film": {
+                "title": "Daata",
+                "year": "1989",
+                "poster_path": "/xqy6FtqfYTmV2K7Moh0XcntTiIo.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Marital Status",
+            "n": 174,
+            "share": 0.05819397993311037,
+            "example": {
+              "dialogue": "Yeah man....everybody has a girlfriend. Bro, they are all in love. Shame on us. Not all of us. - Just the three of you.- What?",
+              "cause_raw": "not having a girlfriend",
+              "film": {
+                "title": "Race 3",
+                "year": "2018",
+                "poster_path": "/wtnA5mmNumYkeevokar6IskyrZP.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "pride": {
+        "total": 1482,
+        "triggers": [
+          {
+            "theme": "Identity and Beauty",
+            "n": 206,
+            "share": 0.13900134952766532,
+            "example": {
+              "dialogue": "I want to sing in front of him someday. I want to sing so well… that he'd proudly say… Aarvi is my daughter. And then I would say,",
+              "cause_raw": "daughter's singing talent",
+              "film": {
+                "title": "Ek Villain Returns",
+                "year": "2022",
+                "poster_path": "/4BqMeSSPaC7spmj4Zl7htiigCkV.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Family Honor",
+            "n": 155,
+            "share": 0.10458839406207827,
+            "example": {
+              "dialogue": "It stinks! Stinks of treason. You've lost your crown, but not your pride. Not until I have the enemy's head at my feet. That's impossible!",
+              "cause_raw": "not losing pride despite losing crown",
+              "film": {
+                "title": "Padmaavat",
+                "year": "2018",
+                "poster_path": "/5kk71s8Vmvt8XQOojevhTA5QcB0.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Son's Accomplishments",
+            "n": 134,
+            "share": 0.09041835357624832,
+            "example": {
+              "dialogue": "No son, you just won life's race I am proud of you. I am proud of you. Papa, are you cross with me? No son!",
+              "cause_raw": "son's achievement",
+              "film": {
+                "title": "Ehsaas: The Feeling",
+                "year": "2001",
+                "poster_path": "/zSYkW77tMgpxFNaWHpwZiUvdjfT.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Parental Pride",
+            "n": 122,
+            "share": 0.08232118758434548,
+            "example": {
+              "dialogue": "If I win, then freedom is ours. And our unborn child? I want him to be proud of me. Remember, if I get caught,",
+              "cause_raw": "father's fight for freedom",
+              "film": {
+                "title": "Shamshera",
+                "year": "2022",
+                "poster_path": "/rryN6GhaoovO3sM8IEqGyKgCmXf.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Virtuous Living",
+            "n": 102,
+            "share": 0.06882591093117409,
+            "example": {
+              "dialogue": "Then where's the bar's menu? Fakar! I am proud of all my devotees. You took out time from your busy lives and came here. You idiot.",
+              "cause_raw": "Devotees' dedication",
+              "film": {
+                "title": "Jodi Breakers",
+                "year": "2012",
+                "poster_path": "/osbyqCxFZsxrdkmncuUhwlPvkZ8.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Future Aspirations",
+            "n": 102,
+            "share": 0.06882591093117409,
+            "example": {
+              "dialogue": ". . . we will celebrate this demons death . And . . . if I win , you would be proud of your father.",
+              "cause_raw": "victory over demon",
+              "film": {
+                "title": "Aakhree Raasta",
+                "year": "1986",
+                "poster_path": "/zeOByJ06LPHctubIWZzOfpdPzYQ.jpg"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "male_holly",
+      "gender": "male",
+      "industry": "holly",
+      "label": "Men in Hollywood",
+      "shame": {
+        "total": 641,
+        "triggers": [
+          {
+            "theme": "Poverty",
+            "n": 89,
+            "share": 0.13884555382215288,
+            "example": {
+              "dialogue": "Don't move an inch.  You know any prayers, cracker?  Shame on you if you don't.  [police radio]  You should have had the ketchup.",
+              "cause_raw": "not knowing prayers",
+              "film": {
+                "title": "Bucktown",
+                "year": "1975",
+                "poster_path": "/x5UbYNscimgLYat7X0TcsqRDapA.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Self-Image Issues",
+            "n": 70,
+            "share": 0.10920436817472699,
+            "example": {
+              "dialogue": "Taunt.  Twist him around my little finger.  No shame. No fear.  Without a fear in the world.  - Looking good.",
+              "cause_raw": "manipulation and lack of fear",
+              "film": {
+                "title": "Poison Ivy 2: Lily",
+                "year": "1996",
+                "poster_path": "/jXLuQYRwWNuwW8dkx3zo5bWon2r.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Negligence",
+            "n": 55,
+            "share": 0.08580343213728549,
+            "example": {
+              "dialogue": "[indistinct yelling]  Fucking boy!  You should be ashamed of yourselves.  [indistinct clamor]  Get it over here. Hurry the fuck up.",
+              "cause_raw": "unspecified misconduct",
+              "film": {
+                "title": "GOAT",
+                "year": "2026",
+                "poster_path": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Shamelessness",
+            "n": 53,
+            "share": 0.08268330733229329,
+            "example": {
+              "dialogue": "It's under my wife.  Under your wife?  My dear Nina, whose memory I shamed.  It's in her grave.  Bruno.",
+              "cause_raw": "shaming wife's memory",
+              "film": {
+                "title": "Roseanna's Grave",
+                "year": "1997",
+                "poster_path": "/qaimjcQYua8UjnEJAx6UPjRRc3a.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Betrayal",
+            "n": 38,
+            "share": 0.059282371294851796,
+            "example": {
+              "dialogue": "? where are the children? ??  jeff, i'm sorry.  i'm ashamed of myself and i'm sorry.  but i can't help it.  i'm going to indianapolis.",
+              "cause_raw": "abandoning family or responsibilities",
+              "film": {
+                "title": "Watermelon Man",
+                "year": "1970",
+                "poster_path": "/7jKQ7goaKwlpDz40ZrgoXWHg26n.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Suspicion and Deceit",
+            "n": 35,
+            "share": 0.054602184087363496,
+            "example": {
+              "dialogue": "I'm obsolete!  I'm irreleVant!  Me! Shame on you!  You yanked me home!  You shoVed me out in the woods!",
+              "cause_raw": "making someone feel obsolete and irrelevant",
+              "film": {
+                "title": "The Recruit",
+                "year": "2003",
+                "poster_path": "/xInKytrHV3EJeCAulOpn5Q0bMxh.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "pride": {
+        "total": 972,
+        "triggers": [
+          {
+            "theme": "Identity and Beauty",
+            "n": 238,
+            "share": 0.2448559670781893,
+            "example": {
+              "dialogue": "and that's why  we're here today.  My son was so proud  of his homosexuality  that he would want you all",
+              "cause_raw": "son's acceptance of his homosexuality",
+              "film": {
+                "title": "Eating Out: All You Can Eat",
+                "year": "2009",
+                "poster_path": "/lBCK26YxhePOiFjHpfFeycFIGzB.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Future Aspirations",
+            "n": 142,
+            "share": 0.14609053497942387,
+            "example": {
+              "dialogue": "♪ Thomas O'Malley  ♪ O'Malley the alley cat ♪  That's right. And I'm very proud of that.  Yeah.  [giggles]",
+              "cause_raw": "being an alley cat",
+              "film": {
+                "title": "The Aristocats",
+                "year": "1970",
+                "poster_path": "/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Moral Complexity",
+            "n": 81,
+            "share": 0.08333333333333333,
+            "example": {
+              "dialogue": "Says he's very proud of himself.  He was pursued by the Coast Guard.  Says he was very cool, very smart,",
+              "cause_raw": "outsmarting the Coast Guard",
+              "film": {
+                "title": "Into the Blue 2: The Reef",
+                "year": "2009",
+                "poster_path": "/qLWOHSfrwWYrm7yic0ACFKGRLAq.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Financial Success",
+            "n": 72,
+            "share": 0.07407407407407407,
+            "example": {
+              "dialogue": "Oh, God!  Smooth. Very smooth.  Moonshine.  I'm so proud.  Wow!  O'Neer... No. It's yours.  No. It's yours.",
+              "cause_raw": "making smooth moonshine",
+              "film": {
+                "title": "Stargate SG-1: Children of the Gods",
+                "year": "2009",
+                "poster_path": "/1snwRCkOwMiAjYxiDVMPX0qDwZL.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Family Honor",
+            "n": 72,
+            "share": 0.07407407407407407,
+            "example": {
+              "dialogue": "shall forever be at peace  We shall fight with pride and honor at any price  Our proud Island  Iwo Jima  Do me a favor.",
+              "cause_raw": "fighting with pride and honor",
+              "film": {
+                "title": "Letters from Iwo Jima",
+                "year": "2006",
+                "poster_path": "/kZokxQtzMPURvijWYFuvh1fAvnv.jpg"
+              }
+            }
+          },
+          {
+            "theme": "Virtuous Living",
+            "n": 72,
+            "share": 0.07407407407407407,
+            "example": {
+              "dialogue": "rockin' and strokin' my cats.  I envy those cats.  Grandpa was a proud man.  A strong man.  He was a good provider.",
+              "cause_raw": "being a good provider",
+              "film": {
+                "title": "A Garfield Christmas",
+                "year": "1987",
+                "poster_path": "/eQD2VdPntQxHAWap3KMUXGsUTcw.jpg"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "convergence": [
+    {
+      "label": "Identity and Beauty",
+      "emotion": "pride",
+      "n_bolly": 327,
+      "n_holly": 431,
+      "share_bolly": 0.14611260053619302,
+      "share_holly": 0.2491329479768786,
+      "convergence_score": 0.18419670022897652,
+      "delta": -0.10302034744068558
+    },
+    {
+      "label": "Poverty",
+      "emotion": "shame",
+      "n_bolly": 445,
+      "n_holly": 150,
+      "share_bolly": 0.08353669983104937,
+      "share_holly": 0.12919896640826872,
+      "convergence_score": 0.1014672853510882,
+      "delta": -0.04566226657721935
+    },
+    {
+      "label": "Future Aspirations",
+      "emotion": "pride",
+      "n_bolly": 139,
+      "n_holly": 212,
+      "share_bolly": 0.06210902591599642,
+      "share_holly": 0.12254335260115606,
+      "convergence_score": 0.082436503917888,
+      "delta": -0.06043432668515964
+    },
+    {
+      "label": "Family Honor",
+      "emotion": "pride",
+      "n_bolly": 216,
+      "n_holly": 116,
+      "share_bolly": 0.09651474530831099,
+      "share_holly": 0.06705202312138728,
+      "convergence_score": 0.07912987455944215,
+      "delta": 0.02946272218692371
+    },
+    {
+      "label": "Financial Success",
+      "emotion": "pride",
+      "n_bolly": 132,
+      "n_holly": 175,
+      "share_bolly": 0.058981233243967826,
+      "share_holly": 0.10115606936416185,
+      "convergence_score": 0.07451492717859388,
+      "delta": -0.04217483612019403
+    },
+    {
+      "label": "Moral Complexity",
+      "emotion": "pride",
+      "n_bolly": 148,
+      "n_holly": 147,
+      "share_bolly": 0.06613047363717604,
+      "share_holly": 0.08497109826589595,
+      "convergence_score": 0.07437618157141733,
+      "delta": -0.01884062462871991
+    },
+    {
+      "label": "Virtuous Living",
+      "emotion": "pride",
+      "n_bolly": 173,
+      "n_holly": 122,
+      "share_bolly": 0.0773011617515639,
+      "share_holly": 0.07052023121387284,
+      "convergence_score": 0.07375516750942646,
+      "delta": 0.006780930537691063
+    },
+    {
+      "label": "Parental Pride",
+      "emotion": "pride",
+      "n_bolly": 153,
+      "n_holly": 129,
+      "share_bolly": 0.06836461126005362,
+      "share_holly": 0.07456647398843931,
+      "convergence_score": 0.07133099141295864,
+      "delta": -0.0062018627283856875
+    },
+    {
+      "label": "Negligence",
+      "emotion": "shame",
+      "n_bolly": 323,
+      "n_holly": 98,
+      "share_bolly": 0.06063450347287404,
+      "share_holly": 0.08440999138673558,
+      "convergence_score": 0.07057362529806063,
+      "delta": -0.02377548791386154
+    },
+    {
+      "label": "Self-Image Issues",
+      "emotion": "shame",
+      "n_bolly": 298,
+      "n_holly": 110,
+      "share_bolly": 0.05594143044865778,
+      "share_holly": 0.09474590869939707,
+      "convergence_score": 0.07034727259460828,
+      "delta": -0.038804478250739294
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "emotion": "shame",
+      "n_bolly": 292,
+      "n_holly": 83,
+      "share_bolly": 0.05481509292284588,
+      "share_holly": 0.0714900947459087,
+      "convergence_score": 0.06205186435947887,
+      "delta": -0.01667500182306282
+    },
+    {
+      "label": "Personal Achievement",
+      "emotion": "pride",
+      "n_bolly": 156,
+      "n_holly": 91,
+      "share_bolly": 0.06970509383378017,
+      "share_holly": 0.05260115606936416,
+      "convergence_score": 0.05995717344753748,
+      "delta": 0.017103937764416002
+    }
+  ],
+  "whitespace": [
+    {
+      "label": "Cultural Identity",
+      "emotion": "pride",
+      "absent_in": "holly",
+      "present_in": "bolly",
+      "n_present": 112,
+      "n_absent": 6,
+      "share_present": 0.050044682752457555,
+      "share_absent": 0.003468208092485549,
+      "ratio": 14.429550193625262
+    },
+    {
+      "label": "Patriotism",
+      "emotion": "pride",
+      "absent_in": "holly",
+      "present_in": "bolly",
+      "n_present": 102,
+      "n_absent": 19,
+      "share_present": 0.045576407506702415,
+      "share_absent": 0.010982658959537572,
+      "ratio": 4.149851841399746
+    },
+    {
+      "label": "Son's Accomplishments",
+      "emotion": "pride",
+      "absent_in": "holly",
+      "present_in": "bolly",
+      "n_present": 159,
+      "n_absent": 37,
+      "share_present": 0.07104557640750671,
+      "share_absent": 0.02138728323699422,
+      "ratio": 3.3218607347293676
+    },
+    {
+      "label": "Disrespect",
+      "emotion": "shame",
+      "absent_in": "holly",
+      "present_in": "bolly",
+      "n_present": 227,
+      "n_absent": 17,
+      "share_present": 0.04261310305988361,
+      "share_absent": 0.014642549526270457,
+      "ratio": 2.9102242736779336
+    },
+    {
+      "label": "Marital Status",
+      "emotion": "shame",
+      "absent_in": "holly",
+      "present_in": "bolly",
+      "n_present": 322,
+      "n_absent": 28,
+      "share_present": 0.06044678055190539,
+      "share_absent": 0.024117140396210164,
+      "ratio": 2.506382579312934
+    }
+  ],
+  "subversions": [
+    {
+      "trope": "Inappropriate Behavior",
+      "subversion": "applied to a male character",
+      "dialogue": "God. She is so sweet.  I see where you get your looks from.  - Shameless of you. - Yeah.  What? I'm not trying to have sex with your grandma.  Gross.",
+      "industry": "holly",
+      "cause_raw": "inappropriate comments about a family member",
+      "film": {
+        "title": "That Awkward Moment",
+        "year": "2014",
+        "poster_path": "/tjDAdesZNYFyRNnZvLT0osc7S2t.jpg"
+      }
+    },
+    {
+      "trope": "Marital Status",
+      "subversion": "applied to a male character",
+      "dialogue": "Don't they look handsome in their tuxedos?  I cannot believe that Max actually went through with it.  It's a goddamn shame.  I am hereby dedicating myself to a life as a professional tomcat.  Professional tomcat, right on.",
+      "industry": "holly",
+      "cause_raw": "getting married",
+      "film": {
+        "title": "Tomcats",
+        "year": "2001",
+        "poster_path": "/pAHD3TfoDJX6jCPVhICBNLBxnBH.jpg"
+      }
+    },
+    {
+      "trope": "Sexual Harassment",
+      "subversion": "applied to a male character",
+      "dialogue": "I'd love to show you around.  Well, you know, we're actually staying an hour out of town, so... Oh, shame.  Oh, shame.  You know, if you'd rather spend the weekend with Rick,  I would totally get that.",
+      "industry": "holly",
+      "cause_raw": "preferring to spend time with someone else",
+      "film": {
+        "title": "The Intervention",
+        "year": "2016",
+        "poster_path": "/yPgppin50E0pxKgL1lmKlFbhTF1.jpg"
+      }
+    },
+    {
+      "trope": "Family Honor",
+      "subversion": "applied to a male character",
+      "dialogue": "Well... I don't know either.  I don't know either.  I just... I always taught my son to be a proud American,  I always taught my son to be a proud American,  but maybe I didn't really teach him what that meant.",
+      "industry": "holly",
+      "cause_raw": "teaching his son to be a proud American",
+      "film": {
+        "title": "Borderline",
+        "year": "2025",
+        "poster_path": "/hUrNKVrkMN7sdt0oAioopMcxyoq.jpg"
+      }
+    },
+    {
+      "trope": "Promiscuity",
+      "subversion": "applied to a male character",
+      "dialogue": "...prostate the size of a grapefruit.  - Come here. Just sit down. - Where's Spenser?  Shame on you! Did they violate you?  - Sexually? - No.  What are you talking about?",
+      "industry": "holly",
+      "cause_raw": "sexual misconduct",
+      "film": {
+        "title": "Wonderland",
+        "year": "2024",
+        "poster_path": "/xGFjhFkqpOpFFUkEQjetKS11AWz.jpg"
+      }
+    }
+  ]
+}
