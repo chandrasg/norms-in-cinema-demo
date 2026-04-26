@@ -236,9 +236,11 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
           <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Project lead</p>
           <p class="mt-2 font-display text-lg text-white">Sharath Chandra Guntuku</p>
           <p class="mt-1 text-sm text-white/60">Computer &amp; Information Science, University of Pennsylvania</p>
-          <a href="mailto:sharathg@cis.upenn.edu" class="mt-3 inline-block text-sm text-gold-400 hover:underline">
-            sharathg@cis.upenn.edu
-          </a>
+          <button type="button"
+                  data-mu="c2hhcmF0aGc=" data-md="Y2lzLnVwZW5uLmVkdQ=="
+                  class="mt-3 inline-block text-sm text-gold-400 hover:underline">
+            Send a message →
+          </button>
         </div>
         <div class="panel p-5">
           <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Original paper</p>
@@ -258,10 +260,22 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 
     <!-- ===== V2 / partnerships ===== -->
     <div class="mt-16 panel p-6 md:p-10 border border-gold-400/20 bg-gradient-to-b from-gold-400/[0.04] to-transparent">
-      <p class="text-xs uppercase tracking-[0.25em] text-gold-400">V2 partnerships</p>
+      <div class="flex flex-wrap items-baseline gap-2">
+        <p class="text-xs uppercase tracking-[0.25em] text-gold-400">V2 partnerships</p>
+        <span class="rounded-full bg-emerald-400/10 ring-1 ring-emerald-400/40 text-emerald-300 text-[10px] uppercase tracking-[0.18em] px-2 py-0.5">
+          Anchor funder: Gates Foundation
+        </span>
+      </div>
       <h3 class="mt-2 font-display text-2xl text-white max-w-3xl">
         We're scaling MAPGEN to ~250,000 films across 160 countries.
       </h3>
+      <p class="mt-3 max-w-2xl text-sm md:text-base text-white/70 leading-relaxed">
+        V2 is supported by the <span class="text-white">Bill &amp; Melinda Gates Foundation</span>
+        as the anchor funder. We're building out the corpus, the country
+        coverage, and the diagnostic tooling — and we're actively looking for
+        co-funders, regional sponsors, festival partners, and pilot
+        production slates.
+      </p>
       <p class="mt-3 max-w-2xl text-sm md:text-base text-white/70 leading-relaxed">
         If you're a funder, festival, studio, or research institution
         interested in country-level diagnostics, soft-power dashboards, or a
@@ -269,10 +283,12 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
         Email the project lead or use the form on the home page.
       </p>
       <div class="mt-5 flex flex-wrap gap-3">
-        <a href="mailto:sharathg@cis.upenn.edu?subject=MAPGEN%20V2%20partnership"
-           class="rounded-full bg-gold-400 text-ink-950 px-5 py-2.5 text-sm font-medium hover:bg-gold-300 transition">
-          Email about V2 →
-        </a>
+        <button type="button"
+                data-mu="c2hhcmF0aGc=" data-md="Y2lzLnVwZW5uLmVkdQ=="
+                data-ms="MAPGEN V2 partnership"
+                class="rounded-full bg-gold-400 text-ink-950 px-5 py-2.5 text-sm font-medium hover:bg-gold-300 transition">
+          Email the project lead about V2 →
+        </button>
         <a href={base + "/#feedback"}
            class="rounded-full bg-white/5 ring-1 ring-white/10 text-white/80 px-5 py-2.5 text-sm hover:bg-white/10 hover:text-white transition">
           Use the feedback form

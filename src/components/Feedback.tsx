@@ -31,11 +31,16 @@ export default function Feedback({ endpoint }: Props) {
     try {
       if (!endpoint) {
         // Fallback: open the user's mail client with a prefilled message.
+        // Address is reassembled at runtime from base64 fragments so it
+        // never appears as a literal mailto: target in the bundled JS.
+        const _u = "c2hhcmF0aGc=";
+        const _d = "Y2lzLnVwZW5uLmVkdQ==";
+        const addr = atob(_u) + "@" + atob(_d);
         const subject = encodeURIComponent(`MAPGEN feedback (${role})`);
         const body = encodeURIComponent(
           `Role: ${role}\n${email ? `Email: ${email}\n` : ""}\n${message}`
         );
-        window.location.href = `mailto:sharathg@cis.upenn.edu?subject=${subject}&body=${body}`;
+        window.location.href = `mailto:${addr}?subject=${subject}&body=${body}`;
         setSubmitted(true);
         return;
       }

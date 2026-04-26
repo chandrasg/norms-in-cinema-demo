@@ -85,5 +85,30 @@ const canonical = SITE_URL + (station ? `/${station}` : "/");
     </main>
     <PartnerFooter />
     <KioskMode />
+
+    <!-- Anti-scrape mailto handler. Email is encoded in data-* attrs and
+         only assembled in-browser on click. The page source contains no
+         literal address and no mailto: link. -->
+    <script is:inline>
+      (function () {
+        function handle(e) {
+          var t = e.target.closest("[data-mu][data-md]");
+          if (!t) return;
+          e.preventDefault();
+          try {
+            var u = atob(t.getAttribute("data-mu"));
+            var d = atob(t.getAttribute("data-md"));
+            var s = t.getAttribute("data-ms") || "";
+            var b = t.getAttribute("data-mb") || "";
+            var q = [];
+            if (s) q.push("subject=" + encodeURIComponent(s));
+            if (b) q.push("body=" + encodeURIComponent(b));
+            var qs = q.length ? "?" + q.join("&") : "";
+            window.location.href = "mailto:" + u + "@" + d + qs;
+          } catch (_) {}
+        }
+        document.addEventListener("click", handle);
+      })();
+    </script>
   </body>
 </html>

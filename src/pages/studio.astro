@@ -154,12 +154,22 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
       </div>
 
       <div class="mt-10 panel p-6 md:p-8 border-l-2 border-gold-400">
-        <p class="text-xs uppercase tracking-[0.2em] text-gold-400 mb-2">A concrete ask</p>
-        <p class="text-base text-white/80 leading-relaxed">
-          MAPGEN's V1 covers ~5,400 films across two industries. V2 extends the
-          method to ~250,000 films across 160 countries — country-level
-          diagnostics, soft-power dashboards, regional norm shifts, and audience
-          fit by market.
+        <div class="flex flex-wrap items-baseline gap-2">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">A concrete ask</p>
+          <span class="rounded-full bg-emerald-400/10 ring-1 ring-emerald-400/40 text-emerald-300 text-[10px] uppercase tracking-[0.18em] px-2 py-0.5">
+            Anchor funder: Gates Foundation
+          </span>
+        </div>
+        <p class="mt-2 text-base text-white/80 leading-relaxed">
+          MAPGEN's V1 covers ~5,400 films across two industries. V2 — supported by
+          the <span class="text-white">Bill &amp; Melinda Gates Foundation</span> as
+          anchor funder — extends the method to ~250,000 films across 160
+          countries: country-level diagnostics, soft-power dashboards, regional
+          norm shifts, and audience fit by market.
+        </p>
+        <p class="mt-3 text-sm text-white/65 leading-relaxed">
+          We're seeking co-funders, regional sponsors, and pilot partners on top
+          of the anchor commitment.
         </p>
         <ul class="mt-4 space-y-2 text-sm text-white/70 leading-relaxed">
           <li>· <span class="text-white">Co-fund</span> the corpus expansion (TMDB enrichment, embeddings, clustering at scale)</li>
@@ -167,10 +177,12 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
           <li>· <span class="text-white">Pilot</span> the slate diagnostic on a real production slate, under NDA</li>
         </ul>
         <div class="mt-5 flex flex-wrap gap-3">
-          <a href="mailto:sharathg@cis.upenn.edu?subject=MAPGEN%20V2%20partnership"
-             class="inline-flex items-center gap-2 rounded-full bg-gold-400 text-ink-950 px-5 py-2.5 text-sm font-medium hover:bg-gold-300 transition">
-            Email about V2 →
-          </a>
+          <button type="button"
+                  data-mu="c2hhcmF0aGc=" data-md="Y2lzLnVwZW5uLmVkdQ=="
+                  data-ms="MAPGEN V2 partnership"
+                  class="inline-flex items-center gap-2 rounded-full bg-gold-400 text-ink-950 px-5 py-2.5 text-sm font-medium hover:bg-gold-300 transition">
+            Email the project lead about V2 →
+          </button>
           <a href="#feedback-anchor"
              class="inline-flex items-center gap-2 rounded-full bg-white/5 ring-1 ring-white/10 text-white/80 px-5 py-2.5 text-sm hover:bg-white/10 hover:text-white transition">
             Share input via the form
