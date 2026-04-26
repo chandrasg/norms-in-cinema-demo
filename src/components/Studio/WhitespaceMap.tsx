@@ -52,24 +52,24 @@ export default function WhitespaceMap({ items }: { items: WhitespaceItem[] }) {
                 </span>
               </div>
 
-              <div className="mt-3 grid grid-cols-[80px_1fr_auto] items-center gap-3 text-xs">
-                <span className={`${present.color} text-right`}>{present.label}</span>
+              <div className="mt-3 grid grid-cols-[60px_1fr_auto] sm:grid-cols-[80px_1fr_auto] items-center gap-2 sm:gap-3 text-xs">
+                <span className={`${present.color} text-right truncate`}>{present.label}</span>
                 <div className="h-2 rounded-full bg-white/5 overflow-hidden">
                   <div className={`h-full ${present.bg}`}
                        style={{ width: `${Math.min(100, w.share_present * 1500)}%` }} />
                 </div>
-                <span className="tabular-nums text-white/60 w-28">
+                <span className="tabular-nums text-white/60 whitespace-nowrap">
                   {w.n_present} · {(w.share_present * 100).toFixed(1)}%
                 </span>
               </div>
 
-              <div className="mt-1 grid grid-cols-[80px_1fr_auto] items-center gap-3 text-xs">
-                <span className={`${absent.color} text-right`}>{absent.label}</span>
+              <div className="mt-1 grid grid-cols-[60px_1fr_auto] sm:grid-cols-[80px_1fr_auto] items-center gap-2 sm:gap-3 text-xs">
+                <span className={`${absent.color} text-right truncate`}>{absent.label}</span>
                 <div className="h-2 rounded-full bg-white/5 overflow-hidden">
                   <div className={`h-full ${absent.bg} opacity-60`}
                        style={{ width: `${Math.min(100, w.share_absent * 1500)}%` }} />
                 </div>
-                <span className="tabular-nums text-white/60 w-28">
+                <span className="tabular-nums text-white/60 whitespace-nowrap">
                   {w.n_absent} · {(w.share_absent * 100).toFixed(1)}%
                 </span>
               </div>

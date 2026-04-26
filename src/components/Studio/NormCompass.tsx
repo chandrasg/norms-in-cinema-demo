@@ -53,7 +53,7 @@ export default function NormCompass({ archetypes }: { archetypes: Archetype[] })
           <button
             key={a.id}
             onClick={() => setActiveId(a.id)}
-            className={`rounded-full px-4 py-1.5 text-xs transition ${
+            className={`rounded-full px-3 sm:px-4 py-2 text-xs sm:text-sm min-h-[40px] transition ${
               a.id === activeId
                 ? a.industry === "bolly"
                   ? "bg-bolly text-ink-950"
@@ -67,12 +67,12 @@ export default function NormCompass({ archetypes }: { archetypes: Archetype[] })
       </div>
 
       {/* Emotion toggle */}
-      <div className="mt-4 flex gap-2">
+      <div className="mt-4 flex flex-wrap items-center gap-2">
         {(["shame", "pride"] as const).map(emo => (
           <button
             key={emo}
             onClick={() => setEmotion(emo)}
-            className={`rounded-full px-4 py-1.5 text-xs uppercase tracking-[0.2em] transition ${
+            className={`rounded-full px-4 py-2 text-xs uppercase tracking-[0.2em] min-h-[40px] transition ${
               emo === emotion
                 ? "bg-gold-400 text-ink-950"
                 : "bg-white/5 text-white/60 hover:bg-white/10 ring-1 ring-white/10"
@@ -81,8 +81,8 @@ export default function NormCompass({ archetypes }: { archetypes: Archetype[] })
             {emo}
           </button>
         ))}
-        <span className="ml-auto text-xs text-white/40 self-center">
-          {block.total.toLocaleString()} dialogues for this archetype × emotion
+        <span className="text-xs text-white/40 sm:ml-auto">
+          {block.total.toLocaleString()} dialogues
         </span>
       </div>
 
@@ -112,17 +112,17 @@ export default function NormCompass({ archetypes }: { archetypes: Archetype[] })
                 />
               </div>
               {t.example && i < 3 && (
-                <div className="ml-8 mt-2 flex gap-3 rounded-lg bg-ink-950/40 p-3 ring-1 ring-white/5">
+                <div className="ml-2 sm:ml-8 mt-2 flex gap-3 rounded-lg bg-ink-950/40 p-3 ring-1 ring-white/5">
                   {t.example.film.poster_path && (
                     <img
                       src={POSTER(t.example.film.poster_path)}
                       alt=""
-                      className="h-20 w-14 flex-none rounded ring-1 ring-white/10 object-cover"
+                      className="h-16 w-11 sm:h-20 sm:w-14 flex-none rounded ring-1 ring-white/10 object-cover"
                       loading="lazy"
                     />
                   )}
-                  <div className="text-xs leading-relaxed">
-                    <p className="text-white/80 italic">"{t.example.dialogue}"</p>
+                  <div className="text-xs leading-relaxed min-w-0 flex-1">
+                    <p className="text-white/80 italic break-words">"{t.example.dialogue}"</p>
                     <p className="mt-1 text-white/40">
                       — <span className="text-white/60">{t.example.film.title}</span>
                       {t.example.film.year ? ` (${t.example.film.year})` : ""}

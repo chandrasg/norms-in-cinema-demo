@@ -25,14 +25,17 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 
     <!-- Jump-to nav -->
     <div class="mt-10 flex flex-wrap gap-2 text-xs">
-      <a href="#filmmakers" class="rounded-full bg-bolly/10 ring-1 ring-bolly/30 px-4 py-2 text-bolly hover:bg-bolly/20 transition">
+      <a href="#filmmakers" class="rounded-full bg-bolly/10 ring-1 ring-bolly/30 px-3 py-2 text-bolly hover:bg-bolly/20 transition min-h-[40px] inline-flex items-center">
         ↓ For filmmakers
       </a>
-      <a href="#funders" class="rounded-full bg-gold-400/10 ring-1 ring-gold-400/30 px-4 py-2 text-gold-400 hover:bg-gold-400/20 transition">
+      <a href="#funders" class="rounded-full bg-gold-400/10 ring-1 ring-gold-400/30 px-3 py-2 text-gold-400 hover:bg-gold-400/20 transition min-h-[40px] inline-flex items-center">
         ↓ For funders &amp; studios
       </a>
-      <a href="#programmers" class="rounded-full bg-holly/10 ring-1 ring-holly/30 px-4 py-2 text-holly hover:bg-holly/20 transition">
-        ↓ For programmers, policy, educators
+      <a href="#programmers" class="rounded-full bg-holly/10 ring-1 ring-holly/30 px-3 py-2 text-holly hover:bg-holly/20 transition min-h-[40px] inline-flex items-center">
+        ↓ For policy &amp; educators
+      </a>
+      <a href={base + "/about"} class="rounded-full bg-white/5 ring-1 ring-white/15 px-3 py-2 text-white/70 hover:bg-white/10 hover:text-white transition min-h-[40px] inline-flex items-center">
+        Method &amp; citations →
       </a>
     </div>
 
@@ -138,14 +141,28 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
       </div>
 
       <div class="mt-10 panel p-6 md:p-8 border-l-2 border-gold-400">
-        <p class="text-xs uppercase tracking-[0.2em] text-gold-400 mb-2">What to do next</p>
+        <p class="text-xs uppercase tracking-[0.2em] text-gold-400 mb-2">A concrete ask</p>
         <p class="text-base text-white/80 leading-relaxed">
-          MAPGEN scales. The lens shown here is being extended to 250,000 films
-          across 160 countries.{" "}
-          <a href="#feedback-anchor" class="text-gold-400 hover:underline">
-            Share what diagnostics would change your green-light decisions →
-          </a>
+          MAPGEN's V1 covers ~5,400 films across two industries. V2 extends the
+          method to ~250,000 films across 160 countries — country-level
+          diagnostics, soft-power dashboards, regional norm shifts, and audience
+          fit by market.
         </p>
+        <ul class="mt-4 space-y-2 text-sm text-white/70 leading-relaxed">
+          <li>· <span class="text-white">Co-fund</span> the corpus expansion (TMDB enrichment, embeddings, clustering at scale)</li>
+          <li>· <span class="text-white">Sponsor</span> a country or regional cut for your territory</li>
+          <li>· <span class="text-white">Pilot</span> the slate diagnostic on a real production slate, under NDA</li>
+        </ul>
+        <div class="mt-5 flex flex-wrap gap-3">
+          <a href="mailto:sharathg@cis.upenn.edu?subject=MAPGEN%20V2%20partnership"
+             class="inline-flex items-center gap-2 rounded-full bg-gold-400 text-ink-950 px-5 py-2.5 text-sm font-medium hover:bg-gold-300 transition">
+            Email about V2 →
+          </a>
+          <a href="#feedback-anchor"
+             class="inline-flex items-center gap-2 rounded-full bg-white/5 ring-1 ring-white/10 text-white/80 px-5 py-2.5 text-sm hover:bg-white/10 hover:text-white transition">
+            Share input via the form
+          </a>
+        </div>
       </div>
     </div>
 

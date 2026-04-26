@@ -1,0 +1,281 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+const meta = (await import("../../public/data/meta.json", { assert: { type: "json" } })).default;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+---
+
+<Layout title="Method — MAPGEN: Cinema's Mirror" station="about">
+  <section class="container-kiosk pt-12 pb-32">
+    <p class="text-xs uppercase tracking-[0.3em] text-gold-400">Method</p>
+    <h1 class="mt-3 font-display text-kiosk-xl text-white max-w-3xl">How this was built.</h1>
+    <p class="mt-4 max-w-2xl text-kiosk-md text-white/75 leading-snug">
+      For researchers, policy analysts, and anyone who wants to know what's
+      under the visualizations before citing them. This page is the boring
+      part — kept honest on purpose.
+    </p>
+
+    <!-- Quick stats -->
+    <div class="mt-10 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+      <div class="panel p-4">
+        <p class="font-display text-3xl text-gold-400">{meta.corpus_size.toLocaleString()}</p>
+        <p class="text-xs text-white/60 mt-1">labeled dialogues</p>
+      </div>
+      <div class="panel p-4">
+        <p class="font-display text-3xl text-white">{meta.films_matched.toLocaleString()}</p>
+        <p class="text-xs text-white/60 mt-1">films in corpus</p>
+      </div>
+      <div class="panel p-4">
+        <p class="font-display text-3xl text-white">{meta.themes.shame + meta.themes.pride}</p>
+        <p class="text-xs text-white/60 mt-1">themes ({meta.themes.shame} shame · {meta.themes.pride} pride)</p>
+      </div>
+      <div class="panel p-4">
+        <p class="font-display text-3xl text-white">{meta.gender_coverage_pct}<span class="text-white/30 text-base">%</span></p>
+        <p class="text-xs text-white/60 mt-1">target-gender coverage</p>
+      </div>
+    </div>
+
+    <!-- ===== The dataset ===== -->
+    <div class="mt-20 grid gap-10 lg:grid-cols-[1fr_280px]">
+      <article class="prose-invert max-w-none">
+        <h2 class="font-display text-3xl text-white">The dataset</h2>
+        <p class="mt-4 text-base text-white/75 leading-relaxed">
+          Source: the <em>Cross-Cultural Social Norms Dataset</em>
+          (Rai et al., NAACL 2025) — a manually-annotated corpus of dialogue
+          excerpts from Bollywood and Hollywood films, each labeled with the
+          emotion (shame or pride), the target person and gender, and the
+          textual cause that triggered the emotion.
+        </p>
+        <p class="mt-4 text-base text-white/75 leading-relaxed">
+          We extend the original release with three layers of enrichment, each
+          fully reproducible from the scripts in the public repository:
+        </p>
+        <ol class="mt-4 space-y-3 text-sm text-white/75">
+          <li class="flex gap-3">
+            <span class="font-display text-gold-400 flex-none">01</span>
+            <span><strong class="text-white">TMDB enrichment</strong> — film titles matched to The Movie Database for canonical metadata: year, country, poster, overview. Match rate: 88.9% (97.6% Hollywood, 82.6% Bollywood).</span>
+          </li>
+          <li class="flex gap-3">
+            <span class="font-display text-gold-400 flex-none">02</span>
+            <span><strong class="text-white">Theme clustering</strong> — every <code class="text-gold-400/80 text-xs bg-white/5 px-1 rounded">cause</code> string is embedded with OpenAI <code class="text-gold-400/80 text-xs bg-white/5 px-1 rounded">text-embedding-3-small</code>, then Ward-linkage hierarchical clustered into {meta.themes.shame} shame and {meta.themes.pride} pride themes. Cluster labels are LLM-generated and human-verified.</span>
+          </li>
+          <li class="flex gap-3">
+            <span class="font-display text-gold-400 flex-none">03</span>
+            <span><strong class="text-white">Gender backfill</strong> — single-shot LLM pass on the 22% of records where the original target_gender field was blank. Cached results go through manual spot-checks; coverage rises to {meta.gender_coverage_pct}% with the back-fill flagged separately in the data.</span>
+          </li>
+        </ol>
+        <p class="mt-4 text-sm text-white/55 italic">
+          The pipeline scripts cache every API call, so a full corpus rebuild is
+          deterministic and costs ~$2 from cold caches.
+        </p>
+      </article>
+
+      <!-- Sidebar — links + access -->
+      <aside class="lg:sticky lg:top-24 lg:self-start space-y-3">
+        <a href={base + "/paper.pdf"} target="_blank" rel="noopener"
+           class="panel block p-5 hover:ring-gold-400/40 transition">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Paper</p>
+          <p class="mt-2 font-display text-base text-white leading-snug">
+            Rai et al. (2025). Cross-Cultural Social Norms in Bollywood and Hollywood. NAACL 2025.
+          </p>
+          <p class="mt-3 text-xs text-white/40">Open PDF →</p>
+        </a>
+        <a href="https://github.com/Khushangz/Cross-Cultural-Social-Norms-Dataset" target="_blank" rel="noopener"
+           class="panel block p-5 hover:ring-gold-400/40 transition">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Source dataset</p>
+          <p class="mt-2 text-sm text-white/80">CC-BY-SA on GitHub. Raw labels + films list.</p>
+          <p class="mt-3 text-xs text-white/40">Khushangz/Cross-Cultural-Social-Norms-Dataset →</p>
+        </a>
+        <a href="https://github.com/chandrasg/norms-in-cinema-demo" target="_blank" rel="noopener"
+           class="panel block p-5 hover:ring-gold-400/40 transition">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">This site's source</p>
+          <p class="mt-2 text-sm text-white/80">Pipeline + frontend + per-station JSON.</p>
+          <p class="mt-3 text-xs text-white/40">chandrasg/norms-in-cinema-demo →</p>
+        </a>
+      </aside>
+    </div>
+
+    <!-- ===== Key formulas ===== -->
+    <div class="mt-20">
+      <h2 class="font-display text-3xl text-white">Definitions you'll see on the site</h2>
+
+      <div class="mt-6 grid gap-4 md:grid-cols-2">
+        <div class="panel p-5 md:p-6">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Δ — cultural delta</p>
+          <p class="mt-2 font-display text-base text-white">Used in The Atlas tug-of-war.</p>
+          <p class="mt-3 text-sm text-white/65 leading-relaxed">
+            For each theme, the share of that emotion in one industry minus the
+            share in the other:
+          </p>
+          <pre class="mt-3 p-3 rounded-md bg-ink-950 text-xs text-white/80 overflow-x-auto"><code>Δ = (n_bolly / N_bolly_emotion) − (n_holly / N_holly_emotion)</code></pre>
+          <p class="mt-3 text-xs text-white/45">
+            Positive Δ → theme is over-represented in Bollywood relative to its
+            share of the emotion overall. Equation 1 in the paper.
+          </p>
+        </div>
+
+        <div class="panel p-5 md:p-6">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Convergence score</p>
+          <p class="mt-2 font-display text-base text-white">Used in The Studio.</p>
+          <p class="mt-3 text-sm text-white/65 leading-relaxed">
+            Harmonic mean of a theme's share in each industry — penalizes themes
+            that only appear robustly on one side:
+          </p>
+          <pre class="mt-3 p-3 rounded-md bg-ink-950 text-xs text-white/80 overflow-x-auto"><code>convergence = 2 · share_bolly · share_holly / (share_bolly + share_holly)</code></pre>
+          <p class="mt-3 text-xs text-white/45">
+            Original to this demo, not in the paper. High convergence = present
+            in both industries with similar prominence.
+          </p>
+        </div>
+
+        <div class="panel p-5 md:p-6">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Whitespace ratio</p>
+          <p class="mt-2 font-display text-base text-white">Used in The Studio.</p>
+          <p class="mt-3 text-sm text-white/65 leading-relaxed">
+            Ratio of theme shares between the present and absent industries,
+            among themes where one side is robust (≥3%) and the other under-tells
+            (≤2/5 of that share).
+          </p>
+          <p class="mt-3 text-xs text-white/45">
+            Indicative of cross-cultural storytelling gaps, not a forecasting metric.
+          </p>
+        </div>
+
+        <div class="panel p-5 md:p-6">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Era buckets</p>
+          <p class="mt-2 font-display text-base text-white">Used in The Mirror &amp; Studio.</p>
+          <p class="mt-3 text-sm text-white/65 leading-relaxed">
+            Three buckets: <em>pre-2000</em>, <em>2000–2014</em>, <em>2015–present</em>.
+            The 2015 cut aligns with the global #MeToo era and major Indian
+            legal/social shifts (Nirbhaya aftermath).
+          </p>
+          <p class="mt-3 text-xs text-white/45">
+            Per-era sample sizes vary; the most recent Bollywood pride bucket is
+            smallest. Direction is consistent across coverage; exact percentages
+            in small buckets warrant caution.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== Limitations ===== -->
+    <div class="mt-20">
+      <h2 class="font-display text-3xl text-white">What this can &amp; can't be cited for</h2>
+      <p class="mt-3 max-w-2xl text-base text-white/70 leading-relaxed">
+        We're conservative about the strength of these claims. Use them as
+        framing devices and starting points; don't treat them as adjudicated truth.
+      </p>
+
+      <div class="mt-8 grid gap-4 md:grid-cols-2">
+        <div class="panel p-5 md:p-6 ring-1 ring-emerald-400/20">
+          <p class="text-xs uppercase tracking-[0.2em] text-emerald-300">Defensible findings</p>
+          <ul class="mt-3 space-y-2 text-sm text-white/75 leading-relaxed">
+            <li>• Bollywood uses the explicit vocabulary of shame ~4× more frequently than Hollywood.</li>
+            <li>• Female share of <em>shame</em> is roughly stable in both industries (~30%).</li>
+            <li>• Female share of <em>pride</em> diverges since 2000 — Hollywood up, Bollywood down.</li>
+            <li>• Bollywood-leaning themes cluster around community-policed femininity; Hollywood-leaning shame around individual failure.</li>
+            <li>• Cultural Identity, Patriotism, Family Honor, and Son's Accomplishments are robust Bollywood-only pride themes.</li>
+          </ul>
+        </div>
+        <div class="panel p-5 md:p-6 ring-1 ring-gold-400/20">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Limitations &amp; cautions</p>
+          <ul class="mt-3 space-y-2 text-sm text-white/75 leading-relaxed">
+            <li>• Bollywood subtitles are English translations; some cultural register is lost in translation before our pipeline ever runs.</li>
+            <li>• The corpus reflects available subtitle availability and is biased toward films with theatrical distribution.</li>
+            <li>• Target-gender labels are LLM-assisted on 22% of records.</li>
+            <li>• Theme clustering uses Ward linkage; alternative clustering would produce different boundaries and labels.</li>
+            <li>• Per-film views (The Lens) have small n; treat as illustrative, not adjudicating.</li>
+            <li>• Era buckets are uneven in size; treat percentages in the smallest cells with caution.</li>
+            <li>• These findings reflect what films say, not what audiences feel or what societies enact in practice.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== Citation ===== -->
+    <div class="mt-20">
+      <h2 class="font-display text-3xl text-white">Citation</h2>
+      <p class="mt-3 max-w-2xl text-base text-white/70 leading-relaxed">
+        If you reference findings or visualizations from this site, cite the
+        underlying paper. If you specifically reference a finding that's
+        original to this demo (era trend, convergence score, whitespace map),
+        cite the demo URL alongside.
+      </p>
+
+      <div class="mt-6 grid gap-4 md:grid-cols-2">
+        <div class="panel p-5 md:p-6">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Paper</p>
+          <pre class="mt-3 p-4 rounded-md bg-ink-950 text-xs text-white/80 overflow-x-auto leading-relaxed"><code>@inproceedings{`{`}rai2025crosscultural,
+  title     = {`{`}Cross-Cultural Social Norms in Bollywood and Hollywood{`}`},
+  author    = {`{`}Rai, Sunny and others{`}`},
+  booktitle = {`{`}Proc. NAACL 2025{`}`},
+  year      = {`{`}2025{`}`},
+  url       = {`{`}https://aclanthology.org/2025.naacl-long.568{`}`}
+{`}`}</code></pre>
+        </div>
+        <div class="panel p-5 md:p-6">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">This demo</p>
+          <pre class="mt-3 p-4 rounded-md bg-ink-950 text-xs text-white/80 overflow-x-auto leading-relaxed"><code>@misc{`{`}guntuku2026mapgen,
+  title  = {`{`}MAPGEN: Cinema's Mirror — Shame, Pride and Prejudice{`}`},
+  author = {`{`}Guntuku, Sharath Chandra and collaborators{`}`},
+  year   = {`{`}2026{`}`},
+  note   = {`{`}Penn · World Bank · USC Annenberg Norman Lear Center{`}`},
+  url    = {`{`}https://chandrasg.github.io/norms-in-cinema-demo{`}`}
+{`}`}</code></pre>
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== Team & contact ===== -->
+    <div class="mt-20">
+      <h2 class="font-display text-3xl text-white">Team &amp; contact</h2>
+      <div class="mt-6 grid gap-4 md:grid-cols-3">
+        <div class="panel p-5">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Project lead</p>
+          <p class="mt-2 font-display text-lg text-white">Sharath Chandra Guntuku</p>
+          <p class="mt-1 text-sm text-white/60">Computer &amp; Information Science, University of Pennsylvania</p>
+          <a href="mailto:sharathg@cis.upenn.edu" class="mt-3 inline-block text-sm text-gold-400 hover:underline">
+            sharathg@cis.upenn.edu
+          </a>
+        </div>
+        <div class="panel p-5">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Original paper</p>
+          <p class="mt-2 font-display text-lg text-white">Sunny Rai et al.</p>
+          <p class="mt-1 text-sm text-white/60">First author, NAACL 2025 paper. Refer to the paper for the original methodology.</p>
+        </div>
+        <div class="panel p-5">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Partner organizations</p>
+          <ul class="mt-2 space-y-1 text-sm text-white/75">
+            <li>· University of Pennsylvania</li>
+            <li>· World Bank Group</li>
+            <li>· USC Annenberg Norman Lear Center</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== V2 / partnerships ===== -->
+    <div class="mt-16 panel p-6 md:p-10 border border-gold-400/20 bg-gradient-to-b from-gold-400/[0.04] to-transparent">
+      <p class="text-xs uppercase tracking-[0.25em] text-gold-400">V2 partnerships</p>
+      <h3 class="mt-2 font-display text-2xl text-white max-w-3xl">
+        We're scaling MAPGEN to ~250,000 films across 160 countries.
+      </h3>
+      <p class="mt-3 max-w-2xl text-sm md:text-base text-white/70 leading-relaxed">
+        If you're a funder, festival, studio, or research institution
+        interested in country-level diagnostics, soft-power dashboards, or a
+        longitudinal cross-cultural film research program — we'd like to talk.
+        Email the project lead or use the form on the home page.
+      </p>
+      <div class="mt-5 flex flex-wrap gap-3">
+        <a href="mailto:sharathg@cis.upenn.edu?subject=MAPGEN%20V2%20partnership"
+           class="rounded-full bg-gold-400 text-ink-950 px-5 py-2.5 text-sm font-medium hover:bg-gold-300 transition">
+          Email about V2 →
+        </a>
+        <a href={base + "/#feedback"}
+           class="rounded-full bg-white/5 ring-1 ring-white/10 text-white/80 px-5 py-2.5 text-sm hover:bg-white/10 hover:text-white transition">
+          Use the feedback form
+        </a>
+      </div>
+    </div>
+  </section>
+</Layout>

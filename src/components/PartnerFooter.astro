@@ -38,6 +38,11 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 
     <!-- Resource links -->
     <div class="mt-10 flex flex-wrap items-center gap-x-6 gap-y-3 text-xs">
+      <a href={base + "/about"}
+         class="inline-flex items-center gap-1.5 text-white/70 hover:text-gold-400 transition">
+        <span>⚙</span>
+        Method &amp; citations
+      </a>
       <a href={base + "/paper.pdf"} target="_blank" rel="noopener"
          class="inline-flex items-center gap-1.5 text-white/70 hover:text-gold-400 transition">
         <span>📄</span>

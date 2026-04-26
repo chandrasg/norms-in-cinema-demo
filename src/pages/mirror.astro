@@ -62,7 +62,12 @@ const hollyPrideMale = (data.headline.pride_male_share_holly * 100).toFixed(0);
 
     <!-- ERA TREND — the new finding -->
     <div class="mt-20">
-      <p class="text-xs uppercase tracking-[0.25em] text-white/50 mb-4">Across decades</p>
+      <div class="mb-4 flex flex-wrap items-center justify-between gap-2">
+        <p class="text-xs uppercase tracking-[0.25em] text-white/50">Across decades</p>
+        <a href={import.meta.env.BASE_URL.replace(/\/$/, "") + "/about"} class="text-xs text-white/40 hover:text-gold-400 transition">
+          Method &amp; sample-size notes →
+        </a>
+      </div>
       <EraTrend client:load trend={data.era_trend} />
     </div>
 

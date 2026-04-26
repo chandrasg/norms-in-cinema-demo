@@ -7,8 +7,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 ---
 
 <Layout>
-  <section class="container-kiosk pt-16 pb-24 md:pt-24 md:pb-32">
-    <p class="mb-6 text-xs uppercase tracking-[0.3em] text-gold-400">
+  <section class="container-kiosk pt-10 md:pt-24 pb-24 md:pb-32">
+    <p class="mb-4 text-xs uppercase tracking-[0.3em] text-gold-400">
       Penn · World Bank · Norman Lear Center
     </p>
 
@@ -32,18 +32,43 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
       Cultural surfaces differ. The gendered substrate is shared.
     </p>
 
-    <!-- Paper link callout, prominent under the hero -->
-    <div class="mt-8 flex flex-wrap items-center gap-3">
-      <a href={base + "/paper.pdf"} target="_blank" rel="noopener"
-         class="inline-flex items-center gap-2 rounded-full bg-white/5 px-4 py-2 text-sm text-white/80 ring-1 ring-white/10 hover:bg-white/10 hover:text-white transition">
-        <span class="text-gold-400">📄</span>
-        Read the underlying paper (Rai et al., NAACL 2025) →
-      </a>
-      <a href="#feedback"
-         class="inline-flex items-center gap-2 rounded-full bg-white/5 px-4 py-2 text-sm text-white/80 ring-1 ring-white/10 hover:bg-white/10 hover:text-white transition">
-        <span class="text-gold-400">✉</span>
-        Share how this could help your work
-      </a>
+    <!-- Persona quick-paths + resources -->
+    <div class="mt-8">
+      <p class="text-xs uppercase tracking-[0.25em] text-white/40 mb-3">Choose your path →</p>
+      <div class="grid gap-2 sm:grid-cols-2 lg:grid-cols-4">
+        <a href={base + "/studio#filmmakers"}
+           class="rounded-xl bg-bolly/10 ring-1 ring-bolly/30 px-4 py-3 hover:bg-bolly/15 transition group">
+          <p class="text-[11px] uppercase tracking-[0.18em] text-bolly">For filmmakers</p>
+          <p class="mt-1 text-sm text-white/85">Norm Compass + writers' room checklist →</p>
+        </a>
+        <a href={base + "/studio#funders"}
+           class="rounded-xl bg-gold-400/10 ring-1 ring-gold-400/30 px-4 py-3 hover:bg-gold-400/15 transition group">
+          <p class="text-[11px] uppercase tracking-[0.18em] text-gold-400">For funders &amp; studios</p>
+          <p class="mt-1 text-sm text-white/85">The Diverging Mirror + whitespace map →</p>
+        </a>
+        <a href={base + "/studio#programmers"}
+           class="rounded-xl bg-holly/10 ring-1 ring-holly/30 px-4 py-3 hover:bg-holly/15 transition group">
+          <p class="text-[11px] uppercase tracking-[0.18em] text-holly">For policy &amp; educators</p>
+          <p class="mt-1 text-sm text-white/85">Convergence zone + discussion kit →</p>
+        </a>
+        <a href={base + "/about"}
+           class="rounded-xl bg-white/5 ring-1 ring-white/15 px-4 py-3 hover:bg-white/10 transition group">
+          <p class="text-[11px] uppercase tracking-[0.18em] text-white/60">For researchers</p>
+          <p class="mt-1 text-sm text-white/85">Method, citations, limitations →</p>
+        </a>
+      </div>
+      <div class="mt-4 flex flex-wrap items-center gap-2 text-xs">
+        <a href={base + "/paper.pdf"} target="_blank" rel="noopener"
+           class="inline-flex items-center gap-1.5 rounded-full bg-white/5 px-3 py-1.5 text-white/70 ring-1 ring-white/10 hover:bg-white/10 hover:text-white transition">
+          <span class="text-gold-400">📄</span>
+          Paper (Rai et al., NAACL 2025)
+        </a>
+        <a href="#feedback"
+           class="inline-flex items-center gap-1.5 rounded-full bg-white/5 px-3 py-1.5 text-white/70 ring-1 ring-white/10 hover:bg-white/10 hover:text-white transition">
+          <span class="text-gold-400">✉</span>
+          Share input
+        </a>
+      </div>
     </div>
 
     <div class="mt-12 grid gap-6 md:grid-cols-2 lg:grid-cols-4">

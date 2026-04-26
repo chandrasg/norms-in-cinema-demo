@@ -47,21 +47,21 @@ export default function ConvergenceZone({ items }: { items: ConvergenceItem[] })
                 </span>
                 <span className="font-display text-base text-white flex-1">{t.label}</span>
               </div>
-              <div className="ml-8 grid grid-cols-[60px_1fr_auto] items-center gap-3 text-xs">
+              <div className="ml-2 sm:ml-8 grid grid-cols-[44px_1fr_auto] sm:grid-cols-[60px_1fr_auto] items-center gap-2 sm:gap-3 text-xs">
                 <span className="text-bolly/80 text-right">Bolly</span>
                 <div className="h-2 rounded-full bg-white/5 overflow-hidden">
                   <div className="h-full bg-bolly/60" style={{ width: `${wB}%` }} />
                 </div>
-                <span className="tabular-nums text-white/60 w-24">
+                <span className="tabular-nums text-white/60 whitespace-nowrap">
                   {t.n_bolly} · {(t.share_bolly * 100).toFixed(1)}%
                 </span>
               </div>
-              <div className="ml-8 mt-1 grid grid-cols-[60px_1fr_auto] items-center gap-3 text-xs">
+              <div className="ml-2 sm:ml-8 mt-1 grid grid-cols-[44px_1fr_auto] sm:grid-cols-[60px_1fr_auto] items-center gap-2 sm:gap-3 text-xs">
                 <span className="text-holly/80 text-right">Holly</span>
                 <div className="h-2 rounded-full bg-white/5 overflow-hidden">
                   <div className="h-full bg-holly/60" style={{ width: `${wH}%` }} />
                 </div>
-                <span className="tabular-nums text-white/60 w-24">
+                <span className="tabular-nums text-white/60 whitespace-nowrap">
                   {t.n_holly} · {(t.share_holly * 100).toFixed(1)}%
                 </span>
               </div>

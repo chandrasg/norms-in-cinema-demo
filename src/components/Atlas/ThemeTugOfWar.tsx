@@ -61,7 +61,8 @@ export default function ThemeTugOfWar({ themes, emotion }: Props) {
               <li key={t.id}>
                 <button
                   onClick={() => setSelected(active ? null : t.id)}
-                  className={`relative flex h-10 w-full items-center transition group ${active ? "bg-white/5" : "hover:bg-white/5"} rounded-md`}
+                  className={`relative flex h-12 sm:h-10 w-full items-center transition group ${active ? "bg-white/5" : "hover:bg-white/5"} rounded-md`}
+                  aria-pressed={active}
                 >
                   {/* Left half (Bolly bar) */}
                   <div className="relative flex h-full w-1/2 items-center justify-end">
@@ -72,7 +73,7 @@ export default function ThemeTugOfWar({ themes, emotion }: Props) {
                       />
                     )}
                     {isLeft && (
-                      <span className="relative z-10 mr-3 text-sm font-medium text-white">
+                      <span className="relative z-10 mr-2 sm:mr-3 text-xs sm:text-sm font-medium text-white truncate max-w-[90%]">
                         {t.label}
                       </span>
                     )}
@@ -88,7 +89,7 @@ export default function ThemeTugOfWar({ themes, emotion }: Props) {
                       />
                     )}
                     {!isLeft && (
-                      <span className="relative z-10 ml-3 text-sm font-medium text-white">
+                      <span className="relative z-10 ml-2 sm:ml-3 text-xs sm:text-sm font-medium text-white truncate max-w-[90%]">
                         {t.label}
                       </span>
                     )}

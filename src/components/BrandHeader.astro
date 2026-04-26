@@ -1,44 +1,109 @@
 ---
 interface Props {
-  station?: string;  // "mirror" | "atlas" | "lens" | undefined for index
+  station?: string;  // "mirror" | "atlas" | "lens" | "studio" | "about" | undefined for index
 }
 const { station } = Astro.props;
 const base = import.meta.env.BASE_URL;
+
+const links = [
+  { href: base + "/mirror", label: "The Mirror", id: "mirror" },
+  { href: base + "/atlas",  label: "The Atlas",  id: "atlas" },
+  { href: base + "/lens",   label: "The Lens",   id: "lens" },
+  { href: base + "/studio", label: "The Studio", id: "studio" },
+  { href: base + "/about",  label: "Method",     id: "about" },
+];
 ---
 
-<header class="border-b border-white/5">
-  <div class="container-kiosk flex items-center justify-between py-5">
-    <a href={base + "/"} class="flex items-center gap-3 group">
+<header class="border-b border-white/5 sticky top-0 z-40 bg-ink-950/80 backdrop-blur">
+  <div class="container-kiosk flex items-center justify-between py-4 md:py-5">
+    <a href={base + "/"} class="flex items-center gap-3 group min-w-0">
       <img
         src={base + "/logos/file_00000000420c61f6838119d65d059d02 (1).png"}
         alt=""
-        class="h-9 w-9 rounded-md ring-1 ring-white/10"
+        class="h-9 w-9 rounded-md ring-1 ring-white/10 flex-none"
       />
-      <div>
+      <div class="min-w-0">
         <p class="text-xs uppercase tracking-[0.25em] text-gold-400 transition group-hover:text-gold-300">
           MAPGEN
         </p>
-        <p class="text-sm text-white/70 -mt-0.5 font-display italic">Cinema's Mirror</p>
+        <p class="text-sm text-white/70 -mt-0.5 font-display italic truncate">Cinema's Mirror</p>
       </div>
     </a>
 
-    <nav class="hidden items-center gap-1 md:flex">
-      <a
-        href={base + "/mirror"}
-        class={`rounded-full px-4 py-2 text-sm transition ${station === "mirror" ? "bg-white/10 text-white" : "text-white/60 hover:text-white"}`}
-      >The Mirror</a>
-      <a
-        href={base + "/atlas"}
-        class={`rounded-full px-4 py-2 text-sm transition ${station === "atlas" ? "bg-white/10 text-white" : "text-white/60 hover:text-white"}`}
-      >The Atlas</a>
-      <a
-        href={base + "/lens"}
-        class={`rounded-full px-4 py-2 text-sm transition ${station === "lens" ? "bg-white/10 text-white" : "text-white/60 hover:text-white"}`}
-      >The Lens</a>
-      <a
-        href={base + "/studio"}
-        class={`rounded-full px-4 py-2 text-sm transition ${station === "studio" ? "bg-white/10 text-white" : "text-white/60 hover:text-white"}`}
-      >The Studio</a>
+    <!-- Desktop nav -->
+    <nav class="hidden items-center gap-1 md:flex" aria-label="Primary">
+      {links.map(l => (
+        <a
+          href={l.href}
+          class={`rounded-full px-3 lg:px-4 py-2 text-sm transition ${station === l.id ? "bg-white/10 text-white" : "text-white/60 hover:text-white"}`}
+        >{l.label}</a>
+      ))}
     </nav>
+
+    <!-- Mobile menu toggle -->
+    <button
+      id="mobile-nav-toggle"
+      aria-label="Open menu"
+      aria-controls="mobile-nav"
+      aria-expanded="false"
+      class="md:hidden inline-flex items-center justify-center h-11 w-11 rounded-full ring-1 ring-white/10 text-white/80 hover:bg-white/5 active:bg-white/10"
+    >
+      <svg id="mobile-nav-icon-open" class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+        <line x1="4" y1="7" x2="20" y2="7" />
+        <line x1="4" y1="12" x2="20" y2="12" />
+        <line x1="4" y1="17" x2="20" y2="17" />
+      </svg>
+      <svg id="mobile-nav-icon-close" class="h-5 w-5 hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+        <line x1="6" y1="6" x2="18" y2="18" />
+        <line x1="6" y1="18" x2="18" y2="6" />
+      </svg>
+    </button>
   </div>
+
+  <!-- Mobile drawer -->
+  <nav
+    id="mobile-nav"
+    aria-label="Primary mobile"
+    class="md:hidden hidden border-t border-white/5 bg-ink-950/95 backdrop-blur"
+  >
+    <ul class="container-kiosk py-3 grid gap-1">
+      {links.map(l => (
+        <li>
+          <a
+            href={l.href}
+            class={`block rounded-lg px-4 py-3 text-base transition ${station === l.id ? "bg-white/10 text-white" : "text-white/75 hover:bg-white/5 hover:text-white"}`}
+          >{l.label}</a>
+        </li>
+      ))}
+    </ul>
+  </nav>
 </header>
+
+<script is:inline>
+  (function () {
+    const btn = document.getElementById("mobile-nav-toggle");
+    const drawer = document.getElementById("mobile-nav");
+    const iconOpen = document.getElementById("mobile-nav-icon-open");
+    const iconClose = document.getElementById("mobile-nav-icon-close");
+    if (!btn || !drawer) return;
+    function setOpen(open) {
+      drawer.classList.toggle("hidden", !open);
+      btn.setAttribute("aria-expanded", open ? "true" : "false");
+      btn.setAttribute("aria-label", open ? "Close menu" : "Open menu");
+      if (iconOpen && iconClose) {
+        iconOpen.classList.toggle("hidden", open);
+        iconClose.classList.toggle("hidden", !open);
+      }
+    }
+    btn.addEventListener("click", () => {
+      const isOpen = btn.getAttribute("aria-expanded") === "true";
+      setOpen(!isOpen);
+    });
+    // Close drawer when a link is clicked (in case browser doesn't navigate cross-route immediately)
+    drawer.querySelectorAll("a").forEach(a => a.addEventListener("click", () => setOpen(false)));
+    // Close on Esc
+    document.addEventListener("keydown", e => {
+      if (e.key === "Escape") setOpen(false);
+    });
+  })();
+</script>
