@@ -25,11 +25,38 @@ const lensEndpoint = import.meta.env.PUBLIC_LENS_ENDPOINT || "";
       weight of each.
     </p>
 
-    <div class="mt-12">
+    <!-- Takeaways at top -->
+    <div class="mt-12 grid gap-4 md:grid-cols-3">
+      <div class="panel p-6">
+        <p class="text-xs uppercase tracking-[0.2em] text-bolly">For your own work</p>
+        <p class="mt-2 text-sm text-white/70 leading-snug">
+          Pick a film below to see every shame and pride dialogue we extracted, the
+          themes it surfaces, and who carries the weight.
+        </p>
+      </div>
+      <div class="panel p-6">
+        <p class="text-xs uppercase tracking-[0.2em] text-holly">For your next scene</p>
+        <p class="mt-2 text-sm text-white/70 leading-snug">
+          Paste a draft below — we'll read it through both cultural lenses and surface
+          what an Indian audience might register that an American one would miss, and vice versa.
+        </p>
+      </div>
+      <div class="panel p-6">
+        <p class="text-xs uppercase tracking-[0.2em] text-gold-400">A caveat</p>
+        <p class="mt-2 text-sm text-white/70 leading-snug">
+          The corpus is 12,000 dialogues from ~5,400 films. Patterns are real;
+          individual readings are exploratory, not peer-reviewed claims.
+        </p>
+      </div>
+    </div>
+
+    <div class="mt-16">
+      <p class="text-xs uppercase tracking-[0.25em] text-white/50 mb-4">Browse the corpus</p>
       <FilmPicker client:load filmIndex={lensIndex} basePath={lensDataPath} />
     </div>
 
     <div class="mt-24">
+      <p class="text-xs uppercase tracking-[0.25em] text-white/50 mb-4">Bring your own scene</p>
       <PasteScene client:load endpoint={lensEndpoint} />
     </div>
   </section>

@@ -4,6 +4,9 @@ import ThemeTugOfWar from "../components/Atlas/ThemeTugOfWar.tsx";
 import FilmSearch from "../components/Atlas/FilmSearch.tsx";
 
 const data = (await import("../../public/data/station2_atlas.json", { assert: { type: "json" } })).default;
+
+const shameThemeCount = data.themes.filter((t: any) => t.emotion === "shame").length;
+const prideThemeCount = data.themes.filter((t: any) => t.emotion === "pride").length;
 ---
 
 <Layout title="The Atlas — MAPGEN: Cinema's Mirror" station="atlas">
@@ -11,16 +14,51 @@ const data = (await import("../../public/data/station2_atlas.json", { assert: { 
     <p class="text-xs uppercase tracking-[0.3em] text-gold-400">Station 2</p>
     <h1 class="mt-3 font-display text-kiosk-xl text-white max-w-3xl">The Atlas.</h1>
     <p class="mt-4 max-w-2xl text-kiosk-md text-white/75 leading-snug">
-      Two industries. Twenty-four shame themes. Fifteen pride themes.
+      Two industries. {shameThemeCount} shame themes. {prideThemeCount} pride themes.
       The center line is balance. Every bar is a finding.
     </p>
 
+    <!-- Takeaways at top -->
+    <div class="mt-12 grid gap-4 md:grid-cols-3">
+      <div class="panel p-6">
+        <p class="text-xs uppercase tracking-[0.2em] text-bolly">Bollywood leans into</p>
+        <p class="mt-2 font-display text-xl text-white leading-tight">
+          Sexuality. Marriage. Family honor.
+        </p>
+        <p class="mt-3 text-sm text-white/65">
+          The community's gaze polices intimate life. Shame is delivered
+          publicly and inherited collectively.
+        </p>
+      </div>
+      <div class="panel p-6">
+        <p class="text-xs uppercase tracking-[0.2em] text-holly">Hollywood leans into</p>
+        <p class="mt-2 font-display text-xl text-white leading-tight">
+          Poverty. Self-image. Negligence.
+        </p>
+        <p class="mt-3 text-sm text-white/65">
+          The individual's failure to live up to themselves. Shame is
+          self-administered behind closed doors.
+        </p>
+      </div>
+      <div class="panel p-6">
+        <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Where they converge</p>
+        <p class="mt-2 font-display text-xl text-white leading-tight">
+          Women's bodies, both languages.
+        </p>
+        <p class="mt-3 text-sm text-white/65">
+          <em>Sexual Harassment</em>, <em>Modesty</em>, <em>Promiscuity</em> all lean Bollywood-ward —
+          but they exist on both sides. Different vocabulary. Same line.
+        </p>
+      </div>
+    </div>
+
     <!-- SHAME tug-of-war -->
-    <div class="mt-16">
+    <div class="mt-20">
       <h2 class="font-display text-3xl text-white">What evokes shame?</h2>
       <p class="mt-2 text-sm text-white/60 max-w-xl">
-        The Bollywood side leans into sexuality, gender roles, family standing.
-        The Hollywood side leans into poverty, self-image, and lack of accountability.
+        Each bar's length is the cultural Δ — how much more or less prominent
+        that theme is in one industry vs. the other. Click any theme to read
+        examples from the films.
       </p>
       <div class="mt-8">
         <ThemeTugOfWar client:load themes={data.themes} emotion="shame" />
@@ -28,25 +66,25 @@ const data = (await import("../../public/data/station2_atlas.json", { assert: { 
     </div>
 
     <!-- PRIDE tug-of-war -->
-    <div class="mt-32">
+    <div class="mt-24">
       <h2 class="font-display text-3xl text-white">What evokes pride?</h2>
       <p class="mt-2 text-sm text-white/60 max-w-xl">
-        Bollywood pride is collective and male — son's accomplishments,
-        nation, family honor. Hollywood pride is individual — identity,
-        ambition, financial success.
+        Bollywood pride is collective and male — son's accomplishments, nation,
+        family honor. Hollywood pride is individual — identity, ambition,
+        financial success.
       </p>
       <div class="mt-8">
         <ThemeTugOfWar client:load themes={data.themes} emotion="pride" />
       </div>
     </div>
 
-    <!-- Film search -->
-    <div class="mt-32">
+    <!-- Film search — fixed sort, sensible defaults -->
+    <div class="mt-24">
       <FilmSearch client:load films={data.films_index} />
     </div>
 
     <!-- Cultural Pattern essay cards -->
-    <div class="mt-32 grid gap-6 md:grid-cols-3">
+    <div class="mt-24 grid gap-6 md:grid-cols-3">
       <article class="panel p-6">
         <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Pattern</p>
         <h3 class="mt-2 font-display text-xl text-white">Why is Bollywood pride almost always male?</h3>

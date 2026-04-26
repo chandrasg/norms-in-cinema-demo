@@ -2850,28 +2850,6 @@
   ],
   "films_index": [
     {
-      "id": "359983",
-      "title": "The Lion Guard: Return of the Roar",
-      "year": "2016",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/pzcQ7cQBHIdsKLN4exd7bCyy1pk.jpg",
-      "shame_count": 0,
-      "pride_count": 44,
-      "total_count": 44
-    },
-    {
-      "id": "57586",
-      "title": "African Cats",
-      "year": "2011",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/nERPMF2kHjc1slLHZYZGwcWX9kg.jpg",
-      "shame_count": 0,
-      "pride_count": 39,
-      "total_count": 39
-    },
-    {
       "id": "56317",
       "title": "Lajja",
       "year": "2001",
@@ -2894,17 +2872,6 @@
       "total_count": 32
     },
     {
-      "id": "6439",
-      "title": "Racing Stripes",
-      "year": "2005",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/epDsuf5oUdzTFYHqV2IRcyy8Rwc.jpg",
-      "shame_count": 0,
-      "pride_count": 29,
-      "total_count": 29
-    },
-    {
       "id": "19404",
       "title": "Dilwale Dulhania Le Jayenge",
       "year": "1995",
@@ -2924,17 +2891,6 @@
       "poster_path": "/cZsSavbfxzn2aoi1iHk49cVxupO.jpg",
       "shame_count": 2,
       "pride_count": 24,
-      "total_count": 26
-    },
-    {
-      "id": "678835",
-      "title": "Heropanti 2",
-      "year": "2022",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/2TxkhMrM98iUb74Dqbkdco3ED0X.jpg",
-      "shame_count": 26,
-      "pride_count": 0,
       "total_count": 26
     },
     {
@@ -3070,17 +3026,6 @@
       "total_count": 16
     },
     {
-      "id": "418235",
-      "title": "Lipstick Under My Burkha",
-      "year": "2017",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg",
-      "shame_count": 16,
-      "pride_count": 0,
-      "total_count": 16
-    },
-    {
       "id": "177360",
       "title": "Ab Tumhare Hawale Watan Saathiyo",
       "year": "2004",
@@ -3169,17 +3114,6 @@
       "total_count": 15
     },
     {
-      "id": "13643",
-      "title": "George Carlin: It's Bad for Ya!",
-      "year": "2008",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/m9fIvowFHpVjGn5OzFKudp2XJLD.jpg",
-      "shame_count": 0,
-      "pride_count": 15,
-      "total_count": 15
-    },
-    {
       "id": "60124",
       "title": "Apne",
       "year": "2007",
@@ -3199,17 +3133,6 @@
       "poster_path": "/3WfK4t6FjLBV7L95SvbgthCOfVi.jpg",
       "shame_count": 10,
       "pride_count": 4,
-      "total_count": 14
-    },
-    {
-      "id": "21459",
-      "title": "Chupke Chupke",
-      "year": "1975",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/yNZf2yhQE42f3uIcR1IXOiMQ72c.jpg",
-      "shame_count": 14,
-      "pride_count": 0,
       "total_count": 14
     },
     {
@@ -3290,28 +3213,6 @@
       "total_count": 14
     },
     {
-      "id": "32499",
-      "title": "The Bad and the Beautiful",
-      "year": "1952",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/ajAXzTiPkL7JxeCRw5lQBqrKNGx.jpg",
-      "shame_count": 0,
-      "pride_count": 14,
-      "total_count": 14
-    },
-    {
-      "id": "673366",
-      "title": "Chori Chori",
-      "year": "1972",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/2ATg1bVX0ilund4afp9UPsXpPBP.jpg",
-      "shame_count": 13,
-      "pride_count": 0,
-      "total_count": 13
-    },
-    {
       "id": "138934",
       "title": "Damini",
       "year": "1993",
@@ -3389,28 +3290,6 @@
       "total_count": 13
     },
     {
-      "id": "917",
-      "title": "Mother India",
-      "year": "1957",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/AlfM9yLcK1rhv73iNbDiOU9vnnu.jpg",
-      "shame_count": 13,
-      "pride_count": 0,
-      "total_count": 13
-    },
-    {
-      "id": "311318",
-      "title": "Aaye Din Bahar Ke",
-      "year": "1966",
-      "industry": "bolly",
-      "country": "",
-      "poster_path": "/8sM0hsG87WhianHtMtrNHDnvZNs.jpg",
-      "shame_count": 13,
-      "pride_count": 0,
-      "total_count": 13
-    },
-    {
       "id": "326143",
       "title": "Sikandar",
       "year": "1941",
@@ -3455,28 +3334,6 @@
       "total_count": 13
     },
     {
-      "id": "17447",
-      "title": "Jeffrey",
-      "year": "1995",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/cacIqtIkUaD5xYqUUN1J7qJjciQ.jpg",
-      "shame_count": 0,
-      "pride_count": 13,
-      "total_count": 13
-    },
-    {
-      "id": "29534",
-      "title": "Amar Prem",
-      "year": "1972",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg",
-      "shame_count": 12,
-      "pride_count": 0,
-      "total_count": 12
-    },
-    {
       "id": "114436",
       "title": "Anjaam",
       "year": "1994",
@@ -3507,17 +3364,6 @@
       "poster_path": "/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg",
       "shame_count": 2,
       "pride_count": 10,
-      "total_count": 12
-    },
-    {
-      "id": "562668",
-      "title": "Chhoti Bahen",
-      "year": "1959",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/6vOOgzh1hE5AXj3iF4BsiZx6YOW.jpg",
-      "shame_count": 12,
-      "pride_count": 0,
       "total_count": 12
     },
     {
@@ -3672,17 +3518,6 @@
       "poster_path": "/tIRmjfaLmVHjGFaIcNGD3hggvbO.jpg",
       "shame_count": 6,
       "pride_count": 6,
-      "total_count": 12
-    },
-    {
-      "id": "16337",
-      "title": "The Texas Chainsaw Massacre 2",
-      "year": "1986",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/cO1Dvg7k87lHSPOdumn3ddJEKdX.jpg",
-      "shame_count": 12,
-      "pride_count": 0,
       "total_count": 12
     },
     {
@@ -3895,17 +3730,6 @@
       "total_count": 11
     },
     {
-      "id": "72051",
-      "title": "Garv: Pride and Honour",
-      "year": "2004",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/9lqPTKndjMWfPmBRyH8rWw7bH5I.jpg",
-      "shame_count": 0,
-      "pride_count": 11,
-      "total_count": 11
-    },
-    {
       "id": "6521",
       "title": "The Contender",
       "year": "2000",
@@ -3983,17 +3807,6 @@
       "total_count": 10
     },
     {
-      "id": "272176",
-      "title": "Bhagwaan Dada",
-      "year": "1986",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/gNF4XvbHsouWGBxpdkg0hUpPyuA.jpg",
-      "shame_count": 10,
-      "pride_count": 0,
-      "total_count": 10
-    },
-    {
       "id": "117782",
       "title": "Chaar Din Ki Chandni",
       "year": "2012",
@@ -4002,17 +3815,6 @@
       "poster_path": "/6z1PlqEuv8Ju5ivcbk9p3VTghkk.jpg",
       "shame_count": 8,
       "pride_count": 2,
-      "total_count": 10
-    },
-    {
-      "id": "45002",
-      "title": "Chamatkar",
-      "year": "1992",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/tJlGNBkE0DNQ9iLkHMY2gsCOza3.jpg",
-      "shame_count": 10,
-      "pride_count": 0,
       "total_count": 10
     },
     {
@@ -4038,17 +3840,6 @@
       "total_count": 10
     },
     {
-      "id": "211277",
-      "title": "Dhaai Akshar Prem Ke",
-      "year": "2000",
-      "industry": "bolly",
-      "country": "",
-      "poster_path": "/gabkUhs9jgF88XuIcn2ySre5HqM.jpg",
-      "shame_count": 10,
-      "pride_count": 0,
-      "total_count": 10
-    },
-    {
       "id": "304191",
       "title": "Dharti",
       "year": "1970",
@@ -4057,28 +3848,6 @@
       "poster_path": "/5i1Nu9HbDdePhU19nHTqDta5bDA.jpg",
       "shame_count": 4,
       "pride_count": 6,
-      "total_count": 10
-    },
-    {
-      "id": "110847",
-      "title": "Dhool Ka Phool",
-      "year": "1959",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/4ZKIWzh7CJVkxPy80PRNrzeTIDB.jpg",
-      "shame_count": 10,
-      "pride_count": 0,
-      "total_count": 10
-    },
-    {
-      "id": "911597",
-      "title": "Dhoop Chhaon",
-      "year": "1977",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/oY5iUxQzAhLReeByQEYNqBVfe1l.jpg",
-      "shame_count": 10,
-      "pride_count": 0,
       "total_count": 10
     },
     {
@@ -4101,17 +3870,6 @@
       "poster_path": "/6CDOnwmTdSufgTai5uKaTaqnBbJ.jpg",
       "shame_count": 6,
       "pride_count": 4,
-      "total_count": 10
-    },
-    {
-      "id": "316821",
-      "title": "Professor",
-      "year": "1962",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/qEM4qrfLVO93WYKgMiCLHQOaLib.jpg",
-      "shame_count": 10,
-      "pride_count": 0,
       "total_count": 10
     },
     {
@@ -4313,17 +4071,6 @@
       "total_count": 10
     },
     {
-      "id": "108343",
-      "title": "Nikaah",
-      "year": "1982",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/zWYDSWWLVvlNU2GFsj0zSHdF0YU.jpg",
-      "shame_count": 10,
-      "pride_count": 0,
-      "total_count": 10
-    },
-    {
       "id": "195739",
       "title": "Rangeelay",
       "year": "2013",
@@ -4456,17 +4203,6 @@
       "total_count": 10
     },
     {
-      "id": "432527",
-      "title": "Padmaavat",
-      "year": "2018",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/5kk71s8Vmvt8XQOojevhTA5QcB0.jpg",
-      "shame_count": 0,
-      "pride_count": 10,
-      "total_count": 10
-    },
-    {
       "id": "175555",
       "title": "A Madea Christmas",
       "year": "2013",
@@ -4577,39 +4313,6 @@
       "total_count": 10
     },
     {
-      "id": "229580",
-      "title": "Crazy Sexy Cool: The TLC Story",
-      "year": "2013",
-      "industry": "holly",
-      "country": "",
-      "poster_path": "/gaFZTDtzjN5kZgk3M83YPCCzHVG.jpg",
-      "shame_count": 0,
-      "pride_count": 10,
-      "total_count": 10
-    },
-    {
-      "id": "87149",
-      "title": "An Evening in Paris",
-      "year": "1967",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/xlSfgJ3HW9nhUwjVyqZzHgAiatg.jpg",
-      "shame_count": 9,
-      "pride_count": 0,
-      "total_count": 9
-    },
-    {
-      "id": "171492",
-      "title": "Ankur: The Seedling",
-      "year": "1974",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/jrchYJ6zRkUZoWbhV4XQrnzLzXA.jpg",
-      "shame_count": 9,
-      "pride_count": 0,
-      "total_count": 9
-    },
-    {
       "id": "456567",
       "title": "Bhoomi",
       "year": "2017",
@@ -4687,17 +4390,6 @@
       "total_count": 9
     },
     {
-      "id": "311469",
-      "title": "Pitaah",
-      "year": "2002",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/cg3GAKWQ8EjkdItuRqdACO1OpZh.jpg",
-      "shame_count": 9,
-      "pride_count": 0,
-      "total_count": 9
-    },
-    {
       "id": "211819",
       "title": "Raja Babu",
       "year": "1994",
@@ -4750,17 +4442,6 @@
       "poster_path": "/t8bkKvDJhLKR9mn0xHKVAnVY27r.jpg",
       "shame_count": 2,
       "pride_count": 7,
-      "total_count": 9
-    },
-    {
-      "id": "26229",
-      "title": "Hijack",
-      "year": "2008",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/st3qds7lR8E7I97zAFsMqzMbJya.jpg",
-      "shame_count": 9,
-      "pride_count": 0,
       "total_count": 9
     },
     {
@@ -4841,17 +4522,6 @@
       "total_count": 9
     },
     {
-      "id": "269758",
-      "title": "Ladies Tailor",
-      "year": "2006",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/uNXkMsqd8qyowSt2wS2nY99ARHp.jpg",
-      "shame_count": 9,
-      "pride_count": 0,
-      "total_count": 9
-    },
-    {
       "id": "19666",
       "title": "Lagaan: Once Upon a Time in India",
       "year": "2001",
@@ -4882,17 +4552,6 @@
       "poster_path": "/nbn9Hxj7GEBxrZ8biAfIjhYSs1Y.jpg",
       "shame_count": 5,
       "pride_count": 4,
-      "total_count": 9
-    },
-    {
-      "id": "103865",
-      "title": "Mera Gaon Mera Desh",
-      "year": "1971",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/gYFzcW8TuWqnMwyEAuMKmO7kuez.jpg",
-      "shame_count": 9,
-      "pride_count": 0,
       "total_count": 9
     },
     {
@@ -4995,28 +4654,6 @@
       "total_count": 9
     },
     {
-      "id": "403858",
-      "title": "Budhia Singh: Born to Run",
-      "year": "2016",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/5kvr2gx6j3XjueQfkYsGPqvGSQ.jpg",
-      "shame_count": 0,
-      "pride_count": 9,
-      "total_count": 9
-    },
-    {
-      "id": "401552",
-      "title": "Sachin: A Billion Dreams",
-      "year": "2017",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/ysOy2g2NcDRszOM8YF14aru82fy.jpg",
-      "shame_count": 0,
-      "pride_count": 9,
-      "total_count": 9
-    },
-    {
       "id": "1403499",
       "title": "Ragamuffin",
       "year": "2025",
@@ -5083,17 +4720,6 @@
       "total_count": 9
     },
     {
-      "id": "27459",
-      "title": "Little Murders",
-      "year": "1971",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/i2QOxh6pwgy1MUF4bBYDVdPwbWa.jpg",
-      "shame_count": 9,
-      "pride_count": 0,
-      "total_count": 9
-    },
-    {
       "id": "24961",
       "title": "The Wiz",
       "year": "1978",
@@ -5102,17 +4728,6 @@
       "poster_path": "/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
       "shame_count": 8,
       "pride_count": 1,
-      "total_count": 9
-    },
-    {
-      "id": "14275",
-      "title": "Hoop Dreams",
-      "year": "1994",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/gLzHl2XBtVwycl8DxdOXRHPm8G3.jpg",
-      "shame_count": 0,
-      "pride_count": 9,
       "total_count": 9
     },
     {
@@ -5168,17 +4783,6 @@
       "poster_path": "/jHf44xkb3iokH5Gh4A0FzZMgoxj.jpg",
       "shame_count": 6,
       "pride_count": 2,
-      "total_count": 8
-    },
-    {
-      "id": "60389",
-      "title": "Bawarchi",
-      "year": "1972",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
-      "shame_count": 8,
-      "pride_count": 0,
       "total_count": 8
     },
     {
@@ -5270,17 +4874,6 @@
       "total_count": 8
     },
     {
-      "id": "25519",
-      "title": "Pardes",
-      "year": "1997",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/cUiM7V2hK540SN9Wd6UXZPGcDBH.jpg",
-      "shame_count": 8,
-      "pride_count": 0,
-      "total_count": 8
-    },
-    {
       "id": "307612",
       "title": "Pyar Hi Pyar",
       "year": "1969",
@@ -5366,17 +4959,6 @@
       "poster_path": "/lGxipu6pNdb3ywPlCm0nPaXb5tY.jpg",
       "shame_count": 3,
       "pride_count": 5,
-      "total_count": 8
-    },
-    {
-      "id": "464315",
-      "title": "Lal Patthar",
-      "year": "1971",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "",
-      "shame_count": 8,
-      "pride_count": 0,
       "total_count": 8
     },
     {
@@ -5490,17 +5072,6 @@
       "total_count": 8
     },
     {
-      "id": "86604",
-      "title": "Tom, Dick and Harry",
-      "year": "1941",
-      "industry": "bolly",
-      "country": "US",
-      "poster_path": "/aZnucljYes0E8NkzH3Bg5jWiQg.jpg",
-      "shame_count": 8,
-      "pride_count": 0,
-      "total_count": 8
-    },
-    {
       "id": "400451",
       "title": "Dost",
       "year": "1974",
@@ -5564,39 +5135,6 @@
       "poster_path": "/dhIVF43jCqVzxuo11hYcHQxjzS6.jpg",
       "shame_count": 3,
       "pride_count": 5,
-      "total_count": 8
-    },
-    {
-      "id": "48390",
-      "title": "Gangaa Jamunaa Saraswathi",
-      "year": "1988",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/cMOCDG5imInIKlx4tbFrH8JeL9w.jpg",
-      "shame_count": 8,
-      "pride_count": 0,
-      "total_count": 8
-    },
-    {
-      "id": "85053",
-      "title": "Jannat 2",
-      "year": "2012",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/2nQgcZb9hGzU2Dz8cYC5JoxkYBi.jpg",
-      "shame_count": 0,
-      "pride_count": 8,
-      "total_count": 8
-    },
-    {
-      "id": "11518",
-      "title": "Mohabbatein",
-      "year": "2000",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/dDsYaBazrYKg9bv8qgsEohZQMat.jpg",
-      "shame_count": 0,
-      "pride_count": 8,
       "total_count": 8
     },
     {
@@ -5754,72 +5292,6 @@
       "total_count": 8
     },
     {
-      "id": "228203",
-      "title": "McFarland, USA",
-      "year": "2015",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/yyhniD8A7Mv6SOn8oo1Ba2K0mKc.jpg",
-      "shame_count": 0,
-      "pride_count": 8,
-      "total_count": 8
-    },
-    {
-      "id": "1013482",
-      "title": "Borderline",
-      "year": "2025",
-      "industry": "holly",
-      "country": "CA|US",
-      "poster_path": "/hUrNKVrkMN7sdt0oAioopMcxyoq.jpg",
-      "shame_count": 0,
-      "pride_count": 8,
-      "total_count": 8
-    },
-    {
-      "id": "120802",
-      "title": "Noobz",
-      "year": "2013",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/6MpGb2U26E4n9OYYicleucaNHbe.jpg",
-      "shame_count": 0,
-      "pride_count": 8,
-      "total_count": 8
-    },
-    {
-      "id": "20583",
-      "title": "Love's Long Journey",
-      "year": "2005",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/bYPJFCO5h2Cd46ObIqeuelNX8EW.jpg",
-      "shame_count": 0,
-      "pride_count": 8,
-      "total_count": 8
-    },
-    {
-      "id": "118677",
-      "title": "Why Stop Now?",
-      "year": "2012",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/xEaVD2RJADGWUhlBkhGV0vQoHrP.jpg",
-      "shame_count": 0,
-      "pride_count": 8,
-      "total_count": 8
-    },
-    {
-      "id": "38357",
-      "title": "Morning Glory",
-      "year": "2010",
-      "industry": "holly",
-      "country": "US|GB",
-      "poster_path": "/aFRXEoB3QkeHNHYmVGC3uzFSol8.jpg",
-      "shame_count": 0,
-      "pride_count": 8,
-      "total_count": 8
-    },
-    {
       "id": "78880",
       "title": "Amman Kovil Kizhakale",
       "year": "1986",
@@ -5828,17 +5300,6 @@
       "poster_path": "/cvNyhndV2ALXgsmeF5JaDQ712UT.jpg",
       "shame_count": 4,
       "pride_count": 3,
-      "total_count": 7
-    },
-    {
-      "id": "297213",
-      "title": "Aunty No. 1",
-      "year": "1998",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/strR8CGBZZ5QAgyVNT5r5EdNShE.jpg",
-      "shame_count": 7,
-      "pride_count": 0,
       "total_count": 7
     },
     {
@@ -5905,28 +5366,6 @@
       "poster_path": "/s4Yi1RbMyyN3hH2hElwvluP2rOG.jpg",
       "shame_count": 1,
       "pride_count": 6,
-      "total_count": 7
-    },
-    {
-      "id": "444988",
-      "title": "Biradari",
-      "year": "1966",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/jN97csce4sLiDcYIOvP8EJacKjy.jpg",
-      "shame_count": 7,
-      "pride_count": 0,
-      "total_count": 7
-    },
-    {
-      "id": "134446",
-      "title": "Chachi 420",
-      "year": "1997",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/45i934IvoLvuCvhus13n8MxGBV4.jpg",
-      "shame_count": 7,
-      "pride_count": 0,
       "total_count": 7
     },
     {
@@ -6029,17 +5468,6 @@
       "total_count": 7
     },
     {
-      "id": "528028",
-      "title": "Swati",
-      "year": "1986",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/2x7uwiGoAvKTa0ydxdnaVO39IUB.jpg",
-      "shame_count": 7,
-      "pride_count": 0,
-      "total_count": 7
-    },
-    {
       "id": "499179",
       "title": "Saathi",
       "year": "1968",
@@ -6048,17 +5476,6 @@
       "poster_path": "/gQG7ZwS4JKl6SynrqO9UXSRrnMc.jpg",
       "shame_count": 2,
       "pride_count": 5,
-      "total_count": 7
-    },
-    {
-      "id": "393421",
-      "title": "Sarbjit",
-      "year": "2016",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/pJTWc13iJeLD0zWpjRBZMBGZwky.jpg",
-      "shame_count": 7,
-      "pride_count": 0,
       "total_count": 7
     },
     {
@@ -6081,28 +5498,6 @@
       "poster_path": "",
       "shame_count": 4,
       "pride_count": 3,
-      "total_count": 7
-    },
-    {
-      "id": "118632",
-      "title": "Ghatak",
-      "year": "1996",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/iuoKFDCV58P5GCqlNTi9S2X2Q3C.jpg",
-      "shame_count": 7,
-      "pride_count": 0,
-      "total_count": 7
-    },
-    {
-      "id": "14546",
-      "title": "Golmaal Returns",
-      "year": "2008",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/2X6ZSlnBpgsOpH0ELDraWTD4QO7.jpg",
-      "shame_count": 7,
-      "pride_count": 0,
       "total_count": 7
     },
     {
@@ -6148,6 +5543,611 @@
       "shame_count": 3,
       "pride_count": 4,
       "total_count": 7
+    },
+    {
+      "id": "161455",
+      "title": "Hum Hain Bemisaal",
+      "year": "1994",
+      "industry": "bolly",
+      "country": "",
+      "poster_path": "/RWHDYqI5z4pOkXbTDeXqL29iI9.jpg",
+      "shame_count": 6,
+      "pride_count": 1,
+      "total_count": 7
+    },
+    {
+      "id": "97437",
+      "title": "Hum Kisi Se Kum Nahin",
+      "year": "2002",
+      "industry": "bolly",
+      "country": "IN|CA",
+      "poster_path": "/nzbPBEd26aJg6aLUF4eMWePWr9o.jpg",
+      "shame_count": 5,
+      "pride_count": 2,
+      "total_count": 7
+    },
+    {
+      "id": "404391",
+      "title": "Inteqam",
+      "year": "2001",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/16ieZ04ExJYe5YDP9xjWKNMDvL0.jpg",
+      "shame_count": 4,
+      "pride_count": 3,
+      "total_count": 7
+    },
+    {
+      "id": "275931",
+      "title": "Jaali Note",
+      "year": "1960",
+      "industry": "bolly",
+      "country": "",
+      "poster_path": "/c3q1EXu79nLgnHRqv9oj52y7fU5.jpg",
+      "shame_count": 6,
+      "pride_count": 1,
+      "total_count": 7
+    },
+    {
+      "id": "168159",
+      "title": "Johar-Mehmood in Goa",
+      "year": "1965",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/aPbUsdNguSfkbrtB7UOMJ1WnXhL.jpg",
+      "shame_count": 3,
+      "pride_count": 4,
+      "total_count": 7
+    },
+    {
+      "id": "266310",
+      "title": "Kaanchi",
+      "year": "2014",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/gcqOtRxgdqbXjp3kxnnOCHBThW.jpg",
+      "shame_count": 6,
+      "pride_count": 1,
+      "total_count": 7
+    },
+    {
+      "id": "73443",
+      "title": "Kabhi Kabhie",
+      "year": "1976",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/zi7Gkgt1PHtC96tXafNzrNQwgRp.jpg",
+      "shame_count": 1,
+      "pride_count": 6,
+      "total_count": 7
+    },
+    {
+      "id": "306162",
+      "title": "Kal Aaj Aur Kal",
+      "year": "1971",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/hIUNobRolV0i18SvNMDB3mcDp4D.jpg",
+      "shame_count": 6,
+      "pride_count": 1,
+      "total_count": 7
+    },
+    {
+      "id": "172671",
+      "title": "Khilona",
+      "year": "1970",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/d25rdrWBat3ep3KQhM56wI9Et7R.jpg",
+      "shame_count": 5,
+      "pride_count": 2,
+      "total_count": 7
+    },
+    {
+      "id": "51725",
+      "title": "Khuda Gawah",
+      "year": "1992",
+      "industry": "bolly",
+      "country": "AF|IN",
+      "poster_path": "/uUvUFpWfGXlgOzXgkIYwqpchh0f.jpg",
+      "shame_count": 5,
+      "pride_count": 2,
+      "total_count": 7
+    },
+    {
+      "id": "115153",
+      "title": "Kismat",
+      "year": "2004",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/pFV0U1TlXRipGNZBTk3OPhMXw6z.jpg",
+      "shame_count": 5,
+      "pride_count": 2,
+      "total_count": 7
+    },
+    {
+      "id": "78701",
+      "title": "Kisna",
+      "year": "2005",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/b4homgKuE49RXW5d3aUW1C5bRtJ.jpg",
+      "shame_count": 1,
+      "pride_count": 6,
+      "total_count": 7
+    },
+    {
+      "id": "166256",
+      "title": "Main Madhuri Dixit Banna Chahti Hoon",
+      "year": "2003",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/dMifCeWWAeaFLiJd2VfIVJyN4L3.jpg",
+      "shame_count": 5,
+      "pride_count": 2,
+      "total_count": 7
+    },
+    {
+      "id": "712462",
+      "title": "Man Mandir",
+      "year": "1971",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/tG3xOjIffrQ3Ye9tTvSjsXDhGgi.jpg",
+      "shame_count": 3,
+      "pride_count": 4,
+      "total_count": 7
+    },
+    {
+      "id": "74458",
+      "title": "Mere Brother Ki Dulhan",
+      "year": "2011",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/xPOnbPiAVkRu6GIHDnsyRl3Kb0K.jpg",
+      "shame_count": 5,
+      "pride_count": 2,
+      "total_count": 7
+    },
+    {
+      "id": "310735",
+      "title": "Mohabbat Ke Dushman",
+      "year": "1988",
+      "industry": "bolly",
+      "country": "",
+      "poster_path": "/g9UnjAMbEPj6HB8vGvR0CI3DW3j.jpg",
+      "shame_count": 4,
+      "pride_count": 3,
+      "total_count": 7
+    },
+    {
+      "id": "76684",
+      "title": "Masti",
+      "year": "2004",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/2cUfjsn5uCiDiTdkjiEQM2HXYLg.jpg",
+      "shame_count": 6,
+      "pride_count": 1,
+      "total_count": 7
+    },
+    {
+      "id": "168025",
+      "title": "Mr Ya Miss",
+      "year": "2005",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/eIO43xUoa7kwRwPHq5GA34h2Om9.jpg",
+      "shame_count": 1,
+      "pride_count": 6,
+      "total_count": 7
+    },
+    {
+      "id": "470641",
+      "title": "Mukkabaaz",
+      "year": "2018",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/qZP2VQwx6prmTbxWyolkhl3QYDU.jpg",
+      "shame_count": 4,
+      "pride_count": 3,
+      "total_count": 7
+    },
+    {
+      "id": "496524",
+      "title": "Simmba",
+      "year": "2018",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/ulQO4XJ1xlWdl4vX8Lr3SbWRfZw.jpg",
+      "shame_count": 4,
+      "pride_count": 3,
+      "total_count": 7
+    },
+    {
+      "id": "194136",
+      "title": "Sooryavansham",
+      "year": "1999",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/fI9cqF4scd7OfIJB5zmfeMxD2bg.jpg",
+      "shame_count": 4,
+      "pride_count": 3,
+      "total_count": 7
+    },
+    {
+      "id": "109078",
+      "title": "Girlfriend: Someone Please Stop the World",
+      "year": "2004",
+      "industry": "bolly",
+      "country": "JP",
+      "poster_path": "/xaDzm2EMKWn0DtMG7JwIp5WPeRJ.jpg",
+      "shame_count": 5,
+      "pride_count": 2,
+      "total_count": 7
+    },
+    {
+      "id": "509702",
+      "title": "Ujala Hi Ujala",
+      "year": "1974",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/6eQkRRdfhQ5qJi5HEGCJ5MwP6aV.jpg",
+      "shame_count": 5,
+      "pride_count": 2,
+      "total_count": 7
+    },
+    {
+      "id": "304124",
+      "title": "Yari Dushmani",
+      "year": "1980",
+      "industry": "bolly",
+      "country": "",
+      "poster_path": "/11ei32uN9KaFuM748d0aLNZF3Fw.jpg",
+      "shame_count": 5,
+      "pride_count": 2,
+      "total_count": 7
+    },
+    {
+      "id": "340007",
+      "title": "Zabak",
+      "year": "1961",
+      "industry": "bolly",
+      "country": "",
+      "poster_path": "",
+      "shame_count": 3,
+      "pride_count": 4,
+      "total_count": 7
+    },
+    {
+      "id": "912020",
+      "title": "Zulm Ka Badla",
+      "year": "1985",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/PHfjxsrb10tBsW3IXN8bmWXDqc.jpg",
+      "shame_count": 4,
+      "pride_count": 3,
+      "total_count": 7
+    },
+    {
+      "id": "362045",
+      "title": "Bajirao Mastani",
+      "year": "2015",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/eXKHjELZAbF7cVd9fzYMhvSsXDI.jpg",
+      "shame_count": 2,
+      "pride_count": 5,
+      "total_count": 7
+    },
+    {
+      "id": "106123",
+      "title": "Elaan",
+      "year": "1994",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/3ADocVh1ONoFP4uwvwML9UNqrV9.jpg",
+      "shame_count": 4,
+      "pride_count": 3,
+      "total_count": 7
+    },
+    {
+      "id": "100416",
+      "title": "Demoted",
+      "year": "2011",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/svBLwgbE2skHjGOejqmZoSzpDLu.jpg",
+      "shame_count": 3,
+      "pride_count": 4,
+      "total_count": 7
+    },
+    {
+      "id": "28712",
+      "title": "The Last Gangster",
+      "year": "1937",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/mCNrlUTdwr7cNgy4mFuFF31uDNK.jpg",
+      "shame_count": 1,
+      "pride_count": 6,
+      "total_count": 7
+    },
+    {
+      "id": "319075",
+      "title": "Cobain: Montage of Heck",
+      "year": "2015",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/hQEkK4WnTtQXIp5QOnVTsK3xYRM.jpg",
+      "shame_count": 6,
+      "pride_count": 1,
+      "total_count": 7
+    },
+    {
+      "id": "489763",
+      "title": "The Keeper",
+      "year": "2018",
+      "industry": "holly",
+      "country": "BE|DE|GB",
+      "poster_path": "/nNPsc5USXEr90FoFaXXljaC1O3r.jpg",
+      "shame_count": 2,
+      "pride_count": 5,
+      "total_count": 7
+    },
+    {
+      "id": "26408",
+      "title": "The War Room",
+      "year": "1993",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/prfxsyG4SnlnqqulavCJ4RksFUA.jpg",
+      "shame_count": 3,
+      "pride_count": 4,
+      "total_count": 7
+    },
+    {
+      "id": "149586",
+      "title": "The Conscientious Objector",
+      "year": "2004",
+      "industry": "holly",
+      "country": "",
+      "poster_path": "/99rWKXmSDCpgieNPJE1o5cwfVhm.jpg",
+      "shame_count": 1,
+      "pride_count": 6,
+      "total_count": 7
+    },
+    {
+      "id": "25209",
+      "title": "Annie Get Your Gun",
+      "year": "1950",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/c2ZLeqZVI2FYctcrFwm5C86zkLH.jpg",
+      "shame_count": 1,
+      "pride_count": 6,
+      "total_count": 7
+    },
+    {
+      "id": "337961",
+      "title": "Guilty",
+      "year": "2015",
+      "industry": "holly",
+      "country": "HK",
+      "poster_path": "/zR28Ui7coE3yAYJIIoeWdjNZdZo.jpg",
+      "shame_count": 4,
+      "pride_count": 3,
+      "total_count": 7
+    },
+    {
+      "id": "11430",
+      "title": "The Lion King 1½",
+      "year": "2004",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/u2hN0WT7Dz46HfhQbr6uzSYfVW4.jpg",
+      "shame_count": 1,
+      "pride_count": 6,
+      "total_count": 7
+    },
+    {
+      "id": "43865",
+      "title": "Stella Dallas",
+      "year": "1937",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/spcGWnz05deoY7gAl0EvrBelzPa.jpg",
+      "shame_count": 1,
+      "pride_count": 6,
+      "total_count": 7
+    },
+    {
+      "id": "978",
+      "title": "Seven Years in Tibet",
+      "year": "1997",
+      "industry": "holly",
+      "country": "US|FR",
+      "poster_path": "/5euQXAgJ34TdUFl1t3O6Jw2lJAs.jpg",
+      "shame_count": 4,
+      "pride_count": 3,
+      "total_count": 7
+    },
+    {
+      "id": "11825",
+      "title": "Police Academy 5: Assignment Miami Beach",
+      "year": "1988",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/4m1qfTiVxdEDv0fgUf0FI7CA9Fe.jpg",
+      "shame_count": 1,
+      "pride_count": 6,
+      "total_count": 7
+    },
+    {
+      "id": "2690",
+      "title": "Irma la Douce",
+      "year": "1963",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/5TgL8ql6WwXWmX4EvBL4geJ7gx5.jpg",
+      "shame_count": 3,
+      "pride_count": 4,
+      "total_count": 7
+    },
+    {
+      "id": "23077",
+      "title": "Russell Peters: Outsourced",
+      "year": "2006",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/2uIS6bXgFlzUUdCsDX7jMVw3zBK.jpg",
+      "shame_count": 1,
+      "pride_count": 6,
+      "total_count": 7
+    },
+    {
+      "id": "42160",
+      "title": "The Stunt Man",
+      "year": "1980",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/2GiT0zJMTMCn1Jc4aLVLsdfH4lh.jpg",
+      "shame_count": 5,
+      "pride_count": 2,
+      "total_count": 7
+    },
+    {
+      "id": "18694",
+      "title": "Change of Habit",
+      "year": "1969",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/bZx6oDV3LnhaDImYJj2tkgEtqI0.jpg",
+      "shame_count": 4,
+      "pride_count": 3,
+      "total_count": 7
+    },
+    {
+      "id": "18543",
+      "title": "Revenge of the Nerds III: The Next Generation",
+      "year": "1992",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/ql88TgCS7cA6gxts2LOKIqeQ1Ug.jpg",
+      "shame_count": 1,
+      "pride_count": 6,
+      "total_count": 7
+    },
+    {
+      "id": "15577",
+      "title": "Crossing Over",
+      "year": "2009",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/6A4WdvbWHJoIN4Y9Q5HXG8R1VYV.jpg",
+      "shame_count": 4,
+      "pride_count": 3,
+      "total_count": 7
+    },
+    {
+      "id": "20178",
+      "title": "World's Greatest Dad",
+      "year": "2009",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/1ESsZLvZPIvbCPCh7CPCSnF4EeH.jpg",
+      "shame_count": 4,
+      "pride_count": 3,
+      "total_count": 7
+    },
+    {
+      "id": "555604",
+      "title": "Guillermo del Toro's Pinocchio",
+      "year": "2022",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+      "shame_count": 1,
+      "pride_count": 6,
+      "total_count": 7
+    },
+    {
+      "id": "209943",
+      "title": "Anupama",
+      "year": "1966",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/ojTUDpCurFHFEURK5OUKbGOyXks.jpg",
+      "shame_count": 1,
+      "pride_count": 5,
+      "total_count": 6
+    },
+    {
+      "id": "331563",
+      "title": "Asli Naqli",
+      "year": "1986",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/8hAvHOaR9LHTePYktQkQFq6IxbX.jpg",
+      "shame_count": 5,
+      "pride_count": 1,
+      "total_count": 6
+    },
+    {
+      "id": "302309",
+      "title": "Baaghi",
+      "year": "2000",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/yMUwKZ5BumGVWk0UTkNE8LX8Oc6.jpg",
+      "shame_count": 5,
+      "pride_count": 1,
+      "total_count": 6
+    },
+    {
+      "id": "19657",
+      "title": "Baazigar",
+      "year": "1993",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/ndQQ2bTV0JLSRxUBchE4eD3qhDb.jpg",
+      "shame_count": 5,
+      "pride_count": 1,
+      "total_count": 6
+    },
+    {
+      "id": "104065",
+      "title": "Bade Dil Wala",
+      "year": "1983",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/xcg67lGMX9uBWN3cVEeRzIyZF0v.jpg",
+      "shame_count": 5,
+      "pride_count": 1,
+      "total_count": 6
+    },
+    {
+      "id": "463317",
+      "title": "Barood",
+      "year": "1998",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/xmOqdiTrV2TiESt32IkoKmxo3bu.jpg",
+      "shame_count": 3,
+      "pride_count": 3,
+      "total_count": 6
+    },
+    {
+      "id": "46375",
+      "title": "Barsaat",
+      "year": "1995",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/JFSE2glCPewOeXZajuIIDZFs0R.jpg",
+      "shame_count": 5,
+      "pride_count": 1,
+      "total_count": 6
     }
   ],
   "totals_by_emotion_industry": {

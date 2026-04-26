@@ -133,6 +133,24 @@ def build_station1(dialogues: list[dict]) -> dict:
         } for emo, industries in era_themes.items()
     }
 
+    # Era trend — female share of shame and male share of pride by era
+    # This is the punchline: Hollywood is moving women into pride; Bollywood is moving them out.
+    era_order = ["pre_2000", "2000_2014", "2015_present"]
+    era_trend = []
+    for bucket in era_order:
+        row = {"era": bucket}
+        for ind in ("bolly", "holly"):
+            shame_c = era_data["shame"][ind].get(bucket, Counter())
+            pride_c = era_data["pride"][ind].get(bucket, Counter())
+            shame_lab = shame_c["male"] + shame_c["female"]
+            pride_lab = pride_c["male"] + pride_c["female"]
+            row[f"{ind}_shame_female_share"] = shame_c["female"] / shame_lab if shame_lab else 0.0
+            row[f"{ind}_pride_male_share"] = pride_c["male"] / pride_lab if pride_lab else 0.0
+            row[f"{ind}_pride_female_share"] = pride_c["female"] / pride_lab if pride_lab else 0.0
+            row[f"{ind}_shame_n"] = shame_lab
+            row[f"{ind}_pride_n"] = pride_lab
+        era_trend.append(row)
+
     return {
         "asymmetry": {
             emo: {
@@ -146,6 +164,7 @@ def build_station1(dialogues: list[dict]) -> dict:
         "linguistic_tells": linguistic_tells,
         "era": era_serialized,
         "era_themes": era_themes_serialized,
+        "era_trend": era_trend,
     }
 
 
@@ -282,7 +301,12 @@ def build_station2(dialogues: list[dict]) -> dict:
             "pride_count": counts["pride"],
             "total_count": counts["shame"] + counts["pride"],
         })
-    films_index.sort(key=lambda f: -f["total_count"])
+    # Sort: films with BOTH emotions first (more culturally telling),
+    # then by total dialogue count.
+    films_index.sort(key=lambda f: (
+        0 if (f["shame_count"] > 0 and f["pride_count"] > 0) else 1,
+        -f["total_count"],
+    ))
 
     return {
         "themes": themes,

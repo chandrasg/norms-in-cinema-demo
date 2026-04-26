@@ -1,8 +1,9 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import Feedback from "../components/Feedback.tsx";
 
 const meta = (await import("../../public/data/meta.json", { assert: { type: "json" } })).default;
-const base = import.meta.env.BASE_URL;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 ---
 
 <Layout>
@@ -31,13 +32,27 @@ const base = import.meta.env.BASE_URL;
       Cultural surfaces differ. The gendered substrate is shared.
     </p>
 
+    <!-- Paper link callout, prominent under the hero -->
+    <div class="mt-8 flex flex-wrap items-center gap-3">
+      <a href={base + "/paper.pdf"} target="_blank" rel="noopener"
+         class="inline-flex items-center gap-2 rounded-full bg-white/5 px-4 py-2 text-sm text-white/80 ring-1 ring-white/10 hover:bg-white/10 hover:text-white transition">
+        <span class="text-gold-400">📄</span>
+        Read the underlying paper (Rai et al., NAACL 2025) →
+      </a>
+      <a href="#feedback"
+         class="inline-flex items-center gap-2 rounded-full bg-white/5 px-4 py-2 text-sm text-white/80 ring-1 ring-white/10 hover:bg-white/10 hover:text-white transition">
+        <span class="text-gold-400">✉</span>
+        Share how this could help your work
+      </a>
+    </div>
+
     <div class="mt-12 grid gap-6 md:grid-cols-3">
       <a href={base + "/mirror"} class="panel block p-7 transition hover:ring-gold-400/40">
         <p class="text-xs uppercase tracking-[0.25em] text-gold-400">Station 1</p>
         <h2 class="mt-2 font-display text-2xl text-white">The Mirror</h2>
         <p class="mt-3 text-sm text-white/60 leading-relaxed">
-          Guess the industry. Watch the gender asymmetry build across decades.
-          The room-stopper.
+          The headline numbers, the era trend that splits the two industries,
+          and a guess game that lands the punchline.
         </p>
         <p class="mt-6 text-xs text-white/40 group-hover:text-gold-400">Begin →</p>
       </a>
@@ -46,7 +61,7 @@ const base = import.meta.env.BASE_URL;
         <p class="text-xs uppercase tracking-[0.25em] text-gold-400">Station 2</p>
         <h2 class="mt-2 font-display text-2xl text-white">The Atlas</h2>
         <p class="mt-3 text-sm text-white/60 leading-relaxed">
-          {meta.themes.shame + meta.themes.pride} themes. {meta.films_matched.toLocaleString()} films searchable.
+          {meta.themes.shame + meta.themes.pride} themes mapped across both industries.
           Drill into any cluster and read the lines that built it.
         </p>
         <p class="mt-6 text-xs text-white/40">Explore →</p>
@@ -86,6 +101,11 @@ const base = import.meta.env.BASE_URL;
           method openly.
         </p>
       </div>
+    </div>
+
+    <!-- Feedback -->
+    <div id="feedback" class="mt-24">
+      <Feedback client:load />
     </div>
   </section>
 </Layout>

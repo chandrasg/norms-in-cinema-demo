@@ -425,5 +425,46 @@
         }
       }
     }
-  }
+  },
+  "era_trend": [
+    {
+      "era": "pre_2000",
+      "bolly_shame_female_share": 0.32544052863436124,
+      "bolly_pride_male_share": 0.7191601049868767,
+      "bolly_pride_female_share": 0.28083989501312334,
+      "bolly_shame_n": 1816,
+      "bolly_pride_n": 762,
+      "holly_shame_female_share": 0.2968421052631579,
+      "holly_pride_male_share": 0.7711757269279393,
+      "holly_pride_female_share": 0.22882427307206069,
+      "holly_shame_n": 475,
+      "holly_pride_n": 791
+    },
+    {
+      "era": "2000_2014",
+      "bolly_shame_female_share": 0.2743718592964824,
+      "bolly_pride_male_share": 0.7985507246376812,
+      "bolly_pride_female_share": 0.20144927536231885,
+      "bolly_shame_n": 995,
+      "bolly_pride_n": 690,
+      "holly_shame_female_share": 0.2912621359223301,
+      "holly_pride_male_share": 0.7162790697674418,
+      "holly_pride_female_share": 0.2837209302325581,
+      "holly_shame_n": 309,
+      "holly_pride_n": 860
+    },
+    {
+      "era": "2015_present",
+      "bolly_shame_female_share": 0.327683615819209,
+      "bolly_pride_male_share": 0.8142857142857143,
+      "bolly_pride_female_share": 0.18571428571428572,
+      "bolly_shame_n": 354,
+      "bolly_pride_n": 280,
+      "holly_shame_female_share": 0.26956521739130435,
+      "holly_pride_male_share": 0.6942446043165468,
+      "holly_pride_female_share": 0.3057553956834532,
+      "holly_shame_n": 115,
+      "holly_pride_n": 278
+    }
+  ]
 }
