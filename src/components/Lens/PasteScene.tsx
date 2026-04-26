@@ -57,9 +57,11 @@ export default function PasteScene({ endpoint }: { endpoint?: string }) {
 
   return (
     <div className="panel p-6 md:p-8">
-      <div className="flex items-center gap-2">
+      <div className="flex flex-wrap items-baseline gap-2">
         <p className="text-xs uppercase tracking-[0.25em] text-gold-400">Bring your own scene</p>
-        <span className="tag">Exploratory</span>
+        <span className="rounded-full bg-amber-400/10 ring-1 ring-amber-400/40 text-amber-300 text-[10px] uppercase tracking-[0.18em] px-2 py-0.5">
+          Alpha · live LLM
+        </span>
       </div>
       <h3 className="mt-2 font-display text-2xl text-white">
         Paste a scene of dialogue.
@@ -71,27 +73,36 @@ export default function PasteScene({ endpoint }: { endpoint?: string }) {
       </p>
 
       <textarea
+        id="paste-scene"
         value={text}
         onChange={e => setText(e.target.value)}
         placeholder={SAMPLE}
         rows={8}
-        className="mt-5 block w-full rounded-xl bg-ink-950 px-5 py-4 text-white placeholder-white/30 ring-1 ring-white/10 focus:outline-none focus:ring-gold-400/50 font-mono text-sm leading-relaxed"
+        className="mt-5 block w-full rounded-xl bg-ink-950 px-4 md:px-5 py-3 md:py-4 text-white placeholder-white/30 ring-1 ring-white/10 focus:outline-none focus:ring-gold-400/50 font-mono text-sm leading-relaxed"
       />
 
-      <div className="mt-4 flex items-center gap-3">
+      <div className="mt-4 flex flex-wrap items-center gap-3">
         <button
           onClick={analyze}
           disabled={!text.trim() || loading}
-          className="btn-primary disabled:opacity-40"
+          className="btn-primary disabled:opacity-40 min-h-[44px]"
         >
           {loading ? "Reading…" : "Read it through both lenses →"}
         </button>
         <button
           onClick={() => setText(SAMPLE)}
-          className="text-xs text-white/40 hover:text-white"
+          className="text-xs text-white/50 hover:text-white min-h-[40px] px-2"
         >
           Use sample scene
         </button>
+        {text && (
+          <button
+            onClick={() => { setText(""); setResult(null); setErr(null); }}
+            className="text-xs text-white/40 hover:text-white min-h-[40px] px-2"
+          >
+            Clear
+          </button>
+        )}
       </div>
 
       {err && (

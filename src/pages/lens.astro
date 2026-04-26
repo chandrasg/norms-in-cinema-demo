@@ -55,7 +55,7 @@ const lensEndpoint = import.meta.env.PUBLIC_LENS_ENDPOINT || "";
       <FilmPicker client:load filmIndex={lensIndex} basePath={lensDataPath} />
     </div>
 
-    <div class="mt-24">
+    <div id="paste-scene" class="mt-24 scroll-mt-24">
       <p class="text-xs uppercase tracking-[0.25em] text-white/50 mb-4">Bring your own scene</p>
       <PasteScene client:load endpoint={lensEndpoint} />
     </div>

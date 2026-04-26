@@ -5,11 +5,14 @@ import DivergingMirror from "../components/Studio/DivergingMirror.tsx";
 import ConvergenceZone from "../components/Studio/ConvergenceZone.tsx";
 import WhitespaceMap from "../components/Studio/WhitespaceMap.tsx";
 import SubversionFiles from "../components/Studio/SubversionFiles.tsx";
+import SlateDiagnostic from "../components/Studio/SlateDiagnostic.tsx";
+import CountryPreview from "../components/Studio/CountryPreview.tsx";
 import WritersChecklist from "../components/Studio/WritersChecklist.astro";
 import DiscussionKit from "../components/Studio/DiscussionKit.astro";
 
 const studio = (await import("../../public/data/station4_studio.json", { assert: { type: "json" } })).default;
 const mirror = (await import("../../public/data/station1_mirror.json", { assert: { type: "json" } })).default;
+const atlas = (await import("../../public/data/station2_atlas.json", { assert: { type: "json" } })).default;
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 ---
@@ -101,6 +104,16 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 
       <div class="mt-10">
         <WhitespaceMap client:load items={studio.whitespace} />
+      </div>
+
+      <!-- NEW: Slate Diagnostic -->
+      <div class="mt-10">
+        <SlateDiagnostic client:load films={atlas.films_index} />
+      </div>
+
+      <!-- NEW: Country Preview -->
+      <div class="mt-10">
+        <CountryPreview client:load />
       </div>
 
       <div class="mt-10 grid gap-4 md:grid-cols-3">
