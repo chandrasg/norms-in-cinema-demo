@@ -6,10 +6,22 @@ DAUGHTER: I was at Riya's. We were studying.
 FATHER: Studying? Until midnight? Have you no shame? What will the neighbors say?
 DAUGHTER: Why do you care so much what they say?`;
 
+interface AnalysisResult {
+  shame_markers: string[];
+  pride_markers: string[];
+  target_gender: string;
+  predicted_themes: { bolly: string[]; holly: string[] };
+  cultural_reading: { bolly: string; holly: string };
+  caveat: string;
+  model: string;
+  offline?: boolean;
+  note?: string;
+}
+
 export default function PasteScene({ endpoint }: { endpoint?: string }) {
   const [text, setText] = useState("");
   const [loading, setLoading] = useState(false);
-  const [result, setResult] = useState<any>(null);
+  const [result, setResult] = useState<AnalysisResult | null>(null);
   const [err, setErr] = useState<string | null>(null);
 
   async function analyze() {
@@ -19,13 +31,11 @@ export default function PasteScene({ endpoint }: { endpoint?: string }) {
     setResult(null);
     try {
       if (!endpoint) {
-        // No backend wired — show a graceful "coming soon" with what the
-        // analysis WOULD do, so the kiosk demos still feel intentional.
         setTimeout(() => {
           setResult({
             offline: true,
             note: "Live analysis is not configured for this kiosk. Pick a film from the list above to read a precomputed reading.",
-          });
+          } as any);
           setLoading(false);
         }, 400);
         return;
@@ -89,16 +99,91 @@ export default function PasteScene({ endpoint }: { endpoint?: string }) {
       )}
 
       {result && (
-        <div className="mt-6 rounded-xl bg-ink-950 p-5 ring-1 ring-white/5">
-          {result.offline ? (
-            <p className="text-sm text-white/60">{result.note}</p>
-          ) : (
-            <pre className="text-xs text-white/80 whitespace-pre-wrap font-mono">
-              {JSON.stringify(result, null, 2)}
-            </pre>
+        result.offline ? (
+          <p className="mt-6 text-sm text-white/60">{result.note}</p>
+        ) : (
+          <AnalysisView result={result} />
+        )
+      )}
+    </div>
+  );
+}
+
+function AnalysisView({ result }: { result: AnalysisResult }) {
+  const hasShame = result.shame_markers?.length > 0;
+  const hasPride = result.pride_markers?.length > 0;
+  const bollyThemes = result.predicted_themes?.bolly ?? [];
+  const hollyThemes = result.predicted_themes?.holly ?? [];
+
+  return (
+    <div className="mt-8 space-y-6">
+      {/* Markers */}
+      {(hasShame || hasPride) && (
+        <div className="flex flex-col sm:flex-row gap-4">
+          {hasShame && (
+            <div className="flex-1 rounded-xl bg-bolly/10 ring-1 ring-bolly/20 p-4">
+              <p className="text-xs uppercase tracking-[0.2em] text-bolly mb-2">Shame markers</p>
+              <div className="flex flex-wrap gap-2">
+                {result.shame_markers.map((m, i) => (
+                  <span key={i} className="rounded-full bg-bolly/15 px-3 py-1 text-xs text-bolly/90">
+                    "{m}"
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
+          {hasPride && (
+            <div className="flex-1 rounded-xl bg-holly/10 ring-1 ring-holly/20 p-4">
+              <p className="text-xs uppercase tracking-[0.2em] text-holly mb-2">Pride markers</p>
+              <div className="flex flex-wrap gap-2">
+                {result.pride_markers.map((m, i) => (
+                  <span key={i} className="rounded-full bg-holly/15 px-3 py-1 text-xs text-holly/90">
+                    "{m}"
+                  </span>
+                ))}
+              </div>
+            </div>
           )}
         </div>
       )}
+
+      {/* Cultural readings side by side */}
+      <div className="grid gap-4 sm:grid-cols-2">
+        <div className="rounded-xl bg-white/5 ring-1 ring-white/5 p-5">
+          <p className="text-xs uppercase tracking-[0.2em] text-bolly mb-1">Bollywood lens</p>
+          {bollyThemes.length > 0 && (
+            <div className="flex flex-wrap gap-1.5 mb-3">
+              {bollyThemes.map((t, i) => (
+                <span key={i} className="tag text-xs">{t}</span>
+              ))}
+            </div>
+          )}
+          <p className="text-sm text-white/80 leading-relaxed">
+            {result.cultural_reading?.bolly}
+          </p>
+        </div>
+        <div className="rounded-xl bg-white/5 ring-1 ring-white/5 p-5">
+          <p className="text-xs uppercase tracking-[0.2em] text-holly mb-1">Hollywood lens</p>
+          {hollyThemes.length > 0 && (
+            <div className="flex flex-wrap gap-1.5 mb-3">
+              {hollyThemes.map((t, i) => (
+                <span key={i} className="tag text-xs">{t}</span>
+              ))}
+            </div>
+          )}
+          <p className="text-sm text-white/80 leading-relaxed">
+            {result.cultural_reading?.holly}
+          </p>
+        </div>
+      </div>
+
+      {/* Target gender + caveat */}
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs text-white/40">
+        {result.target_gender && result.target_gender !== "unclear" && (
+          <p>Apparent target: <span className="text-white/60">{result.target_gender}</span></p>
+        )}
+        <p className="italic max-w-xl">{result.caveat}</p>
+      </div>
     </div>
   );
 }

@@ -239,8 +239,8 @@ def build_station2(dialogues: list[dict]) -> dict:
         share_b = n_b / N_b if N_b else 0
         share_h = n_h / N_h if N_h else 0
         delta = share_b - share_h
-        # Pick example dialogues: 5 per theme, prefer matched + has poster
-        examples = pick_theme_examples(dialogues, tid, n=5)
+        # Pick example dialogues: 5 per theme, biased toward dominant industry
+        examples = pick_theme_examples(dialogues, tid, n=5, delta=delta)
         themes.append({
             "id": int(tid),
             "emotion": emo,
@@ -294,15 +294,21 @@ def build_station2(dialogues: list[dict]) -> dict:
     }
 
 
-def pick_theme_examples(dialogues: list[dict], theme_id: str, n: int = 5) -> list[dict]:
+def pick_theme_examples(dialogues: list[dict], theme_id: str, n: int = 5, delta: float = 0.0) -> list[dict]:
     pool = [r for r in dialogues
             if r["theme_id"] == theme_id
             and r["film_matched"] == "1"
             and 50 <= len(r["dialogue"] or "") <= 400]
-    # Prefer balanced industry mix
-    bolly = [r for r in pool if r["industry"] == "bolly"][:max(1, n // 2)]
-    holly = [r for r in pool if r["industry"] == "holly"][:max(1, n // 2)]
-    out = (bolly + holly)[:n]
+    # Bias toward the industry the theme leans toward (delta > 0 → Bollywood, < 0 → Hollywood)
+    if delta > 0:
+        n_dominant, n_other = max(n - 1, n * 3 // 4), max(1, n // 4)
+        dominant, other = "bolly", "holly"
+    else:
+        n_dominant, n_other = max(n - 1, n * 3 // 4), max(1, n // 4)
+        dominant, other = "holly", "bolly"
+    dom_pool = [r for r in pool if r["industry"] == dominant][:n_dominant]
+    oth_pool = [r for r in pool if r["industry"] == other][:n_other]
+    out = (dom_pool + oth_pool)[:n]
     if len(out) < n:
         rest = [r for r in pool if r not in out][: n - len(out)]
         out += rest
