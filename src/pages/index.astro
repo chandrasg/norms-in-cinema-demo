@@ -4,6 +4,7 @@ import Feedback from "../components/Feedback.tsx";
 
 const meta = (await import("../../public/data/meta.json", { assert: { type: "json" } })).default;
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const feedbackEndpoint = import.meta.env.PUBLIC_FEEDBACK_ENDPOINT || "";
 ---
 
 <Layout>
@@ -145,8 +146,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
     </div>
 
     <!-- Feedback -->
-    <div id="feedback" class="mt-24">
-      <Feedback client:load />
+    <div id="feedback" class="mt-24 scroll-mt-24">
+      <Feedback client:load endpoint={feedbackEndpoint} />
     </div>
   </section>
 </Layout>

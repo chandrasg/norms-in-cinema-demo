@@ -9,6 +9,10 @@ const ROLES = [
 ];
 
 interface Props {
+  /**
+   * Google Apps Script web-app URL or compatible JSON-accepting POST endpoint.
+   * If absent, falls back to a mailto: link.
+   */
   endpoint?: string;
 }
 
@@ -25,9 +29,8 @@ export default function Feedback({ endpoint }: Props) {
     setLoading(true);
     setError(null);
     try {
-      // No backend wired yet — fall back to a mailto link with prefilled body
-      // so feedback still has a clear path. Replace with a real endpoint later.
       if (!endpoint) {
+        // Fallback: open the user's mail client with a prefilled message.
         const subject = encodeURIComponent(`MAPGEN feedback (${role})`);
         const body = encodeURIComponent(
           `Role: ${role}\n${email ? `Email: ${email}\n` : ""}\n${message}`
@@ -36,12 +39,28 @@ export default function Feedback({ endpoint }: Props) {
         setSubmitted(true);
         return;
       }
+
+      // Send to the configured endpoint (Google Apps Script or compatible).
+      // Use text/plain content-type so the request stays a CORS "simple request"
+      // and skips the preflight — Apps Script web apps don't handle OPTIONS.
       const r = await fetch(endpoint, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ role, message, email }),
+        headers: { "Content-Type": "text/plain;charset=utf-8" },
+        body: JSON.stringify({
+          role,
+          message,
+          email,
+          user_agent: typeof navigator !== "undefined" ? navigator.userAgent : "",
+          referrer: typeof document !== "undefined" ? document.referrer : "",
+          page: typeof location !== "undefined" ? location.href : "",
+        }),
       });
       if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      // Apps Script returns JSON {ok: true|false, error?: string}
+      const result = await r.json().catch(() => ({ ok: true }));
+      if (result && result.ok === false) {
+        throw new Error(result.error || "Submission rejected");
+      }
       setSubmitted(true);
     } catch (e: any) {
       setError(e.message ?? String(e));
@@ -54,7 +73,7 @@ export default function Feedback({ endpoint }: Props) {
     return (
       <div className="panel p-7 md:p-10 text-center">
         <p className="text-xs uppercase tracking-[0.25em] text-gold-400">Thank you</p>
-        <h3 className="mt-3 font-display text-2xl text-white">Your note is on its way.</h3>
+        <h3 className="mt-3 font-display text-2xl text-white">Your note is in.</h3>
         <p className="mt-3 text-sm text-white/65 max-w-lg mx-auto">
           We're collecting feedback from filmmakers, programmers, funders and researchers
           to shape the next iteration of MAPGEN. We read every message.
@@ -88,7 +107,7 @@ export default function Feedback({ endpoint }: Props) {
             <button
               key={r.id}
               onClick={() => setRole(r.id)}
-              className={`rounded-full px-4 py-1.5 text-xs transition ${
+              className={`rounded-full px-4 py-2 text-xs min-h-[40px] transition ${
                 role === r.id
                   ? "bg-gold-400 text-ink-950"
                   : "bg-white/5 text-white/70 hover:bg-white/10 ring-1 ring-white/10"
@@ -105,7 +124,7 @@ export default function Feedback({ endpoint }: Props) {
         onChange={e => setMessage(e.target.value)}
         placeholder="What would make this most useful in your work? What's missing? What did you want to click that wasn't there?"
         rows={5}
-        className="mt-5 block w-full rounded-xl bg-ink-950 px-5 py-4 text-white placeholder-white/30 ring-1 ring-white/10 focus:outline-none focus:ring-gold-400/50 text-sm leading-relaxed"
+        className="mt-5 block w-full rounded-xl bg-ink-950 px-4 md:px-5 py-3 md:py-4 text-white placeholder-white/30 ring-1 ring-white/10 focus:outline-none focus:ring-gold-400/50 text-sm leading-relaxed"
       />
 
       <input
@@ -113,23 +132,25 @@ export default function Feedback({ endpoint }: Props) {
         value={email}
         onChange={e => setEmail(e.target.value)}
         placeholder="Email (optional, only if you want a reply)"
-        className="mt-3 block w-full rounded-xl bg-ink-950 px-5 py-3 text-white placeholder-white/30 ring-1 ring-white/10 focus:outline-none focus:ring-gold-400/50 text-sm"
+        className="mt-3 block w-full rounded-xl bg-ink-950 px-4 md:px-5 py-3 text-white placeholder-white/30 ring-1 ring-white/10 focus:outline-none focus:ring-gold-400/50 text-sm"
       />
 
       {error && (
         <p className="mt-3 text-sm text-bolly">Couldn't send: {error}</p>
       )}
 
-      <div className="mt-5 flex items-center gap-3">
+      <div className="mt-5 flex flex-wrap items-center gap-3">
         <button
           onClick={submit}
           disabled={!message.trim() || loading}
-          className="btn-primary disabled:opacity-40"
+          className="btn-primary disabled:opacity-40 min-h-[44px]"
         >
           {loading ? "Sending…" : "Send feedback →"}
         </button>
         <p className="text-xs text-white/40">
-          Goes to the project lead. No marketing, no list.
+          {endpoint
+            ? "Logged to a private Google Sheet. No marketing, no list."
+            : "Goes to the project lead. No marketing, no list."}
         </p>
       </div>
     </div>

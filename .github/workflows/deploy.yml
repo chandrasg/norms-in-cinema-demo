@@ -31,6 +31,7 @@ jobs:
         run: npm run build
         env:
           PUBLIC_LENS_ENDPOINT: ${{ secrets.PUBLIC_LENS_ENDPOINT || 'https://api-iota-seven-27.vercel.app/api/lens' }}
+          PUBLIC_FEEDBACK_ENDPOINT: ${{ secrets.PUBLIC_FEEDBACK_ENDPOINT || '' }}
 
       - uses: actions/upload-pages-artifact@v3
         with:
