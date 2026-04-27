@@ -82,37 +82,5 @@ const prideThemeCount = data.themes.filter((t: any) => t.emotion === "pride").le
     <div class="mt-24">
       <FilmSearch client:load films={data.films_index} />
     </div>
-
-    <!-- Cultural Pattern essay cards -->
-    <div class="mt-24 grid gap-6 md:grid-cols-3">
-      <article class="panel p-6">
-        <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Pattern</p>
-        <h3 class="mt-2 font-display text-xl text-white">Why is Bollywood pride almost always male?</h3>
-        <p class="mt-3 text-sm leading-relaxed text-white/65">
-          Across our corpus, 79% of labeled pride targets in Bollywood are men.
-          The themes track this: <em>Son's Accomplishments, Patriotism, Heroic
-          Bravery, Family Honor</em>. Pride flows toward men as honor flows
-          toward family.
-        </p>
-      </article>
-      <article class="panel p-6">
-        <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Pattern</p>
-        <h3 class="mt-2 font-display text-xl text-white">Why does Hollywood shame poverty?</h3>
-        <p class="mt-3 text-sm leading-relaxed text-white/65">
-          In an individualist culture, financial standing is read as personal
-          failure. <em>Poverty, Financial Desperation, Negligence</em> all
-          lean Hollywood-ward. The shame is self-directed: "I should have done better."
-        </p>
-      </article>
-      <article class="panel p-6">
-        <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Pattern</p>
-        <h3 class="mt-2 font-display text-xl text-white">Where the cultures converge.</h3>
-        <p class="mt-3 text-sm leading-relaxed text-white/65">
-          Themes like <em>Sexual Harassment</em> and <em>Promiscuity</em>
-          are Bollywood-leaning, but <em>Immodesty</em> is too. Different
-          words, same line — women's bodies, sanctioned the same way in both.
-        </p>
-      </article>
-    </div>
   </section>
 </Layout>

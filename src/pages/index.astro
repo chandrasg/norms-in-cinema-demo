@@ -114,37 +114,6 @@ const feedbackEndpoint = import.meta.env.PUBLIC_FEEDBACK_ENDPOINT || "";
       </a>
     </div>
 
-    <!-- Audience-segmented closing — links into the Studio dossiers -->
-    <div class="mt-24">
-      <p class="text-xs uppercase tracking-[0.25em] text-gold-400 mb-4">The Studio · stakeholder dossiers →</p>
-      <div class="grid gap-4 md:grid-cols-3">
-        <a href={base + "/studio#filmmakers"} class="panel block p-6 transition hover:ring-bolly/40 group">
-          <p class="text-xs uppercase tracking-[0.2em] text-bolly">For filmmakers</p>
-          <p class="mt-3 text-sm leading-relaxed text-white/75">
-            What is your script saying that you didn't write? An interactive
-            Norm Compass, subversion files, and a printable writers' room checklist.
-          </p>
-          <p class="mt-4 text-xs text-white/40 group-hover:text-bolly">Open dossier →</p>
-        </a>
-        <a href={base + "/studio#funders"} class="panel block p-6 transition hover:ring-gold-400/40 group">
-          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">For funders &amp; studios</p>
-          <p class="mt-3 text-sm leading-relaxed text-white/75">
-            The Diverging Mirror — Hollywood up 23→31, Bollywood down 28→19 on
-            the same metric since 2000. Plus a whitespace map and slate-audit playbook.
-          </p>
-          <p class="mt-4 text-xs text-white/40 group-hover:text-gold-400">Open dossier →</p>
-        </a>
-        <a href={base + "/studio#programmers"} class="panel block p-6 transition hover:ring-holly/40 group">
-          <p class="text-xs uppercase tracking-[0.2em] text-holly">For programmers, policy, educators</p>
-          <p class="mt-3 text-sm leading-relaxed text-white/75">
-            Different vocabulary, same line. The Convergence Zone names the
-            cross-cultural substrate, with eight discussion prompts grounded in the corpus.
-          </p>
-          <p class="mt-4 text-xs text-white/40 group-hover:text-holly">Open dossier →</p>
-        </a>
-      </div>
-    </div>
-
     <!-- Feedback -->
     <div id="feedback" class="mt-24 scroll-mt-24">
       <Feedback client:load endpoint={feedbackEndpoint} />
