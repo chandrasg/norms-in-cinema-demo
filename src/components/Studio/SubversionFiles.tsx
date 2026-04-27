@@ -20,12 +20,11 @@ export default function SubversionFiles({ items }: { items: Subversion[] }) {
     <div className="panel p-6 md:p-10">
       <p className="text-xs uppercase tracking-[0.25em] text-gold-400">The Subversion Files</p>
       <h3 className="mt-1 font-display text-2xl text-white max-w-3xl">
-        Some films flipped the script. Here's what that looks like.
+        Some films flipped the script.
       </h3>
       <p className="mt-3 text-sm text-white/60 max-w-2xl">
-        For each dominant trope in the corpus, an example where the typical
-        target — usually a woman — is replaced by a man, or where the framing
-        gets inverted. A starter set: the corpus has hundreds more.
+        MAPGEN also captures hundreds of scenes that invert standard gendered
+        scenarios involving pride and shame. A starter set below.
       </p>
 
       <div className="mt-8 grid gap-5 md:grid-cols-2">

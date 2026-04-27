@@ -12,63 +12,63 @@
       "delta_bolly_minus_holly": -0.10302034744068558,
       "examples": [
         {
-          "dialogue_id": "WP9_holly",
-          "dialogue": "Thank You.  We're very very proud of him.  I am so proud to introduce my mentor.  He has the ability to look at me and I see where I am in life.  I feel his love for me as an athlete and as a human being.",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "for the speaker's achievements and growth",
-          "film": {
-            "title": "Foxcatcher",
-            "year": "2014",
-            "poster_path": "/w6Sl079QtUcQ9dVQ2RP6aN9NBXx.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WP19_holly",
-          "dialogue": "Did you call me a slut         back there?     Yeah.  I don't even know where that came from.  You ready to get proud?                 Oh, dude. Dude.              I'm here. I'm queer.          Better get used to it.",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "coming out as queer",
-          "film": {
-            "title": "Life Partners",
-            "year": "2014",
-            "poster_path": "/434samTfccB2N7zl0saWp9ev5pL.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WP21_holly",
-          "dialogue": "- He is very famous in china.  I think it's great.  You should be proud, jess.  - Thank you.  - You'll be close to.",
+          "dialogue_id": "WP351_holly",
+          "dialogue": "Everything the light touches is part of our kingdom.  The Pride Lands.  Ruling it is a big responsibility, Kiara.  And someday, when you're Queen... Heads up! Incoming!",
           "industry": "holly",
           "target_gender": "female",
-          "cause_raw": "being famous in China",
+          "cause_raw": "becoming queen and ruling the kingdom",
           "film": {
-            "title": "Die Fighting",
-            "year": "2014",
-            "poster_path": "/bxFHL38PILeBgTiEzNeUGKR92s1.jpg"
+            "title": "The Lion Guard: Return of the Roar",
+            "year": "2016",
+            "poster_path": "/pzcQ7cQBHIdsKLN4exd7bCyy1pk.jpg"
           }
         },
         {
-          "dialogue_id": "WP22_holly",
-          "dialogue": "Oh, he couldn't come. He's sorry, Smoke. He asked me to meet you.  It's wonderful seeing you. I've been hearing your records.  - I'm real proud of you. - Thank you, Smoke.  - Rick has done all right too. - We always knew he'd hit it.  It's gonna be like old times.",
+          "dialogue_id": "WP514_holly",
+          "dialogue": "That feeling is pride, sir.  You're right.  I am super proud.  Of myself.  For being such a good teacher, obviously.",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "for the success in music",
+          "cause_raw": "being a good teacher",
           "film": {
-            "title": "Young Man with a Horn",
-            "year": "1950",
-            "poster_path": "/fCM4Guj2poyGcGC9yYIM8cXaIu6.jpg"
+            "title": "The Lego Batman Movie",
+            "year": "2017",
+            "poster_path": "/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg"
           }
         },
         {
-          "dialogue_id": "p1_bolly",
-          "dialogue": "Do you know how boring it is to live alone? Watch this, Grandpa? You will be proud. I have mastered this trick now. If you don't study.....how will you go on adventures, like your dad?",
+          "dialogue_id": "WP933_holly",
+          "dialogue": "Okay!  Hey, babe!  You'll be proud of me. I'm jogging off that--  John Smith fell through a frozen lake!  Wait, what?",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "jogging off weight",
+          "film": {
+            "title": "Breakthrough",
+            "year": "2019",
+            "poster_path": "/lUd2FNC8cMCcHyRMNZtVC48p3xH.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WP2450_holly",
+          "dialogue": "and cross the camera frame.  - Do you hear, lucky? - Okay?  Make me proud.  Need rehearsal?  No, I trained him myself.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "training someone",
+          "film": {
+            "title": "The Pool",
+            "year": "2018",
+            "poster_path": "/qmND84lMjMx32E40LID5f7WJB7u.jpg"
+          }
+        },
+        {
+          "dialogue_id": "p703_bolly",
+          "dialogue": "Hail the holy cow. - True. Who am I? - Kantibhai. Kantibhai Goradia. The pride of Gujaratis! I spend millions to collect antique artifacts of Gujarat. I own seven cow shades",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "mastering a trick",
+          "cause_raw": "collecting antique artifacts of Gujarat and owning seven cow shades",
           "film": {
-            "title": "Aladin",
-            "year": "2009",
-            "poster_path": "/rqXLyzAPk7yAygwRAyBrHcVL3os.jpg"
+            "title": "Patel Ki Punjabi Shaadi",
+            "year": "2017",
+            "poster_path": "/nNj2PPUeN0nHXSveCDwBPZX29xX.jpg"
           }
         }
       ]
@@ -85,6 +85,18 @@
       "delta_bolly_minus_holly": -0.04566226657721935,
       "examples": [
         {
+          "dialogue_id": "WS429_holly",
+          "dialogue": "It's half past th, Katharina.  Yes, Mama, I have a watch, too.  I'm so ashamed.  Ashamed!  We wanted to keep calm.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "not adhering to time",
+          "film": {
+            "title": "Bitter Sweet",
+            "year": "2016",
+            "poster_path": "/rfnmbK3bNWSOwC4QXpoK7zeTbt2.jpg"
+          }
+        },
+        {
           "dialogue_id": "WS34_holly",
           "dialogue": "\"Dear Wayne,  \"it's a lot like I told you.  \"Being poor ain't shameful it's just inconvenient.  \"I valued you.\"  It's just that I didn't know you.",
           "industry": "holly",
@@ -97,51 +109,39 @@
           }
         },
         {
-          "dialogue_id": "WS38_holly",
-          "dialogue": "I even had to get a team scholarship just to get here.  Yeah, so did I.  You know, it's nothing to be ashamed of.  In my case, it is.  What do you mean?",
+          "dialogue_id": "WS836_holly",
+          "dialogue": "He's embarrassed. It was a lot of money for us.  Day trading is a perilous sport.  You shouldn't be ashamed of it.  I'm gonna grab some food. See you guys inside?  Sure.",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "needing a scholarship",
+          "cause_raw": "losing money in day trading",
           "film": {
-            "title": "Bring It On: In It to Win It",
-            "year": "2007",
-            "poster_path": "/hMRjQuTZQ8bZNrwqkKhBgbh8MkF.jpg"
+            "title": "Snowden",
+            "year": "2016",
+            "poster_path": "/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg"
           }
         },
         {
-          "dialogue_id": "WS45_holly",
-          "dialogue": "Conner, I'm sorry.  - Can I ask you something? - What's that?  - Are you ashamed of me? - No.  Then why won't you tell her?  I've never let my mother down my entire life. Okay?",
+          "dialogue_id": "WS1527_holly",
+          "dialogue": "You're risking your life  and all of this for a gardener?  You're going to shame us all.  Your poor mother.  Maman jan, just someone to talk to.",
           "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "not acknowledging a relationship",
+          "target_gender": "female",
+          "cause_raw": "prioritizing a gardener over personal safety and family reputation",
           "film": {
-            "title": "A Madea Christmas",
-            "year": "2013",
-            "poster_path": "/tbwm8GptynNoxbkC5AhjYMYfnn7.jpg"
+            "title": "Beyond Paradise",
+            "year": "2015",
+            "poster_path": "/99eKpzAGD1bFpkq2UtFg6Twufqn.jpg"
           }
         },
         {
-          "dialogue_id": "WS56_holly",
-          "dialogue": "Kindly serve Mr and Mrs Norton first, Horton.  You will have some tea, won't you?  Mr Wallingham will be so ashamed of being forced to keep you waiting.  Punctuality is our motto, you know.  Miss Martin, please. Certainly, Mr Chalmers.",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "not being punctual",
-          "film": {
-            "title": "Jimmy the Gent",
-            "year": "1934",
-            "poster_path": "/fZuLSS7X5j5SddIwQzp9cJbpK5Y.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s22_bolly",
-          "dialogue": "Uncle, lets talk about this tomorrow morning. Tomorrow morning! I'll go tell him right now. You should be ashamed. -Why? Didn't you hear what the doctor said? He shouldn't receive a shock.",
+          "dialogue_id": "s3278_bolly",
+          "dialogue": "I am giving you. May we speak in private? You are so shameless! You are still here! Will you leave only after I hit you?",
           "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "Not considering doctor's advice",
+          "target_gender": "unclear",
+          "cause_raw": "overstaying their welcome",
           "film": {
-            "title": "Aloo Chaat",
-            "year": "2009",
-            "poster_path": "/1XoRQnF2I49c0I3pZeIj9qaC4My.jpg"
+            "title": "Laila Majnu",
+            "year": "2018",
+            "poster_path": "/m21pcuuNY58P7wkxQd3LzZSdXKU.jpg"
           }
         }
       ]
@@ -158,63 +158,63 @@
       "delta_bolly_minus_holly": 0.051457746901318706,
       "examples": [
         {
-          "dialogue_id": "s15_bolly",
-          "dialogue": "Siras was in his undergarments....and he was apologizing to those reporters. I immediately demanded to see the videotape. And what I saw...was completely vulgar and shameful. What did you see? It was embarrassing.",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "inappropriate behavior",
-          "film": {
-            "title": "Aligarh",
-            "year": "2016",
-            "poster_path": "/mzsnpkrrgCalhXENh8I6N0XfAbe.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s17_bolly",
-          "dialogue": "After drinking from your eyes. I'll shower if You keep on dancing this way. I'll dance forgetting all shame. I'll dance forgetting all shame. With You in tonight's function.",
+          "dialogue_id": "s1387_bolly",
+          "dialogue": "Ishika, see Pihu's doll. Listen, Amogh. Damn! Shameless people! No manners at all. Damn, Damn. They have money...",
           "industry": "bolly",
           "target_gender": "unclear",
-          "cause_raw": "behaving inappropriately in public",
+          "cause_raw": "Lack of manners",
           "film": {
-            "title": "All Is Well",
+            "title": "Pihu",
+            "year": "2018",
+            "poster_path": "/zRsqo4iSRvUK8eFsmT4y16BbmnX.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s3335_bolly",
+          "dialogue": "Give it to me. - Come outside! Behave yourself...What's all this‘! You should be ashamed of yourself, auntie! So much for her piety! Auntie, you've sullied the family name.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "inappropriate behavior",
+          "film": {
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s3337_bolly",
+          "dialogue": "A 55-year old widow! Making dirty phone calls to a young boy. Disgusting! - The old woman has no shame. We look up to her as a mother. And see what she's been doing.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "inappropriate behavior with a young boy",
+          "film": {
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s4340_bolly",
+          "dialogue": "Dean Greetings. To bad with your greetings. Aren't you ashamed of what you're doing here? She is your daughter-in-law. Dear, let's go from here. Tanu, don't be scared. I am here.",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "inappropriate behavior towards daughter-in-law",
+          "film": {
+            "title": "Tanu Weds Manu: Returns",
             "year": "2015",
-            "poster_path": "/hsruH6BJCDy5ELSB7u9oZKryf2M.jpg"
+            "poster_path": "/sO3XD6ZDZetb2N6YDQrHLTVQrfq.jpg"
           }
         },
         {
-          "dialogue_id": "s26_bolly",
-          "dialogue": "One can see you clearly  the way a dustbin is found lying on the street. What's the need to declare ? Actually , I didn't understand a thing. I was just...I mean... - Hell with it! Shameless ! You are trying to befriend her. - Let go of him. It's we who will get defamed if we argue with such guys.",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "inappropriate behavior towards a woman",
-          "film": {
-            "title": "Amanat",
-            "year": "1955",
-            "poster_path": "/mmB02uqrPGW0n40vs2Sx6EjaOAD.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s46_bolly",
-          "dialogue": "It is deserted across the lake at dusk. Aren't you ashamed? You are like my elder brother. By helping me, you want to play with my honor? Shame on you! You saw it with your own eyes? - Yes! Uncle held her hand...and gave her 100 rupees. - Really? Come with me.",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "inappropriate behavior towards a woman",
-          "film": {
-            "title": "Amar Prem",
-            "year": "1972",
-            "poster_path": "/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS46_holly",
-          "dialogue": "- Thank you. - All right then.  - Thank you. - Okay.  You oughta be ashamed of yourself.  That ain't being Christian, being that mean to that woman.  I don't eat food from the KKK.",
+          "dialogue_id": "WS1305_holly",
+          "dialogue": "Behave yourselves!  Stop it, Tylo!  Shame on you!  Don't cry. Did he hurt you?  I did nothing at all.",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "being mean to a woman",
+          "cause_raw": "misbehavior",
           "film": {
-            "title": "A Madea Christmas",
-            "year": "2013",
-            "poster_path": "/tbwm8GptynNoxbkC5AhjYMYfnn7.jpg"
+            "title": "The Blue Bird",
+            "year": "2008",
+            "poster_path": "/6S9kBdCl1EFvkl22fuc4rP58UR5.jpg"
           }
         }
       ]
@@ -231,63 +231,63 @@
       "delta_bolly_minus_holly": -0.02377548791386154,
       "examples": [
         {
-          "dialogue_id": "WS5_holly",
-          "dialogue": "Larry, you seem to have married into an interesting family.  I think it was very selfish of Karin not to have told me anything about you.  Well, the truth is... Karin is ashamed of me. That skiing nut would be very hard to please.  Karin is ashamed of me. That skiing nut would be very hard to please.  Oh, excuse me, Larry.",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "not meeting family's expectations",
-          "film": {
-            "title": "Two-Faced Woman",
-            "year": "1941",
-            "poster_path": "/ckur8ivaMyvn6VSP5Q5Ru7E9UJG.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS6_holly",
-          "dialogue": "I think it was very selfish of Karin not to have told me anything about you.  Well, the truth is... Karin is ashamed of me. That skiing nut would be very hard to please.  Karin is ashamed of me. That skiing nut would be very hard to please.  Oh, excuse me, Larry.  Dear Karin, she always lived the outdoor life while I am a... partial to the indoor life.",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "not living up to someone's expectations",
-          "film": {
-            "title": "Two-Faced Woman",
-            "year": "1941",
-            "poster_path": "/ckur8ivaMyvn6VSP5Q5Ru7E9UJG.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS23_holly",
-          "dialogue": "Yeah, okay. So, look,  obviously things got a little out of control last night, okay?  And I'm... all I can say is I'm ashamed.  That's it?  I'm really... I'm really ashamed.",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "losing control",
-          "film": {
-            "title": "Demoted",
-            "year": "2011",
-            "poster_path": "/svBLwgbE2skHjGOejqmZoSzpDLu.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS32_holly",
-          "dialogue": "I know your whole life story.  I know every skeleton in your closet.  I know every moment of sin and shame and dishonesty  and degraded love that's darkened your past.  Right now, I know your shallow faith, your feeble prayer life,",
+          "dialogue_id": "WS148_holly",
+          "dialogue": "And all because it's easier than forgiveness.  You know, you're no better than the people you accuse.  Shame on both of ya!  You disgust me!  - What? - You disgust me, all of you!",
           "industry": "holly",
           "target_gender": "unclear",
-          "cause_raw": "past sins and dishonesty",
+          "cause_raw": "not forgiving and accusing others",
           "film": {
-            "title": "Ragamuffin",
-            "year": "2025",
-            "poster_path": "/yhjKYd6aTzboCbJrBwMZXJCVist.jpg"
+            "title": "The Keeper",
+            "year": "2018",
+            "poster_path": "/nNPsc5USXEr90FoFaXXljaC1O3r.jpg"
           }
         },
         {
-          "dialogue_id": "s5_bolly",
-          "dialogue": "Say it. Say it Prince. Say it son. What's the shame in studies? Say it. Bismillah..Your Majesty, Prince is too young now. He will surely understand slowly with time.",
+          "dialogue_id": "WS1492_holly",
+          "dialogue": "taking their first breath.  Teach them our ways,  so they do not suffer the shame of being  useless.  (JAKE CHUCKLES SOFTLY)",
+          "industry": "holly",
+          "target_gender": "unclear",
+          "cause_raw": "not being useful or productive",
+          "film": {
+            "title": "Avatar: The Way of Water",
+            "year": "2022",
+            "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS1493_holly",
+          "dialogue": "Dad, you told me to make friends with these kids.  That's all I was trying to... I don't want to hear it.  Dad... You brought shameto this family.  (JAKE SIGHS)  Can I go now?",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "disappointing family",
+          "film": {
+            "title": "Avatar: The Way of Water",
+            "year": "2022",
+            "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS206_holly",
+          "dialogue": "He is going to London.  She thought you were Miss Jess.  - She's ashamed. - We're twins.  - I am... sorry. - It's okay.  Um, but why were you scared?",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "mistaken identity",
+          "film": {
+            "title": "The Forest",
+            "year": "2016",
+            "poster_path": "/1TohqCqMbaiuRLJPrPW0vnQP3lE.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s3334_bolly",
+          "dialogue": "To talk to you, I have to meet your mistress! Shameless! You're the one who's shameless. Seeing another woman... no job, no salary. You don't care about your family.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "Poor academic performance",
+          "cause_raw": "neglecting family responsibilities",
           "film": {
-            "title": "Alam Ara",
-            "year": "1931",
-            "poster_path": "/vSKx8fldyR3wftbqzRqSN9qQ1Ev.jpg"
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
           }
         }
       ]
@@ -304,42 +304,6 @@
       "delta_bolly_minus_holly": -0.038804478250739294,
       "examples": [
         {
-          "dialogue_id": "WS15_holly",
-          "dialogue": "Dave, darling.  Of course we know you're blind. And if you wanna talk about it, we will.  It's a dirty shame.  I'm sorry I went overboard like that.  I guess there's no use crying over spilt milk, is there?",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "being blind",
-          "film": {
-            "title": "Dead Man's Eyes",
-            "year": "1944",
-            "poster_path": "/xRHAMGiNWc0p6sOZJKoHOkRihan.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS17_holly",
-          "dialogue": "- So we stretch it a little. - You gonna pay for that?  Yes, we stretch the deadline to 8:00.  If we get art on the two kids at the walk of shame, it's \"Gotcha!\"  If we miss them, the subway is page one.  The subway is bullshit!",
-          "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "public humiliation for presumably inappropriate behavior",
-          "film": {
-            "title": "Deadline",
-            "year": "2025",
-            "poster_path": "/53Rk1l820O5045o0FycMXHCtbkQ.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS19_holly",
-          "dialogue": "- So we stretch it a little. - You gonna pay for that?  Yes, we stretch the deadline to 8:00.  If we get art on the two kids at the walk of shame, it's \"Gotcha!\"  If we miss them, the subway is page one.  The subway is bullshit!",
-          "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "public humiliation for presumably inappropriate behavior",
-          "film": {
-            "title": "Deadline",
-            "year": "2025",
-            "poster_path": "/53Rk1l820O5045o0FycMXHCtbkQ.jpg"
-          }
-        },
-        {
           "dialogue_id": "WS40_holly",
           "dialogue": "♪ But I am old ♪ ♪ I am ugly ♪  - ♪ I embarrass you ♪ - No!  ♪ You are ashamed of me ♪  No!  ♪ You are ashamed ♪",
           "industry": "holly",
@@ -352,15 +316,51 @@
           }
         },
         {
-          "dialogue_id": "s23_bolly",
-          "dialogue": "You are insulting  us! You are such a lowly  person! Don't be so proud of your money! Shameless  person. He is on cloud  nine - That's what I am saying! Mr Purshottam... - Mr Laxmidas?",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "Arrogance and pride due to wealth",
+          "dialogue_id": "WS1213_holly",
+          "dialogue": "♪ But I am old ♪ ♪ I am ugly ♪  - ♪ I embarrass you ♪ - No!  ♪ You are ashamed of me ♪  No!  ♪ You are ashamed ♪",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "being old and unattractive",
           "film": {
-            "title": "Amanat",
-            "year": "1955",
-            "poster_path": "/mmB02uqrPGW0n40vs2Sx6EjaOAD.jpg"
+            "title": "Into the Woods",
+            "year": "2014",
+            "poster_path": "/6bZC6KGfCwTMmwXmrLJQhxuRjlT.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS84_holly",
+          "dialogue": "and shouldn't cause any trouble.  I mean, he belittled and ridiculed Kurt.  And Kurt would be ashamed.  I mean, it really hurt him to be embarrassed.  Then, I don't know.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "being belittled and ridiculed",
+          "film": {
+            "title": "Cobain: Montage of Heck",
+            "year": "2015",
+            "poster_path": "/hQEkK4WnTtQXIp5QOnVTsK3xYRM.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS236_holly",
+          "dialogue": "I don't deserve you.  ♪ The high won't fade here, babe... ♪  The shame of it,.  ♪ No, the high won't hurt here, babe ♪  Things changed.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "self-deprecation or feeling unworthy",
+          "film": {
+            "title": "Song to Song",
+            "year": "2017",
+            "poster_path": "/itmaNi14GyWguTOywZ0mMzyScW9.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s1966_bolly",
+          "dialogue": "AtoZ to even abuse me from A to Z you need me...and you have the guts to be ashamed of me ! How dare you be ashamed of me ? Who the hell you think you are to be ashamed of me? Who?",
+          "industry": "bolly",
+          "target_gender": "unclear",
+          "cause_raw": "being disrespected and undervalued",
+          "film": {
+            "title": "Shamitabh",
+            "year": "2015",
+            "poster_path": "/3D5FG0oceTEpgLrz1v8aFWja3wn.jpg"
           }
         }
       ]
@@ -377,51 +377,51 @@
       "delta_bolly_minus_holly": 0.03143768755112458,
       "examples": [
         {
-          "dialogue_id": "s21_bolly",
-          "dialogue": "Oh, that. You should be proud. Your soon to-be wife has such a beautiful body. You aren't ashamed. You are feeling proud of it, instead? Yes. This is my life. -But.. but this is india. India.",
+          "dialogue_id": "s3678_bolly",
+          "dialogue": "Of course ! With a gun to our heads, You shamed us to dance! You shamed us to dance! You shamed us to dance!",
+          "industry": "bolly",
+          "target_gender": "unclear",
+          "cause_raw": "forced to dance",
+          "film": {
+            "title": "Mukkabaaz",
+            "year": "2018",
+            "poster_path": "/qZP2VQwx6prmTbxWyolkhl3QYDU.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s2382_bolly",
+          "dialogue": "I'll speak with Laila. –He'll make your life better. –Money. Fame. –Respect. He bestows with respect and shame. He bestows with respect and shame. Let's see what you deserve.",
           "industry": "bolly",
           "target_gender": "female",
-          "cause_raw": "objectification of her body",
+          "cause_raw": "being coerced into a relationship for material benefits",
           "film": {
-            "title": "Aloo Chaat",
-            "year": "2009",
-            "poster_path": "/1XoRQnF2I49c0I3pZeIj9qaC4My.jpg"
+            "title": "Heropanti 2",
+            "year": "2022",
+            "poster_path": "/2TxkhMrM98iUb74Dqbkdco3ED0X.jpg"
           }
         },
         {
-          "dialogue_id": "s27_bolly",
-          "dialogue": "Beleive  me. I only ... - Meena! What are you doing here? - I know him very well  . Aren't you ashamed? How dare you go so close  to him? Go to your room? And you? How dare you? Mind you. This is my last warning.",
+          "dialogue_id": "s2905_bolly",
+          "dialogue": "-Please hear him out. -Shut up! How dare you bring him home? Shameless girl! Don't you care about our reputation? Listen to me carefully.",
           "industry": "bolly",
           "target_gender": "female",
-          "cause_raw": "Being close to a man",
+          "cause_raw": "bringing a boy home without permission",
           "film": {
-            "title": "Amanat",
-            "year": "1955",
-            "poster_path": "/mmB02uqrPGW0n40vs2Sx6EjaOAD.jpg"
+            "title": "Kabir Singh",
+            "year": "2019",
+            "poster_path": "/unqiPjtc6CGqs13zho7ZvWU85zu.jpg"
           }
         },
         {
-          "dialogue_id": "s38_bolly",
-          "dialogue": "But believe me, I couldn't wink an eye last night. But why have you come to me? I'm really ashamed, Mr. Bhuvan. Since I bagged the contract......my friends wanted to celebrate the occasion. And I couldn't resist.",
+          "dialogue_id": "s4335_bolly",
+          "dialogue": "Why would I be ashamed? Pappi is going crazy for you. And you want to know why you should be ashamed. Pappi's here too. - He's here for you. Pack your bags.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "succumbing to peer pressure",
+          "cause_raw": "Being obsessed with someone",
           "film": {
-            "title": "Amanush",
-            "year": "1975",
-            "poster_path": "/gzqoKb5sHJQqRl8dlyLxviqnAXi.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s61_bolly",
-          "dialogue": "Leave me alone! For God's sake! I don't know where the girls have gone! Aren't you ashamed to be following those girls? I'll hand you over to the cops Get lost, for God's sake! - Sardarji...Here comes another",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "stalking/harassing girls",
-          "film": {
-            "title": "An Evening in Paris",
-            "year": "1967",
-            "poster_path": "/xlSfgJ3HW9nhUwjVyqZzHgAiatg.jpg"
+            "title": "Tanu Weds Manu: Returns",
+            "year": "2015",
+            "poster_path": "/sO3XD6ZDZetb2N6YDQrHLTVQrfq.jpg"
           }
         },
         {
@@ -450,63 +450,63 @@
       "delta_bolly_minus_holly": -0.01667500182306282,
       "examples": [
         {
-          "dialogue_id": "WS16_holly",
-          "dialogue": "I'm sorry, honey.  Look at that Sentinel headline.  See, this kind of stuff is just shameless.  \"Nepal Premier Won't Resign.\" That is... They're just trying to sell newspapers.  They're just trying to sell newspapers.",
-          "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "spreading sensational news to sell newspapers",
-          "film": {
-            "title": "Deadline",
-            "year": "2025",
-            "poster_path": "/53Rk1l820O5045o0FycMXHCtbkQ.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS18_holly",
-          "dialogue": "I'm sorry, honey.  Look at that Sentinel headline.  See, this kind of stuff is just shameless.  \"Nepal Premier Won't Resign.\" That is... They're just trying to sell newspapers.  They're just trying to sell newspapers.",
-          "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "spreading sensational news to sell newspapers",
-          "film": {
-            "title": "Deadline",
-            "year": "2025",
-            "poster_path": "/53Rk1l820O5045o0FycMXHCtbkQ.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS21_holly",
-          "dialogue": "Didn't want to lose his trust.  I was afraid of losing him.  I was ashamed.  - Hello? - Hi.  Uh, uh, can I speak with George, please?",
-          "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "fear of losing someone's trust",
-          "film": {
-            "title": "The Green",
-            "year": "2011",
-            "poster_path": "/3DldnpNPHQpMLjVO6Rd7rDYQO77.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS31_holly",
-          "dialogue": "it's quite all right with me.  You'll wake Selina.  Aren't you ashamed?  I danced with him only twice when I couldn't find you.  You've always been a darling to me, Pelham.",
+          "dialogue_id": "WS89_holly",
+          "dialogue": "I feel kind of happy right now.  Yeah, I do, too.  We're all sensitive to ridicule and shame.  But it seemed to me, having gone through his materials,  that he was hyper-sensitive,",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "jealousy or possessiveness",
+          "cause_raw": "being hyper-sensitive",
           "film": {
-            "title": "Enchantment",
-            "year": "1948",
-            "poster_path": "/va1NmbFgojTohqjruhH3Lz0UnVT.jpg"
+            "title": "Cobain: Montage of Heck",
+            "year": "2015",
+            "poster_path": "/hQEkK4WnTtQXIp5QOnVTsK3xYRM.jpg"
           }
         },
         {
-          "dialogue_id": "s84_bolly",
-          "dialogue": "Very good. Play the tape. Where's my turban? Your Excellency. I'm ashamed. Inspite of being a prince...You are in love with an ordinary girl. Father, if she's ordinary... come a little further. If you can tell me someone better than her...I can, but I can't give the permission to go there...I understand, father",
+          "dialogue_id": "WS1526_holly",
+          "dialogue": "Take that unholy thing away. Take it away! Now!  Yes. Yes, Padre.  - Shame on you, Geppetto! - Burn him!  - So sorry. - Chop him up!  - Oh Dio mio. - Sorry, sorry.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "creating or owning an unholy object",
+          "film": {
+            "title": "Guillermo del Toro's Pinocchio",
+            "year": "2022",
+            "poster_path": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS1109_holly",
+          "dialogue": "I'm obsolete!  I'm irreleVant!  Me! Shame on you!  You yanked me home!  You shoVed me out in the woods!",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "making someone feel obsolete and irrelevant",
+          "film": {
+            "title": "The Recruit",
+            "year": "2003",
+            "poster_path": "/xInKytrHV3EJeCAulOpn5Q0bMxh.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS227_holly",
+          "dialogue": "And they were very, very good.  And they were much better than us.  At that point we, we were shamed.  [instrumental music]  We were gonna try a series of rehearsals",
+          "industry": "holly",
+          "target_gender": "unclear",
+          "cause_raw": "being less skilled or talented",
+          "film": {
+            "title": "Gimme Danger",
+            "year": "2016",
+            "poster_path": "/8YHqUETRBIFza756s8kcuU8XhEQ.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s1280_bolly",
+          "dialogue": "My husband drives me to the bus stop, So I can teach the children in the next village. What is shameful about that? Do not flaunt your education here! We also educate our kids!",
           "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "falling in love with a girl of lower social status",
+          "target_gender": "female",
+          "cause_raw": "being educated and working",
           "film": {
-            "title": "Ananda",
-            "year": "1970",
-            "poster_path": "/hRnjpXe3MeJPAgGwy5yfgPg5Vpl.jpg"
+            "title": "Parched",
+            "year": "2015",
+            "poster_path": "/cpuW4xGdUVZep3Otwo97xnEzdWi.jpg"
           }
         }
       ]
@@ -523,63 +523,63 @@
       "delta_bolly_minus_holly": -0.06043432668515964,
       "examples": [
         {
-          "dialogue_id": "WP7_holly",
-          "dialogue": "Smart, Mark... this could be a real good thing for you.  this could be a real good thing for you.  I'm proud of you.  I think you can make something real good for yourself here.  - Yeah? - Yeah.",
+          "dialogue_id": "WP360_holly",
+          "dialogue": "Wow. Amazing!  It is. And now, as the leader of the Guard,  I need you to assemble the Pride Lands' bravest,  fastest, strongest, and keenest of sight.  Okay, Dad. Got it!",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "for potential success",
+          "cause_raw": "becoming the leader of the Guard",
           "film": {
-            "title": "Foxcatcher",
-            "year": "2014",
-            "poster_path": "/w6Sl079QtUcQ9dVQ2RP6aN9NBXx.jpg"
+            "title": "The Lion Guard: Return of the Roar",
+            "year": "2016",
+            "poster_path": "/pzcQ7cQBHIdsKLN4exd7bCyy1pk.jpg"
           }
         },
         {
-          "dialogue_id": "WP26_holly",
-          "dialogue": "unenlightened, if you want,  but I'll tell you,  I'm damn proud to say I followed that man into battle,  and I followed him home in protest.  - Why didn't you tell me?",
+          "dialogue_id": "WP363_holly",
+          "dialogue": "I hope so, Rafiki.  I'm still not sure he's ready.  Wow! Me. Leader of the Lion Guard... Protectors of the Pride Lands!  Protectors of the Pride Lands!  It's kinda scary.",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "following a leader into battle and home in protest",
+          "cause_raw": "becoming the leader of the Lion Guard",
           "film": {
-            "title": "Love and Honor",
-            "year": "2006",
-            "poster_path": "/gTzeKY4YzAlGtWq7zHs2cCoI2YV.jpg"
+            "title": "The Lion Guard: Return of the Roar",
+            "year": "2016",
+            "poster_path": "/pzcQ7cQBHIdsKLN4exd7bCyy1pk.jpg"
           }
         },
         {
-          "dialogue_id": "WP31_holly",
-          "dialogue": "I'm not gonna like it.  - Rodney. - Yeah?  I'm so proud of you.  I really am. The whole promotion and everything... I'm just... I just wanted to tell you that.  I'm just... I just wanted to tell you that.",
+          "dialogue_id": "WP364_holly",
+          "dialogue": "I'm still not sure he's ready.  Wow! Me. Leader of the Lion Guard... Protectors of the Pride Lands!  Protectors of the Pride Lands!  It's kinda scary.  - Hey, Kion. - Huh?",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "getting a promotion",
+          "cause_raw": "becoming the leader of the Lion Guard",
           "film": {
-            "title": "Demoted",
-            "year": "2011",
-            "poster_path": "/svBLwgbE2skHjGOejqmZoSzpDLu.jpg"
+            "title": "The Lion Guard: Return of the Roar",
+            "year": "2016",
+            "poster_path": "/pzcQ7cQBHIdsKLN4exd7bCyy1pk.jpg"
           }
         },
         {
-          "dialogue_id": "WP33_holly",
-          "dialogue": "Yes. Yes, I did.  I promise, this time I really got the promotion.  - I'm proud of you, son. - Thank you, sir.  Excuse me.  Hi, sweetheart.",
+          "dialogue_id": "WP369_holly",
+          "dialogue": "Dad just told me about it.  The Lion Guard is the team  that protects the Pride Lands  and defends the Circle of Life.  And I'm its new leader.",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "for getting the promotion",
+          "cause_raw": "becoming the new leader of the Lion Guard",
           "film": {
-            "title": "Demoted",
-            "year": "2011",
-            "poster_path": "/svBLwgbE2skHjGOejqmZoSzpDLu.jpg"
+            "title": "The Lion Guard: Return of the Roar",
+            "year": "2016",
+            "poster_path": "/pzcQ7cQBHIdsKLN4exd7bCyy1pk.jpg"
           }
         },
         {
-          "dialogue_id": "p27_bolly",
-          "dialogue": "Because you are from Vaishali? But don't forget that you are the Royal mother of Magadh. The pride of Magadh is your pride. The victory of Magadh is your victory. And it's my duty to lay my life for both of them.",
+          "dialogue_id": "p1505_bolly",
+          "dialogue": "Look at Dad, Karan. Kabir, just shut up. I am proud of one thing in my life. My career is the only thing that I am proud of. Oh, God!",
           "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "Victory of Magadh",
+          "target_gender": "male",
+          "cause_raw": "career",
           "film": {
-            "title": "Amrapali",
-            "year": "1966",
-            "poster_path": "/d39lmb3KtzN7rF4YvVoW39vcrIt.jpg"
+            "title": "Kabir Singh",
+            "year": "2019",
+            "poster_path": "/unqiPjtc6CGqs13zho7ZvWU85zu.jpg"
           }
         }
       ]
@@ -596,63 +596,63 @@
       "delta_bolly_minus_holly": 0.036329640155695224,
       "examples": [
         {
-          "dialogue_id": "s53_bolly",
-          "dialogue": "But... nothing happened. Nothing. Mister, aren't you ashamed to stay here with your wife? I'm so ashamed that I have to come and go on the sly. You can do that. But what do I do?",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "staying with wife without consummating marriage",
-          "film": {
-            "title": "Amar Prem",
-            "year": "1972",
-            "poster_path": "/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s54_bolly",
-          "dialogue": "Nothing. Mister, aren't you ashamed to stay here with your wife? I'm so ashamed that I have to come and go on the sly. You can do that. But what do I do? Because of these women, I can't even step out of the house.",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "living with wife in a shared space",
-          "film": {
-            "title": "Amar Prem",
-            "year": "1972",
-            "poster_path": "/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s56_bolly",
-          "dialogue": "You? - No, sir. We were talking amongst ourselves. Sorry! Stop! Shame on such a marriage. Your parents did not even give me a bag. They have deceived us. Don't look there! Look down.",
+          "dialogue_id": "s3323_bolly",
+          "dialogue": "Go on! Get me married against my will. Go on! Shameless wretch! Even if gifted a diamond you'll still choose the piece of coal.",
           "industry": "bolly",
           "target_gender": "female",
-          "cause_raw": "not providing dowry",
+          "cause_raw": "forced marriage",
           "film": {
-            "title": "Amman Kovil Kizhakale",
-            "year": "1986",
-            "poster_path": "/cvNyhndV2ALXgsmeF5JaDQ712UT.jpg"
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
           }
         },
         {
-          "dialogue_id": "s57_bolly",
-          "dialogue": "'Today's age.' 'And from a daughter-in-law I became a mother-in-law.' It's a shame to this marriage! Munni! - It's a shame to this marriage! Your father had said that he would give fifty thousand as dowry.",
+          "dialogue_id": "s3463_bolly",
+          "dialogue": "I was about to......call you! Okay. I'm slightly ashamed but I'll be honest. Rumi has agreed to another proposal. So... we have to turn down your client!",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "rejected marriage proposal",
+          "film": {
+            "title": "Manmarziyaan",
+            "year": "2018",
+            "poster_path": "/spTuL3PJFYQsxBdAHbUJlHtwwyi.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s1546_bolly",
+          "dialogue": "Yeah man....everybody has a girlfriend. Bro, they are all in love. Shame on us. Not all of us. - Just the three of you.- What?",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "not providing the promised dowry",
+          "cause_raw": "not having a girlfriend",
           "film": {
-            "title": "Amman Kovil Kizhakale",
-            "year": "1986",
-            "poster_path": "/cvNyhndV2ALXgsmeF5JaDQ712UT.jpg"
+            "title": "Race 3",
+            "year": "2018",
+            "poster_path": "/wtnA5mmNumYkeevokar6IskyrZP.jpg"
           }
         },
         {
-          "dialogue_id": "WS261_holly",
-          "dialogue": "You were so concerned about her growing up... ...to be a Jewish American princess, you didn't even notice... ...that she was turning out to be a Jewish American prince.  ...that she was turning out to be a Jewish American prince.  - The shame that she brought all of us... - Will you stop this?  ...by marrying a non-Jew.  - Well, that's me. - What did you do, Flo?",
+          "dialogue_id": "s601_bolly",
+          "dialogue": "I mean, I am shocked too. - Anand stole my wife's photo. - Yes, sir. - Shameful. - Yes, sir. But we can't get distracted right now. No, sir.",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "stealing someone's wife's photo",
+          "film": {
+            "title": "Blackmail",
+            "year": "2018",
+            "poster_path": "/apt3peZIUjd56Rkt0HGxp6EaxKe.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS326_holly",
+          "dialogue": "I like birthday parties.  No. You're not invited.  Are you saying you're ashamed of me?  Everyone there is bringing their children. I'll be dating one.  Yes.",
           "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "marrying a non-Jew",
+          "target_gender": "unclear",
+          "cause_raw": "dating someone significantly younger",
           "film": {
-            "title": "The Comedian",
-            "year": "2016",
-            "poster_path": "/jR7PZd7K0dFT6oL9qhbSsiJXDsR.jpg"
+            "title": "The Favor",
+            "year": "2025",
+            "poster_path": "/kbNpCIMYrjB9z5LNBrHasY081gv.jpg"
           }
         }
       ]
@@ -669,63 +669,63 @@
       "delta_bolly_minus_holly": -0.052430963319329296,
       "examples": [
         {
-          "dialogue_id": "WS11_holly",
-          "dialogue": "Neither is your reputation.  What is that supposed to mean?  You bring shame upon this university  and it can cost you a hell of a lot more  than your teaching job.",
+          "dialogue_id": "WS1165_holly",
+          "dialogue": "What about him?  You don't care about clearin' his name?  Huh?  Shame on you.  8-9-0-5-3-Q-G.  What?  8-9-0-5-3-Q-G.",
           "industry": "holly",
           "target_gender": "unclear",
-          "cause_raw": "damaging the reputation of the university",
+          "cause_raw": "not caring about clearing someone's name",
           "film": {
-            "title": "Crisis",
-            "year": "2021",
-            "poster_path": "/15e2VcMTtk3pqgGlHWxisvygFAw.jpg"
+            "title": "Wonderland",
+            "year": "2024",
+            "poster_path": "/xGFjhFkqpOpFFUkEQjetKS11AWz.jpg"
           }
         },
         {
-          "dialogue_id": "WS24_holly",
-          "dialogue": "And I'm... all I can say is I'm ashamed.  That's it?  I'm really... I'm really ashamed.  Wow. Do me a favor... keep it together for the engagement party this weekend.  keep it together for the engagement party this weekend.",
+          "dialogue_id": "WS962_holly",
+          "dialogue": "Fuck me.  Fuck me.  I'm not ashamed of this. I just tried to be good.  Miss you so goddamn much, baby.  I miss you too.",
           "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "expressing personal shame",
-          "film": {
-            "title": "Demoted",
-            "year": "2011",
-            "poster_path": "/svBLwgbE2skHjGOejqmZoSzpDLu.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS62_holly",
-          "dialogue": "Why?  You've associated it with the unhappy life of your sister  who paid for your lessons through a life of shame.  You've been ashamed to dance ever since.  I'd despise myself if I thought that.",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "living a shameful life to pay for someone else's lessons",
-          "film": {
-            "title": "Limelight",
-            "year": "1952",
-            "poster_path": "/wNWQS4cPTVtyOPzMZ9HSjmOLZ97.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS63_holly",
-          "dialogue": "You've associated it with the unhappy life of your sister  who paid for your lessons through a life of shame.  You've been ashamed to dance ever since.  I'd despise myself if I thought that.  That's the trouble, you do.",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "associating shame with sibling's sacrifice",
-          "film": {
-            "title": "Limelight",
-            "year": "1952",
-            "poster_path": "/wNWQS4cPTVtyOPzMZ9HSjmOLZ97.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s51_bolly",
-          "dialogue": "And I thought you are hiding from me. From you? We are two sides of the same coin, Mr Anand. And besides, where coming here is concerned...I'm more shameless than you are. I must leave now. - What is the hurry? Mr Anand, Pyari and Dulari... - Are they waiting for you?",
-          "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "being shameless",
+          "cause_raw": "expressing regret or guilt",
           "film": {
-            "title": "Amar Prem",
-            "year": "1972",
-            "poster_path": "/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg"
+            "title": "Cherry",
+            "year": "2021",
+            "poster_path": "/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS309_holly",
+          "dialogue": "No, I need to be here.  I've spent my whole life ashamed of my country.  No offense meant, but you should still be ashamed.  I know. I am.  - Hello, sir. - Hello, ma'am.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "ashamed of his country",
+          "film": {
+            "title": "Little Women",
+            "year": "2019",
+            "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS1006_holly",
+          "dialogue": "No, I need to be here.  I've spent my whole life ashamed of my country.  No offense meant, but you should still be ashamed.  I know. I am.  - Hello, sir. - Hello, ma'am.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "ashamed of his country",
+          "film": {
+            "title": "Little Women",
+            "year": "2019",
+            "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s3486_bolly",
+          "dialogue": "O Baby They are high on fun. And starting to be shameless. Plug my pin in your socket. Charge my heart day and night.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "behaving shamelessly",
+          "film": {
+            "title": "Mastizaade",
+            "year": "2016",
+            "poster_path": "/5d7A6HJS7d8R2LDb4JG4pS5c5hr.jpg"
           }
         }
       ]
@@ -742,63 +742,63 @@
       "delta_bolly_minus_holly": 0.02946272218692371,
       "examples": [
         {
-          "dialogue_id": "p45_bolly",
-          "dialogue": "I'll avenge my humiliation. Don't be foolish. Come to senses. If you can not make your family proud, atleast don't disgrace it. Go away from here. Murder... murder... What are you waiting for?",
-          "industry": "bolly",
-          "target_gender": "unclear",
-          "cause_raw": "not disgracing the family",
-          "film": {
-            "title": "Anpadh",
-            "year": "1962",
-            "poster_path": "/pfGy9uf2bY4bdDZoBIs2DtUCgmO.jpg"
-          }
-        },
-        {
-          "dialogue_id": "p50_bolly",
-          "dialogue": "No. - Damn you! You have truly disappointed me. - Why? I thought you will come back and make me proud. But you didn't do a thing! Come inside.",
+          "dialogue_id": "p2516_bolly",
+          "dialogue": "Your father gave up his life for this country. You are carrying forward that heritage. I am proud of you. If I tell you that I want to bear witness. “against those rapists, then’?",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "expectation of making proud",
+          "cause_raw": "carrying forward father's heritage",
           "film": {
-            "title": "Anupama",
-            "year": "1966",
-            "poster_path": "/ojTUDpCurFHFEURK5OUKbGOyXks.jpg"
+            "title": "Uvaa",
+            "year": "2015",
+            "poster_path": "/zkhoAOX0leq0ZtzT8k5fYNh0HoZ.jpg"
           }
         },
         {
-          "dialogue_id": "p61_bolly",
-          "dialogue": "Why are you shouting? Call up Carlos again and ask him. Shut up! Say something once that makes me proud of you, not worry about you. You want to ruin my impression on my first job? Try to recollect!",
+          "dialogue_id": "p1503_bolly",
+          "dialogue": "She loved me. What did her father say? My pride! My reputation! That's utter bullshit. If Preeti and I were together, we would have had a family.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "making speaker proud by doing something commendable",
+          "cause_raw": "maintaining reputation",
           "film": {
-            "title": "Apna Sapna Money Money",
-            "year": "2006",
-            "poster_path": "/pTxNRZQhRqGqYyuNjAFAzk0iqrS.jpg"
+            "title": "Kabir Singh",
+            "year": "2019",
+            "poster_path": "/unqiPjtc6CGqs13zho7ZvWU85zu.jpg"
           }
         },
         {
-          "dialogue_id": "p63_bolly",
-          "dialogue": "Why are you shouting? Call up Carlos again and ask him. Shut up! Say something once that makes me proud of you, not worry about you. You want to ruin my impression on my first job? Try to recollect!",
+          "dialogue_id": "p458_bolly",
+          "dialogue": "She's playing well. If you support her today, then one day, she will make the nation proud. Look, Mahavir Singh-ji, vve get this much funding for sports.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "making speaker proud by doing something commendable",
+          "cause_raw": "future potential of making the nation proud through sports",
           "film": {
-            "title": "Apna Sapna Money Money",
-            "year": "2006",
-            "poster_path": "/pTxNRZQhRqGqYyuNjAFAzk0iqrS.jpg"
+            "title": "Dangal",
+            "year": "2016",
+            "poster_path": "/1CoKNi3XVyijPCvy0usDbSWEXAg.jpg"
           }
         },
         {
-          "dialogue_id": "WP3_holly",
-          "dialogue": "and it never did.  And it became one of those things, sort of like Freaks,  that they weren't very proud of but were stuck promoting.  - They were so out of it  by that point in time in their lives,",
+          "dialogue_id": "p671_bolly",
+          "dialogue": "It stinks! Stinks of treason. You've lost your crown, but not your pride. Not until I have the enemy's head at my feet. That's impossible!",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "not losing pride despite losing crown",
+          "film": {
+            "title": "Padmaavat",
+            "year": "2018",
+            "poster_path": "/5kk71s8Vmvt8XQOojevhTA5QcB0.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WP357_holly",
+          "dialogue": "Yeah, lions in the sky! I saw that!  The Roar of the Elders is a great gift, Kion.  It will make you the fiercest animal in the Pride Lands.  - But... - But what?  No, no, Simba.",
           "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "promoting something they weren't proud of",
+          "target_gender": "male",
+          "cause_raw": "Kion's potential to become the fiercest animal in the Pride Lands",
           "film": {
-            "title": "Bound",
-            "year": "1996",
-            "poster_path": "/9qAy6UWVw44dGrsyKrdEMt5qIUM.jpg"
+            "title": "The Lion Guard: Return of the Roar",
+            "year": "2016",
+            "poster_path": "/pzcQ7cQBHIdsKLN4exd7bCyy1pk.jpg"
           }
         }
       ]
@@ -815,63 +815,63 @@
       "delta_bolly_minus_holly": -0.0020434472654623573,
       "examples": [
         {
-          "dialogue_id": "WS3_holly",
-          "dialogue": "There's an extra 5,000 in it for you if you can.  Confidentially, I'd have done it for four.  \"I should regret having to inform Her Highness that you are ashamed  \"to come after your unwarranted attack on the Taronian bond issue.\"  Ashamed, huh?",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "unwarranted attack on the Taronian bond issue",
-          "film": {
-            "title": "Thirty Day Princess",
-            "year": "1934",
-            "poster_path": "/xGEjDGrgVkn5EaNuoiP8cX3rSGs.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS4_holly",
-          "dialogue": "\"I should regret having to inform Her Highness that you are ashamed  \"to come after your unwarranted attack on the Taronian bond issue.\"  Ashamed, huh?  He thought that'd get me. Well, it does.  - You mean you're going? - Why not?",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "unwarranted attack on the Taronian bond issue",
-          "film": {
-            "title": "Thirty Day Princess",
-            "year": "1934",
-            "poster_path": "/xGEjDGrgVkn5EaNuoiP8cX3rSGs.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS27_holly",
-          "dialogue": "[Footsteps]  - [Grunts] - Don't you look like what the cat-dragon ate.  You left in a hurry last night. Shame you missed dinner.  We had some wonderful liver filled with whipped cream.  - Nu-Twinks. - [Grunts]",
-          "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "leaving without notice",
-          "film": {
-            "title": "Alien Nation: Dark Horizon",
-            "year": "1994",
-            "poster_path": "/fDBN0S2l5QiuoVTPd8K4DTbcKPX.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS42_holly",
-          "dialogue": "You stole and you got caught, and you did what you do.  You just ran away.  When your mother died, I was... I hated myself. I ran away from my guilt and my shame.  I hated myself. I ran away from my guilt and my shame.  And your son.",
+          "dialogue_id": "WS512_holly",
+          "dialogue": "You're dismissed! Remove him!  VELDE: A real American would be proud to answer.  Shame on you!  CHAIRMAN: Next witness!  RUTH: There's Bunny.",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "running away from responsibilities and guilt",
+          "cause_raw": "not being patriotic",
           "film": {
-            "title": "Into the Woods",
-            "year": "2014",
-            "poster_path": "/6bZC6KGfCwTMmwXmrLJQhxuRjlT.jpg"
+            "title": "Guilty",
+            "year": "2015",
+            "poster_path": "/zR28Ui7coE3yAYJIIoeWdjNZdZo.jpg"
           }
         },
         {
-          "dialogue_id": "s44_bolly",
-          "dialogue": "Sister Mandira, will you lend me some food grains? Lend? Why don't you say you've come to beg? Take it that way. It's not for me. I can stay hungry, but mother...Go away! Leaving your husband, aren't you ashamed to go begging? It is a sin to even look at you. Get lost! You had been to my place, hadn't you? Sister-in-law humiliated you?",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "Leaving her husband and begging",
+          "dialogue_id": "WS1536_holly",
+          "dialogue": "Oh, that's okay.  You were never the kind of man I wanted for a father either.  If Mom saw you now, she'd be ashamed, you know that?  - That makes two of us I guess.  - I guess.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "not being a good father",
           "film": {
-            "title": "Amar Prem",
-            "year": "1972",
-            "poster_path": "/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg"
+            "title": "Fair Haven",
+            "year": "2017",
+            "poster_path": "/lary9OSK5aYRtcFovAbPSVu5ueu.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS835_holly",
+          "dialogue": "Rangers... So you wanna be Special Forces?  So you wanna be Special Forces?  I think Special Forces would be ashamed  to call you soldiers. Am I right?  Sir, no, sir!",
+          "industry": "holly",
+          "target_gender": "unclear",
+          "cause_raw": "not meeting the standards of Special Forces",
+          "film": {
+            "title": "Snowden",
+            "year": "2016",
+            "poster_path": "/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS182_holly",
+          "dialogue": "No, I won't listen any more!  Αbandon the flag, desert.  Τhe shame of it, the infamy!  - I don't want that! - Τhen, go!  - I beg you! - I don't love you any more!",
+          "industry": "holly",
+          "target_gender": "unclear",
+          "cause_raw": "desertion and abandoning duty",
+          "film": {
+            "title": "Carmen",
+            "year": "2023",
+            "poster_path": "/oc07MMSumgytiBT1fVTuEMDjUQA.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s2399_bolly",
+          "dialogue": "He bestows with respect and shame. He bestows with respect and shame. Respect is your gift, shame means You're upset with us. How can anyone desert his kin? Be convinced, O Lord.",
+          "industry": "bolly",
+          "target_gender": "unclear",
+          "cause_raw": "deserting family",
+          "film": {
+            "title": "Heropanti 2",
+            "year": "2022",
+            "poster_path": "/2TxkhMrM98iUb74Dqbkdco3ED0X.jpg"
           }
         }
       ]
@@ -888,63 +888,63 @@
       "delta_bolly_minus_holly": -0.015647942396712376,
       "examples": [
         {
-          "dialogue_id": "WS33_holly",
-          "dialogue": "Rich.  You know that you're a ragamuffin  if you're not ashamed to be a ragamuffin.  Much like having the simplicity of a child,  and the poverty of a child, you come before your Abba Father,",
+          "dialogue_id": "WS1532_holly",
+          "dialogue": "You okay? What did you do?  I think I s... I swallowed water.  There's no shame in it.  Morning.  What's happening?",
+          "industry": "holly",
+          "target_gender": "unclear",
+          "cause_raw": "swallowing water",
+          "film": {
+            "title": "False Positive",
+            "year": "2021",
+            "poster_path": "/3HSov8EW2fI3oQbUJxOvnf684ej.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS363_holly",
+          "dialogue": "They let you smoke on the job?  No.  That's a damn shame.  You know?  Now that's what I'm talkin' about.",
+          "industry": "holly",
+          "target_gender": "unclear",
+          "cause_raw": "smoking on the job",
+          "film": {
+            "title": "Mac & Devin Go to High School",
+            "year": "2012",
+            "poster_path": "/x3G4ft7cAWsnXjFPC5D5ruvGaOg.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS1567_holly",
+          "dialogue": "communistic cigars from Cuba?  I'm only a German American from Schweinfurt.  But I feel... deeply ashamed for you, sir!  I apologize.  The heat... is driving me crazy.",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "being a ragamuffin poorly dressed disreputable)",
+          "cause_raw": "smoking Cuban cigars",
           "film": {
-            "title": "Ragamuffin",
-            "year": "2025",
-            "poster_path": "/yhjKYd6aTzboCbJrBwMZXJCVist.jpg"
+            "title": "The Human Centipede 3 (Final Sequence)",
+            "year": "2015",
+            "poster_path": "/xUk5AGcGvybPBvvMqrDPbAFAknD.jpg"
           }
         },
         {
-          "dialogue_id": "WS70_holly",
-          "dialogue": "You'll have to learn how to do it, so please don't poo poo it.  'Cause we got this little dance, it's gonna rise to fame.  It's sure to put most any other dance to shame.  The Turkey Trot, the Bunny Hug, the Tickly Toe,  will be forgotten when we start to go.",
+          "dialogue_id": "WS1468_holly",
+          "dialogue": "You have proved your loyalty.  Those scars, they will be gone now.  No more shame.  Because pride... is what we are made of.  is what we are made of.",
           "industry": "holly",
           "target_gender": "unclear",
-          "cause_raw": "being outdated dances",
+          "cause_raw": "having scars",
           "film": {
-            "title": "Me and My Gal",
-            "year": "1932",
-            "poster_path": "/pAPxl1vECf3hmyX1W4juWd2Fzil.jpg"
+            "title": "Ink",
+            "year": "2009",
+            "poster_path": "/9vYyX7c8gZtxuqd6SiRukRb4gRd.jpg"
           }
         },
         {
-          "dialogue_id": "WS75_holly",
-          "dialogue": "Ηadn't you better go upstairs with my wife first and see if you can find something less,  uh, shall we say, revealing to put on?  I'm not ashamed of what I'm wearing! Here's your coat! Good night!  Lil, you can't go out like that! You're liable to get arrested or something!  - What if I do? What business is it of yours? - It's plenty of my business,",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "wearing revealing clothes",
-          "film": {
-            "title": "Stars and Stripes Forever",
-            "year": "1952",
-            "poster_path": "/q3I2rfMf0WCsY1TBcf3q7pAEe7a.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS121_holly",
-          "dialogue": "Right around the same time you traded in for those shoes.  This whole footwear smear campaign is really cutting me deep.  It's a real shame. Maybe you should commit suicide.  What? Is that too soon?  Alex is laughing, look at that. It's a good joke.",
-          "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "making fun of someone's footwear",
-          "film": {
-            "title": "About Alex",
-            "year": "2014",
-            "poster_path": "/dWn9qrUP8W3u2TXfBMa6TkLkoLt.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s1_bolly",
-          "dialogue": "Are you listening? Both are shaking hands. What are they saying? Aren't you ashamed? Want to hear the talks between your daughter and future son-in-law? Can I take some benefit of our acquaintance?",
+          "dialogue_id": "s5125_bolly",
+          "dialogue": "No need for your tears, mother Nothing happened. I am intact Have some shame Be modest in front of your father Explain to her",
           "industry": "bolly",
-          "target_gender": "unclear",
-          "cause_raw": "eavesdropping on private conversation",
+          "target_gender": "female",
+          "cause_raw": "lack of modesty",
           "film": {
-            "title": "Alaap",
-            "year": "1977",
-            "poster_path": "/mHpgSe8MAGVGiHN9dwemRvow10N.jpg"
+            "title": "Dum Laga Ke Haisha",
+            "year": "2015",
+            "poster_path": "/c9TX2kH1rG7QYEl09flOVg82QdU.jpg"
           }
         }
       ]
@@ -961,15 +961,39 @@
       "delta_bolly_minus_holly": -0.04217483612019403,
       "examples": [
         {
-          "dialogue_id": "WP18_holly",
-          "dialogue": "She is the first of our kind to become one of their kind.  We're all part creator because of her -  and that makes me feel proud.  She is living proof that we are not just a machine.  She is our future.",
+          "dialogue_id": "WP436_holly",
+          "dialogue": "But they ain't here to see Woodlawn vs. Banks.  They're here to see you.  You've given a lot of people hope, and I'm proud of you.  Look at me.  I'm proud of you.",
           "industry": "holly",
           "target_gender": "unclear",
-          "cause_raw": "being part of creating a unique individual",
+          "cause_raw": "giving people hope",
           "film": {
-            "title": "Cyborg 3: The Recycler",
-            "year": "1995",
-            "poster_path": "/wjMV4kkkPQrq1lGJ8cHR3GQNfxQ.jpg"
+            "title": "Woodlawn",
+            "year": "2015",
+            "poster_path": "/BJ1XNBBEiqaCM4SQhHYTrWqCfn.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WP437_holly",
+          "dialogue": "You've given a lot of people hope, and I'm proud of you.  Look at me.  I'm proud of you.  Win or lose, you're my son.  N'?",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "giving people hope",
+          "film": {
+            "title": "Woodlawn",
+            "year": "2015",
+            "poster_path": "/BJ1XNBBEiqaCM4SQhHYTrWqCfn.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WP263_holly",
+          "dialogue": "You guys have a good breakfast.  That was so good.  I'm so proud of you.  Oh, fuck. What?  Ow!",
+          "industry": "holly",
+          "target_gender": "unclear",
+          "cause_raw": "making a good breakfast",
+          "film": {
+            "title": "Love & Air Sex",
+            "year": "2014",
+            "poster_path": "/sqm2WTC8w4iJ039alWygi90YpKJ.jpg"
           }
         },
         {
@@ -985,39 +1009,15 @@
           }
         },
         {
-          "dialogue_id": "WP52_holly",
-          "dialogue": "I'm so glad I got that off of my chest.  I feel better already.  I'm so proud of you.  Cheers to old acquaintances reunited.  And making amends.",
-          "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "making amends",
-          "film": {
-            "title": "Tell",
-            "year": "2014",
-            "poster_path": "/wc5dkgKu6nshKvWA8HAwwcaB5IY.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WP68_holly",
-          "dialogue": "used to sing to me in my crib.  You see, children, in this story...  the royal gardener was very proud of his fruit trees.  But he was particularly anxious... that no harm would come to his plums.  that no harm would come to his plums.",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "his fruit trees",
-          "film": {
-            "title": "The Duchess and the Dirtwater Fox",
-            "year": "1976",
-            "poster_path": "/uGPpWdIfWwPlZEYE9TfEodZVs2l.jpg"
-          }
-        },
-        {
-          "dialogue_id": "p2_bolly",
-          "dialogue": "Bengali? Just hear me out clearly. I guess you are unaware of the fact.....you are now the proud owner of a magical lamp and three wishes. Understand. Come. Come.",
+          "dialogue_id": "p298_bolly",
+          "dialogue": "It just can't be done This is an official function There are so many people here! A proud day for all Jawans here Please be silent for a while We have a 5 year old child with us",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "owning a magical lamp",
+          "cause_raw": "official function",
           "film": {
-            "title": "Aladin",
-            "year": "2009",
-            "poster_path": "/rqXLyzAPk7yAygwRAyBrHcVL3os.jpg"
+            "title": "Budhia Singh: Born to Run",
+            "year": "2016",
+            "poster_path": "/5kvr2gx6j3XjueQfkYsGPqvGSQ.jpg"
           }
         }
       ]
@@ -1034,51 +1034,51 @@
       "delta_bolly_minus_holly": 0.022449138972685103,
       "examples": [
         {
-          "dialogue_id": "s47_bolly",
-          "dialogue": "Shut up! Be quiet, sister-in-law. We are not cheap. Your brother-in-law is! - Shut up! You wanton, shameless, characterless whore! Tell me, how much money did you take from her brother-in-law? And why? Mother! - Don't dare call me mother.",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "alleged infidelity",
-          "film": {
-            "title": "Amar Prem",
-            "year": "1972",
-            "poster_path": "/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s131_bolly",
-          "dialogue": "I said take them off So you won't take them off Didn't you feel any shame taking them off for your lover Don't cry There's no one here to feel sorry for you",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "infidelity",
-          "film": {
-            "title": "Anjaam",
-            "year": "1994",
-            "poster_path": "/j8pC5tg33gLbiPSYP3EQODV8MWH.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s160_bolly",
-          "dialogue": "We'll drag you there No, I won't go Come on, you bitch Shameless whore! We'll see what the village court says You dare dishonour our brother? Dare to live with another man Leave me alone",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "infidelity/adultery",
-          "film": {
-            "title": "Ankur: The Seedling",
-            "year": "1974",
-            "poster_path": "/jrchYJ6zRkUZoWbhV4XQrnzLzXA.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s187_bolly",
-          "dialogue": "He is talking of a watch. I am an ordinary coconut seller. I don't know what he's talking about. Don't you feel ashamed to lie? Didn't I buy coconuts from you yesterday? When you asked for money and I realized my purse had been picked didn't I give you my watch? I want that watch!",
+          "dialogue_id": "s2535_bolly",
+          "dialogue": "Oh, just shut up! You left me here alone.....and went to your ex in New York? Aren't you ashamed? If you wanted to dump, you could've just said it clearly. What dump, Riya?",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "lying",
+          "cause_raw": "infidelity",
           "film": {
-            "title": "Apna Desh",
-            "year": "1972",
-            "poster_path": "/caaHifsAmulriEjtFSPODM27e7s.jpg"
+            "title": "I Love NY",
+            "year": "2015",
+            "poster_path": "/tIqav4xlbDh55dmxNFPRx5rVQLX.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s4586_bolly",
+          "dialogue": "He'll be happy? And listen, we'll sell these at the flea market. He's really shameless. Let him come. - But don't tell Pappu. - I won't.",
+          "industry": "bolly",
+          "target_gender": "unclear",
+          "cause_raw": "dishonesty",
+          "film": {
+            "title": "Welcome Back",
+            "year": "2015",
+            "poster_path": "/xnRIT3ggVcJxGWylKw85n6pteLp.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s4454_bolly",
+          "dialogue": "You caused their deaths. Serving your white master Clive has blinded you. You felt no shame selling your own brothers. He has enslaved your very soul. I shall free it today.",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "betrayal and siding with oppressors",
+          "film": {
+            "title": "Thugs of Hindostan",
+            "year": "2018",
+            "poster_path": "/eonEvymAPpXvWvbBu21HYJx8VdS.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s4497_bolly",
+          "dialogue": "I don't know all this. I swear on you. -Don't swear! You shameless girl! Ah! Great! You look like a fairy in this dress.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "lying or dishonesty",
+          "film": {
+            "title": "Ujala Hi Ujala",
+            "year": "1974",
+            "poster_path": "/6eQkRRdfhQ5qJi5HEGCJ5MwP6aV.jpg"
           }
         },
         {
@@ -1107,63 +1107,63 @@
       "delta_bolly_minus_holly": -0.01884062462871991,
       "examples": [
         {
-          "dialogue_id": "WP2_holly",
-          "dialogue": "not just for them but for all live entertainers.  - Burlesque, in its day,  prided itself on being a little sleazy  but a little bit big-time but not too big-time  that everybody couldn't sort of show up",
-          "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "being a little sleazy but a little bit big-time",
-          "film": {
-            "title": "Bound",
-            "year": "1996",
-            "poster_path": "/9qAy6UWVw44dGrsyKrdEMt5qIUM.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WP17_holly",
-          "dialogue": "An addiction-free painkiller was always his goal,  and you found it.  You've done our family proud, Meg.  It was only possible through your support, gentlemen.  I'm pleased we were able to deliver for you.",
+          "dialogue_id": "WP935_holly",
+          "dialogue": "I am a broken,  desperate,  woman full of pride.  But I get it.  I have to let him go.",
           "industry": "holly",
           "target_gender": "female",
-          "cause_raw": "finding an addiction-free painkiller",
+          "cause_raw": "letting go of someone",
           "film": {
-            "title": "Crisis",
-            "year": "2021",
-            "poster_path": "/15e2VcMTtk3pqgGlHWxisvygFAw.jpg"
+            "title": "Breakthrough",
+            "year": "2019",
+            "poster_path": "/lUd2FNC8cMCcHyRMNZtVC48p3xH.jpg"
           }
         },
         {
-          "dialogue_id": "WP34_holly",
-          "dialogue": "And that's okay, because the greatest moments of my life  were the times I've spent on this team with you.  I've never been prouder of anything than being a Spartan.  ♪♪♪  When we first watched Poly's film, and I saw Buster Matthews... I was scared.",
+          "dialogue_id": "WP761_holly",
+          "dialogue": "Whoo-hoo!  Drac, I can't believe how calm you are about her leaving.  I'm proud of you.  Drac? Drac?  Where did Drac go?",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "being a Spartan",
+          "cause_raw": "Drac's calmness about someone leaving",
           "film": {
-            "title": "When the Game Stands Tall",
-            "year": "2014",
-            "poster_path": "/ffVhh4sBLpJCu875v6hwLJN5VNR.jpg"
+            "title": "Hotel Transylvania",
+            "year": "2012",
+            "poster_path": "/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg"
           }
         },
         {
-          "dialogue_id": "WP64_holly",
-          "dialogue": "Nothing stops somebody like him from bullying people except pushing back.  That's right. That kid's been a terror to Conner since he was a little boy.  I'm glad you done what you did, Son. I'm proud of you.  Stood up for himself, and that's a good thing.  I'm with you, Lacey. I don't like it.",
+          "dialogue_id": "WP937_holly",
+          "dialogue": "Says he's very proud of himself.  He was pursued by the Coast Guard.  Says he was very cool, very smart,",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "standing up against bullying",
+          "cause_raw": "outsmarting the Coast Guard",
           "film": {
-            "title": "A Madea Christmas",
-            "year": "2013",
-            "poster_path": "/tbwm8GptynNoxbkC5AhjYMYfnn7.jpg"
+            "title": "Into the Blue 2: The Reef",
+            "year": "2009",
+            "poster_path": "/qLWOHSfrwWYrm7yic0ACFKGRLAq.jpg"
           }
         },
         {
-          "dialogue_id": "p69_bolly",
-          "dialogue": "Because no one would put ourselves....through what we go through....if it wasn't for the money. That is why we fight. I fight for the pride of my country. I fight for the pride of my country. He got scared of my son.",
+          "dialogue_id": "WP2150_holly",
+          "dialogue": "Well, not exactly Ansel Adams, but I think it went pretty well.  Oh, my god.  I'm so proud of you. That's great.  It felt great to shoot again. It-it... Yeah. Yeah.  Yeah. Yeah.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "for shooting again",
+          "film": {
+            "title": "Camera Obscura",
+            "year": "2017",
+            "poster_path": "/85kxkK6dU2DudXWfaUhTLu3pvU1.jpg"
+          }
+        },
+        {
+          "dialogue_id": "p2282_bolly",
+          "dialogue": "She was innocent, only 19 years old. But don't worry, I am like your son too. I will make you proud. I swear I will bring them to justice. - Tawde. - Sir.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "fighting for the country",
+          "cause_raw": "bringing justice",
           "film": {
-            "title": "Apne",
-            "year": "2007",
-            "poster_path": "/qMGSWgtmtMyn9hkyGZeOB5Kz7zC.jpg"
+            "title": "Simmba",
+            "year": "2018",
+            "poster_path": "/ulQO4XJ1xlWdl4vX8Lr3SbWRfZw.jpg"
           }
         }
       ]
@@ -1180,63 +1180,63 @@
       "delta_bolly_minus_holly": 0.006780930537691063,
       "examples": [
         {
-          "dialogue_id": "p13_bolly",
-          "dialogue": "Your mother had already given up on me.....because I was useless. hopeless. But you were the apple of her eye. My child will make me proud..look after me. He'll support in my old-age. But this kid..left her all alone.",
+          "dialogue_id": "p1502_bolly",
+          "dialogue": "But now that I am away from you Why should I stay away from you? I am your pride Let's fill this void right now You were my dream come true",
           "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "provide care for old parents",
-          "film": {
-            "title": "All Is Well",
-            "year": "2015",
-            "poster_path": "/hsruH6BJCDy5ELSB7u9oZKryf2M.jpg"
-          }
-        },
-        {
-          "dialogue_id": "p68_bolly",
-          "dialogue": "They are very hi-tech and we are..Ehsan, did you hear that? Even though his father was..ill he went there to see boxing..in the Western. That is the spirit. I'm proud of you boy! Sir, how will we match them? For technology I'm taking you to Delhi.",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "spirit of dedication",
-          "film": {
-            "title": "Apne",
-            "year": "2007",
-            "poster_path": "/qMGSWgtmtMyn9hkyGZeOB5Kz7zC.jpg"
-          }
-        },
-        {
-          "dialogue_id": "p160_bolly",
-          "dialogue": "Do you really want to Woman settle these ruins? - What a pity! - It does not do you honor, Princess. Do you think that my love Spot you? You have to proud of my love! I stole you took from the soldiers risking their lives. Did not you see? I promised you. Remember that? I have fulfilled my promise ...Now, do the - hug me.",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "fulfilled his promise",
-          "film": {
-            "title": "Baghavat",
-            "year": "1982",
-            "poster_path": "/3pgPdami6JZA7gi9uGghL4BmWjX.jpg"
-          }
-        },
-        {
-          "dialogue_id": "p163_bolly",
-          "dialogue": "And only he who does not have shelter, realises what it means Here you're..What..? No way! I know you're a proud man who won't accept any charity..But this is your hard-earned money. You've maintained our accounts..And this is the payment. Go away now..Or I won't let you go, if you stay another minute People are watching.. Let them watch",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "hard work and honesty",
-          "film": {
-            "title": "Baghban",
-            "year": "2003",
-            "poster_path": "/p6NPup58fPjIEAU9tKU4XpQhtTA.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WP4_holly",
-          "dialogue": "Well--  Not to put ideas in your head, but--  You know I'm proud of you... whether you're saving the world or sweeping a floor.  whether you're saving the world or sweeping a floor.  You know, I knew there was some good reason I married you.",
-          "industry": "holly",
           "target_gender": "unclear",
-          "cause_raw": "for being a hard worker regardless of the task",
+          "cause_raw": "fulfilling dreams",
           "film": {
-            "title": "The Marine 2",
-            "year": "2009",
-            "poster_path": "/z1PayLY6vlMeCrL6Xz8biuuVkLq.jpg"
+            "title": "Kabir Singh",
+            "year": "2019",
+            "poster_path": "/unqiPjtc6CGqs13zho7ZvWU85zu.jpg"
+          }
+        },
+        {
+          "dialogue_id": "p1257_bolly",
+          "dialogue": "I saw those kids......what you did for them, I could never do that for you. You stood by them. I'm proud of you! Sir. What are you thinking? Too bad.",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "supporting and standing by kids",
+          "film": {
+            "title": "Hichki",
+            "year": "2018",
+            "poster_path": "/awN7MPVHcubWEqfo7T5jidx3xYY.jpg"
+          }
+        },
+        {
+          "dialogue_id": "p1712_bolly",
+          "dialogue": "And you also fell in love Lad, you became a man now. Just keep guiding me this way brother.. One day, this kid will make you proud. But I fear one thing What is that?",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "guidance leading to success",
+          "film": {
+            "title": "Laal Rang",
+            "year": "2016",
+            "poster_path": "/5koaZYQ0s63c7wlX6k75qS9QCpF.jpg"
+          }
+        },
+        {
+          "dialogue_id": "p2681_bolly",
+          "dialogue": "Come back home. - Yes, son. She's right, please return home. All of you should be proud of me. You will feel proud when you see me in His abode. I will stand proudly besides Him.",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "standing beside God",
+          "film": {
+            "title": "Mulk",
+            "year": "2018",
+            "poster_path": "/2ylI1irPUIn0sz0f8I3Z2QtbJ24.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WP431_holly",
+          "dialogue": "[congregation applauding]  Give Tony a round of applause.  We're proud of you, son, for how you are letting God  shine through you every day.  Yeah.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "letting God shine through him every day",
+          "film": {
+            "title": "Woodlawn",
+            "year": "2015",
+            "poster_path": "/BJ1XNBBEiqaCM4SQhHYTrWqCfn.jpg"
           }
         }
       ]
@@ -1253,63 +1253,63 @@
       "delta_bolly_minus_holly": -0.0062018627283856875,
       "examples": [
         {
-          "dialogue_id": "WP58_holly",
-          "dialogue": "Jack was reunited with his beloved cow,  and his mother could now dress in the best a golden egg could buy.  And the Baker and his wife were proud parents  of a strapping baby boy.  Thanks for the slipper!",
-          "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "having a strapping baby boy",
-          "film": {
-            "title": "Into the Woods",
-            "year": "2014",
-            "poster_path": "/6bZC6KGfCwTMmwXmrLJQhxuRjlT.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WP87_holly",
-          "dialogue": "Hey, you! Hey, you little crazy chickadee!  You stay out of my lard bucket!  He's so proud to be going off with his father.  Come now, you'd better hurry, dear.  Yes, I know that. The bus leaves in about 10 minutes.",
+          "dialogue_id": "WP214_holly",
+          "dialogue": "&nbsp  Look how big you've grown!  &nbsp  I'm so proud of you.  &nbsp  It's so sweet. He's so sweet.  &nbsp",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "going off with his father",
+          "cause_raw": "for growing up",
           "film": {
-            "title": "The Last Gangster",
-            "year": "1937",
-            "poster_path": "/mCNrlUTdwr7cNgy4mFuFF31uDNK.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WP97_holly",
-          "dialogue": "You were the only child I ever had.  As I said, you were magic for me.  I was happy and proud to keep going, just for you.  You don't have to say any more.  - I don't, do I? - No.",
-          "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "for their child",
-          "film": {
-            "title": "The Bad Seed",
-            "year": "1956",
-            "poster_path": "/iAgSkpZslQ2s3onL9TaHbyWygtC.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WP174_holly",
-          "dialogue": "I hope you know how much    you mean to me, and how      being your dad and Jamie's,   makes me prouder  than you'll ever know.    And how I hope to one day     make you proud, too.",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "being a father",
-          "film": {
-            "title": "McFarland, USA",
+            "title": "Pixels",
             "year": "2015",
-            "poster_path": "/yyhniD8A7Mv6SOn8oo1Ba2K0mKc.jpg"
+            "poster_path": "/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg"
           }
         },
         {
-          "dialogue_id": "p47_bolly",
-          "dialogue": "But bribe has shut his mouth. I agree. But what can I do all alone? I used to be proud of you. Because you were a But today I feel ashamed to call you my father. Enough, dear. I was helpless.",
+          "dialogue_id": "WP2661_holly",
+          "dialogue": "Thank you.  I had a black boyfriend once.  Your mother must be proud.  Yep.  And I'd do it again.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "daughter's interracial relationship",
+          "film": {
+            "title": "Trainwreck",
+            "year": "2015",
+            "poster_path": "/wrY629UTCUAKLJ4CxQXz6DCE7pr.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WP681_holly",
+          "dialogue": "- The girl in the violet dress. - Mm.  It's very pretty.  She reminds me to be good, so Father will be proud when he returns.  Where is he?  He volunteered for the Union Army.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "being good while her father is away",
+          "film": {
+            "title": "Little Women",
+            "year": "2019",
+            "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WP1920_holly",
+          "dialogue": "- The girl in the violet dress. - Mm. It's very pretty.  She reminds me to be good  so Father will be proud of me when he returns.  Where is he?  He volunteered for the Union Army.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "being good while her father is away",
+          "film": {
+            "title": "Little Women",
+            "year": "2019",
+            "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
+          }
+        },
+        {
+          "dialogue_id": "p1039_bolly",
+          "dialogue": "If I win, then freedom is ours. And our unborn child? I want him to be proud of me. Remember, if I get caught,",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "father's integrity",
+          "cause_raw": "father's fight for freedom",
           "film": {
-            "title": "Anth",
-            "year": "1994",
-            "poster_path": "/fhoCMQC9leY8ipwkL5GYUTJzrgZ.jpg"
+            "title": "Shamshera",
+            "year": "2022",
+            "poster_path": "/rryN6GhaoovO3sM8IEqGyKgCmXf.jpg"
           }
         }
       ]
@@ -1326,63 +1326,63 @@
       "delta_bolly_minus_holly": 0.019103272991975128,
       "examples": [
         {
-          "dialogue_id": "s2_bolly",
-          "dialogue": "Okay, I will not tell him that you had come here. Look, Alok is in love with me and I love him too. Shameless one! Have you lost all your shame? What is there to be ashamed in this? Don't sisters love their brothers in this vicinity?",
+          "dialogue_id": "s3324_bolly",
+          "dialogue": "<i>Love me again</i> <i>I'm faint with yearning Cure me with your love</i> Rehana! Have you no shame? Such obscenity! Go to your room. Move the camera, mister or I'll slap you.",
           "industry": "bolly",
           "target_gender": "female",
-          "cause_raw": "expressing love for a man",
+          "cause_raw": "Displaying affection publicly",
           "film": {
-            "title": "Alaap",
-            "year": "1977",
-            "poster_path": "/mHpgSe8MAGVGiHN9dwemRvow10N.jpg"
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
           }
         },
         {
-          "dialogue_id": "s55_bolly",
-          "dialogue": "Go on. Mother, brother is back. You are back? Rascal! Devil! Shameless wretch! You went there? You bit me and went to give her the medicine? She means everything! I'm nothing to you!",
+          "dialogue_id": "s3333_bolly",
+          "dialogue": "Just because you've earned a few cents‘! To talk to you, I have to meet your mistress! Shameless! You're the one who's shameless. Seeing another woman... no job, no salary.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "favoring another woman over his family",
+          "cause_raw": "being jobless and dependent on a woman",
           "film": {
-            "title": "Amar Prem",
-            "year": "1972",
-            "poster_path": "/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg"
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
           }
         },
         {
-          "dialogue_id": "s59_bolly",
-          "dialogue": "Like you I will not suppress my feelings. What did you say? You shameless girl! You... you... you have... you have...accused Suraj? That means you have accused me.",
+          "dialogue_id": "s4334_bolly",
+          "dialogue": "Sister-in-law Tanu. Aren't you ashamed? Why would I be ashamed? Pappi is going crazy for you. And you want to know why you should be ashamed.",
           "industry": "bolly",
           "target_gender": "female",
-          "cause_raw": "expressing her feelings",
+          "cause_raw": "Not reciprocating Pappi's feelings",
           "film": {
-            "title": "Amman Kovil Kizhakale",
-            "year": "1986",
-            "poster_path": "/cvNyhndV2ALXgsmeF5JaDQ712UT.jpg"
+            "title": "Tanu Weds Manu: Returns",
+            "year": "2015",
+            "poster_path": "/sO3XD6ZDZetb2N6YDQrHLTVQrfq.jpg"
           }
         },
         {
-          "dialogue_id": "s66_bolly",
-          "dialogue": "You! - Yes. Ever since I've seen this girl, I can't see anything else. I wonder what the disease is. - I know Shamelessness. Really? Got a remedy for it? Yes. A very patent remedy. I'll just give it to you.",
+          "dialogue_id": "s4328_bolly",
+          "dialogue": "There's the flag of rebellion soaring high The Emperor feared......the Prince would fall in love Bring shame to his name Helen belonged to Troy The undefeatable Raavan",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "expressing his feelings openly",
+          "cause_raw": "falling in love with someone inappropriate",
           "film": {
-            "title": "An Evening in Paris",
-            "year": "1967",
-            "poster_path": "/xlSfgJ3HW9nhUwjVyqZzHgAiatg.jpg"
+            "title": "Tamasha",
+            "year": "2015",
+            "poster_path": "/8Ktf15qGVFYQ6CdBtBgCDM96UMC.jpg"
           }
         },
         {
-          "dialogue_id": "WS7_holly",
-          "dialogue": "We both love him.  And yet only one of us is willing to give him up.  I'm rather ashamed of myself.  And I shall always remember you, my dear.  Oh, I wouldn't if I were you.",
+          "dialogue_id": "WS154_holly",
+          "dialogue": "I lost the baby.  I couldn't even tell my parents.  I'm so ashamed and I'm so afraid.  Well, he is looking for you.  He showed up on my doorstep three days ago.",
           "industry": "holly",
           "target_gender": "female",
-          "cause_raw": "not willing to give up a loved one",
+          "cause_raw": "losing a baby",
           "film": {
-            "title": "Ladies of Leisure",
-            "year": "1930",
-            "poster_path": "/71LYZn15hORP7MKE1jZAEb37ZSo.jpg"
+            "title": "Find Me",
+            "year": "2018",
+            "poster_path": "/kGaqlU5AtM9qTCwR059qEAq8WO.jpg"
           }
         }
       ]
@@ -1399,63 +1399,63 @@
       "delta_bolly_minus_holly": 0.017103937764416002,
       "examples": [
         {
-          "dialogue_id": "p52_bolly",
-          "dialogue": "I disgrace myself today My heart skips a beat If I begin to feel proud Why did you give me I feel flushed seeing my glowing face",
+          "dialogue_id": "p1621_bolly",
+          "dialogue": "But you know What? I'm so proud of you I'm so proud of What We are Let's show them today...What We are Lovely house!",
           "industry": "bolly",
           "target_gender": "unclear",
-          "cause_raw": "personal achievement",
+          "cause_raw": "collective achievement",
           "film": {
-            "title": "Anupama",
-            "year": "1966",
-            "poster_path": "/ojTUDpCurFHFEURK5OUKbGOyXks.jpg"
-          }
-        },
-        {
-          "dialogue_id": "p57_bolly",
-          "dialogue": "No, I wasn't worthy of you. I look too long to understand you. I thought, one day I'd succeed and do you proud. But I kept sinking deeper into hell. It doesn't matter. I am proud of who you are.",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "other's achievements",
-          "film": {
-            "title": "Apaharan",
-            "year": "2005",
-            "poster_path": "/gZbY2w5NKuJZ8XBmIPZnG2P7X5L.jpg"
-          }
-        },
-        {
-          "dialogue_id": "p103_bolly",
-          "dialogue": "Avtar Kishen lives by his own efforts. Your wealth can never wield power over his poverty. In your false pride, you're losing a good opportunity. You'll regret it someday. Sir, it's the needy who regrets!",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "self-reliance",
-          "film": {
-            "title": "Avtaar",
-            "year": "1983",
-            "poster_path": "/czNlKKQywcyr8pzus90K4vp66w9.jpg"
-          }
-        },
-        {
-          "dialogue_id": "p131_bolly",
-          "dialogue": "Offer letter? Come on Jai. You've been so dedicated to your work over all these years. And now I can proudly say Mr. Jai Varma......Head of the Mathematics Department, Harvard University. Really? When did this happen? I've been waiting for an opportunity like this all my life.",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "professional achievement",
-          "film": {
-            "title": "Baar Baar Dekho",
+            "title": "Ki & Ka",
             "year": "2016",
-            "poster_path": "/7Bb1vXdtv2BjV6mX8jignRTqG5.jpg"
+            "poster_path": "/h0EdMN91ts85jN62UotOOUXa5Ho.jpg"
           }
         },
         {
-          "dialogue_id": "WP8_holly",
-          "dialogue": "- That's impressive. - Isn't that impressive?  Thank You.  We're very very proud of him.  I am so proud to introduce my mentor.  He has the ability to look at me and I see where I am in life.",
+          "dialogue_id": "p459_bolly",
+          "dialogue": "In order to prepare them, he made them wrestle boys. Took the taunts and abuses of the entire village, just so that one day they would make the country proud. Look, sir. Look.",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "daughters' wrestling achievement",
+          "film": {
+            "title": "Dangal",
+            "year": "2016",
+            "poster_path": "/1CoKNi3XVyijPCvy0usDbSWEXAg.jpg"
+          }
+        },
+        {
+          "dialogue_id": "p302_bolly",
+          "dialogue": "Say, I'll run another 100 kms I'll run 100 kms Budhia is the Pride of Orissa! Pride of India! Every sports person's inspiration our Budhia! Why draw water from here?",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "Budhia's athletic achievements",
+          "film": {
+            "title": "Budhia Singh: Born to Run",
+            "year": "2016",
+            "poster_path": "/5kvr2gx6j3XjueQfkYsGPqvGSQ.jpg"
+          }
+        },
+        {
+          "dialogue_id": "p947_bolly",
+          "dialogue": "Thank you! Thank you! Mr. Sachin Ramesh Tendulkar. I'm proud of all my children but of course, I am proud of Sachin. So, no doubt, he's an excellent person",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "Sachin's achievements",
+          "film": {
+            "title": "Sachin: A Billion Dreams",
+            "year": "2017",
+            "poster_path": "/ysOy2g2NcDRszOM8YF14aru82fy.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WP291_holly",
+          "dialogue": "Oh, my God.  My own fault.  I am infected with the filth of pride.  I know it.  I am.",
           "industry": "holly",
           "target_gender": "unclear",
-          "cause_raw": "for the person's achievements",
+          "cause_raw": "self-realization of pride",
           "film": {
-            "title": "Foxcatcher",
-            "year": "2014",
-            "poster_path": "/w6Sl079QtUcQ9dVQ2RP6aN9NBXx.jpg"
+            "title": "The Witch",
+            "year": "2016",
+            "poster_path": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg"
           }
         }
       ]
@@ -1472,15 +1472,27 @@
       "delta_bolly_minus_holly": 0.0017443194413521157,
       "examples": [
         {
-          "dialogue_id": "s16_bolly",
-          "dialogue": "You could've at least spared the police. Now you want to borrow money from us as well. Have some shame. Look, I am lnder Bhalla. Chima and his goons have barged in our house. - I see..Fine then, keep him there.",
+          "dialogue_id": "s1938_bolly",
+          "dialogue": "Rascal. I asked for the rate, not your name. When you're not ashamed to ask...why are you ashamed to say it? 2 million. 2 million!",
           "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "asking for financial help",
+          "target_gender": "unclear",
+          "cause_raw": "asking for a high price",
           "film": {
-            "title": "All Is Well",
-            "year": "2015",
-            "poster_path": "/hsruH6BJCDy5ELSB7u9oZKryf2M.jpg"
+            "title": "Satyameva Jayate",
+            "year": "2018",
+            "poster_path": "/8YCos8rd6QzGvhDp0oBS8achffk.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s800_bolly",
+          "dialogue": "<i>Hide their shame with shrouds of opulence</i> <i>With shrouds of opulence</i> <i>Hide their shame</i> <i>Hide their shame</i> <i>Hide their shame with shrouds of opulence</i>",
+          "industry": "bolly",
+          "target_gender": "unclear",
+          "cause_raw": "hiding their wrongdoings behind wealth",
+          "film": {
+            "title": "Choked: Paisa Bolta Hai",
+            "year": "2020",
+            "poster_path": "/1jqDl2cuBlOBfrbjEIJhqwQVZnR.jpg"
           }
         },
         {
@@ -1496,39 +1508,27 @@
           }
         },
         {
-          "dialogue_id": "s20_bolly",
-          "dialogue": "Your house is made of glass What will happen if stones are thrown in it You made me a shameless person You only taught me how to sell my flesh Without caring for my condition you sent me to the road",
+          "dialogue_id": "s600_bolly",
+          "dialogue": "E-mail: 40,000/- Rs Tonight. Text: Need 40,000 more for Dad's test. URGENT!' You have no shame. You've a strange character. You numbskull..\"Who brought you in this world?\"",
           "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "forced into prostitution",
+          "target_gender": "unclear",
+          "cause_raw": "asking for money",
           "film": {
-            "title": "Allah Rakha",
-            "year": "1986",
-            "poster_path": "/4MS6nGHW6ufvWRpjMcWAXDx3Vpx.jpg"
+            "title": "Blackmail",
+            "year": "2018",
+            "poster_path": "/apt3peZIUjd56Rkt0HGxp6EaxKe.jpg"
           }
         },
         {
-          "dialogue_id": "s45_bolly",
-          "dialogue": "I helped you and you... - Meaning? It is deserted across the lake at dusk. Aren't you ashamed? You are like my elder brother. By helping me, you want to play with my honor? Shame on you! You saw it with your own eyes? - Yes! Uncle held her hand...and gave her 100 rupees. - Really?",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "taking advantage of a vulnerable situation",
-          "film": {
-            "title": "Amar Prem",
-            "year": "1972",
-            "poster_path": "/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS35_holly",
-          "dialogue": "I'll welcome it after your ship.  A poor piece of good, Doctor.  I'm almost ashamed to otter her for sale.  I've got my reputation to think of.  Doesn't it make you sick to think of it?",
+          "dialogue_id": "WS262_holly",
+          "dialogue": "That's your Honda Civic pussy.  Gets you where you wanna go.  No shame in this pussy at all.  Reliable. You just, you know,  you're not gonna be proud to be seen",
           "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "offering poor quality goods for sale",
+          "target_gender": "unclear",
+          "cause_raw": "owning a modest car",
           "film": {
-            "title": "Anne of the Indies",
-            "year": "1951",
-            "poster_path": "/qqqsaRNgEKfbmyPpCSwIYgcialS.jpg"
+            "title": "The Wizard of Lies",
+            "year": "2017",
+            "poster_path": "/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg"
           }
         }
       ]
@@ -1545,63 +1545,63 @@
       "delta_bolly_minus_holly": 0.027970553533613156,
       "examples": [
         {
-          "dialogue_id": "s91_bolly",
-          "dialogue": "have become a loafer inhaling drugs! Do not forget your status, Ravi! We picked you up from the streets to raise you...not to make you the boss! Aren't you ashamed of talking to your older brother this way?. Have you raised him? Do you know what would be our plight if he wasn't around?",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "drug abuse and disrespecting elder brother",
-          "film": {
-            "title": "Andaz",
-            "year": "1971",
-            "poster_path": "/mgTpJOEABQVwfElSQHm4IFMfoKr.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s123_bolly",
-          "dialogue": "We had just looked at the boy. Hear that. The boy. And such a boy, that I was feeling ashamed......inviting my friends to the wedding. Stop it, Ravi, that's enough. He is older than you. Show some respect.",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "disrespecting elders",
-          "film": {
-            "title": "Angrezi Mein Kehte Hain",
-            "year": "2018",
-            "poster_path": "/fbpLX38HvteTAYzMWWdJr2t3B9B.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s221_bolly",
-          "dialogue": "Be polite with her. But if she ignores, then stop right there. Sorry, sir... Sorry, sir...When you really feel ashamed of what you've done...then you can take those bricks off and go back home to your mothers. Sir...Straight from the heart. Get out.",
+          "dialogue_id": "s1349_bolly",
+          "dialogue": "Take one of our men along. Yes. Come on, get in. Have some shame. There's a lady inside. Sit at the back. Get in. Sit.",
           "industry": "bolly",
           "target_gender": "male",
           "cause_raw": "disrespecting a woman",
           "film": {
-            "title": "Arjun Patiala",
-            "year": "2019",
-            "poster_path": "/nuPerJWV04xQMQUu9J6K6H4iFCB.jpg"
+            "title": "Phantom",
+            "year": "2015",
+            "poster_path": "/ssFJ8BABZC5sk8Bn09gzRmKt6ni.jpg"
           }
         },
         {
-          "dialogue_id": "s232_bolly",
-          "dialogue": "People sacrifice everything for their parents' wish. They even sacrifice their lives. And you.. Shame on you, for mocking such....a holy and good work. Even a dog becomes loyal after spending....2-4 days in a house. You are even worse than a dog.",
+          "dialogue_id": "s4137_bolly",
+          "dialogue": "A man who disses women shames the entire nation. He who shames a woman shames his mum by implication You're a shame to your constellation.",
           "industry": "bolly",
-          "target_gender": "unclear",
-          "cause_raw": "disrespecting parents' wishes",
+          "target_gender": "male",
+          "cause_raw": "disrespecting women",
           "film": {
-            "title": "Asli Naqli",
-            "year": "1986",
-            "poster_path": "/8hAvHOaR9LHTePYktQkQFq6IxbX.jpg"
+            "title": "Shaandaar",
+            "year": "2015",
+            "poster_path": "/5P4zbvCglw1WW61aCol3vJ1N28j.jpg"
           }
         },
         {
-          "dialogue_id": "WS66_holly",
-          "dialogue": "It just seems to me the act isn't getting anywhere.  - If you didn't have me around your neck... - Listen to me.  You ought to be ashamed, talking to me like that.  Didn't we make a deal once? Well, didn't we?  You go through medical school and pay me back with interest.",
+          "dialogue_id": "s4138_bolly",
+          "dialogue": "shames the entire nation. He who shames a woman shames his mum by implication You're a shame to your constellation. So what if your face makes babies cry?",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "disrespecting women",
+          "film": {
+            "title": "Shaandaar",
+            "year": "2015",
+            "poster_path": "/5P4zbvCglw1WW61aCol3vJ1N28j.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s4139_bolly",
+          "dialogue": "He who shames a woman shames his mum by implication You're a shame to your constellation. So what if your face makes babies cry? You can say nice things and make a try",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "disrespecting women",
+          "film": {
+            "title": "Shaandaar",
+            "year": "2015",
+            "poster_path": "/5P4zbvCglw1WW61aCol3vJ1N28j.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS177_holly",
+          "dialogue": "I don't care where you came from!  Your ancestors mean nothing!  You bring shame to all of us!  Yes, sir.  Actually, Brent was thinking about",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "disrespect and ungratefulness",
+          "cause_raw": "disrespecting ancestors",
           "film": {
-            "title": "Me and My Gal",
-            "year": "1932",
-            "poster_path": "/pAPxl1vECf3hmyX1W4juWd2Fzil.jpg"
+            "title": "Dude Bro Party Massacre III",
+            "year": "2015",
+            "poster_path": "/9MoZAH9RI6X9npBtklPhceC0ghA.jpg"
           }
         }
       ]
@@ -1618,63 +1618,63 @@
       "delta_bolly_minus_holly": 0.04440639092501046,
       "examples": [
         {
-          "dialogue_id": "p15_bolly",
-          "dialogue": "What went wrong? Why did you disturb my sunbathing? How dare you! You are asking me, why did I bring you down? Oh, that. You should be proud. Your soon to-be wife has such a beautiful body. You aren't ashamed. You are feeling proud of it, instead?",
+          "dialogue_id": "p247_bolly",
+          "dialogue": "Tomorrow is her wedding. She's an Indian woman. They care more about theirfather's honour and pride. Congratulations for your wedding. Your father will never tolerate this.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "fiancee's physical appearance",
+          "cause_raw": "daughter's wedding",
           "film": {
-            "title": "Aloo Chaat",
-            "year": "2009",
-            "poster_path": "/1XoRQnF2I49c0I3pZeIj9qaC4My.jpg"
+            "title": "Bhoomi",
+            "year": "2017",
+            "poster_path": "/zVh5RNjIcM3Wggp0Be3fGdLxz75.jpg"
           }
         },
         {
-          "dialogue_id": "p16_bolly",
-          "dialogue": "Oh, that. You should be proud. Your soon to-be wife has such a beautiful body. You aren't ashamed. You are feeling proud of it, instead? Yes. This is my life. -But.. but this is India. India.",
+          "dialogue_id": "p689_bolly",
+          "dialogue": "She agreed to sex you up for 500. You have an hour. Go get deflowered! Make your father proud! I hope your shooter works. Like an AK-47! When I stretch like this...",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "wife's physical beauty",
+          "cause_raw": "losing virginity",
           "film": {
-            "title": "Aloo Chaat",
-            "year": "2009",
-            "poster_path": "/1XoRQnF2I49c0I3pZeIj9qaC4My.jpg"
+            "title": "Parched",
+            "year": "2015",
+            "poster_path": "/cpuW4xGdUVZep3Otwo97xnEzdWi.jpg"
           }
         },
         {
-          "dialogue_id": "p41_bolly",
-          "dialogue": "Diwan sir, love is sublime and doesn't believe in cast or creed. Love is the boon of nature....according to which the rich and the poor are equal. if love is a crime, then I'm proud of my love. Shut up. - Diwan sir. I don't know what stopped me, Diwan sir.",
+          "dialogue_id": "p1396_bolly",
+          "dialogue": "But he's right. Brother-in-law's a genius. Jai. Proud of you. Take care. Hey! Hello.",
           "industry": "bolly",
-          "target_gender": "unclear",
-          "cause_raw": "love beyond caste or creed",
+          "target_gender": "male",
+          "cause_raw": "brother-in-law's intelligence",
           "film": {
-            "title": "Anjaana",
-            "year": "1969",
-            "poster_path": "/3wVldHLSVcGbH6mQ9KBJrhyorgd.jpg"
+            "title": "Jai Ho",
+            "year": "2014",
+            "poster_path": "/AqBZOaWfRBkq64ASen8ulETPWrx.jpg"
           }
         },
         {
-          "dialogue_id": "p55_bolly",
-          "dialogue": "One has to pay a price for the truth. You are a true Μuslim. Αnd I've always been proud to be your wife. You can't shutter my pride. I won't let you lose.",
+          "dialogue_id": "p1272_bolly",
+          "dialogue": "Yes. And we're all proud of you. We're so proud of you, daddy. Me too. Love you my babies. - We're finally together. Hey... - Sorry...Don't do it.",
           "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "husband's truthfulness",
+          "target_gender": "male",
+          "cause_raw": "family reunion",
           "film": {
-            "title": "Apaharan",
-            "year": "2005",
-            "poster_path": "/gZbY2w5NKuJZ8XBmIPZnG2P7X5L.jpg"
+            "title": "Housefull 3",
+            "year": "2016",
+            "poster_path": "/6Udose5F7a9SdNf8HlNMovtDMM9.jpg"
           }
         },
         {
-          "dialogue_id": "WP12_holly",
-          "dialogue": "Some day we'll come back with our kids.  And you'll take her in your arms, I know you will, dad.  And you'll be proud of me, too.  What do you say, dad?  Jerry... if you marry that girl, I never want to see you again.",
+          "dialogue_id": "WP544_holly",
+          "dialogue": "I'm so proud of you.  He say caca.  So proud.  I hope you guys are happy.  Your little brother is super smart.",
           "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "marrying a specific girl",
+          "target_gender": "unclear",
+          "cause_raw": "little brother being smart",
           "film": {
-            "title": "Ladies of Leisure",
-            "year": "1930",
-            "poster_path": "/71LYZn15hORP7MKE1jZAEb37ZSo.jpg"
+            "title": "Diary of a Wimpy Kid: The Long Haul",
+            "year": "2017",
+            "poster_path": "/ivRrDm5PlOndteVZgjhQenzKU5t.jpg"
           }
         }
       ]
@@ -1691,63 +1691,63 @@
       "delta_bolly_minus_holly": 0.004096434283153108,
       "examples": [
         {
-          "dialogue_id": "s32_bolly",
-          "dialogue": "You couldn't even do such a small thing. You just had to snatch a bag. - Great, my son! I'm ashamed to call you my son. The thieves too spare their house but you..You robbed your own house. You want to rob your father? When a father doesn't care for his son, then the son.... is helpless to take such a step.",
+          "dialogue_id": "s1939_bolly",
+          "dialogue": "What kind of a guy are you? You're trying to save a criminal. Aren't you ashamed? You mean the criminal who saved my life. You heard everything, didn't you.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "theft and betrayal",
+          "cause_raw": "supporting a criminal",
           "film": {
-            "title": "Amanat",
-            "year": "2016",
-            "poster_path": "/3xM0JlIBXiURjfWQgE1fH6j9Xjs.jpg"
+            "title": "Satyameva Jayate",
+            "year": "2018",
+            "poster_path": "/8YCos8rd6QzGvhDp0oBS8achffk.jpg"
           }
         },
         {
-          "dialogue_id": "s35_bolly",
-          "dialogue": "I know, you tried to steal just to relieve my tension Didn't you think, you would get defamed? People will call you a thief. This world..Enough! I'm already ashamed of myself. Please don't make me feel guilty What are you saying?",
+          "dialogue_id": "s4194_bolly",
+          "dialogue": "'But, his intentions were completely different.' What...Picking pockets at your age. What...Don't you feel ashamed? Hey, anywhere is fine, but not on my head. What? Who are you?",
           "industry": "bolly",
           "target_gender": "unclear",
           "cause_raw": "stealing",
           "film": {
-            "title": "Amanat",
+            "title": "Simmba",
+            "year": "2018",
+            "poster_path": "/ulQO4XJ1xlWdl4vX8Lr3SbWRfZw.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s3479_bolly",
+          "dialogue": "Take this - What are you laughing about? What you did is very wrong You should be ashamed Someone robbed my bag so I got.. - Shut up! What is wrong is wrong",
+          "industry": "bolly",
+          "target_gender": "unclear",
+          "cause_raw": "being robbed",
+          "film": {
+            "title": "Mary",
+            "year": "2024",
+            "poster_path": "/wpApuf1xky92ug8n5mP5aP7DiDy.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s1857_bolly",
+          "dialogue": "And the seed of fraud was slowly nurturing inside her. So that this very love of hers may not become. . . .the ingredient for her shame. . Rupa. Rupa. Rupa.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Fraudulent activities",
+          "film": {
+            "title": "Sanam Teri Kasam",
             "year": "2016",
-            "poster_path": "/3xM0JlIBXiURjfWQgE1fH6j9Xjs.jpg"
+            "poster_path": "/3jKqSy87GVUsXdhwhcO7O1UqrjO.jpg"
           }
         },
         {
-          "dialogue_id": "s50_bolly",
-          "dialogue": "No. - Take it. Take it mister. When you didn't feel ashamed earlier, why must you today? Till you live, continue to rob people like this. Go, Nepal babu. Go on!",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "Robbing people",
-          "film": {
-            "title": "Amar Prem",
-            "year": "1972",
-            "poster_path": "/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s132_bolly",
-          "dialogue": "What are you doing? return the chain -Never I'm stressed cause of her I'll feel better if I sell it Be ashamed of yourself -Shut up I'll slap you one, and you shut up I'll beat you so bad I'll send you to your father",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "stealing and selling someone's chain",
-          "film": {
-            "title": "Anjaam",
-            "year": "1994",
-            "poster_path": "/j8pC5tg33gLbiPSYP3EQODV8MWH.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS169_holly",
-          "dialogue": "- Thomasin... - I hate thy pity. I need it not.  And forgive us the sins we have this day committed against thee,  free us from the shame and torment which are due unto us, Father.  We beseech thee, increase our faith in the promise of the Gospel,  our fear of thy name and the hatred of all our sins,",
+          "dialogue_id": "WS264_holly",
+          "dialogue": "Ruth.  Man: Have you no shame?  Hello?  Have you no shame?  No remorse?  Have you no conscience?  You steal from widows,",
           "industry": "holly",
           "target_gender": "female",
-          "cause_raw": "committing sins",
+          "cause_raw": "stealing from vulnerable individuals",
           "film": {
-            "title": "The Witch",
-            "year": "2016",
-            "poster_path": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg"
+            "title": "The Wizard of Lies",
+            "year": "2017",
+            "poster_path": "/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg"
           }
         }
       ]
@@ -1764,51 +1764,51 @@
       "delta_bolly_minus_holly": 0.016939042761858515,
       "examples": [
         {
-          "dialogue_id": "s176_bolly",
-          "dialogue": "I know it. I even know that...the files here contain photographs of the And the lock-ups here bear the weak. This place is worse than a brother. Shame on You! More of this crap and I'll cut your tongue. Are you showing your masculinity on him, instead",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "abuse of power and authority",
-          "film": {
-            "title": "Anth",
-            "year": "1994",
-            "poster_path": "/fhoCMQC9leY8ipwkL5GYUTJzrgZ.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s178_bolly",
-          "dialogue": "May the truth prevail. Whatever happened is embarrassing. This incident brings shame to our department. Policemen gun down their fellowman right inside But sir, law and life were never guarded in that",
+          "dialogue_id": "s2383_bolly",
+          "dialogue": "Fame. –Respect. He bestows with respect and shame. He bestows with respect and shame. Let's see what you deserve. Greed made me turn my back on good,",
           "industry": "bolly",
           "target_gender": "unclear",
-          "cause_raw": "internal corruption and violence",
+          "cause_raw": "greed",
           "film": {
-            "title": "Anth",
-            "year": "1994",
-            "poster_path": "/fhoCMQC9leY8ipwkL5GYUTJzrgZ.jpg"
+            "title": "Heropanti 2",
+            "year": "2022",
+            "poster_path": "/2TxkhMrM98iUb74Dqbkdco3ED0X.jpg"
           }
         },
         {
-          "dialogue_id": "s182_bolly",
-          "dialogue": "it's too much work, Gaya. Αfter the magistrate and police station, I won't have anything left. When it comes to money, you become shameless. Get the work done first. We'll see later. Double the payment.",
+          "dialogue_id": "s4197_bolly",
+          "dialogue": "- You're lying. - Not at all. - How much did Durva Ranade pay you? - Not at all, sir. Shame on you. Does he remind you of anyone, Mohile? There was a time when I was like this.",
+          "industry": "bolly",
+          "target_gender": "unclear",
+          "cause_raw": "corruption/bribery",
+          "film": {
+            "title": "Simmba",
+            "year": "2018",
+            "poster_path": "/ulQO4XJ1xlWdl4vX8Lr3SbWRfZw.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s1427_bolly",
+          "dialogue": "That's enough, Dad. Enough. Shame on you! -Thakur Tejpratap Singh! -Shame on you! The papers have been leaked for the third year in a row.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "Greed for money",
+          "cause_raw": "corruption in education system",
           "film": {
-            "title": "Apaharan",
-            "year": "2005",
-            "poster_path": "/gZbY2w5NKuJZ8XBmIPZnG2P7X5L.jpg"
+            "title": "Pranaam",
+            "year": "2019",
+            "poster_path": "/115f1t03C35rSQmfOupJ9DdkcjG.jpg"
           }
         },
         {
-          "dialogue_id": "s225_bolly",
-          "dialogue": "Love has become a trade, and trade has become love. In the past it was known as betrayal, But now it's shamelessness It has become the attitude of the respected people...She was the goddess of the temple...And she used to be very beautifull But look how she looks now",
+          "dialogue_id": "s1428_bolly",
+          "dialogue": "Enough. Shame on you! -Thakur Tejpratap Singh! -Shame on you! The papers have been leaked for the third year in a row. These papers have been sold for about five lakh rupees.",
           "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "moral degradation and loss of beauty",
+          "target_gender": "male",
+          "cause_raw": "corruption in education system",
           "film": {
-            "title": "Arpan",
-            "year": "1983",
-            "poster_path": "/y8nOAim2W81MCzaEREZhHbzIdGW.jpg"
+            "title": "Pranaam",
+            "year": "2019",
+            "poster_path": "/115f1t03C35rSQmfOupJ9DdkcjG.jpg"
           }
         },
         {
@@ -1837,63 +1837,63 @@
       "delta_bolly_minus_holly": 0.049658293170512485,
       "examples": [
         {
-          "dialogue_id": "p40_bolly",
-          "dialogue": "Do you think your son is such a fool....to let go of this golden chance, Daddy?. Fool, I want God to give a son like you to everyone. With his ability, he improved the business in a short while....and his decency has made me proud. Not only son, God has given me everything. He gave me a divine friend.",
+          "dialogue_id": "p630_bolly",
+          "dialogue": "You're the man, just look at you. With a hat. Your...your father must be so proud of you. No! He's dead. - I'm so sorry.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "son's business acumen and decency",
+          "cause_raw": "son's appearance",
           "film": {
-            "title": "Anjaana",
-            "year": "1969",
-            "poster_path": "/3wVldHLSVcGbH6mQ9KBJrhyorgd.jpg"
+            "title": "Dilwale",
+            "year": "2015",
+            "poster_path": "/pYgPu6hhOr61knwbestTx4vSdMb.jpg"
           }
         },
         {
-          "dialogue_id": "p54_bolly",
-          "dialogue": "Move. Sir, this is Professor Shastri's.. - Of course, I know him. Ηe has chosen the right field. Ηe'll make his father proud. Who else have you all kidnapped? Sir, should we make his report?",
+          "dialogue_id": "p2914_bolly",
+          "dialogue": "No son, you just won life's race I am proud of you. I am proud of you. Papa, are you cross with me? No son!",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "son's career choice",
+          "cause_raw": "son's achievement",
           "film": {
-            "title": "Apaharan",
-            "year": "2005",
-            "poster_path": "/gZbY2w5NKuJZ8XBmIPZnG2P7X5L.jpg"
+            "title": "Ehsaas: The Feeling",
+            "year": "2001",
+            "poster_path": "/zSYkW77tMgpxFNaWHpwZiUvdjfT.jpg"
           }
         },
         {
-          "dialogue_id": "p65_bolly",
-          "dialogue": "Father spoke? What did he say? He said that a son's victory is....victory for his father too. I am proud of my Angad. Simran. - Yes? Have you brought money for Kara“? - Yes.",
+          "dialogue_id": "p805_bolly",
+          "dialogue": "I'm going to make you as strong as a lion. What a brave boy my son has become! I'm so proud of you. Come here. Pull this up.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "son's victory",
+          "cause_raw": "son's bravery",
           "film": {
-            "title": "Apne",
-            "year": "2007",
-            "poster_path": "/qMGSWgtmtMyn9hkyGZeOB5Kz7zC.jpg"
+            "title": "Qissa Panjab",
+            "year": "2015",
+            "poster_path": "/5bp08RHdUyI9id5QdUZq2egNNT5.jpg"
           }
         },
         {
-          "dialogue_id": "p67_bolly",
-          "dialogue": "You can ban me but you can't....ban the spirit in me. My son Angad will come. He will bring my pride back. I challenge you. Grandma, get me a Play station from Germany.",
+          "dialogue_id": "p1199_bolly",
+          "dialogue": "Look at what you have turned into. I'm so proud of you. So proud of you. Father, I've thought of an idea for your campaign. Yes...tell me, son.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "son's future actions",
+          "cause_raw": "son's idea for campaign",
           "film": {
-            "title": "Apne",
-            "year": "2007",
-            "poster_path": "/qMGSWgtmtMyn9hkyGZeOB5Kz7zC.jpg"
+            "title": "Happy Bhag Jayegi",
+            "year": "2016",
+            "poster_path": "/sEWDNSBe5BfUchkJ5BsJV6VUgwF.jpg"
           }
         },
         {
-          "dialogue_id": "WP134_holly",
-          "dialogue": "He will screw up his scholarship for you.  Do... do you realize that?  I want to be the proud Mom  who goes in and checks in at the ticket box  and is like, \"My son is playing today.\"",
+          "dialogue_id": "WP430_holly",
+          "dialogue": "Really good.  [cheering]  Come here, baby!  Momma is so proud of you.  Great game, son. Great game.  Who is this?  This is Johnnie.",
           "industry": "holly",
           "target_gender": "female",
-          "cause_raw": "son's sports achievement",
+          "cause_raw": "son's great game",
           "film": {
-            "title": "In Football We Trust",
+            "title": "Woodlawn",
             "year": "2015",
-            "poster_path": "/suJxazrzmx0px2OOoO3VIxPJwAY.jpg"
+            "poster_path": "/BJ1XNBBEiqaCM4SQhHYTrWqCfn.jpg"
           }
         }
       ]
@@ -1910,63 +1910,63 @@
       "delta_bolly_minus_holly": -0.007608680010354675,
       "examples": [
         {
-          "dialogue_id": "WS10_holly",
-          "dialogue": "Best sex of my life.  - Hey, okay, hi. - And now she won't call me back.  Shame on you, Bec. Apologize at once and go out with this fine young man.  - Your friend is very wise. - She also happens to be my boss,  so, you know, she doesn't wanna hear about our time together.",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "not returning calls after intimacy",
-          "film": {
-            "title": "You're Not You",
-            "year": "2014",
-            "poster_path": "/jvrdukoeCuVckHlbAxU0MPoIzPI.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS146_holly",
-          "dialogue": "My penis speaks to me, Father Brendan.  Sometimes I ejaculate during a bed bath in front of my attendants.  All I feel is shame and mortification while other men apparently get pleasure. I... I'm sorry if I sound angry.  I'm sorry if I sound angry.  Don't worry about it. Go on.",
+          "dialogue_id": "WS839_holly",
+          "dialogue": "There's a code? What code?  Shut up, Mr. three-way.  No, have you no shame?  For Christ sakes.  He's not in here, dear.",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "sexual dysfunction",
+          "cause_raw": "engaging in promiscuous behavior",
           "film": {
-            "title": "The Surrogate",
-            "year": "1984",
-            "poster_path": "/88SkTfSYVrAYvhsoAHW4ZANabIZ.jpg"
+            "title": "10 Rules for Sleeping Around",
+            "year": "2013",
+            "poster_path": "/dX8IMDXbVWJ7fq0AX0efog1SMX5.jpg"
           }
         },
         {
-          "dialogue_id": "WS153_holly",
-          "dialogue": "We are not leaving this apartment  till we come up with an air sex routine that is so depraved  and so sick that we will be ashamed to look our own mothers in the eye  for another year.  Maybe this is a coincidence, but I was just sitting here thinking,",
+          "dialogue_id": "WS845_holly",
+          "dialogue": "- Quiet. - They don't belong here.  - Quiet down. - Get the faggots out of here.  Now, shame on you.  - How dare you? - Haggis.  No, Hal.",
           "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "planning to perform a sexually explicit act",
+          "target_gender": "male",
+          "cause_raw": "homophobia",
           "film": {
-            "title": "Love & Air Sex",
-            "year": "2014",
-            "poster_path": "/sqm2WTC8w4iJ039alWygi90YpKJ.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS200_holly",
-          "dialogue": "I think I'm gonna be sick.  Hi-ooh!  - Longest walk of shame EVER! - No, no! That's not... Nothing happened, we both just passed out.  Nothing happened, we both just passed out.  - I mean, something happened. - I'm sure it did!",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "presumed sexual activity",
-          "film": {
-            "title": "Night of the Living Deb",
+            "title": "Zombieworld",
             "year": "2015",
-            "poster_path": "/4zYHMNeK9gqr4x7GiY5YpjDEeG.jpg"
+            "poster_path": "/2lV2lU0u8dTczqsx4dgqrL2eN4J.jpg"
           }
         },
         {
-          "dialogue_id": "s3_bolly",
-          "dialogue": "Look, Alok is in love with me and I love him too. Shameless one! Have you lost all your shame? What is there to be ashamed in this? Don't sisters love their brothers in this vicinity? Okay, I am going.",
-          "industry": "bolly",
+          "dialogue_id": "WS882_holly",
+          "dialogue": "and they change.  Hey, what's up, slut?  Hey, don't shame the slut. Rhi, I'm proud of you.  Stay slutty.  Shut up, dumbass!",
+          "industry": "holly",
           "target_gender": "female",
-          "cause_raw": "Incestuous relationship",
+          "cause_raw": "being promiscuous",
           "film": {
-            "title": "Alaap",
-            "year": "1977",
-            "poster_path": "/mHpgSe8MAGVGiHN9dwemRvow10N.jpg"
+            "title": "Every Day",
+            "year": "2018",
+            "poster_path": "/4UnME3icxSspwL0UoGZNSyyp7Xs.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS1166_holly",
+          "dialogue": "...prostate the size of a grapefruit.  - Come here. Just sit down. - Where's Spenser?  Shame on you! Did they violate you?  - Sexually? - No.  What are you talking about?",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "sexual misconduct",
+          "film": {
+            "title": "Wonderland",
+            "year": "2024",
+            "poster_path": "/xGFjhFkqpOpFFUkEQjetKS11AWz.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s3328_bolly",
+          "dialogue": "You bought it from a shop‘! Of course not! Got it from the clinic. I thought you've been shameless buying condoms instead of groceries! How could I do such a thing‘!",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "buying condoms",
+          "film": {
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
           }
         }
       ]
@@ -1983,63 +1983,63 @@
       "delta_bolly_minus_holly": 0.006702565239374212,
       "examples": [
         {
-          "dialogue_id": "s105_bolly",
-          "dialogue": "Let's go...The rose fell off! Get it back for her, son. We're getting late. I'll get you another. What a shame! Had the rose fallen off from my wife's hand......I would have leapt after it! Shame on the youngsters of the day!",
+          "dialogue_id": "s3329_bolly",
+          "dialogue": "Hattie! - Thanks! Come, come. <i>Senseless love</i> <i>Shameless love</i> Namrata, about the audition...Pout! I'm sorry! - Ms. Ripped Jeans! What are you drinking?",
           "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "not being chivalrous",
+          "target_gender": "female",
+          "cause_raw": "not conforming to traditional behavior",
           "film": {
-            "title": "Andaz Apna Apna",
-            "year": "1994",
-            "poster_path": "/a0GV2V3yif2DbsMCSBrivvSHUWQ.jpg"
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
           }
         },
         {
-          "dialogue_id": "s106_bolly",
-          "dialogue": "What a shame! Had the rose fallen off from my wife's hand......I would have leapt after it! Shame on the youngsters of the day! - I'll get it., - Sit down. You'll take ages!",
+          "dialogue_id": "s1282_bolly",
+          "dialogue": "Chop this. Do some work. Cover your head. You've shamed me enough already. Not on the floor! Didn't your mother teach you anything? They sold me a useless goat.",
           "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "lack of chivalry",
+          "target_gender": "female",
+          "cause_raw": "not adhering to traditional norms and expectations",
           "film": {
-            "title": "Andaz Apna Apna",
-            "year": "1994",
-            "poster_path": "/a0GV2V3yif2DbsMCSBrivvSHUWQ.jpg"
+            "title": "Parched",
+            "year": "2015",
+            "poster_path": "/cpuW4xGdUVZep3Otwo97xnEzdWi.jpg"
           }
         },
         {
-          "dialogue_id": "s145_bolly",
-          "dialogue": "He's gone out. You wanted to tell him something? - Yes. If you want to save your shameless son....tell him not to cross his limits. Did he commit a mistake? Ask what he didn't do.",
+          "dialogue_id": "s3464_bolly",
+          "dialogue": "It's okay! There's always a first time for everything! Do you have no shame? I chose my happiness over shame! And do you know that.......\"Shame\" is often what leads to suicide.",
           "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "crossing limits/behaving inappropriately",
+          "target_gender": "female",
+          "cause_raw": "choosing happiness over societal norms",
           "film": {
-            "title": "Anjaana",
-            "year": "1969",
-            "poster_path": "/3wVldHLSVcGbH6mQ9KBJrhyorgd.jpg"
+            "title": "Manmarziyaan",
+            "year": "2018",
+            "poster_path": "/spTuL3PJFYQsxBdAHbUJlHtwwyi.jpg"
           }
         },
         {
-          "dialogue_id": "s183_bolly",
-          "dialogue": "Okay. What can I say? Εverything got ruined. Shame on me. Ηe hit me and I could do nothing. What kind of a police do I serve when I can't protect myself? I'm tired of paying the dual price of being a Muslim.",
+          "dialogue_id": "s1974_bolly",
+          "dialogue": "Shall we go? Pour the ghee into the sacred fire. -Why not? 'Piping hot the ghee is flowing. No trace of shame showing.' Svaha. You making halva?",
           "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "inability to protect himself and religious discrimination",
-          "film": {
-            "title": "Apaharan",
-            "year": "2005",
-            "poster_path": "/gZbY2w5NKuJZ8XBmIPZnG2P7X5L.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS37_holly",
-          "dialogue": "In the name of the power of creation commands you.  In the name of God... Flee in shameful defeat from the word made flesh.  Flee in shameful defeat from the word made flesh.  Fall and be judged in fire.  Take off the collar.",
-          "industry": "holly",
           "target_gender": "unclear",
-          "cause_raw": "not following religious beliefs",
+          "cause_raw": "improper conduct of ritual",
           "film": {
-            "title": "Hellbenders",
-            "year": "2013",
-            "poster_path": "/sWgCQPypdN9jFaUSjItPn9htW9p.jpg"
+            "title": "Shamshera",
+            "year": "2022",
+            "poster_path": "/rryN6GhaoovO3sM8IEqGyKgCmXf.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS344_holly",
+          "dialogue": "or its political views  or all the hypocrites.  I'm ashamed of Jesus.  Is this gonna get weird?  Yeah, probably.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "religious beliefs",
+          "film": {
+            "title": "Blue Like Jazz",
+            "year": "2012",
+            "poster_path": "/t6boEESUOnO31vD0FPfNAAHV8y.jpg"
           }
         }
       ]
@@ -2056,63 +2056,63 @@
       "delta_bolly_minus_holly": -0.005897090197172328,
       "examples": [
         {
-          "dialogue_id": "WP6_holly",
-          "dialogue": "I want to go to Worlds and win gold.  I want to go to the 88 Olympics in Seoul and win gold.  Good! I'm proud of you.  Are you getting the support that you need?  What do you mean sir?",
+          "dialogue_id": "WP381_holly",
+          "dialogue": "Well, I need your help.  What's the kerbubble, Kion?  The five of us are the Pride Lands' fiercest,  bravest, strongest, fastest and keenest of sight.  And that's why I want you all to join",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "winning olympic gold",
+          "cause_raw": "assembling a strong team",
           "film": {
-            "title": "Foxcatcher",
-            "year": "2014",
-            "poster_path": "/w6Sl079QtUcQ9dVQ2RP6aN9NBXx.jpg"
+            "title": "The Lion Guard: Return of the Roar",
+            "year": "2016",
+            "poster_path": "/pzcQ7cQBHIdsKLN4exd7bCyy1pk.jpg"
           }
         },
         {
-          "dialogue_id": "WP29_holly",
-          "dialogue": "I've pulled anchovies off of pizzas that were bigger than that.  Hey, everyone. Great hustle.  Really good work. I'm so proud of everyone. That's fantastic.  Great job, guys. Really good.  Now all we can do is hope.",
+          "dialogue_id": "WP434_holly",
+          "dialogue": "Them angels is crying!  [thunder rumbling]  I just wanna say that I am proud of all of you.  I'm proud of each and every one of you,  for the game that you played tonight",
           "industry": "holly",
           "target_gender": "unclear",
-          "cause_raw": "team's great hustle and good work",
+          "cause_raw": "for playing a good game",
           "film": {
-            "title": "Dolphin Tale 2",
-            "year": "2014",
-            "poster_path": "/7ujGA9YqxQ3uwtMelCEsaBKasuR.jpg"
+            "title": "Woodlawn",
+            "year": "2015",
+            "poster_path": "/BJ1XNBBEiqaCM4SQhHYTrWqCfn.jpg"
           }
         },
         {
-          "dialogue_id": "WP35_holly",
-          "dialogue": "Here we go, baby, 41 blast into the record books.  TAYSHON: Hoo-hoo-hoo. Here we go.  It's the last play of the game, dog. Make me proud.  ♪♪♪  ♪ This is where it all began ♪",
+          "dialogue_id": "WP438_holly",
+          "dialogue": "Did you see it?  I would not have missed it for the world.  I am so proud of you.  - All right, Tony! - Tony, you won us a big one.  [players celebrating]",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "last play of the game",
+          "cause_raw": "winning a game or competition",
           "film": {
-            "title": "When the Game Stands Tall",
-            "year": "2014",
-            "poster_path": "/ffVhh4sBLpJCu875v6hwLJN5VNR.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WP125_holly",
-          "dialogue": "Coach says I might get to play some football this year.  What?  - I'm so proud of you. Good job. - Ah.  (BIANCA CHUCKLES)  Wow.",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "playing football",
-          "film": {
-            "title": "The DUFF",
+            "title": "Woodlawn",
             "year": "2015",
-            "poster_path": "/A6ScveWmIPL9vSYyULD8ObqyHDQ.jpg"
+            "poster_path": "/BJ1XNBBEiqaCM4SQhHYTrWqCfn.jpg"
           }
         },
         {
-          "dialogue_id": "p43_bolly",
-          "dialogue": "We have to win this case at any cost. Come! Case. Till yesterday the relation which I was proud about. Today it has become a case. You go, Shilpa.",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "winning a case",
+          "dialogue_id": "WP331_holly",
+          "dialogue": "Did they hire your assistant?  Thank you.  Very proud of you.  Superfight Two with Rocky Balboa, the challenger  and, of course, Apollo Creed, the world champion.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "being the world champion",
           "film": {
-            "title": "Ankahee",
-            "year": "2006",
-            "poster_path": "/bj5PeFr9b6urMxUy9v0ilezHeiB.jpg"
+            "title": "Creed",
+            "year": "2015",
+            "poster_path": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg"
+          }
+        },
+        {
+          "dialogue_id": "p301_bolly",
+          "dialogue": "I'll run more Say, I'll run another 100 kms I'll run 100 kms Budhia is the Pride of Orissa! Pride of India! Every sports person's inspiration our Budhia!",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "athletic achievement",
+          "film": {
+            "title": "Budhia Singh: Born to Run",
+            "year": "2016",
+            "poster_path": "/5kvr2gx6j3XjueQfkYsGPqvGSQ.jpg"
           }
         }
       ]
@@ -2129,63 +2129,63 @@
       "delta_bolly_minus_holly": -0.007003569454560481,
       "examples": [
         {
-          "dialogue_id": "WP5_holly",
-          "dialogue": "he'd lost everyone he ever loved.  He was a grieving, broken man searching for answers in the mystic arts.  A brilliant student, but he was proud, headstrong.  He questioned the Ancient One, rejected her teaching.  He left Kamar-Taj.",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "being a brilliant student",
-          "film": {
-            "title": "Doctor Strange",
-            "year": "2016",
-            "poster_path": "/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WP63_holly",
-          "dialogue": "Every generation sees a little less division... and a little more open minds and open hearts.  and a little more open minds and open hearts.  I think we should be happy and proud... that our kids, our children... see people as people.  see people as people.  That was beautiful.",
-          "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "children's open-mindedness and acceptance",
-          "film": {
-            "title": "A Madea Christmas",
-            "year": "2013",
-            "poster_path": "/tbwm8GptynNoxbkC5AhjYMYfnn7.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WP72_holly",
-          "dialogue": "he'd lost everyone he ever loved.  He was a grieving, broken man searching for answers in the mystic arts.  A brilliant student, but he was proud, headstrong.  He questioned the Ancient One, rejected her teaching.  He left Kamar-Taj.",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "being a brilliant student and headstrong",
-          "film": {
-            "title": "Doctor Strange",
-            "year": "2016",
-            "poster_path": "/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WP78_holly",
-          "dialogue": "and that's when your father left.  Oh, Mom... But I'm so proud of you.  But I'm so proud of you.  I'm so proud and so happy  that you have so many friends and you're so popular",
+          "dialogue_id": "WP1748_holly",
+          "dialogue": "The FBI Academy!  You passed the exam!  I'm so damn proud of you, honey.  Yeah.  Well, I don't know.",
           "industry": "holly",
           "target_gender": "female",
-          "cause_raw": "child's popularity and having many friends",
+          "cause_raw": "passing the FBI exam",
           "film": {
-            "title": "Social Nightmare",
-            "year": "2013",
-            "poster_path": "/yn7vsny6qtXvbnPmW98ghluyLro.jpg"
+            "title": "Deadfall",
+            "year": "2012",
+            "poster_path": "/5ZM6uKhuEzWZD3xklmqKPuvq1Nj.jpg"
           }
         },
         {
-          "dialogue_id": "p31_bolly",
-          "dialogue": "See, I am a teacher. My responsibility towards each child is the same. Proud as I am of my successful and privileged students...lam equally concerned about the weaker and...poor students of our society. Two Indias co-exist in our country...Mr. Arvind Kamal. And, if we want our country to genuinely progress, then...we shall have to eliminate the gap between the two.",
+          "dialogue_id": "WP766_holly",
+          "dialogue": "She raised me on her own.  I got a full ride.  She's... so proud I'm here.  so proud I'm here.  Thanks for the lift.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "getting a full ride scholarship",
+          "film": {
+            "title": "Liberal Arts",
+            "year": "2012",
+            "poster_path": "/kqU8qijdt9mtX4Pt00PFno5bwrz.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WP1568_holly",
+          "dialogue": "I didn't ask about your grades.  I know your grades.  You have every right to be proud of them,  as I've already told you.  Well, then you know the answer to your question",
+          "industry": "holly",
+          "target_gender": "unclear",
+          "cause_raw": "good grades",
+          "film": {
+            "title": "Indignation",
+            "year": "2016",
+            "poster_path": "/2xNGhpg7BoQZIh6ufGNaRRPv706.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WP404_holly",
+          "dialogue": "Dad!  I'm so happy to see you.  Oh! I'm so proud of you.  You know, I thought you'd turn out not to be shit.  But you ended up looking real good,",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "child's successful transformation",
+          "film": {
+            "title": "Fifty Shades of Black",
+            "year": "2016",
+            "poster_path": "/nkGhv7WMbyX7tL8CJkvMY3S2lW.jpg"
+          }
+        },
+        {
+          "dialogue_id": "p756_bolly",
+          "dialogue": "Only you Only you Only you Make us proud! We passed the exams, Uncle! Congratulations, my dear! Have some sweets.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "equal concern for all students",
+          "cause_raw": "passing exams",
           "film": {
-            "title": "Aarakshan",
-            "year": "2011",
-            "poster_path": "/accK9eB8qVpuxY3MdIK1RzFotTt.jpg"
+            "title": "Pranaam",
+            "year": "2019",
+            "poster_path": "/115f1t03C35rSQmfOupJ9DdkcjG.jpg"
           }
         }
       ]
@@ -2202,6 +2202,42 @@
       "delta_bolly_minus_holly": -0.01707211422090865,
       "examples": [
         {
+          "dialogue_id": "WS1330_holly",
+          "dialogue": "They would have killed him, too.  And my daughter,  she's ashamed of me. And I am proud of her for it.  I'm sorry.  Why?",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "causing harm to family",
+          "film": {
+            "title": "Savages",
+            "year": "2012",
+            "poster_path": "/joyiyBwYY5QCpldqT1FzrTqsTJK.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS394_holly",
+          "dialogue": "If maybe she got a new phone?  I won't tell you,  you should be ashamed!  You destroyed everything!  Listen, can you please... You have destroyed my daughter,",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "causing emotional harm to a female",
+          "film": {
+            "title": "Love",
+            "year": "2015",
+            "poster_path": "/vfgp5PkmMkLaqKTRAEweHxMmXJN.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS555_holly",
+          "dialogue": "Swing around. I wanna get another one.  Conrad.  I am ashamed of you.  Get up.  They could have killed us, sir.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "endangering others",
+          "film": {
+            "title": "Battle of the Bulge",
+            "year": "1965",
+            "poster_path": "/vNEw6H6St25991C0a8r6AQKTdqi.jpg"
+          }
+        },
+        {
           "dialogue_id": "WS25_holly",
           "dialogue": "Hey, hey, ho, ho,  Treadline shit has got to go.  Shame on Treadline. Take that, Castro.  Oh, that is uncalled for.  Hey, hey, ho, ho, Treadline shit has got to go.",
           "industry": "holly",
@@ -2214,51 +2250,15 @@
           }
         },
         {
-          "dialogue_id": "WS106_holly",
-          "dialogue": "You're the bank's realtor on this eviction.  I need an official statement. What happened and why?  Well, Dudura, it's a real shame cos we arrived here with two pizzas  for Mr Kadwell, the property owner,  but he didn't want anchovies,",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "eviction from property",
-          "film": {
-            "title": "99 Homes",
-            "year": "2015",
-            "poster_path": "/6Zul5Spndok1WriSMfiyQFbAyLY.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS138_holly",
-          "dialogue": "- Bad boy! - He's obviously delirious from the pain.  You poor boy. What you must be going through.  The guilt. The shame.  Luckily, there's a cure.  A nose job?",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "causing pain to others",
-          "film": {
-            "title": "Problem Child 3",
-            "year": "1995",
-            "poster_path": "/adCNPBJPaBjp9ikJAJYGAkqz6CE.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS198_holly",
-          "dialogue": "in the drawers of all my pretty thrills.  Cyclops, we have been struck by a plague  that will put that biblical pestilence shit to shame.    And this famine only affects   the lower regions    where all you young Trojans    do most of your thinking.",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "causing a plague",
-          "film": {
-            "title": "Chi",
-            "year": "2013",
-            "poster_path": "/30UKbbzuFSr8FyEPe6TNo9kK6Qt.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s387_bolly",
-          "dialogue": "He is hiding. Stupid. - Father - Keep quiet! Don't you feel ashamed to open your mouth? You have created this problem. You did not ask or think about anything.",
+          "dialogue_id": "s4407_bolly",
+          "dialogue": "Buzz off! Harkat-e-Mansha shut down! Harkat-e-Mansha shut down! Shame on you Khaleeli! Your bombs and arms are all dud! No point of Terrorism without blood! Quiet!",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "causing trouble without thinking",
+          "cause_raw": "promoting terrorism",
           "film": {
-            "title": "Baiju Bawra",
-            "year": "1952",
-            "poster_path": "/3WfK4t6FjLBV7L95SvbgthCOfVi.jpg"
+            "title": "Tere Bin Laden Dead or Alive",
+            "year": "2016",
+            "poster_path": "/vgph2hdk5kyWUWzd5TCEDKrsE1b.jpg"
           }
         }
       ]
@@ -2275,15 +2275,15 @@
       "delta_bolly_minus_holly": 0.014990159463187092,
       "examples": [
         {
-          "dialogue_id": "p84_bolly",
-          "dialogue": "Yes, Arvind. Trivedi is finished now. Arjun, I'm proud of you. You really did very courageous work. You gave me this courage, Mr. Chowgale.",
+          "dialogue_id": "p1715_bolly",
+          "dialogue": "Until then, be the assistant coach of our running team. Yes, sir. Well done, my boy. The nation is proud of you. Thank you, sir. In broad daylight, midst of raining bullets,",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "Arjun's courageous work",
+          "cause_raw": "bravery/courage",
           "film": {
-            "title": "Arjun",
-            "year": "1985",
-            "poster_path": "/ULvER6xat5qiYV7Oxhw4OlV19N.jpg"
+            "title": "Laal Singh Chaddha",
+            "year": "2022",
+            "poster_path": "/g5rNmcznZX0UPm8CGjfk7kHcAbq.jpg"
           }
         },
         {
@@ -2299,39 +2299,39 @@
           }
         },
         {
-          "dialogue_id": "p120_bolly",
-          "dialogue": "Sir...98213 11...Sir...Aftab, what you are doing needs a lots of courage. Look at me. I'm proud of you. We're all proud of you. Good luck. And cooperate with these guys. Okay. - Okay Sir.",
+          "dialogue_id": "p612_bolly",
+          "dialogue": "Then I'll shoot you. That's like my father. I'm proud of you, father. Girl, except life, do you want anything else? Before dying I want to marry.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "Aftab's courage",
+          "cause_raw": "bravery",
           "film": {
-            "title": "Baby",
-            "year": "2015",
-            "poster_path": "/5yezGgo37qmd6kDknZKFzbhT19b.jpg"
+            "title": "Dil Pardesi Ho Gayaa",
+            "year": "2003",
+            "poster_path": "/cZsSavbfxzn2aoi1iHk49cVxupO.jpg"
           }
         },
         {
-          "dialogue_id": "p139_bolly",
-          "dialogue": "I know you are angry with me about yesterday. You have a right to be angry too. I am proud of a brave and daring officer like you. But I don't want you to deliberately take risks...and increase the number of your enemies. Staying within the limits of law, I have tried to eliminate crime.",
+          "dialogue_id": "p1570_bolly",
+          "dialogue": "The British are watching. Or they'll say cowards are born from this land. You take great pride in your bravado, isn't it? Well, our pride is what we're fighting for. By noon today, Your pride shall be destroyed.",
           "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "bravery and daring nature",
-          "film": {
-            "title": "Baazi",
-            "year": "1984",
-            "poster_path": "/buaJpTCdVX8HBgw24Ywyrqyxom0.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WP60_holly",
-          "dialogue": "- This is so scary. - Aardvark?  You're being extremely brave.  Everybody here is very proud of you.  - My tummy's all scraped up and wet. - Aardvark,  I'm gonna rub your tummy when you get back, don't worry.",
-          "industry": "holly",
           "target_gender": "unclear",
-          "cause_raw": "being brave",
+          "cause_raw": "bravado",
           "film": {
-            "title": "The Interview",
-            "year": "2014",
-            "poster_path": "/tIDC4xT65l7a8qbgg8GvwD5g8c5.jpg"
+            "title": "Kesari",
+            "year": "2019",
+            "poster_path": "/ctjT1pMNAGD9ou0kuhz806tf7kX.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WP334_holly",
+          "dialogue": "You go and get it, chum.  You the future of this division.  You wear that name with pride.  Respect.  Congratulations, Adonis, on a sensational effort.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "for his sensational effort",
+          "film": {
+            "title": "Creed",
+            "year": "2015",
+            "poster_path": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg"
           }
         }
       ]
@@ -2348,63 +2348,63 @@
       "delta_bolly_minus_holly": 0.03459374854716484,
       "examples": [
         {
-          "dialogue_id": "p25_bolly",
-          "dialogue": "Father, don't be worried. Your son is going to die for the sake of our country's freedom. You should be proud of me. Yes, my son. I am proud! I am very proud. But after you are hanged will these people allow us to take you away....home for the last rites?",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "dying for country's freedom",
-          "film": {
-            "title": "Amman Kovil Kizhakale",
-            "year": "1986",
-            "poster_path": "/cvNyhndV2ALXgsmeF5JaDQ712UT.jpg"
-          }
-        },
-        {
-          "dialogue_id": "p26_bolly",
-          "dialogue": "Your son is going to die for the sake of our country's freedom. You should be proud of me. Yes, my son. I am proud! I am very proud. But after you are hanged will these people allow us to take you away....home for the last rites? No, father. Why is that necessary?",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "dying for country's freedom",
-          "film": {
-            "title": "Amman Kovil Kizhakale",
-            "year": "1986",
-            "poster_path": "/cvNyhndV2ALXgsmeF5JaDQ712UT.jpg"
-          }
-        },
-        {
-          "dialogue_id": "p70_bolly",
-          "dialogue": "That is why we fight. I fight for the pride of my country. I fight for the pride of my country. He got scared of my son. What did he say? - Don't know.",
+          "dialogue_id": "p1239_bolly",
+          "dialogue": "It's the pride of the world.  My India is the best!  It's the pride of the world.  Excuse me, sir.  Yes, officer.",
           "industry": "bolly",
           "target_gender": "male",
           "cause_raw": "patriotism",
           "film": {
-            "title": "Apne",
-            "year": "2007",
-            "poster_path": "/qMGSWgtmtMyn9hkyGZeOB5Kz7zC.jpg"
+            "title": "Heroes",
+            "year": "2008",
+            "poster_path": "/n3yb9bPeQxJt41thDm7kXjSDbWz.jpg"
           }
         },
         {
-          "dialogue_id": "p557_bolly",
-          "dialogue": "I don't think his condition is fine. Let him talk to priest Farheed. Danish, we are proud of you. Only a few chosen people achieve martyrdom. - Yes. Any last wish?",
+          "dialogue_id": "p944_bolly",
+          "dialogue": "When you are standing in the middle of a ground and the national anthem is played you feel the proudest. You get goosebumps. Sangakkara winning the toss and batting first.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "achieving martyrdom",
+          "cause_raw": "patriotism",
           "film": {
-            "title": "Dhokha",
-            "year": "2007",
-            "poster_path": "/opOV0aXoeskONTWO2xmDMcC714I.jpg"
+            "title": "Sachin: A Billion Dreams",
+            "year": "2017",
+            "poster_path": "/ysOy2g2NcDRszOM8YF14aru82fy.jpg"
           }
         },
         {
-          "dialogue_id": "WP268_holly",
-          "dialogue": "I was remembering.  Military service made you much good.  She told him how proud he was ... ... and he was recalling ...  Do you like the idea of being at home for a few days </ i>   Do you like the idea of being at home for a few days </ i>  \"You okay, Jeff?",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "military service",
+          "dialogue_id": "p695_bolly",
+          "dialogue": "My soul is painted My soul is painted My country is my love, my pride The skies above surrender before it My country is my love, my pride",
+          "industry": "bolly",
+          "target_gender": "unclear",
+          "cause_raw": "love for country",
           "film": {
-            "title": "Raising Jeffrey Dahmer",
-            "year": "2006",
-            "poster_path": "/jX6b1GmRk4daeFH2Lu6UIu8aW4I.jpg"
+            "title": "Parmanu: The Story of Pokhran",
+            "year": "2018",
+            "poster_path": "/58X8iBxgT5n4aVBLkDFSnOrIHlD.jpg"
+          }
+        },
+        {
+          "dialogue_id": "p696_bolly",
+          "dialogue": "My country is my love, my pride The skies above surrender before it My country is my love, my pride The skies above surrender before it My soul is painted",
+          "industry": "bolly",
+          "target_gender": "unclear",
+          "cause_raw": "love for country",
+          "film": {
+            "title": "Parmanu: The Story of Pokhran",
+            "year": "2018",
+            "poster_path": "/58X8iBxgT5n4aVBLkDFSnOrIHlD.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WP1575_holly",
+          "dialogue": "for visiting us here today.  We are honored to be serving our country,  and proud to welcome you,  our wartime Commander in Chief... - Hey. - Hey, sweetie.  - Hey. - Hey, sweetie.",
+          "industry": "holly",
+          "target_gender": "unclear",
+          "cause_raw": "serving their country",
+          "film": {
+            "title": "War Dogs",
+            "year": "2016",
+            "poster_path": "/mDcPRjZC1bb6LavFU3gwsWdVfCM.jpg"
           }
         }
       ]
@@ -2421,51 +2421,51 @@
       "delta_bolly_minus_holly": 0.04657647465997201,
       "examples": [
         {
-          "dialogue_id": "p66_bolly",
-          "dialogue": "Ladies and gentlemen. Baldev Singh has come! He won the first silver medal for....boxing for India and made India proud! Ehsan, am I dreaming? Come on! Come on!",
+          "dialogue_id": "p701_bolly",
+          "dialogue": "Punjabis are magnanimous and generous! Did I ever say I was a Punjabi? Proud to be a Gujarati. That's the trouble. It's like cumin seeds in whiskey.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "Winning a silver medal for India in boxing",
+          "cause_raw": "being a Gujarati",
           "film": {
-            "title": "Apne",
-            "year": "2007",
-            "poster_path": "/qMGSWgtmtMyn9hkyGZeOB5Kz7zC.jpg"
+            "title": "Patel Ki Punjabi Shaadi",
+            "year": "2017",
+            "poster_path": "/nNj2PPUeN0nHXSveCDwBPZX29xX.jpg"
           }
         },
         {
-          "dialogue_id": "p98_bolly",
-          "dialogue": "Only Yashoda is Kishan's mother. - I repeat again. I won't leave without taking Kishan with me. He's the pride of our family. - What nonsense is this? How could you think of such an abominable thing? To compensate the shortcoming of your family you've come to loot here?",
+          "dialogue_id": "p704_bolly",
+          "dialogue": "The problem solved. He gets five million. - Correct. He won't accept help from us. - Correct. He'll lecture us about Gujarati pride. Is he around? Here I am.",
           "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "Kishan",
+          "target_gender": "male",
+          "cause_raw": "Gujarati pride",
           "film": {
-            "title": "Aulad",
-            "year": "1987",
-            "poster_path": "/g01HL4L918eae8QyFHiZHUOeWeX.jpg"
+            "title": "Patel Ki Punjabi Shaadi",
+            "year": "2017",
+            "poster_path": "/nNj2PPUeN0nHXSveCDwBPZX29xX.jpg"
           }
         },
         {
-          "dialogue_id": "p129_bolly",
-          "dialogue": "and has her shackled right in the town square. Our Queen Devasena being treated like cattle in a fair. Our pride and honour is injured and we suffer in silence. It is not time to shed tears. It is time to breathe fire.",
+          "dialogue_id": "p1819_bolly",
+          "dialogue": "Why did you come to Mumbai? Look, I was born right here in Mumbai. And I am equally proud of being a Maharashtrian. Did you hear that? -Yeah, right. -Maharashtrian!",
           "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "mistreatment of Queen Devasena",
+          "target_gender": "unclear",
+          "cause_raw": "being a Maharashtrian",
           "film": {
-            "title": "Bāhubali: The Beginning",
-            "year": "2015",
-            "poster_path": "/9BAjt8nSSms62uOVYn1t3C3dVto.jpg"
+            "title": "Malaal",
+            "year": "2019",
+            "poster_path": "/AsnZdUdmfxEenKH3GNMtqIFAzDh.jpg"
           }
         },
         {
-          "dialogue_id": "p259_bolly",
-          "dialogue": "Bravo, Ravi. For the first time you've acted like a man. Today, I can proudly say that you're my brother-in-law. Stop this 'brother-in-law' nonsense. Are you in your senses?",
+          "dialogue_id": "p2385_bolly",
+          "dialogue": "Whenever we are determined O Goddess Bhawani! We all are brave and proud warriors Now every day is a festival of Swaraj Now this head will not bow",
           "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "Ravi's actions",
+          "target_gender": "unclear",
+          "cause_raw": "Achieving Swaraj self-rule)",
           "film": {
-            "title": "Billoo Baadshah",
-            "year": "1989",
-            "poster_path": "/3mgMEZokZ11EqrrIXftQbPCRazp.jpg"
+            "title": "Tanhaji: The Unsung Warrior",
+            "year": "2020",
+            "poster_path": "/fZhgcUVwV7ocglL5XDq4ygsfXqD.jpg"
           }
         },
         {
@@ -2494,18 +2494,6 @@
       "delta_bolly_minus_holly": -0.010556948521071613,
       "examples": [
         {
-          "dialogue_id": "WS26_holly",
-          "dialogue": "Tell me, Elliot, what's new on the Purist grapevine?  Does that have to be in here?  You're not ashamed of being a Purist.  - Purist? - Oh, yeah.  Elliot here once burned a Newcomer family out of Glendale.",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "racism and violence",
-          "film": {
-            "title": "Alien Nation: Dark Horizon",
-            "year": "1994",
-            "poster_path": "/fDBN0S2l5QiuoVTPd8K4DTbcKPX.jpg"
-          }
-        },
-        {
           "dialogue_id": "WS134_holly",
           "dialogue": "You did this.  You did this to yourself.  Shame on you.  That was good.  Thanks. I've been practicing since you gave me the bagels.",
           "industry": "holly",
@@ -2518,39 +2506,51 @@
           }
         },
         {
-          "dialogue_id": "WS137_holly",
-          "dialogue": "The harvest left no food for you to eat  You cannibal, you meat-eaten you see  But I have seen the same I know the shame in your defeat  But will hold on hope  And I won't let you choke",
-          "industry": "holly",
-          "target_gender": "unclear",
-          "cause_raw": "cannibalism",
-          "film": {
-            "title": "GMO OMG",
-            "year": "2013",
-            "poster_path": "/qMCHeiycPoxh8NnJ4YtEDuG1FtE.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS144_holly",
-          "dialogue": "- Barry-- - Father Walsh.  - Barry-- - She just-- she pushed me.  I couldn't help it. Shame on you.  - Barry-- - It was Whitesnake.  - Barry-- - ♪ Here I go again on my own... ♪",
+          "dialogue_id": "WS853_holly",
+          "dialogue": "What's the world coming to when you can't kill a man  and be sure he'll stay dead?  - He's a reprobate, he's got no shame.  A downright disingenuous.  - Watch 'em.",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "physical aggression",
+          "cause_raw": "killing a man",
           "film": {
-            "title": "Balls Out",
-            "year": "2014",
-            "poster_path": "/yQ5PWOIOE2zTZTeiLg1YpaXZCYn.jpg"
+            "title": "Mythica: The Iron Crown",
+            "year": "2016",
+            "poster_path": "/8y3G8g7E7SXZ74XDt6gaxyfELse.jpg"
           }
         },
         {
-          "dialogue_id": "s48_bolly",
-          "dialogue": "You are going to commit suicide? Too bad. Get up! Was I dead? With me around if you are still in trouble, it's a shame on me! Come, let's go to Calcutta. I told you girls to watch a lot of films these days.",
+          "dialogue_id": "WS682_holly",
+          "dialogue": "I hope so.  Why do people die in the woods?  They die of shame.  It puts things in perspective.  What's that?",
+          "industry": "holly",
+          "target_gender": "unclear",
+          "cause_raw": "dying in the woods",
+          "film": {
+            "title": "The Edge",
+            "year": "1997",
+            "poster_path": "/zplJqfuUyqzW0D4jX3W1afl0d7b.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS658_holly",
+          "dialogue": "One right guy to another.  You start wavin' cops at me.  You ought to be ashamed of yourself.  I am.  Okay. $200 it is.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "threatening with police",
+          "film": {
+            "title": "The Big Sleep",
+            "year": "1946",
+            "poster_path": "/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s946_bolly",
+          "dialogue": "<i>Please tell me so</i> <i>What do we gain now</i> <i>What do we lose now</i> <i>Shamed heart</i> <i>Crying is no use</i> <i>Oh hurting heart</i> <i>Oh Dying heart</i>",
           "industry": "bolly",
           "target_gender": "unclear",
-          "cause_raw": "attempting suicide",
+          "cause_raw": "emotional pain",
           "film": {
-            "title": "Amar Prem",
-            "year": "1972",
-            "poster_path": "/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg"
+            "title": "Dear Zindagi",
+            "year": "2016",
+            "poster_path": "/oUg0N2isgZ5rrxdXnsemcKolfKZ.jpg"
           }
         }
       ]
@@ -2567,51 +2567,51 @@
       "delta_bolly_minus_holly": 0.011914827151816423,
       "examples": [
         {
-          "dialogue_id": "s64_bolly",
-          "dialogue": "But they can be got rid of. - Then please do! I hate boys. Move away. Get lost. Leave me. Aren't you ashamed to push me? Come on. Tell us. - Please, tell us. O God! I don't know! I don't know! Not possible.",
+          "dialogue_id": "s2909_bolly",
+          "dialogue": "Why are you here, Kabir? You should leave. I won't leave. You should be ashamed of yourself, Kabir. Stay away from me. Really? How do you know that I am not happy?",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "being pushy or intrusive",
+          "cause_raw": "Intruding personal space or unwanted presence",
           "film": {
-            "title": "An Evening in Paris",
-            "year": "1967",
-            "poster_path": "/xlSfgJ3HW9nhUwjVyqZzHgAiatg.jpg"
+            "title": "Kabir Singh",
+            "year": "2019",
+            "poster_path": "/unqiPjtc6CGqs13zho7ZvWU85zu.jpg"
           }
         },
         {
-          "dialogue_id": "s122_bolly",
-          "dialogue": "And it is locked. It means the key is still with you. Come on, get in. I'm not ashamed of you. As if I've never seen you without clothes. What? You've seen me naked?",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "invasion of privacy",
-          "film": {
-            "title": "Angoor",
-            "year": "1982",
-            "poster_path": "/wijF2sW1MDq9c1u5m9ezealO9KC.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s249_bolly",
-          "dialogue": "How am I going to repay this debt? Oh, how am I? ' -You? ' -Is that you? ' Aren't you ashamed to go around in my clothes ? ' You must have deliberately  swapped the bags' Deliberately , my foot' It has changed my very appearance'",
-          "industry": "bolly",
-          "target_gender": "unclear",
-          "cause_raw": "wearing someone else's clothes without permission",
-          "film": {
-            "title": "...Aur Pyar Ho Gaya",
-            "year": "1997",
-            "poster_path": "/5C8a85JOymSV1FxtHoPVaEFOKxE.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s307_bolly",
-          "dialogue": "Someone is watching. - Who's there to watch us here? Hey, steer clear! Aren't you ashamed of to go peeping into a couple's affair? Go back to your business! My, what a beauty!",
+          "dialogue_id": "s1235_bolly",
+          "dialogue": "Come, son. Let's go. - Yes, grandpa. Alright. Don't you dare? Aren't you ashamed? In my room, my bedroom. Exactly. Don't you see the beauty of it?",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "invading privacy",
+          "cause_raw": "inappropriate behavior in a private space",
           "film": {
-            "title": "Baarish",
-            "year": "1957",
-            "poster_path": "/9mPweBwnouJfXVLY1oOHtqeUiQO.jpg"
+            "title": "One Night Stand",
+            "year": "2016",
+            "poster_path": "/A0CExJQZRf8CWDLPGSywTTHLeZl.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s942_bolly",
+          "dialogue": "Ayesha. Ayesha. Please hear me out. - What the hell are you doing here? Do you have no shame? Get lost and don't show me your face again. I really love you.",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "Intruding and not respecting personal space",
+          "film": {
+            "title": "De De Pyaar De",
+            "year": "2019",
+            "poster_path": "/lKxbegRPahPDeOYeaDHhsNJDZU8.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s5179_bolly",
+          "dialogue": "Maybe he's gone to a friend's place? Sit down, don't worry. He'll come. Open the door. Must be that shameless fellow. Ravi. - Sayba. Peter? You.. here..?Ravi, Rohan isn't to blame.",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "Intruding into someone's house",
+          "film": {
+            "title": "Ehsaas: The Feeling",
+            "year": "2001",
+            "poster_path": "/zSYkW77tMgpxFNaWHpwZiUvdjfT.jpg"
           }
         },
         {
@@ -2640,30 +2640,6 @@
       "delta_bolly_minus_holly": -0.004085924386630314,
       "examples": [
         {
-          "dialogue_id": "WS88_holly",
-          "dialogue": "where he was addicted to also the needle prick.  And he burst into tears.  And he... he was just ashamed.  One of the songs that actually, I really liked on In Utero,  but which you took off, was I Hate Myself and Want to Die.",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "addiction",
-          "film": {
-            "title": "Cobain: Montage of Heck",
-            "year": "2015",
-            "poster_path": "/hQEkK4WnTtQXIp5QOnVTsK3xYRM.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS112_holly",
-          "dialogue": "I can smell that. Out of the van.  Man!  You ought to be ashamed of yourself. With the kids?!  I am not drunk. This is Beethoven's fault.  Now you're trying to blame the dog? Arms out, eyes closed.",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "drunk driving with kids",
-          "film": {
-            "title": "Beethoven's 5th",
-            "year": "2003",
-            "poster_path": "/mIjzNxaUWsacg4R8rDGl6pJn4C8.jpg"
-          }
-        },
-        {
           "dialogue_id": "WS263_holly",
           "dialogue": "Bernie: Ruth. Ruth.  Ruth, I need more pills.  Ruth.  Man: Have you no shame?  Hello?  Have you no shame?  No remorse?",
           "industry": "holly",
@@ -2676,27 +2652,51 @@
           }
         },
         {
-          "dialogue_id": "WS277_holly",
-          "dialogue": "Waiting for another program? There are 30 other shows on in Dallas.  You listen to my show every night. Makes sense.  I feel real sorry for you, and I think you should be ashamed of yourself.  - You're such a pathetic nerd. - I should be ashamed?  At least I don't show up in public, half in the bag, making an utter jerk out of myself.",
+          "dialogue_id": "WS88_holly",
+          "dialogue": "where he was addicted to also the needle prick.  And he burst into tears.  And he... he was just ashamed.  One of the songs that actually, I really liked on In Utero,  but which you took off, was I Hate Myself and Want to Die.",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "being a public nuisance while intoxicated",
+          "cause_raw": "addiction",
           "film": {
-            "title": "Talk Radio",
-            "year": "1988",
-            "poster_path": "/e9dnVJMg3LW80sHnsuBoTBwJgRm.jpg"
+            "title": "Cobain: Montage of Heck",
+            "year": "2015",
+            "poster_path": "/hQEkK4WnTtQXIp5QOnVTsK3xYRM.jpg"
           }
         },
         {
-          "dialogue_id": "s39_bolly",
-          "dialogue": "And I couldn't resist. So I indulged in drinks. You did that and because of you......I was put to shame before Mr. Maheem. Please forgive me. But I promise that henceforth......this won't happen. You'll drink again and forget everything again.",
-          "industry": "bolly",
+          "dialogue_id": "WS859_holly",
+          "dialogue": "Oh, fuck you it is!  (Wentz) To what do we owe this outbreak of moral laxity?  To what do we owe this shameful fall from grace,  and from Winesburg tradition?  A drunken brawl outside The Owl this weekend.",
+          "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "drinking habit",
+          "cause_raw": "drunken brawl and moral laxity",
           "film": {
-            "title": "Amanush",
-            "year": "1975",
-            "poster_path": "/gzqoKb5sHJQqRl8dlyLxviqnAXi.jpg"
+            "title": "Indignation",
+            "year": "2016",
+            "poster_path": "/2xNGhpg7BoQZIh6ufGNaRRPv706.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS1098_holly",
+          "dialogue": "And he ordered the drinks, too.  It is Coke, isn't it, Daddy?  You ought to be ashamed  bringing my daughter here, ordering liquor.  But I didn't bring her here.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "bringing a minor to a place where alcohol is served",
+          "film": {
+            "title": "Fun in Acapulco",
+            "year": "1963",
+            "poster_path": "/fCHQQ6EmhQshb80VPKzmOzLHke3.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s1969_bolly",
+          "dialogue": "No whiskey...go drink water To the whole world that I am...not ashamed at all What does he think of himself ? Something's wrong...not ashamed at all",
+          "industry": "bolly",
+          "target_gender": "unclear",
+          "cause_raw": "not drinking alcohol",
+          "film": {
+            "title": "Shamitabh",
+            "year": "2015",
+            "poster_path": "/3D5FG0oceTEpgLrz1v8aFWja3wn.jpg"
           }
         }
       ]
@@ -2713,51 +2713,51 @@
       "delta_bolly_minus_holly": 0.014421518317860342,
       "examples": [
         {
-          "dialogue_id": "s36_bolly",
-          "dialogue": "But you are a murderer. You past is stained with someone's murder. I feel ashamed to call you my father I haven't murdered anyone. This is a plot hatched by him and his brother Lankeshwar",
+          "dialogue_id": "s2538_bolly",
+          "dialogue": "How do you know I am lying? What do you know about me? What do you know..Why are you so shameless? I've become one..since I met you. - Why? I wonder why..you dwell in my heart.",
+          "industry": "bolly",
+          "target_gender": "unclear",
+          "cause_raw": "accused of lying",
+          "film": {
+            "title": "I Love NY",
+            "year": "2015",
+            "poster_path": "/tIqav4xlbDh55dmxNFPRx5rVQLX.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s5109_bolly",
+          "dialogue": "Just because you had three bad bananas, you want to crush the entire bunch. You should be ashamed. All of you should be ashamed. To become crazy about my innocent son. Ignorants.",
+          "industry": "bolly",
+          "target_gender": "unclear",
+          "cause_raw": "false accusations",
+          "film": {
+            "title": "Dream Girl",
+            "year": "2019",
+            "poster_path": "/lr3za9i5SpqTVA2W2uyx0DekgID.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s1137_bolly",
+          "dialogue": "What gift? - The plane you are selling. <i>MOW.!</i> Have you no shame? I didn’t say anything. What’s wrong with you, Kabir? - Just leave him out of this.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "accused of murder",
+          "cause_raw": "Accused of selling a plane",
           "film": {
-            "title": "Amanat",
-            "year": "2016",
-            "poster_path": "/3xM0JlIBXiURjfWQgE1fH6j9Xjs.jpg"
+            "title": "Dil Dhadakne Do",
+            "year": "2015",
+            "poster_path": "/AqFX6282JM2ollS4XTFp6t6Dwa9.jpg"
           }
         },
         {
-          "dialogue_id": "s92_bolly",
-          "dialogue": "Are you the same man who had said, yours was a home of decent people...and not a brothel! Should I stay with the man who had called my child, a sin...and thrown me out of his house? You can stay there! I feel ashamed even looking at that house now!. My dear, that house is not mine alone, it is your husband's too. It also belongs to you and your son.",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "being accused of immorality",
-          "film": {
-            "title": "Andaz",
-            "year": "1971",
-            "poster_path": "/mgTpJOEABQVwfElSQHm4IFMfoKr.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s373_bolly",
-          "dialogue": "We meet on the sly, away from prying eyes We're afraid, someone might see us You should be ashamed to accuse my son! Although you are visiting us after a long time...I will not enquire after your health! But I want to know what insolent behaviour is this?",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "false accusation",
-          "film": {
-            "title": "Bahurani",
-            "year": "1989",
-            "poster_path": "/kJlmYmUm4bGibPRf663HuSzncmt.jpg"
-          }
-        },
-        {
-          "dialogue_id": "s435_bolly",
-          "dialogue": "How was your jacket found with that girl? That I don't know, sir. Someone might haVe taken my jacket..This shameful incident! This debasing act! It proVes that an uncouth person like who haVe come from the....jungle haVe been brought up definitely in the....inferior poor surroundings! - Excuse me, sir.",
+          "dialogue_id": "s1275_bolly",
+          "dialogue": "He should be scared, not me. He should lose his peace, not me. So now I will name him and shame him. No! He is Viren Narang! - B****! B****!",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "being accused of inappropriate behavior with a girl",
+          "cause_raw": "Accused of a crime or wrongdoing",
           "film": {
-            "title": "Barsaat",
-            "year": "1995",
-            "poster_path": "/JFSE2glCPewOeXZajuIIDZFs0R.jpg"
+            "title": "Pal Pal Dil Ke Paas",
+            "year": "2019",
+            "poster_path": "/5vTaUnfrEt6nNmB72MfNHG1p7x.jpg"
           }
         },
         {
@@ -2786,42 +2786,6 @@
       "delta_bolly_minus_holly": -0.01020349261647431,
       "examples": [
         {
-          "dialogue_id": "WS9_holly",
-          "dialogue": "You come up a whopper.  You just come on out.  Be a real shame expiring in the shitter.  Oh. He outside.  I got you.",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "hiding/avoiding confrontation",
-          "film": {
-            "title": "Catch Hell",
-            "year": "2014",
-            "poster_path": "/3uwNlBJfgWCraGXwZAwnkwqMJMS.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS14_holly",
-          "dialogue": "So beautiful, and you hide it under theseshmates.  I don't understand it.  What are you ashamed of?  I still have that beautiful jacket I bought for you.  It's waiting in your father's closet",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "hiding her beauty",
-          "film": {
-            "title": "Death in Love",
-            "year": "2008",
-            "poster_path": "/bhHslpe5QunkPS6CbWj3zrDRkY9.jpg"
-          }
-        },
-        {
-          "dialogue_id": "WS59_holly",
-          "dialogue": "And all at once, I feel... old and empty.  Oh, now, Joe probably kept those things from you to make you happy, you know?  Oh, no. I think he knew I'll be sick and ashamed if I knew.  What are you going to do now?  I wait until I see Joe next time,",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "hiding things/lying",
-          "film": {
-            "title": "The Last Gangster",
-            "year": "1937",
-            "poster_path": "/mCNrlUTdwr7cNgy4mFuFF31uDNK.jpg"
-          }
-        },
-        {
           "dialogue_id": "WS147_holly",
           "dialogue": "I need to know who I married.  Tell me the worst thing you've ever done.  The thing you're most ashamed of.  Can you tell me that?  Man City goalie has an Iron Cross!",
           "industry": "holly",
@@ -2834,15 +2798,51 @@
           }
         },
         {
-          "dialogue_id": "s251_bolly",
-          "dialogue": "My God' What a shameless  family ' How could  you agree to the wedding, even after knowing the truth? I can't get my grand-daughter married in such a shameless  family ' Let's go, Aarshi' Please  forgive me, Malhotra .",
+          "dialogue_id": "WS9_holly",
+          "dialogue": "You come up a whopper.  You just come on out.  Be a real shame expiring in the shitter.  Oh. He outside.  I got you.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "hiding/avoiding confrontation",
+          "film": {
+            "title": "Catch Hell",
+            "year": "2014",
+            "poster_path": "/3uwNlBJfgWCraGXwZAwnkwqMJMS.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS1368_holly",
+          "dialogue": "Boys, the crystal's still in his stomach.  Commencing intestinal flash flood.  Wait! Before my moment of shame, can I... Yes, speak up.  Yes, speak up.  Can I give my boy a hug?",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "attempting to hide something",
+          "film": {
+            "title": "Futurama: Bender's Game",
+            "year": "2008",
+            "poster_path": "/bx8OVOBn5WP9TJJuOpRzyMCdzzb.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS1331_holly",
+          "dialogue": "What do you tell Rose? What do you tell her you do?  She knows what I do.  There's nothing to be ashamed of. We don't clean up blood.  We clean up anger and grief, heartache.  Looks like blood.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "hiding the truth about his job",
+          "film": {
+            "title": "Cleaner",
+            "year": "2025",
+            "poster_path": "/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s2539_bolly",
+          "dialogue": "From today..l swear I won't touch alcohol. Sure? - Of course, we won't even smell it. You should be ashamed. Buffoons, don't start the first day of the year with a lie. Sorry.",
           "industry": "bolly",
           "target_gender": "unclear",
-          "cause_raw": "hiding the truth",
+          "cause_raw": "lying about quitting alcohol",
           "film": {
-            "title": "...Aur Pyar Ho Gaya",
-            "year": "1997",
-            "poster_path": "/5C8a85JOymSV1FxtHoPVaEFOKxE.jpg"
+            "title": "I Love NY",
+            "year": "2015",
+            "poster_path": "/tIqav4xlbDh55dmxNFPRx5rVQLX.jpg"
           }
         }
       ]

@@ -39,16 +39,19 @@ export default function NormCompass({ archetypes }: { archetypes: Archetype[] })
     <div className="panel p-6 md:p-10">
       <p className="text-xs uppercase tracking-[0.25em] text-gold-400">Norm Compass</p>
       <h3 className="mt-1 font-display text-2xl text-white">
-        If you're writing this character, here's what the corpus has done a thousand times.
+        Pick a character. See the shame and pride triggers MAPGEN finds most often.
       </h3>
       <p className="mt-3 text-sm text-white/60 max-w-2xl">
-        Pick an archetype. We'll surface the dominant shame and pride triggers
-        for that character in that industry — and an example line from the films.
-        Use it as a tropes-to-avoid map, or a tropes-to-knowingly-subvert one.
+        Each character archetype below is paired with a ranked list of
+        <span className="text-white"> triggers</span> — the social situations
+        most often associated with shame or pride for that character — alongside
+        an example line from the films.
       </p>
 
       {/* Archetype picker */}
-      <div className="mt-6 flex flex-wrap gap-2">
+      <div className="mt-6">
+        <p className="text-[11px] uppercase tracking-[0.18em] text-white/50 mb-2">Archetype</p>
+        <div className="flex flex-wrap gap-2">
         {archetypes.map(a => (
           <button
             key={a.id}
@@ -64,6 +67,7 @@ export default function NormCompass({ archetypes }: { archetypes: Archetype[] })
             {a.label}
           </button>
         ))}
+        </div>
       </div>
 
       {/* Emotion toggle */}
@@ -144,9 +148,9 @@ export default function NormCompass({ archetypes }: { archetypes: Archetype[] })
       </div>
 
       <p className="mt-8 text-xs text-white/40 italic">
-        Top 3 triggers shown with example lines. Counts are corpus-wide; share is
-        within this archetype × emotion. Frequency ≠ judgement: these are the
-        defaults. Your scene either reproduces them, complicates them, or breaks them.
+        Top 3 triggers shown with example lines. Share is within this archetype ×
+        emotion. Frequency is not judgement — these are the defaults a scene
+        either reproduces, complicates, or breaks.
       </p>
     </div>
   );

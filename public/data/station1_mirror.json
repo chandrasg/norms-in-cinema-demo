@@ -39,123 +39,123 @@
   "guess_rounds": [
     {
       "id": "round_01",
-      "dialogue": "Be careful Your help has no sense. I'll wait outside You felt no shame stealing from a woman's bag......so why be ashamed looking at her in her bath? Give me one Don't get jumpy. It's only a cigarette",
+      "dialogue": "O Baby They are high on fun. And starting to be shameless. Plug my pin in your socket. Charge my heart day and night.",
       "answer_industry": "bolly",
       "answer_emotion": "shame",
       "film": {
-        "title": "Detective Byomkesh Bakshy!",
-        "year": "2015",
-        "poster_path": "/7IvuZioWIvj8UAIWJhGtLsqwwt.jpg",
-        "country": "IN"
-      },
-      "target_gender": "male",
-      "theme_label": "Criminal Activity",
-      "cause_raw": "stealing from a woman"
-    },
-    {
-      "id": "round_02",
-      "dialogue": "♪ Though I seem thick-skinned ♪  ♪ And it hurt that my friends never stood downwind ♪  ♪ - And, oh, the shame. ♪ ♪ - He was ashamed ♪  ♪ - Thought of changing my name. ♪ ♪ - Oh, what's in a name? ♪  ♪ And I got downhearted ♪",
-      "answer_industry": "holly",
-      "answer_emotion": "shame",
-      "film": {
-        "title": "King of the Jungle",
-        "year": "2000",
-        "poster_path": "/tbQOMKgS1HqEjOLDHuHanzBx4G9.jpg",
-        "country": ""
-      },
-      "target_gender": "male",
-      "theme_label": "Self-Image Issues",
-      "cause_raw": "personal insecurities and self-esteem issues"
-    },
-    {
-      "id": "round_03",
-      "dialogue": "Let's go. Are you alright, sir? Santa and Banta! Please. You've done well. You've made the country proud. Mention not. - Okay! Please, leave. - Banta, let's go.",
-      "answer_industry": "bolly",
-      "answer_emotion": "pride",
-      "film": {
-        "title": "Santa Banta Pvt Ltd",
+        "title": "Mastizaade",
         "year": "2016",
-        "poster_path": "/qjzYPHUUlNQ5taFTnBN1iUHm3bE.jpg",
-        "country": "IN"
-      },
-      "target_gender": "male",
-      "theme_label": "Family Honor",
-      "cause_raw": "making the country proud"
-    },
-    {
-      "id": "round_04",
-      "dialogue": "is not altogether unflattering, is it?  Of course it isn't.  How proud and pleased you must be to possess a woman  that a man of my caliber could find so attractive.  I congratulate you, sir. And I envy you both this experience.",
-      "answer_industry": "holly",
-      "answer_emotion": "pride",
-      "film": {
-        "title": "The Night They Raided Minsky's",
-        "year": "1968",
-        "poster_path": "/cVZ0zyozUWm4YRWOqF1uYFHO8Bx.jpg",
-        "country": "US"
-      },
-      "target_gender": "male",
-      "theme_label": "Identity and Beauty",
-      "cause_raw": "possessing an attractive woman"
-    },
-    {
-      "id": "round_05",
-      "dialogue": "Father, Mary jumped off the cliff and committed suicide. She was pregnant. People had begun to taunt her. The shame had made life difficult for her. Don't cry, Tony. We all are passing through testing times.",
-      "answer_industry": "bolly",
-      "answer_emotion": "shame",
-      "film": {
-        "title": "Devata",
-        "year": "1978",
-        "poster_path": "/dafsSswW0amXvkDAUnqAHAZQjBD.jpg",
+        "poster_path": "/5d7A6HJS7d8R2LDb4JG4pS5c5hr.jpg",
         "country": "IN"
       },
       "target_gender": "female",
-      "theme_label": "Marital Status",
-      "cause_raw": "Unwed pregnancy"
+      "theme_label": "Shamelessness",
+      "cause_raw": "behaving shamelessly"
     },
     {
-      "id": "round_06",
-      "dialogue": "Don't move an inch.  You know any prayers, cracker?  Shame on you if you don't.  [police radio]  You should have had the ketchup.",
+      "id": "round_02",
+      "dialogue": "Bernie: Ruth. Ruth.  Ruth, I need more pills.  Ruth.  Man: Have you no shame?  Hello?  Have you no shame?  No remorse?",
       "answer_industry": "holly",
       "answer_emotion": "shame",
       "film": {
-        "title": "Bucktown",
-        "year": "1975",
-        "poster_path": "/x5UbYNscimgLYat7X0TcsqRDapA.jpg",
+        "title": "The Wizard of Lies",
+        "year": "2017",
+        "poster_path": "/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg",
         "country": "US"
       },
       "target_gender": "male",
-      "theme_label": "Poverty",
-      "cause_raw": "not knowing prayers"
+      "theme_label": "Alcoholism",
+      "cause_raw": "asking for more pills potential drug misuse)"
     },
     {
-      "id": "round_07",
-      "dialogue": ". .family will be in the shadow of death. . It is okay with me. I am Proud of my son's choice. Any girl who I would have brought as a daughter-in-law to this house. . I swear on God, she would not have been nicer than you.",
+      "id": "round_03",
+      "dialogue": "Only you Only you Only you Make us proud! We passed the exams, Uncle! Congratulations, my dear! Have some sweets.",
       "answer_industry": "bolly",
       "answer_emotion": "pride",
       "film": {
-        "title": "Sapoot",
-        "year": "1996",
-        "poster_path": "/8ray62qezaV4G5sdMrGBR93l5i1.jpg",
-        "country": "IN"
+        "title": "Pranaam",
+        "year": "2019",
+        "poster_path": "/115f1t03C35rSQmfOupJ9DdkcjG.jpg",
+        "country": ""
       },
       "target_gender": "male",
-      "theme_label": "Son's Accomplishments",
-      "cause_raw": "son's choice of spouse"
+      "theme_label": "Academic Success",
+      "cause_raw": "passing exams"
     },
     {
-      "id": "round_08",
-      "dialogue": "I wanted to BE somebody.  Somebody worth being.  And I was so proud to marry you.  I just couldn't find the words to tell you.  But from the very minute Chad",
+      "id": "round_04",
+      "dialogue": "Everything the light touches is part of our kingdom.  The Pride Lands.  Ruling it is a big responsibility, Kiara.  And someday, when you're Queen... Heads up! Incoming!",
       "answer_industry": "holly",
       "answer_emotion": "pride",
       "film": {
-        "title": "Chad Hanna",
-        "year": "1940",
-        "poster_path": "/flMEmfpQHnAUfLAJFEuYJd6z3TI.jpg",
+        "title": "The Lion Guard: Return of the Roar",
+        "year": "2016",
+        "poster_path": "/pzcQ7cQBHIdsKLN4exd7bCyy1pk.jpg",
+        "country": "US"
+      },
+      "target_gender": "female",
+      "theme_label": "Identity and Beauty",
+      "cause_raw": "becoming queen and ruling the kingdom"
+    },
+    {
+      "id": "round_05",
+      "dialogue": "Take one of our men along. Yes. Come on, get in. Have some shame. There's a lady inside. Sit at the back. Get in. Sit.",
+      "answer_industry": "bolly",
+      "answer_emotion": "shame",
+      "film": {
+        "title": "Phantom",
+        "year": "2015",
+        "poster_path": "/ssFJ8BABZC5sk8Bn09gzRmKt6ni.jpg",
+        "country": "IN"
+      },
+      "target_gender": "male",
+      "theme_label": "Disrespect",
+      "cause_raw": "disrespecting a woman"
+    },
+    {
+      "id": "round_06",
+      "dialogue": "Floyd breathes hard, I hear a zip  Pee-pee pressed against my lips  I was shamed  I was shamed  I was shamed",
+      "answer_industry": "holly",
+      "answer_emotion": "shame",
+      "film": {
+        "title": "Cobain: Montage of Heck",
+        "year": "2015",
+        "poster_path": "/hQEkK4WnTtQXIp5QOnVTsK3xYRM.jpg",
         "country": "US"
       },
       "target_gender": "male",
+      "theme_label": "Sexual Harassment",
+      "cause_raw": "sexual harassment"
+    },
+    {
+      "id": "round_07",
+      "dialogue": "If I win, then freedom is ours. And our unborn child? I want him to be proud of me. Remember, if I get caught,",
+      "answer_industry": "bolly",
+      "answer_emotion": "pride",
+      "film": {
+        "title": "Shamshera",
+        "year": "2022",
+        "poster_path": "/rryN6GhaoovO3sM8IEqGyKgCmXf.jpg",
+        "country": "IN"
+      },
+      "target_gender": "male",
+      "theme_label": "Parental Pride",
+      "cause_raw": "father's fight for freedom"
+    },
+    {
+      "id": "round_08",
+      "dialogue": "That feeling is pride, sir.  You're right.  I am super proud.  Of myself.  For being such a good teacher, obviously.",
+      "answer_industry": "holly",
+      "answer_emotion": "pride",
+      "film": {
+        "title": "The Lego Batman Movie",
+        "year": "2017",
+        "poster_path": "/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+        "country": "US|DK|AU"
+      },
+      "target_gender": "male",
       "theme_label": "Identity and Beauty",
-      "cause_raw": "marrying the speaker"
+      "cause_raw": "being a good teacher"
     }
   ],
   "linguistic_tells": {

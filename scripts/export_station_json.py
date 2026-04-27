@@ -34,6 +34,60 @@ def load_dialogues():
         return list(csv.DictReader(f))
 
 
+# Cached per-film dialogue counts — used as a popularity proxy when picking
+# representative examples. Films with many extracted dialogues are typically
+# more notable / better-covered than one-off matches.
+_FILM_COUNT_CACHE: dict[str, int] = {}
+
+
+def _film_counts(dialogues: list[dict]) -> dict[str, int]:
+    if _FILM_COUNT_CACHE:
+        return _FILM_COUNT_CACHE
+    for r in dialogues:
+        if r.get("film_matched") == "1" and r.get("film_id"):
+            _FILM_COUNT_CACHE[r["film_id"]] = _FILM_COUNT_CACHE.get(r["film_id"], 0) + 1
+    return _FILM_COUNT_CACHE
+
+
+def example_quality_score(r: dict, film_counts: dict[str, int]) -> float:
+    """Heuristic score for picking 'good' example dialogues — recent, pithy,
+    from films that are well-represented in the corpus (proxy for popularity).
+    Higher is better. Designed so a recent line from a famous film with a
+    60–120 char punchline will rank near the top."""
+    dlg = r.get("dialogue") or ""
+    n = len(dlg)
+    # Pithy: 60–120 = best, taper to 0 below 40 or above 240
+    if 60 <= n <= 120:
+        pithy = 1.0
+    elif 40 <= n < 60 or 120 < n <= 180:
+        pithy = 0.7
+    elif 180 < n <= 240:
+        pithy = 0.4
+    else:
+        pithy = 0.1
+
+    year = 0
+    yr = r.get("film_year") or ""
+    if yr.isdigit():
+        year = int(yr)
+    # Recency: post-2015 = 1.0, 2000–2014 = 0.6, pre-2000 = 0.3
+    if year >= 2015:
+        recency = 1.0
+    elif year >= 2000:
+        recency = 0.6
+    else:
+        recency = 0.3
+
+    # Popularity proxy: total extracted dialogues from this film, capped at 50
+    pop_raw = film_counts.get(r.get("film_id", ""), 0)
+    popularity = min(pop_raw / 50.0, 1.0)
+
+    # Has a poster? (small bonus — means TMDB enrichment found a real film)
+    poster_bonus = 0.1 if r.get("film_poster_path") else 0.0
+
+    return pithy * 0.45 + recency * 0.30 + popularity * 0.20 + poster_bonus
+
+
 # =========================================================================
 # Station 1 — The Mirror
 # =========================================================================
@@ -171,7 +225,8 @@ def build_station1(dialogues: list[dict]) -> dict:
 def pick_guess_rounds(dialogues: list[dict], n: int = 8) -> list[dict]:
     """Pick dialogues that are good for the guess-the-industry game.
     Criteria: well-known film, clear gender label, distinctive cause, dialogue
-    length suitable for screen display."""
+    length suitable for screen display. Biased toward recent + pithy + popular."""
+    fc = _film_counts(dialogues)
     candidates = []
     for r in dialogues:
         if r["film_matched"] != "1":
@@ -179,7 +234,7 @@ def pick_guess_rounds(dialogues: list[dict], n: int = 8) -> list[dict]:
         if not r["target_gender"] in ("male", "female"):
             continue
         dlg = (r["dialogue"] or "").strip()
-        if not (60 <= len(dlg) <= 350):
+        if not (50 <= len(dlg) <= 220):
             continue
         if not r["theme_label"]:
             continue
@@ -201,11 +256,8 @@ def pick_guess_rounds(dialogues: list[dict], n: int = 8) -> list[dict]:
                 and r["film_id"] not in seen_films]
         if not pool:
             continue
-        # Prefer dialogues with cleaner cause text
-        pool.sort(key=lambda r: (
-            -1 if len(r["dialogue"]) > 100 else 0,
-            r["dialogue_id"],
-        ))
+        # Sort by quality score (recent + pithy + popular)
+        pool.sort(key=lambda r: -example_quality_score(r, fc))
         pick = pool[0]
         seen_films.add(pick["film_id"])
         picks.append({
@@ -319,10 +371,14 @@ def build_station2(dialogues: list[dict]) -> dict:
 
 
 def pick_theme_examples(dialogues: list[dict], theme_id: str, n: int = 5, delta: float = 0.0) -> list[dict]:
+    fc = _film_counts(dialogues)
     pool = [r for r in dialogues
             if r["theme_id"] == theme_id
             and r["film_matched"] == "1"
-            and 50 <= len(r["dialogue"] or "") <= 400]
+            and 40 <= len(r["dialogue"] or "") <= 280]
+    # Rank pool by quality (recent + pithy + popular)
+    pool.sort(key=lambda r: -example_quality_score(r, fc))
+
     # Bias toward the industry the theme leans toward (delta > 0 → Bollywood, < 0 → Hollywood)
     if delta > 0:
         n_dominant, n_other = max(n - 1, n * 3 // 4), max(1, n // 4)
@@ -330,6 +386,7 @@ def pick_theme_examples(dialogues: list[dict], theme_id: str, n: int = 5, delta:
     else:
         n_dominant, n_other = max(n - 1, n * 3 // 4), max(1, n // 4)
         dominant, other = "holly", "bolly"
+    # Take top-quality from each industry within the ranked pool
     dom_pool = [r for r in pool if r["industry"] == dominant][:n_dominant]
     oth_pool = [r for r in pool if r["industry"] == other][:n_other]
     out = (dom_pool + oth_pool)[:n]
@@ -451,6 +508,8 @@ def build_studio(dialogues: list[dict]) -> dict:
         ("male", "holly", "Men in Hollywood"),
     ]
 
+    fc = _film_counts(dialogues)
+
     def _compass_for(gender: str, industry: str) -> dict:
         rows = [r for r in dialogues
                 if r["target_gender"] == gender
@@ -465,19 +524,20 @@ def build_studio(dialogues: list[dict]) -> dict:
             total = sum(theme_counts.values())
             triggers = []
             for theme_label, n in theme_counts.most_common(6):
-                # Pick a clean example for this theme
+                # Pick a clean, pithy, recent, popular-film example for this theme
                 example_pool = [r for r in rows
                                 if r["emotion"] == emo
                                 and r["theme_label"] == theme_label
                                 and r["film_matched"] == "1"
                                 and r["dialogue"]
-                                and 50 <= len(r["dialogue"]) <= 320]
+                                and 40 <= len(r["dialogue"]) <= 220
+                                and r["film_poster_path"]]
                 example = None
                 if example_pool:
-                    # Prefer ones with good cause text
-                    example_pool.sort(key=lambda r: (
-                        -1 if r.get("cause_raw") and len(r["cause_raw"]) > 10 else 0,
-                        len(r["dialogue"]),
+                    # Rank by overall quality, with a small bonus for clean cause text
+                    example_pool.sort(key=lambda r: -(
+                        example_quality_score(r, fc) +
+                        (0.05 if r.get("cause_raw") and len(r["cause_raw"]) > 10 else 0)
                     ))
                     e = example_pool[0]
                     example = {
@@ -614,13 +674,16 @@ def build_studio(dialogues: list[dict]) -> dict:
                       and r["target_gender"] == "male"
                       and r["film_matched"] == "1"
                       and r["dialogue"]
-                      and 60 <= len(r["dialogue"]) <= 300
+                      and 50 <= len(r["dialogue"]) <= 220
+                      and r["film_poster_path"]
                       and r["film_id"] not in seen]
         if not candidates:
             continue
-        candidates.sort(key=lambda r: (
-            -1 if r["industry"] == "holly" else 0,  # prefer Holly examples
-            -int(r["film_year"]) if r["film_year"].isdigit() else 0,
+        # Rank by quality score; small Hollywood preference as the inversion
+        # is more striking when it shows up in the otherwise-individualist culture
+        candidates.sort(key=lambda r: -(
+            example_quality_score(r, fc) +
+            (0.05 if r["industry"] == "holly" else 0)
         ))
         c = candidates[0]
         seen.add(c["film_id"])

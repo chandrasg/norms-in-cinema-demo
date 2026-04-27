@@ -101,7 +101,7 @@ export default function Feedback({ endpoint }: Props) {
       </h3>
       <p className="mt-3 text-sm text-white/65 max-w-2xl">
         We're extending MAPGEN to 250,000 films across 160 countries. Tell us what cuts of the
-        data — what views, what comparisons, what tools — would change your work. We're
+        data — what views, what comparisons, what tools — would support your work. We're
         collecting input from across the creative economy.
       </p>
 
