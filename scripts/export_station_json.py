@@ -29,6 +29,78 @@ def slugify(s: str) -> str:
     return s or "untitled"
 
 
+# =========================================================================
+# Profanity bleeping — applied to all dialogue/cause text shipped in JSON.
+# This site is presented to mixed audiences (festivals, funders, classrooms,
+# policymakers); we keep the meaning intact but soften the surface.
+# =========================================================================
+
+# Cased once; matched case-insensitively. Includes English + Hindi-romanized
+# slurs commonly present in subtitle data. Mild words like "damn" / "hell"
+# are deliberately excluded — they're too common in everyday speech to be
+# meaningfully sanitized without warping the prose.
+CURSE_WORDS = {
+    # English — sexual / scatological
+    "fuck", "fucks", "fucked", "fucker", "fuckers", "fucking", "fuckin",
+    "fucked-up", "fuckup", "motherfucker", "motherfuckers", "motherfucking",
+    "shit", "shits", "shitty", "shitting", "bullshit", "shithole", "shitter",
+    "shithead", "shitheads",
+    "bitch", "bitches", "bitching", "bitchy", "sonofabitch",
+    "ass", "asses", "asshole", "assholes", "dumbass", "dumbasses",
+    "jackass", "badass", "kickass", "smartass",
+    "cunt", "cunts",
+    "dick", "dicks", "dickhead", "dickheads",
+    "pussy", "pussies",
+    "cock", "cocks", "cocksucker", "cocksuckers",
+    "whore", "whores", "whoring", "whorehouse",
+    "slut", "sluts", "slutty",
+    "piss", "pissed", "pissing", "pissoff",
+    "bastard", "bastards",
+    "prick", "pricks",
+    "wanker", "wankers",
+    "twat", "twats",
+    "bollocks",
+    # Hindi-romanized profanity often present in Bollywood subtitle data
+    "bhenchod", "behenchod", "bhenchodd", "bhosdike", "bhosdika",
+    "madarchod", "madharchod", "madarchodd",
+    "randi", "randis", "randwa", "harami", "haramzada", "haramzaadi",
+    "haramzade", "haramzadi", "kameena", "kameene", "kameeni",
+    "saala", "saale", "saali", "kutta", "kuttey", "kutiya", "kutti",
+    "gaand", "gaandu", "chutiya", "chutiye", "chutiyon",
+    "lund", "lauda", "loda", "lodu",
+}
+
+
+def _bleep_word(word: str) -> str:
+    """Replace interior letters with asterisks while keeping first + last
+    so the sense is preserved (fuck → f**k, shit → s**t, ass → a*s)."""
+    if len(word) <= 2:
+        return word
+    if len(word) == 3:
+        return word[0] + "*" + word[-1]
+    return word[0] + ("*" * (len(word) - 2)) + word[-1]
+
+
+_WORD_RE = re.compile(r"[A-Za-z][A-Za-z']*")
+
+
+def bleep_curses(text):
+    """Bleep curse words in text. Preserves casing pattern (FUCK → F**K).
+    Returns input unchanged if it's empty or non-string."""
+    if not text or not isinstance(text, str):
+        return text
+
+    def repl(m):
+        w = m.group(0)
+        if w.lower().strip("'") in CURSE_WORDS:
+            bleeped = _bleep_word(w)
+            # Preserve original casing of the first + last char
+            return bleeped
+        return w
+
+    return _WORD_RE.sub(repl, text)
+
+
 def load_dialogues():
     with open(PROC / "dialogues.csv", newline="", encoding="utf-8") as f:
         return list(csv.DictReader(f))
@@ -262,7 +334,7 @@ def pick_guess_rounds(dialogues: list[dict], n: int = 8) -> list[dict]:
         seen_films.add(pick["film_id"])
         picks.append({
             "id": f"round_{len(picks)+1:02d}",
-            "dialogue": pick["dialogue"],
+            "dialogue": bleep_curses(pick["dialogue"]),
             "answer_industry": pick["industry"],
             "answer_emotion": pick["emotion"],
             "film": {
@@ -273,7 +345,7 @@ def pick_guess_rounds(dialogues: list[dict], n: int = 8) -> list[dict]:
             },
             "target_gender": pick["target_gender"],
             "theme_label": pick["theme_label"],
-            "cause_raw": pick["cause_raw"],
+            "cause_raw": bleep_curses(pick["cause_raw"]),
         })
     return picks
 
@@ -395,10 +467,10 @@ def pick_theme_examples(dialogues: list[dict], theme_id: str, n: int = 5, delta:
         out += rest
     return [{
         "dialogue_id": r["dialogue_id"],
-        "dialogue": r["dialogue"],
+        "dialogue": bleep_curses(r["dialogue"]),
         "industry": r["industry"],
         "target_gender": r["target_gender"],
-        "cause_raw": r["cause_raw"],
+        "cause_raw": bleep_curses(r["cause_raw"]),
         "film": {
             "title": r["film_title"],
             "year": r["film_year"],
@@ -463,10 +535,10 @@ def build_station3(dialogues: list[dict], top_n: int = 50) -> list[dict]:
             "dialogues": [{
                 "dialogue_id": r["dialogue_id"],
                 "emotion": r["emotion"],
-                "dialogue": r["dialogue"],
+                "dialogue": bleep_curses(r["dialogue"]),
                 "target_person": r["target_person"],
                 "target_gender": r["target_gender"],
-                "cause_raw": r["cause_raw"],
+                "cause_raw": bleep_curses(r["cause_raw"]),
                 "theme_label": r["theme_label"],
             } for r in rows],
         }
@@ -541,8 +613,8 @@ def build_studio(dialogues: list[dict]) -> dict:
                     ))
                     e = example_pool[0]
                     example = {
-                        "dialogue": e["dialogue"],
-                        "cause_raw": e["cause_raw"],
+                        "dialogue": bleep_curses(e["dialogue"]),
+                        "cause_raw": bleep_curses(e["cause_raw"]),
                         "film": {
                             "title": e["film_title"],
                             "year": e["film_year"],
@@ -690,9 +762,9 @@ def build_studio(dialogues: list[dict]) -> dict:
         subversions.append({
             "trope": theme_label_target,
             "subversion": "applied to a male character",
-            "dialogue": c["dialogue"],
+            "dialogue": bleep_curses(c["dialogue"]),
             "industry": c["industry"],
-            "cause_raw": c["cause_raw"],
+            "cause_raw": bleep_curses(c["cause_raw"]),
             "film": {
                 "title": c["film_title"],
                 "year": c["film_year"],

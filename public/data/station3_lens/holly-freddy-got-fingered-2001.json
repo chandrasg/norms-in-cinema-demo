@@ -121,7 +121,7 @@
     {
       "dialogue_id": "WP1819_holly",
       "emotion": "pride",
-      "dialogue": "I'm gonna make you so proud.  Make your daddy proud.  - You're gonna be so proud. - Proud?  Proud.  Get the fuck outta the way!",
+      "dialogue": "I'm gonna make you so proud.  Make your daddy proud.  - You're gonna be so proud. - Proud?  Proud.  Get the f**k outta the way!",
       "target_person": "",
       "target_gender": "male",
       "cause_raw": "",
@@ -130,7 +130,7 @@
     {
       "dialogue_id": "WP1820_holly",
       "emotion": "pride",
-      "dialogue": "Make your daddy proud.  - You're gonna be so proud. - Proud?  Proud.  Get the fuck outta the way!  Well... ...the boy's grown up.",
+      "dialogue": "Make your daddy proud.  - You're gonna be so proud. - Proud?  Proud.  Get the f**k outta the way!  Well... ...the boy's grown up.",
       "target_person": "daddy",
       "target_gender": "male",
       "cause_raw": "the boy's growth or maturity",
@@ -148,7 +148,7 @@
     {
       "dialogue_id": "WP1822_holly",
       "emotion": "pride",
-      "dialogue": "Paid for his damn college.  Sits at home all day, whacking off.  Better have a damn job.  Proud... My ass!  My ass!  Hey!  # I'm the backwards man, the backwards man, the backwards man",
+      "dialogue": "Paid for his damn college.  Sits at home all day, whacking off.  Better have a damn job.  Proud... My a*s!  My a*s!  Hey!  # I'm the backwards man, the backwards man, the backwards man",
       "target_person": "",
       "target_gender": "male",
       "cause_raw": "",
