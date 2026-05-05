@@ -44,7 +44,16 @@ export default function FilmSearch({ films }: { films: FilmIndexEntry[] }) {
       <p className="text-xs uppercase tracking-[0.25em] text-gold-400">Search</p>
       <h3 className="mt-2 font-display text-2xl text-white">Find a film.</h3>
       <p className="mt-2 text-sm text-white/60">
-        Type a title or filter by industry / era — see every shame and pride dialogue we extracted from it.
+        Type a title or filter by industry / era — see every shame and pride
+        dialogue we extracted from it.
+      </p>
+      <p className="mt-2 text-xs text-white/45 max-w-2xl leading-relaxed">
+        Coverage note: the corpus only includes films where annotators found
+        shame or pride dialogue. Major action and animated franchises (e.g.,
+        <em> Avengers</em>, <em>Toy Story</em>) appear with only a few labeled
+        lines because their dialogue is dominated by plot rather than
+        norm-laden moments. Films with no shame or pride dialogue aren't in
+        the corpus at all.
       </p>
 
       <input

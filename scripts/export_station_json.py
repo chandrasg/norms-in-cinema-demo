@@ -121,6 +121,40 @@ def _film_counts(dialogues: list[dict]) -> dict[str, int]:
     return _FILM_COUNT_CACHE
 
 
+# Films we explicitly want to keep OUT of the example surface — children's
+# animation, period dramas (Shakespeare in Love etc.), and titles colleagues
+# have flagged as unrepresentative of contemporary depictions.
+_EXAMPLE_BLOCKLIST_TITLES = {
+    "the lion guard: return of the roar",
+    "the lego batman movie",
+    "shakespeare in love",
+    "baiju bawra",
+    "young man with a horn",
+    "mother india",
+    "mera naam joker",
+}
+
+# Heuristic to detect dialogue lines that include character-name attribution
+# (e.g. "BERNIE: Have you no shame?" or "RUTH. Ruth, I need more pills."). We
+# don't want these to appear in the guess game because they leak signal.
+_CHAR_NAME_RE = re.compile(r"\b([A-Z][a-z]+|[A-Z]{2,})\s*[:\-]\s|\b([A-Z][a-z]+)\.\s+\1\b")
+
+
+def has_character_name_pattern(dialogue: str) -> bool:
+    """Return True if the dialogue contains an obvious 'NAME:' or 'Name.'
+    speaker-attribution pattern, which leaks too much context for the guess
+    game and reads awkwardly without staging."""
+    if not dialogue:
+        return False
+    # Quick check: ALL-CAPS short token followed by colon → "BERNIE:" / "FATHER:"
+    if re.search(r"\b[A-Z]{3,}\s*:", dialogue):
+        return True
+    # "Name:" with capitalized first letter and colon at start of a clause
+    if re.search(r"(^|[\.\?!]\s+)([A-Z][a-z]{2,})\s*:", dialogue):
+        return True
+    return False
+
+
 def example_quality_score(r: dict, film_counts: dict[str, int]) -> float:
     """Heuristic score for picking 'good' example dialogues — recent, pithy,
     from films that are well-represented in the corpus (proxy for popularity).
@@ -142,13 +176,15 @@ def example_quality_score(r: dict, film_counts: dict[str, int]) -> float:
     yr = r.get("film_year") or ""
     if yr.isdigit():
         year = int(yr)
-    # Recency: post-2015 = 1.0, 2000–2014 = 0.6, pre-2000 = 0.3
+    # Recency: post-2015 = 1.0, 2000–2014 = 0.6, 1990–1999 = 0.3, pre-1990 = 0.1
     if year >= 2015:
         recency = 1.0
     elif year >= 2000:
-        recency = 0.6
-    else:
+        recency = 0.7
+    elif year >= 1990:
         recency = 0.3
+    else:
+        recency = 0.05  # period dramas / very-old films heavily de-prioritized
 
     # Popularity proxy: total extracted dialogues from this film, capped at 50
     pop_raw = film_counts.get(r.get("film_id", ""), 0)
@@ -157,7 +193,16 @@ def example_quality_score(r: dict, film_counts: dict[str, int]) -> float:
     # Has a poster? (small bonus — means TMDB enrichment found a real film)
     poster_bonus = 0.1 if r.get("film_poster_path") else 0.0
 
-    return pithy * 0.45 + recency * 0.30 + popularity * 0.20 + poster_bonus
+    base = pithy * 0.45 + recency * 0.30 + popularity * 0.20 + poster_bonus
+
+    # Penalties
+    title_norm = (r.get("film_title") or "").lower().strip()
+    if title_norm in _EXAMPLE_BLOCKLIST_TITLES:
+        base -= 1.0  # effectively excludes from top picks
+    if has_character_name_pattern(dlg):
+        base -= 0.4  # heavy penalty — these read awkwardly without staging
+
+    return base
 
 
 # =========================================================================
@@ -310,6 +355,13 @@ def pick_guess_rounds(dialogues: list[dict], n: int = 8) -> list[dict]:
             continue
         if not r["theme_label"]:
             continue
+        # Hard exclude: lines with explicit speaker-name attribution (leaks
+        # context to the guesser and reads awkwardly without staging)
+        if has_character_name_pattern(dlg):
+            continue
+        # Hard exclude: blocklisted films (children's animation, period pieces)
+        if (r.get("film_title") or "").lower().strip() in _EXAMPLE_BLOCKLIST_TITLES:
+            continue
         candidates.append(r)
 
     # Pick a balanced mix: 2 bolly-shame, 2 holly-shame, 2 bolly-pride, 2 holly-pride
@@ -434,7 +486,11 @@ def build_station2(dialogues: list[dict]) -> dict:
 
     return {
         "themes": themes,
-        "films_index": films_index[:300],  # top 300 by total dialogue count
+        # Keep all films with >=2 dialogues so popular films (Star Wars,
+        # Avengers, Toy Story etc.) are searchable even if they're not in the
+        # top tier of dialogue counts. This raises the index from 300 → ~2,000
+        # entries; file size goes up to ~1MB which is still trivial.
+        "films_index": [f for f in films_index if f["total_count"] >= 2][:1800],
         "totals_by_emotion_industry": {
             f"{emo}_{ind}": v
             for (emo, ind), v in by_emotion_industry.items()

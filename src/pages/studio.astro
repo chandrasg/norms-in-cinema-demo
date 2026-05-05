@@ -89,13 +89,53 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
       <div class="border-l-2 border-gold-400 pl-6">
         <p class="text-xs uppercase tracking-[0.25em] text-gold-400">Dossier 02 · Funders &amp; studios</p>
         <h2 class="mt-2 font-display text-4xl md:text-5xl text-white max-w-3xl leading-tight">
-          What's the norm profile of your slate — and where's the audience moving?
+          What's the gender norm profile of your slate — and where's your audience moving?
         </h2>
         <p class="mt-4 max-w-2xl text-base text-white/70 leading-relaxed">
-          Representation isn't a moral metric. It's a market signal. The two industries
-          have started moving in opposite directions on the same measure since 2000 —
-          and the audience has shown which way it's leaning.
+          Gender representation isn't a moral metric. It's a market signal. The
+          two industries have started moving in opposite directions on the same
+          measure since 2000 — and the audience has shown which way it's leaning.
         </p>
+      </div>
+
+      <!-- THE ASK — surfaced near the top so funders don't have to scroll past
+           Diverging Mirror, Whitespace, Slate Diagnostic, and CountryPreview
+           to find what we want from them. -->
+      <div class="mt-10 panel p-6 md:p-8 border border-gold-400/30 bg-gradient-to-b from-gold-400/[0.04] to-transparent">
+        <div class="flex flex-wrap items-baseline gap-2">
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">The ask</p>
+          <span class="rounded-full bg-emerald-400/10 ring-1 ring-emerald-400/40 text-emerald-300 text-[10px] uppercase tracking-[0.18em] px-2 py-0.5">
+            Anchor funder: Gates Foundation
+          </span>
+        </div>
+        <p class="mt-3 font-display text-2xl md:text-3xl text-white leading-tight max-w-3xl">
+          Help us extend this from two industries to 160 countries.
+        </p>
+        <p class="mt-3 text-base text-white/75 leading-relaxed max-w-2xl">
+          Today's site reads ~5,400 Bollywood and Hollywood films. With the
+          <span class="text-white"> Bill &amp; Melinda Gates Foundation</span> as
+          anchor funder, V2 will extend the same method to ~250,000 films
+          across 160 countries — so producers, programmers, and policymakers
+          everywhere can see the same kind of mirror we're showing here.
+          We're looking for co-funders, regional sponsors, and pilot partners.
+        </p>
+        <ul class="mt-4 space-y-2 text-sm text-white/75 leading-relaxed">
+          <li><span class="text-white">·</span> <span class="text-white">Co-fund</span> the expansion — country pilots, language coverage, the public dashboard</li>
+          <li><span class="text-white">·</span> <span class="text-white">Sponsor</span> a country or regional cut for your territory</li>
+          <li><span class="text-white">·</span> <span class="text-white">Pilot</span> the slate diagnostic on a real production slate, under NDA</li>
+        </ul>
+        <div class="mt-5 flex flex-wrap gap-3">
+          <button type="button"
+                  data-mu="c2hhcmF0aGc=" data-md="Y2lzLnVwZW5uLmVkdQ=="
+                  data-ms="MAPGEN V2 partnership"
+                  class="inline-flex items-center gap-2 rounded-full bg-gold-400 text-ink-950 px-5 py-2.5 text-sm font-medium hover:bg-gold-300 transition">
+            Email the project lead about V2 →
+          </button>
+          <a href="#feedback-anchor"
+             class="inline-flex items-center gap-2 rounded-full bg-white/5 ring-1 ring-white/10 text-white/80 px-5 py-2.5 text-sm hover:bg-white/10 hover:text-white transition">
+            Share input via the form
+          </a>
+        </div>
       </div>
 
       <div class="mt-12">
@@ -116,42 +156,6 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
         <CountryPreview client:load />
       </div>
 
-      <div class="mt-10 panel p-6 md:p-8 border-l-2 border-gold-400">
-        <div class="flex flex-wrap items-baseline gap-2">
-          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">A concrete ask</p>
-          <span class="rounded-full bg-emerald-400/10 ring-1 ring-emerald-400/40 text-emerald-300 text-[10px] uppercase tracking-[0.18em] px-2 py-0.5">
-            Anchor funder: Gates Foundation
-          </span>
-        </div>
-        <p class="mt-2 text-base text-white/80 leading-relaxed">
-          MAPGEN's V1 covers ~5,400 films across two industries. V2 — supported by
-          the <span class="text-white">Bill &amp; Melinda Gates Foundation</span> as
-          anchor funder — extends the method to ~250,000 films across 160
-          countries: country-level diagnostics, soft-power dashboards, regional
-          norm shifts, and audience fit by market.
-        </p>
-        <p class="mt-3 text-sm text-white/65 leading-relaxed">
-          We're seeking co-funders, regional sponsors, and pilot partners on top
-          of the anchor commitment.
-        </p>
-        <ul class="mt-4 space-y-2 text-sm text-white/70 leading-relaxed">
-          <li>· <span class="text-white">Co-fund</span> the corpus expansion (TMDB enrichment, embeddings, clustering at scale)</li>
-          <li>· <span class="text-white">Sponsor</span> a country or regional cut for your territory</li>
-          <li>· <span class="text-white">Pilot</span> the slate diagnostic on a real production slate, under NDA</li>
-        </ul>
-        <div class="mt-5 flex flex-wrap gap-3">
-          <button type="button"
-                  data-mu="c2hhcmF0aGc=" data-md="Y2lzLnVwZW5uLmVkdQ=="
-                  data-ms="MAPGEN V2 partnership"
-                  class="inline-flex items-center gap-2 rounded-full bg-gold-400 text-ink-950 px-5 py-2.5 text-sm font-medium hover:bg-gold-300 transition">
-            Email the project lead about V2 →
-          </button>
-          <a href="#feedback-anchor"
-             class="inline-flex items-center gap-2 rounded-full bg-white/5 ring-1 ring-white/10 text-white/80 px-5 py-2.5 text-sm hover:bg-white/10 hover:text-white transition">
-            Share input via the form
-          </a>
-        </div>
-      </div>
     </div>
 
     <!-- =========================================================== -->
@@ -159,14 +163,14 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
     <!-- =========================================================== -->
     <div id="programmers" class="mt-32 scroll-mt-24">
       <div class="border-l-2 border-holly pl-6">
-        <p class="text-xs uppercase tracking-[0.25em] text-holly">Dossier 03 · Programmers, policy, educators</p>
+        <p class="text-xs uppercase tracking-[0.25em] text-holly">Dossier 03 · Programmers, policymakers, educators</p>
         <h2 class="mt-2 font-display text-4xl md:text-5xl text-white max-w-3xl leading-tight">
-          What does our cinema's mirror say about us?
+          What does our cinema say about us?
         </h2>
         <p class="mt-4 max-w-2xl text-base text-white/70 leading-relaxed">
-          Below the languages, the genres, the soundtracks — there are constraints that
-          hold across both industries. The convergence zone is where the cross-cultural
-          conversation begins. Most policy and pedagogy lives here.
+          Below the languages, the genres, the soundtracks — there are gender
+          norms that hold across both industries. The convergence zone is where
+          the cross-cultural conversation begins.
         </p>
       </div>
 

@@ -10,10 +10,31 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
     <p class="text-xs uppercase tracking-[0.3em] text-gold-400">Method</p>
     <h1 class="mt-3 font-display text-kiosk-xl text-white max-w-3xl">How this was built.</h1>
     <p class="mt-4 max-w-2xl text-kiosk-md text-white/75 leading-snug">
-      For researchers, policy analysts, and anyone who wants to know what's
-      under the visualizations before citing them. This page is the boring
-      part — kept honest on purpose.
+      For researchers, policy analysts, screenwriters, and anyone who wants to
+      know what data informs everything you see in this site — the
+      visualizations, the Lens analysis, the Studio diagnostics — before citing
+      it or applying it to your work. This page is the boring part, kept honest
+      on purpose.
     </p>
+
+    <!-- Plain-language summary for non-technical readers -->
+    <div class="mt-10 panel p-6 md:p-8 border-l-2 border-gold-400 bg-gold-400/[0.03]">
+      <p class="text-xs uppercase tracking-[0.25em] text-gold-400">In plain language</p>
+      <p class="mt-3 text-base text-white/85 leading-relaxed max-w-3xl">
+        We collected dialogue lines where a film character feels shame or pride
+        — about 12,000 lines, drawn from roughly 5,400 Bollywood and Hollywood
+        films. For each line, we recorded who the emotion lands on (a man, a
+        woman) and what triggered it (e.g., a character's marital status, a
+        son's accomplishment, a public failure). Then we grouped triggers into
+        themes and compared the patterns across the two industries. Everything
+        on this site is computed from that table.
+      </p>
+      <p class="mt-3 text-sm text-white/60 leading-relaxed max-w-3xl">
+        What we measure is on-screen depictions, not what audiences felt or did.
+        The patterns are real; individual readings of any one film or scene
+        should be treated as exploratory.
+      </p>
+    </div>
 
     <!-- Quick stats -->
     <div class="mt-10 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
@@ -31,7 +52,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
       </div>
       <div class="panel p-4">
         <p class="font-display text-3xl text-white">{meta.gender_coverage_pct}<span class="text-white/30 text-base">%</span></p>
-        <p class="text-xs text-white/60 mt-1">target-gender coverage</p>
+        <p class="text-xs text-white/60 mt-1">of dialogues have a labeled target gender (the person the emotion is directed at)</p>
       </div>
     </div>
 
@@ -43,8 +64,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
           Source: the <em>Cross-Cultural Social Norms Dataset</em>
           (Rai et al., NAACL 2025) — a manually-annotated corpus of dialogue
           excerpts from Bollywood and Hollywood films, each labeled with the
-          emotion (shame or pride), the target person and gender, and the
-          textual cause that triggered the emotion.
+          emotion (shame or pride), the gender of the person experiencing the
+          emotion, and the trigger for that emotion.
         </p>
         <p class="mt-4 text-base text-white/75 leading-relaxed">
           We extend the original release with three layers of enrichment, each
@@ -173,7 +194,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
             <li>• Bollywood uses the explicit vocabulary of shame ~4× more frequently than Hollywood.</li>
             <li>• Female share of <em>shame</em> is roughly stable in both industries (~30%).</li>
             <li>• Female share of <em>pride</em> diverges since 2000 — Hollywood up, Bollywood down.</li>
-            <li>• Bollywood-leaning themes cluster around community-policed femininity; Hollywood-leaning shame around individual failure.</li>
+            <li>• Depictions of shame in Bollywood are often associated with community-policed femininity; Hollywood depictions of shame focus instead on individual failure.</li>
             <li>• Cultural Identity, Patriotism, Family Honor, and Son's Accomplishments are robust Bollywood-only pride themes.</li>
           </ul>
         </div>

@@ -78,9 +78,8 @@ export default function CountryPreview() {
         From two industries to 160 countries.
       </h3>
       <p className="mt-3 text-sm text-white/60 max-w-2xl">
-        V1 covers Bollywood and Hollywood. V2 extends the same method —
-        embedding-based theme clustering, gendered-target labeling, era
-        bucketing — to ~250K films across the major film industries below.{" "}
+        V1 covers Bollywood and Hollywood. V2 extends the same method to ~250K
+        films across the major film industries below.{" "}
         <span className="text-amber-300/80">Alpha:</span> the country list and
         roadmap below are the working plan; coverage and exact film counts will
         firm up as pilot batches complete.
@@ -174,8 +173,8 @@ export default function CountryPreview() {
       <p className="mt-8 text-xs text-white/40 italic max-w-2xl leading-relaxed">
         This list is illustrative of the scope, not a binding commitment.
         Pilot order is shaped by subtitle availability, cultural research
-        partnerships, and funder priorities — which is part of why we want to
-        hear from you.
+        partnerships, and funder priorities — which is why we want to hear
+        from you.
       </p>
     </div>
   );

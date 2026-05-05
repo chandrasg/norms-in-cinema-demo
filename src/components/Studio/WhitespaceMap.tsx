@@ -28,10 +28,10 @@ export default function WhitespaceMap({ items }: { items: WhitespaceItem[] }) {
         Stories one industry tells. The other doesn't.
       </h3>
       <p className="mt-3 text-sm text-white/60 max-w-2xl">
-        Each row is a theme robustly present in one industry and under-told in
-        the other. For investors and producers thinking about cross-cultural
-        adaptation: these are the gaps where audience appetite has been
-        demonstrated on one side but not yet served on the other.
+        Each row is a theme prominent in one industry and minimal in the other.
+        For investors and producers thinking about cross-cultural appeal, it's
+        a starting point for understanding what gaps need to be bridged between
+        cultures.
       </p>
 
       <div className="mt-8 grid gap-4">
@@ -79,9 +79,7 @@ export default function WhitespaceMap({ items }: { items: WhitespaceItem[] }) {
       </div>
 
       <p className="mt-8 text-xs text-white/40 italic max-w-2xl">
-        Bars are scaled to make small shares visible. Whitespace ≠ "should be
-        copied." It's a starting point for asking <em>why</em> a story works in one
-        cultural context and what would have to change to bridge it.
+        Bars are scaled to make small shares visible.
       </p>
     </div>
   );

@@ -10,30 +10,39 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
     </div>
 
     <div class="grid grid-cols-2 items-center gap-6 md:grid-cols-3">
-      <div class="rounded-lg bg-white p-5">
+      <a href="https://www.med.upenn.edu/guntukulab/"
+         target="_blank" rel="noopener"
+         class="rounded-lg bg-white p-5 block hover:ring-2 hover:ring-gold-400/40 transition"
+         title="Guntuku Lab at Penn">
         <img
           src={base + "/logos/UniversityofPennsylvania_FullLogo_RGB.png"}
-          alt="University of Pennsylvania"
+          alt="University of Pennsylvania — Guntuku Lab"
           class="h-10 w-auto mx-auto"
           loading="lazy"
         />
-      </div>
-      <div class="rounded-lg bg-white p-5">
+      </a>
+      <a href="https://www.worldbank.org/en/research/dime"
+         target="_blank" rel="noopener"
+         class="rounded-lg bg-white p-5 block hover:ring-2 hover:ring-gold-400/40 transition"
+         title="World Bank DIME (Development Impact Evaluation)">
         <img
           src={base + "/logos/WBG_Horizontal-RGB.jpg"}
-          alt="World Bank Group"
+          alt="World Bank Group — DIME"
           class="h-10 w-auto mx-auto"
           loading="lazy"
         />
-      </div>
-      <div class="rounded-lg bg-white p-5 col-span-2 md:col-span-1">
+      </a>
+      <a href="https://www.mediaimpactproject.org/"
+         target="_blank" rel="noopener"
+         class="rounded-lg bg-white p-5 col-span-2 md:col-span-1 block hover:ring-2 hover:ring-gold-400/40 transition"
+         title="USC Annenberg Norman Lear Center — Media Impact Project">
         <img
           src={base + "/logos/ascj_normanlearcenter_media_impact_project_cardblack_informal_horiz.webp"}
-          alt="USC Annenberg Norman Lear Center"
+          alt="USC Annenberg Norman Lear Center — Media Impact Project"
           class="h-10 w-auto mx-auto"
           loading="lazy"
         />
-      </div>
+      </a>
     </div>
 
     <!-- Resource links -->

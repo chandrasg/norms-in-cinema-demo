@@ -27,7 +27,7 @@ export default function ConvergenceZone({ items }: { items: ConvergenceItem[] })
       <p className="mt-3 text-sm text-white/60 max-w-2xl">
         These are the themes both industries share most strongly. Below the
         cultural surface — the songs, the languages, the genres — these are
-        the constraints that hold across borders.
+        the gender norms that hold across borders.
       </p>
 
       <div className="mt-8 grid gap-3">
@@ -71,9 +71,9 @@ export default function ConvergenceZone({ items }: { items: ConvergenceItem[] })
       </div>
 
       <p className="mt-8 text-xs text-white/40 italic max-w-2xl">
-        Bars show share within each industry's emotion total. Themes ranked by
-        harmonic mean — penalizes themes only present on one side. Convergence
-        is the substrate. The Atlas shows the difference; this shows the same.
+        Bars depict share within each industry's total pride or shame themes.
+        Themes ranked by harmonic mean penalize those only present in one
+        industry. Convergence is the substrate.
       </p>
     </div>
   );

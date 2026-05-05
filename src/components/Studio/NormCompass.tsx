@@ -39,11 +39,11 @@ export default function NormCompass({ archetypes }: { archetypes: Archetype[] })
     <div className="panel p-6 md:p-10">
       <p className="text-xs uppercase tracking-[0.25em] text-gold-400">Norm Compass</p>
       <h3 className="mt-1 font-display text-2xl text-white">
-        Pick a character. See the shame and pride triggers MAPGEN finds most often.
+        Pick a character. See the shame and pride themes MAPGEN finds most often.
       </h3>
       <p className="mt-3 text-sm text-white/60 max-w-2xl">
         Each character archetype below is paired with a ranked list of
-        <span className="text-white"> triggers</span> — the social situations
+        <span className="text-white"> themes</span> — the social situations
         most often associated with shame or pride for that character — alongside
         an example line from the films.
       </p>
@@ -148,9 +148,10 @@ export default function NormCompass({ archetypes }: { archetypes: Archetype[] })
       </div>
 
       <p className="mt-8 text-xs text-white/40 italic">
-        Top 3 triggers shown with example lines. Share is within this archetype ×
-        emotion. Frequency is not judgement — these are the defaults a scene
-        either reproduces, complicates, or breaks.
+        Top 3 themes shown with an example line each. The percentage is the share
+        of this archetype's shame (or pride) lines that fall under that theme.
+        These themes are the most common social-norm patterns the character
+        encounters — a scene can reproduce them, complicate them, or break them.
       </p>
     </div>
   );

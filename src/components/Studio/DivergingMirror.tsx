@@ -67,10 +67,11 @@ export default function DivergingMirror({ trend }: { trend: EraRow[] }) {
         Two industries. One metric. Opposite directions.
       </h3>
       <p className="mt-4 text-sm md:text-base text-white/65 max-w-2xl leading-relaxed">
-        Female share of <span className="text-white">pride</span> dialogue, by era.
-        Hollywood has climbed by <span className="text-holly font-medium">{hollyDelta.toFixed(0)} points</span> since
-        the 1990s. Bollywood has fallen by <span className="text-bolly font-medium">{Math.abs(bollyDelta).toFixed(0)} points</span> over
-        the same period. Audiences are noticing.
+        Dialogue about female pride, by era. Hollywood has climbed by{" "}
+        <span className="text-holly font-medium">{hollyDelta.toFixed(0)} points</span>{" "}
+        since the 1990s. Bollywood has fallen by{" "}
+        <span className="text-bolly font-medium">{Math.abs(bollyDelta).toFixed(0)} points</span>{" "}
+        over the same period.
       </p>
 
       {/* Chart — responsive */}
@@ -156,9 +157,9 @@ export default function DivergingMirror({ trend }: { trend: EraRow[] }) {
       {/* Sample-size caveat */}
       <p className="mt-4 text-xs text-white/40 italic">
         n per industry × era ranges from {Math.min(...points.flatMap(p => [p.bolly_n, p.holly_n]))} to{" "}
-        {Math.max(...points.flatMap(p => [p.bolly_n, p.holly_n]))} labeled-gender pride dialogues.
-        Direction is consistent across coverage; small samples in the most recent
-        Bollywood bucket warrant caution on the exact value.
+        {Math.max(...points.flatMap(p => [p.bolly_n, p.holly_n]))} dialogues
+        about pride. Direction is consistent across coverage; small samples in
+        the most recent Bollywood dataset warrant caution on the exact value.
       </p>
 
       {/* Takeaway band */}
@@ -166,19 +167,22 @@ export default function DivergingMirror({ trend }: { trend: EraRow[] }) {
         <div>
           <p className="text-xs uppercase tracking-[0.18em] text-holly">What climbed</p>
           <p className="mt-2 font-display text-lg md:text-xl text-white leading-snug">
-            Hollywood put more women in pride scenes — for ambition, identity, achievement.
+            Hollywood depicted more scenes about female pride — prominent
+            themes were ambition, identity, achievement.
           </p>
         </div>
         <div>
           <p className="text-xs uppercase tracking-[0.18em] text-bolly">What fell</p>
           <p className="mt-2 font-display text-lg md:text-xl text-white leading-snug">
-            Bollywood doubled down on collective male pride — son's accomplishments, family, nation.
+            Bollywood doubled down on collective male pride for a son's
+            accomplishments, family, nation.
           </p>
         </div>
         <div>
           <p className="text-xs uppercase tracking-[0.18em] text-gold-400">What it means</p>
           <p className="mt-2 font-display text-lg md:text-xl text-white leading-snug">
-            One mirror is updating. The other is hardening. Audiences will choose.
+            One mirror is challenging stale stereotypes. The other continues to
+            endorse them. Audiences will choose.
           </p>
         </div>
       </div>

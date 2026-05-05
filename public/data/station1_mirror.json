@@ -54,18 +54,18 @@
     },
     {
       "id": "round_02",
-      "dialogue": "Bernie: Ruth. Ruth.  Ruth, I need more pills.  Ruth.  Man: Have you no shame?  Hello?  Have you no shame?  No remorse?",
+      "dialogue": "Floyd breathes hard, I hear a zip  Pee-pee pressed against my lips  I was shamed  I was shamed  I was shamed",
       "answer_industry": "holly",
       "answer_emotion": "shame",
       "film": {
-        "title": "The Wizard of Lies",
-        "year": "2017",
-        "poster_path": "/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg",
+        "title": "Cobain: Montage of Heck",
+        "year": "2015",
+        "poster_path": "/hQEkK4WnTtQXIp5QOnVTsK3xYRM.jpg",
         "country": "US"
       },
       "target_gender": "male",
-      "theme_label": "Alcoholism",
-      "cause_raw": "asking for more pills potential drug misuse)"
+      "theme_label": "Sexual Harassment",
+      "cause_raw": "sexual harassment"
     },
     {
       "id": "round_03",
@@ -84,18 +84,18 @@
     },
     {
       "id": "round_04",
-      "dialogue": "Everything the light touches is part of our kingdom.  The Pride Lands.  Ruling it is a big responsibility, Kiara.  And someday, when you're Queen... Heads up! Incoming!",
+      "dialogue": "I had some bad years.  I am so... ...proud of you.  ...proud of you.  You're doing so good.  You're an amazing woman.",
       "answer_industry": "holly",
       "answer_emotion": "pride",
       "film": {
-        "title": "The Lion Guard: Return of the Roar",
-        "year": "2016",
-        "poster_path": "/pzcQ7cQBHIdsKLN4exd7bCyy1pk.jpg",
+        "title": "Wilson",
+        "year": "2017",
+        "poster_path": "/m63h5MxevYrKn3720hVgKZAx86S.jpg",
         "country": "US"
       },
       "target_gender": "female",
-      "theme_label": "Identity and Beauty",
-      "cause_raw": "becoming queen and ruling the kingdom"
+      "theme_label": "Personal Achievement",
+      "cause_raw": "overcoming bad years"
     },
     {
       "id": "round_05",
@@ -114,18 +114,18 @@
     },
     {
       "id": "round_06",
-      "dialogue": "Floyd breathes hard, I hear a zip  Pee-pee pressed against my lips  I was shamed  I was shamed  I was shamed",
+      "dialogue": "The passport. Throw it to me.  Now, cuff yourself to him.  You should be ashamed.  - Throw me the keys. - No!.  Really?",
       "answer_industry": "holly",
       "answer_emotion": "shame",
       "film": {
-        "title": "Cobain: Montage of Heck",
-        "year": "2015",
-        "poster_path": "/hQEkK4WnTtQXIp5QOnVTsK3xYRM.jpg",
-        "country": "US"
+        "title": "Crossing Point",
+        "year": "2016",
+        "poster_path": "/nnxtFh1j47tb29z2ImzYA4NFaea.jpg",
+        "country": "MX|US"
       },
       "target_gender": "male",
       "theme_label": "Sexual Harassment",
-      "cause_raw": "sexual harassment"
+      "cause_raw": "forcing someone into a dangerous situation"
     },
     {
       "id": "round_07",
@@ -144,18 +144,18 @@
     },
     {
       "id": "round_08",
-      "dialogue": "That feeling is pride, sir.  You're right.  I am super proud.  Of myself.  For being such a good teacher, obviously.",
+      "dialogue": "I'mma go punch a b***h in the throat.  Lindsey! You bilingual b***h!  So proud of you.  Hannah!  Dad!",
       "answer_industry": "holly",
       "answer_emotion": "pride",
       "film": {
-        "title": "The Lego Batman Movie",
-        "year": "2017",
-        "poster_path": "/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
-        "country": "US|DK|AU"
+        "title": "Fifty Shades of Black",
+        "year": "2016",
+        "poster_path": "/nkGhv7WMbyX7tL8CJkvMY3S2lW.jpg",
+        "country": "US"
       },
-      "target_gender": "male",
-      "theme_label": "Identity and Beauty",
-      "cause_raw": "being a good teacher"
+      "target_gender": "female",
+      "theme_label": "Future Aspirations",
+      "cause_raw": "being bilingual"
     }
   ],
   "linguistic_tells": {
