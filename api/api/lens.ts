@@ -135,6 +135,27 @@ const PROMPT_INJECTION_PATTERNS = [
   /override your/i,
 ];
 
+/**
+ * Strip subtitle-format artifacts (SRT/VTT) before sending to the LLM.
+ * Removes timestamp lines (00:00:00,000 --> 00:00:00,000), standalone
+ * numeric index lines, and collapses multiple blank lines. This both
+ *  (a) prevents false positives on the length / repetition heuristics
+ *      when users paste raw subtitle excerpts, and
+ *  (b) reduces token cost by stripping noise the LLM doesn't need.
+ */
+function cleanScene(raw: string): string {
+  const lines = raw.split(/\r?\n/);
+  const kept: string[] = [];
+  const tsRe = /\d{1,2}:\d{2}:\d{2}[,.]\d{1,3}\s*-+>\s*\d{1,2}:\d{2}:\d{2}[,.]\d{1,3}/;
+  const idxRe = /^\s*\d{1,5}\s*$/;
+  for (const l of lines) {
+    if (tsRe.test(l)) continue;       // SRT/VTT timestamp line
+    if (idxRe.test(l)) continue;      // standalone subtitle index
+    kept.push(l);
+  }
+  return kept.join("\n").replace(/\n{3,}/g, "\n\n").trim();
+}
+
 function looksLikeAbuse(scene: string): { ok: boolean; reason?: string } {
   for (const re of PROMPT_INJECTION_PATTERNS) {
     if (re.test(scene)) return { ok: false, reason: "injection_attempt" };
@@ -247,21 +268,36 @@ export default async function handler(req: Request): Promise<Response> {
     });
   }
 
-  const scene = (body?.scene ?? "").trim();
-  if (!scene || scene.length < 60) {
+  const rawScene = (body?.scene ?? "").trim();
+
+  // Outer cap on raw payload — prevents megabyte-sized pastes regardless of
+  // how much of it strips out. 8000 is generous for full-scene transcripts.
+  if (rawScene.length > 8000) {
     return new Response(
-      JSON.stringify({ error: "Scene too short — paste at least 60 characters of dialogue." }),
-      { status: 400, headers: { ...cors, "Content-Type": "application/json" } }
-    );
-  }
-  if (scene.length > 2000) {
-    return new Response(
-      JSON.stringify({ error: "Scene too long — keep it under 2000 characters." }),
+      JSON.stringify({ error: "Scene too long — keep the paste under 8000 characters." }),
       { status: 400, headers: { ...cors, "Content-Type": "application/json" } }
     );
   }
 
-  // Heuristic abuse / prompt-injection check
+  // Strip SRT/VTT subtitle artifacts (timestamps, indices) before any
+  // analysis. The cleaned scene is what we send to the LLM and what we
+  // length-check / abuse-check against.
+  const scene = cleanScene(rawScene);
+
+  if (!scene || scene.length < 60) {
+    return new Response(
+      JSON.stringify({ error: "Not enough dialogue to analyse — paste at least a few lines of actual scene text." }),
+      { status: 400, headers: { ...cors, "Content-Type": "application/json" } }
+    );
+  }
+  if (scene.length > 4000) {
+    return new Response(
+      JSON.stringify({ error: "Too much dialogue — trim the scene to under ~4000 characters of text." }),
+      { status: 400, headers: { ...cors, "Content-Type": "application/json" } }
+    );
+  }
+
+  // Heuristic abuse / prompt-injection check on cleaned scene
   const abuse = looksLikeAbuse(scene);
   if (!abuse.ok) {
     return new Response(
