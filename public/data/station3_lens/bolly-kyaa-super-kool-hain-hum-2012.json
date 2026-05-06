@@ -1,0 +1,129 @@
+{
+  "film": {
+    "id": "120101",
+    "title": "Kyaa Super Kool Hain Hum",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lGxipu6pNdb3ywPlCm0nPaXb5tY.jpg",
+    "overview": "An aspiring actor and a struggling DJ team up to pursue the ladies they love and a diamond that rightfully belongs to their oversexed dog."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 2
+    },
+    "pride": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3226_bolly",
+      "emotion": "shame",
+      "dialogue": "I said I want BJ. - BJ? Bhadresh, Ramesh! - What happened? This shameless man wants BJ. Back there he was fiddling with the Muthiya.....and now here he wants BJ. Don't believe me?",
+      "target_person": "Unnamed Male Character",
+      "target_gender": "male",
+      "cause_raw": "inappropriate sexual innuendo",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3227_bolly",
+      "emotion": "shame",
+      "dialogue": "Hello. What are you staring at? - Nothing, nothing. Look, I know what you're looking at. You know. - Aren't you ashamed? I am, but this is how it begins. How disgusting?",
+      "target_person": "character being stared at",
+      "target_gender": "female",
+      "cause_raw": "inappropriate staring",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s3228_bolly",
+      "emotion": "shame",
+      "dialogue": "No one's at home, sir. Everyone's attending the marriage. - Marriage? I feel ashamed to even speak about it. This is not the way. This marriage's taking place.....even after Anu madam and her friend revolted.",
+      "target_person": "Anu and her friend",
+      "target_gender": "female",
+      "cause_raw": "opposing a marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p1695_bolly",
+      "emotion": "pride",
+      "dialogue": "Hello. - What? Pug la. Sakru. My handsome baby. Sid. You must be so proud of him, right. Proud. I am proud of him. Since he's stood up.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "child's achievement",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p1696_bolly",
+      "emotion": "pride",
+      "dialogue": "Pug la. Sakru. My handsome baby. Sid. You must be so proud of him, right. Proud. I am proud of him. Since he's stood up. On his feet.",
+      "target_person": "Sid's parent",
+      "target_gender": "unclear",
+      "cause_raw": "Sid standing up on his feet",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1697_bolly",
+      "emotion": "pride",
+      "dialogue": "Sakru. My handsome baby. Sid. You must be so proud of him, right. Proud. I am proud of him. Since he's stood up. On his feet. I don't have to do anything.",
+      "target_person": "Sakru",
+      "target_gender": "male",
+      "cause_raw": "son's independence",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1698_bolly",
+      "emotion": "pride",
+      "dialogue": "What happened? - Sir, if you don't come quickly.....It will be a catastrophe. Rascal. Your performance starts with my music. I am so proud of you. My mother's been..My mother's been..Hey you. You can't endure to see someone happy. Leave my boss's mother.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "performance of another person",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p1699_bolly",
+      "emotion": "pride",
+      "dialogue": "And I'm still hand-some. What's this? Early morning on the job. I am proud of you my boy. Why are you sulking? Look in the pool. They're just having a ball.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "work ethic",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

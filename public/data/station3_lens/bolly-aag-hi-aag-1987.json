@@ -1,0 +1,124 @@
+{
+  "film": {
+    "id": "302422",
+    "title": "Aag Hi Aag",
+    "year": "1987",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/mtHgZLsKwws53CsfCnl1MpcMrbR.jpg",
+    "overview": "An officer in the Indian army is called to duty on the same day his wife is to give birth to their son.  When he gets back, he learns that his sister has been raped and murdered and the police ignore the case."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Patriotism",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3929_bolly",
+      "emotion": "shame",
+      "dialogue": "Where did you go so late in the night? To meet Vijay. Shameless girl! Chaudhari, you shouldn't raise your hands at lovers. She is my son's love.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "going out late at night",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s3930_bolly",
+      "emotion": "shame",
+      "dialogue": "What do you mean? Come. Aarti. - Father, you are a dacoit. I am ashamed to call you my father. Where did you find them? I went to Sher Singh's house to look for him.",
+      "target_person": "Father",
+      "target_gender": "male",
+      "cause_raw": "being a dacoit",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p2124_bolly",
+      "emotion": "pride",
+      "dialogue": "My name is Gangua. Everyone in this area is scared of me. Twice I had been to jail. India is very proud of people like you. Pleased to meet you. Now please apologize and make this animal happy too.",
+      "target_person": "Gangua",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2125_bolly",
+      "emotion": "pride",
+      "dialogue": "Come. I will apply medicine. Your son talks just like you. It is so proud on being a soldier's son. God save her from the evils of this world. Gangua, all of them are my followers.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being a soldier's son",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2126_bolly",
+      "emotion": "pride",
+      "dialogue": "Do you know what punishment I have decided for you? You will escort Aarti to her house? You fulfilled your duty. I am proud of you. Mother. Father. Father.",
+      "target_person": "Father",
+      "target_gender": "male",
+      "cause_raw": "fulfilling duty",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2127_bolly",
+      "emotion": "pride",
+      "dialogue": "But the truth is that you are dacoit Sher Singh's wife. And when people will find this out then you will be....defamed and disgraced in this society. You son is proud of being a soldier's son and....announces it everywhere will be ruined in this truth. He won't be able to face people's taunting words. And you were talking about the passionate blood....if it makes your son furious then....he will either kill 2-4 people and become dacoit....like his father or he will commit suicide.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being a soldier's son",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2128_bolly",
+      "emotion": "pride",
+      "dialogue": "She was raised in luxury. She can't live with our Vijay. If wealth is the only hurdle between us then....I will earn more money than Chaudhari, mother. From where will you bring that honor, pride and prestige....that is with her? Do you know she is very high class family? So, is a soldier's family of low class, mother?",
+      "target_person": "Vijay",
+      "target_gender": "male",
+      "cause_raw": "earning more money than Chaudhari",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2129_bolly",
+      "emotion": "pride",
+      "dialogue": "When did you wake up? When you were telling about father, mother. Vijay, that is..Mother, I am proud to be a son of such a father. Mother, the person whom you worship....you have told about his miracle. Now tell me how a son can apologize to his father.",
+      "target_person": "Vijay",
+      "target_gender": "male",
+      "cause_raw": "being the son of his father",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

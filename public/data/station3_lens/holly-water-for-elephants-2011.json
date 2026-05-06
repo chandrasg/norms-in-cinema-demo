@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "55787",
+    "title": "Water for Elephants",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/8T7Hvb9trKvCAmbSI8cEIU0Sl2T.jpg",
+    "overview": "In this captivating Depression-era melodrama, impetuous veterinary student Jacob Jankowski joins a celebrated circus as an animal caretaker but faces a wrenching dilemma when he's transfixed by angelic married performer Marlena."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS921_holly",
+      "emotion": "shame",
+      "dialogue": "No, no such thing. - Where are you going?  No idea. - Are you hungry?  No work? You must therefore not ashamed.  What can you do? - Everything, I suppose.  We are in Deposit morning. We look for work there for you... and if you still alive in the evening, I'll take you to August... the master of the known and unknown universe itself.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "unemployment",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS922_holly",
+      "emotion": "shame",
+      "dialogue": "I have slept last night.  Thanks, honey. - August, not in public.  You have nothing to be ashamed. Man and woman united in the marital bed.  This is a sacred act.  My Marlena has forgiven me.",
+      "target_person": "August",
+      "target_gender": "male",
+      "cause_raw": "public display of affection",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS1559_holly",
+      "emotion": "shame",
+      "dialogue": "I don't know.  You hungry? Out of work?  There's no shame in that. No shame in that.  Well, what can you do?  Just about anything, I guess.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "being unemployed and hungry",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1560_holly",
+      "emotion": "shame",
+      "dialogue": "I slept like a baby after last night.  - Thank you, my darling! - August, please, we're in public.  What? Nothing to be ashamed of.  Man and wife reuniting in their marriage bed?  It's a sacred act.",
+      "target_person": "August",
+      "target_gender": "male",
+      "cause_raw": "discussing intimate details in public",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WP1712_holly",
+      "emotion": "pride",
+      "dialogue": "visit http://moviefreaks-stuff.blogspot.com for more movies, series, games,etc.. Proudly Presents WATER FOR ELEPHANTS  Proudly Presents WATER FOR ELEPHANTS  Translated from dutch 4 00:01:07,361 --> 00:01:09,772 Excuse me, sir, Can We Help?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1713_holly",
+      "emotion": "pride",
+      "dialogue": "visit http://moviefreaks-stuff.blogspot.com for more movies, series, games,etc.. Proudly Presents WATER FOR ELEPHANTS  Proudly Presents WATER FOR ELEPHANTS  Translated from dutch 4 00:01:07,361 --> 00:01:09,772 Excuse me, sir, Can We Help?  Can we help you with something? - Did I miss the show?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

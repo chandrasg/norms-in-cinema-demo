@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "491916",
+    "title": "Champion",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/wQzymfKE6fuMVLA4CxTvecSmhea.jpg",
+    "overview": "The film CHAMPION is a tale about a man who has a quest, a dream to be the best of the best. The film centres on four main characters, namely Rajveer Singh (Sunny Deol), a simpleton from a village in Punjab, whose sole dream in life is to become a super-cop and wipe off all crime. After, training, he gets his first posting at Mumbai for a special assignment. Bubbling with enthusiasm, an arrival, he is shocked to find that his job is to protect a nine-year-old boy, Abbas Khan (Abhishek Sharma). A bodyguard, after all the rigorous training to eliminate hardcore criminals! Abbas is the sole heir to millions of riches left to him by his parents, who have expired in a drastic plane crash."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s728_bolly",
+      "emotion": "shame",
+      "dialogue": "So many dignitaries were present there. Now they will have to wait till tomorrow. God save him. You should be ashamed of yourself. That won't help. Tell him to do something worthwhile. He has been waiting for the government orders for five years.",
+      "target_person": "person waiting for government orders",
+      "target_gender": "male",
+      "cause_raw": "dependency on government",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s729_bolly",
+      "emotion": "shame",
+      "dialogue": "God knows that I didn't do all this for money. 'Only for my community, my religion...'Shut up! Aren't you ashamed of mentioning your community and religion? Do you help your community in this way? 'Today, because of people like you, we are suspected first'",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "misusing religion for personal gain",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s730_bolly",
+      "emotion": "shame",
+      "dialogue": "Thanks for saving me. Thanks for saving my life, Champion. Why? Are you ashamed to meet my eyes? 'You are posted somewhere else from tomorrow, isn't it?' Then go. You had only come here to do your duty.",
+      "target_person": "Champion",
+      "target_gender": "male",
+      "cause_raw": "not expressing gratitude properly",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p365_bolly",
+      "emotion": "pride",
+      "dialogue": "Hello. Hello, Rajveer. - Yes, Sir. I expected this from you. I am very proud of you. 'Are you doing your duty properly? - Yes, sir.' Very good.",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "doing duty properly",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

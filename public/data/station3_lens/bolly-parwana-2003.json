@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "143734",
+    "title": "Parwana",
+    "year": "2003",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/c6yVNPRxqe1tkW477zRXv5ykeP3.jpg",
+    "overview": "A con-man/thief robs a suitcase containing explosives belonging to terrorists."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1310_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes. Uncle, take! Are not you ashamed to act with a thief like this? Do not laugh to call it a thief! Close your eyes when you see the real thief",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "associating with a thief",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1311_bolly",
+      "emotion": "shame",
+      "dialogue": "How come these dangerous bombs? The investigation continues. Will keep you posted. I am ashamed of what happened, sir. Even I never imagined that someone would take the briefcase and escape.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "failure in security measures",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1312_bolly",
+      "emotion": "shame",
+      "dialogue": "We have an important meeting for the mission. Just not at 4:30 in the club Scorpio. Are not you ashamed to come into this house? What person are you coming? Was a great hero. Hero!",
+      "target_person": "character entering the house",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior or actions",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p699_bolly",
+      "emotion": "pride",
+      "dialogue": "Sir, your picture will be the title page of our magazine. So proud of you, dear! Thank you. One minute. First I shoot with it.",
+      "target_person": "speaker 1",
+      "target_gender": "female",
+      "cause_raw": "speaker 2's achievement",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

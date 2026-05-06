@@ -1,0 +1,58 @@
+{
+  "film": {
+    "id": "95874",
+    "title": "Two-Faced Woman",
+    "year": "1941",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ckur8ivaMyvn6VSP5Q5Ru7E9UJG.jpg",
+    "overview": "A woman pretends to be her own twin sister to win back her straying husband."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS5_holly",
+      "emotion": "shame",
+      "dialogue": "Larry, you seem to have married into an interesting family.  I think it was very selfish of Karin not to have told me anything about you.  Well, the truth is... Karin is ashamed of me. That skiing nut would be very hard to please.  Karin is ashamed of me. That skiing nut would be very hard to please.  Oh, excuse me, Larry.",
+      "target_person": "Larry",
+      "target_gender": "male",
+      "cause_raw": "not meeting family's expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS6_holly",
+      "emotion": "shame",
+      "dialogue": "I think it was very selfish of Karin not to have told me anything about you.  Well, the truth is... Karin is ashamed of me. That skiing nut would be very hard to please.  Karin is ashamed of me. That skiing nut would be very hard to please.  Oh, excuse me, Larry.  Dear Karin, she always lived the outdoor life while I am a... partial to the indoor life.",
+      "target_person": "Larry",
+      "target_gender": "male",
+      "cause_raw": "not living up to someone's expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP11_holly",
+      "emotion": "pride",
+      "dialogue": "I haven't seen you alone.  Let me look at my brother-in-law.  I'm very proud of my little sister.  Promise me one thing. That you won't judge her by me.  There's no danger. Good.",
+      "target_person": "brother-in-law",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

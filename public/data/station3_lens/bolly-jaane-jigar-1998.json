@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "272532",
+    "title": "Jaane Jigar",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/qet3gnfVW4wOfYkCXdXG98ylBQW.jpg",
+    "overview": "Two women look identical but hail from different backgrounds. They fall in love with Ravi and Vijay who are best friends. Misunderstandings arise when they believe they are in love with the same girl."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2627_bolly",
+      "emotion": "shame",
+      "dialogue": "But don't get dazzled by the wealth and forget us! Nonsense! I'm <i>so</i> ashamed. - Not at all. Mina's like a daughter to me. So what if she wants to wed Ravi? We both join hands...make it a grand wedding. - I'll spend for Monty's wedding.",
+      "target_person": "Mina's parent",
+      "target_gender": "unclear",
+      "cause_raw": "not being able to afford a grand wedding",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2628_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you silent? Answer him. The hell you'll answer! I've seen you in his arms! You should be ashamed of yourself, to talk to me in this manner. Do you think I had flipped over your manliness? Or that I'd love him for his popularity?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2629_bolly",
+      "emotion": "shame",
+      "dialogue": "Coming from the temple for Vijay, eh? So this is his mother, eh? - Who are you? What are you doing? You shameless beings! Your prayers won't save him. You pick on a woman? A woman who's like your mother?",
+      "target_person": "Vijay's mother",
+      "target_gender": "female",
+      "cause_raw": "being associated with Vijay",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

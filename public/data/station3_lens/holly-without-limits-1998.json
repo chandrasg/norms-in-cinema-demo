@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "22256",
+    "title": "Without Limits",
+    "year": "1998",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/2HoKVqCzVOez7DEwHApc73bKobg.jpg",
+    "overview": "The life of renowned runner Steve Prefontaine and his relationship with legendary coach Bill Bowerman."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS741_holly",
+      "emotion": "shame",
+      "dialogue": "This is not even your country!  - You don't pay taxes here! - What are you talking about?  You make me ashamed to be American!  You don't have the right to... ...run their races and run our lives!  ...run their races and run our lives!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "not paying taxes and interfering in local matters",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "WS742_holly",
+      "emotion": "shame",
+      "dialogue": "lt wasn't hot enough for him in Finland.  World's latest press conference.  World here says he's ashamed of being American.  You believe everything you read there?  What did you say?",
+      "target_person": "World",
+      "target_gender": "male",
+      "cause_raw": "expressing shame about nationality",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP1427_holly",
+      "emotion": "pride",
+      "dialogue": "You know the greatest race I ever saw you run?  Munich.  I was never prouder than of your effort that day.  You couldn't have done more than you did.  You won the trials in 13:22.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "running a great race",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

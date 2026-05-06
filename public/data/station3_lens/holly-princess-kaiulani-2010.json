@@ -1,0 +1,69 @@
+{
+  "film": {
+    "id": "39806",
+    "title": "Princess Kaiulani",
+    "year": "2010",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/6dsQxILe0AHmQoxhK8O9dXpLTYd.jpg",
+    "overview": "Ka'iulani, a 19th-century Hawaiian princess, is raised in England but determined to maintain her people's independence from aggressive American businessmen. After being sent to England as a child by her Scottish father, Ka'iulani returns to Hawaii and becomes a political activist who fights to retain her throne, even though she must leave her English paramour."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1753_holly",
+      "emotion": "pride",
+      "dialogue": "- for the very first time. - I'm nervous for the ceremony.  Don't be.  You'll stand proud for your mother. I know it.  To the hope of our nation.  The hope of our nation.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "for standing proud in the ceremony",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP1754_holly",
+      "emotion": "pride",
+      "dialogue": "Don't disregard your heart.  Why didn't you go after him?  - Pride, I suppose. - Pride.  Pride can keep you from many a good thing.  Now, would you have a read of this, please?",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1755_holly",
+      "emotion": "pride",
+      "dialogue": "Why didn't you go after him?  - Pride, I suppose. - Pride.  Pride can keep you from many a good thing.  Now, would you have a read of this, please?  What is it?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1756_holly",
+      "emotion": "pride",
+      "dialogue": "If you ask one of the commissioners from Washington,  all present this evening,  they will tell you with great pride  that any American male who can read  - or write can vote. - Any Anglo",
+      "target_person": "commissioners from Washington",
+      "target_gender": "male",
+      "cause_raw": "ability of American males to read and write",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

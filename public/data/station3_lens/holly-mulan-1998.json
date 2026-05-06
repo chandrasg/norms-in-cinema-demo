@@ -1,0 +1,93 @@
+{
+  "film": {
+    "id": "10674",
+    "title": "Mulan",
+    "year": "1998",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
+    "overview": "When Imperial China calls one man from every family to defend the empire from invading Huns, a young woman disguises herself as a soldier to take her ailing father’s place. Facing ruthless invaders, brutal training, and the risk of execution if discovered, she must decide who she truly is— and what she’s willing to fight for."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS702_holly",
+      "emotion": "shame",
+      "dialogue": "speaking through her every motion...  could you tell her that only a son could wield chi?  That a daughter would risk shame, dishonor, exile?  Ancestors, I could not.  This way.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "wielding chi as a daughter",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS703_holly",
+      "emotion": "shame",
+      "dialogue": "Then, I will give you revenge... for the land we lost to the empire.  for the land we lost to the empire.  For the shame of the last war.  For my father, who the emperor killed.  If gold is not enough... I will give you blood.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "losing land and war",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS704_holly",
+      "emotion": "shame",
+      "dialogue": "I need to confess it to you.  It has to do with the three virtues.  There's no shame in being fearful before battle.  In fact, it's a testament to your honesty... that you confess such doubt.  that you confess such doubt.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "expressing fear before battle",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS705_holly",
+      "emotion": "shame",
+      "dialogue": "You've betrayed the regiment.  You've brought disgrace to the Hua family.  - Commander... - Your deceit is my shame.  Commander,  what is the punishment assigned to this imposter?",
+      "target_person": "Imposter",
+      "target_gender": "male",
+      "cause_raw": "deceit and betrayal",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WP1395_holly",
+      "emotion": "pride",
+      "dialogue": "It is my daughter that means everything to me.  And it is I should apologize.  My foolish pride drove you away.  One warrior knows another.  You were always there... yet I see you for the first time.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "recognizing his daughter's worth",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

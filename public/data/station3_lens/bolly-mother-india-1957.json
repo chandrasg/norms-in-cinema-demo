@@ -1,0 +1,182 @@
+{
+  "film": {
+    "id": "917",
+    "title": "Mother India",
+    "year": "1957",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/AlfM9yLcK1rhv73iNbDiOU9vnnu.jpg",
+    "overview": "A poverty-stricken woman raises her sons through many trials and tribulations. But no matter the struggles, always sticks to her own moral code."
+  },
+  "totals": {
+    "shame": 13,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 3
+    },
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4,
+      "male": 7
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3596_bolly",
+      "emotion": "shame",
+      "dialogue": "Somebody will see! Mother might come. Let go. - So what? - Won't you feel shy? Dump the shame in your basket! - I wish mother comes. - Let her. I swear... they look good on you.",
+      "target_person": "female character",
+      "target_gender": "female",
+      "cause_raw": "physical intimacy without marriage",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3597_bolly",
+      "emotion": "shame",
+      "dialogue": "Then I'll take them off everyday. So you can put them on. Shameless man! Are you the only man in the village to have got married? Anybody who sees this will spit at you!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "not fulfilling marital duties",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3598_bolly",
+      "emotion": "shame",
+      "dialogue": "One for each corner. Shambhu? Just wait! What's the matter? Shameless! Come and take some grains. I'm very happy today. You also come and take some. What are you doing?",
+      "target_person": "Shambhu",
+      "target_gender": "male",
+      "cause_raw": "Being called shameless specific reason not clear)",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3599_bolly",
+      "emotion": "shame",
+      "dialogue": "- Begged for grain? - No, don't say that. Why not? I say you shouldn't have brought food today! - You would have been hungry. - So what? God would feel ashamed. Gives us birth but doesn't feed us! Eat something.",
+      "target_person": "God",
+      "target_gender": "unclear",
+      "cause_raw": "not providing for basic needs",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3600_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't take curses from my kids. I have no arms. No hands and no shame! Kids are starving and you live off your wife! Shameless! Darken your face and sit on the village outskirts.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "depending on wife for livelihood",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3601_bolly",
+      "emotion": "shame",
+      "dialogue": "No hands and no shame! Kids are starving and you live off your wife! Shameless! Darken your face and sit on the village outskirts. Live off charity like a stray dog! Take the oxen!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "living off his wife's earnings",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3602_bolly",
+      "emotion": "shame",
+      "dialogue": "And turn me into an ox. Oh! I forgot...Tie this in his neck. Give this too to the money lender. You have no hands and no shame. The kids are starving and you live off your wife! If you must live, live on charity.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "dependency on wife",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3603_bolly",
+      "emotion": "shame",
+      "dialogue": "Mother open the door! Dear Radha! Shame on you! You took 20 acres of land, the oxen! Now have you come for the corpses? You have your eyes set on the 5 acres that remain!",
+      "target_person": "Radha",
+      "target_gender": "female",
+      "cause_raw": "Greed and insensitivity",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3604_bolly",
+      "emotion": "shame",
+      "dialogue": "Swear by God, you look like the goddess of wealth. - Come. - I'll look like a goddess? Didn't you feel ashamed to come in this form? If you've come in my form, keep your image intact. Don't laugh.",
+      "target_person": "character in goddess form",
+      "target_gender": "female",
+      "cause_raw": "not maintaining the dignity of the form they have taken",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3605_bolly",
+      "emotion": "shame",
+      "dialogue": "To what depths she can sink! She cannot give strength. Then take away my shame! I can't sacrifice my children! He will return. He is alive.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "perceived weakness",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3606_bolly",
+      "emotion": "shame",
+      "dialogue": "Show him the account. Move away. What are you doing? Aren't you ashamed? I've grown old filling your house! And for this grain, you're aiming a gun at my son!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "threatening violence for petty issues",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s3607_bolly",
+      "emotion": "shame",
+      "dialogue": "You've read so many books and I......know nothing beyond half the alphabets - I feel shy of you. - Aren't you feeling shy today? I feel ashamed today but today Sukhi had come. By morning I want to read from the alphabets to his books! You want to read his books?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "lack of education",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3608_bolly",
+      "emotion": "shame",
+      "dialogue": "Will you go to the well? - So what? - What will the girls say? - What? - Won't you feel ashamed? Leave it. - Mother, is it a girl or boy? - A son! - Give him to me! - He'll fall!",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "going to the well",
+      "theme_label": "Immodesty"
+    }
+  ]
+}

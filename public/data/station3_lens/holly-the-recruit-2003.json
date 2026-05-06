@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "1647",
+    "title": "The Recruit",
+    "year": "2003",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/xInKytrHV3EJeCAulOpn5Q0bMxh.jpg",
+    "overview": "A brilliant CIA trainee must prove his worth at the Farm, the agency's secret training grounds, where he learns to watch his back and trust no one."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1108_holly",
+      "emotion": "shame",
+      "dialogue": "No -- I mean, you're really sweating from the a*s.  [ Laughter ]  MAN #2: I'm so ashamed.  MAN #1 : Don't worry, pal.  You just need a little help back there.",
+      "target_person": "Man #2",
+      "target_gender": "male",
+      "cause_raw": "excessive sweating",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS1109_holly",
+      "emotion": "shame",
+      "dialogue": "I'm obsolete!  I'm irreleVant!  Me! Shame on you!  You yanked me home!  You shoVed me out in the woods!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "making someone feel obsolete and irrelevant",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP2094_holly",
+      "emotion": "pride",
+      "dialogue": "Erase it all!  That's how to play the game, James.  Your daddy would be proud of you -- that kind of talk.  All right, that's enough. You stop.  You don't talk about him. You do not mention his name!",
+      "target_person": "James",
+      "target_gender": "male",
+      "cause_raw": "playing the game well",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

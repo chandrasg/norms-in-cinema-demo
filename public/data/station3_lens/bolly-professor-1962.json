@@ -1,0 +1,147 @@
+{
+  "film": {
+    "id": "316821",
+    "title": "Professor",
+    "year": "1962",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/qEM4qrfLVO93WYKgMiCLHQOaLib.jpg",
+    "overview": "Sita devi is a very strict aunt for a number of young ladies, and does not allow them to fraternize with males. Along comes Pritam disguised as an elderly Professor Khanna to break every possible rule of the aunt"
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Deception",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1468_bolly",
+      "emotion": "shame",
+      "dialogue": "But I have never seen him. You doubt me for nothing. Oh sure! You always taunted me about my height. Shameless! Good for nothing! lmpertinent! I'll see to your old lover today. Why you.. Is it your house? Close doors, eh?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being doubted and insulted",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1469_bolly",
+      "emotion": "shame",
+      "dialogue": "- I mean about teasing a girl. - Sure, but after I got rapped! Now a ball's shadow won't cross this wall! The ball please. - Who was that man? - Aunty, he..Shameless girl. He was holding your hand. I was just returning his ball..Mind your tongue, girl! I go out of sight, and she shows her colors!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "interacting with a man",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1470_bolly",
+      "emotion": "shame",
+      "dialogue": "But your mom told me everything. Everything? - Yes. Everything. Look, I do admit my mistake. - Aren't you ashamed? I have been ashamed for months! - Liar! You became shameless and told everything to your Mom.",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "revealing secrets to his mother",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "s1471_bolly",
+      "emotion": "shame",
+      "dialogue": "Everything? - Yes. Everything. Look, I do admit my mistake. - Aren't you ashamed? I have been ashamed for months! - Liar! You became shameless and told everything to your Mom. Is it?",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "admitting mistakes",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1472_bolly",
+      "emotion": "shame",
+      "dialogue": "Look, I do admit my mistake. - Aren't you ashamed? I have been ashamed for months! - Liar! You became shameless and told everything to your Mom. Is it? Don't pretend! I turned to water with shame.",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "admitting a mistake",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1473_bolly",
+      "emotion": "shame",
+      "dialogue": "You became shameless and told everything to your Mom. Is it? Don't pretend! I turned to water with shame. What she must think, of us! - What? She asked what I wished, but I'm hardly shameless like you..to say 'yes' straight away! - About what?",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "revealing personal matters to mother",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "s1474_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't pretend! I turned to water with shame. What she must think, of us! - What? She asked what I wished, but I'm hardly shameless like you..to say 'yes' straight away! - About what? Have some modesty. The driver may hear us. Relax.",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "lack of modesty",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1475_bolly",
+      "emotion": "shame",
+      "dialogue": "What's the difference between that vagabond and me? Just this beard? I'll shave it off for you. - You should be ashamed! I didn't know you'd be such a lowly person! Nina! Listen, will you?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "behaving in a lowly manner",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1476_bolly",
+      "emotion": "shame",
+      "dialogue": "Who's he? Did you write this letter to him? Tell me! Did you write this letter to him? - Yes. - Shameless girl. Read this letter too. He was not only fooling around with you, but Rita too.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1477_bolly",
+      "emotion": "shame",
+      "dialogue": "Why? So that your niece's life wouldn't go to the dogs! Look! Look what you did to him for all this? We're ashamed to call you Aunty! We'll never call you Aunty now. Our Aunty's dead! You're not our Aunty. You're a bloody dictator!",
+      "target_person": "Aunty",
+      "target_gender": "female",
+      "cause_raw": "causing harm to family members",
+      "theme_label": "Causing Harm"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "39837",
+    "title": "Yaadein",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/hCNl3EkwEAmuZt8vxq9gyGG3e7e.jpg",
+    "overview": "When Ronit meets Isha, both are attracted to each other and fall in love. They want to surprise Ronit's parents and Raj, and they accordingly decide to share this news with Raj, only to find out that Raj has been actively involved in trying to get Ronit married to Monishka Rai."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4593_bolly",
+      "emotion": "shame",
+      "dialogue": "Where have you been? - Friend's birthday I went out for a party. - You know what time it is? Aren't you ashamed? For four hours, I've been looking for you Why? I'm not a kid! Go to bed, Papa. We'll talk in the morning Why not now?",
+      "target_person": "child",
+      "target_gender": "unclear",
+      "cause_raw": "staying out late",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4594_bolly",
+      "emotion": "shame",
+      "dialogue": "Ma, I'm going to call Uncle Raj. Go on with the prayers Saw your son's insolence? That's the result of...not keeping children on a leash You should be ashamed! Such insolence? - Because I said the truth? God isn't meant to be propitiated for purposes. A prayer should be heartfelt Where to, now? - To Uncle Raj",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "insolence and disrespect towards elders",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4595_bolly",
+      "emotion": "shame",
+      "dialogue": "Dirty folks. - One coke, and you think straight So did you like my in-laws in foreplay? What a shame! So what do you think? - How are you bothered? Monishka is entering your family, not the other way around",
+      "target_person": "Monishka",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior with in-laws",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

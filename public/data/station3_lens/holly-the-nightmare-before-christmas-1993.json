@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "9479",
+    "title": "The Nightmare Before Christmas",
+    "year": "1993",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+    "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS331_holly",
+      "emotion": "shame",
+      "dialogue": "Police. I know. I know. A skeleton. Keep calm.  Turn off all the lights. Make sure the doors are locked. Hello. Police.  Reports are pouring in from all over the globe... that an impostor is shamelessly impersonating Santa Claus... mocking and mangling this joyous holiday.  mocking and mangling this joyous holiday.  Authorities assure us that at this moment... military units are mobilizing to stop the perpetrator of this heinous crime.",
+      "target_person": "Impostor",
+      "target_gender": "unclear",
+      "cause_raw": "impersonating Santa Claus and ruining holiday spirit",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS332_holly",
+      "emotion": "shame",
+      "dialogue": "Jack, look out!  So long, Jack.  How dare you treat my friends so shamefully!  Now look what you've done!  My bugs! My bugs!",
+      "target_person": "Jack",
+      "target_gender": "male",
+      "cause_raw": "mistreatment of friends",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "WP728_holly",
+      "emotion": "pride",
+      "dialogue": "Perhaps he'll make his special brew  Of snake and spider stew  We're his little henchmen and we take ourjob with pride  We do our best to please him and stay on his good side  - I wish my cohorts weren't so dumb - I'm not the dumb one",
+      "target_person": "henchmen",
+      "target_gender": "male",
+      "cause_raw": "pleasing their boss",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP729_holly",
+      "emotion": "pride",
+      "dialogue": "Think of us as you soar triumphantly through the sky... outshining every star... your silhouette a dark blot on the moon.  your silhouette a dark blot on the moon.  You, who are our pride.  You, who are our glory.  - You, who have frightened millions into an early grave. - Ow!",
+      "target_person": "us",
+      "target_gender": "unclear",
+      "cause_raw": "frightening millions into an early grave",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

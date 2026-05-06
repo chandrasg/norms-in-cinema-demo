@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "1630",
+    "title": "The People vs. Larry Flynt",
+    "year": "1996",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/sAgHn7ys6TiVXBDTZ0UBEjinIUk.jpg",
+    "overview": "Larry Flynt is the hedonistically obnoxious, but indomitable, publisher of Hustler magazine. The film recounts his struggle to make an honest living publishing his girlie magazine and how it changes into a battle to protect the freedom of speech for all people."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 3
+    },
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS625_holly",
+      "emotion": "shame",
+      "dialogue": "Hustler magazine depicts men and women …  … posed together …  … in a lewd and shameful manner.  Hustler depicts women and women …  … posed together in a lewd and shameful manner.",
+      "target_person": "Hustler magazine",
+      "target_gender": "unclear",
+      "cause_raw": "depicting people in a lewd and shameful manner",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS626_holly",
+      "emotion": "shame",
+      "dialogue": "… in a lewd and shameful manner.  Hustler depicts women and women …  … posed together in a lewd and shameful manner.  Hustler magazine depicts Santa Claus …  … posed in a lewd and shameful manner.",
+      "target_person": "Hustler magazine",
+      "target_gender": "unclear",
+      "cause_raw": "depicting women in a lewd manner",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS627_holly",
+      "emotion": "shame",
+      "dialogue": "… posed together in a lewd and shameful manner.  Hustler magazine depicts Santa Claus …  … posed in a lewd and shameful manner.  What's he talking about?  Jesus Christ, Larry.",
+      "target_person": "Larry",
+      "target_gender": "male",
+      "cause_raw": "posing in a lewd and shameful manner",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS628_holly",
+      "emotion": "shame",
+      "dialogue": "No. I was not surprised by the verdict at all.  We had a stupid judge. We had a uptight prosecutor, two of them.  Are you ashamed to have your husband locked up?  I am not ashamed of Larry. I never would be.  I'd rather have a man who stands up for what he believes in.",
+      "target_person": "Larry's wife",
+      "target_gender": "female",
+      "cause_raw": "having a husband who is incarcerated",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WS629_holly",
+      "emotion": "shame",
+      "dialogue": "We had a stupid judge. We had a uptight prosecutor, two of them.  Are you ashamed to have your husband locked up?  I am not ashamed of Larry. I never would be.  I'd rather have a man who stands up for what he believes in.  Of course, I'm not happy he's going to jail.",
+      "target_person": "Larry's wife",
+      "target_gender": "female",
+      "cause_raw": "having a husband who is going to jail",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WP1289_holly",
+      "emotion": "pride",
+      "dialogue": "You remember that interview he gave Playboy magazine?  The one where he admitted that he had lust in his heart?  You know, I was especially proud of that.  I'm sure you were. But Oral Roberts wasn't, and Billy Graham wasn't.  And they took out after him in public.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "for admitting lust in his heart",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

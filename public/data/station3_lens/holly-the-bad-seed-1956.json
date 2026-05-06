@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "42196",
+    "title": "The Bad Seed",
+    "year": "1956",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/iAgSkpZslQ2s3onL9TaHbyWygtC.jpg",
+    "overview": "Air Force Colonel Kenneth Penmark and his wife, Christine, adore their daughter Rhoda, despite her secret tendency for selfishness. Christine keeps her knowledge of her daughter's darker side to herself, but when a schoolmate of Rhoda's dies mysteriously, her self-deception unravels."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Parental Pride",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP96_holly",
+      "emotion": "pride",
+      "dialogue": "There's a man that can write. - Mm.  Those pieces from the Pacific during the war.  I'm very proud of him.  The whole country is, but we've disclosed nothing yet.  - Go on with your story, Reggie. - I think we can afford a change of subject.",
+      "target_person": "Reggie",
+      "target_gender": "male",
+      "cause_raw": "writing pieces from the Pacific during the war",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP97_holly",
+      "emotion": "pride",
+      "dialogue": "You were the only child I ever had.  As I said, you were magic for me.  I was happy and proud to keep going, just for you.  You don't have to say any more.  - I don't, do I? - No.",
+      "target_person": "parent",
+      "target_gender": "unclear",
+      "cause_raw": "for their child",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1508_holly",
+      "emotion": "pride",
+      "dialogue": "There's a man that can write. - Mm.  Those pieces from the Pacific during the war.  I'm very proud of him.  The whole country is, but we've disclosed nothing yet.  - Go on with your story, Reggie. - I think we can afford a change of subject.",
+      "target_person": "Reggie",
+      "target_gender": "male",
+      "cause_raw": "writing pieces from the Pacific during the war",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1509_holly",
+      "emotion": "pride",
+      "dialogue": "You were the only child I ever had.  As I said, you were magic for me.  I was happy and proud to keep going, just for you.  You don't have to say any more.  - I don't, do I? - No.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "for being a parent to the speaker 2",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

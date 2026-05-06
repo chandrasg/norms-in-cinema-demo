@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "280690",
+    "title": "Kick",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/muRGQIGFcHTyHimE2ru6RSjD8D6.jpg",
+    "overview": "An adrenaline junkie walks away from a whirlwind romance and embraces a new life as a thief, though he soon finds himself pursued by veteran police officer and engaged in a turf war with a local gangster."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3123_bolly",
+      "emotion": "shame",
+      "dialogue": "Where have they gone? You're an adult, you even wear such a long beard....but you still enter a temple with your shoes. You should be ashamed. What kind of a human being is he? He's completely the opposite.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting religious norms",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3124_bolly",
+      "emotion": "shame",
+      "dialogue": "You're very beautiful Is she really yours? <i>You know, Shame.</i> The health of India now lies in Mr. Gajra's hands. Very good. - It's nothing good.",
+      "target_person": "Mr. Gajra",
+      "target_gender": "male",
+      "cause_raw": "Being questioned about the authenticity of his relationship",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3125_bolly",
+      "emotion": "shame",
+      "dialogue": "Sorry. - See...I can hold my breath for 15 minutes, nothing happens to me. But when a needle p****s, it hurts. All of you should be ashamed. Such renowned people and such small talk. Come here.",
+      "target_person": "people being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "petty talk",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p1623_bolly",
+      "emotion": "pride",
+      "dialogue": "That's fine, but where will you get that kind of money from? We'll start from here. I am proud of my son. Very proud. And his kick.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's kick",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1624_bolly",
+      "emotion": "pride",
+      "dialogue": "That's fine, but where will you get that kind of money from? We'll start from here. I am proud of my son. Very proud. And his kick. But he's been shot. - Dear! No.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "son's bravery",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

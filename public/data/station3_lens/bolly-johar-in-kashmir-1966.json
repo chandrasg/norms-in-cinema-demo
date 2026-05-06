@@ -1,0 +1,137 @@
+{
+  "film": {
+    "id": "630398",
+    "title": "Johar in Kashmir",
+    "year": "1966",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/4wEkJr3w93J16DMBFx7hjULl4kQ.jpg",
+    "overview": ""
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2789_bolly",
+      "emotion": "shame",
+      "dialogue": "The one above gives us bread. We can't interfere with Him. Aliju..At least let me take my bag..I've kept the bag with me so that you won't have trouble coming back her e. Yes. Come on..You must be ashamed of treating an old disabled man like me this way. You ar e the one who should be ashamed! You can't see and hence mess up tying bandages in wr ong places! C ome on!",
+      "target_person": "old disabled man",
+      "target_gender": "male",
+      "cause_raw": "disability and incompetence",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2790_bolly",
+      "emotion": "shame",
+      "dialogue": "Aliju..At least let me take my bag..I've kept the bag with me so that you won't have trouble coming back her e. Yes. Come on..You must be ashamed of treating an old disabled man like me this way. You are the one who should be ashamed! You can't see and hence mess up tying bandages in wrong places! Come on! Get out.",
+      "target_person": "Aliju",
+      "target_gender": "male",
+      "cause_raw": "treating an old disabled man poorly",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2791_bolly",
+      "emotion": "shame",
+      "dialogue": "Daily he comes home with torn clothes. Let me stitch them up. What are you doing sister! Aren't you ashamed of undressing a man?! I'll give my clothes from behind the curtain. Stitch them fast. There is going to be another attack!",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2792_bolly",
+      "emotion": "shame",
+      "dialogue": "Those enemy attackers who have made Kashmiri people's life difficult! We've strong, powerful young men like you and still they....want to turn this heaven into hell! It is a thing to be ashamed of! But what can we do in this matter? Why not?! If nothing else, you can protect your homes.",
+      "target_person": "young men",
+      "target_gender": "male",
+      "cause_raw": "not protecting their homes",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2793_bolly",
+      "emotion": "shame",
+      "dialogue": "Become home guards. Home guard? We don't have any home, so what shall we guard?! Shameless! Insolent! -Get aside! -I'm a home guard. -Now say! -Go on.",
+      "target_person": "homeless person",
+      "target_gender": "unclear",
+      "cause_raw": "homelessness",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2794_bolly",
+      "emotion": "shame",
+      "dialogue": "It were our brothers, not us..''Even after being good, the atrocities wer en't r educed.'' Cruelty still lives in this world' Humanity is ashamed of that! Humanity is ashamed of that! Mothers of the dead soldiers are still crying.'",
+      "target_person": "humanity",
+      "target_gender": "unclear",
+      "cause_raw": "cruelty and atrocities",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2795_bolly",
+      "emotion": "shame",
+      "dialogue": "Cruelty still lives in this world' Humanity is ashamed of that! Humanity is ashamed of that! Mothers of the dead soldiers are still crying.' There is a limit to cruelty!",
+      "target_person": "humanity",
+      "target_gender": "unclear",
+      "cause_raw": "cruelty and violence",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2796_bolly",
+      "emotion": "shame",
+      "dialogue": "Maula! By getting my son killed at my hands, the Lord has pr oved....that he supports the truth. This is his justice. I'm ashamed of mine and my son's deeds! I wish I had listened to your father and not left India. Uncle!",
+      "target_person": "character's self and son",
+      "target_gender": "male",
+      "cause_raw": "wrong deeds",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1461_bolly",
+      "emotion": "pride",
+      "dialogue": "And made him a terrorist and sent him to fight against India! Your son was a useless person. He has done the first good thing in life. And I'm proud of him! You can be proud of bloodshed and killing, not me! I'm a woman.",
+      "target_person": "speaker 1",
+      "target_gender": "female",
+      "cause_raw": "son becoming a terrorist",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

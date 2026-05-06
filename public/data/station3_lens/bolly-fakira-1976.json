@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "302154",
+    "title": "Fakira",
+    "year": "1976",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/hIvpCyz1Sq6PvXnsm9heVfM7IE7.jpg",
+    "overview": "Vijay helps the poor and robs the rich, while Ajay is assigned the job to bring Vijay to justice. Thirsty for each other's blood, both men are unaware that they are brothers separated at a young age."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5267_bolly",
+      "emotion": "shame",
+      "dialogue": "What is going on? Let go! What madness is this? - Aren't you ashamed? Fighting! - Shoot this b***h! What nonsense is this! You rejected my love for this witch!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "rejecting love and fighting",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s5268_bolly",
+      "emotion": "shame",
+      "dialogue": "Observe his spirit of service. He's giving the shirt off his back! Shame on me! Why didn't I stand for elections all this while? It's never too late. The shirt goes for 40000! Will anyone go beyond it?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "not participating in elections",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2953_bolly",
+      "emotion": "pride",
+      "dialogue": "- Go right ahead. - Take care of my prince. - Yes, sire. - Don't eat too much, you hog. And we are proud that at the hands of Chimanbhai...- This hospital is being inaugurated - Applause! Here you are. Sir, call for you.",
+      "target_person": "Chimanbhai",
+      "target_gender": "male",
+      "cause_raw": "inaugurating a hospital",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

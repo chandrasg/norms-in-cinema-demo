@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "717275",
+    "title": "Ananda",
+    "year": "1970",
+    "industry": "bolly",
+    "country": "ID",
+    "poster_path": "/hRnjpXe3MeJPAgGwy5yfgPg5Vpl.jpg",
+    "overview": "Irma a.k.a Ananda must struggle through the obstacle of her life for which she might or might not earns something better for her life."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s84_bolly",
+      "emotion": "shame",
+      "dialogue": "Very good. Play the tape. Where's my turban? Your Excellency. I'm ashamed. Inspite of being a prince...You are in love with an ordinary girl. Father, if she's ordinary... come a little further. If you can tell me someone better than her...I can, but I can't give the permission to go there...I understand, father",
+      "target_person": "Prince",
+      "target_gender": "male",
+      "cause_raw": "falling in love with a girl of lower social status",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s85_bolly",
+      "emotion": "shame",
+      "dialogue": "Father, if she's ordinary... come a little further. If you can tell me someone better than her...I can, but I can't give the permission to go there...I understand, father I'm ashamed to have given birth to a son like you. It's every man's duty to be ashamed of his errors. Quiet, you fool. I'll bury you alive.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disobedience and disrespect towards father",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s86_bolly",
+      "emotion": "shame",
+      "dialogue": "If you can tell me someone better than her...I can, but I can't give the permission to go there...I understand, father I'm ashamed to have given birth to a son like you. It's every man's duty to be ashamed of his errors. Quiet, you fool. I'll bury you alive. You bet. You can bury me but not keep me alive.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disobedience and disrespect towards father",
+      "theme_label": "Betrayal"
+    }
+  ]
+}

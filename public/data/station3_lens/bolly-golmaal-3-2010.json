@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "44978",
+    "title": "Golmaal 3",
+    "year": "2010",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/S2BE87q5g8HWDVfoEU8QN9UXfn.jpg",
+    "overview": "Cupid strikes when Pritam, a single father, comes across his college sweetheart, Geeta, in Goa. However, when their respective children go to war with each other, the two find it difficult to reunite."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2160_bolly",
+      "emotion": "shame",
+      "dialogue": "I am talking about you. What have I done? Aren't you ashamed....of following me around.. at this age? I didn't follow you, Guddi. Well, coincidentally, 6-7 times in a day..Coincidences don't occur 6-7 times in a day.",
+      "target_person": "Guddi",
+      "target_gender": "female",
+      "cause_raw": "Stalking",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2161_bolly",
+      "emotion": "shame",
+      "dialogue": "I've caught him red-handed. Pa. At this age? you should be ashamed! Even the lord is just a few days older to you! You're growing old....and such cheap behavior.",
+      "target_person": "elderly man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior at old age",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p1135_bolly",
+      "emotion": "pride",
+      "dialogue": "She never visits my house....and I don't visit hers. Wow. Wow. Very proud of you, very proud of you. Thank you, Pa. The president won't visit our house anytime soon. - No.",
+      "target_person": "Pa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

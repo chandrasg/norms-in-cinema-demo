@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "143889",
+    "title": "Nagina",
+    "year": "1986",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zzv7ZAwTEDyVgcmbEOZMjqBpG9F.jpg",
+    "overview": "The story follows Rajni, a shape-shifting cobra (Ichchadhari Naagin) who marries a civilian, Rajiv, to avenge the death of her spouse at the hands of an evil saint. Rajiv, who comes from a wealthy family, returns to India after studying in London. His mother wants him to marry Vijaya Singh, but he falls in love with Rajni, an orphan. His mother initially opposes the marriage but later agrees. Their happiness is disrupted when Bhairon Nath, a sadhu with the ability to control snakes, arrives and reveals that Rajni is actually a Naagin seeking revenge. Bhairon Nath has his own sinister motives—he wants to capture Rajni because she knows the location of a hidden Mani, a sacred jewel that would grant him immense power. A dramatic battle ensues, leading to Bhairon Nath’s defeat, and Rajiv and Rajni live happily ever after."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3744_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll go from here. Now I won't come here. It will be you people  who will come to me ! Wait, mother ! -Aren't you ashamed?! Wait, mother ! -Aren't you ashamed?! You have insulted  such a big saint! You have insulted  such a big saint!",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "insulting a saint",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3745_bolly",
+      "emotion": "shame",
+      "dialogue": "Now I won't come here. It will be you people  who will come to me ! Wait, mother ! -Aren't you ashamed?! Wait, mother ! -Aren't you ashamed?! You have insulted  such a big saint! You have insulted  such a big saint! You are worrying about the insult  of such imposters !",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "insulting a respected figure",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p1981_bolly",
+      "emotion": "pride",
+      "dialogue": "What is  her family like? Who are her parents? She has no one in this  world, mother. You have forgotten the respect and the pride of your ancestors..and you want to bring an orphan into this house..as my the daughter-in-law ? She will not remain an orphan.. when she gets your  motherly love Listen to this very   carefully ! I have promised Ajay Singh.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "maintaining family lineage and honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1982_bolly",
+      "emotion": "pride",
+      "dialogue": "It was not you Bhairav Nath, who wanted to kill us It was the demon of greed .and pride that was within you, which made you do this It was the demon of greed .and pride that was within you, which made you do this .and pride that was within you, which made you do this But I want to save that man..But I want to save that man..who is a very  accomplished",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1983_bolly",
+      "emotion": "pride",
+      "dialogue": "It was the demon of greed .and pride that was within you, which made you do this It was the demon of greed .and pride that was within you, which made you do this .and pride that was within you, which made you do this But I want to save that man..But I want to save that man..who is a very  accomplished I want you to live.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1984_bolly",
+      "emotion": "pride",
+      "dialogue": ".and pride that was within you, which made you do this It was the demon of greed .and pride that was within you, which made you do this .and pride that was within you, which made you do this But I want to save that man..But I want to save that man..who is a very  accomplished I want you to live. And I want you take away the grief of the  people with your  saintly powers.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

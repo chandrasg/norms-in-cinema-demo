@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "21570",
+    "title": "Rangeela",
+    "year": "1995",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/tUGVpmgWhsg9rZCDNSUW7MJWSKf.jpg",
+    "overview": "A poor young woman, who dreams of Bollywood fame, is caught in a love triangle between her childhood friend and a famous actor."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1654_bolly",
+      "emotion": "shame",
+      "dialogue": "It's tension drinking milk. Tension.. tension. Shame on him..\"Who, lives in this world.\" Doesn't know the way to live. In his palm or forehead..\"In the stars or the moon..\"\"Keeps looking for destiny.\"",
+      "target_person": "individual",
+      "target_gender": "male",
+      "cause_raw": "not knowing how to live life",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1655_bolly",
+      "emotion": "shame",
+      "dialogue": "What kind of a director are you? You don't know direction. And you want her to dance. Call that dance director..Does anyone dance like that? Such difficult steps. Aren't you ashamed? That dance director doesn't know anything. He watches MTV and tell me he wants this and that..You want baby, you jump and dance.",
+      "target_person": "dance director",
+      "target_gender": "unclear",
+      "cause_raw": "incompetence in directing",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4982_bolly",
+      "emotion": "shame",
+      "dialogue": "What happened? What kind of a director are you to make her do such a dance? Aren't you ashamed to give her such difficult steps? This director is a fool! He watches MTv and gets us to do weird steps...Does anyone ask an actress to do such difficult steps?",
+      "target_person": "director",
+      "target_gender": "male",
+      "cause_raw": "making the actress perform difficult dance steps",
+      "theme_label": "Immodesty"
+    }
+  ]
+}

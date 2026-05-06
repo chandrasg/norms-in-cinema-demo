@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "4832",
+    "title": "The 11th Hour",
+    "year": "2007",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/9ZQyqJhoqSXYhu27oRDqz3Tzl10.jpg",
+    "overview": "A look at the state of the global environment including visionary and practical solutions for restoring the planet's ecosystems. Featuring ongoing dialogues of experts from all over the world, including former Soviet Prime Minister Mikhail Gorbachev, renowned scientist Stephen Hawking, former head of the CIA R. James Woolse"
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1413_holly",
+      "emotion": "shame",
+      "dialogue": "- I'm not in the mood just now. - Me neither.  Let's take it out on some targets.  Fine.  Shameful.  Double or nothing?  Wrong pocket.  S**t.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "poor performance or mistake",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP2496_holly",
+      "emotion": "pride",
+      "dialogue": "I want you to feel at home here.  Is this your father, sir?  He must have been proud of you.  - FBI Top Soviet analyst. - I don't know.  Father wasn't very impressed by things.",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "being a top Soviet analyst for the FBI",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2497_holly",
+      "emotion": "pride",
+      "dialogue": "We've got a spot for you right over here.  Twenty-five years, huh?  That's quite a prideful thing.  This we don't need.  You know something... ...there's a little too much bounce on your nose. We don't want that.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

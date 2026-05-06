@@ -1,0 +1,142 @@
+{
+  "film": {
+    "id": "172261",
+    "title": "Amanat",
+    "year": "1955",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/mmB02uqrPGW0n40vs2Sx6EjaOAD.jpg",
+    "overview": "A dying man entrusts his lives earnings to Purshotam, a stranger he just met, and asks him to promise to take this money to his wife, and son, Pradeep, in a remote village in India, to which Purshotam agrees. The man passes away, and Purshotam goes to fulfill his promise, in vain though, as he is unable to trace the woman and her son. After sometime he experiences financial difficluties, and decides to use the money for his personal gain. Years later he comes to know of the rightful heir to these monies, but will he able to assert his honesty, or will he carry on as though nothing has happened"
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 2
+    },
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s23_bolly",
+      "emotion": "shame",
+      "dialogue": "You are insulting  us! You are such a lowly  person! Don't be so proud of your money! Shameless  person. He is on cloud  nine - That's what I am saying! Mr Purshottam... - Mr Laxmidas?",
+      "target_person": "Mr Purshottam",
+      "target_gender": "male",
+      "cause_raw": "Arrogance and pride due to wealth",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s24_bolly",
+      "emotion": "shame",
+      "dialogue": "Why should  I go out? Let me see. Who will kick me out of here. Hey, Bihari... - Mr Pradeep, you? Don't you feel  ashamed? What are you doing, that too today? How can an indecent and a stupid person will have shame? Someone called  you indecent and you're trying to prove him...right by behaving indecently . Let's leave.",
+      "target_person": "Mr Pradeep",
+      "target_gender": "male",
+      "cause_raw": "indecent behavior",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s25_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey, Bihari... - Mr Pradeep, you? Don't you feel  ashamed? What are you doing, that too today? How can an indecent and a stupid person will have shame? Someone called  you indecent and you're trying to prove him...right by behaving indecently . Let's leave. Where to? - Home.",
+      "target_person": "Bihari",
+      "target_gender": "male",
+      "cause_raw": "indecent behavior",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s26_bolly",
+      "emotion": "shame",
+      "dialogue": "One can see you clearly  the way a dustbin is found lying on the street. What's the need to declare ? Actually , I didn't understand a thing. I was just...I mean... - Hell with it! Shameless ! You are trying to befriend her. - Let go of him. It's we who will get defamed if we argue with such guys.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards a woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s27_bolly",
+      "emotion": "shame",
+      "dialogue": "Beleive  me. I only ... - Meena! What are you doing here? - I know him very well  . Aren't you ashamed? How dare you go so close  to him? Go to your room? And you? How dare you? Mind you. This is my last warning.",
+      "target_person": "Meena",
+      "target_gender": "female",
+      "cause_raw": "Being close to a man",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s28_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't need your assurance I know the reason, why are you in such a great distress? I'm feel  ashamed of myself . But you shouldn 't have any doubts about me. I told  father everything. He was very upset.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "self-doubt",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s29_bolly",
+      "emotion": "shame",
+      "dialogue": "You have put all your self -respect, dignity and everything at stake. You meet him on the sly , right? - His mother died, that's why...A lot of beggars die on the street, what's your concern? Shameless  girl! If you want to scold  you sister, go and do it in your house. Shut-up you scoundrel!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "meeting a man secretly",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p17_bolly",
+      "emotion": "pride",
+      "dialogue": "Get out of here. - Let's go. You are  insulting us! You are such a lowly person! Don't be so proud of your money! Shameless person. He is on  cloud nine - That's what I am saying!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p18_bolly",
+      "emotion": "pride",
+      "dialogue": "Killing a witch like you it's no sin! Get lost! Your father on whom you took pride has died! Mother! - No...You had  told me about that mill... I've decided to buy it. I knew, you'd come to me one day.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "buying a mill",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p19_bolly",
+      "emotion": "pride",
+      "dialogue": "Even I was furious hearing the lecture. Whose lecture? - Our new manager, Mr Naresh. He doesn't have any humanity. He is so proud of his  wealth. I'll leave. - Do come again. Where's your house? - It's nearby.",
+      "target_person": "Mr Naresh",
+      "target_gender": "male",
+      "cause_raw": "his wealth",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

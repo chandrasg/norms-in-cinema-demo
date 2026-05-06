@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "6463",
+    "title": "Other People's Money",
+    "year": "1991",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/obnOuFa2yJRorRM3rab3rXZFfEh.jpg",
+    "overview": "When a corporate raider threatens a hostile takeover of a 'mom and pop' company, the patriarch of the company enlists the help of his wife's attractive daughter—who is a lawyer—to stop the takeover. However, the raider soon becomes infatuated with her, and enjoys the legal manoeuvring as he tries to win her heart."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 3
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1065_holly",
+      "emotion": "pride",
+      "dialogue": "I don't want this man to win.  I'm not scared.  I'm just proud.  I'm proud of the business we've built.  I'm so proud of you.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "building a successful business",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1066_holly",
+      "emotion": "pride",
+      "dialogue": "I'm not scared.  I'm just proud.  I'm proud of the business we've built.  I'm so proud of you.  And if what we are counts for nothing anymore... ...then that's their failing, not ours.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "building a successful business",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1067_holly",
+      "emotion": "pride",
+      "dialogue": "I'm just proud.  I'm proud of the business we've built.  I'm so proud of you.  And if what we are counts for nothing anymore... ...then that's their failing, not ours.  ...then that's their failing, not ours.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "building a successful business",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1068_holly",
+      "emotion": "pride",
+      "dialogue": "...is the election of the board of directors.  Now, there are staff members passing out the ballots.  Right now, I am very proud to introduce to you... ...a man who could accurately be characterized as a legend... ...in the wire and cable industry.  ...in the wire and cable industry.  The chairman of the board of New England Wire and Cable... ...Mr. Andrew Jorgenson.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "introducing a legendary figure in the industry",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1069_holly",
+      "emotion": "pride",
+      "dialogue": "I want to share with you some of my thoughts... ...concerning the vote that you're going to make in the company that you own.  ...concerning the vote that you're going to make in the company that you own.  This proud company, which has survived the death of its founder,,,  ,,, numerous recessions, one major depression and two world wars,,,  ,,, is in imminent danger of self-destructing,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

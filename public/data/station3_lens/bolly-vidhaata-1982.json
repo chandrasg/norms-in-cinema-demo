@@ -1,0 +1,151 @@
+{
+  "film": {
+    "id": "218788",
+    "title": "Vidhaata",
+    "year": "1982",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/sDVV8ZmBnzwo3ZjW16jfwP56cdp.jpg",
+    "overview": "When a Police inspector is killed by a band of thugs, his grieving father Samsher Singh seeks justice. Pratap Singh has left behind a pregnant widow, who dies in chidbirth, leaving Samsher to bring up the child Kunal. The transformation of Samsher Singh (a locomotive engine driver) into Sobhraj, multi millionaire and owner of a vast network of business. Kunal is brought up by Abu Baba, a servant of Sobhraj to be honest, upright, and very independent minded. Durga, the daughter of a former employee of Sobhraj, who is serving time and Kunal fall in love. This not acceptable to his grandfather, though Abu Baba approves of the relationship. Disaster strikes when an attempt is made to separate the lovers. The life of Samsher Singh alias Sobhraj begins to unravel from here. How Kunal's ethical upbringing by his foster-father, and his financial and business circumstances of his grandfather meet in a titanic conscience clash and how he resolves matters is at the nexus of the plot."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 2
+    },
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4552_bolly",
+      "emotion": "shame",
+      "dialogue": "These people look like fakes. You mustn't say things like that. And you must greet everyone properly. You must do as I have told you. Don't you bring me to shame. Go on, now. - Come over here, Kunal. - Yes, Grandpa?",
+      "target_person": "Kunal",
+      "target_gender": "male",
+      "cause_raw": "not following social etiquette",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s4553_bolly",
+      "emotion": "shame",
+      "dialogue": "Which is why I've decided to tell you something. - What? - This fellow Kunal...... is making a fool out of you. He isn't a good boy. What a shame! And he respects you as his own father! He's always singing your praise. And you're trying to malign him! Even the Devil couldn't speak ill of Kunal.",
+      "target_person": "Kunal",
+      "target_gender": "male",
+      "cause_raw": "being accused of deceit",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s4554_bolly",
+      "emotion": "shame",
+      "dialogue": "it's a matter of the prestige of his hotel. And, it's a matter of my job. - We'll pay you as much as 5000. - Oh yes! We'll pay a huge sum. What a shame! I won't dance half-clad. - I won't wear this dress. - If you don't, I'll be stripped! - I'm not concerned. - What Kolhapuri is this, Superman?!",
+      "target_person": "dancer",
+      "target_gender": "female",
+      "cause_raw": "being forced to dance in revealing clothes",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4555_bolly",
+      "emotion": "shame",
+      "dialogue": "You're destroyed everything! You're destroyed my dreams! What an end to the dreams I have dreamt! Shame on you! Take this. Grandpa... beat me some more. Beat me up... cut me up into pieces.",
+      "target_person": "grandchild",
+      "target_gender": "unclear",
+      "cause_raw": "destroying dreams",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4556_bolly",
+      "emotion": "shame",
+      "dialogue": "What else? - And what more would you want? Durga. Shameless fellow! All right. I'll announce the engagement. Just the announcement? Nothing else? Do you want everything all at once?",
+      "target_person": "Durga",
+      "target_gender": "female",
+      "cause_raw": "demanding more than what is offered",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4557_bolly",
+      "emotion": "shame",
+      "dialogue": "After you have left, I won't be able to him in this house. I shall surrender myself to the law which I've tried...... to dodge for many years, while I have tried to protect you. And I won't walk to the gallows with my head hung in shame. I shall hold my head high in pride, and I shall tell the world that...... the hangman's noose is really a garland of flowers...... that my grandson has given me. Yes. I am a criminal. And I've sold my soul.",
+      "target_person": "grandson",
+      "target_gender": "male",
+      "cause_raw": "criminal activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s4558_bolly",
+      "emotion": "shame",
+      "dialogue": "And such are bound to be abused. For when a father tries to...... amass more wealth than is necessary for his child;...... when he tries be become a millionaire using unfair means,...... such is bound to happen. They will be abused, Grandpa. For, your grandson isn't proud of you. I'm ashamed of you. One day, I shall have a family, and children too. And, what am I to tell them? What?!",
+      "target_person": "grandfather",
+      "target_gender": "male",
+      "cause_raw": "amassing wealth through unfair means",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "p2559_bolly",
+      "emotion": "pride",
+      "dialogue": "And, you can also buy a good house for yourself. You have addressed me as a sister. You are wealthy and you're respected. But, all I have is pride. Please don't try to buy my self-respect. Thank you very much for the offer. I admire your self-respect.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "self-respect",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2560_bolly",
+      "emotion": "pride",
+      "dialogue": "I shall surrender myself to the law which I've tried...... to dodge for many years, while I have tried to protect you. And I won't walk to the gallows with my head hung in shame. I shall hold my head high in pride, and I shall tell the world that...... the hangman's noose is really a garland of flowers...... that my grandson has given me. Yes. I am a criminal. And I've sold my soul. I've struck an enmity with God. And I have rebelled against Him.",
+      "target_person": "grandson",
+      "target_gender": "male",
+      "cause_raw": "grandfather's surrender to law",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p2561_bolly",
+      "emotion": "pride",
+      "dialogue": "Thus they will measure us and dispose of us with wretched abuse. And such are bound to be abused. For when a father tries to...... amass more wealth than is necessary for his child;...... when he tries be become a millionaire using unfair means,...... such is bound to happen. They will be abused, Grandpa. For, your grandson isn't proud of you. I'm ashamed of you. One day, I shall have a family, and children too.",
+      "target_person": "grandson",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

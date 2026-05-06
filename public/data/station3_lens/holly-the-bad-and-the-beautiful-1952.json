@@ -1,0 +1,163 @@
+{
+  "film": {
+    "id": "32499",
+    "title": "The Bad and the Beautiful",
+    "year": "1952",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ajAXzTiPkL7JxeCRw5lQBqrKNGx.jpg",
+    "overview": "Told in flashback form, the film traces the rise and fall of a tough, ambitious Hollywood producer, Jonathan Shields, as seen through the eyes of various acquaintances, including a writer, James Lee Bartlow; a star, Georgia Lorrison; and a director, Fred Amiel. He is a hard-driving, ambitious man who ruthlessly uses everyone on the way to becoming one of Hollywood's top movie makers."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 14
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4,
+      "female": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1940_holly",
+      "emotion": "pride",
+      "dialogue": "Harry, that's a horrid word.  Well, get this. My unit turns out 18 pictures a year.  I cry for ideas. If you'd sweat out a story the way you do $6,351... ...I'd have hired you anyway. Why didn't you come to me? Too proud?  ...I'd have hired you anyway. Why didn't you come to me? Too proud?  I tried to. I couldn't get in.",
+      "target_person": "Harry",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1941_holly",
+      "emotion": "pride",
+      "dialogue": "Well, get this. My unit turns out 18 pictures a year.  I cry for ideas. If you'd sweat out a story the way you do $6,351... ...I'd have hired you anyway. Why didn't you come to me? Too proud?  ...I'd have hired you anyway. Why didn't you come to me? Too proud?  I tried to. I couldn't get in.  - You know who gave me my first job? - My father.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1942_holly",
+      "emotion": "pride",
+      "dialogue": "Action.  so you are Theresa.  I fiind you as your brother told me, alone in the great house... ...silent, proud and beautiful.  ...silent, proud and beautiful.  What is it? Are you afraid of me?",
+      "target_person": "Theresa",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1943_holly",
+      "emotion": "pride",
+      "dialogue": "so you are Theresa.  I fiind you as your brother told me, alone in the great house... ...silent, proud and beautiful.  ...silent, proud and beautiful.  What is it? Are you afraid of me?  Switch over to the next one.",
+      "target_person": "Theresa",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1944_holly",
+      "emotion": "pride",
+      "dialogue": "Switch over to the next one.  Action.  so you are Theresa. I fiind you as your brother told me I would... ...alone in the great house, proud, silent and beautiful.  ...alone in the great house, proud, silent and beautiful.  - Who's the girl? - Douvane said she could test with him.",
+      "target_person": "Theresa",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1945_holly",
+      "emotion": "pride",
+      "dialogue": "Action.  so you are Theresa. I fiind you as your brother told me I would... ...alone in the great house, proud, silent and beautiful.  ...alone in the great house, proud, silent and beautiful.  - Who's the girl? - Douvane said she could test with him.  What did she promise? Who is she?",
+      "target_person": "Theresa",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1946_holly",
+      "emotion": "pride",
+      "dialogue": "I don't know what drew me to the empty stage.  I guess I was scared.  \"To my new star, who will make me very proud of her. Jonathan. \"  It was cold on the set.  And suddenly, my throat was dry.",
+      "target_person": "Jonathan",
+      "target_gender": "male",
+      "cause_raw": "new star's potential performance",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1947_holly",
+      "emotion": "pride",
+      "dialogue": "I've covered everything: waterfront, jails, hospitals... ...scraped the Main Street booze parlors.  ...scraped the Main Street booze parlors.  - I told you to forget her. - I have professional pride.  I thought I knew every rathole in town. She's found a new one, or she's left.  Janitor says she sometimes locks her door and leaves for days at a time.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "professional pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP1948_holly",
+      "emotion": "pride",
+      "dialogue": "Do you have to have him to write your script?  Do you think you can keep him in Hollywood?  He kept me, all right. Two weeks later I signed with shields Productions... ...to write a treatment of The Proud Land.  ...to write a treatment of The Proud Land.  - So you like my ideas? - Yes.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1949_holly",
+      "emotion": "pride",
+      "dialogue": "Do you think you can keep him in Hollywood?  He kept me, all right. Two weeks later I signed with shields Productions... ...to write a treatment of The Proud Land.  ...to write a treatment of The Proud Land.  - So you like my ideas? - Yes.  - All of them? - No.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1950_holly",
+      "emotion": "pride",
+      "dialogue": "Yes, professor.  Now for that last scene.  - Proud of yourself? - A little.  Should be. Not a weak scene in the whole treatment.  I'm proud of Rosemary too. She didn't interrupt the whole time.",
+      "target_person": "professor",
+      "target_gender": "male",
+      "cause_raw": "for not having a weak scene in the treatment",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1951_holly",
+      "emotion": "pride",
+      "dialogue": "- Proud of yourself? - A little.  Should be. Not a weak scene in the whole treatment.  I'm proud of Rosemary too. She didn't interrupt the whole time.  Pleasant, wasn't it?  To tell you the truth, I missed her interruptions.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "for not having a weak scene in the whole treatment",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1952_holly",
+      "emotion": "pride",
+      "dialogue": "When the shooting script was fiinished... ...he asked me to stay for production meetings and casting.  ...he asked me to stay for production meetings and casting.  You see Miss Ronley as the star of The Proud Land.  But it was my impression this was a woman of sex.  Miss Ronley has the sex appeal of an angleworm.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1953_holly",
+      "emotion": "pride",
+      "dialogue": "I'd like to talk about your next one.  Goodbye, Georgia. Nice to have met you.  shooting started on The Proud Land and everything went well... ...until the fourth day, then something happened.  ...until the fourth day, then something happened.  Cut!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

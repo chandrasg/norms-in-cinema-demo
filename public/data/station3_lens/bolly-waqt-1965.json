@@ -1,0 +1,151 @@
+{
+  "film": {
+    "id": "71299",
+    "title": "Waqt",
+    "year": "1965",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/bOvDhkmqvbWWfxE82fAvU4wZVXO.jpg",
+    "overview": "A businessman's family is torn apart by an earthquake and reunited years later in a courtroom where father and sons stand opposed in the roles of accused, lawyer, and witness."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 10
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 5
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 2,
+      "female": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4559_bolly",
+      "emotion": "shame",
+      "dialogue": "Why did you make a driver your friend? Is it a sin or a crime to be a driver? You judge a person according to his work? Shame. But who is he? Where is he from? What's his family name? - Do you know yours? - Renu.",
+      "target_person": "Renu",
+      "target_gender": "female",
+      "cause_raw": "befriending a driver",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p2566_bolly",
+      "emotion": "pride",
+      "dialogue": "Towards the end of the party, he sang a lovely love-song. But you got to enjoy it, didn't you? Sorry, but he was to come..So, I went to pick him up. Sir, this is Lala Kedarnath....the pride of our city. And this is Pandit Uday Shankar....a great astrologer. He wasn't coming, but I dragged him here. But of course. Thank you for coming. Please be seated. Thank you. - Have a seat.",
+      "target_person": "Lala Kedarnath",
+      "target_gender": "male",
+      "cause_raw": "being the pride of the city",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2567_bolly",
+      "emotion": "pride",
+      "dialogue": "A song. Renu. - Please sing. My face reflects happiness..''..and there's pride in my eyes.'' My face reflects happiness..''..and there's pride in my eyes.'' When you call me your own..''l feel so proud of myself.''",
+      "target_person": "Renu",
+      "target_gender": "female",
+      "cause_raw": "Being called someone's own",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2568_bolly",
+      "emotion": "pride",
+      "dialogue": "Renu. - Please sing. My face reflects happiness..''..and there's pride in my eyes.'' My face reflects happiness..''..and there's pride in my eyes.'' When you call me your own..''l feel so proud of myself.'' My face reflects joy.",
+      "target_person": "Renu",
+      "target_gender": "female",
+      "cause_raw": "Being called someone's own",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2569_bolly",
+      "emotion": "pride",
+      "dialogue": "My face reflects happiness..''..and there's pride in my eyes.'' My face reflects happiness..''..and there's pride in my eyes.'' When you call me your own..''l feel so proud of myself.'' My face reflects joy. You're very handsome yourself..''Maybe you don't know it.''",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being called someone's own",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2570_bolly",
+      "emotion": "pride",
+      "dialogue": "Maybe you don't know it. That when you enter a party, everything seems brighter. When you call me your own..''l feel so proud of myself.'' My face radiates with joy. When I fell in love with you..''..the secret unfolded.''",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "being loved by the partner",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2571_bolly",
+      "emotion": "pride",
+      "dialogue": "Then the secret unfolded. Like death being at hand..''..for someone to realise life's worth.'' When you call me your own..''l feel so proud of myself.'' My face reflects with happiness..''..and there's pride in my eyes.'' My face radiates with joy.",
+      "target_person": "someone",
+      "target_gender": "unclear",
+      "cause_raw": "being called own by someone",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2572_bolly",
+      "emotion": "pride",
+      "dialogue": "Like death being at hand..''..for someone to realise life's worth.'' When you call me your own..''l feel so proud of myself.'' My face reflects with happiness..''..and there's pride in my eyes.'' My face radiates with joy. Hello. - Congratulations for the engagement. - Thank you.",
+      "target_person": "someone",
+      "target_gender": "unclear",
+      "cause_raw": "being called own by someone",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2573_bolly",
+      "emotion": "pride",
+      "dialogue": "So that my ill-reputation....doesn't effect Ravi's future. I agree to the deal. I want to declare Ravi's true identity proudly. And I'll  throw a grand party for this announcement. Welcome, Your Majesty. - Thank you..This is Mr. Raja, - Hello.",
+      "target_person": "Mr. Raja",
+      "target_gender": "male",
+      "cause_raw": "declaring Ravi's true identity",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p2574_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes. - How fate plays with men. Here is an unfortunate man....who doesn't have a mother to cry for him. And here stands Vijay who can be the pride of any mother. I'm proud of my son. He'll never lie in a court. I know him well. He's my flesh and blood. My son.",
+      "target_person": "Vijay's mother",
+      "target_gender": "female",
+      "cause_raw": "son's honesty",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2575_bolly",
+      "emotion": "pride",
+      "dialogue": "Here is an unfortunate man....who doesn't have a mother to cry for him. And here stands Vijay who can be the pride of any mother. I'm proud of my son. He'll never lie in a court. I know him well. He's my flesh and blood. My son. That man's also somebody's son.",
+      "target_person": "Vijay's mother",
+      "target_gender": "female",
+      "cause_raw": "son's honesty",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

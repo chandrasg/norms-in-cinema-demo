@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "443624",
+    "title": "Journey Bombay to Goa",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/6QRetL6BMSTFTmhBFCPdNvgHaAj.jpg",
+    "overview": "Lal wants to start his tourist bus service and enlists the help of his brother-in-law, Das, who takes him to Chor Bazar, and for two Lakh Rupees assembles a hideous-looking bus to transport passengers from Bombay to Goa. Selling his tickets at a discount of 40 percent, Lal becomes the Conductor, while Das is the driver. Their passengers consist of Vetti Kutti Anna and his two bar dancer daughters, Deepa and Lajjo; writer Aditya Chopra; a runaway couple, Abdul Karim Telgi and Husna Khekeda; a diabetic patient, Charandas amongst others. On the way they pick up an elderly male, Harley Davidson, and Dr. Kushal Bhardwaj, as well as India's cricket team, and a four-person Nautanki group. After letting some passengers, including the cricket team and Harley, alight, they subsequently find Harley dying after meeting with an accident. Before dying, Harley tells them that 20 years ago he had robbed a fortune in diamonds and jewelry which he has hidden in Madgaon, and hands them a map. The ..."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s637_bolly",
+      "emotion": "shame",
+      "dialogue": "she'll dance at home, i'll toss money on her and pick it up in the morning our money will be safe with us. - Right. So the alliance is fixed? Get lost! Shame on you i don't want to make a dance bar out of my house i'd rather shove my son into a pit. - That's fine",
+      "target_person": "prospective groom's family",
+      "target_gender": "male",
+      "cause_raw": "treating women as objects for entertainment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s638_bolly",
+      "emotion": "shame",
+      "dialogue": "a buffalo is in labour. If something goes wrong, who'll be responsible? He came in a rickshaw. Go and pay for him he's here. Get inside, shameless creatures greetings, sir. We'll pay him. - Where's radha? Greetings. - Greetings",
+      "target_person": "rickshaw driver",
+      "target_gender": "male",
+      "cause_raw": "being treated as inferior",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s639_bolly",
+      "emotion": "shame",
+      "dialogue": "You hog the tv so much that we might forget out dad's name but not yours i have forgotten. - Veeru, you are a sick player you are always losing. Aren't you guys ashamed? I told you, but you won't understand. The people understand why don't you understand, tendli? At least win some semifinals and finals",
+      "target_person": "Veeru",
+      "target_gender": "male",
+      "cause_raw": "Always losing in games",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s640_bolly",
+      "emotion": "shame",
+      "dialogue": "saved my money? Look at me where will the passengers go now? - Nowhere. They will come right here you ought to be ashamed. Fear god you still call this junk a bus? You ought to be ashamed",
+      "target_person": "bus owner",
+      "target_gender": "male",
+      "cause_raw": "poor condition of the bus",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s641_bolly",
+      "emotion": "shame",
+      "dialogue": "you ought to be ashamed. Fear god you still call this junk a bus? You ought to be ashamed i had such dreams, desires",
+      "target_person": "bus owner/driver",
+      "target_gender": "male",
+      "cause_raw": "poor condition of the bus",
+      "theme_label": "Poverty"
+    }
+  ]
+}

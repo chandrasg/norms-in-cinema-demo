@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "302990",
+    "title": "Kasam",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/4Dui9ZmpnmBv4eULoESxmNWILPO.jpg",
+    "overview": "Shankar collaborates with police inspector Mangal and runaway convict Vijay to bring the bandit Kala Daku to justice for the murder of his father and various other crimes."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3011_bolly",
+      "emotion": "shame",
+      "dialogue": "Friends, laugh not and listen...history says that the man scorned...You couldn't bear to see her in tears, and you send her away in tears? has risen to renown. I'm right Shame In the eyes of this young man, I see a desire for renown By your derision, me thinks you take me to be an a*s of the first order",
+      "target_person": "young man",
+      "target_gender": "male",
+      "cause_raw": "being ridiculed",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3012_bolly",
+      "emotion": "shame",
+      "dialogue": "What's going on? Is there a law in this land? - What's your problem? Don't you have a problem with bandits taking hostages...right under your noses? and you sit here shamelessly? Shut up! You talk to much! I'll cut out your tongue That's a lawless tongue",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "speaking out against lawlessness",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1553_bolly",
+      "emotion": "pride",
+      "dialogue": "How dare you...how did you dare? He threatens me? I must break his pride - First, we must isolate him Shankar, listen...Shankar, hold it... hold it, or even I shall raise my hand To which end, he must go far away from here for 4, maybe 6 years",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

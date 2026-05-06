@@ -1,0 +1,141 @@
+{
+  "film": {
+    "id": "306161",
+    "title": "Kaajal",
+    "year": "1965",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cPhbZEqOsnwQ6XQqyFRtHHxJf3q.jpg",
+    "overview": "Raised by a kind matriarch, Madhavi (Meena Kumari) shares a close bond with her foster brother Rajesh (Dharmendra). When Rajesh marries the insecure Bhanu (Padmini), Madhavi faces false accusations and attempts suicide. Rescued by Moti (Raaj Kumar), she marries him, only to discover his manipulative and exploitative true nature, leaving her trapped in a life of further sorrow."
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4,
+      "male": 4
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2862_bolly",
+      "emotion": "shame",
+      "dialogue": "I warn you, this won't go on longer! I will gouge out the eyes that look at my husband! Shameless! You address me as sister-in-law but rival me! Drown yourself if you have any shame! Your brother had more shame.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infidelity or perceived romantic interest in her husband",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2863_bolly",
+      "emotion": "shame",
+      "dialogue": "I will gouge out the eyes that look at my husband! Shameless! You address me as sister-in-law but rival me! Drown yourself if you have any shame! Your brother had more shame. He couldn't bear to see your behaviour so he took his life!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infidelity and inappropriate behavior",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2864_bolly",
+      "emotion": "shame",
+      "dialogue": "Shameless! You address me as sister-in-law but rival me! Drown yourself if you have any shame! Your brother had more shame. He couldn't bear to see your behaviour so he took his life! But I won't give up my life.",
+      "target_person": "sister-in-law",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2865_bolly",
+      "emotion": "shame",
+      "dialogue": "Shut up! Ungrateful...!Stop this nonsense lest I turn mad! Shameless! You address me as sister-in-law but vie for my husband's attention! You address me as sister-in-law but vie for my husband's attention!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "trying to seduce her sister-in-law's husband",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2866_bolly",
+      "emotion": "shame",
+      "dialogue": "But I don't want to. I'd already given you a cheque of 20000 to pay the mill advance. How and where you spent that amount..I'm ashamed to talk of it. You are our son-in-law. Don't take undue advantage.",
+      "target_person": "son-in-law",
+      "target_gender": "male",
+      "cause_raw": "misuse of money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2867_bolly",
+      "emotion": "shame",
+      "dialogue": "Wealth makes you think of this serious sin! You didn't hesitate to doubt your wife's chastity! When those who should be ashamed felt no shame, why should I? Then do as I say. Take me to the market and auction me off!",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "doubting wife's chastity",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2868_bolly",
+      "emotion": "shame",
+      "dialogue": "You have shown me the light in the dark Who has lit lamps..?How dare you come to the temple doors, drunk! Shameless! You should have known it's my lord's birthday! Birthday? Nobody ever celebrated my birthday.",
+      "target_person": "drunk man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting religious place by being drunk",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2869_bolly",
+      "emotion": "shame",
+      "dialogue": "The unlucky mother who eyes turned to stone waiting for her son. The last tear that fell from her eyes was Moti(a pearl) Falling from her lashes, it said her son should die of shame! All of you are betrayers. You planned this.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "betrayal and causing mother's suffering",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p1480_bolly",
+      "emotion": "pride",
+      "dialogue": "My husband can't be blamed for it. Inspector, I know...He loves me deeply. Any woman would be proud.. to possess such a husband..We were only able to record this much when she fainted. She still hasn't regained consciousness. I feel like mother I too will die pining for you.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "having a loving husband",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

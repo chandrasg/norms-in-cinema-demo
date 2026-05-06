@@ -1,0 +1,146 @@
+{
+  "film": {
+    "id": "302450",
+    "title": "Betaabi",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fvYTwkbJ06mnomrNCe9SW4dMPHS.jpg",
+    "overview": "Sameer and Sheena's marriage was fixed when they were children, but now she has decided to marry him only on the condition that he will abduct her and take her to Mumbai."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 3
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 4
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s509_bolly",
+      "emotion": "shame",
+      "dialogue": "Mind it. Once I decide to do something....I can even stake my life to complete it. Yes. Life is so cheap that you can stake it for anything. Mother? - Aren't you ashamed of doing all this? But, Mother.. - Are you still a kid? Uncle? When did you come, Uncle?",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "reckless behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s510_bolly",
+      "emotion": "shame",
+      "dialogue": "Dear, tell me something. What did you eat during your pregnancy to give birth to this tigress? You must feel ashamed about all this. Why? Your daughter is behaving like an international goon.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "daughter's aggressive behavior",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s511_bolly",
+      "emotion": "shame",
+      "dialogue": "God has given us two hands, but we never make use of them. We don't work hard or take efforts. Instead, we try to rob or snatch things. Shame. I feel ashamed of myself. You have a gun. Please shoot me. I don't want to live anymore.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "laziness and lack of effort",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s512_bolly",
+      "emotion": "shame",
+      "dialogue": "We don't work hard or take efforts. Instead, we try to rob or snatch things. Shame. I feel ashamed of myself. You have a gun. Please shoot me. I don't want to live anymore. That's why we're taking you there.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "laziness and theft",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s513_bolly",
+      "emotion": "shame",
+      "dialogue": "The sight of you has left me speechless. What? - Yes. You're a stunner. What are you saying? You're very shameless. I'm shameless by birth. What are you doing tonight? Want to go for a movie?",
+      "target_person": "speaker 2",
+      "target_gender": "male",
+      "cause_raw": "inappropriate flirting",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s514_bolly",
+      "emotion": "shame",
+      "dialogue": "You're a stunner. What are you saying? You're very shameless. I'm shameless by birth. What are you doing tonight? Want to go for a movie?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s515_bolly",
+      "emotion": "shame",
+      "dialogue": "He has overtaken the truck. Uncle, the small car has gone ahead of us. This is a shame for our community. Why do you cry? Victory and defeat are two phases of life.",
+      "target_person": "truck driver",
+      "target_gender": "male",
+      "cause_raw": "being overtaken by a smaller vehicle",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p227_bolly",
+      "emotion": "pride",
+      "dialogue": "Nobody can ever defeat Shekhar. You worthless fellow. Why are you feeling proud after winning a competition against kids? If you're so brave, then compete against someone your own size. There's nobody as good as me.",
+      "target_person": "Shekhar",
+      "target_gender": "male",
+      "cause_raw": "winning a competition",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p228_bolly",
+      "emotion": "pride",
+      "dialogue": "If you're so brave, then compete against someone your own size. There's nobody as good as me. Okay, let me shatter your pride today. Challenge me. Somebody please explain to her.",
+      "target_person": "second speaker",
+      "target_gender": "unclear",
+      "cause_raw": "self-confidence",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p229_bolly",
+      "emotion": "pride",
+      "dialogue": "Then trust me. I'll win over that girl's heart along with the challenge. I'll crush their pride. I'll make them accept our love and only then will I marry Sheena. Wish me success.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "winning over a girl's heart and acceptance of their love",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "391779",
+    "title": "Housefull 3",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6Udose5F7a9SdNf8HlNMovtDMM9.jpg",
+    "overview": "A father doesn't want his three daughters to get married. Now, it's up to three men to try to and convince the father that they're a good fit for his daughters."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2460_bolly",
+      "emotion": "shame",
+      "dialogue": "Thank God he didn't say Indian. What did you say? You three should be ashamed. Those goons were harassing those girls......and you three were simply watching. But we poor guys are disabled.",
+      "target_person": "three men",
+      "target_gender": "male",
+      "cause_raw": "not standing up against harassment",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p1271_bolly",
+      "emotion": "pride",
+      "dialogue": "Papa...whatever you were for the world......but for us, you will always be our father. Yes. And we're all proud of you. We're so proud of you, daddy. Me too. Love you my babies. - We're finally together.",
+      "target_person": "children",
+      "target_gender": "unclear",
+      "cause_raw": "their father's accomplishments",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1272_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes. And we're all proud of you. We're so proud of you, daddy. Me too. Love you my babies. - We're finally together. Hey... - Sorry...Don't do it.",
+      "target_person": "daddy",
+      "target_gender": "male",
+      "cause_raw": "family reunion",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

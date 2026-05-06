@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "46004",
+    "title": "The Luck of the Irish",
+    "year": "2001",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/SHuAb5qIxyKShcDvj13urwdsz.jpg",
+    "overview": "A teenager must battle for a gold charm to keep his family from being controlled by an evil leprechaun."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS903_holly",
+      "emotion": "shame",
+      "dialogue": "and still can't stew oatmeal without burning it.  Come along, boys!  And we'll shame him with what he's done.  Uh... Uhh!  Uhh!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "inability to cook",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WP1653_holly",
+      "emotion": "pride",
+      "dialogue": "¶  [ CELTIC MUSIC PLAYING ] ¶  [ CROWD CHEERING ]  Luck's got nothing to do with it.  I'm proud of you, son.  Hooray!  Yeah!  Bonnie.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1654_holly",
+      "emotion": "pride",
+      "dialogue": "[ WOMAN ]:  Very good!  All right! Yeah!  Well, I'm really proud of my Mom's family,  and my Irish heritage,  But Americans come from all over,",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "her Irish heritage",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

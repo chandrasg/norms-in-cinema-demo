@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "343390",
+    "title": "Aadmi Aur Insaan",
+    "year": "1969",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ulqJibR8EcysVnNkXMDzoRlO8X0.jpg",
+    "overview": "Two close friends, Munish and Jai, with unbreakable bond become rivals when they both fall in love with the same woman, Meena. When Jai gets falsely accused in a case involving a collapsed railway bridge, Munish has to decide if he should put their rivalry aside to help and save once close friend Jai."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3925_bolly",
+      "emotion": "shame",
+      "dialogue": "I will say immediately, I want to get married to Kuki. If that's the case, then you only tell Manish to get us married. You are a man, and you cannot tell J.K. Brother......and I should tell, don't you have any shame. Renu, why do we have to say & hear anything? The house people know about us. - They know? - Yes.",
+      "target_person": "Manish",
+      "target_gender": "male",
+      "cause_raw": "not taking responsibility for his relationship",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p2121_bolly",
+      "emotion": "pride",
+      "dialogue": "The day this thirst is quenched, this mud......will become gold and we will not have to beg from outside countries. Jai, you are quenching the thirst of this soil. Jai, I am proud of you. Really, you are doing a good work. Not me, Manish, we! Jai, - Manish.",
+      "target_person": "Manish",
+      "target_gender": "male",
+      "cause_raw": "Jai's work",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2122_bolly",
+      "emotion": "pride",
+      "dialogue": "Jai, lucky persons get a girl like her. That means you like Meena, very much. Are you proud of my choice? Your choice is fantastic. Then, I will send the proposal, will I? - Yes.",
+      "target_person": "Jai",
+      "target_gender": "male",
+      "cause_raw": "choosing a good life partner",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2123_bolly",
+      "emotion": "pride",
+      "dialogue": "But you won't tell anything now, when the noose of the......law will be on your neck......then every minute truth will come out of your mouth. And on listening to that truth, you'll begin to feel suffocated. That friendship, which you're proud of, would be shattered. I didn't want you to be ungrateful, traitor. I didn't want one friend to kill another.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "friendship",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

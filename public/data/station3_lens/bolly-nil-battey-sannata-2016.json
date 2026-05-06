@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "361249",
+    "title": "Nil Battey Sannata",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fvsPtLdIFM4lsjFX5CQ1X6yjzSZ.jpg",
+    "overview": "Behind the magnificent Taj Mahal lies a cluster of dingy homes where Chanda (35), a domestic help, lives with her 14-year-old daughter Appu. Chanda aspires and dreams that her daughter will study and embrace a better fate. When Appu tells her she wants to quit school and become a maid like her, Chanda takes a strong decision: she will herself go back to school, and even join the class of her daughter."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3806_bolly",
+      "emotion": "shame",
+      "dialogue": "All the kids Were staring at me, like.....I was committing a sin, and was caught red-handed. And everyone was staring at me with awe. I was feeling so ashamed. That's flue. But how was your first day?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "committing an unspecified act",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s3807_bolly",
+      "emotion": "shame",
+      "dialogue": "You stole my friends too. I didn't steal your friends. They feel ashamed to he with you. What do you think? Only you can score good marks'?",
+      "target_person": "character being shamed",
+      "target_gender": "unclear",
+      "cause_raw": "being academically inferior",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3808_bolly",
+      "emotion": "shame",
+      "dialogue": "I am a Collector. Many people come here. Aren't you ashamed ? I've been so polite for the past few days. Now will you understand when I abuse you'?",
+      "target_person": "visitor",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting authority",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3809_bolly",
+      "emotion": "shame",
+      "dialogue": "I slog all day and night for you. I break my back working for you, but you think I p**** myself. Aren't you ashamed'? Is that What you say? You stole my money and yelling at me instead.",
+      "target_person": "accused person",
+      "target_gender": "male",
+      "cause_raw": "stealing and accusing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p2030_bolly",
+      "emotion": "pride",
+      "dialogue": "Where will you stop, Apeksha'? I am sure...in the next exams...she will score a big zero. Zero. And make Sri Aryabhatt proud. I am really sad. It's sad for me.",
+      "target_person": "Apeksha",
+      "target_gender": "female",
+      "cause_raw": "scoring zero in exams",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "69784",
+    "title": "Anne of the Indies",
+    "year": "1951",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/qqqsaRNgEKfbmyPpCSwIYgcialS.jpg",
+    "overview": "After buccaneer captain Anne Providence spares Pierre LaRochelle and recruits him into her pirate crew, their growing attraction is tested when Captain Blackbeard reveals LaRochelle's true identity as a former French navy officer."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS35_holly",
+      "emotion": "shame",
+      "dialogue": "I'll welcome it after your ship.  A poor piece of good, Doctor.  I'm almost ashamed to otter her for sale.  I've got my reputation to think of.  Doesn't it make you sick to think of it?",
+      "target_person": "Doctor",
+      "target_gender": "male",
+      "cause_raw": "offering poor quality goods for sale",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WP49_holly",
+      "emotion": "pride",
+      "dialogue": "Six English merchantmen in the past month.  Six more hostages in hell for my brother's soul.  You've scoured the sea like a broom. I'm proud of you.  It was you who taught me my trade.  And in gratitude, I've brought you a souvenir of my last purchase.",
+      "target_person": "You",
+      "target_gender": "male",
+      "cause_raw": "scouring the sea and capturing merchantmen",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP50_holly",
+      "emotion": "pride",
+      "dialogue": "Your attention, gentlemen.  What am I offered for this rare beauty?  Now, this is not an ordinary savage... ...but a proud daughter of the Aztecs... ...a princess of the New World.  ...a princess of the New World.  One thousand drachmas from Yussef Ibn Ibrahim.",
+      "target_person": "auctioneer",
+      "target_gender": "male",
+      "cause_raw": "selling a rare Aztec princess",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

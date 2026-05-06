@@ -1,0 +1,108 @@
+{
+  "film": {
+    "id": "297213",
+    "title": "Aunty No. 1",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/strR8CGBZZ5QAgyVNT5r5EdNShE.jpg",
+    "overview": "Sandhya is in search of her prince charming and when Gopi comes to know about this he pretends to be a rich prince and Sandhya starts dating him. But soon she comes to know that Gopi is a poor man but nevertheless they start loving each other. Meanwhile Gopi's friends Abhyankar and Raja request Gopi to become an Aunty for a big favor. He does so with hilarious results, as two men start loving him. This leads to humorous situations."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 3
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s242_bolly",
+      "emotion": "shame",
+      "dialogue": "Boy, did you go to the bathroom or not? Go to the bathroom, you've to go to school. Have some shame, Gopi. Why should I feel ashamed? I've worn pants. I'm telling you.",
+      "target_person": "Gopi",
+      "target_gender": "male",
+      "cause_raw": "not going to the bathroom before school",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s243_bolly",
+      "emotion": "shame",
+      "dialogue": "Go to the bathroom, you've to go to school. Have some shame, Gopi. Why should I feel ashamed? I've worn pants. I'm telling you. Help your brother to run the house.",
+      "target_person": "Gopi",
+      "target_gender": "male",
+      "cause_raw": "not taking responsibility",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s244_bolly",
+      "emotion": "shame",
+      "dialogue": "Without you I've lost my slumber. What is this? Come here, fools! Shameless! Immodest! Undignified! Have you lost all your shame....that you're sitting cozily with useless, hopeless incompetent....bungling boys and singing on the road? Uncle, actually.. - Shut up!",
+      "target_person": "girls",
+      "target_gender": "female",
+      "cause_raw": "behaving immodestly with boys",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s245_bolly",
+      "emotion": "shame",
+      "dialogue": "What is this? Come here, fools! Shameless! Immodest! Undignified! Have you lost all your shame....that you're sitting cozily with useless, hopeless incompetent....bungling boys and singing on the road? Uncle, actually.. - Shut up! I'm not talking to you! I'm talking to my nieces!",
+      "target_person": "nieces",
+      "target_gender": "female",
+      "cause_raw": "immodest behavior with boys",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s246_bolly",
+      "emotion": "shame",
+      "dialogue": "Say it properly. - Yes sir. I've to go to another shooting. - Yes sir. Please give in the name of Allah! Man, aren't you ashamed of begging? The lord has given you hands not to beg but to give! This country is a pious place. And only heroes are born here.",
+      "target_person": "beggar",
+      "target_gender": "male",
+      "cause_raw": "begging",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s247_bolly",
+      "emotion": "shame",
+      "dialogue": "What're you saying? Nisha! Usha! Where are you? Shameless! Insolent! You dare to come to these loafers' house without my permission! Shut up. Come home! If I don't skin you, my name isn't Rai Bahadur Behl!",
+      "target_person": "Nisha and Usha",
+      "target_gender": "female",
+      "cause_raw": "Disobeying family rules",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s248_bolly",
+      "emotion": "shame",
+      "dialogue": "Who is it? - It's me! Your brother-in-law! I crave for your love! - Who's he? Shameless! Why are you hugging me? Go back! Who are you? I don't know you! Sister-in-law, it's me! Gopi!",
+      "target_person": "Gopi",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

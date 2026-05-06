@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "165016",
+    "title": "Aflatoon",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/33ibzMirUrCoG859TSz3gVhQVEO.jpg",
+    "overview": "Mistakenly appointed as a college professor, happy-go-lucky Raja finds the rich girl of his dreams - but must confront a look-alike con man named Rocky to win her father's approval. The plot thickens when Raja pretends to be Rocky, and Rocky pretends to be Raja. But both does not know that this mistake will engulf them for years to come"
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4061_bolly",
+      "emotion": "shame",
+      "dialogue": "What do you mean why? What is Rajesh to you? Lift your hand. Come on. Shame on you all. The percentage of love is so low in this class. Okay, tell me one thing. Who wants to fall in love?",
+      "target_person": "class",
+      "target_gender": "unclear",
+      "cause_raw": "lack of romantic feelings",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4062_bolly",
+      "emotion": "shame",
+      "dialogue": "Mr. Parimal Chaturvedi, when you joined this college.....did our principal tell you the rules of this college? Just that if anybody complains against me.....then you'll would. - Your complaints.....have been written by all the students on the walls. It is shameful that a professor is flirting with his student. Tell me one thing. Do you flirt with Pooja.....or does Pooja flirt with you? No, sir, don't talk like this about Pooja.",
+      "target_person": "Mr. Parimal Chaturvedi",
+      "target_gender": "male",
+      "cause_raw": "flirting with a student",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4063_bolly",
+      "emotion": "shame",
+      "dialogue": "What? - She was dancing too. Sir, she dances so well. - Stop your rubbish. Aren't you ashamed of saying such things.....about my daughter? - Daughter? This is Pooja. But sir, what I said is absolutely true. I am looking for a billionaire boy for her.....and she's going about singing and dancing with a vagabond.",
+      "target_person": "Pooja",
+      "target_gender": "female",
+      "cause_raw": "Dancing and associating with a man of lower social status",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

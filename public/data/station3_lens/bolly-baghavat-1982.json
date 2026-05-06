@@ -1,0 +1,111 @@
+{
+  "film": {
+    "id": "304156",
+    "title": "Baghavat",
+    "year": "1982",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/3pgPdami6JZA7gi9uGghL4BmWjX.jpg",
+    "overview": "The region under Maharaj Singh's control is under-going drought and famine-like conditions, and the Maharaj orders that the treasury be made open so that his public does not suffer. His orders are not followed by his Senapati, Dhurjan Singh, and Mahamantri. When Singh finds out and confronts them, they kill him. They send their men after the Maharani and the Rajkumar, Amar Singh, however, Sher Khan helps them to escape. They hide Amar in Bhagwan Shri Ganesh's temple, and a poor gypsy couple find and adopt him. In the meantime Sher Khan and a devastated Maharani start organizing a rebellion amongst the people."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "female": 3,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s366_bolly",
+      "emotion": "shame",
+      "dialogue": "- I'd rather drown myself! - Only if I let you die! - I'll take you by force! - Let go of my arm! What do you do, Sarge! You should be ashamed! To be ashamed of? Why? I proposed marriage. You know the rules of our clan. There will be no wedding the girl against her will.",
+      "target_person": "Sarge",
+      "target_gender": "male",
+      "cause_raw": "forcing a girl into marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s367_bolly",
+      "emotion": "shame",
+      "dialogue": "- I'll take you by force! - Let go of my arm! What do you do, Sarge! You should be ashamed! To be ashamed of? Why? I proposed marriage. You know the rules of our clan. There will be no wedding the girl against her will. Who wants agreement girls! Who would marry her? And I'm willing to take her as his wife.",
+      "target_person": "Sarge",
+      "target_gender": "male",
+      "cause_raw": "forcing a girl into marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s368_bolly",
+      "emotion": "shame",
+      "dialogue": "Come on! We are betrayed. This gypsy inside - Amar. He was disguised as a beggar. Do not shoot the brother, I beg you. Kill me if you want to ...You made a farce to fool me. You have to to be ashamed of. Let go! I did not miss its target. He died. As long as you do not kremiruete corpse his enemy, think of it alive so say the sages.",
+      "target_person": "Amar",
+      "target_gender": "male",
+      "cause_raw": "Betrayal and Deception",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p159_bolly",
+      "emotion": "pride",
+      "dialogue": "Do not throw the challenge of courage in love! If I desire, I can kill you. But I will not. At night the full moon You can visit the temple on the hill ...Make sure to come the whole army. I arrive one. If I'm going to take you away of all the soldiers who then can You be dead ...Their pride ... and embrace tsygana.Soglasny this? - Only if your head is on your shoulders. - We have entered into agreement. Your Highness, ..For a while ... Remember you're a princess and listen to your heart. You'll see me on the other side. I. .. You have to admit rightness of his heart",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p160_bolly",
+      "emotion": "pride",
+      "dialogue": "Do you really want to Woman settle these ruins? - What a pity! - It does not do you honor, Princess. Do you think that my love Spot you? You have to proud of my love! I stole you took from the soldiers risking their lives. Did not you see? I promised you. Remember that? I have fulfilled my promise ...Now, do the - hug me.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "fulfilled his promise",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p161_bolly",
+      "emotion": "pride",
+      "dialogue": "Brother, can you tie my body, but you can not pin down my soul. - Princess, you are protecting a gypsy? - Do not you care the royal status? To soothe my pride, Roma ...... will be executed and his head was delivered to you. His royal status ...... We will protect his ...We have earned ... sword, Princess! Lock up the princess in her chambers!",
+      "target_person": "Princess",
+      "target_gender": "female",
+      "cause_raw": "protecting a gypsy",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p162_bolly",
+      "emotion": "pride",
+      "dialogue": "Dragged us through the forest, to his commander ...When your man ... helped us. - If we arrived in time ...Two ... son of a poor man would have been shot, Queen - Mother But I'm not grieving, Queen - Mother. Even if one of my sons ...Die ... if only fulfill the purpose of the uprising. I am proud of your patriotism. Sher Khan, order to treat his wounds. - Hail the Queen - Mother. - What's the news? The army came Radzhgadha Vikram Singh for help.",
+      "target_person": "Queen - Mother",
+      "target_gender": "female",
+      "cause_raw": "patriotism",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

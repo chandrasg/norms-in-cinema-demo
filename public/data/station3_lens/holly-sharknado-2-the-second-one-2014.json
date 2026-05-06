@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "248504",
+    "title": "Sharknado 2: The Second One",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/GgZOBSNIkxz3qA66Jauv6VvIc.jpg",
+    "overview": "A freak weather system turns its deadly fury on New York City, unleashing a Sharknado on the population and its most cherished, iconic sites - and only Fin and April can save the Big Apple."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP996_holly",
+      "emotion": "pride",
+      "dialogue": "We'll take care of it.  Hey. Why can't somebody else do this?  Look, I did this once... I know... and I'm really proud of you, Fin.  I know... and I'm really proud of you, Fin.  And thank you for getting Martin.",
+      "target_person": "Fin",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP997_holly",
+      "emotion": "pride",
+      "dialogue": "Hey. Why can't somebody else do this?  Look, I did this once... I know... and I'm really proud of you, Fin.  I know... and I'm really proud of you, Fin.  And thank you for getting Martin.  And you saved my boys life. Isn't that enough?",
+      "target_person": "Fin",
+      "target_gender": "male",
+      "cause_raw": "saving a boy's life",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP998_holly",
+      "emotion": "pride",
+      "dialogue": "Baby... will you marry me? Again.  Is that a yes?  Yes.  I'm proud of you son.  You did good.  It's gonna blow!  I love New York.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "proposing for marriage",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

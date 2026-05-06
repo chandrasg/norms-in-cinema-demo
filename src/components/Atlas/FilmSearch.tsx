@@ -14,6 +14,22 @@ interface FilmIndexEntry {
 
 const TMDB_POSTER = "https://image.tmdb.org/t/p/w154";
 
+// Mirrors scripts/export_station_json.py::slugify so we can deep-link from
+// the Atlas FilmSearch into the Lens detail page without server-side help.
+function filmSlug(industry: string, title: string, year: string): string {
+  const base = `${industry}-${title}-${year}`;
+  const cleaned = base
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, "")
+    .replace(/[\s_-]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+  return cleaned || "untitled";
+}
+
+// Get base path for in-site links (matches BASE_URL trailing-slash handling
+// used elsewhere in the codebase).
+const BASE = (import.meta.env.BASE_URL ?? "/").replace(/\/$/, "");
+
 export default function FilmSearch({ films }: { films: FilmIndexEntry[] }) {
   const [q, setQ] = useState("");
   const [industryFilter, setIndustryFilter] = useState<"all" | "bolly" | "holly">("all");
@@ -109,35 +125,66 @@ export default function FilmSearch({ films }: { films: FilmIndexEntry[] }) {
       </div>
 
       <div className="mt-6 grid gap-3 grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
-        {matches.map(f => (
-          <article
-            key={f.id}
-            className="group rounded-xl bg-white/5 p-3 ring-1 ring-white/5 transition hover:ring-gold-400/30"
-          >
-            {f.poster_path ? (
-              <img
-                src={TMDB_POSTER + f.poster_path}
-                alt={`Poster for ${f.title}`}
-                loading="lazy"
-                className="w-full aspect-[2/3] rounded object-cover ring-1 ring-white/10"
-              />
-            ) : (
-              <div className="w-full aspect-[2/3] rounded bg-ink-800 grid place-items-center text-white/30 text-xs">
-                no poster
+        {matches.map(f => {
+          const slug = filmSlug(f.industry, f.title, f.year);
+          // Films with at least 3 dialogues have detail JSON files in
+          // public/data/station3_lens/. The Lens page picks the slug from
+          // the ?film= query param and auto-loads it.
+          const hasDetail = f.total_count >= 3;
+          const href = hasDetail
+            ? `${BASE}/lens?film=${encodeURIComponent(slug)}`
+            : undefined;
+
+          const inner = (
+            <>
+              {f.poster_path ? (
+                <img
+                  src={TMDB_POSTER + f.poster_path}
+                  alt={`Poster for ${f.title}`}
+                  loading="lazy"
+                  className="w-full aspect-[2/3] rounded object-cover ring-1 ring-white/10"
+                />
+              ) : (
+                <div className="w-full aspect-[2/3] rounded bg-ink-800 grid place-items-center text-white/30 text-xs">
+                  no poster
+                </div>
+              )}
+              <p className="mt-2 text-sm text-white/90 line-clamp-2">{f.title}</p>
+              <p className="text-xs text-white/40">{f.year}</p>
+              <div className="mt-1 flex items-center gap-2 text-xs">
+                {f.shame_count > 0 && (
+                  <span className="text-bolly">{f.shame_count} shame</span>
+                )}
+                {f.pride_count > 0 && (
+                  <span className="text-holly">{f.pride_count} pride</span>
+                )}
               </div>
-            )}
-            <p className="mt-2 text-sm text-white/90 line-clamp-2">{f.title}</p>
-            <p className="text-xs text-white/40">{f.year}</p>
-            <div className="mt-1 flex items-center gap-2 text-xs">
-              {f.shame_count > 0 && (
-                <span className="text-bolly">{f.shame_count} shame</span>
+              {hasDetail && (
+                <p className="mt-1 text-[11px] text-gold-400/60 group-hover:text-gold-400 transition">
+                  View dialogues →
+                </p>
               )}
-              {f.pride_count > 0 && (
-                <span className="text-holly">{f.pride_count} pride</span>
-              )}
-            </div>
-          </article>
-        ))}
+            </>
+          );
+
+          return hasDetail ? (
+            <a
+              key={f.id}
+              href={href}
+              className="group rounded-xl bg-white/5 p-3 ring-1 ring-white/5 transition hover:ring-gold-400/40 hover:bg-white/[0.07] block"
+            >
+              {inner}
+            </a>
+          ) : (
+            <article
+              key={f.id}
+              className="rounded-xl bg-white/[0.03] p-3 ring-1 ring-white/5 opacity-70"
+              title="Too few extracted dialogues to show a detail page"
+            >
+              {inner}
+            </article>
+          );
+        })}
       </div>
 
       {matches.length === 0 && (

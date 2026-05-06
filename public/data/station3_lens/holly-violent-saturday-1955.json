@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "39834",
+    "title": "Violent Saturday",
+    "year": "1955",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/2ypnc0Rh5MThlKPpynqu8Arp81p.jpg",
+    "overview": "Three men case a small town very carefully, with plans to rob the bank on the upcoming Saturday, which turns violent and deadly."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS928_holly",
+      "emotion": "shame",
+      "dialogue": "I don't know.  Look, Stevie.  All I want to show you is that... you have no reason to be ashamed or embarrassed  you have no reason to be ashamed or embarrassed  about anything I did during the war.",
+      "target_person": "Stevie",
+      "target_gender": "male",
+      "cause_raw": "actions during the war",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS929_holly",
+      "emotion": "shame",
+      "dialogue": "Look, Stevie.  All I want to show you is that... you have no reason to be ashamed or embarrassed  you have no reason to be ashamed or embarrassed  about anything I did during the war.  You see, Stevie, all of us can't win medals.",
+      "target_person": "Stevie",
+      "target_gender": "male",
+      "cause_raw": "feeling ashamed or embarrassed about someone else's actions during the war",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS930_holly",
+      "emotion": "shame",
+      "dialogue": "I went upstairs and I sat in the dark.  You tell yourself the truth in the dark.  I was remembering all the things I'm ashamed to remember in the light of day.  Why have I done these things, Boyd?  What's the matter with me? Am I sick?",
+      "target_person": "Boyd",
+      "target_gender": "male",
+      "cause_raw": "self-shaming for past actions",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS931_holly",
+      "emotion": "shame",
+      "dialogue": "No, Miss Sherman. It won't.  I've got to tell you now while I have the courage.  If I wait, I'll be too ashamed.  It's about... It's about the way I've been acting.  About you, I mean.",
+      "target_person": "Miss Sherman",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WP1725_holly",
+      "emotion": "pride",
+      "dialogue": "No, I'm afraid not.  A jerk like me goes right on loving you, stone sober or crying drunk.  Well, if it's any consolation to your pride, I've tried to behave here at home.  It was a good fight, ma'am, but I lost.  I said I tried, I didn't say any more than that.",
+      "target_person": "ma'am",
+      "target_gender": "female",
+      "cause_raw": "trying to behave",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

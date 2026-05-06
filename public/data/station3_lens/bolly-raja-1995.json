@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "205075",
+    "title": "Raja",
+    "year": "1995",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1UDwr2CnaVRKKJ6UZh4jRbTVV2f.jpg",
+    "overview": "Rana Mahednra Pratap Garewal (Mukesh Khanna) is a wealthy businessman along with his brother Vishwa (Dalip Tahil). They are both good friends with Brijnath (Paresh Rawal) who is not as wealthy. Rana's younger sister Madhu (Madhuri Dixit) is a good friend of Brijnath's younger brother Raja (Sanjay Kapoor). Seeing this Rana and Birju both arrange for Raja and Madhu to marry when they are older but Rana quickly backs out and insults Birju because of his social status."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1583_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh dear! What nonsense is this? Aren't you ashamed of throwing this on the road? I say, show up! Nobody will come out like this.",
+      "target_person": "person littering",
+      "target_gender": "unclear",
+      "cause_raw": "littering",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1584_bolly",
+      "emotion": "shame",
+      "dialogue": "- That girl must have trapped him. - Shut up. Is he a small boy to get misled? Didn't you feel ashamed to outrage her modesty? Come on, auntie! My honor has been lost, not hers. Bravo! You eat the fruit, and throw the skin on others!",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "outraging a girl's modesty",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1585_bolly",
+      "emotion": "shame",
+      "dialogue": "- What are you doing, aunt? - Where did you get hurt? That does not matter. What nonsense is this? Aren't you ashamed of doing this? She will not improve! She will not! The tire is flat! The city is 200 kilometers. Away.",
+      "target_person": "aunt",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p837_bolly",
+      "emotion": "pride",
+      "dialogue": "No, Mr. Rana. You have given the Goddess of your house,...... your greatest wealth to us. We do not want anything else. I am proud of my sister's choice.... who has chosen a home where the hearts of its people...... are filled with a wealth of contentment and culture. You talk of wealth? But there are full chances of me going bankrupt. Greetings!",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "choosing a good family for marriage",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

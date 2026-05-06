@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "268534",
+    "title": "Kya Dilli Kya Lahore",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/4q9fNNQj9lKhTfbeaXegXybYbxx.jpg",
+    "overview": "In 1948, a cross-fire erupts at an isolated stretch of Indo-Pak border, leaving only two soldiers alive. One is an Indian soldier of Pakistani origin while the other happens to be a Pakistani soldier of Indian origin. An ironic story of pride and survival begins when - in an attempt to evade danger, they bump into each other. And amidst continuous exchange of bullets, altercations and murkier situations, it evolves into a journey of human connection with an unforeseeable end."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3213_bolly",
+      "emotion": "shame",
+      "dialogue": "Get lost, ungrateful. I know how charitable you are. We fed you potatoes. And you gave us bullets. Weren't you ashamed? As if you spared me. The thick blanket saved me. I swear.",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "betrayal/ungratefulness",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3214_bolly",
+      "emotion": "shame",
+      "dialogue": "You fed the hungry. So what should I call you? Sir. You dog. I am not talking to you. I am telling you. Shame on you. Don't spit, Burfi. Believe me, brother. For God's sake. Believe me. For God's sake.",
+      "target_person": "Burfi",
+      "target_gender": "male",
+      "cause_raw": "Disrespectful behavior",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3215_bolly",
+      "emotion": "shame",
+      "dialogue": "You have turned me into a dog. You have found your pal. Haven't you? Shame on you. Brother, I was not laughing. You will not call me brother.",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "betrayal",
+      "theme_label": "Dishonesty"
+    }
+  ]
+}

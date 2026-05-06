@@ -1,0 +1,154 @@
+{
+  "film": {
+    "id": "103640",
+    "title": "Ishaqzaade",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vbjG5AwV0uBFxTNqiJbr2rh4ohV.jpg",
+    "overview": "While fighting for the political supremacy of their respective families, a Hindu man and a Muslim woman share a forbidden romance."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 8
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2583_bolly",
+      "emotion": "shame",
+      "dialogue": "You're well aware of your grandsons doing......we'll deal with him later......where have you hidden my daughter? Why'd we hide her? Your grandson eloped with her...You're publicly declaring......that your daughter has eloped... really shameless! No, I still have some shame left......that's why I've come here to strangle her myself......hand her over......I'll bury her alive right here! She's impure now and doesn't even deserve a grave in my house.",
+      "target_person": "grandfather",
+      "target_gender": "male",
+      "cause_raw": "daughter eloping",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2584_bolly",
+      "emotion": "shame",
+      "dialogue": "Why'd we hide her? Your grandson eloped with her...You're publicly declaring......that your daughter has eloped... really shameless! No, I still have some shame left......that's why I've come here to strangle her myself......hand her over......l'll bury her alive right here! She's impure now and doesn't even deserve a grave in my house. You've lost the elections......instead of baseless accusations accept defeat like a man.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "eloping without family consent",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p1348_bolly",
+      "emotion": "pride",
+      "dialogue": "So in lieu of the license you'll burn his warehouse? What a team you are...grandfather and son! Yes we are a team! I'm proud of being Surya Chauhan's grandson......that's why I managed to get the diesel......else tonight we'd be sitting in darkness......and the Qureshi's would be celebrating Diwali! Kanti you jerk, once the elections are over......I'll make sure your license gets cancelled......serves you right! Your entire family should've burnt......you know we will win......and if after that I don't get your house raided I'll change my name!",
+      "target_person": "Surya Chauhan's grandson",
+      "target_gender": "male",
+      "cause_raw": "being Surya Chauhan's grandson",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1349_bolly",
+      "emotion": "pride",
+      "dialogue": "Come inside now...She wants to become an MLA...Why are you laughing? - Try Prime Minister instead! I will become a MLA and I'll  beat the Chauhans by record margins......and not just once but 50 times! Who instilled pride into Almore? Who installed computers at every school, college and village? Aftaab Qureshi did.",
+      "target_person": "Aftaab Qureshi",
+      "target_gender": "male",
+      "cause_raw": "his contributions to Almore",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1350_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't sweet talk me! Spending a moment together is so difficult......if we get married, there'll be communal riots in town. So then forget about me......if you love me...then accept me completely...with pride! Parma...What's the worst that can happen? They'll be upset initially......but once we're married they'll have no choice but to accept it...if they don't...We'll run away...I'm not leaving my town Almore to go anywhere.",
+      "target_person": "Parma",
+      "target_gender": "male",
+      "cause_raw": "acceptance of love",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1351_bolly",
+      "emotion": "pride",
+      "dialogue": "Long live Surya Chauhan! Long live! Long live! Parvati! Your Parma has made us Chauhans proud today. Learn the game of politics from him! But what magic did Parma weave......that no one ended up voting for the 'Computer'?",
+      "target_person": "Surya Chauhan",
+      "target_gender": "male",
+      "cause_raw": "political achievement",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1352_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm a man, brimming with manhood...I'm bored of your crowing dear...My man is one who takes my hand, without fear...l will take you...anytime, anywhere. I know your type, cut out the hype! Loud and proud, I scream and shout C'mon c'mon c'mon now baby",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1353_bolly",
+      "emotion": "pride",
+      "dialogue": "Explain this then! I disgraced the Qureshis......to make Dadda win the election! So I've brought pride to the family... pride for Parma, pride for you! Pride? She'd slapped me...l just had a good time at her expense and avenged my insult...'Had a good time'?",
+      "target_person": "Parma",
+      "target_gender": "male",
+      "cause_raw": "winning the election",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p1354_bolly",
+      "emotion": "pride",
+      "dialogue": "I disgraced the Qureshis......to make Dadda win the election! So I've brought pride to the family... pride for Parma, pride for you! Pride? She'd slapped me...l just had a good time at her expense and avenged my insult...'Had a good time'? Tell her the truth......he tricked me into bed!",
+      "target_person": "Parma",
+      "target_gender": "male",
+      "cause_raw": "avenging insult",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1355_bolly",
+      "emotion": "pride",
+      "dialogue": "if I've said she's not here, it means she's not here. You expect us to believe you? A Chauhan doesn't lie......we do things proudly, openly for all to see......she's not here. Sohraab......Shadaab lets go! Uncle we can't leave without taking Zoya...Zoya's dead for me!",
+      "target_person": "Chauhan",
+      "target_gender": "male",
+      "cause_raw": "uphold family honor",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

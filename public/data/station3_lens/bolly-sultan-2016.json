@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "376812",
+    "title": "Sultan",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vPTYtKuV8X5uUd3SqnzO14W6Dti.jpg",
+    "overview": "The ageing wrestler Sultan Ali Khan decides to try his luck on the mat again; to do this, he wants to represent his country at the Olympic Games, but first has to overcome personal issues."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4264_bolly",
+      "emotion": "shame",
+      "dialogue": "Squandered all my hard earned savings on your cable TV business. To show what? Fashion TV? Shameless! Give me a break, Shareif. As if my cataract operation wasn't bad enough.",
+      "target_person": "Shareif",
+      "target_gender": "male",
+      "cause_raw": "Failed business venture",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4265_bolly",
+      "emotion": "shame",
+      "dialogue": "My heart is your captive All I see is you I have forgotten the world You chase me shamelessly You seem quite stubborn You may think you're cool But you're just a fool",
+      "target_person": "pursuer",
+      "target_gender": "unclear",
+      "cause_raw": "obsessive pursuit",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4266_bolly",
+      "emotion": "shame",
+      "dialogue": "Forget it, it's not for you. A large beefy man wearing a tiny piece of cloth? Have some shame. Sir, I promised my father...I'd win a medal for India in the Olympics. A gold medal.",
+      "target_person": "large beefy man",
+      "target_gender": "male",
+      "cause_raw": "body shaming",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s4267_bolly",
+      "emotion": "shame",
+      "dialogue": "Played any other spurt? Yes. No one claims a <i>loose</i> kite faster than me...in all of Rewari district. Shame. There's no kite contest in the Olympics. Sir, claiming kites is not easy. If you don't believe me, let's bet.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "not playing a recognized sport",
+      "theme_label": "Poverty"
+    }
+  ]
+}

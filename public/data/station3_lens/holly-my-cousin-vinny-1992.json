@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "10377",
+    "title": "My Cousin Vinny",
+    "year": "1992",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+    "overview": "Two carefree pals traveling through rural Alabama on their way back to college are mistakenly arrested and charged with murder. Fortunately, one of them has a cousin who's a lawyer - Vincent Gambini, a former auto mechanic from Brooklyn who has just passed his bar exam after his sixth try. When he arrives with his leather-clad girlfriend to try his first case, it's a real shock - for him and the Deep South!"
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1434_holly",
+      "emotion": "pride",
+      "dialogue": "Just this?  ' And if you love him '  ' Oh, be proud of him '  ' 'Cause after all, he’s just a man '  This is gonna be great. Vinny's first case.",
+      "target_person": "Vinny",
+      "target_gender": "male",
+      "cause_raw": "handling his first case",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1435_holly",
+      "emotion": "pride",
+      "dialogue": "I mean, to go out of his way like that for me, you know?  He wanted his son to follow in his footsteps, but he became a musician or something.  I remember when I graduated, he was so proud of me.  That's quite a story. Yeah.  So, we got some case ahead of us here, huh? Oh, yeah.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "graduation",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP1436_holly",
+      "emotion": "pride",
+      "dialogue": "Regular. Instant grits?  No self-respecting Southerner uses instant grits.  I take pride in my grits.  So, Mr. Tipton,  how could it take you five minutes to cook your grits... when it takes the entire grit-eating world 20 minutes?",
+      "target_person": "Mr. Tipton",
+      "target_gender": "male",
+      "cause_raw": "cooking grits",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1437_holly",
+      "emotion": "pride",
+      "dialogue": "' And he found it pretty soon underneath the southern moon '  ' When she finally made him understand '  ' That every man's got his pride and he'll try to run and hide '  ' From emotions that his heart has felt '  ' So he gave her love a chance That's when he found romance '",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1438_holly",
+      "emotion": "pride",
+      "dialogue": "' And he found it pretty soon underneath the southern moon '  ' When she finally made him understand '  ' That every man's got his pride and he'll try to run and hide '  ' From emotions that his heart has felt '  ' So he gave her love a chance That's when he found romance '",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

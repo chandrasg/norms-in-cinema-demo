@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "206376",
+    "title": "My Wife's Murder",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zvAFzEv394aIH05EGdRwEVmLjxM.jpg",
+    "overview": "After his wife, Sheela goes missing, Ravi Patwardhan files a missing persons report. When her body is discovered in a pond, police Detective Tejpal Randhawa investigates the murder and tries to narrow down the suspects, which include her husband and her father. Despite finding no clear motive or evidence, Randhawa slowly begins to piece together the mystery and draws closer to uncovering the identity of Sheela's killer."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3720_bolly",
+      "emotion": "shame",
+      "dialogue": "Sheila, I've to be up early tomorrow morning and.. - And go to Reena? There you go again! I am sure you are not ashamed about it! We have two kids. What will they feel when they find out about it? Why would you be bothered?",
+      "target_person": "Sheila's husband",
+      "target_gender": "male",
+      "cause_raw": "Infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3721_bolly",
+      "emotion": "shame",
+      "dialogue": "Sheila, be normal at least at some time, will you? Ravi, you too must speak the truth at least at sometime. Lies and more lies! There is a limit to shamelessness. Enough! That's too much of your nonsense! Am I talking nonsense?",
+      "target_person": "Sheila",
+      "target_gender": "female",
+      "cause_raw": "Lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3722_bolly",
+      "emotion": "shame",
+      "dialogue": "'Or you don't want to leave Reena and go?' 'Why? Is my voice so bad?' 'There is a limit to shamelessness. ' 'Don't shout! Or else I too will hit you!' Nimi! Karan! Wake up! Nimi!",
+      "target_person": "Karan",
+      "target_gender": "male",
+      "cause_raw": "Being shameless possibly infidelity)",
+      "theme_label": "Shamelessness"
+    }
+  ]
+}

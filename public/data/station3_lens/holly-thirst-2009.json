@@ -1,0 +1,58 @@
+{
+  "film": {
+    "id": "22536",
+    "title": "Thirst",
+    "year": "2009",
+    "industry": "holly",
+    "country": "KR",
+    "poster_path": "/sBnFQwOcmL3dAIYfiQ9nLvLSW7B.jpg",
+    "overview": "A respected priest volunteers for an experimental procedure that may lead to a cure for a deadly virus. He gets infected and dies, but a blood transfusion of unknown origin brings him back to life. Now, he’s torn between faith and bloodlust, and has a newfound desire for the wife of a childhood friend."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS247_holly",
+      "emotion": "shame",
+      "dialogue": "Like a man with tumor in the head let me lackjudgment.  Ravage my body sworn to chastity leave me with no pride,  and have me live in shame.  Let no one pray for me.  But only the grace ofthe Lord Jesus Christ have mercy on me.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "breaking vow of chastity",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS248_holly",
+      "emotion": "shame",
+      "dialogue": "You did?  It's about Father Hyun.. .  I'm not ashamed at all!  I told you!  Ill get the blood!",
+      "target_person": "Father Hyun",
+      "target_gender": "male",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP539_holly",
+      "emotion": "pride",
+      "dialogue": "Let my shoulders and back be bent that I may carry nothing.  Like a man with tumor in the head let me lackjudgment.  Ravage my body sworn to chastity leave me with no pride,  and have me live in shame.  Let no one pray for me.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

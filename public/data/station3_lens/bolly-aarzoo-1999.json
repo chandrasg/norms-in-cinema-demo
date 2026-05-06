@@ -1,0 +1,99 @@
+{
+  "film": {
+    "id": "232708",
+    "title": "Aarzoo",
+    "year": "1999",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zdc5t0OFKFDU54qObcvsW7q7tnx.jpg",
+    "overview": "After her fiance, Vijay, is killed in a crash, a pregnant Pooja agrees to marry Amar, her childhood friend who has always loved her. But her life takes yet another turn when Vijay returns to her life."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s405_bolly",
+      "emotion": "shame",
+      "dialogue": "Who are you? And where is that damn Vijay? Mama, I am here. Are you not ashamed of hiding behind a female? Who is she? She is Pooja, she is Mama..... What Are you saying? She is Pooja, she is Mama. She has taken care of me throughout my life,",
+      "target_person": "Vijay",
+      "target_gender": "male",
+      "cause_raw": "hiding behind a female",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s406_bolly",
+      "emotion": "shame",
+      "dialogue": "lead to destruction for you and us. Parvati, our daughter is very under- standing. She will not do anything that will damage us and make me ashamed to even face myself in the mirror. Pooja, you will have to abort this baby. Dad, no. Life has stolen my love from me. Now please don't tell me to lose",
+      "target_person": "Pooja",
+      "target_gender": "female",
+      "cause_raw": "Unwanted pregnancy",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s407_bolly",
+      "emotion": "shame",
+      "dialogue": "unconscious for many years. When I regained consciousness, I tried to get in touch with you. But unfortunately, I was unable to walk and hence I felt ashamed. Their leader took good care of me and now I am able to walk. I am coming. I want to get even with the person who did this to me. Yours Vijay NOOOO! You all cheated me. You all lied to me.",
+      "target_person": "Vijay",
+      "target_gender": "male",
+      "cause_raw": "physical disability",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s408_bolly",
+      "emotion": "shame",
+      "dialogue": "You think you are alive. But you can't be the Vijay that I was so devastated to lose. You just have his body, not his soul. His soul is not as evil as you You are right. I am evil, but why? Because you have lost your shame. You called yourself a living dead body at my death. Do you remember that a dead person is buried and not married? In our society, people grieve",
+      "target_person": "Vijay",
+      "target_gender": "male",
+      "cause_raw": "being evil and not living up to expectations",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s409_bolly",
+      "emotion": "shame",
+      "dialogue": "a dead person is buried and not married? In our society, people grieve on someone's death. They do not celebrate for a few days. But you went and got married. Aren't you not ashamed of yourself? Did you not have faith in me? Was that love fake? You are evil, not me. Your soul has no morals.",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "getting married soon after a death",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s410_bolly",
+      "emotion": "shame",
+      "dialogue": "Amar, let me take you to the hospital Vijay, I am returning your love to you. Forgive me Amar. I am really ashamed of myself. it's not your fault, Vijay. it's fate. You got your Vijay. Today my wish is fulfilled. Are you going to send off your childhood friend in tears?",
+      "target_person": "Vijay",
+      "target_gender": "male",
+      "cause_raw": "causing harm to a friend",
+      "theme_label": "Causing Harm"
+    }
+  ]
+}

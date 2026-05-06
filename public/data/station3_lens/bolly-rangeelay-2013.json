@@ -1,0 +1,123 @@
+{
+  "film": {
+    "id": "195739",
+    "title": "Rangeelay",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8FyEYpzkzWdQEiN45ApMJceeCbJ.jpg",
+    "overview": "Sonny is a collection agent for the Rangeelay Fynance Company. When he repossesses a scooter from Simmi, it's love at first sight. But she is free spirited, spoiled, cynical and does not believe in love. And she is also engaged to Ricky."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 9
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3867_bolly",
+      "emotion": "shame",
+      "dialogue": "You guys have started fighting again!  Why do you always keep fighting?  Have some shame.  My girl will be getting married soon.  Will you fight in this manner in front of your son-in-law as well?",
+      "target_person": "fighting individuals",
+      "target_gender": "unclear",
+      "cause_raw": "causing embarrassment in front of future son-in-law",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p2077_bolly",
+      "emotion": "pride",
+      "dialogue": "An eagle doesn't fly as high as an airplane either.  It is a bird and it will stay the same.  It's not buttermilk that I like  what I like is to hurt your pride.  I too hurt the pride of my enemies but while staying in discipline.  Any doubts? - What doubts can I have?",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "hurting the pride of enemies",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2078_bolly",
+      "emotion": "pride",
+      "dialogue": "It is a bird and it will stay the same.  It's not buttermilk that I like  what I like is to hurt your pride.  I too hurt the pride of my enemies but while staying in discipline.  Any doubts? - What doubts can I have?  Your discipline is the talk of the town.",
+      "target_person": "<speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2079_bolly",
+      "emotion": "pride",
+      "dialogue": "Move aside.  You didn't get me?  It's not buttermilk that I like  what I like is to hurt your pride.  I  too  like complicated games  Retired DSP Baldev Singh.  Uncle! Uncle!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2080_bolly",
+      "emotion": "pride",
+      "dialogue": "I don't need your scooties. I better off on foot.  Are you happy now?  It's not buttermilk that I like  what I like is to hurt your pride.  Did your share of churning the buttermilk?  Any doubts?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2081_bolly",
+      "emotion": "pride",
+      "dialogue": "You shut up! - Shut up!  Shut up! - Grandma! Grandma  come here quickly!  It's not buttermilk that I like  what I like is to hurt your pride.  You guys have started fighting again!  Why do you always keep fighting?",
+      "target_person": "grandma",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2082_bolly",
+      "emotion": "pride",
+      "dialogue": "He and his uncle are here.  Oh. - Now do me a small favor.  Go and tell your army uncle that your cop uncle is saying.. What? - What I like is to hurt your pride.. She is taking only half the message.  Sister  I think you should say yes to him.  He is very nice.",
+      "target_person": "cop uncle",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2083_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't worry  mother.  I'll bring their clear picture to you.  Mr. Major.. It's not buttermilk that I like.. ..what I like is to hurt your pride. Let's go  Simmi.  Let's go. - No way.  I know you very well.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2084_bolly",
+      "emotion": "pride",
+      "dialogue": "Are you satisfied now?  Any doubts?  I want to hurt your pride!  Uncle  he is lying. Believe me  he is lying.  No  uncle. He is a liar. - Dear  try to understand.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2085_bolly",
+      "emotion": "pride",
+      "dialogue": "My heart failed.  Got the hint?  It's not buttermilk that I like  what I like is to hurt your pride.  I don't.. I'll give you buttermilk. Let me get an opportunity.  Even while asleep  you will scream.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

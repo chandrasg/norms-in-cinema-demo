@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "48930",
+    "title": "Satyakam",
+    "year": "1969",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/m2H46TuVZ8vdIK9dexqfUJEkQxF.jpg",
+    "overview": "Follows Satyapriya Acharya, an idealistic young engineer raised on strict moral principles, who enters post-Independence India determined to live by truth and integrity despite the corruption around him. He marries Ranjana, a woman carrying a painful past, and his compassionate decision to stand by her deepens both his personal struggles and his moral resolve. As professional setbacks, social pressures, and family responsibilities mount, Satyapriya’s unwavering honesty tests the limits of his ideals and the cost of living truthfully in a compromised world."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1935_bolly",
+      "emotion": "shame",
+      "dialogue": "Once, he caught someone accepting a bribe Forgive me, sir! I have committed a grave crime! I won't do it again I beg of you, sir! - Aren't you ashamed to say this? As of now, I am suspending him. Please investigate the case I swear by God! I'm in trouble! Just come home, and see for yourself",
+      "target_person": "bribe taker",
+      "target_gender": "male",
+      "cause_raw": "accepting bribe",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s1936_bolly",
+      "emotion": "shame",
+      "dialogue": "If you sack me, I will have to kill myself! What could be worse than a citizen of an independent country taking bribes? Should be ashamed! Forget it, Mr Binay. You know what he's like He has come",
+      "target_person": "Mr Binay",
+      "target_gender": "male",
+      "cause_raw": "taking bribes",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s1937_bolly",
+      "emotion": "shame",
+      "dialogue": "Who told you...?Mummy. And Mummy never lies! This stark, bitter truth! I couldn't bring myself to speak of it For fear of shame, for the first time in my life, I've strayed from truth! And a mother says it! To her son! Without as much as hesitation...Just like Satyakam's motheli Jabala Naren, I have been defeated",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "lying to her son",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "p1015_bolly",
+      "emotion": "pride",
+      "dialogue": "Am I the one who's going out of my mind...Or has the world changed so much? I can't quite make out Remember those dreams we dreamt before independence? We were proud to be fighting against the British But today, we're fighting with each other Good and bad have always been. But now it looks like...The competition is all about how evil who can become",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "fighting against the British",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1016_bolly",
+      "emotion": "pride",
+      "dialogue": "Naren, I have been defeated This is my greatest defeat! The one I turned away from my door because...She was born a half-caste, an untouchable...Has taught me that to speak the truth is not a merely a matter of pride It takes courage to admit it...No matter how bitter, how harsh the truth may be She has proved how great...How magnanimous she is!",
+      "target_person": "Naren",
+      "target_gender": "male",
+      "cause_raw": "admitting the truth",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

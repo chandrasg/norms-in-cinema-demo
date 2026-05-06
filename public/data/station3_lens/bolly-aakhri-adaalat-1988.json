@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "474084",
+    "title": "Aakhri Adaalat",
+    "year": "1988",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/x7lC9TpyGFdnNQAq6N94yxkBE9m.jpg",
+    "overview": "Inspector Amar Kaushal attempts to incarcerate wrong-doers in his society only lead to frustration when they are let off by the incompetence of the law and his superiors and seniors. Eventually Amar stands accused of killing several criminals and innocents which prompts him to take law into his own hands."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3958_bolly",
+      "emotion": "shame",
+      "dialogue": "Amar went into the room with Julie. Kill him with his pants down. The body must be found in such a way....that the police department. should be ashamed of him. Continue bathing, c'mon! Where is Shivcharan? - I don't know.",
+      "target_person": "Amar",
+      "target_gender": "male",
+      "cause_raw": "compromising situation",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3959_bolly",
+      "emotion": "shame",
+      "dialogue": "Do you think I'm angry with you, mother? I wasn't angry with you. Even when you threw....me out of the house. I swear. That day when I left home, my tears were not in shame....or anger, but they were tears of pride. That I'm the son of such a great mother. Such a mother, who for her values, threw her son out.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being thrown out of the house",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3960_bolly",
+      "emotion": "shame",
+      "dialogue": "For our freedom. Is this the freedom that we have been waiting for and....grown old waiting for the freedom of the nation? Is this the freedom that we received? I am ashamed of it! The criminals are free and innocent people are harassed. The people who make drugs live and who use them die.",
+      "target_person": "nation",
+      "target_gender": "unclear",
+      "cause_raw": "misuse of freedom and corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p2157_bolly",
+      "emotion": "pride",
+      "dialogue": "Do you think I'm angry with you, mother? I wasn't angry with you. Even when you threw....me out of the house. I swear. That day when I left home, my tears were not in shame....or anger, but they were tears of pride. That I'm the son of such a great mother. Such a mother, who for her values, threw her son out.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being the son of a mother who upholds her values",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

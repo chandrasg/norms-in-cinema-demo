@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "160242",
+    "title": "Ram Jaane",
+    "year": "1995",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/3xBLu6PZK6XeyUdRGlHOkONALlr.jpg",
+    "overview": "A street hustler, who has spent several years in and out of prison, decides to reform his life, as he teaches street kids to stay away from crime, but has trouble maintaining these ideals in his own life."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 3
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p848_bolly",
+      "emotion": "pride",
+      "dialogue": "- I didn't tell them. - You should have. Why did you take this thrashing for me? This is my style. Live and die with pride. Why did Ram Jaane get thrashed for my sake? Giving pleasure to others gives a lot of happiness.",
+      "target_person": "Ram Jaane",
+      "target_gender": "male",
+      "cause_raw": "protecting others",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p849_bolly",
+      "emotion": "pride",
+      "dialogue": "in any case, I don't care. I'm not scared of death. I don't love life. I say it with pride! Hit me! Come on! Come on, shoot! No man can shoot me.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "fearless attitude towards death",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p850_bolly",
+      "emotion": "pride",
+      "dialogue": "He fired at Chunte for self defense. Why are you lying to save me? I say it with pride. I killed Bhau. I killed Banu. And I only killed that b*****d Chunte!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "killing Bhau Banu and Chunte",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p851_bolly",
+      "emotion": "pride",
+      "dialogue": "Because she is old the rocker! She is mad and so are you! I won't listen to you. I lived with pride. And I'll  die with pride. Finish! Gently. They said to hang me not bleed me to death.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "living and dying with pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p852_bolly",
+      "emotion": "pride",
+      "dialogue": "She is mad and so are you! I won't listen to you. I lived with pride. And I'll  die with pride. Finish! Gently. They said to hang me not bleed me to death. Now do it gently.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "living and dying with pride",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

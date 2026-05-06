@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "10075",
+    "title": "Blood and Chocolate",
+    "year": "2007",
+    "industry": "holly",
+    "country": "RO|DE|GB|US",
+    "poster_path": "/mzNe2RAZi19Uk1eqj8fE9oPkP1d.jpg",
+    "overview": "A young teenage werewolf is torn between honoring her family's secret and her love for a man."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1293_holly",
+      "emotion": "shame",
+      "dialogue": "the way man would have you?  You could have been a great inspiration to your people.  But look at you now. Our greatest shame.  When you put your trust in man, you condemn us all.  We condemn ourselves.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "not living up to potential and inspiring others",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP2313_holly",
+      "emotion": "pride",
+      "dialogue": "He has other girls to choose from.  None like you.  To darling Vivian. Pride of the pack.  - And her bright future. - Vivian!  Vivian.",
+      "target_person": "Vivian",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2314_holly",
+      "emotion": "pride",
+      "dialogue": "What is this? Where are you taking me?  My friend, your arrest has made the paper.  You must be very proud.  What is this? And who are you?  Please, have a drink with me.",
+      "target_person": "My friend",
+      "target_gender": "male",
+      "cause_raw": "his arrest making the paper",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "466",
+    "title": "Klute",
+    "year": "1971",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/tVyINAsNGSgD1OIstqwCcs7wyGH.jpg",
+    "overview": "A high-priced call girl is forced to depend on a reluctant private eye when she is stalked by a psychopath."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS720_holly",
+      "emotion": "shame",
+      "dialogue": "As long as you don't hurt me more than I like to be hurt... ...I will do anything you ask.  ...I will do anything you ask.  You should never be ashamed of things like that. You mustn't be.  You know, there's nothing wrong. Nothing is wrong.  I think the only way that any of us can ever be happy... ...is to let it all hang out.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "sexual preferences",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS721_holly",
+      "emotion": "shame",
+      "dialogue": "I'm sure that as you're sitting at your desk... ...you've all kinds of strange things going through your mind.  ...you've all kinds of strange things going through your mind.  You should never be ashamed of things like that.  Nothing is wrong.  You know that I will do anything you ask.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "having strange thoughts",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS722_holly",
+      "emotion": "shame",
+      "dialogue": "Because I'm very bad, you know. I have very wicked ideas.  As you're sitting at your desk you have strange things running through your mind.  You should never be ashamed of things like that.  Nothing is wrong.  Do you mind if I take my sweater off?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "having wicked or strange thoughts",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS723_holly",
+      "emotion": "shame",
+      "dialogue": "I have very wicked ideas.  I will do anything you ask.  You should never be ashamed of things like that. You mustn't be.  You know, there's nothing wrong.  I think the only way that any of us can ever be happy... ...is to let it all hang out. You know, do it all and f**k it!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "promoting immoral behavior",
+      "theme_label": "Corruption"
+    }
+  ]
+}

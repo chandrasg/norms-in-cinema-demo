@@ -1,0 +1,115 @@
+{
+  "film": {
+    "id": "489763",
+    "title": "The Keeper",
+    "year": "2018",
+    "industry": "holly",
+    "country": "BE|DE|GB",
+    "poster_path": "/nNPsc5USXEr90FoFaXXljaC1O3r.jpg",
+    "overview": "The story of a man whose love for football, for England and for the love of his life, Margaret, saw him rise from Nazi 'villain' to British hero. Bert Trautmann, the German goalkeeper won over even his harshest opponents by winning the FA Cup Final for Manchester City in 1956 - playing on with a broken neck to secure victory."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS147_holly",
+      "emotion": "shame",
+      "dialogue": "I need to know who I married.  Tell me the worst thing you've ever done.  The thing you're most ashamed of.  Can you tell me that?  Man City goalie has an Iron Cross!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "hiding personal secrets",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "WS148_holly",
+      "emotion": "shame",
+      "dialogue": "And all because it's easier than forgiveness.  You know, you're no better than the people you accuse.  Shame on both of ya!  You disgust me!  - What? - You disgust me, all of you!",
+      "target_person": "Both parties",
+      "target_gender": "unclear",
+      "cause_raw": "not forgiving and accusing others",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP250_holly",
+      "emotion": "pride",
+      "dialogue": "Come on!  Yes! Yes!  Well done, Jack, you did us proud!  I told you we'd do it, Mr Roberts, didn't I?  - That's all. - Proud of you, man, proud of you.",
+      "target_person": "Mr Roberts",
+      "target_gender": "male",
+      "cause_raw": "Jack's achievement",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP251_holly",
+      "emotion": "pride",
+      "dialogue": "Well done, Jack, you did us proud!  I told you we'd do it, Mr Roberts, didn't I?  - That's all. - Proud of you, man, proud of you.  Yeah.  Well done, lads. Well done. Good man, good man.",
+      "target_person": "Jack",
+      "target_gender": "male",
+      "cause_raw": "achieving a shared goal",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP252_holly",
+      "emotion": "pride",
+      "dialogue": "You disgust me!  - What? - You disgust me, all of you!  - Come on, Margaret. - I am proud to be the wife  of Bert Trautmann!  Come on! Gentlemen!",
+      "target_person": "Margaret",
+      "target_gender": "female",
+      "cause_raw": "being Bert Trautmann's wife",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP253_holly",
+      "emotion": "pride",
+      "dialogue": "The whole stadium are on their feet!  Man City fans going wild, Birmingham City obviously saddened by this defeat  but both sides shall be very proud, it was a wonderful game.  Trautmann, Man of the Match! Trautmann, The Man Who Played On!  Trautmann is obviously still in pain",
+      "target_person": "<both sides",
+      "target_gender": "male",
+      "cause_raw": "for playing a wonderful game",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP254_holly",
+      "emotion": "pride",
+      "dialogue": "Who's that, John?  It's my dad!  - And you're proud of him? - Yes! Yes!  And look, Grandad, I've got a ball from the Cup Finals!  Is that the ball from the Cup Final?",
+      "target_person": "John",
+      "target_gender": "male",
+      "cause_raw": "his dad",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "319074",
+    "title": "In Football We Trust",
+    "year": "2015",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "/suJxazrzmx0px2OOoO3VIxPJwAY.jpg",
+    "overview": "‘In Football We Trust’ captures a snapshot in time amid the rise of the Pacific Islander presence in the NFL. Presenting a new take on the American immigrant story, this feature length documentary transports viewers deep inside the tightly-knit Polynesian community in Salt Lake City, Utah. With unprecedented access and shot over a four-year time period, the film intimately portrays four young Polynesian men striving to overcome gang violence and near poverty through American football. Viewed as the \"salvation\" for their families, these young players reveal the culture clash they experience as they transform out of their adolescence and into the high stakes world of collegiate recruiting and rigors of societal expectations."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP133_holly",
+      "emotion": "pride",
+      "dialogue": "and football just happens to be the best way for us to do that.  Whoo hoo hoo!  Man: There's a lot of pride in our culture,  you know, letting people know that they come from  a... a great family",
+      "target_person": "Man",
+      "target_gender": "male",
+      "cause_raw": "representing a great family",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP134_holly",
+      "emotion": "pride",
+      "dialogue": "He will screw up his scholarship for you.  Do... do you realize that?  I want to be the proud Mom  who goes in and checks in at the ticket box  and is like, \"My son is playing today.\"",
+      "target_person": "Mom",
+      "target_gender": "female",
+      "cause_raw": "son's sports achievement",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP135_holly",
+      "emotion": "pride",
+      "dialogue": "your little brother's gonna do.\"  That's why I was so mad at myself.  Oh, I'm so proud of you.  Oh.  Woman: Vita!",
+      "target_person": "Vita",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

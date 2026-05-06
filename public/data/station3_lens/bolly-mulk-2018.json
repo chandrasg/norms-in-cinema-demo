@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "526090",
+    "title": "Mulk",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2ylI1irPUIn0sz0f8I3Z2QtbJ24.jpg",
+    "overview": "The youngest son of a Muslim family settled in Benaras gets involved in terrorist activities, leading to a bomb blast massacre. His actions have an adverse effect on the family who are left to defend themselves as people who are innocent and not anti-nationals."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 3
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2681_bolly",
+      "emotion": "pride",
+      "dialogue": "Come back home. - Yes, son. She's right, please return home. All of you should be proud of me. You will feel proud when you see me in His abode. I will stand proudly besides Him.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "standing beside God",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2682_bolly",
+      "emotion": "pride",
+      "dialogue": "She's right, please return home. All of you should be proud of me. You will feel proud when you see me in His abode. I will stand proudly besides Him. Goodbye.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "standing beside God",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2683_bolly",
+      "emotion": "pride",
+      "dialogue": "All of you should be proud of me. You will feel proud when you see me in His abode. I will stand proudly besides Him. Goodbye. Shahid! - Shahid.",
+      "target_person": "Shahid",
+      "target_gender": "male",
+      "cause_raw": "standing beside God",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2684_bolly",
+      "emotion": "pride",
+      "dialogue": "you would've known how many Muslims are terrorists and how many of them have made our country proud. I can tell you the names, but it is not my job.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "77123",
+    "title": "A Royal Scandal",
+    "year": "1945",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/cv25KxImscW0OoyO6Qju6DniveP.jpg",
+    "overview": "Catherine the Great falls in love with an army officer who is plotting against her."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS400_holly",
+      "emotion": "shame",
+      "dialogue": "Those are very affectionate words indeed, Anna, but er... after all, you do want to see your mother, don't you? Your dear little mother?  after all, you do want to see your mother, don't you? Your dear little mother?  - Not particularly, Your Majesty. - You ought to be ashamed of yourself!  What kind of a girl are you?  I generously offer you a chance to go home and see your dear little mother... - Have I been mistaken in you all this time? - But... Anna, you're going home and see your dear little mother.",
+      "target_person": "Anna",
+      "target_gender": "female",
+      "cause_raw": "not wanting to see her mother",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS401_holly",
+      "emotion": "shame",
+      "dialogue": "Now, why should you want to begrudge me that?  Have I said anything when, again and again, you ate yourself into the gout?  Really, Nicolai. You ought to be ashamed of yourself.  What's this? It's Alexei's handwriting.  Yes, Your Majesty. Edict No.52.",
+      "target_person": "Nicolai",
+      "target_gender": "male",
+      "cause_raw": "overeating",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS402_holly",
+      "emotion": "shame",
+      "dialogue": "- Now I find out you tricked me! - Shut up!  - You swindled me! - Shut up!  You ought to be ashamed! I put you on a pedestal and you put me in a trash basket!  It's too much for any man!  General Chernoff!",
+      "target_person": "General Chernoff",
+      "target_gender": "male",
+      "cause_raw": "trickery and swindling",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WS403_holly",
+      "emotion": "shame",
+      "dialogue": "I never did it in my life.  Well, there's always a first time for everything. I found that out.  I'll never forget the humiliation and the shame.  And yet, a strange thing happened.  In the midst of all my terror and all the horror,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS404_holly",
+      "emotion": "shame",
+      "dialogue": "And I mean the season, not the thing which gives a bounce.  When Your Majesty smiled at the crowd,  it was putting to shame the smile of the Mona Lisa.  There is old saying: \"See Naples and die.\"  I say: \"See Catherine and live.\"",
+      "target_person": "Catherine",
+      "target_gender": "female",
+      "cause_raw": "not living up to expectations",
+      "theme_label": "Negligence"
+    }
+  ]
+}

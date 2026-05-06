@@ -1,0 +1,103 @@
+{
+  "film": {
+    "id": "15577",
+    "title": "Crossing Over",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/6A4WdvbWHJoIN4Y9Q5HXG8R1VYV.jpg",
+    "overview": "Immigrants from around the world enter Los Angeles every day, with hopeful visions of a better life, but little notion of what that life may cost. Their desperate scenarios test the humanity of immigration enforcement officers. In Crossing Over, writer-director Wayne Kramer explores the allure of the American dream, and the reality that immigrants find – and create -- in 21st century L.A."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 3
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1423_holly",
+      "emotion": "shame",
+      "dialogue": "Most of you haven't gone to Shul since your bar mitzvahs.  But first thing you do when you come over here is play the Jew card.  Haven't you got any shame?  Ouch. That's pretty... Oh. Hello?  Oh. Hello?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "using religion for personal gain",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "WS1424_holly",
+      "emotion": "shame",
+      "dialogue": "but he was being pressured by our father.  We both were. He poisoned Farid's mind  with this talk about the shame that we brought on our family,  because of her. But he never... he never intended for this to happen.  he never intended for this to happen.",
+      "target_person": "Farid",
+      "target_gender": "male",
+      "cause_raw": "bringing shame to family",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1425_holly",
+      "emotion": "shame",
+      "dialogue": "# Through this night #  You should have come to me, God damn it.  I was ashamed.  Ashamed of myself.  My family.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "self-shame due to personal and family issues",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1426_holly",
+      "emotion": "shame",
+      "dialogue": "You should have come to me, God damn it.  I was ashamed.  Ashamed of myself.  My family.  What have you told him? What are you doing?",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "self-shame due to personal actions",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP2515_holly",
+      "emotion": "pride",
+      "dialogue": "For my dad's nationalization party?  Max, it's an important thing in my culture  to make my father proud.  You know they've been wanting to meet you.  I give you my word, they're not as scary",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "making father proud",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP2516_holly",
+      "emotion": "pride",
+      "dialogue": "We won't have to skulk around anymore.  Skulking's fine with me.  I'm not exactly proud of this arrangement.  I don't want an arrangement.  - Cole... - Just listen to me.",
+      "target_person": "Cole",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2517_holly",
+      "emotion": "pride",
+      "dialogue": "And I don't see how the f**k that's gonna happen now, you know?  You're either gonna die here, or you're going away for murder.  You have done your parents proud.  It wasn't supposed to be like this.  They told me no one get hurt.",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

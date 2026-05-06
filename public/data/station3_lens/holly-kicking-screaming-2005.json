@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "9981",
+    "title": "Kicking & Screaming",
+    "year": "2005",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/4erPZ5V0yzNXRB2IcypOACMEgOA.jpg",
+    "overview": "Phil Weston has been unathletic his entire life. In college he failed at every sport that he tried out for. It looks like his 10-year old son, Sam, is following in his footsteps. But when Phil's hyper-competitive dad benches Sam, Phil decides to transfer his son to a new team which needs a coach. Phil steps in to be the temporary coach and immediately begins to butt heads with his dad over this new competition in their lives."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1191_holly",
+      "emotion": "pride",
+      "dialogue": "Um, tomatoes, tomatoes. You know.  Baby.  One year later, on the proudest day of my life,  he was right there by my side.  There he is, your grandson, Sam.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "birth of grandson",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1192_holly",
+      "emotion": "pride",
+      "dialogue": "We'll see you back at the house, Dad.  You played great, Son. You played great.  I'm proud of you.  Come on, buddy.  Hi, you guys.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "son's great performance",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP1193_holly",
+      "emotion": "pride",
+      "dialogue": "Pick up that piece of trash, Tom.  Tuck in your shirt!  What are you doing? Have a sense of pride, huh?  In fact, why don't you take a lap?  Go and run a lap! I'm timing you.",
+      "target_person": "Tom",
+      "target_gender": "male",
+      "cause_raw": "maintaining cleanliness and personal appearance",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP1194_holly",
+      "emotion": "pride",
+      "dialogue": "I don't say this enough  but you really stepped up.  I'm proud of you, Son.  I appreciate that.  The real Pelé ball.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son stepping up",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "14193",
+    "title": "Tashan",
+    "year": "2008",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/h5GHlLJLan8eFFpBazIMP4iD0Rg.jpg",
+    "overview": "Jeetendra Kumar Makwana is employed full-time at a Call Center and works part-time teaching English. He is recruited by an attractive young woman, Pooja, to teach her Hinglish-speaking boss, Bhaiyaji, English. Jeetendra agrees to do so, falls in love with Pooja, and joins forces with her to steal a bag containing 25 Crore Rupees in cash. He will soon find out that Bhaiyaji is a hoodlum and extortionist known to the Police as Lakhan Singh."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4356_bolly",
+      "emotion": "shame",
+      "dialogue": "Dhanpat! - Yup..Note down this dimwit's name and address. Later tonight, we'll teach him a lesson or two in private. Don't you have any shame, acting in front of these losers? My mother told me to. That mother of yours will rest in peace....only after she makes you a heroine.",
+      "target_person": "Dhanpat",
+      "target_gender": "male",
+      "cause_raw": "Acting in front of others",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4357_bolly",
+      "emotion": "shame",
+      "dialogue": "Every state is ecstasy, not just a fantasy Grey is the life that we have led, our fury can burn the sun dead Shameful and shameless have we been Innocence untouched and still keen Alexander's fatal arrow have we evaded",
+      "target_person": "society",
+      "target_gender": "unclear",
+      "cause_raw": "lack of innocence and moral values",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4358_bolly",
+      "emotion": "shame",
+      "dialogue": "You are over critical Please.. help!! Shameless woman, I'll teach such a lesson that..No matter how shameless a woman is, a lady's honor is still honor. This is none of your business Bachchan. And she does not have any honor whatsoever, she's a bloody b***h.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being shameless and dishonorable",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p2403_bolly",
+      "emotion": "pride",
+      "dialogue": "Whoo.. hoo! Going to work for Bhaiyyaji is like....like telling a boy who plays cricket on....the streets to join the world cup team. What Amitab Bachchan is to the people of Allahabad..Bhaiyyaji is to us, natives of Kanpur. They call him the pride of Kanpur. They say Bhaiyyaji made his beginnings right here in Chaman Ganj. Bhaiyyaji used to be a rickshaw puller.",
+      "target_person": "Bhaiyyaji",
+      "target_gender": "male",
+      "cause_raw": "personal success and growth",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

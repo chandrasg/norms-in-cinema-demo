@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "304701",
+    "title": "Haathi Mere Saathi",
+    "year": "1971",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/nCRXU6bAmUv3ebwlmWwu05sjAFX.jpg",
+    "overview": "Raju becomes very attached to his four elephants after they save his life. His wife, however, fears for her child and tells him that he must choose between the animals and his family."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2276_bolly",
+      "emotion": "shame",
+      "dialogue": "Do you think I'm my son's enemy? Yes, you are his enemy! Is this how you treat my child? Aren't you ashamed to beat her? I could kill her today! Stop it!",
+      "target_person": "son's mother",
+      "target_gender": "female",
+      "cause_raw": "physical abuse",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "p1176_bolly",
+      "emotion": "pride",
+      "dialogue": "Sit or leave. - No, Daddy. We are fortunate that you came to our house. I wanted to come earlier but whenever I decided...My false pride bound my feet in chains. And I never made it. But today my loneliness convinced me. Become a great man before a rich man.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "overcoming false pride and loneliness",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1177_bolly",
+      "emotion": "pride",
+      "dialogue": "Stop it! You seem to have turned into an animal with those elephants! Yes, I've turned an animal! if you so proud of being human...get the hell out of here and take your daughter too! Tanu, I'm not going to let you stay here for another minute. I got my daughter married to him. I didn't sell my self-respect!",
+      "target_person": "father-in-law",
+      "target_gender": "male",
+      "cause_raw": "maintaining self-respect",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1178_bolly",
+      "emotion": "pride",
+      "dialogue": "Today Raju is angry. Tomorrow he will cool down. And come for you. - if he doesn't. . ? I will swallow my pride and come to drop you back. Come, my dear. Let's go. Move aside. My daughter won't stay here as long as you are here.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

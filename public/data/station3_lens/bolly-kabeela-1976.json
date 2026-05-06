@@ -1,0 +1,167 @@
+{
+  "film": {
+    "id": "509743",
+    "title": "Kabeela",
+    "year": "1976",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ixzbiNWaZokva3svYWRDDythTEt.jpg",
+    "overview": "A young woman takes refuge in a gypsy camp after her abduction and the death of her father. She is shattered when she comes to know that her abductor is her lover, who is a gypsy himself."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 5
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2878_bolly",
+      "emotion": "shame",
+      "dialogue": "Sardar, his silence speaks about his guilt. And according to the law of the tribe the punishment is death. I am ashamed that the criminal is my own father. But my relation with the tribe is far more great and close. So I demand death punishment from the tribe....to my deceitful father.",
+      "target_person": "Sardar",
+      "target_gender": "male",
+      "cause_raw": "deceit/crime",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2879_bolly",
+      "emotion": "shame",
+      "dialogue": "Father! - Lala, see this one more has come. Even he had to come just now? What? - Nothing! -Father! Are you ashamed to call me your uncle? Lala, is this your sister's son? Yes! Yes! He is my youngest sister's son.",
+      "target_person": "nephew",
+      "target_gender": "male",
+      "cause_raw": "being a burden",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2880_bolly",
+      "emotion": "shame",
+      "dialogue": "Do I look like your sister? Did I say like this? My dear, you are my mother. Don't you feel ashamed to talk like this....in front of another woman? Who is she? How do I know? My name is Bijlee!",
+      "target_person": "speaker 1",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2881_bolly",
+      "emotion": "shame",
+      "dialogue": "Take it! My dear why o you hesitate to take the money....for your efforts? You shameless, you were strong enough....to bring me till here. Now why do your hands shiver to take your award? Take this money that is an award for your efforts....and go and offer them at your mother's feet.",
+      "target_person": "character being helped",
+      "target_gender": "unclear",
+      "cause_raw": "accepting money for help",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2882_bolly",
+      "emotion": "shame",
+      "dialogue": "What? - That was his last wish. He wanted to be free of your responsibility....by this marriage. Are you not ashamed of talking like this? You are just like my father. No! No! Who says that I am your father's age?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being old",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2883_bolly",
+      "emotion": "shame",
+      "dialogue": "But how can I marry her? What, does she wish to marry you? - Then what? Shameless girl! She said that this was....her father's last wish too. Her father has not even rested in peace....and this girl is in a hurry to marry. Lala, what nonsense are you blabbering?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "wanting to marry soon after her father's death",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2884_bolly",
+      "emotion": "shame",
+      "dialogue": "Her father has not even rested in peace....and this girl is in a hurry to marry. Lala, what nonsense are you blabbering? Are you not ashamed to accuse an innocent girl? Listen! This girl is trying to turn the tables on me. Lala, you are guilty.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "accused of wanting to marry soon after her father's death",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2885_bolly",
+      "emotion": "shame",
+      "dialogue": "I am telling you the truth. Lala's conscience is guilty and has an evil eye. Shoha, are you not ashamed of talking like this....about Lala, who is such a respected man? Yes that is true! Burt if she would have had a little shame then....she would not have spent the night with those dacoits.",
+      "target_person": "Shoha",
+      "target_gender": "female",
+      "cause_raw": "spreading rumors about a respected man",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2886_bolly",
+      "emotion": "shame",
+      "dialogue": "Shoha, are you not ashamed of talking like this....about Lala, who is such a respected man? Yes that is true! Burt if she would have had a little shame then....she would not have spent the night with those dacoits. Be afraid of God when you falsely accuse an innocent girl. Uncle Girdhari, the dacoits forcibly took me away.",
+      "target_person": "Shoha",
+      "target_gender": "female",
+      "cause_raw": "false accusation",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s2887_bolly",
+      "emotion": "shame",
+      "dialogue": "Mangal, you are accused that you have betrayed your tribe. Do you wish to say anything in your favor? I have not done any such deed for which....I will have to be shameful in front of my clan. You are accused of rescuing that girl....from Dildar's clutches for which we had already received the payment. You are accused that you have helped the police....by going against your own clan.",
+      "target_person": "Mangal",
+      "target_gender": "male",
+      "cause_raw": "Betraying his tribe and helping the police",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1485_bolly",
+      "emotion": "pride",
+      "dialogue": "My brave lad! Great my son; great! Today you have made the entire tribe very proud. Mother, after all I am your son. Hey you mother's son!",
+      "target_person": "mother",
+      "target_gender": "male",
+      "cause_raw": "bravery",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

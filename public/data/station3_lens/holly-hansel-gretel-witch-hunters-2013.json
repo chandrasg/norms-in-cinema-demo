@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "60304",
+    "title": "Hansel & Gretel: Witch Hunters",
+    "year": "2013",
+    "industry": "holly",
+    "country": "US|DE",
+    "poster_path": "/j343Rpj3WeNvP0SV80zveve70io.jpg",
+    "overview": "After getting a taste for blood as children, Hansel and Gretel have become the ultimate vigilantes, hell-bent on retribution. Now, unbeknownst to them, Hansel and Gretel have become the hunted, and must face an evil far greater than witches... their past."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 3
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP811_holly",
+      "emotion": "pride",
+      "dialogue": "Father! Wait!  Don't let her get away!  She didn't know what they would do to her... but she was too proud to run.  but she was too proud to run.  And a white witch would never use her magic against humans.",
+      "target_person": "Her",
+      "target_gender": "female",
+      "cause_raw": "not running away despite danger",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP812_holly",
+      "emotion": "pride",
+      "dialogue": "Don't let her get away!  She didn't know what they would do to her... but she was too proud to run.  but she was too proud to run.  And a white witch would never use her magic against humans.  When your father came back for her... No!",
+      "target_person": "She",
+      "target_gender": "female",
+      "cause_raw": "not running away",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2657_holly",
+      "emotion": "pride",
+      "dialogue": "Don't let her get away!  She didn't know what they would do to her,  but she was too proud to run.  And a white witch would never use her magic against humans.  When your father came back for her...",
+      "target_person": "She",
+      "target_gender": "female",
+      "cause_raw": "not running away despite danger",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "29451",
+    "title": "All That Money Can Buy",
+    "year": "1941",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/2GUZ0Yg3DKlZpc3HEF5qJz7KqD5.jpg",
+    "overview": "Farmer Jabez Stone, about to lose his land, agrees to sell his soul to the devil, known as Mr. Scratch, who gives Jabez seven years to enjoy the fruits of his sale before he collects. Over that time, Jabez pays off his debts and helps many neighboring farmers, then becomes an advocate for the upstanding Sen. Daniel Webster. When Jabez's contract with Mr. Scratch concludes, he desperately turns to Webster to represent him in a trial for his soul."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2161_holly",
+      "emotion": "pride",
+      "dialogue": "for the tree is known by his fruit.\"  And now, let us pray.  Almighty God, who has given us this good land for our heritage... save us from discord and confusion... and pride and arrogancy... and from every evil way.  and from every evil way.  - [Congregation] Amen. - Oh, Lord, hide not thy face from me... on the day when I am in trouble.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2162_holly",
+      "emotion": "pride",
+      "dialogue": "- He won't respect me anymore. - Isn't that your own fault?  My fault?  Oh, Jabez, all I want is to be proud of him.  He could be such a fine boy, if only we show him how to be.  He's my son, and I like him the way he is.",
+      "target_person": "Jabez",
+      "target_gender": "male",
+      "cause_raw": "for his son being the way he is",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2163_holly",
+      "emotion": "pride",
+      "dialogue": "It was a long journey, a hard one and a bitter one!  Yes, there is sadness in being a man.  But it is a proud thing, too... and out of the suffering and the starvation and the wrong and the right... a new thing has come: A free man.  a new thing has come: A free man.  And when the whips of the oppressors are broken... and their names forgotten and destroyed... free men will be talking and walking under a free star.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "becoming a free man",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

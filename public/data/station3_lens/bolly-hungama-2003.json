@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "21184",
+    "title": "Hungama",
+    "year": "2003",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/oLmPYAufnpoqlkfzyeWWcsVcc0F.jpg",
+    "overview": "A case of mistaken identities featuring a young woman, an electronics business owner and an aspiring musician which leads to chaotic yet hilarious situations."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2524_bolly",
+      "emotion": "shame",
+      "dialogue": "There wasn't a day when my father's knife did not taste blood! His father was a butcher? - You are insulting me! You're still here? Shameless man, go away I'll go away! But I will surely come back! Listen... - What?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being a butcher's son",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2525_bolly",
+      "emotion": "shame",
+      "dialogue": "I request you one last time, sir. Please don't stop me give my Anjali to me with your blessings, Don't you feel any shame at all? A boy and a girl love each other... so what's there to be ashamed about? A girl? - You think she's an old hag?",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "loving a girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2526_bolly",
+      "emotion": "shame",
+      "dialogue": "give my Anjali to me with your blessings, Don't you feel any shame at all? A boy and a girl love each other... so what's there to be ashamed about? A girl? - You think she's an old hag? I get it! You've fallen in love with Anjali's riches!",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "accused of being interested in girl's wealth",
+      "theme_label": "False Accusation"
+    }
+  ]
+}

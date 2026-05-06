@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "117368",
+    "title": "Tehzeeb",
+    "year": "2003",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gm7HCdPnNCVy049dVGn0AIENWgd.jpg",
+    "overview": "Tehzeeb (Hindi: तह्ज़ीब, Urdu: تہزیب, English: Etiquette) is a 2003 Indian Bollywood film directed by Khalid Mohammed. It premiered on 21 November 2003. The film stars Shabana Azmi, Urmila Matondkar, Diya Mirza, Arjun Rampal and Rishi Kapoor in a special appearance. Urmila and Shabana were praised for their roles."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4370_bolly",
+      "emotion": "shame",
+      "dialogue": "Nazo, why this spread-out?  Mom will come any minute. What are you doing! What's shameful?  - A bird's nest. Mom won't like it.  - Bad hair day today! I'm fine the way I am;  whether anyone likes it or not.",
+      "target_person": "Nazo",
+      "target_gender": "female",
+      "cause_raw": "Not conforming to beauty standards",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4371_bolly",
+      "emotion": "shame",
+      "dialogue": "The poor guy must not  be having money for an envelope. How else could he have  expressed his feelings? Don't you feel  ashamed to do such things? I used to feel a little,  in my childhood. You used to read my letters too?",
+      "target_person": "poor guy",
+      "target_gender": "male",
+      "cause_raw": "expressing feelings in an unconventional way",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4372_bolly",
+      "emotion": "shame",
+      "dialogue": "My ma-in-law's going nuts...Go on If you're here to ask for forgiveness,  that is not necessary One forgives those who are  ashamed at their mistake But you will never improve I have made no mistake. Nor have I  come to ask for forgiveness",
+      "target_person": "daughter-in-law",
+      "target_gender": "female",
+      "cause_raw": "not admitting mistake and asking for forgiveness",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p2413_bolly",
+      "emotion": "pride",
+      "dialogue": "Only for the sake of your  name and fame... that's it! All right. Even if that is true,  what's wrong with that? Had your father got all this fame,  you'd have been proud of him So why hold it against your mother?  Only because she's a woman? I agree, I used to be very busy.  But is that such a big crime?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "mother's fame",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p2414_bolly",
+      "emotion": "pride",
+      "dialogue": "What have you done...?What you saw was right...\"but the conclusion you reached,  was wrong\" The truth is that it wasn't me  or my fame or my admirers...that were responsible  for his death It was his pride and his sense of  helplessness that killed him Life didn't give him  the position he deserved And he couldn't take the defeat",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

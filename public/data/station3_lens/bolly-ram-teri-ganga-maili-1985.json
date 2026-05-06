@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "173735",
+    "title": "Ram Teri Ganga Maili",
+    "year": "1985",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gTE72sR6uP0IX3dB9q0aT4FnotL.jpg",
+    "overview": "Ganga Singh lives near Gangotri with her brother, Karam. One day she comes to the assistance of a young man, Narendra Sahay, who has come with a group of Calcutta-based college students to study the source of the holy river Ganga, and to get some holy water for his wheelchair-bound paternal grandma. Both are attracted to each other, and on the next Puran Mashi get married, and spend the night in close intimacy. Narendra leaves, but promises Ganga that he will be back soon. Months go by, but he does not return. She gives birth to a son, and as soon she is able to, she starts her journey to Alipor, Calcutta, to confront Narendra and ensure a better future for their son."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1608_bolly",
+      "emotion": "shame",
+      "dialogue": "Sir...Did you witness the honesty of the mountain people? You consider yourself educated? Spreading the filth of the cities here! Aren't you ashamed? Let's go! - Why did you leave? - It's not their fault?",
+      "target_person": "educated person",
+      "target_gender": "unclear",
+      "cause_raw": "spreading urban influence and disrupting local culture",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1609_bolly",
+      "emotion": "shame",
+      "dialogue": "I know where she must have gone! Driver, come on! - How much did you get? - Rupees 7 and 10 paise. Give. Rascals come here to atone and are ashamed to give alms! Give! Go and sit with her!",
+      "target_person": "worshipper",
+      "target_gender": "unclear",
+      "cause_raw": "not giving enough alms",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1610_bolly",
+      "emotion": "shame",
+      "dialogue": "That was Draupadi to save whom Krishna appeared. Nobody comes to a whore's aid! I've gifted my shame to my Mohan long ago. Don't act coy under the garb of clothes! Scream, yell.",
+      "target_person": "Draupadi",
+      "target_gender": "female",
+      "cause_raw": "Being a prostitute",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s1611_bolly",
+      "emotion": "shame",
+      "dialogue": "Why did he buy her from Benares and bring her here? Why did he keep her in his orchard as his mistress? Shame on you! You lust for a girl the age of your daughter! Radha is your daughter. How would you feel somebody treated her so?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "lust for a young girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1612_bolly",
+      "emotion": "shame",
+      "dialogue": "Radha is your daughter. How would you feel somebody treated her so? Shameless! Curb your tongue! Don't make the mistake of raising your hand! Or I won't maintain the distance between our age.",
+      "target_person": "Radha's father",
+      "target_gender": "male",
+      "cause_raw": "disrespecting his daughter",
+      "theme_label": "Disrespect"
+    }
+  ]
+}

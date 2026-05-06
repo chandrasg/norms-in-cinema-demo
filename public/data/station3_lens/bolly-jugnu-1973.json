@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "121129",
+    "title": "Jugnu",
+    "year": "1973",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5lZiuFFOABRGSurWg5S8OsZ8VST.jpg",
+    "overview": "Ashok Roy, a wealthy and respected member of his community, moonlights as a disguise-wearing philanthropist while his alter ego, Jugnu, robs others to finance his orphanage."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2811_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm enjoying myself like a mad woman What did you give me to drink? This is fun! My love, I feel so ashamed The world has stopped to stare This is the time to begin telling our story...\"how I began enjoying myself like a mad woman\"",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately in public",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2812_bolly",
+      "emotion": "shame",
+      "dialogue": "When you smile, your teeth look like pomegranates from Kandahar. When I touch you, I'm electrified! Aren't you ashamed? The other day you came home posing as an electrician. Wonder what you blurted in Punjabi. - I'm saying it all over again! Ever since I've glimpsed those legs, the colour of white marble...ever since I looked into those bright eyes, I have been yours!",
+      "target_person": "character being flirted with",
+      "target_gender": "female",
+      "cause_raw": "inappropriate flirting",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2813_bolly",
+      "emotion": "shame",
+      "dialogue": "Enough! I want to hear no more. Not that I wanted to hear all that. I was quite ashamed! But I liked what I heard. He told me he'd take me around Kabul and treat me to Afghan delicacies. He wanted to give me gold and silver! And a turquoise!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "boasting about receiving gifts and attention",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

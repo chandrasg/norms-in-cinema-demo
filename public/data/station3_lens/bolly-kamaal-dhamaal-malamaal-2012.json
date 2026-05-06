@@ -1,0 +1,108 @@
+{
+  "film": {
+    "id": "144028",
+    "title": "Kamaal Dhamaal Malamaal",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/f4wB6oEeTZ51jGmTAlBkFD9cKRU.jpg",
+    "overview": "Jhonny is often fooled by villagers as he is fit for nothing. He is in love with Maria but is often targeted by her brothers. Then enters Sam, who will be like a Samaritain to Jhonny's family."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2953_bolly",
+      "emotion": "shame",
+      "dialogue": "First time I saw him reading a newspaper. johnny, why don't you help papa? Mother, aren't you ashamed....of asking the future billionaire to dig holes? Who will make you a billionaire if you don't work? Papa, if I tell you the secret, you will jump with joy.",
+      "target_person": "Johnny",
+      "target_gender": "male",
+      "cause_raw": "Laziness and not helping in work",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2954_bolly",
+      "emotion": "shame",
+      "dialogue": "Thank God. The first bus tomorrow leaves at 6:30. You..You haven't left yet. Don't you have any shame? Lowly man. You will fall. -l see. Don't worry about me.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "overstaying his welcome",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2955_bolly",
+      "emotion": "shame",
+      "dialogue": "Papa.. -And I've been sleeping peacefully....only after kallu arrived. And you speak so lowly about an angel. Aren't you ashamed? -Why don't you understand? He's an imposter. A fraud. johnny, don't use such words for your brother.",
+      "target_person": "Johnny",
+      "target_gender": "male",
+      "cause_raw": "accusing his brother falsely",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s2956_bolly",
+      "emotion": "shame",
+      "dialogue": "You're right. This woman is your mother. If I hadn't married her....then a shameless like you wouldn't have been born. You're accusing your father who taught you to walk. Get out of my house!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disrespecting father",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2957_bolly",
+      "emotion": "shame",
+      "dialogue": "But I didn't know that he'll misunderstand it. What? Bulbul aunty, you should be ashamed. Two people love each other what's there to be ashamed? Can't a priest fall in love?",
+      "target_person": "Bulbul aunty",
+      "target_gender": "female",
+      "cause_raw": "misunderstanding a priest's love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2958_bolly",
+      "emotion": "shame",
+      "dialogue": "What? Bulbul aunty, you should be ashamed. Two people love each other what's there to be ashamed? Can't a priest fall in love? He has a heart too.",
+      "target_person": "Bulbul aunty",
+      "target_gender": "female",
+      "cause_raw": "objecting to a priest's love affair",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2959_bolly",
+      "emotion": "shame",
+      "dialogue": "johnny's bad luck for everyone. He made a fool out of everyone. Everyone beat him to a pulp, but he has no shame at all. And now. Now he wants to entice my innocent daughter.",
+      "target_person": "Johnny",
+      "target_gender": "male",
+      "cause_raw": "behaving foolishly and trying to entice a girl",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "463063",
+    "title": "Mubarakan",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cSqLPtE4fkn2wrpxlw5xXraHDNH.jpg",
+    "overview": "Singleton Kartar Singh is left with the responsibility of raising his two orphaned nephews. He asks his brother in Punjab to raise Charan and his sister in London to raise Karan. When the twins cross continents, they leave behind a trail of confusion."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3642_bolly",
+      "emotion": "shame",
+      "dialogue": "People like you......who don't have any manners? I see... and your son's very well behaved, isn't he? Shameless...Ballu, enough... stop it. - What are you? What are you? Are you going to teach us manners?",
+      "target_person": "Ballu",
+      "target_gender": "male",
+      "cause_raw": "lack of manners",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3643_bolly",
+      "emotion": "shame",
+      "dialogue": "Brother's can do anything for their sister's husband. And you're taunting him... insulting him. Trying to intimidate him... aren't you ashamed? Aunty, please...What please? He was just a kid, when our parents...He never had to ask for anything twice.",
+      "target_person": "sister's husband",
+      "target_gender": "male",
+      "cause_raw": "being insulted and intimidated",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3644_bolly",
+      "emotion": "shame",
+      "dialogue": "I even tried calling you... but you don't even answer my call. I... - No, please...don't...Beat him... give him a few blows on my behalf too, Sweety. He's so shameless. Now I get the entire story. Listen to him first. Now I know what he's been doing here for the last six months.",
+      "target_person": "Unnamed Male Character",
+      "target_gender": "male",
+      "cause_raw": "Deception/Not being truthful",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3645_bolly",
+      "emotion": "shame",
+      "dialogue": "Everything will be fine. Is this what you call fine? Didn't you feel ashamed? You didn't even think about me......before going ahead and doing something like this. Thanks to Karan for informing me of time.",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "Betrayal or dishonesty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p1939_bolly",
+      "emotion": "pride",
+      "dialogue": "I mean...you don't like them. Are you crazy? They are such great people. I am really proud of you, brother. Really proud. Leave that. You must get here by 20th-22nd.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

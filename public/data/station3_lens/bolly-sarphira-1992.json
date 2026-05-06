@@ -1,0 +1,111 @@
+{
+  "film": {
+    "id": "107595",
+    "title": "Sarphira",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/lyLwO4xq6oEAj23UQWGQQqARz7I.jpg",
+    "overview": "Judge D.K. Sinha is an honest and hard-working man. He lives with his wife, and two sons, Rajkishan and Suresh. While he is confident that Rajkishan is honest and diligent, he is clearly disappointed with Suresh, who is not only dishonest, but has a violent temper, which gets him into trouble with the police. Imagine the shock the Sinha family gets when they come to know that Suresh has been arrested for murder, and the case has been assigned to Suresh's dad for disposal."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "False Accusation",
+      "count": 3
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1924_bolly",
+      "emotion": "shame",
+      "dialogue": "Why would he worry? Don't defend him, Kanta! Explain to him! While his brothers have made me proud, he has shamed me. Then daddy.. - Have you ever thought? That you are also a member of this house!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not living up to family expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1925_bolly",
+      "emotion": "shame",
+      "dialogue": "People don't even know where they should romance! What is going on? Aren't you ashamed of romancing in broad daylight? Constable, why are you disturbing us? Am I disturbing you or you are disturbing all of us?",
+      "target_person": "couple",
+      "target_gender": "unclear",
+      "cause_raw": "public display of affection",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1926_bolly",
+      "emotion": "shame",
+      "dialogue": "Prema hasn't come for the past 3-4 days. I think she's unwell. Neetu, what's this? The proof of your insolence and shamelessness! What are you saying? - The truth! This necklace is worth 4500 rupees and not 50 rupees!",
+      "target_person": "Neetu",
+      "target_gender": "female",
+      "cause_raw": "dishonesty and theft",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1927_bolly",
+      "emotion": "shame",
+      "dialogue": "you have now started dancing at rich people's party! And to earn money you sleep with them! Neetu, aren't you ashamed of accusing me of this filthy deed! You should be ashamed! Because you are leading a shameful life, not me!",
+      "target_person": "Neetu",
+      "target_gender": "female",
+      "cause_raw": "Accused of sexual promiscuity for money",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s1928_bolly",
+      "emotion": "shame",
+      "dialogue": "And to earn money you sleep with them! Neetu, aren't you ashamed of accusing me of this filthy deed! You should be ashamed! Because you are leading a shameful life, not me! I am leading this life so that you can survive.",
+      "target_person": "Neetu",
+      "target_gender": "female",
+      "cause_raw": "Accused of prostitution",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s1929_bolly",
+      "emotion": "shame",
+      "dialogue": "Neetu, aren't you ashamed of accusing me of this filthy deed! You should be ashamed! Because you are leading a shameful life, not me! I am leading this life so that you can survive. So that you can study and achieve something in life!",
+      "target_person": "Neetu",
+      "target_gender": "female",
+      "cause_raw": "Accusing someone falsely",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "p1014_bolly",
+      "emotion": "pride",
+      "dialogue": "Why would he worry? Don't defend him, Kanta! Explain to him! While his brothers have made me proud, he has shamed me. Then daddy.. - Have you ever thought? That you are also a member of this house!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "sons' achievements",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

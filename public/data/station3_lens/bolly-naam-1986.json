@@ -1,0 +1,101 @@
+{
+  "film": {
+    "id": "232820",
+    "title": "Naam",
+    "year": "1986",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/uqmVLT9dXl1Nwn7I6dp8DmTo3kL.jpg",
+    "overview": "A widow raises two sons, one of whom is not her biological child (unbeknownst to him). Her biological child leaves India to work in Dubai, but eventually finds himself in the criminal underworld."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3725_bolly",
+      "emotion": "shame",
+      "dialogue": "This boy is lying. He's lying to his mother. He's not even ashamed of showing us a forged mark-sheet. Mother! What are you doing? I'll tell you what I am doing.",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "lying and forgery",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3726_bolly",
+      "emotion": "shame",
+      "dialogue": "What's the matter? I want to tell you something. But I fear you might take me to be shameless. When a person becomes nude with honesty and truth....people don't look at his body....but his soul. Tell me.",
+      "target_person": "person",
+      "target_gender": "unclear",
+      "cause_raw": "expressing personal feelings",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3727_bolly",
+      "emotion": "shame",
+      "dialogue": "So don't pretend to have a right over me. Yes.. You can't see all this? Are you ashamed of it? If it makes you hate yourself, then switch it off yourself. Shut up!",
+      "target_person": "receiver of the message",
+      "target_gender": "unclear",
+      "cause_raw": "not taking responsibility",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3728_bolly",
+      "emotion": "shame",
+      "dialogue": "Why did you do all this? Tell me! Why did you do all this? Aren't you ashamed? Didn't you think of mother? What will mother go through?",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "causing distress to mother",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "p1974_bolly",
+      "emotion": "pride",
+      "dialogue": "O enemy! Good that you broke my heart. It was very arrogant. I was proud of my honesty and dignity. I am at your feet. My pride is broken . O enemy! What wrong have I done to you?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "honesty and dignity",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p1975_bolly",
+      "emotion": "pride",
+      "dialogue": "Good that you broke my heart. It was very arrogant. I was proud of my honesty and dignity. I am at your feet. My pride is broken . O enemy! What wrong have I done to you? O enemy!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "personal honesty and dignity",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

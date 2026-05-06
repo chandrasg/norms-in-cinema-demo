@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "610417",
+    "title": "Adhikar",
+    "year": "1986",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/aJCyXt97CZ8rz9xu5M7MFdD2f4l.jpg",
+    "overview": "Vishal and Jyoti come from different backgrounds, but fall in love, and in spite of oppositions from both the couples' sides, are married. After marriage, they settle down to some wedded bliss, but misunderstandings create problems. These problems persist even when Jyoti gives birth to healthy baby boy, Lucky (Master Lucky). Jyoti and Vishal also own a former winning racehorse, and Vishal is a jockey, who used to ride him. Due to failing health, Vishal has been advised by his doctor not to ride anymore. Lucky grows up and his parents separate, and Lucky lives with his dad. He is brought up to think that his mom has passed away. So when Jyoti re-enters his life, she is introduced to him as \"aunty\". Will Lucky ever come to know of his real mother? Will Vishal ever to able to ride again? Will Jyoti and Vishal patch up their differences in the interest of their son?"
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2114_bolly",
+      "emotion": "pride",
+      "dialogue": "She wants to snatch my son from me. What will happen now? -Nothing. If Jyothi is proud of her wealth, I will also appoint a very......big lawyer for the sake of my Lucky. No. Give tomorrow's date. Ok, send him in.",
+      "target_person": "Jyothi",
+      "target_gender": "female",
+      "cause_raw": "wealth",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2115_bolly",
+      "emotion": "pride",
+      "dialogue": "Lawyer's man had come, son. - I know, aunt..I have to pay money to him. This wealth is also very harsh. How quickly it wipes away the pride and prestige of a man? One clay, you threw away your job with me..But it is ok. I can forget all these and give you money......on one condition that you become my jockey. That is not under my control now, sir-Why?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2116_bolly",
+      "emotion": "pride",
+      "dialogue": "See, son. I can do anything for your happiness..but..Have I ever refused anything you have said till today? Then why are you refusing today. Tell me, Papa. If you become the champion again, I can......proudly say that I am the son of Champion Jockey Vishal. ls there any dad who can dare compete with my champion dad? Tell me, Papa. Will you do riding again? For my sake...\"if you wish this, I will take up this challenge too.\"",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "father's sports achievement",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

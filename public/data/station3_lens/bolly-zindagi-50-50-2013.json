@@ -1,0 +1,103 @@
+{
+  "film": {
+    "id": "202796",
+    "title": "Zindagi 50 50",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/s0TqNw7t11MlCmngazu7Ci6OODD.jpg",
+    "overview": "Zindagi 50 50 has three stories of common people's special dreams. And to fulfill those dreams they have to struggle hard. Sometimes few get it easily, where most of them must struggle very hard with lots of sacrifice, values, principals to achieve their dreams. Among them only few get it after long struggle time where most of them have to loose everything with a failure tag."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4701_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll stick it behind you and you'll go flying to Bandra. Use little force. I just want to reach Andheri. Shameless! You couldn't handle your wife but......you want to tease others' wives. Because of your such deeds your wife left you.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "infidelity and inability to maintain marital relationship",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s4702_bolly",
+      "emotion": "shame",
+      "dialogue": "Why do you...Shut up. Don't talk to me today. Were you ashamed to do sit-ups in public? - You just...What's my mistake? I was a little high so what...Didn't I warn you? But you don't listen to me. Don't listen.",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "public humiliation due to drunken behavior",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4703_bolly",
+      "emotion": "shame",
+      "dialogue": "But after all you'll be a rickshaw driver's wife. Hey, shut up. Don't you've any shame? Why are you bickering? Rupa, why do you argue with them?",
+      "target_person": "Rupa",
+      "target_gender": "female",
+      "cause_raw": "Marrying a rickshaw driver",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4704_bolly",
+      "emotion": "shame",
+      "dialogue": "it's really a bad day. That pimp shouted inside and here this prostitute...Look, sir...Show me. Will you show in public? Have you become so shameless? Sir, she's a woman. Talk to her with respect. Pimp.",
+      "target_person": "prostitute",
+      "target_gender": "female",
+      "cause_raw": "profession",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s4705_bolly",
+      "emotion": "shame",
+      "dialogue": "What? Shut up! Give me the letter of the house. Or else I'll humiliate you so much that even......your mother will be ashamed of you. Hey! What will you do? Will you tell everyone what I did with you? Go ahead.",
+      "target_person": "character being threatened",
+      "target_gender": "unclear",
+      "cause_raw": "blackmail",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4706_bolly",
+      "emotion": "shame",
+      "dialogue": "What will the industry say if I work with her? .That Vikki gets ready to work with any junior artist. it's a shame, man. If you want me to do this film......then change her. Or else I'll change. Try to understand, Naina.",
+      "target_person": "Vikki",
+      "target_gender": "male",
+      "cause_raw": "working with a less popular artist",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

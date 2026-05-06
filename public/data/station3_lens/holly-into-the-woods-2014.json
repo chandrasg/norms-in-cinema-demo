@@ -1,0 +1,149 @@
+{
+  "film": {
+    "id": "224141",
+    "title": "Into the Woods",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/6bZC6KGfCwTMmwXmrLJQhxuRjlT.jpg",
+    "overview": "In a woods filled with magic and fairy tale characters, a baker and his wife set out to end the curse put on them by their neighbor, a spiteful witch."
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 4
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Parental Pride",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS40_holly",
+      "emotion": "shame",
+      "dialogue": "♪ But I am old ♪ ♪ I am ugly ♪  - ♪ I embarrass you ♪ - No!  ♪ You are ashamed of me ♪  No!  ♪ You are ashamed ♪",
+      "target_person": "Old character",
+      "target_gender": "unclear",
+      "cause_raw": "being old and unattractive",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS41_holly",
+      "emotion": "shame",
+      "dialogue": "♪ You are ashamed of me ♪  No!  ♪ You are ashamed ♪  ♪ You don't understand ♪  I'm no longer a child. I wish to see the world.",
+      "target_person": "Character",
+      "target_gender": "female",
+      "cause_raw": "wanting independence",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WS42_holly",
+      "emotion": "shame",
+      "dialogue": "You stole and you got caught, and you did what you do.  You just ran away.  When your mother died, I was... I hated myself. I ran away from my guilt and my shame.  I hated myself. I ran away from my guilt and my shame.  And your son.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "running away from responsibilities and guilt",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS43_holly",
+      "emotion": "shame",
+      "dialogue": "You just ran away.  When your mother died, I was... I hated myself. I ran away from my guilt and my shame.  I hated myself. I ran away from my guilt and my shame.  And your son.  Yes, my son, and I'm sorry for that.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "running away from responsibilities",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS1213_holly",
+      "emotion": "shame",
+      "dialogue": "♪ But I am old ♪ ♪ I am ugly ♪  - ♪ I embarrass you ♪ - No!  ♪ You are ashamed of me ♪  No!  ♪ You are ashamed ♪",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "being old and unattractive",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1214_holly",
+      "emotion": "shame",
+      "dialogue": "♪ You are ashamed of me ♪  No!  ♪ You are ashamed ♪  ♪ You don't understand ♪  I'm no longer a child. I wish to see the world.",
+      "target_person": "Character",
+      "target_gender": "female",
+      "cause_raw": "wanting independence",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WS1215_holly",
+      "emotion": "shame",
+      "dialogue": "You stole and you got caught, and you did what you do.  You just ran away.  When your mother died, I was... I hated myself. I ran away from my guilt and my shame.  I hated myself. I ran away from my guilt and my shame.  And your son.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "running away from responsibilities and guilt",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS1216_holly",
+      "emotion": "shame",
+      "dialogue": "You just ran away.  When your mother died, I was... I hated myself. I ran away from my guilt and my shame.  I hated myself. I ran away from my guilt and my shame.  And your son.  Yes, my son, and I'm sorry for that.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "running away from responsibilities",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WP58_holly",
+      "emotion": "pride",
+      "dialogue": "Jack was reunited with his beloved cow,  and his mother could now dress in the best a golden egg could buy.  And the Baker and his wife were proud parents  of a strapping baby boy.  Thanks for the slipper!",
+      "target_person": "Baker and his wife",
+      "target_gender": "unclear",
+      "cause_raw": "having a strapping baby boy",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP59_holly",
+      "emotion": "pride",
+      "dialogue": "I think my granny and my mother would be upset with me.  Why?  They said to always make them proud.  And here I am, about to kill somebody.  Not somebody.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2208_holly",
+      "emotion": "pride",
+      "dialogue": "Jack was reunited with his beloved cow,  and his mother could now dress in the best a golden egg could buy.  And the Baker and his wife were proud parents  of a strapping baby boy.  Thanks for the slipper!",
+      "target_person": "Baker and his wife",
+      "target_gender": "unclear",
+      "cause_raw": "having a strapping baby boy",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2209_holly",
+      "emotion": "pride",
+      "dialogue": "I think my granny and my mother would be upset with me.  Why?  They said to always make them proud.  And here I am, about to kill somebody.  Not somebody.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

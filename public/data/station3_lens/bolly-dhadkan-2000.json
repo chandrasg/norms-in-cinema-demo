@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "35064",
+    "title": "Dhadkan",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/icWt3AGrkXToqWyBviHEfG7auQV.jpg",
+    "overview": "Anjali and Dev are in love with each other and plan to marry, but her family gets her married to Ram. Years later, Dev shows up to reunite with Anjali, however, she has fallen in love with Ram."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 3
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1054_bolly",
+      "emotion": "shame",
+      "dialogue": "He doesn't say anything. But this wound is hurting him. I am not ashamed at what I did. I had only fallen in love. But what happened was that... somebody deceived somebody.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "falling in love and being deceived",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1055_bolly",
+      "emotion": "shame",
+      "dialogue": "She was disheartened because she wanted a son. Then I talked and convinced her..The love, honor, affection that a daughter can give..A son can never give that. But I had forgotten this...The shame and humiliation a daughter can give...A son never gives that either. The reputation that we worked hard for years to build......which is dearer to me than life...lf you wish to crush it afoot and leave,you may do so. For a momentary dream?.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "bringing shame to family reputation",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1056_bolly",
+      "emotion": "shame",
+      "dialogue": "Just this one promise..?Let her go. I have full faith in my daughter. She will not do anything to bring us shame. Let her go. I will honor your promise.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "potential dishonorable behavior",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1057_bolly",
+      "emotion": "shame",
+      "dialogue": "Then you could've strangled yourself! You shouldn't have been unfaithful. If I wasn't aware of the shame of my parents...l would have even done that. But I must live. I will die yet live!",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1058_bolly",
+      "emotion": "shame",
+      "dialogue": "Or even think about it! No! Lies! Absolute lie! Bob can never do such a shameful deed! She must have instigated my brother! And this is going on for quite some days!",
+      "target_person": "Bob",
+      "target_gender": "male",
+      "cause_raw": "accused of a shameful deed",
+      "theme_label": "Shamelessness"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "film": {
+    "id": "8079",
+    "title": "Om Shanti Om",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/oArsQTD4bPPMtRjqr03SO9W6phF.jpg",
+    "overview": "Reincarnated 30 years after being killed in a suspicious on-set fire, a small-time actor is determined to punish the person who ignited the blaze."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 3
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 5,
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3836_bolly",
+      "emotion": "shame",
+      "dialogue": "Mukesh! Because of you this beautiful set is going to be destroyed! I am sorry! - What a shame. And I've already arranged for it to burn down! But this set will not burn alone!",
+      "target_person": "Mukesh",
+      "target_gender": "male",
+      "cause_raw": "causing destruction",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "p2056_bolly",
+      "emotion": "pride",
+      "dialogue": "Mr. Ramesh, what would you know about the worth of this vermillion? It's a gift from God. This crimson dot! Pushpa It's a crown of pride. For an indian bride! It's every woman's dream. It's ruby sheen! Oh Pushpa.",
+      "target_person": "Pushpa",
+      "target_gender": "female",
+      "cause_raw": "wearing vermillion as an Indian bride",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2057_bolly",
+      "emotion": "pride",
+      "dialogue": "Mr. Ramesh, what would you know about the worth of this vermillion? It ls a gift from God. This crimson dot! Wow It is a crown of pride, for an indian bride! Wow It ls every woman's dream, it's ruby sheen! Wow. Applause!",
+      "target_person": "Mr. Ramesh",
+      "target_gender": "male",
+      "cause_raw": "wearing vermillion as an Indian bride",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2058_bolly",
+      "emotion": "pride",
+      "dialogue": "if not that, I will try and be a better son. Yeah. I am so proud of you my son! Come on, this party and all these special guests are here for you! And get ready for a surprise!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's improvement",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2059_bolly",
+      "emotion": "pride",
+      "dialogue": "Gift from god..Gift from what? I'll  kill myself. - You'll die! - What are you doing? It's a crown of pride....pinch of this vermillion And what? It's every woman's dream, it's ruby sheen!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "wearing vermillion",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2060_bolly",
+      "emotion": "pride",
+      "dialogue": "It's a gift from God! This crimson dot. It's a gift from God! This crimson dot It's a crown of pride, for an indian bride! It's a crown of pride, for an indian bride! What's so funny?",
+      "target_person": "bride",
+      "target_gender": "female",
+      "cause_raw": "being an Indian bride",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p2061_bolly",
+      "emotion": "pride",
+      "dialogue": "It's a gift from God! This crimson dot It's a crown of pride, for an indian bride! It's a crown of pride, for an indian bride! What's so funny? What is so damn funny! What is so funny?",
+      "target_person": "bride",
+      "target_gender": "female",
+      "cause_raw": "being an Indian bride",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p2062_bolly",
+      "emotion": "pride",
+      "dialogue": "NO! Not Dolly! That girl..You're obsessed with Dolly! Which girl? - The other girl! It's a gift from God! This crimson dot. It's a crown of pride, for an indian bride! Mikey stop drinking! I think you are getting high! And Watch!",
+      "target_person": "Mikey",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2063_bolly",
+      "emotion": "pride",
+      "dialogue": "Relax! Watch now! Nobody will come, watch! It's a gift from God! This crimson dot. It's a crown of pride, for an indian bride! It's every woman's dream! It's ruby sheen! What?! Everything is fine! See?",
+      "target_person": "bride",
+      "target_gender": "female",
+      "cause_raw": "being an Indian bride",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

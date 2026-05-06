@@ -1,0 +1,111 @@
+{
+  "film": {
+    "id": "20178",
+    "title": "World's Greatest Dad",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/1ESsZLvZPIvbCPCh7CPCSnF4EeH.jpg",
+    "overview": "In the wake of a freak accident, Lance suffers the worst tragedy and the greatest opportunity of his life. He is suddenly faced with the possibility of fame, fortune and popularity, if he can only live with the knowledge of how he got there."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1459_holly",
+      "emotion": "shame",
+      "dialogue": "show signs of a serious development problem.  He belongs in a special-needs school  where he can get the proper attention and care that he requires... - What? - That's nothing to be ashamed of.  - What? - That's nothing to be ashamed of.  Sir, he's... He's not slow.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "having a development problem",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1460_holly",
+      "emotion": "shame",
+      "dialogue": "He belongs in a special-needs school  where he can get the proper attention and care that he requires... - What? - That's nothing to be ashamed of.  - What? - That's nothing to be ashamed of.  Sir, he's... He's not slow.  He's just being a pain. Give him another chance.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "being perceived as having special needs",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS1461_holly",
+      "emotion": "shame",
+      "dialogue": "- Uh, Lance, do you have questions? - No, no.  - Good. Good. - Look over here, please.  So, Lance, if you should start to talk about your son... - Mmm-hmm. ...and begin to cry... - Yeah. - Or well up... - Okay. - Just go with it. Don't be ashamed, okay?  - Okay. - Just go with it. Don't be ashamed, okay?  - Yeah. Mmm-hmm. - And if you cry, look up.",
+      "target_person": "Lance",
+      "target_gender": "male",
+      "cause_raw": "showing emotions in public",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WS1462_holly",
+      "emotion": "shame",
+      "dialogue": "- Good. Good. - Look over here, please.  So, Lance, if you should start to talk about your son... - Mmm-hmm. ...and begin to cry... - Yeah. - Or well up... - Okay. - Just go with it. Don't be ashamed, okay?  - Okay. - Just go with it. Don't be ashamed, okay?  - Yeah. Mmm-hmm. - And if you cry, look up.  - WOMAN: No, look down, please. - Oh.",
+      "target_person": "Lance",
+      "target_gender": "male",
+      "cause_raw": "showing emotions in public",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WP2564_holly",
+      "emotion": "pride",
+      "dialogue": "You Don't Know Me.  This is so beautifully written.  I just... You know, the thing is, I didn't know... I'm so proud of him.  He was a great writer.  DR DANA: Yes, this is really remarkable work.",
+      "target_person": "Unidentified speaker",
+      "target_gender": "unclear",
+      "cause_raw": "for being a great writer",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2565_holly",
+      "emotion": "pride",
+      "dialogue": "- That's amazing. - Yeah.  - Okay. We'll see you in there. - Yeah.  I'm so proud of you, lamb chop.  Thanks.  (CLAIRE CHUCKLING EXCITEDLY)",
+      "target_person": "Claire",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2566_holly",
+      "emotion": "pride",
+      "dialogue": "I almost killed myself until Kyle's note and book came out.  It saved my life.  I know he's looking down on you so proud.  Thanks, Pete.  (ALL APPLAUDING)",
+      "target_person": "Pete",
+      "target_gender": "male",
+      "cause_raw": "for saving a life with his book",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

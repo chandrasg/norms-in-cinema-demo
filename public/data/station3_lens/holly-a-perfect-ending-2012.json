@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "107257",
+    "title": "A Perfect Ending",
+    "year": "2012",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/mjwWEwE1xdbtFGCOgeXi5jvQnOU.jpg",
+    "overview": "This intimate drama follows Rebecca, a woman who has kept her sexuality a secret from her friends but chooses to reveal it to a stranger. While Rebecca's revelations may not yield the results she expects, a perfect ending is still in reach."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP413_holly",
+      "emotion": "pride",
+      "dialogue": "I was not a fan.  You totally corrupted me.  I hope you're proud of yourself  Well, I feel I deserve a glow.  It's so bad.",
+      "target_person": "second speaker",
+      "target_gender": "unclear",
+      "cause_raw": "corrupting the first speaker",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP414_holly",
+      "emotion": "pride",
+      "dialogue": "This is important.  I want her to get out.  Did it ever occur to you that maybe we do this because we like it... that we are proud of our trade that we've had opportunities?  that we are proud of our trade that we've had opportunities?  You, yes... but not Paris.",
+      "target_person": "Paris",
+      "target_gender": "male",
+      "cause_raw": "being proud of their trade",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP415_holly",
+      "emotion": "pride",
+      "dialogue": "I want her to get out.  Did it ever occur to you that maybe we do this because we like it... that we are proud of our trade that we've had opportunities?  that we are proud of our trade that we've had opportunities?  You, yes... but not Paris.  but not Paris.",
+      "target_person": "we",
+      "target_gender": "unclear",
+      "cause_raw": "being proud of their trade and opportunities they've had",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

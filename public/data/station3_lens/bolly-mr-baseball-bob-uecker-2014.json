@@ -1,0 +1,164 @@
+{
+  "film": {
+    "id": "1418675",
+    "title": "Mr. Baseball, Bob Uecker",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "US",
+    "poster_path": "/bAQveOitDC2q8He8I8HpUISFa0K.jpg",
+    "overview": "Celebrating colorful broadcaster Bob Uecker and his 50-plus years in baseball. His famously undistinguished playing career led to film and TV roles, a legendary series of beer commercials, and over 100 appearances on \"The Tonight Show with Johnny Carson.\" Ultimately his spot in the Milwaukee Brewers broadcast booth would take him to the Baseball Hall of Fame."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 3
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s607_bolly",
+      "emotion": "shame",
+      "dialogue": "Useless detective. What is it? Shame on you Bobby We know each other since we were kids You felt no shame doing all this? And if it is him you want to marry why Don't you tell everyone at home about it",
+      "target_person": "Bobby",
+      "target_gender": "male",
+      "cause_raw": "Deception and dishonesty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s608_bolly",
+      "emotion": "shame",
+      "dialogue": "What is it? Shame on you Bobby We know each other since we were kids You felt no shame doing all this? And if it is him you want to marry why Don't you tell everyone at home about it Because I have said nothing There is hope",
+      "target_person": "Bobby",
+      "target_gender": "male",
+      "cause_raw": "hiding relationship",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "s609_bolly",
+      "emotion": "shame",
+      "dialogue": "The girls from Jharra are better than these Who will marn/ me mother? Will bring nothing but shame to any family Oh Lord! Where has she come from? My name is Aamna Farhan",
+      "target_person": "Aamna Farhan",
+      "target_gender": "female",
+      "cause_raw": "being from Jharra and potentially bringing shame to a family",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s610_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you doing here? Go back inside. - I'll be right back. Bobby, you aren't ashamed at all, are you? Why should I be ashamed? Everyone at home is stressed because of you and you are just...Noor",
+      "target_person": "Bobby",
+      "target_gender": "female",
+      "cause_raw": "causing stress to family",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s611_bolly",
+      "emotion": "shame",
+      "dialogue": "Go back inside. - I'll be right back. Bobby, you aren't ashamed at all, are you? Why should I be ashamed? Everyone at home is stressed because of you and you are just...Noor I am aware that everyone is stressed",
+      "target_person": "Bobby",
+      "target_gender": "female",
+      "cause_raw": "causing stress to family",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s612_bolly",
+      "emotion": "shame",
+      "dialogue": "Its not in my nature to run away Then why are you running now What shame can one possibly feel in looking for their own children? In school my father... give me one chance, ma'am please, give me one chance, please",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "running away from responsibilities",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s613_bolly",
+      "emotion": "shame",
+      "dialogue": "I understand, father But why aren't you understanding? I don't want to be the cause of your shame Instead I want to be the reason for your pride Where are you going?",
+      "target_person": "child",
+      "target_gender": "male",
+      "cause_raw": "not meeting parent's expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p272_bolly",
+      "emotion": "pride",
+      "dialogue": "You can see right? Yes yes yes She will make you proud..Your daughter...you will be very famous in Moghulpura...because of your daughter..Not this one.. Not this one then who? Zeenu? Your eldest daughter. .",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "daughter's achievement",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p273_bolly",
+      "emotion": "pride",
+      "dialogue": "lets go Noor Yes father lets go. He doesn't know anything. Bobby's going to make us proud... hmmphh! Hear me out.. she will make you proud... listen to me...Find me that girl Nilofer The one with the birthmark You're stuck with a strange man's stranger case, forget him",
+      "target_person": "Bobby",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p274_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes father lets go. He doesn't know anything. Bobby's going to make us proud... hmmphh! Hear me out.. she will make you proud... listen to me...Find me that girl Nilofer The one with the birthmark You're stuck with a strange man's stranger case, forget him Shut up you waiter!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "Bobby's future achievements",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p275_bolly",
+      "emotion": "pride",
+      "dialogue": "But why aren't you understanding? I don't want to be the cause of your shame Instead I want to be the reason for your pride Where are you going? Who's going to pick up these bags?",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "not causing shame but being a source of pride",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

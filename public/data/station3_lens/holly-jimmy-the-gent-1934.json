@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "81396",
+    "title": "Jimmy the Gent",
+    "year": "1934",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/fZuLSS7X5j5SddIwQzp9cJbpK5Y.jpg",
+    "overview": "An unpolished racketeer, whose racket is finding heirs for unclaimed fortunes, affects ethics and tea-drinking manners to win back the sweetheart who now works for his seemingly upright competitor."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS56_holly",
+      "emotion": "shame",
+      "dialogue": "Kindly serve Mr and Mrs Norton first, Horton.  You will have some tea, won't you?  Mr Wallingham will be so ashamed of being forced to keep you waiting.  Punctuality is our motto, you know.  Miss Martin, please. Certainly, Mr Chalmers.",
+      "target_person": "Mr Wallingham",
+      "target_gender": "male",
+      "cause_raw": "not being punctual",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP82_holly",
+      "emotion": "pride",
+      "dialogue": "Really, Jimmy? Yeah.  But I wanted to get your okay.  I wanted you to be proud of me.  Oh.  And think I came here to crow over you because they scooped you on the Barton case.",
+      "target_person": "Jimmy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP83_holly",
+      "emotion": "pride",
+      "dialogue": "What's the matter with that dame?  I don't understand, huh?  First she says she's proud of me and then when I give her some of the details... Details?  Details?  Why, you big silly-looking pickle-pushing blabbering ape... You shattered whole scheme of romance, you know that?",
+      "target_person": "dame",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

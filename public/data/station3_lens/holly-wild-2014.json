@@ -1,0 +1,50 @@
+{
+  "film": {
+    "id": "228970",
+    "title": "Wild",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ohhWI4Xwf4m4HjbQiIkyAhLekUy.jpg",
+    "overview": "A woman with a tragic past decides to start her new life by hiking for one thousand miles on the Pacific Crest Trail."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP54_holly",
+      "emotion": "pride",
+      "dialogue": "Sorry for ignoring you in college - It was not like  In addition we agreed, is rare study with your mom  It is not because this is not proud of you I am very proud of you  You know I'm also proud of my  God there is so much to learn I knew it was pretty but",
+      "target_person": "mom",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP55_holly",
+      "emotion": "pride",
+      "dialogue": "In addition we agreed, is rare study with your mom  It is not because this is not proud of you I am very proud of you  You know I'm also proud of my  God there is so much to learn I knew it was pretty but  But not so much",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP56_holly",
+      "emotion": "pride",
+      "dialogue": "If you're reading this means you've walked 100 miles in the desert  Anything q has passed between us as much as we hate or're annoying  Despite this I am very proud of you  And we will be more when finished  While writing you left so It is as if nothing",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

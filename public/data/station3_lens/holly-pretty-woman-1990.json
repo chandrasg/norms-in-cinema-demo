@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "114",
+    "title": "Pretty Woman",
+    "year": "1990",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+    "overview": "Vivian is a carefree, streetwise diamond in the rough when she meets sophisticated billionaire Edward in a chance encounter that turns into a week-long business arrangement. But Vivian's energetic spirit challenges Edward's no-nonsense approach to life, and soon they are teaching each other – and falling in love!"
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS571_holly",
+      "emotion": "shame",
+      "dialogue": "I worked at a couple fast-food places.  Parked cars at wrestling.  I couldn't make the rent. I was too ashamed to go home.  That's when I met Kit.  She was a hooker and made it sound so great.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "engaging in prostitution",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WP1214_holly",
+      "emotion": "pride",
+      "dialogue": "How far did you go in school?  I went all the way.  Your folks must be really proud, huh?  So you don't actually have a billion dollars, huh?  No, I get some of it from banks, investors.",
+      "target_person": "folks",
+      "target_gender": "unclear",
+      "cause_raw": "their child's educational achievement",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP1215_holly",
+      "emotion": "pride",
+      "dialogue": "- Carter. - Yeah. Carter. Carter Lewis.  He's not quite the b*****d everybody says he is.  - No, I have the franchise on that. - Does that make him proud?  I doubt it.  It doesn't really matter now. He passed away.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1216_holly",
+      "emotion": "pride",
+      "dialogue": "I think we can leave the details up to the others.  I find this hard to say without sounding condescending,  but... I'm proud of you.  Thank you.  I think we can let in the other suits now.",
+      "target_person": "other person",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

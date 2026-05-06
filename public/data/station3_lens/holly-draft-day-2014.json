@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "200505",
+    "title": "Draft Day",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/bnl2ocjS1io4UCPhjoFuPKmJ9bf.jpg",
+    "overview": "At the NFL Draft, general manager Sonny Weaver has the opportunity to rebuild his team when he trades for the number one pick. He must decide what he's willing to sacrifice on a life-changing day for a few hundred young men with NFL dreams."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS439_holly",
+      "emotion": "shame",
+      "dialogue": "Sonny.  People pay to get wet.  Shameful.  You're almost glad Coach Weaver isn't around  to watch his son run this team into the ground.",
+      "target_person": "Sonny",
+      "target_gender": "male",
+      "cause_raw": "poor management of a team",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP928_holly",
+      "emotion": "pride",
+      "dialogue": "Whoever thought it meant that much to him?  Naming a simple practice field in his honor.  God, he took pride in the weirdest things.  He was your father, Sonny.  What was it? Why did you hate him so much?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "having a practice field named in his honor",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP929_holly",
+      "emotion": "pride",
+      "dialogue": "I'm asking, did your teammates at Wisconsin come to that party or not?  Look, Mr. Weaver, this isn't somethin'  I'm really very proud of, sir, but... I don't really remember a single thing from that night, sir.  I don't really remember a single thing from that night, sir.  You know what?",
+      "target_person": "Mr. Weaver",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "film": {
+    "id": "103015",
+    "title": "Shola Aur Shabnam",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/chuyRvvnvgs1oW1hLIYMwGJpO6n.jpg",
+    "overview": "The spoiled and arrogant brother, Bali, of notorious gangster, Kali Baba, enlists in the National Cadet Corps, and wants to have his way with his fellow-students and trainer, Inder Mohan Lahti, with comical results. When he meets Divya Thapa for the first time, he is smitten by her, and wants to marry her by hook or by crook. But Divya is in love with Karan, and both plan to marry each other. Circumstances act against them, and they flee together, with Kali Baba's men, and Divya's Police Commissioner dad, Yashpal Thapa, in hot pursuit, to an unknown destination, surrounded by a web of lies, deception, and no known resource to assist them."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 3
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4157_bolly",
+      "emotion": "shame",
+      "dialogue": "Why attack her modesty?  She's a modest girl. Just download and sari.  As she reached her home she would die of shame.  No,  For God's sake, leave me alone. ... let me help!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "violation of modesty",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4158_bolly",
+      "emotion": "shame",
+      "dialogue": "Karan is innocent, sir.  Kali took him into a trap as well, and me and Maadev.  Scam! You shamed the good name of the police today?  You put your uniform for personal gain?  I am ashamed of you as a policeman.",
+      "target_person": "policeman",
+      "target_gender": "male",
+      "cause_raw": "corruption and misuse of power",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4159_bolly",
+      "emotion": "shame",
+      "dialogue": "Scam! You shamed the good name of the police today?  You put your uniform for personal gain?  I am ashamed of you as a policeman.  Inspector, arrested him.  Tomorrow morning, he must repeat every word said here in court.",
+      "target_person": "policeman",
+      "target_gender": "male",
+      "cause_raw": "corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4160_bolly",
+      "emotion": "shame",
+      "dialogue": "But, unfortunately for you Justice is still not justified ... ... and will have to surrender himself to the law.  Here ... put my handcuffs Mr. Commissioner.  Do not shame me more Karan.  As we, and justice has been very unfair to you.  I do not want to insult more, as you put handcuffs.",
+      "target_person": "Karan",
+      "target_gender": "male",
+      "cause_raw": "breaking the law",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p2253_bolly",
+      "emotion": "pride",
+      "dialogue": "And when Amrish Puri scam and they unizhva torture ... ... I come to shoot him.  When you love, people only give their hearts.  But I'm ready to remove even with all his family pride because of you.  Look!  What happened, sweetheart?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "love for someone",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2254_bolly",
+      "emotion": "pride",
+      "dialogue": "What was that song?  Once I grabbed his hand, someone will run it.  But we will surely destroy your false pride.  Come on ... pick up the goods!  Did you think I am a servant of the father?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2255_bolly",
+      "emotion": "pride",
+      "dialogue": "Where is this woman who likes to insult people?   Who are you and why you've shouted in my dorm?  What else can I do? You attack my pride.  Besides, you induce my masculinity.  For what do you have?",
+      "target_person": "second speaker",
+      "target_gender": "male",
+      "cause_raw": "insult to his pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2256_bolly",
+      "emotion": "pride",
+      "dialogue": "Take care of yourself, dear.  In addition to play and hang out, also remember that ... Oh Mother, calm down.  My brother will come back with a good name ... ... and you will be proud nego.Nali?  I must leave now. -What hurry? Stay with me.  addition, a happy day today.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "son's achievement",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

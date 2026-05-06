@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "410281",
+    "title": "Biwi O Biwi",
+    "year": "1981",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/rzotNBHhwAZk6ZS3N0n6YUD0SNS.jpg",
+    "overview": "Overcome with his love for Asha, singer Chandermohan is forced to masquerade as an army officer when her father, a retired military officer, refuses to let her marry a civilian."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s595_bolly",
+      "emotion": "shame",
+      "dialogue": "Didn't get the girl and lost my money too You mean you returned as spotless as you were? Shame on me if I become your tutor in this! Please, give me one last chance. - No...Marriage! Don't talk about it. Think about tomorrow's show. Start the practice",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "failure in love and money matters",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s596_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm not even aware if it's morning or evening Actually, they're both bad to me! Very bad I'm very ashamed to have been so rude to you Please come to the point. Why are you here? To apologise to you, madam. Until you forgive me, I won't feel good",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being rude",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s597_bolly",
+      "emotion": "shame",
+      "dialogue": "Money is a different ballgame altogether Who are you to interfere, eh? Who are you? What's wrong with you? Have some shame, Colonel I'm no Colonel... Yes, I'm a Colonel. Attention! Thank God you remembered. Come, I'll take you home",
+      "target_person": "Colonel",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s598_bolly",
+      "emotion": "shame",
+      "dialogue": "Purse, my foot! I'll flick you too if you're willing! My goodness! Let go of me... On the open road too! - Then let's go to a lonely road. - Get lost! You shameless being Okay, if you don't want to, I'll go then - Where? - My home",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    }
+  ]
+}

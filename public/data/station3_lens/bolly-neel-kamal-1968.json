@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "340774",
+    "title": "Neel Kamal",
+    "year": "1968",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2fIy2nejksM6WReYkp4wXac46Eu.jpg",
+    "overview": "A newly married woman begins to sleepwalk, and her husband suspects she is inadvertently connecting with a lover from a past life."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3786_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't you rouse the sleeping lion! You don't know what you stand to lose! If this is what sleeping lions are like...men are going to be ashamed of themselves! You call yourself a man? You wash my clothes! You clean the dishes, you sweep the floors...you massage your wife's feet! And you call yourself a lion!",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "not conforming to traditional gender roles",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3787_bolly",
+      "emotion": "shame",
+      "dialogue": "She uses the cover of the night to prove her fidelity! Who are you trying to fool? I'm ashamed to think I'm related to you! You keep your good girl to yourself! What are you saying?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p2017_bolly",
+      "emotion": "pride",
+      "dialogue": "if anyone goes away...What will people say? I'll  be accused of setting son against mother! Will you have me disgraced? The disgrace will kill me! And what will Daddy say? He isn't going to be proud. ls this the upbringing he gave me? That's far from the ideal he seeks in me.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "222984",
+    "title": "Shree",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/4ZUiVuB36lHdWNrz0KldmICiMeG.jpg",
+    "overview": "Shree, an ordinary man, works at a telecom company. In love with Sonu but cannot marry yet as need to make some basic money. Randhawa, a wealthy businessman, in his ceaseless pursuit of power, has zeroed in on Shree as his last guinea pig. Shree is the last piece of puzzle of a scientific experiment, devised by a brilliant scientist, supported by commissioner of police and funded by Randhawa....."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4172_bolly",
+      "emotion": "shame",
+      "dialogue": "What two minutes.. You haven't taken bath yet.. -Arre..who bothers to take bath every day.. -Stupid, ok. Be quick. Just wait..You don't have any self respect? Hello, Aunty.. -You are so shameless, if you really love her..Why don't you run away from this city? You are in Mumbai since eight years..What have you achieved till now? Just tell me? The grain-grocer always tells me about your....pending payments with him, you know?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "lack of personal hygiene and financial instability",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4173_bolly",
+      "emotion": "shame",
+      "dialogue": "I got screwed, I got screwed, I got screwed I got screwed, I got screwed, I got screwed I got screwed...Mumbai and traffic jam, it's a common site....but this Traffic jam is not common just now....in bright day light, a police man is murder right here....and it's a shameful matter....because after the inspector's murder....the culprit has run away making the police a fool. The police has blocked the road....if you see this hardcore criminal somewhere....please inform in your nearest police station. The criminal's name is being told as Shreedhar Upadhyay..Who lives in the Dindhosi area of Goregaon.",
+      "target_person": "Police",
+      "target_gender": "male",
+      "cause_raw": "inability to catch a criminal",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p2262_bolly",
+      "emotion": "pride",
+      "dialogue": "And that future is called..AIR NET..High speed Internet. WiFi, 3G....everything has become a part of common man's everyday life. So what is that special factor that makes AIR NET uncommon? To answer this....may I call upon, Managing Director of Air Calling..Mr. Jayraj Randhawa..Thank You Sheena....and Thank you all very much....for being here to share this proud moment with us....and if you all sit here till the end of this speech..Sonu....or Randhawa? Ladies and gentlemen....for the First time in India you will have an....internet speed that will download or upload....a 50mb of Data in a matter of 30 seconds. Do it....now.",
+      "target_person": "Mr. Jayraj Randhawa",
+      "target_gender": "male",
+      "cause_raw": "Launch of a new high-speed internet service",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

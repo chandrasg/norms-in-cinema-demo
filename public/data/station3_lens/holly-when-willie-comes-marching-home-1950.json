@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "54615",
+    "title": "When Willie Comes Marching Home",
+    "year": "1950",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/6AmE1YWygXiNvWbaQMrCCOEOzws.jpg",
+    "overview": "When Willie leaves home to join the war effort he is all ready to become a hero, but he is only frustrated when his posting ends up to be in his home town, and he is recruited into training, keeping him from the action. However, when he finds himself accidently behind enemy lines he unexpectedly becomes a hero after all."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1371_holly",
+      "emotion": "shame",
+      "dialogue": "- You don't understand- - You've done a wonderful job, and a dangerous one too.  We've had more forced landings and crashes at Loring Field than Charley ever had in his Hellcat.  Bill, you just got no right to be ashamed.  And I won't have you slinking out of here like this.  Okay. I'll be there.",
+      "target_person": "Bill",
+      "target_gender": "male",
+      "cause_raw": "feeling ashamed for forced landings and crashes",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS1372_holly",
+      "emotion": "shame",
+      "dialogue": "Bill, you've got to tell your father.  I've told him everything I know, and you too. If you don't wanna believe me, that's your affair.  You ought to be ashamed of yourself, picking on the boy.  He's not well, and all you do is ask him a lot of silly questions.  Mrs. Kluggs, we're just doing it for his own good. We've got to know what's wrong.",
+      "target_person": "Bill",
+      "target_gender": "male",
+      "cause_raw": "not sharing information",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2457_holly",
+      "emotion": "pride",
+      "dialogue": "Friends, attention, please! Please. Pl-  We have an unexpected pleasure, in fact, a great honor tonight.  One of our own boys, the pride of Punxatawney-  Has returned to us.  Not for long, mind you. Perhaps only 12 hours.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "returning to hometown",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2458_holly",
+      "emotion": "pride",
+      "dialogue": "I'm afraid there's a misunderstanding.  Sergeant Kluggs is not under arrest.  We're proud to inform you that your son has performed a great service for his country.  He has?  What he did while making his way through enemy-occupied territory... cannot be made public until after the war.",
+      "target_person": "Sergeant Kluggs' parent",
+      "target_gender": "male",
+      "cause_raw": "son's service for his country",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

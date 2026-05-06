@@ -1,0 +1,121 @@
+{
+  "film": {
+    "id": "339988",
+    "title": "The Circle",
+    "year": "2017",
+    "industry": "holly",
+    "country": "AE|US",
+    "poster_path": "/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg",
+    "overview": "A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company's ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS358_holly",
+      "emotion": "shame",
+      "dialogue": "and then we got a call from someone watching the seals.  So, Mae, how do you feel?  Ashamed.  I... I barely slept.  Well, I'm just glad you're safe. We all are.",
+      "target_person": "Mae",
+      "target_gender": "female",
+      "cause_raw": "not specified",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS359_holly",
+      "emotion": "shame",
+      "dialogue": "♪ To bow and to bend ♪  ♪ We shan't be ♪  ♪ Ashamed ♪  ♪ To turn, turn ♪  ♪ Will be our delight ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS360_holly",
+      "emotion": "shame",
+      "dialogue": "♪ To bow and to bend ♪  ♪ We shan't be ♪  ♪ Ashamed ♪  ♪ To turn, turn ♪  ♪ Will be our delight ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS361_holly",
+      "emotion": "shame",
+      "dialogue": "♪ To bow and to bend ♪  ♪ We shan't be ♪  ♪ Ashamed ♪  ♪ To turn, turn ♪  ♪ Will be our delight ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS362_holly",
+      "emotion": "shame",
+      "dialogue": "♪ To bow and to bend ♪  ♪ We shan't be ♪  ♪ Ashamed ♪  ♪ To turn, turn ♪  ♪ Will be our delight ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP785_holly",
+      "emotion": "pride",
+      "dialogue": "Like what? Connecting the world?  Insuring my parents?  You should be really proud of what you created.  Look, proud? Proud of what?  The disregard for privacy, the use of personal data",
+      "target_person": "Unnamed Character",
+      "target_gender": "unclear",
+      "cause_raw": "creating something that connects the world",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP786_holly",
+      "emotion": "pride",
+      "dialogue": "Insuring my parents?  You should be really proud of what you created.  Look, proud? Proud of what?  The disregard for privacy, the use of personal data  for the accumulation of wealth and control?",
+      "target_person": "second speaker",
+      "target_gender": "unclear",
+      "cause_raw": "creating something that disregards privacy and uses personal data for wealth and control",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP787_holly",
+      "emotion": "pride",
+      "dialogue": "The disregard for privacy, the use of personal data  for the accumulation of wealth and control?  I'm not proud. This is not what I created.  Do you think Senator Williamson being investigated  by the FBI is just a coincidence?",
+      "target_person": "Speaker 1",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP788_holly",
+      "emotion": "pride",
+      "dialogue": "of her work and her personal life with the public,  so let's give her an even bigger hand!  I'm proud of you.  Mae! Mae! Mae! Mae!  Mae! Mae! Mae! Mae!",
+      "target_person": "Speaker",
+      "target_gender": "female",
+      "cause_raw": "for her work and sharing her personal life with the public",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

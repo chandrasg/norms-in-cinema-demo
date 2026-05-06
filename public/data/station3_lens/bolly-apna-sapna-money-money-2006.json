@@ -1,0 +1,134 @@
+{
+  "film": {
+    "id": "46371",
+    "title": "Apna Sapna Money Money",
+    "year": "2006",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/pTxNRZQhRqGqYyuNjAFAzk0iqrS.jpg",
+    "overview": "Kishan is a young man from Goa whose brain is full of every conceivable trick to make a quick buck. He cons people by slipping into different outfits and by assuming many guises. Julie, is a sexy club dancer with quite a local reputation, but behind her raunchy exterior is a compassionate, kind-hearted woman who goes out of her way to help the needy..."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s196_bolly",
+      "emotion": "shame",
+      "dialogue": "You wimp, I'll show you! - Listen..Shivani! Shivani! Bloody old man! You watch a woman bathing? Don't you feel ashamed? Bobby, move aside! Bobby, move aside! Bobby, move aside!",
+      "target_person": "old man",
+      "target_gender": "male",
+      "cause_raw": "voyeurism",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s197_bolly",
+      "emotion": "shame",
+      "dialogue": "Had I known even you liked this, wouldn't we have come together? What..? - To have a good time. Naughty! You cheap man! Don't you feel ashamed..''to behave like that, having come to this decent man's house?'' Who are you? - I..Shut up! This is between us.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s198_bolly",
+      "emotion": "shame",
+      "dialogue": "From six of them? - Not six, they are three. Three? Okay. - Go. Don't you feel ashamed to tease a hapless woman? Go back to school. - Shut up, old man! Go and watch Fashion TV. - Okay. He got scared.",
+      "target_person": "teasers",
+      "target_gender": "male",
+      "cause_raw": "teasing a woman",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s199_bolly",
+      "emotion": "shame",
+      "dialogue": "You wimp, I'll show you! - Listen..<i>Shiv an“ Shiv an“!</i> Bloody old man! You watch a woman bathing? Don't you feel ashamed? Bobby, move aside! Bobby, move aside! Bobby, move aside!",
+      "target_person": "old man",
+      "target_gender": "male",
+      "cause_raw": "voyeurism",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s200_bolly",
+      "emotion": "shame",
+      "dialogue": "Had I known even you liked this, wouldn't we have come together? What..? - To have a good time. Naughty! You cheap man! Don't you feel ashamed..\"to behave like that, having come to this decent man's house?\" Who are you? - I..Shut up! This is between us.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s201_bolly",
+      "emotion": "shame",
+      "dialogue": "From six of them? - Not six, they are three. Three? Okay. - Go. Don't you feel ashamed to tease a hapless woman? Go back to school. - Shut up, old man! Go and watch Fashion TV. - Okay. He got scared.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "teasing/harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p60_bolly",
+      "emotion": "pride",
+      "dialogue": "Everything in the world is under my control Don't take me to be a statue Why are you so proud about your beauty, love? A lamp has to light up and fade away Why don't you understand that?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p61_bolly",
+      "emotion": "pride",
+      "dialogue": "Why are you shouting? Call up Carlos again and ask him. Shut up! Say something once that makes me proud of you, not worry about you. You want to ruin my impression on my first job? Try to recollect!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "making speaker proud by doing something commendable",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p62_bolly",
+      "emotion": "pride",
+      "dialogue": "Everything in the world is under my control Don't take me to be a statue Why are you so proud about your beauty, love? A lamp has to light up and fade away Why don't you understand that?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p63_bolly",
+      "emotion": "pride",
+      "dialogue": "Why are you shouting? Call up Carlos again and ask him. Shut up! Say something once that makes me proud of you, not worry about you. You want to ruin my impression on my first job? Try to recollect!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "making speaker proud by doing something commendable",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

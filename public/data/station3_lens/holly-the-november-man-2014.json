@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "254904",
+    "title": "The November Man",
+    "year": "2014",
+    "industry": "holly",
+    "country": "GB|US",
+    "poster_path": "/4ejNFbCgLMDAuy7jFQmc7cr6UAW.jpg",
+    "overview": "An ex-CIA operative is brought back in on a very personal mission and finds himself pitted against his former pupil in a deadly game involving high level CIA officials and the Russian president-elect."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS467_holly",
+      "emotion": "shame",
+      "dialogue": "Can I get you a drink? A cup of coffee or something?  Ah.. no, thank you.  That's my Wall Of Shame.  There were hundreds of girls that came out of the conflict.  We're a small organization.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "not being able to help all the victims",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP999_holly",
+      "emotion": "pride",
+      "dialogue": "What's this got to do with me?  Natalia.  We'd be proud of her, Peter.  After you left, she got very close to Fedorov.  But she wants to come in.",
+      "target_person": "Peter",
+      "target_gender": "male",
+      "cause_raw": "Natalia's actions and decisions",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1000_holly",
+      "emotion": "pride",
+      "dialogue": "But not as surprised as you probably are right now.  Y'know, if it's any consolation, it was your boy Mason who brought Lucy in for me.  I just thought, well, you should be proud.  He did good, didn't he? Found that soft underbelly.  Wasn't sure you had one.",
+      "target_person": "Mason's parent",
+      "target_gender": "unclear",
+      "cause_raw": "Mason's accomplishment",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

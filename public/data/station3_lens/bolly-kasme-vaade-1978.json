@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "177667",
+    "title": "Kasme Vaade",
+    "year": "1978",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jckUkeAA0vkPbFXizHAz0MTBXZE.jpg",
+    "overview": "Raju is guilt-ridden when his involvement with gangsters get his brother, Amit, killed. When he meets Shankar, Amit's lookalike, he decides to make amends, not realising who Shankar really is."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3016_bolly",
+      "emotion": "shame",
+      "dialogue": "Even his life could be in danger. I know that, Professor. - And you still act ignorant. Do you know that your wealth has driven him shameless? Due to your influence, he feels it is bravery to create a nuisance? Should he continue to take such indulgence as a blessing...you'll be responsible for spoiling his life.",
+      "target_person": "wealthy individual",
+      "target_gender": "unclear",
+      "cause_raw": "spoiling someone with wealth and influence",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3017_bolly",
+      "emotion": "shame",
+      "dialogue": "I need it. - There it is. The water...Start the tap! What nonsense is this? Aren't you ashamed? I'll throw you out il you do this ever again! Fix my car lirst. I'm in a hurry. - Sure. Please sit down.",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3018_bolly",
+      "emotion": "shame",
+      "dialogue": "No excuses! I only want my money! - You said you'd pay us on the 10th. it's the 25th today. What? Aren't you guys ashamed? You know Raju's going through a difficult time. How will he pay you when he doesn't have the money?",
+      "target_person": "Raju",
+      "target_gender": "male",
+      "cause_raw": "inability to repay debt",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1554_bolly",
+      "emotion": "pride",
+      "dialogue": "You are what the dreams were all about You are my life You are my pride In your arms...''in your arms...'' In your arms, embrace me forever",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "love for the other person",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

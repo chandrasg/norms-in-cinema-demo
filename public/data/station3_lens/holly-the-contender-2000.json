@@ -1,0 +1,152 @@
+{
+  "film": {
+    "id": "6521",
+    "title": "The Contender",
+    "year": "2000",
+    "industry": "holly",
+    "country": "DE|GB|US",
+    "poster_path": "/duRe0F2GYHIDvqe2bqIAMP4gWeP.jpg",
+    "overview": "The vice president is dead, and as the president makes his choice for a replacement, a secret contest of wills is being waged by a formidable rival. When Senator Laine Hanson is nominated as the first woman in history to hold the office, hidden agendas explode into a battle for power."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Causing Harm",
+      "count": 2
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS270_holly",
+      "emotion": "shame",
+      "dialogue": "- Governor, thank you for joining us. - Thank you, Bert.  That's a nasty bit of business, what happened on that river. Nasty.  It's a damn shame you were the unlucky b*****d in that spot.  Six and a half years in the White House, press still hasn't gotten wind of these b******s.  Yeah, pretty, uh... pretty heroic, what you tried.",
+      "target_person": "Governor",
+      "target_gender": "male",
+      "cause_raw": "being involved in a nasty incident",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "WS272_holly",
+      "emotion": "shame",
+      "dialogue": "- Good luck, Mrs. Hanson. - You too.  Who doesn't want a shortcut to greatness?  Oh, it's a goddamn shame about the Muenster.  Mr. President.  Yeah, Shelly?",
+      "target_person": "Mrs. Hanson",
+      "target_gender": "female",
+      "cause_raw": "seeking shortcuts to success",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS273_holly",
+      "emotion": "shame",
+      "dialogue": "I look upon the events of the past weeks...  and I've never come so to grips with that quotation.  So, ladies and gentlemen of this Congress... it pains my soul to tell you that you have brought blood and shame under this great dome.  it pains my soul to tell you that you have brought blood and shame under this great dome.  Your leadership has raised the stakes of hate to a level... where we can no longer separate the demagogue from the truly inspired.",
+      "target_person": "Congress",
+      "target_gender": "unclear",
+      "cause_raw": "causing harm and promoting hate",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WS274_holly",
+      "emotion": "shame",
+      "dialogue": "and I've never come so to grips with that quotation.  So, ladies and gentlemen of this Congress... it pains my soul to tell you that you have brought blood and shame under this great dome.  it pains my soul to tell you that you have brought blood and shame under this great dome.  Your leadership has raised the stakes of hate to a level... where we can no longer separate the demagogue from the truly inspired.  where we can no longer separate the demagogue from the truly inspired.",
+      "target_person": "Congress",
+      "target_gender": "unclear",
+      "cause_raw": "causing harm and promoting hate",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WP586_holly",
+      "emotion": "pride",
+      "dialogue": "Welcome. Good afternoon. Please.  - Thank you for coming here on such short notice. - Laine Hanson, from Ohio.  As I embarked on the task of selecting a vice president... I was driven by the emotion of wanting to make a choice... that would've made Troy Ellard, my friend, proud.  that would've made Troy Ellard, my friend, proud.  Senator Laine Billings Hanson of Ohio is that person.",
+      "target_person": "Speaker 1",
+      "target_gender": "female",
+      "cause_raw": "selecting Laine Hanson as vice president",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP587_holly",
+      "emotion": "pride",
+      "dialogue": "- Thank you for coming here on such short notice. - Laine Hanson, from Ohio.  As I embarked on the task of selecting a vice president... I was driven by the emotion of wanting to make a choice... that would've made Troy Ellard, my friend, proud.  that would've made Troy Ellard, my friend, proud.  Senator Laine Billings Hanson of Ohio is that person.  Sherri, you are first.",
+      "target_person": "Troy Ellard",
+      "target_gender": "male",
+      "cause_raw": "selecting Laine Hanson as vice president",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP588_holly",
+      "emotion": "pride",
+      "dialogue": "- I like to study them. - Mmm! Me too.  I think we're ready for business, Dennis.  - Sir. - You must be very proud of your mom.  Yeah, being the vice president is better than being the president.  Oh, I'm sure you're right.",
+      "target_person": "Dennis",
+      "target_gender": "male",
+      "cause_raw": "his mom being the vice president",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP589_holly",
+      "emotion": "pride",
+      "dialogue": "- He always cancels his golf game. Don't worry about it. - Not with me.  - Kermit, can I talk to you a second? - We'll talk later.   They're home, they're watching, they're proud.  Lewis, this is it. Thank you.  Order. Order.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP590_holly",
+      "emotion": "pride",
+      "dialogue": "Myself and my esteemed colleagues are determined... to ensure that this very important matter be handled with... expedition and dignity.  expedition and dignity.  We are proud to welcome our friend and colleague, Laine Hanson.  Madam Senator, I welcome you.  Thank you, Mr... Thank you, Mr. Chairman.",
+      "target_person": "Mr. Chairman",
+      "target_gender": "male",
+      "cause_raw": "welcoming esteemed colleague Laine Hanson",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP591_holly",
+      "emotion": "pride",
+      "dialogue": "We sacrificed all of that so we could do good.  We have done good.  I was never prouder when you fought to make hate crimes a capital and federal offense.  You stood so tall, defying the world, and you won.  It was then that I realized that all of our sacrifices were not in vain...",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "making hate crimes a capital and federal offense",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP592_holly",
+      "emotion": "pride",
+      "dialogue": "Senator, you want me to sit in? Make sure the congressman's clear on everything?  We'll be fine. Won't we, Mr. Webster? We'll be all right. Thanks.  Proud of yourself?  So, what can I do for you, Mr. Webster?  I'm sure you're wondering why I'm here.",
+      "target_person": "Mr. Webster",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

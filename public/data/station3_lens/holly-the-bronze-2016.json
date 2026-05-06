@@ -1,0 +1,103 @@
+{
+  "film": {
+    "id": "308453",
+    "title": "The Bronze",
+    "year": "2016",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/Ah2nD3Kml59svErVsz6DUsxlJ8.jpg",
+    "overview": "In 2004, Hope Ann Greggory became an American hero after winning the bronze medal for the women's gymnastics team. Today, she's still living in her small hometown, washed-up and embittered. Stuck in the past, Hope must reassess her life when a promising young gymnast threatens her local celebrity status."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP136_holly",
+      "emotion": "pride",
+      "dialogue": "This, ladies and gentlemen, is quite remarkable.  You are star.  You will make me so proud.  Thousands of hours training together back at that little gym in Amherst, Ohio.  This is their moment.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "training together and reaching a significant moment",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP137_holly",
+      "emotion": "pride",
+      "dialogue": "F**k! F**k me, I suck! F**k!  Time out, time out. Stand right there.  First of all, it makes me so proud to hear you curse normal.  Second, quit being so hard on yourself. All right? That's my job.  I want to shift gears.",
+      "target_person": "First speaker",
+      "target_gender": "unclear",
+      "cause_raw": "cursing normally",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP138_holly",
+      "emotion": "pride",
+      "dialogue": "I think that you're super beautiful the way you are.  And you don't need to do that.  You should be proud of yourself.  You look like a windswept phoenix.  Okay. You ready for a dare?",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "for being naturally beautiful",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP139_holly",
+      "emotion": "pride",
+      "dialogue": "What is truly remarkable is all that she's had to overcome  following the tragic loss of her longtime coach, Eleyna Pavleck.  I think Coach P would be super proud of you.  We make a good team, co-pilot.  - Did I just get promoted? - Don't get cocky.",
+      "target_person": "Coach P",
+      "target_gender": "female",
+      "cause_raw": "overcoming tragedy and succeeding",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP140_holly",
+      "emotion": "pride",
+      "dialogue": "I'm up at the top in a box.  I think I saw Maggie looking for me earlier.  Can you just... Can you tell her that I'm here, I'm cheering, and I am so, so proud of her?  Can you tell her that I'm here, I'm cheering, and I am so, so proud of her?  Yep.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP141_holly",
+      "emotion": "pride",
+      "dialogue": "I think I saw Maggie looking for me earlier.  Can you just... Can you tell her that I'm here, I'm cheering, and I am so, so proud of her?  Can you tell her that I'm here, I'm cheering, and I am so, so proud of her?  Yep.  Maggie, your mom just called. She said she's here and she loves you.",
+      "target_person": "mom",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP142_holly",
+      "emotion": "pride",
+      "dialogue": "You give me a smile or a wave.  Or sometimes you break the celebrity boundary and come up to me,  tell me about where you were on the day I made this country proud.  There is a reason I call this town my home.  'Cause you f*****s remind me of who I am.",
+      "target_person": "celebrity",
+      "target_gender": "unclear",
+      "cause_raw": "making the country proud",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

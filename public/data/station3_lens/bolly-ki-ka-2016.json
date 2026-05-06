@@ -1,0 +1,137 @@
+{
+  "film": {
+    "id": "390437",
+    "title": "Ki & Ka",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/h0EdMN91ts85jN62UotOOUXa5Ho.jpg",
+    "overview": "An unconventional woman, gains immense success in her professional life but things take a turn when she meets a guy, who wants to be a house husband."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3119_bolly",
+      "emotion": "shame",
+      "dialogue": "and stays with her as a househusband...people call him impotent If you're impotent, quietly stay here Why are you broadcasting this shame'? MI. Bausal...Today I am truly proud of your son Despite being horn in this house, he is the Way he is",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being a househusband and perceived impotency",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3120_bolly",
+      "emotion": "shame",
+      "dialogue": "This evening...come home late. No hurry What kind of a husband are you? Aren't you ashamed of sending a woman alone into this cruel world to earn for her family? And where's you: wedding chain'? Now get lost",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "not providing for the family",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3121_bolly",
+      "emotion": "shame",
+      "dialogue": "Has no one asked you...the first question everyone asks after marriage...What does your husband do? I said you work from home and...you're writing a book or something Are you ashamed of this? Do I embarrass you'? Kahil...It's very difficult for people to understand out trip",
+      "target_person": "Kahil",
+      "target_gender": "male",
+      "cause_raw": "Non-traditional job",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3122_bolly",
+      "emotion": "shame",
+      "dialogue": "MI. Singha's daughter works in you: wife's office...Everyone is laughing at me I'm getting condolence calls! Have some shame! Don't Waste your youth on cooking lentils and rice Then-is still time",
+      "target_person": "Mr. Singha",
+      "target_gender": "male",
+      "cause_raw": "daughter working",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1618_bolly",
+      "emotion": "pride",
+      "dialogue": "If you're impotent, quietly stay here Why are you broadcasting this shame'? MI. Bausal...Today I am truly proud of your son Despite being horn in this house, he is the Way he is If he had taken over you: business & made you proud in society,",
+      "target_person": "Mr. Bausal",
+      "target_gender": "male",
+      "cause_raw": "son's individuality and not following traditional path",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1619_bolly",
+      "emotion": "pride",
+      "dialogue": "MI. Bausal...Today I am truly proud of your son Despite being horn in this house, he is the Way he is If he had taken over you: business & made you proud in society, then you would call him a man...But for a woman...a real man is one...who knows he's a man Not one who isn't confident of What's inside his underwear...and has to shout from the Ioofiops...\"I'm a man! I'm a man! I'm a man!\"",
+      "target_person": "Bausal",
+      "target_gender": "male",
+      "cause_raw": "son's character and self-confidence",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1620_bolly",
+      "emotion": "pride",
+      "dialogue": "Sometimes explaining to people is such a pain...It's so difficult that...out of sheer laziness we just avoid the topic But you know What? I'm so proud of you I'm so proud of What We are Let's show them today...What We are",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "collective achievement or identity",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1621_bolly",
+      "emotion": "pride",
+      "dialogue": "But you know What? I'm so proud of you I'm so proud of What We are Let's show them today...What We are Lovely house!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "collective achievement",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1622_bolly",
+      "emotion": "pride",
+      "dialogue": "Dear Kia...We really missed you Kahil told us a lot about you I'm truly, truly proud of you I know the world is celebrating Kabit today...but without a Kia, a Kahil cannot exist Every woman wishes for a husband like this...but very few have the courage to love such a man",
+      "target_person": "Kia",
+      "target_gender": "female",
+      "cause_raw": "supporting her husband",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

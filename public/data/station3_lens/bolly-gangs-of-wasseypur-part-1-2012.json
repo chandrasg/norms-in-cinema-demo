@@ -1,0 +1,164 @@
+{
+  "film": {
+    "id": "117691",
+    "title": "Gangs of Wasseypur - Part 1",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xAy208Znkingmfnb5ZbULwLyIwW.jpg",
+    "overview": "In 1970s India, Sardar Khan vows to take revenge on the man who killed his father decades earlier."
+  },
+  "totals": {
+    "shame": 11,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 3
+    },
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 8
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5342_bolly",
+      "emotion": "shame",
+      "dialogue": "Somebody is inside my womb. So, I am not taking him out. Don't you feel shame? You will make your kid dirty? This is not right...When somebody is already inside",
+      "target_person": "pregnant woman",
+      "target_gender": "female",
+      "cause_raw": "being pregnant out of wedlock",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s5343_bolly",
+      "emotion": "shame",
+      "dialogue": "Who's going out? Eat your food. You'll get power. Don't bring me shame outside. Vote for! - Brother Shetty! Vote for! - Brother Shetty! Vote for! - Brother Shetty!",
+      "target_person": "person being addressed",
+      "target_gender": "male",
+      "cause_raw": "not eating food",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s5344_bolly",
+      "emotion": "shame",
+      "dialogue": "Now if we will do something......police will be after us. How are you? Get lost, you rogue! Shameless! You! Catch him! Stop!",
+      "target_person": "Unnamed character",
+      "target_gender": "male",
+      "cause_raw": "Misbehavior/Disrespect",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5345_bolly",
+      "emotion": "shame",
+      "dialogue": "Shut up! - I don't want to wear it. Why? I feel ashamed. What will you do by going to the school? Your dad has stopped sending money",
+      "target_person": "child",
+      "target_gender": "unclear",
+      "cause_raw": "poverty and inability to afford school uniform",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s5346_bolly",
+      "emotion": "shame",
+      "dialogue": "He's taking a small piece. Won't you take some? - Uncle! Are you feeling ashamed?- Uncle! Uncle! Next month, I'm getting married. We're waiting for your release.",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "not eating enough",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s5347_bolly",
+      "emotion": "shame",
+      "dialogue": "Sultan! Ramadhir Singh is taking advantage of our internal enmity. What's his concern with Wasseypur? Aren't you ashamed? You're Qureshi's son. Of a dacoit Sultana! English were scared of him.",
+      "target_person": "Sultan",
+      "target_gender": "male",
+      "cause_raw": "Not standing up against external threats",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s5348_bolly",
+      "emotion": "shame",
+      "dialogue": "[Sultana:] He should get out with his family and his men. Okay, hut how do I feed them, sir? And what's his problem anyway? - Shameless b*****d!! M**********r uses my name to loot and gives me attitude. A hag of grain from each train will he given to you every week.",
+      "target_person": "Sultana",
+      "target_gender": "male",
+      "cause_raw": "Misuse of power and corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s5349_bolly",
+      "emotion": "shame",
+      "dialogue": "There's a baby inside, silly. Let me say hello to him. Shameless! Want to dirty your own child. Son, this is wrong......you should learn to control your urges in such conditions. So true!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards pregnant wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s5350_bolly",
+      "emotion": "shame",
+      "dialogue": "She's a run away from Bengal. These Bengali men don't teach their women about modesty. She shamelessly sashays around uncovered. If the butchers catch her again they'll feast on her alive. Why's she here?",
+      "target_person": "Bengali woman",
+      "target_gender": "female",
+      "cause_raw": "immodest behavior",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s5351_bolly",
+      "emotion": "shame",
+      "dialogue": "Are you enjoying this? Asgar...?Why don't you sniff and tell us what the minister had for breakfast? His wife's heating...!Shameful! Smell it? [Durga:] I'm not going to respond to this.",
+      "target_person": "Asgar",
+      "target_gender": "male",
+      "cause_raw": "being ridiculed for his job",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s5352_bolly",
+      "emotion": "shame",
+      "dialogue": "Get that f*****g skirt, I say. Son, Ramadhir is taking advantage of a family feud. Wasseypur is not even his concern. - Aren't you ashamed? You're Sultana Dacoit's son, his direct offspring! The British shat at his mention.",
+      "target_person": "Sultana Dacoit's son",
+      "target_gender": "male",
+      "cause_raw": "not living up to his father's reputation",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p3000_bolly",
+      "emotion": "pride",
+      "dialogue": "Father! Why didn't you say anything...Start the car. Stupid d******d prides himself on being a minister......hut can't even do a basic background check. I should kill you... - But how was I supposed to know...Everyone watch your minister getting thrashed......was nursing a f*****g snake... - Please, stop! Quiet or I'll stab you! Your womb made this worthless punk.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

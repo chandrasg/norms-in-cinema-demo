@@ -1,0 +1,150 @@
+{
+  "film": {
+    "id": "543935",
+    "title": "Aap Ke Saath",
+    "year": "1986",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/hY19B0ylTgsCQpDILkFvIdSfqkN.jpg",
+    "overview": "Ashok and Vimal are two grandsons of K.k. Vimal is womanizer. Ashok and Ganga are in love but when Ashok was about to propose Ganga for marriage, he finds that Ganga has complained against him in police station for sexual molestation. Ashok pays some money to Ganga and hope never to see her. K K bring home a girl named Deepa as K K want Deepa and Ashok to marry. But Deepa falls in love with Vimal. Vimal frequently visit a courtesan. When Ashok goes to courtesan to bring home Vimal, Ashok finds that courtesan is none other than Ganga."
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 3
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3982_bolly",
+      "emotion": "shame",
+      "dialogue": "I too had a name a long time ago. Take this card. This is not who I am, but who I was...And take this. Not as fare, but as blessing. Wait, are'nt you ashamed of seeing your father here......making bamboo baskets & earning only 2.75 Rs. per day? But, dear child.. - Please keep quiet. See! on one hand is a pitiful father of a millionaire son......who is here only because he gets free food. And still......he protects you! And on the other hand, you, his sole......millionaire son.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "low income and profession",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3983_bolly",
+      "emotion": "shame",
+      "dialogue": "You make up good stories and you act well too. Now tell me...Who was she? - But this is the truth,.....and I felt bad on knowing another truth. Which truth? - Some people live in the......Old Age Home in spite of having children. They are living like orphans. Shame on such children. Every person has some problems. Problems? What problems could the sole son of Kishorilal have?",
+      "target_person": "Kishorilal's son",
+      "target_gender": "male",
+      "cause_raw": "abandoning parents in old age",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3984_bolly",
+      "emotion": "shame",
+      "dialogue": "Or you must have sold it to buy a drink. If you say anything more, I'll kill you. You can't kill me that easily. If you don't behave yourself, then I..Shame on you. Why are you fighting like vagrants? He started it. - He did. Now that Kishori suspects us, each person should show him......their bags. - Yes, he is right.",
+      "target_person": "Kishori",
+      "target_gender": "male",
+      "cause_raw": "Accused of theft",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s3985_bolly",
+      "emotion": "shame",
+      "dialogue": "Whatever he gives, we will accept. So, this was your plan. Take this money in return for......your show of love. Take it. It is better that I found out your true colours before you......entered our home. Shame on you! This time you are saved. Dont ask any other village girl...... for water, or we will cut you to pieces. Drink it from my hand. -Oh? -take it.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "deceit and greed",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3986_bolly",
+      "emotion": "shame",
+      "dialogue": "You are just like a kid. -Remember my childhood,...sitting in your lap. -So she is your Ganga? Yes, she is my Ganga. But whom do you belong? I'm nobody's now. Arent you ashamed to be here? I forgive you this time, but don't do this again. And who are you to ask me where and when I go?",
+      "target_person": "Ganga",
+      "target_gender": "female",
+      "cause_raw": "Being in an inappropriate place",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3987_bolly",
+      "emotion": "shame",
+      "dialogue": "Two Brothers are talking, who are you to talk in between. Dont forget your position Miss Deepa. Shameless-Where are you going? Let him go, he will come to his senses after some time. Whatever you have done is not right, Ganga.",
+      "target_person": "Miss Deepa",
+      "target_gender": "female",
+      "cause_raw": "Interfering in a conversation",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s3988_bolly",
+      "emotion": "shame",
+      "dialogue": "Nobody knew about that storm, Only my heart broke......the whole world remains as it was. I have become lifeless. I am so ashamed of my deeds What's the reason that I'm alive It seems some test is left. I have becomes lifeless.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "regret over past actions",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3989_bolly",
+      "emotion": "shame",
+      "dialogue": "Had I died? - No, Ashok, I was not alone. Your love supported me in every trouble. I couldnt come to you. To say the truth, with such a shameful face, I didnt want to. Gold never turns black in fire. It sparkles even more. The river Ganga can never become impure.",
+      "target_person": "Ashok",
+      "target_gender": "male",
+      "cause_raw": "past mistakes",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p2179_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't lose heart. Time heals everything. Grandpa, every relation is important but in today's world.......who gets such a good and caring brother! If anything happens to him then l...No, no. don't think like that. I promise you that very soon......you'll see your brother happy and smiling. Yes, dear...I didnt know that this young and naughty boy has a heart......of gold. I am so proud of you, my boy. Ashok, dear, Happy New Year. Do you think this light......and party is for my happiness? My happiness was over......the day your parents died in an air crash. From that day on......I hide my tears and live for you children. I kept smiling. But if you're not happy, what's the use of this fake smile?",
+      "target_person": "Ashok",
+      "target_gender": "male",
+      "cause_raw": "caring for siblings",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2180_bolly",
+      "emotion": "pride",
+      "dialogue": "Today, I feel that I was wrong. Ashok was right. My love has spoiled Vimal. Today, the pride of my house is wandering at brothels. I will show him a path. Leave it to me.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

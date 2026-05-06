@@ -1,0 +1,104 @@
+{
+  "film": {
+    "id": "37453",
+    "title": "Molly: An American Girl on the Home Front",
+    "year": "2006",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/2pnnRadfln0sIRUM8LlEg2aBfe7.jpg",
+    "overview": "Molly is a girl living in the year 1944 and WWII has brought many changes to Molly's life. An English girl comes to live with Molly's family to escape the bombings. They slowly become good friends."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Patriotism",
+      "count": 2
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 3,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP491_holly",
+      "emotion": "pride",
+      "dialogue": "Molly McIntire, that's the silliest thing I ever heard.  - It's a perm. - It's natural.  ...and, on another continent, the Queen of England proudly watches  as the future queen, Princess Elizabeth, with her sister Princess Margaret Rose,  sets out for her first official review.",
+      "target_person": "Queen of England",
+      "target_gender": "female",
+      "cause_raw": "Princess Elizabeth's first official review",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP492_holly",
+      "emotion": "pride",
+      "dialogue": "But there are thousands of our young men over there who need doctors.  I have to go.  - I'm awfully proud of you, Dad. - I wish I could sign up with you.  Is Mom gonna hang a blue star in the window when you go?  Well, lots of houses around here have them.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "going to serve as a doctor for soldiers",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "WP493_holly",
+      "emotion": "pride",
+      "dialogue": "Is Mom gonna hang a blue star in the window when you go?  Well, lots of houses around here have them.  That's something to be proud of.  And the houses with gold stars?  The soldiers who lived there aren't ever coming back.",
+      "target_person": "speaker 2",
+      "target_gender": "unclear",
+      "cause_raw": "having a blue star in the window symbolizing a family member serving in the military)",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "WP494_holly",
+      "emotion": "pride",
+      "dialogue": "And the houses with gold stars?  The soldiers who lived there aren't ever coming back.  So what's the use of being proud?  I'm gonna be looking after patients, Molly. I won't be on the front lines.  You don't have to be on the front lines to be hurt or... I'm going upstairs.",
+      "target_person": "Molly",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP495_holly",
+      "emotion": "pride",
+      "dialogue": "And then we had to look at an entire album of pictures of Johnny Gilford.  Starting from when he was a baby.  There's nothing wrong with Mrs. Gilford being proud of her son.  I never said there was. But I don't have to be.  Something smells really good in the kitchen.",
+      "target_person": "Mrs. Gilford",
+      "target_gender": "female",
+      "cause_raw": "her son's life achievements",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP496_holly",
+      "emotion": "pride",
+      "dialogue": "But for now, you are the very best Molly you could ever be.  - Aunt Eleanor. - Yes, Dutch?  I'm so proud of you.  Your Aunt Eleanor loves adventure.  It's more than that, Mom. She's doing what she has to do.",
+      "target_person": "Dutch",
+      "target_gender": "male",
+      "cause_raw": "Aunt Eleanor being adventurous and doing what she has to do",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP497_holly",
+      "emotion": "pride",
+      "dialogue": "Just like Tom wouldn't want me to stop doing what I love.  To be with my class, to be making music.  We have to do them proud, don't we?  Yes.  And visit as often as you like.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "doing what they love and making music",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "9942",
+    "title": "Major League",
+    "year": "1989",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ypUedY9zX4nGGf1lQv1UGc8PhPA.jpg",
+    "overview": "When Rachel Phelps inherits the Cleveland Indians from her deceased husband, she's determined to move the team to a warmer climate—but only a losing season will make that possible, which should be easy given the misfits she's hired. Rachel is sure her dream will come true, but she underestimates their will to succeed."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS991_holly",
+      "emotion": "shame",
+      "dialogue": "My first autograph.  Couldn't give these away a couple of weeks ago.  I saw your record on the news. You made their Hall of Shame.  Congratulations.  -Thanks. -Hey, thank you.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "poor performance or failure",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP1865_holly",
+      "emotion": "pride",
+      "dialogue": "I haven't seen you in three years. You never even wrote me a letter.  Well, I'm sorry about that,  but I wasn't exactly proud of my situation.  Come on, you never thought about me at all while I was gone?  Yeah, Jake, not so loud.",
+      "target_person": "Jake",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1866_holly",
+      "emotion": "pride",
+      "dialogue": "If you don't blow it.  By the way, I saw your wife at the Capri Lounge last night.  Hell of a dancer. You must be very, very proud.  That guy she was with,  I mean, I'm sure he's a close personal friend and all,",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "wife's dancing skills",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

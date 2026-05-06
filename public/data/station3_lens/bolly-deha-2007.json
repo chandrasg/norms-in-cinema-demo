@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "462352",
+    "title": "Deha",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/7m9SMq1TjaKBhJjdDAWbruqGCbi.jpg",
+    "overview": "Sandhya Joshi's mom had wanted her daughter to study, at least complete her graduation in Commerce, before getting married. Her husband, however, thought otherwise and before Sandhya could complete her education, he got her married to Madhav Desai, the first ever man to enter Sandhya's life. The marriage takes place and Sandhya moves in with Madhav and his mom. Madhav makes it clear that he wants a child from her, however, years roll by without the couple conceiving. The second man to enter Sandhya's life is Lakshman, who she hires to do the cooking and housekeeping. The third man is Anirban H. Pandopadhyay, a violinist, who lives in a rented apartment. Sandhya does not know that soon she will be arrested by the police for killing one of the three men in her life. Watch as events unfold to see who was killed and what possessed Sandhya to kill him."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s990_bolly",
+      "emotion": "shame",
+      "dialogue": "Who will take care of madam if I marry? So are you going to remain single all your life? I'm the only one she has. - What are you saying? Shameless. You've gone crazy for her. I feel that witch has charmed you.",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "choosing to remain single to take care of someone",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s991_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't need to. You're smelling of lust. You're a sick man. - And you're a cheap woman, Rene. Shame on you. I had not imagined I would see this side to you. You're so insecure of your old age.",
+      "target_person": "Rene",
+      "target_gender": "female",
+      "cause_raw": "Accused of being lustful and insecure about aging",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p501_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm very sorry. - It was good in a way. Arthritis. Diabetes. She couldn't even see properly. But I'm proud of her. She never compromised with her self-respect. I told her many times to come live with me. But no.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "mother's self-respect and independence",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

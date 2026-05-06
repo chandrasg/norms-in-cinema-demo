@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "21607",
+    "title": "Kisaan",
+    "year": "2009",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/r2ALo5BqiKWI6In0l3nPWcjy76m.jpg",
+    "overview": "A bitter family battle ensues between a father and his sons when a businessman makes a deal that entices farmers to sell off their properties."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    },
+    {
+      "label": "Financial Success",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1625_bolly",
+      "emotion": "pride",
+      "dialogue": "And our hard work turns into lush green meadows.. \"Turns into lush green meadows.\"  We've carved our own fates. And the farmer is the pride and glory of the land.  Farmers are its life.  The world is below, and God above.",
+      "target_person": "farmer",
+      "target_gender": "male",
+      "cause_raw": "hard work and contribution to the land",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p1626_bolly",
+      "emotion": "pride",
+      "dialogue": "There never comes such a day.  We stand firm, like soldiers.. \"..and look after everyone.\" And the farmer is pride and glory of the land.  Farmers are its life.  The world is below, and God above.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being a farmer",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1627_bolly",
+      "emotion": "pride",
+      "dialogue": "And after going to the city, he has become intelligent too.  She's a nice girl.  The whole community is proud of him. Many others have also come from the city.  Why are you telling me all this?",
+      "target_person": "community",
+      "target_gender": "male",
+      "cause_raw": "becoming intelligent",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p1628_bolly",
+      "emotion": "pride",
+      "dialogue": "There shouldn't be a day. Like a soldier, we look after everyone. And the farmer is the pride of Mother Earth.  Farmer is the life and soul.  The world is below, and God above.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being a farmer",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "film": {
+    "id": "15084",
+    "title": "Salaam Namaste",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "AU|IN",
+    "poster_path": "/wL1lm92Da9R7VEPXD0ZCSt1kuUd.jpg",
+    "overview": "Two young Indian expatriates in Melbourne, Australia, Nick, a chef and radio host Ambar, who decide to live together without marriage, leading to conflict and unexpected parenthood when Ambar gets pregnant."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1847_bolly",
+      "emotion": "shame",
+      "dialogue": "his name from Nikhil Arora to Nick? Nikhil is ugghhh. Nick is cool. Is he one of those Indians who are ashamed of being Indian? I mean, what is this Nick business? Yo. I'm cool. I'm Australian. I'm Nick .",
+      "target_person": "Nikhil Arora",
+      "target_gender": "male",
+      "cause_raw": "Changing his Indian name to a Western one",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1848_bolly",
+      "emotion": "shame",
+      "dialogue": "Crap! What's she doing? . What's worth thinking about is, what else is Nikhil Arora ashamed of? For example, is he ashamed of his face? Maybe he's really ugly. Maybe that's why he became a chef. To hide inside kitchens..and not show his face around.",
+      "target_person": "Nikhil Arora",
+      "target_gender": "male",
+      "cause_raw": "personal appearance",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1849_bolly",
+      "emotion": "shame",
+      "dialogue": "What's worth thinking about is, what else is Nikhil Arora ashamed of? For example, is he ashamed of his face? Maybe he's really ugly. Maybe that's why he became a chef. To hide inside kitchens..and not show his face around. On that note, here's a song for you..What the.. .",
+      "target_person": "Nikhil Arora",
+      "target_gender": "male",
+      "cause_raw": "personal appearance",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1850_bolly",
+      "emotion": "shame",
+      "dialogue": "I think it's disgusting. Tell me..Would you tolerate this behaviour from your husband? I'm sorry, but what's the connection? - There is a connection! How can you trust a man who's ashamed to be an Indian? My god, you're really angry. Yes. And Mr Nikhil Arora will have to face my anger until..he calls and apologises to my listeners.",
+      "target_person": "Nikhil Arora",
+      "target_gender": "male",
+      "cause_raw": "ashamed of his nationality",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1851_bolly",
+      "emotion": "shame",
+      "dialogue": "You've finally come to your senses. What? I wasn't talking to you. It's all right Nikhil. There's nothing to be ashamed of. You made a mistake, and now you've apologized. Now listen to me. I'm going to give you another chance.",
+      "target_person": "Nikhil",
+      "target_gender": "male",
+      "cause_raw": "Making a mistake",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p963_bolly",
+      "emotion": "pride",
+      "dialogue": "Look Ambar, this is your last warning..Stuff your last warning and listen to me. Unless you appear on my show and apologise to my listeners..I won't let you off the hook. Now choose one. Your pride or your career? You'll sacrifice at least one of them. You! You..Salaam Namaste. What happened? - I think I won.",
+      "target_person": "Ambar",
+      "target_gender": "male",
+      "cause_raw": "Winning over a conflict",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p964_bolly",
+      "emotion": "pride",
+      "dialogue": "You! You..Salaam Namaste. What happened? - I think I won. Good. Well done, I'm proud of you. Obviously you're not gaping like that at my food. My palm is itching.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p965_bolly",
+      "emotion": "pride",
+      "dialogue": "Has your loan been processed? Almost. The formalities will be over by the afternoon. And then, I will be the proud owner of Nick's Boat Nick's Boat? - That's the name. It's horrible. - I love it.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "owning a boat",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p966_bolly",
+      "emotion": "pride",
+      "dialogue": "On this very show, Nick fell in love with Hambar. But the story is not over. Ladies and gentlemen, Salaam Namaste proudly presents, Hambar versus Nick, part two. My name is Nikhil Arora.",
+      "target_person": "Nikhil Arora",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

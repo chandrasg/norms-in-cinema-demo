@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "306364",
+    "title": "Police Force: An Inside Story",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/naOpwedKoEurggzpXzQ9CepVREi.jpg",
+    "overview": "Senior police officer Pandey is called in to train a new batch of trainee officers that the Indian police force wants to recruit. He does manages to induct some sense of fair-play in these officers and gets them assign to their place of duty; but these officers will find that there real life scenario are different and must deal with the world at large consisting of corrupt high-ranking police officers, dishonest politicians and gangsters. How they deal with them will shape their destinies."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1413_bolly",
+      "emotion": "shame",
+      "dialogue": "Dada party if you had good taste ...... They will not be dispatched so against you. At least acknowledge his defeat. It is a shame! The bandits are so brave ...... they can kill anyone at any time in broad daylight! They no longer fear the police. Sir Savant supported Raatan Seti the upcoming elections.",
+      "target_person": "Dada party",
+      "target_gender": "unclear",
+      "cause_raw": "poor taste and defeat",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1414_bolly",
+      "emotion": "shame",
+      "dialogue": "Someone is trying to unduly benefit by publishing false news. What is truth and what is a lie we do not know, sir. Evil elements shamelessly doing their deeds ...... and we are completely helpless. We have seen how they do it. With great difficulty, they found time to trap Vijay. Sir, in this vicious system, the innocent can easily go to the gallows ...... but it is very difficult to be released.",
+      "target_person": "Vijay",
+      "target_gender": "male",
+      "cause_raw": "false accusations",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "p746_bolly",
+      "emotion": "pride",
+      "dialogue": "What do you think guys? Vijay is a villain and a would be closed. Is there something to be proud of? I learned it on the soldiers' definition of honor and showed him the path. After this time, he was buried in a quagmire ...... and put life and career in jeopardy.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "guiding someone on the right path",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p747_bolly",
+      "emotion": "pride",
+      "dialogue": "You know what this is? You know what? This is the pride of our people. This flag symbolizes our integrity and dignity! In order to keep millions of people have given their lives.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "flag symbolizing integrity and dignity",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

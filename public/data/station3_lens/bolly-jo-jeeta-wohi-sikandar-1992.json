@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "33202",
+    "title": "Jo Jeeta Wohi Sikandar",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ua2QjZneNg6FsxrccsTkLy1wnwc.jpg",
+    "overview": "Sanjay, a carefree young man, experiences mental and physical transformation to compete in an inter-collegiate bicycle race after his elder brother is unable to participate due to an injury."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2779_bolly",
+      "emotion": "shame",
+      "dialogue": "By fighting over a couple of girls from Queens college...you have maligned the reputation of Rajput college. If you have a goon-like tendency, you should have joined a sleazy college. And you, Shekhar,... The captain of this college...Weren't you ashamed of quarreling at an ordinary cafe? Sir, it was my fault. It won't occur again. If it occurs again, you will be suspended. All of you.",
+      "target_person": "Shekhar and other boys",
+      "target_gender": "male",
+      "cause_raw": "behaving like goons and quarreling",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2780_bolly",
+      "emotion": "shame",
+      "dialogue": "And make sure that the cups are washed and clean. Chotu, give me 2 cups of coffee. See? He doesn't seem to be ashamed. He is a perfect example of a jerk from Model School. Is this Thapar's son? - That's what he told me.",
+      "target_person": "Thapar's son",
+      "target_gender": "male",
+      "cause_raw": "Being disrespectful or not adhering to social norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p1452_bolly",
+      "emotion": "pride",
+      "dialogue": "Will you come along sometime? - Sure. Chilled. He's too proud of himself. You've fetched the bottles but forgotten the straws... Fool! He's got the intelligence of a child.",
+      "target_person": "he",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1453_bolly",
+      "emotion": "pride",
+      "dialogue": "I spared them because of father. Next time I won't spare them. What will you do? You talk utter rubbish. Shekhar is proud and very ill-mannered. Ratan will break his pride. Ratan, I have decided to buy an imported cycle for you. But father, an imported cycle costs around 12 to 15 thousand rupees.",
+      "target_person": "Ratan",
+      "target_gender": "male",
+      "cause_raw": "receiving an imported cycle",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

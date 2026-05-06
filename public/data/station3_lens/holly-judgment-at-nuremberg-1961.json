@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "821",
+    "title": "Judgment at Nuremberg",
+    "year": "1961",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/b6vYatvui1EXeFYfpDX4rcbueuP.jpg",
+    "overview": "In 1947, four German judges who served on the bench during the Nazi regime face a military tribunal to answer charges of crimes against humanity. Chief Justice Haywood hears evidence and testimony not only from lead defendant Ernst Janning and his defense attorney Hans Rolfe, but also from the widow of a Nazi general, an idealistic U.S. Army captain and reluctant witness Irene Wallner."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1154_holly",
+      "emotion": "shame",
+      "dialogue": "required judges to wear the insignia of the swastika on their robes.  - Did you wear such an insignia? - No.  I would have been ashamed to wear it.  - Did you resign in 1935? - Yes, sir.  Did Ernst Janning wear a swastika on his robe?",
+      "target_person": "Ernst Janning",
+      "target_gender": "male",
+      "cause_raw": "wearing a swastika insignia",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS1155_holly",
+      "emotion": "shame",
+      "dialogue": "Devastating films.  As a German,  I feel ashamed that such things could have taken place in my country.  There can never be a justification for them,  not in generations, not in centuries.",
+      "target_person": "German",
+      "target_gender": "male",
+      "cause_raw": "atrocities committed by his country in the past",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "WP2148_holly",
+      "emotion": "pride",
+      "dialogue": "- Do you have a family? - Yes, I have a daughter,  - and she has four children. - Four?  - You must be very proud of them. - Yes, I am. I admit it.  - And where's your wife? - She died a few years ago.  Zigaretten?",
+      "target_person": "daughter's parent",
+      "target_gender": "male",
+      "cause_raw": "having grandchildren",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2149_holly",
+      "emotion": "pride",
+      "dialogue": "can you understand what Hitler meant to us.  Because he said to us:  \"Lift your heads. Be proud to be German.\"  \"There are devils among us... communists, liberals, Jews, Gypsies.\"  \"Once these devils will be destroyed, your misery will be destroyed.\"",
+      "target_person": "Hitler",
+      "target_gender": "male",
+      "cause_raw": "instilling national pride and promising to end misery",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

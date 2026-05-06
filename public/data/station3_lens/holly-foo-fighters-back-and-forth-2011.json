@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "61488",
+    "title": "Foo Fighters: Back and Forth",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/9t11iPy8Mo5O4yHorqcKXXDLwtt.jpg",
+    "overview": "FOO FIGHTERS BACK AND FORTH chronicles the 16 year history of the Foo Fighters: from the band's very first songs created as cassette demos Dave Grohl recorded during his tenure as Nirvana's drummer, through its ascent to their Grammy-winning, multi-platinum, arena and stadium headlining status as one of the biggest rock bands on the planet."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1709_holly",
+      "emotion": "pride",
+      "dialogue": "thinking, \"I bet you this is the only record made in a basement  \"that's gonna win a Grammy this year.\"  And I was so f*****' proud.  Take care, thank you very much, everybody.  Roll camera. OK, and roll sound. Roll playback!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "winning a Grammy",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1710_holly",
+      "emotion": "pride",
+      "dialogue": "And we re-recorded the album in seven days in my basement.  It was all finished really quickly, and it had the passion,  it had the feel and sound that was like... a record we could be proud of.  I remember that being like, the turning point. Like, \"OK, this isn't ending.\"  We had already spent three months and a million dollars",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "re-recording the album quickly and passionately",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1711_holly",
+      "emotion": "pride",
+      "dialogue": "Sorry, I broke a drumstick!  Then it slowly evolves and comes together after a couple hours,  and I have a drum track I'm really proud of.  The drums are finished.  I'm still not sure about These Days. I could sit there and agonize all day",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "creating a drum track",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

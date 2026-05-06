@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "509989",
+    "title": "Hatyara",
+    "year": "1977",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/4rjxe1ktUqcwMAAe3opWD4sEnjG.jpg",
+    "overview": "Daulat Singh and Bhairav Singh are bandits in India and live a violent lifestyle. Daulat is married to Shanta and has two children, Vijay and Geeta. One Diwali he accidentally kills a man, leaving behind a son and his mother almost destitute. Moved by their plight, he surrenders to the Police, is arrested, tried in Court, and sentenced to life in prison."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2340_bolly",
+      "emotion": "shame",
+      "dialogue": "Really! - Look! Where to? In your eyes or your heart. - Shut up. Shameless! What if the Goddess hears it? So what? - Kid, I'm hearing it all! Wait! Let me go and meet the Goddess. - Okay.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "inappropriate flirtation",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2341_bolly",
+      "emotion": "shame",
+      "dialogue": "And will they forget that you were famous with the name of Daulat Singh. Did you forget? Shameless! There's a very rare chance that a son would..\"Address the murderer of his son as a noble man! Why don't you admit that his daughter has cast a spell on you?",
+      "target_person": "Daulat Singh",
+      "target_gender": "male",
+      "cause_raw": "Being influenced by a woman",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1218_bolly",
+      "emotion": "pride",
+      "dialogue": "Son, now that you have tied these bullets to you. Where should I hide my prestige now? Speak up. The turban that made me feel so proud, while getting it tied. Father, it no longer is a respect but a disgrace. Throw it away.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's actions",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "2690",
+    "title": "Irma la Douce",
+    "year": "1963",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/5TgL8ql6WwXWmX4EvBL4geJ7gx5.jpg",
+    "overview": "When a recently fired policeman falls in love with a French prostitute, he doesn't want her to be with other men, so he creates an alter-ego in order to become her only customer."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS822_holly",
+      "emotion": "shame",
+      "dialogue": "- I was up there unpacking my samples. - Come on.  Over.  You oughta be ashamed of yourself, scaring a poor dog like that.  They ought to take that dog away from you - you're not a fit mother.  Quiet, quiet!",
+      "target_person": "Unnamed Woman",
+      "target_gender": "female",
+      "cause_raw": "mistreating a dog",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "WS823_holly",
+      "emotion": "shame",
+      "dialogue": "- The gardener? - The other day I was watching them... ...from the turret of the castle.  ...from the turret of the castle.  They were in the flower bed together... ...and he was pruning her begonias. - They oughta be ashamed.  ...and he was pruning her begonias. - They oughta be ashamed.  Yes, and it was such a jolly marriage, those first few years.",
+      "target_person": "gardener",
+      "target_gender": "male",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WS824_holly",
+      "emotion": "shame",
+      "dialogue": "...from the turret of the castle.  They were in the flower bed together... ...and he was pruning her begonias. - They oughta be ashamed.  ...and he was pruning her begonias. - They oughta be ashamed.  Yes, and it was such a jolly marriage, those first few years.  We'd sit in front of the fire and play double solitaire and Chinese chequers.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WP1520_holly",
+      "emotion": "pride",
+      "dialogue": "D'you want the other girls to think I can't support my man?  I want you to be better dressed than anybody else.  I want you to have more money in your pockets. I wanna be proud of you.  But, Irma, you don't understand. I never felt like this about anybody... That's why I'm gonna work twice as hard for you as I ever did for any of the others.  That's why I'm gonna work twice as hard for you as I ever did for any of the others.",
+      "target_person": "Irma",
+      "target_gender": "female",
+      "cause_raw": "supporting her man financially",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP1521_holly",
+      "emotion": "pride",
+      "dialogue": "Somehow it wound up in my pocket.  Old goat.  - How did it go? - You would have been proud of me.  What a performance! Like Sir Laurence Oliver.  That's Laurence Olivier. And watch your ascot.",
+      "target_person": "Old goat",
+      "target_gender": "male",
+      "cause_raw": "giving a good performance",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP1522_holly",
+      "emotion": "pride",
+      "dialogue": "- MPP? - Macs of Paris Protective Association.  - Me? - It was unanimous.  It's an honour. I'm sure you can find somebody more deserving... We accept! Oh, I'm so proud of you.  We accept! Oh, I'm so proud of you.  Champagne for everybody!",
+      "target_person": "unidentified speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being chosen for Macs of Paris Protective Association",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1523_holly",
+      "emotion": "pride",
+      "dialogue": "- Me? - It was unanimous.  It's an honour. I'm sure you can find somebody more deserving... We accept! Oh, I'm so proud of you.  We accept! Oh, I'm so proud of you.  Champagne for everybody!  Hey! Free champagne!",
+      "target_person": "unidentified speaker",
+      "target_gender": "unclear",
+      "cause_raw": "for receiving an honor",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

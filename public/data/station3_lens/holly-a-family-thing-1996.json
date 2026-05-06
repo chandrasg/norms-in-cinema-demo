@@ -1,0 +1,93 @@
+{
+  "film": {
+    "id": "41852",
+    "title": "A Family Thing",
+    "year": "1996",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/1IHxwmguaeytGo6m0wZaS0s3fP.jpg",
+    "overview": "Earl Pilcher Jr. runs an equipment rental outfit in Arkansas, lives with his wife and kids and parents, and rarely takes off his gimme cap. His mother dies, leaving a letter explaining he's not her natural son, but the son of a Black woman who died in childbirth; plus, he has a half brother Ray, in Chicago, she wants him to visit. Earl makes the trip, initially receiving a cold welcome from Ray and Ray's son, Virgil. His birth mother's sister, Aunt T., an aged and blind matriarch, takes Earl in tow and insists that the family open up to him."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS574_holly",
+      "emotion": "shame",
+      "dialogue": "in this house.  Yeah, that's your own flesh and blood sitting in there,  both of you. Now, don't shame this family and my sister's sweet soul,  putting her little boy out in the street. Ray, I think you need to get a backbone  and set your son down and tell him the truth.",
+      "target_person": "Ray",
+      "target_gender": "male",
+      "cause_raw": "not taking responsibility for his son",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP1220_holly",
+      "emotion": "pride",
+      "dialogue": "Uh... uh-huh. Uh-huh.  Ah, yeah, uh-huh.  Ray, why don't you leave your pride on that couch  and go find him? I ain't studyin' that fool.  Damned old b*****d,",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1221_holly",
+      "emotion": "pride",
+      "dialogue": "that nobody but kids went to bars around here.  Now, are you the husband? Yes, I am.  I'm sure you're a proud man. Yeah. Yeah.  Do you care if I, uh... take her for a spin on the dance floor,  take her for a spin on the dance floor,",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1222_holly",
+      "emotion": "pride",
+      "dialogue": "You have to kill anybody?  Hmm? I did.  I'm not proud of it.  You ever wounded?  No. Aunt T. Gave me a rabbit's foot",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1223_holly",
+      "emotion": "pride",
+      "dialogue": "Now... Heh. Your daddy's a good man.  Heh. Your daddy's a good man.  What can I say? I mean, I'm, uh... Hell, I'm... I'm proud to call myself his brother.  I'm proud to call myself his brother.  Don't tell him I said that,",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "being related to a good man",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1224_holly",
+      "emotion": "pride",
+      "dialogue": "Heh. Your daddy's a good man.  What can I say? I mean, I'm, uh... Hell, I'm... I'm proud to call myself his brother.  I'm proud to call myself his brother.  Don't tell him I said that,  or I'll kick your a*s.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "being the brother of a good man",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

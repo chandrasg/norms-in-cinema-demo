@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "44635",
+    "title": "Just a Kiss",
+    "year": "2002",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/6dH5EELSkd3neQldQGcLRImsPyF.jpg",
+    "overview": "A group of thirtysomethings having problems with fidelity gets an opportunity to turn back the clock."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1066_holly",
+      "emotion": "shame",
+      "dialogue": "Casim's left home and he's living with you.  And erm... as far as my family's concerned and my community's concerned,  it's brought a great deal of shame on all of us.  You see, we have this concept called \"izzat\"... ...which I guess is family honour,  ...which I guess is family honour,",
+      "target_person": "Casim",
+      "target_gender": "male",
+      "cause_raw": "living with someone not accepted by his family/community",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WP2035_holly",
+      "emotion": "pride",
+      "dialogue": "Woman of Muslim descent... who... supports... Glasgow Rangers in a Catholic School.  Glasgow Rangers in a Catholic School.  Cos I'm a dazzling mixture and I'm proud of it.  (Cheering and booing)  I call on this house to defeat this hypocritical motion!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being a dazzling mixture supporting Glasgow Rangers in a Catholic School)",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2036_holly",
+      "emotion": "pride",
+      "dialogue": "in a cave, whispered the word of God word by word into Mohammed's ear.  Exactly.  There's still so much I'm proud of.  Do you know what \"zakah\" means?  It's when you give a percentage of your income to the poor.",
+      "target_person": "Unnamed Character",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

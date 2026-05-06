@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "161451",
+    "title": "Nazar Ke Samne",
+    "year": "1995",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/kLwEdi49tBdd8VotEmby2j5nR1C.jpg",
+    "overview": "Umesh is accused of killing a newspaper editor. His wife and mother hire a reputed lawyer named Sangram Singh Sahni, who agrees to be the defense lawyer without charging them any fees. The case is going in Umesh's favor, until a young man named Jai Kumar, comes as an eye-witness and states that he has seen Umesh commit the murder from his balcony right opposite the venue of the murder. Umesh is convicted and sentenced to death. Umesh's sister, Sarita, finds out that Jai was paid to lie, and she approaches him to change his testimony. He refuses, but subsequently relents when he finds out the havoc he has caused in their lives. He approached Advocate Sahni, who attempts to do his best to get a new trial, in vain, though and Umesh is set to die within one week. Now Jai must come up with the person who really killed the Newspaper Editor, and the only clue he has is a photograph of the killer's shoes..."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3780_bolly",
+      "emotion": "shame",
+      "dialogue": "In fact, he is very busy right now. He went on vacation with his girl to spend some money Shameless reptile. 'Come close to me...''... Bring me to a state of ecstasy. ' 'Every pore of my body speaks when my heart ask me a question.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "spending money on vacation with girlfriend",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3781_bolly",
+      "emotion": "shame",
+      "dialogue": "That's what happens to me when I see you.  Stay awake through the night, I can not sleep.  I am ashamed, I'm afraid of myself. ... when you came before my eyes.  They asked the Lord, my love. Our love for each other Will never decline",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3782_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll never be able to earn enough to make my son a successful person.... and to buy back my wife's jewelry. That is why I cannot go back to Kashmir. I would be ashamed to return empty-handed. How will I be able to face my son? So every year on the birthday of my son...... I invite these children and celebrate his birthday.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "not being able to provide for his family",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2012_bolly",
+      "emotion": "pride",
+      "dialogue": "Sir, you have very nice shoes. Such and should be. They are special And were made for me. There is only one such pair in the city I am proud of its owner. No, sir. I've seen those shoes before. But the only difference was that they were dirty with blood.",
+      "target_person": "owner",
+      "target_gender": "male",
+      "cause_raw": "owning unique shoes",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2013_bolly",
+      "emotion": "pride",
+      "dialogue": "Poverty is a curse. Hear me, man! You will never get such a chance again. All you have to do is kill one man  and you will become the proud owner of...... five hundred thousand rupees. Pay attention! This is no small sum. Think about it. Your Ahmed will be with you your wife will be with you. Ahmed will be well taken care of and one day become a successful person.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "financial gain",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

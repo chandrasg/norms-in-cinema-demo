@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "510461",
+    "title": "Fiffty Fiffty",
+    "year": "1981",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/mbKZnY3hmg6YRDj4QBE4wyOub7S.jpg",
+    "overview": "Thakur Virendra Singh lives a wealthy lifestyle in India along with his wife and a son, Kumar. His relative Bihari is envious, and successfully switches his son, Kishan, with Kumar, and also ends up killing Virendra. In this manner, Kumar grows up a wealthy lifestyle, while Kishan lives a poor lifestyle, shunned by his father and his mother, who has lost the use of her vocal chords. Bihari takes Kishan to his brother in Bombay, and leaves him there to lead a life of crime. 20 years later, Kishan has grown up and is now a master burglar. He meets with another burglar, Mary, and both decide to be fifty fifty partners. However, Mary has other plans, she ditches Kishan and joins forces with Diwan Shamsher Singh to masquerade as the long-lost daughter of Ranimaa of Chandpur. Mary does not know that it was the Diwan who has done away with Rajkumari Ratna, and he will not hesitate to kill Mary - or anyone else who dares to stand in his way and the treasure of Chandpur."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5285_bolly",
+      "emotion": "shame",
+      "dialogue": "You always keep hitting my innocent son. Bihari, your son takes undue......advantage of our love and favors. I am very ashamed, madam. He is getting spoilt day by day. It is not good for him to stay here otherwise......even Kumar will get spoilt in his company. Just tomorrow I will send him to his uncle.",
+      "target_person": "Bihari's son",
+      "target_gender": "male",
+      "cause_raw": "Misbehavior and bad influence",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5286_bolly",
+      "emotion": "shame",
+      "dialogue": "Let go of me, you cruel. Let go of me. Be afraid of the judgment of god. You shameless. Does your rule teach you......to snatch the honor of a woman? I say let go of me. Let go of me. What are you seeing? He is not snatching my honor, but of your mother, sister......and your daughter. Have some shame at least.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "violation of her honor",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s5287_bolly",
+      "emotion": "shame",
+      "dialogue": "You shameless. Does your rule teach you......to snatch the honor of a woman? I say let go of me. Let go of me. What are you seeing? He is not snatching my honor, but of your mother, sister......and your daughter. Have some shame at least. Let go of me, you scoundrel. May god teach you a lesson. Help me. Help me.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s5288_bolly",
+      "emotion": "shame",
+      "dialogue": "That son whom I didn't give birth but I achieved everything. And the one I gave birth to has no value of me. Oh my God! Don't you feel ashamed? You are lying to the mistress to save your son's life. Whom we served through out our life.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "lying and disrespecting parents",
+      "theme_label": "Disrespect"
+    }
+  ]
+}

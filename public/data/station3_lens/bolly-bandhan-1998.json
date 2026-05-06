@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "161229",
+    "title": "Bandhan",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/4eL44roDevhwdu87MkLNzucG2ps.jpg",
+    "overview": "Unable to bear a child, Pooja is asked to compromise with her husband's new mistress or leave the house. Pooja's brother, Raju decides to fight for his sister and reunite her with her husband."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s411_bolly",
+      "emotion": "shame",
+      "dialogue": "- What if I take a peep? Okay I won't. You can if you wish. Look! That idiot is coming. It's really very shameful. Very shameful indeed! That Raju, he beat up my man. Like a dog, and humiliated me! - He's coming... - And these village folks......they listened to all this like some film story.",
+      "target_person": "Raju",
+      "target_gender": "male",
+      "cause_raw": "physical assault and public humiliation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s412_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey you, Richie Rich... Come on out! Coming here like this at your age. Gathering people and making noise. - Aren't you ashamed? - Who should be ashamed, I say? The one who gave you her lovely daughter in marriage......or the one who illegally wedded a w***e on the sly? - Wrong! I married her in your son's presence. Didn't he tell you?",
+      "target_person": "Richie Rich",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior for his age and illegal marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s413_bolly",
+      "emotion": "shame",
+      "dialogue": "No tantrums now, dear bride. I had come at your door to wed you. But you created chaos! Now I'll wed you forcibly. Aren't you ashamed to force yourself on a girl? Shamelessness is in their genes. I was just mouthing her thoughts. - Now don't interrupt. Else I'll suffocate you! - Great!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "forcing himself on a woman",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s414_bolly",
+      "emotion": "shame",
+      "dialogue": "But you created chaos! Now I'll wed you forcibly. Aren't you ashamed to force yourself on a girl? Shamelessness is in their genes. I was just mouthing her thoughts. - Now don't interrupt. Else I'll suffocate you! - Great! Why should I get blamed? Why will I open my mouth?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "forced marriage",
+      "theme_label": "Marital Status"
+    }
+  ]
+}

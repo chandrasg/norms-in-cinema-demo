@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "242083",
+    "title": "Hits",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/w7TdwnSh5McR5J28ZHTvttTKaCi.jpg",
+    "overview": "A talentless teen will do anything to get on TV's \"The Voice.\" Meanwhile, her father, a municipal worker, creates an uproar when a video of his rants at City Hall goes viral."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS114_holly",
+      "emotion": "shame",
+      "dialogue": "- Time. - We have pot... we have potholes.  Time. Thank you, Mr. Stuben.  Well, and I think it's a crying shame, Ms. Casserta,  and you should table this.  You and Mr. Hurlickson should table this,",
+      "target_person": "Ms. Casserta",
+      "target_gender": "female",
+      "cause_raw": "not addressing community issues",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "WS115_holly",
+      "emotion": "shame",
+      "dialogue": "Last night.  And this was at a meeting?  It's a crying shame, Ms. Casserta,  and you should table this.  You and Mr. Hurlickson... No.",
+      "target_person": "Ms. Casserta",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior at a meeting",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WS116_holly",
+      "emotion": "shame",
+      "dialogue": "Yeah, b*****s!  I'm a veteran of two wars, and I can tell you,  the Founding Fathers would be ashamed of our behavior.  They would laugh at us.  Adding a stop sign at the corner of Dumont and Crawford",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "disrespecting veterans and the Founding Fathers",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "WP150_holly",
+      "emotion": "pride",
+      "dialogue": "- Yeah? - Yeah.  Good for you.  I'm so proud of you.  When can I hear it?  Oh, I'm not sure yet,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP151_holly",
+      "emotion": "pride",
+      "dialogue": "Fingers crossed.  Okay.  That's awesome.  I'm so proud of you.  Thanks.  Good luck.  What's that supposed to mean?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP152_holly",
+      "emotion": "pride",
+      "dialogue": "Tonight they gonna pay.  Will they say my name out loud,  do my mama proud, I'm allowed.  As I force-field my rhymes  through intergalactic prime times,",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "making his mother proud through his rhymes",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

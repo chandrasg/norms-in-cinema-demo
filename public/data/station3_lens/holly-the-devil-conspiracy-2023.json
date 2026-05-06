@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "296271",
+    "title": "The Devil Conspiracy",
+    "year": "2023",
+    "industry": "holly",
+    "country": "CZ|US",
+    "poster_path": "/gZCWgbIq2IBDRMJmdx5NeYbbigL.jpg",
+    "overview": "A powerful biotech company has breakthrough technology allowing them to clone history’s most influential people with just a few fragments of DNA. Behind this company is a cabal of Satanists that steals the shroud of Christ, putting them in possession of Jesus’ DNA. The clone will serve as the ultimate offering to the devil. The Archangel Michael comes to earth and will stop at nothing to end the devil’s conspiracy."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1373_holly",
+      "emotion": "shame",
+      "dialogue": "I should so like to pay a call on her.  Oh, it's just the weather, I think. It's been so cold and damp.  Yes. I feel quite ashamed of myself  for not having called before, but I've been so busy getting my shop ready.  Well, I must be going now.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "not visiting someone earlier",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WS1374_holly",
+      "emotion": "shame",
+      "dialogue": "Emile.  Emile, what's the matter? Emile! Emile!  Gentlemen, I'm ashamed of you.  Two crimes have been committed right under your very noses.  Radin has disappeared, Coulvet has been paralyzed.",
+      "target_person": "Gentlemen",
+      "target_gender": "male",
+      "cause_raw": "not preventing or solving crimes",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "WS1375_holly",
+      "emotion": "shame",
+      "dialogue": "But we can't stop now! There is so much left for us to do.  There's nothing left for me to do, Malita. The name of Lavond is cleared.  My mother and daughter will find nothing to be ashamed of.  I'm sorry, Malita, I didn't mean to speak harshly to you.  I've plans for you. You'll be well taken care of.",
+      "target_person": "Lavond",
+      "target_gender": "male",
+      "cause_raw": "unclear but possibly related to past actions",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS1376_holly",
+      "emotion": "shame",
+      "dialogue": "- Toto, have you seen the papers? - Yes, dear.  - Then you've read about Father? - Yes.  - Aren't you ashamed of me? - Of course not.  Well, I am, terribly. I'll never forgive myself never. I... I'm sorry?  I'm sorry?",
+      "target_person": "Toto",
+      "target_gender": "female",
+      "cause_raw": "feeling shame for her father's actions",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP2461_holly",
+      "emotion": "pride",
+      "dialogue": "I knew it must be.  I gave my little girl one just like it.  She was so proud of it.  They tell me I was, too, when I got it.  Something happen to change your feelings toward it?",
+      "target_person": "little girl",
+      "target_gender": "female",
+      "cause_raw": "receiving a gift",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2462_holly",
+      "emotion": "pride",
+      "dialogue": "\"Police are baffled by what they consider  \"a look of constant terror in Monsieur Coulvet's expression.\"  There, Malita, is my proud friend, Coulvet.  Taking up my sentence where I left off.  Congratulations, Lachna.",
+      "target_person": "Lachna",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

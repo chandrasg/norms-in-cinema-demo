@@ -1,0 +1,150 @@
+{
+  "film": {
+    "id": "348762",
+    "title": "Jis Desh Mein Ganga Rehta Hai",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/7uafbugXyAchvkdWJMA0JkmrvNe.jpg",
+    "overview": "Gangaram alias Ganga has been raised by his foster parents who reside in the village thus he gets accustom to village life. 24 years later his birth parents multi-millionaire Avinash and his wife Radha comes to ask him to move into their bungalow located in the city to which Ganga agrees and goes to bid farewell to his friends and girlfriend Saawni. While in the city Ganga is introduced to his elder brother, Milind, his wife, Supriya, and his younger brother; Ganga finds it very hard to adjust to the city life and is often scuffed at. Avinash arranges his marriage with equally wealthy Tina to which he agrees although he is not comfortable with this marriage as he is still in love with Saawni; meanwhile Ganga's honest policy gets him and his new found family into further problems."
+  },
+  "totals": {
+    "shame": 9,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2769_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh, what magic the fragrance holds...\"and sets feet dancing\" This is the land...\"where Ganga lives\" Ganga! You're shameless! I'm going to break your bones! Ma! Don't you hit him",
+      "target_person": "Ganga",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2770_bolly",
+      "emotion": "shame",
+      "dialogue": "Let go Dad! What are you doing here? Haven't you any work? Always dancing with girls! Aren't you ashamed? No Dad! It's the girls who are always dancing with me And you Saawni! I beg of you! You stay away from this a*s",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior for his age",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2771_bolly",
+      "emotion": "shame",
+      "dialogue": "No. Just the five of us Only five? People don't find a place to lie down and sleep. And such a big house...for just five? You should be ashamed. - Yes What d'you mean yes? You should be ashamed Welcome son. - Who's this?",
+      "target_person": "house owner",
+      "target_gender": "unclear",
+      "cause_raw": "having a big house for a small family",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2772_bolly",
+      "emotion": "shame",
+      "dialogue": "Only five? People don't find a place to lie down and sleep. And such a big house...for just five? You should be ashamed. - Yes What d'you mean yes? You should be ashamed Welcome son. - Who's this? Your mother. - Ma's back in the village",
+      "target_person": "house owner",
+      "target_gender": "unclear",
+      "cause_raw": "owning a large house with few occupants",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2773_bolly",
+      "emotion": "shame",
+      "dialogue": "Have mercy on me, sir! - We're all men here Problem, sir. - What problem? I'm wearing only pants. - What a shame! That's why I want a raise Put the phone down. - Put the phone down",
+      "target_person": "employee",
+      "target_gender": "male",
+      "cause_raw": "not being properly dressed",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2774_bolly",
+      "emotion": "shame",
+      "dialogue": "How come you're smoking beedies in front of everyone? This is called a cigarette. - Just because it's wrapped in whiie? Daddy, please tell him. - Dadi, you're shameless! Your grown up son puffs smoke into your face, and you say nothing? Son, what can I do? - What can I do?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "smoking in front of elders",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2775_bolly",
+      "emotion": "shame",
+      "dialogue": "What I was hiding, my eyes have told you Only lovers know what ecstasy love is When you caught my eyes, I was ashamed I was about to say something. But I hesitated, I was scared I know I've been caught. - Not once, a hundred times",
+      "target_person": "character in love",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2776_bolly",
+      "emotion": "shame",
+      "dialogue": "Supriya, I've been meaning to tell you something for a while. But...A woman seduced me Whatever Ganga said the other day... - Was true You're shameless! I've wronged you. I know. But hear me out For sometime, a woman has been blackmailing me...about carrying my baby",
+      "target_person": "Supriya",
+      "target_gender": "female",
+      "cause_raw": "Infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2777_bolly",
+      "emotion": "shame",
+      "dialogue": "He isn't the criminal Please stand in the dock and say whatever you have to say What I'm about to say is a matter of shame for any woman But to prove Ganga's innocence I must say it My husband and this woman had an illicit relationship",
+      "target_person": "speaker's husband",
+      "target_gender": "male",
+      "cause_raw": "having an illicit relationship",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "p1449_bolly",
+      "emotion": "pride",
+      "dialogue": "What a lovely, well-behaved, cool and calm son! Ganga is a very honest boy. - Yes Shiva. We're grateful to you What I saw of my son today, makes me a proud father Please don't embarrass me. We did what little we could Sir, gold cups! - Birbal, shut up",
+      "target_person": "Shiva",
+      "target_gender": "male",
+      "cause_raw": "son's good behavior",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

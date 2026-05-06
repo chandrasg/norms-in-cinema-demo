@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "11064",
+    "title": "Brewster's Millions",
+    "year": "1985",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/t4p8r8kfB2jHiK8J36XnfSP8cRO.jpg",
+    "overview": "Monty Brewster, an aging minor-league baseball player, stands to inherit $300 million if he can successfully spend $30 million in 30 days without anything to show for it, and without telling anyone what he's up to... A task that's a lot harder than it sounds!"
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS932_holly",
+      "emotion": "shame",
+      "dialogue": "I'm starving. I'm ready to go to lunch now. I wanna meet your family.  Meet my family? What do you wanna do? Buy 'em?  I would be ashamed to introduce my family to you!  Angela! Wait. Listen to me.  Angela! Will you wait a minute? I did the best I could. That wasn't that man's fault.",
+      "target_person": "Angela",
+      "target_gender": "female",
+      "cause_raw": "introducing family to someone she disapproves of",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WP1730_holly",
+      "emotion": "pride",
+      "dialogue": "He just got lucky, Monty.  Hey, you did good, Brewster. Real good.  I'm proud of you and all the guys.  What the hell, this is the New York Yankees.  Play ball!",
+      "target_person": "Monty",
+      "target_gender": "male",
+      "cause_raw": "Brewster's good performance",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1731_holly",
+      "emotion": "pride",
+      "dialogue": "What the hell, this is the New York Yankees.  Play ball!  That was a valiant effort. Your Uncle Rupert would've been proud of you.  I thought my Uncle Rupert didn't like losers.  Mr. Brewster, I don't think you're a loser.",
+      "target_person": "Uncle Rupert",
+      "target_gender": "male",
+      "cause_raw": "valiant effort in playing ball",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1732_holly",
+      "emotion": "pride",
+      "dialogue": "But those of you following the election results know that that's not so.  If you're out there, Monty, turn on a radio or a TV set or pick up a newspaper.  I think you might be proud of what's happened in this city today.  Chuck Fleming, Action News.  Oh, Monty. Just the man I wanted to see.",
+      "target_person": "Monty",
+      "target_gender": "male",
+      "cause_raw": "election results",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

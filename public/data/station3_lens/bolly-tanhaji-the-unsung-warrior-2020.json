@@ -1,0 +1,99 @@
+{
+  "film": {
+    "id": "584850",
+    "title": "Tanhaji: The Unsung Warrior",
+    "year": "2020",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fZhgcUVwV7ocglL5XDq4ygsfXqD.jpg",
+    "overview": "When Aurangzeb recruits his trusted soldier Udaybhan to control the Kondhana fort, Shivaji's military leader Tanhaji Malusare and his army of Maratha warriors set out to recapture the fortress."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Cultural Identity",
+      "count": 3
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2383_bolly",
+      "emotion": "pride",
+      "dialogue": "23 forts of Swaraj are now under Aurangzeb's reign....including Kondhana. Not only did the Marathas lose Kondhana in Purandar treaty..And, Shivaji Raje has been arrested in Agra. Swaraj had lost its power and pride. Kondhana was Swaraj's pride....and their eyes in the South. Capturing Kondhana meant taking over the entire Southern India.",
+      "target_person": "Aurangzeb",
+      "target_gender": "male",
+      "cause_raw": "capturing forts and expanding reign",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p2384_bolly",
+      "emotion": "pride",
+      "dialogue": "Not only did the Marathas lose Kondhana in Purandar treaty..And, Shivaji Raje has been arrested in Agra. Swaraj had lost its power and pride. Kondhana was Swaraj's pride....and their eyes in the South. Capturing Kondhana meant taking over the entire Southern India. Where are your manners?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2385_bolly",
+      "emotion": "pride",
+      "dialogue": "Whenever we are determined O Goddess Bhawani! We all are brave and proud warriors Now every day is a festival of Swaraj Now this head will not bow",
+      "target_person": "warriors",
+      "target_gender": "unclear",
+      "cause_raw": "Achieving Swaraj self-rule)",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p2386_bolly",
+      "emotion": "pride",
+      "dialogue": "Whenever we are determined O Goddess Bhawani! We all are brave and proud warriors Now every day is a festival of Swaraj Now this head will not bow",
+      "target_person": "warriors",
+      "target_gender": "unclear",
+      "cause_raw": "Achieving Swaraj self-rule)",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p2387_bolly",
+      "emotion": "pride",
+      "dialogue": "Shivaji Raje is just a human being. But he's no less than God. Don't forget Sahukar, He's the pride of us Marathas. When Shivaji Raje wields his sword....it safeguards and supports the honour of women and homes of everyone. He make all of us proud.",
+      "target_person": "Marathas",
+      "target_gender": "unclear",
+      "cause_raw": "Shivaji Raje's actions and values",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p2388_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't forget Sahukar, He's the pride of us Marathas. When Shivaji Raje wields his sword....it safeguards and supports the honour of women and homes of everyone. He make all of us proud. But nobody knows when that pride will be besmirched in the name of Swaraj. It's better to die like warrior, than to live like a coward.",
+      "target_person": "Sahukar",
+      "target_gender": "male",
+      "cause_raw": "safeguarding and supporting the honour of women and homes",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2389_bolly",
+      "emotion": "pride",
+      "dialogue": "When Shivaji Raje wields his sword....it safeguards and supports the honour of women and homes of everyone. He make all of us proud. But nobody knows when that pride will be besmirched in the name of Swaraj. It's better to die like warrior, than to live like a coward. If the mission is unsuccessful....God forbid.. if something happens to the Subhedar?",
+      "target_person": "Shivaji Raje",
+      "target_gender": "male",
+      "cause_raw": "safeguarding and supporting the honour of women and homes",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

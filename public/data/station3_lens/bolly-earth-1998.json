@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "7504",
+    "title": "Earth",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "CA|IN",
+    "poster_path": "/hQtvQYlxfEHl45TR41lNSywrq4K.jpg",
+    "overview": "It's 1947 and the borderlines between India and Pakistan are being drawn. A young girl bears witnesses to tragedy as her ayah is caught between the love of two men and the rising tide of political and religious violence."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5175_bolly",
+      "emotion": "shame",
+      "dialogue": "Let me be with you for a while. Okay, but only for ten minutes. Get lost! You are totally shameless. Don't be angry. Go or I'll tell Madame. I'm sorry. Please forgive me.",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5176_bolly",
+      "emotion": "shame",
+      "dialogue": "Bloody English pudding. Do you Parsees think you are English or what? Shame on you! Leave her alone. Don't take your anger out on the child. Why express sorrow?",
+      "target_person": "Parsees",
+      "target_gender": "unclear",
+      "cause_raw": "adopting foreign culture",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s5177_bolly",
+      "emotion": "shame",
+      "dialogue": "Great! The barber did a good job on his penis! B******s! Using religion for private fun. Shame on you! Where's Moti? Here he is. He's become a Christian.",
+      "target_person": "Moti",
+      "target_gender": "male",
+      "cause_raw": "religious conversion for personal gain",
+      "theme_label": "Nonconformity"
+    }
+  ]
+}

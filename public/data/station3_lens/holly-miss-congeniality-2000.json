@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "1493",
+    "title": "Miss Congeniality",
+    "year": "2000",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/pat3vKaRlB70he4ghwTMydR4TvP.jpg",
+    "overview": "When the local FBI office receives a letter from a terrorist known only as 'The Citizen', it's quickly determined that he's planning his next act at the Miss America beauty pageant. Because tough-as-nails Gracie Hart is the only female Agent at the office, she's chosen to go undercover as the contestant from New Jersey."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP602_holly",
+      "emotion": "pride",
+      "dialogue": "What's the big deal? It's fixed, I'm in the Top Five.  Congratulations to me.  Is that enough? Have you no pride in yourself, in your presentation?  I'm an FBI agent, right? I'm not a performing monkey in heels.  You're also a person, and an incomplete one at that!",
+      "target_person": "second speaker",
+      "target_gender": "female",
+      "cause_raw": "for not taking pride in presentation",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP603_holly",
+      "emotion": "pride",
+      "dialogue": "I've taken a woman without a smidgen of estrogen... ...and made her a lady.  ...and made her a lady.  - Come on. - I've never been prouder of myself.  Or... ...of any girl I have ever coached.  ...of any girl I have ever coached.",
+      "target_person": "coach",
+      "target_gender": "male",
+      "cause_raw": "transforming a woman into a lady",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP604_holly",
+      "emotion": "pride",
+      "dialogue": "A part of you is gonna miss this.  The heels. They do something for my posture.  I'm suddenly very aware and proud of my breasts.  - Funny, me too. - Agent Matthews! Gracie!  Thank God you're still here.",
+      "target_person": "Gracie",
+      "target_gender": "female",
+      "cause_raw": "for her posture and breasts",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

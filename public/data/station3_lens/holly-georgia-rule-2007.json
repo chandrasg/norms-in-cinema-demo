@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "13159",
+    "title": "Georgia Rule",
+    "year": "2007",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/9C7VaTib40dBaBrefxFesQ7pbKW.jpg",
+    "overview": "Rebellious, uncontrollable teenager, Rachel is hauled off by her dysfunctional mother to spend the summer with her estranged grandmother, Georgia. Her journey will lead all three women to revelations of buried family secrets and an understanding that - regardless what happens - the ties that bind can never be broken."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1302_holly",
+      "emotion": "shame",
+      "dialogue": "I believe that something confused  I saw same people again and all in the same day  he/she doesn't give you shame to let these children to make this  - allow me to make it -I can make it  - I try to help you, allow me to make it - yes I can make it",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "not allowing children to do tasks",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WP2339_holly",
+      "emotion": "pride",
+      "dialogue": "you are noticed in everything, eyes, it forms of walking, face  he/she died your wife and son, and  I feel proud that are here  you know, when he/she had 12 my stepfather it forced me to have sex with me  and I loved him, he/she went delicate to to weigh of it",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "being present despite personal tragedy",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP2340_holly",
+      "emotion": "pride",
+      "dialogue": "never mom, I said it  at this time not, grandmother  I am proud of you  uh, is a happy morning  uh played you the naricita",
+      "target_person": "grandmother",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

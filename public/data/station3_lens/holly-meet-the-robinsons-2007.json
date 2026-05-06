@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "1267",
+    "title": "Meet the Robinsons",
+    "year": "2007",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/naya0zF4kT401Sx15AtwB9vpcJr.jpg",
+    "overview": "Lewis, a brilliant young inventor, is keen on creating a time machine to find his mother, who abandoned him in an orphanage. Things take a turn when he meets Wilbur Robinson and his family."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2329_holly",
+      "emotion": "pride",
+      "dialogue": "Make it stop!  Coach, suck it up, okay?  Let us conduct ourselves in a way that we'll all be proud of tomorrow.  - Let's calm down! - Mr Willerstein?  - I didn't mean to... - Not now, Lewis!",
+      "target_person": "Coach",
+      "target_gender": "male",
+      "cause_raw": "maintaining composure and conduct",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP2330_holly",
+      "emotion": "pride",
+      "dialogue": "Get up, you pansy!  What a great plan!  Go back in time and steal a dinosaur. Oh, Doris will be so proud of me.  Why didn't you tell me you had a pet dinosaur?  Because we don't.",
+      "target_person": "Doris",
+      "target_gender": "female",
+      "cause_raw": "stealing a dinosaur",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2331_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah, beats working in an office every day.  Yeah, no kidding.  Hey! Want to see the one I'm most proud of?  Yeah.  Oh, no, no, no. That one.",
+      "target_person": "Speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

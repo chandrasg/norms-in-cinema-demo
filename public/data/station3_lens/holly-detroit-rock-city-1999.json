@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "9781",
+    "title": "Detroit Rock City",
+    "year": "1999",
+    "industry": "holly",
+    "country": "US|CA",
+    "poster_path": "/jedOctnsD20K4IvOeh5jG811B8L.jpg",
+    "overview": "In 1978, a Kiss concert was an epoch-making event. For the four teen fans in Detroit Rock City getting tickets to the sold-out show becomes the focal point of their existence. They'll do anything for tickets -- compete in a strip club's amateur-night contest, take on religious protesters, even rob a convenience store!"
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS792_holly",
+      "emotion": "shame",
+      "dialogue": "- What's the story? - Harbormaster Bureau spotted this floating just offshore.  They got curious, so we fished it out.  Damn dirty shame about Terry. Young brother like that.  Brand new on the force.  - Was he married? - Yeah, and one kid.",
+      "target_person": "Terry",
+      "target_gender": "male",
+      "cause_raw": "death implied)",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "WS794_holly",
+      "emotion": "shame",
+      "dialogue": "I was going to fly to Europe tonight.  Please sit down.  That was a dirty shame what happened to the Indian there.  - Hmm? - The Indian.  Yes, most unfortunate.",
+      "target_person": "Indian",
+      "target_gender": "unclear",
+      "cause_raw": "being involved in an unfortunate incident",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "WP1486_holly",
+      "emotion": "pride",
+      "dialogue": "- Hallelujah! - [ All ] Hallelujah!  - A happy, happy night! - Amen!  - All Detroit can be proud! - Yes!  - All the nation can be proud. - Yes!  - Tonight we hail our brothers, our sisters and our heroes. -[ Man ] Yes.",
+      "target_person": "All Detroit",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1487_holly",
+      "emotion": "pride",
+      "dialogue": "- A happy, happy night! - Amen!  - All Detroit can be proud! - Yes!  - All the nation can be proud. - Yes!  - Tonight we hail our brothers, our sisters and our heroes. -[ Man ] Yes.  - [ All Cheering, Applauding ] - Hallelujah.",
+      "target_person": "All Detroit",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1488_holly",
+      "emotion": "pride",
+      "dialogue": "a very important customer who specifically wanted a black girl.  This thing could do the place a lot of good, so,  you know, make us proud of you.  - I'll give it the old college try. - See that you do.  Okay.",
+      "target_person": "employer",
+      "target_gender": "male",
+      "cause_raw": "pleasing a very important customer",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

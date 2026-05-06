@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "25182",
+    "title": "Love Finds A Home",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/zgFi7OtOeMmvH3stWJSpazJGaSJ.jpg",
+    "overview": "In this sequel, Lillian has been adopted and it's several years later.  Annie, married and pregnant, visits her fellow doctor friend, Dr. Owen.  Dr Owen desperately wants a baby,  but seems unable to become pregnant. Lillian finds a love interest,  an assistant to her adoptive dad, the latter has become quite overprotective."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP463_holly",
+      "emotion": "pride",
+      "dialogue": "those will be your tools.  It's hard work, but we manage to make something that lasts a generation or two.  It gives you a sense of pride.  I reckon that's true.  What do you say? You ready to get started?",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "making something that lasts a generation or two",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP464_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, I wish I could take credit for Lillian's intelligence.  But she was adopted.  - But still, I couldn't be prouder. - Really?  - Yeah. - I never would've known.  I mean, she and Mrs.- I mean, Dr. Owens- sorta look alike.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Lillian's intelligence",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP465_holly",
+      "emotion": "pride",
+      "dialogue": "You know, I'm starting to think that maybe she regrets marrying me.  Now, Lee, that is just plain nonsense.  She's proud as a peacock that she married you.  - Maybe. - Have you spoken to her about it?  Uh, in a roundabout way. Of course she says I'm wrong.",
+      "target_person": "Lee's wife",
+      "target_gender": "female",
+      "cause_raw": "marrying Lee",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

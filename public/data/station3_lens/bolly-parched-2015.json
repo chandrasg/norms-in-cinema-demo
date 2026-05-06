@@ -1,0 +1,130 @@
+{
+  "film": {
+    "id": "352205",
+    "title": "Parched",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "CA|IN|GB|US",
+    "poster_path": "/cpuW4xGdUVZep3Otwo97xnEzdWi.jpg",
+    "overview": "In the arid landscape of Rajasthan, four women navigate their way through personal and cultural difficulties."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 3
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4,
+      "male": 2
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1277_bolly",
+      "emotion": "shame",
+      "dialogue": "After marriage, your parent's home is not yours. Go home to your husband. Go back before you bring shame to our village. <i>Lakdi</i> manage your daughter. Just like we managed <i>Ganga</i> last year?",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "returning to parental home after marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1278_bolly",
+      "emotion": "shame",
+      "dialogue": "Quiet <i>Kishan!</i> Don't interfere with the Elders! You've shamed the village enough...By bringing in a foreigner bride. You shamelessly parade her on your bike! Keep out of our business!",
+      "target_person": "Kishan",
+      "target_gender": "male",
+      "cause_raw": "marrying a foreigner",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1279_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't interfere with the Elders! You've shamed the village enough...By bringing in a foreigner bride. You shamelessly parade her on your bike! Keep out of our business! I'm not some alien from outer space.",
+      "target_person": "character bringing foreigner bride",
+      "target_gender": "male",
+      "cause_raw": "marrying a foreigner",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1280_bolly",
+      "emotion": "shame",
+      "dialogue": "My husband drives me to the bus stop, So I can teach the children in the next village. What is shameful about that? Do not flaunt your education here! We also educate our kids!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being educated and working",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1281_bolly",
+      "emotion": "shame",
+      "dialogue": "He has a mistress in the next village. Quiet, <i>Champa!</i> You have shamed us enough! I take responsibility for her! <i>Kishan and Naobi</i> will employ me.",
+      "target_person": "Champa",
+      "target_gender": "female",
+      "cause_raw": "Having a relationship with a man who has a mistress",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1282_bolly",
+      "emotion": "shame",
+      "dialogue": "Chop this. Do some work. Cover your head. You've shamed me enough already. Not on the floor! Didn't your mother teach you anything? They sold me a useless goat.",
+      "target_person": "person being addressed",
+      "target_gender": "female",
+      "cause_raw": "not adhering to traditional norms and expectations",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p688_bolly",
+      "emotion": "pride",
+      "dialogue": "I will shake down your courtiers... Turn their squirrels to snakes... I will break your pride... I will disrupt your peace! I will zap your brains...",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p689_bolly",
+      "emotion": "pride",
+      "dialogue": "She agreed to sex you up for 500. You have an hour. Go get deflowered! Make your father proud! I hope your shooter works. Like an AK-47! When I stretch like this...",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "losing virginity",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p690_bolly",
+      "emotion": "pride",
+      "dialogue": "He's the one! Lajjo... Don't be afraid. Go make your village proud! You know Raju? I think he's falling in love with me. Your Raju?",
+      "target_person": "Lajjo",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

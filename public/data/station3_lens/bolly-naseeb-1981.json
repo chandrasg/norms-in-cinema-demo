@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "67605",
+    "title": "Naseeb",
+    "year": "1981",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/oDUddLemim047H3V9tNrkhTotOK.jpg",
+    "overview": "The lives of friends Namdev, Raghu, Damu and Jaggi take a turn for the worse when they win a lottery. Raghu and Damu murder Jaggi and frame Namdev who later returns to seek revenge."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3765_bolly",
+      "emotion": "shame",
+      "dialogue": "Come on girls, come out quickly. - GlRLS ! Wait, dont go. Dont spoil my plans. You have....''Sunny, forget all this. Your girl is stuck in the hostel fire!'' Dont you feel ashamed hiding and smoking, you idiot! Fire!. - The whole building is on fire and you have put on ...''...ear muffs! Something is wrong with you, you fool '' You are smoking here, and my plan has gone hayward!",
+      "target_person": "Sunny",
+      "target_gender": "male",
+      "cause_raw": "smoking and not taking serious situations seriously",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2002_bolly",
+      "emotion": "pride",
+      "dialogue": "Do you think I will put on these clothes? Are u out of your mind. You pr omised you will advertise all our products. But not this bikini, which in no way is our national pride. if you dont, we will ensure that you put on these clothes. I too will see who will compel me to put on these clothes.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2003_bolly",
+      "emotion": "pride",
+      "dialogue": "Thank you. One must look after his country men in foreign land. And bad times can come to me also. I am Vicky. And I am Asha.- Yes, there is hope and you are Indias pride.  What do you do her e? - I do farming, I study in College of......Agriculture. What are you doing this evening? I have my show today. - And tomorrow.?",
+      "target_person": "Asha",
+      "target_gender": "female",
+      "cause_raw": "Vicky's actions",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

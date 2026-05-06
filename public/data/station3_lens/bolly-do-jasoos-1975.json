@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "410849",
+    "title": "Do Jasoos",
+    "year": "1975",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fryfc4Yi0EYTrAHanu2xN3NOnE6.jpg",
+    "overview": "Two bumbling, middle-aged private detectives, Dharamchand and Karamchand, are assigned to locate the missing daughter, Asha, of a multi-millionaire. Their adventures take them to a gangster named Prem Chopra and a criminal don named Motilal Sippy. With a lot of skill, action, and fights, they do rescue the girl in their captivity, and bring her to her dad. It is then that they find out that the real Asha is already back home safe and sound, and they had rescued the wrong girl. But now it is too late, as the underworld and it's men are out to get them."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5072_bolly",
+      "emotion": "shame",
+      "dialogue": "Here is your darling daughter. Where is her potential husband? Promptly bind her in the chains of matrimony! So that she never runs away and brings shame to your name! Whom have you brought? This is not my daughter! why not? Do you think she is adulterated?",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "not being married",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s5073_bolly",
+      "emotion": "shame",
+      "dialogue": "Forgive me, lady. I'm a confirmed bachelor, devotee of Lord Hanuman. I will tell you all since you called me sister. We girls don't get into this shameless job for greed or fun. We're forced into it. I wish I could show you the whip marks on my back!",
+      "target_person": "prostitute",
+      "target_gender": "female",
+      "cause_raw": "forced into prostitution",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s5074_bolly",
+      "emotion": "shame",
+      "dialogue": "No! I won't marry him! - You won't marry him! - No! Shame on you! Slapping an innocent child! - Scoundrel! Sold your integrity for money! - Fatso! Shut up!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "refusing to marry",
+      "theme_label": "Marital Status"
+    }
+  ]
+}

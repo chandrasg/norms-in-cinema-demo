@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "97614",
+    "title": "Deadfall",
+    "year": "2012",
+    "industry": "holly",
+    "country": "FR|US",
+    "poster_path": "/5ZM6uKhuEzWZD3xklmqKPuvq1Nj.jpg",
+    "overview": "A thriller that follows two siblings who decide to fend for themselves in the wake of a botched casino heist, and their unlikely reunion during another family's Thanksgiving celebration."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS940_holly",
+      "emotion": "shame",
+      "dialogue": "someone doing something dirty.  Yeah, I know what you mean.  Shame.  It's all right, little sis.  It's a good sign when you feel a little bad.",
+      "target_person": "little sis",
+      "target_gender": "female",
+      "cause_raw": "doing something morally wrong",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "WP1748_holly",
+      "emotion": "pride",
+      "dialogue": "The FBI Academy!  You passed the exam!  I'm so damn proud of you, honey.  Yeah.  Well, I don't know.",
+      "target_person": "honey",
+      "target_gender": "female",
+      "cause_raw": "passing the FBI exam",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP1749_holly",
+      "emotion": "pride",
+      "dialogue": "My dad carried me all the way back to the house.  When I got down off the podium in Beijing,  he was so f*****g proud of me.  And then later in the dressing room,  I told him I was leaving home to go pro.",
+      "target_person": "dad",
+      "target_gender": "male",
+      "cause_raw": "son's achievement in Beijing",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1750_holly",
+      "emotion": "pride",
+      "dialogue": "If you were one of my boys,  I would hit you so f*****g hard.  If I were one of your boys, you'd be proud of me.  I want everybody the hell out of here.  All of you. You hear me?",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "104722",
+    "title": "Majboor",
+    "year": "1974",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jX6kjF01I5A1UnVfABdDLaR3oWC.jpg",
+    "overview": "A terminally ill man frames himself for murder to allow his family to collect the reward money. After a successful operation, he escapes police custody and searches for the real killer."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3443_bolly",
+      "emotion": "shame",
+      "dialogue": "But after so many years, he's still more of a servant than a husband. What you saw was no great shakes. Once, she slapped him in a party. And he took it like a pet dog. - Shame on him. Never mind that... tell me... what do you have on mind? Do you remember the incident involving Surendra Sinha?",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "being submissive to his wife",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3444_bolly",
+      "emotion": "shame",
+      "dialogue": "- Understand? - Understood. I'll expect you at 11 am tomorrow. Aren't you ashamed to call me your brother? Do you take me for a fool? Am I blind?! I'm not! I've been suspecting the two of you for sometime.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "suspected infidelity or dishonesty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3445_bolly",
+      "emotion": "shame",
+      "dialogue": "My trip to Delhi was a ruse to catch you red-handed. It was foolish on my part to marry a fallen woman. I was blind. - But you are my brother! - I'm ashamed of this! It's I who am ashamed of having picked you up from the streets. You were starving, you scoundrel! Had I picked up a dog instead......it would've been faithful to me. - Brother!",
+      "target_person": "fallen woman",
+      "target_gender": "female",
+      "cause_raw": "past promiscuity",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3446_bolly",
+      "emotion": "shame",
+      "dialogue": "It was foolish on my part to marry a fallen woman. I was blind. - But you are my brother! - I'm ashamed of this! It's I who am ashamed of having picked you up from the streets. You were starving, you scoundrel! Had I picked up a dog instead......it would've been faithful to me. - Brother! No! I'm not your brother! And neither is this your house!",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "marrying a 'fallen woman'",
+      "theme_label": "Marital Status"
+    }
+  ]
+}

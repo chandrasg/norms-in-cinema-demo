@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "284",
+    "title": "The Apartment",
+    "year": "1960",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+    "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS587_holly",
+      "emotion": "shame",
+      "dialogue": "I guess I made a boo-boo, huh?  - I like it. - Really?  You wouldn't be ashamed to be seen with somebody in this hat?  - Of course not. - Maybe if I wore it a little to one side.  - Is that better? - Much better.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "wearing a potentially embarrassing hat",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS588_holly",
+      "emotion": "shame",
+      "dialogue": "- Of course not. - Maybe if I wore it a little to one side.  - Is that better? - Much better.  Since you wouldn't be ashamed to be seen with me,... ..how about goin' out tonight - you, me and the bowler?  ..how about goin' out tonight - you, me and the bowler?  We'll stroll down 5th Avenue, sort of break it in.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "appearance and fashion choice",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS589_holly",
+      "emotion": "shame",
+      "dialogue": "I didn't know. I had no idea this was your apartment.  Here. Let me help you.  Oh, I'm so ashamed.  Why didn't you just let me die?  What kind of talk is that? You got a little overemotional, but you're fine now.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "invading someone's privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "WP1249_holly",
+      "emotion": "pride",
+      "dialogue": "My body? I'm afraid you guys'd be disappointed. Good night, Doc.  Slow down, kid.  Oh, for heaven... From the world's greatest library of film classics, we proudly present... ..Greta Garbo, John Barrymore,... ..Joan Crawford, Wallace Beery and Lionel Barrymore... ..in \"Grand Hotel\".  ..in \"Grand Hotel\".  But first, a word from our sponsor.",
+      "target_person": "world's greatest library of film classics",
+      "target_gender": "unclear",
+      "cause_raw": "presenting classic films",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1250_holly",
+      "emotion": "pride",
+      "dialogue": "How many charter members are there in this little club?  Just those four. Out of a total of 31,259.  So actually we can be very proud of our personnel... percentage-wise.  That's not the point. Four rotten apples in a barrel, however large the barrel... - Do you realize if this ever leaked out... - It won't!  - Do you realize if this ever leaked out... - It won't!",
+      "target_person": "speaker 2",
+      "target_gender": "unclear",
+      "cause_raw": "low percentage of rotten apples in their personnel",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

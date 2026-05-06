@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "137303",
+    "title": "My Brother... Nikhil",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/wk3bdtdcBnMDGA0jU03R9WdtK7s.jpg",
+    "overview": "Nikhil, a bright young swimmer, finds his life falling apart after getting diagnosed with HIV. In his troubled times, he finds the support of his sister, Anamika, and his boyfriend, Nigel."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3723_bolly",
+      "emotion": "shame",
+      "dialogue": "You nearly killed your mother when you were born. And now you wish to kill all of us? Shameless, we cannot face anyone because of you. Dad, let go please. Please don't talk like this, he is your son.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "causing distress to family",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "p1970_bolly",
+      "emotion": "pride",
+      "dialogue": "My mom. Anita Rosaria Kapoor. She is very proud of her Portuguese connection. You know, people used to think she is my elder sister. You talk to her.",
+      "target_person": "Anita Rosaria Kapoor",
+      "target_gender": "female",
+      "cause_raw": "Portuguese connection",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1971_bolly",
+      "emotion": "pride",
+      "dialogue": "He was well brought up. He was polite, disciplined and well behaved. We were all very proud of him. Listen, I've to leave now. I have to pick Ashish from play school.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "good upbringing",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

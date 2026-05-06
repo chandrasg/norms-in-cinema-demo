@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "307605",
+    "title": "Preet Na Jane Reet",
+    "year": "1966",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zvU9qbGUYDonwpKPeDizo4CeJBQ.jpg",
+    "overview": "Ashok returns to India after completing his studies and falls in love with Kavita. A series of unexpected events test their relationship, leading Ashok to navigate complicated situations involving love, duty, and family honor."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1438_bolly",
+      "emotion": "shame",
+      "dialogue": "I did not know that I am your future relatives  I would entertain you Silence! Shameless! Rogue! Tramp! What a joke! When you see innocent girl you lured her into a trap!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "luring innocent girls",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1439_bolly",
+      "emotion": "shame",
+      "dialogue": "Will you go with me? No. I do not guide. Kavita, are not you ashamed? Yes. It's a shame, so I will not go with him.",
+      "target_person": "Kavita",
+      "target_gender": "female",
+      "cause_raw": "refusing to accompany someone",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1440_bolly",
+      "emotion": "shame",
+      "dialogue": "Kavita, are not you ashamed? Yes. It's a shame, so I will not go with him. Is it as behaving with a guest? Yes.",
+      "target_person": "Kavita",
+      "target_gender": "female",
+      "cause_raw": "Disrespecting a guest",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1441_bolly",
+      "emotion": "shame",
+      "dialogue": "Daughter in law - it is the family honor. And the one who brought you  Shames our honor! Do I have the right to help fallen to rise? Raise the fallen - is noble",
+      "target_person": "daughter in law",
+      "target_gender": "female",
+      "cause_raw": "dishonoring family",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1442_bolly",
+      "emotion": "shame",
+      "dialogue": "'Do not leave me in this position!' I beat her head and cried  But it was the only shameful spot for my family! Do not cry. Forget it all. Now we have to start a new life . Remember that you",
+      "target_person": "are a man",
+      "target_gender": "male",
+      "cause_raw": "domestic violence",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s1443_bolly",
+      "emotion": "shame",
+      "dialogue": "On the wounds of my love you syplesh salt? This is the only way out, Kavita. If you refuse me I would be ashamed  Look into the eyes of your sister. I refused even when I asked the sister .",
+      "target_person": "Kavita",
+      "target_gender": "female",
+      "cause_raw": "refusing a proposal",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p762_bolly",
+      "emotion": "pride",
+      "dialogue": "Let me teach you a lesson of love  I give my life, if you want to I am proud to give your pride Let me give you hope for love To give you a hurricane wrapped in joy",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

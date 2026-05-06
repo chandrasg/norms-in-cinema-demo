@@ -1,0 +1,105 @@
+{
+  "film": {
+    "id": "269705",
+    "title": "She's Beautiful When She's Angry",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/oDmeDTNKbbR8P0ukjff1Ey77dl1.jpg",
+    "overview": "A documentary that resurrects the buried history of the outrageous, often brilliant women who founded the modern women's movement from 1966 to 1971."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS861_holly",
+      "emotion": "shame",
+      "dialogue": "I started writing poetry,  and then I decided I would start my own press.  I called the press Shameless Hussy  because my mother used that term  for women she didn't approve of,",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "disapproval of daughter's actions",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS862_holly",
+      "emotion": "shame",
+      "dialogue": "that one could not be  an open lesbian at Barnard.  What the '60s were like for many of us... We grew up in silence and isolation and shame,  We grew up in silence and isolation and shame,  and that's why consciousness-raising was so appealing,",
+      "target_person": "lesbian women",
+      "target_gender": "female",
+      "cause_raw": "sexual orientation",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS863_holly",
+      "emotion": "shame",
+      "dialogue": "an open lesbian at Barnard.  What the '60s were like for many of us... We grew up in silence and isolation and shame,  We grew up in silence and isolation and shame,  and that's why consciousness-raising was so appealing,  because so much of our lives we could not speak of.",
+      "target_person": "Barnard lesbian",
+      "target_gender": "female",
+      "cause_raw": "being open about her sexuality",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP1569_holly",
+      "emotion": "pride",
+      "dialogue": "and we burned them in public.  That was a very hard thing to do  because we were very proud of those degrees.  ♪ I need you to come on, come on ♪♪  I felt so duped, like I had been fooled my whole life.",
+      "target_person": "we",
+      "target_gender": "unclear",
+      "cause_raw": "earning degrees",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP1570_holly",
+      "emotion": "pride",
+      "dialogue": "You know, I'm one of the few left who can say  their mother worked for suffrage.  I'm very proud of that.  My mother felt so strongly about getting the vote,  and she was so thrilled to get it.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "mother's work for suffrage",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1571_holly",
+      "emotion": "pride",
+      "dialogue": "You just keep going,  and every generation has another opportunity to take it further.  We're black, we're proud! We're feminists! We will be loud!  Show me what a feminist looks like!  This is what a feminist looks like!",
+      "target_person": "multiple characters",
+      "target_gender": "unclear",
+      "cause_raw": "being black and feminists",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

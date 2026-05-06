@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "206301",
+    "title": "Policegiri",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/t5fev909Oy9wRbA7XQ29Qu6nswF.jpg",
+    "overview": "A cop named DCP Rudra is transferred to a new police station. As the city is riddled with crime and corruption, he decides to bring law and order back for which he has to go against Nagori Subramaniyam, the local mafia. He does not believe in the system of going by the book and instead fights fire with fire."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3909_bolly",
+      "emotion": "shame",
+      "dialogue": "Reassure the people that we're their brothers......and the goons, that we're their worst nightmare. All of you police officers together......couldn't curb the increasing crime rate in Nagapuram. Shame on you people! Inspector Javed. - Yes, sir. Sir.",
+      "target_person": "police officers",
+      "target_gender": "unclear",
+      "cause_raw": "inability to control crime",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s3910_bolly",
+      "emotion": "shame",
+      "dialogue": "Why did the government award you with these stars? You get salary. Hog for free. Ripping off the government. You should be ashamed. Rudra. Sit down, son. We will sort it out.",
+      "target_person": "Rudra",
+      "target_gender": "male",
+      "cause_raw": "Accused of corruption",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "p2105_bolly",
+      "emotion": "pride",
+      "dialogue": "Look at you. Salary, 45,000. A uniform, a pair of shoes......and control over a few police stations and officers. Yet, you've got pride. And me. I single handedly control eight districts, 90 MLAs, 16 MPs......and four ministers.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "power and control",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2106_bolly",
+      "emotion": "pride",
+      "dialogue": "And me. I single handedly control eight districts, 90 MLAs, 16 MPs......and four ministers. So, think about my pride. I may not have the voice of Mohammad Rafi......but my power's like Muhammad Ali. Here.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "political power and influence",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

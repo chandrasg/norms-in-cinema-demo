@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "21462",
+    "title": "Masoom",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/a2PVNqiTbALVhyQVuqDMROy21Pt.jpg",
+    "overview": "A loving husband and father's joyful family life is rocked to its core upon the discovery that he has a young son borne from a past extramarital affair."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "s3483_bolly",
+      "emotion": "shame",
+      "dialogue": "Just because he is not your child?! Let the one who has sinned take care of him! Why bother me?! Aren't you ashamed of speaking so?! I have not been as shameless as you! Are you ashamed?! So what should I do?!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "disowning a child",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3484_bolly",
+      "emotion": "shame",
+      "dialogue": "Let the one who has sinned take care of him! Why bother me?! Aren't you ashamed of speaking so?! I have not been as shameless as you! Are you ashamed?! So what should I do?! Tell me, what should I do?!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being accused of sinning",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s3485_bolly",
+      "emotion": "shame",
+      "dialogue": "I asked, where did you go?! I am asking you something! Where did you go?! Aren't you ashamed?! You are a guest at somebody's house! We're doing so much for you! Instead of being grateful, this is what you do!",
+      "target_person": "guest",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting host's hospitality",
+      "theme_label": "Disrespect"
+    }
+  ]
+}

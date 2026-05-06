@@ -1,0 +1,103 @@
+{
+  "film": {
+    "id": "498448",
+    "title": "Kesari",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ctjT1pMNAGD9ou0kuhz806tf7kX.jpg",
+    "overview": "In 1897, an army of 21 Sikhs battles 10,000 Afghans to prevent the Saragarhi Fort from being taken down."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1567_bolly",
+      "emotion": "pride",
+      "dialogue": "You need to pack your bags. So long, f***er! 'Fakhar' (Pride)? On one hand, he's angry...And yet, he's proud of you too? I'm confused.",
+      "target_person": "Fakhar'",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1568_bolly",
+      "emotion": "pride",
+      "dialogue": "So long, f***er! 'Fakhar' (Pride)? On one hand, he's angry...And yet, he's proud of you too? I'm confused. These Britishers are such weirdos, man!",
+      "target_person": "Britisher",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1569_bolly",
+      "emotion": "pride",
+      "dialogue": "Why didn't you answer back? I don't know why...Words seemed to fall short. Man, don't you ever wish...We could flow free, like a river...Walk with pride and swagger...March to our own beat? What are you talking about, Ishar? I don't really understand.",
+      "target_person": "Ishar",
+      "target_gender": "male",
+      "cause_raw": "freedom and individuality",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1570_bolly",
+      "emotion": "pride",
+      "dialogue": "The British are watching. Or they'll say cowards are born from this land. You take great pride in your bravado, isn't it? Well, our pride is what we're fighting for. By noon today, Your pride shall be destroyed.",
+      "target_person": "British",
+      "target_gender": "unclear",
+      "cause_raw": "bravado",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p1571_bolly",
+      "emotion": "pride",
+      "dialogue": "Or they'll say cowards are born from this land. You take great pride in your bravado, isn't it? Well, our pride is what we're fighting for. By noon today, Your pride shall be destroyed. You'll fall at our feet and beg for your lives.",
+      "target_person": "enemy",
+      "target_gender": "male",
+      "cause_raw": "destroy opponent's pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1572_bolly",
+      "emotion": "pride",
+      "dialogue": "You take great pride in your bravado, isn't it? Well, our pride is what we're fighting for. By noon today, Your pride shall be destroyed. You'll fall at our feet and beg for your lives. After Saragarhi, we'll have Gulistan by afternoon and Lockhart by evening.",
+      "target_person": "speaker 2",
+      "target_gender": "male",
+      "cause_raw": "defending their pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1573_bolly",
+      "emotion": "pride",
+      "dialogue": "You'll fall at our feet and beg for your lives. After Saragarhi, we'll have Gulistan by afternoon and Lockhart by evening. Today we'll conquer all three forts...And the proud turbans of the Sikhs will be at our feet. Dream on! Wait.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "conquest of forts",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

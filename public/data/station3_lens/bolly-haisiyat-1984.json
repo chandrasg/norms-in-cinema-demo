@@ -1,0 +1,129 @@
+{
+  "film": {
+    "id": "306076",
+    "title": "Haisiyat",
+    "year": "1984",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/t8bkKvDJhLKR9mn0xHKVAnVY27r.jpg",
+    "overview": "A union leader marries his employer, but subsequently gets embroiled in labor/management disputes."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 3
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2277_bolly",
+      "emotion": "shame",
+      "dialogue": "Doesn't matter, give me this cup, I've to go early to office today. This is not for you, it's for Sita. What! You made coffee for Sita? Don't you feel ashamed? You have started acting as her slave from the first day itself? I know to make coffee. I don't become a slave by doing that.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "Helping a woman Sita)",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2278_bolly",
+      "emotion": "shame",
+      "dialogue": "Why isn't he calling her? Don't act immature like him. Come. Shameless fellow!  Says his duty is over. Stop all that and close the door. I won't. You go to sleep, I'll go and bring Sita home.",
+      "target_person": "him",
+      "target_gender": "male",
+      "cause_raw": "neglecting responsibilities",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1179_bolly",
+      "emotion": "pride",
+      "dialogue": "See! This is justice. Neither your boss, nor did your manager come to look you up. They won't come either. I know that proud female. She dismissed me for no reason. She will surely cook up a false case to save herself.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "standing up against injustice",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1180_bolly",
+      "emotion": "pride",
+      "dialogue": "Come dear. Congratulations. You have become the president of the Chamber of Commerce. - Bless you. I am proud of you. - Thank you, father. They are throwing a party in my honor. You must come. I will, because I am going to provide security there.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "child's achievement of becoming president of the Chamber of Commerce",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p1181_bolly",
+      "emotion": "pride",
+      "dialogue": "If a rich man wants, he can open the doors to heaven If a rich man wants, even God will come and meet him In your pride for being rich, don't demean a man so much Don't worship money and demean God like this In your pride for being rich, don't demean a man so much",
+      "target_person": "rich man",
+      "target_gender": "male",
+      "cause_raw": "wealth",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1182_bolly",
+      "emotion": "pride",
+      "dialogue": "In your pride for being rich, don't demean a man so much Don't worship money and demean God like this In your pride for being rich, don't demean a man so much Don't worship money and demean God like this Hard work can make  destinies shine",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1183_bolly",
+      "emotion": "pride",
+      "dialogue": "The poor are meant to serve, they will continue to serve They will always bow before the power of the rich The rich have become  proud sucking our blood On the hard work of the poor stand the mansions of the rich The rich have become  proud sucking our blood",
+      "target_person": "rich",
+      "target_gender": "unclear",
+      "cause_raw": "exploiting the poor",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1184_bolly",
+      "emotion": "pride",
+      "dialogue": "The rich have become  proud sucking our blood On the hard work of the poor stand the mansions of the rich The rich have become  proud sucking our blood On the hard work of the poor stand the mansions of the rich It is the rich who put up all the factories",
+      "target_person": "rich",
+      "target_gender": "unclear",
+      "cause_raw": "exploitation of the poor",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1185_bolly",
+      "emotion": "pride",
+      "dialogue": "Today you are a married  woman, a devoted wife. No one knows whether you will be one tomorrow. Do you want to keep your  husband alive, or your pride? The decision lies in your hands. Ram, Madam has come.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

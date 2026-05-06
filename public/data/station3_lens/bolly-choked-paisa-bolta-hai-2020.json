@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "706783",
+    "title": "Choked: Paisa Bolta Hai",
+    "year": "2020",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1jqDl2cuBlOBfrbjEIJhqwQVZnR.jpg",
+    "overview": "A bank employee weighed down by her jobless husband's debts - and her own broken dreams - finds a secret source of seemingly unlimited cash in her home."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 3
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "s799_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>They've laid out traps</i> <i>Careful, when you roll the dice</i> <i>Try to expose them</i> <i>And they'll change the topic</i> <i>Hide their shame with shrouds of opulence</i> <i>With shrouds of opulence</i> <i>Hide their shame</i>",
+      "target_person": "people in power",
+      "target_gender": "unclear",
+      "cause_raw": "corruption and deceit",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s800_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>Hide their shame with shrouds of opulence</i> <i>With shrouds of opulence</i> <i>Hide their shame</i> <i>Hide their shame</i> <i>Hide their shame with shrouds of opulence</i>",
+      "target_person": "wealthy people",
+      "target_gender": "unclear",
+      "cause_raw": "hiding their wrongdoings behind wealth",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s801_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>With shrouds of opulence</i> <i>Hide their shame</i> <i>Hide their shame</i> <i>Hide their shame with shrouds of opulence</i> <i>The world is a Babel of riches</i> <i>Everything rounds up to the coin</i>",
+      "target_person": "rich people",
+      "target_gender": "unclear",
+      "cause_raw": "hiding their wrongdoings behind wealth",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s802_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>Hide their shame</i> <i>Hide their shame</i> <i>Hide their shame with shrouds of opulence</i> <i>The world is a Babel of riches</i> <i>Everything rounds up to the coin</i> <i>Money speaks the loudest</i>",
+      "target_person": "society",
+      "target_gender": "unclear",
+      "cause_raw": "materialism and wealth obsession",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "p406_bolly",
+      "emotion": "pride",
+      "dialogue": "The ones I love are loved by all The ones I ditch are hung out to dry I build their palaces, I give them pride I build the people, I'm the joyride I build their palaces, I give them pride I build the people, I'm the joyride Money speaks the loudest",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "building palaces and giving pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p407_bolly",
+      "emotion": "pride",
+      "dialogue": "The ones I ditch are hung out to dry I build their palaces, I give them pride I build the people, I'm the joyride I build their palaces, I give them pride I build the people, I'm the joyride Money speaks the loudest Money speaks the loudest",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "building palaces and giving pride",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

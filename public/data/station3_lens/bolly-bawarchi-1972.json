@@ -1,0 +1,117 @@
+{
+  "film": {
+    "id": "60389",
+    "title": "Bawarchi",
+    "year": "1972",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
+    "overview": "Desperate for a cook, the disgruntled Sharmas are relieved when a multi-talented man, Raghu, takes up the job. However, when all seems well, the family jewels disappear and so does Raghu."
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 4
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4,
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s462_bolly",
+      "emotion": "shame",
+      "dialogue": "I knew this would happen! - What? Everyone would sit back while you made tea. So what? There's no shame in doing house work! They also don't have shame! But they won't work! Grandpa! Don't you dare criticise my aunts!",
+      "target_person": "aunts",
+      "target_gender": "female",
+      "cause_raw": "not participating in housework",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s463_bolly",
+      "emotion": "shame",
+      "dialogue": "Everyone would sit back while you made tea. So what? There's no shame in doing house work! They also don't have shame! But they won't work! Grandpa! Don't you dare criticise my aunts! Tea! Hot tea!",
+      "target_person": "aunts",
+      "target_gender": "female",
+      "cause_raw": "laziness or unwillingness to do housework",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s464_bolly",
+      "emotion": "shame",
+      "dialogue": "Are you hurt? - No! I enjoyed it! Well! What's the score? Aren't you ashamed? Can't you help her up? Why should I? Who vowed to help her all her life? I'll be late. - Won't I be late?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "not helping a woman",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s465_bolly",
+      "emotion": "shame",
+      "dialogue": "This is a house! Not a pub! Come on! Teaching me? Is this a school and am I your student? Aren't you ashamed to drink in front of children? What do you mean by shut up? - Can't drink behind closed door? You must bear it if you want to stay together.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "drinking alcohol in front of children",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s466_bolly",
+      "emotion": "shame",
+      "dialogue": "To wash your delicate feet with Ashoka leaves...What's going on? What's this? Shameless girl! Killed her parents and now...Wants to bring us dishonour! Speak up! Speak! - We were studying.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "dishonoring family",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s467_bolly",
+      "emotion": "shame",
+      "dialogue": "You try to help someone and he criticises you. Look! I am an outspoken man! I don't like this! You should be ashamed of yourself. Instead of giving this poor innocent girl love...Everyone is oppressing her! I will resign!",
+      "target_person": "person being criticised",
+      "target_gender": "male",
+      "cause_raw": "criticising someone who is trying to help",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s468_bolly",
+      "emotion": "shame",
+      "dialogue": "Go and touch their feet and ask to be forgiven. Why? I've not done wrong. So what? Why be ashamed of saying sorry to them? Do that what I say. Trust me, my sister!",
+      "target_person": "character being advised",
+      "target_gender": "female",
+      "cause_raw": "not apologizing",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s469_bolly",
+      "emotion": "shame",
+      "dialogue": "If those who have brought me up...have no place for me, then...I should have died with my parents. Heard that? Talking like this at twilight! I've done nothing to make you ashamed of me. May I die on the spot if I am speaking a lie. I'll slap you if you talk like that again! Silly!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being disowned by family",
+      "theme_label": "Betrayal"
+    }
+  ]
+}

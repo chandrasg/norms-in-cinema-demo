@@ -1,0 +1,115 @@
+{
+  "film": {
+    "id": "74458",
+    "title": "Mere Brother Ki Dulhan",
+    "year": "2011",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xPOnbPiAVkRu6GIHDnsyRl3Kb0K.jpg",
+    "overview": "A Mumbai man finds himself in an unpredictable situation when the prospective bride of his older brother is a woman he has history with."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3550_bolly",
+      "emotion": "shame",
+      "dialogue": "I like her. Well done. Oh bad omen, may you be shamed. From the left, right and centre. Enough granny, you've shamed the omen completely!",
+      "target_person": "omen",
+      "target_gender": "unclear",
+      "cause_raw": "being a bad omen",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3551_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh bad omen, may you be shamed. From the left, right and centre. Enough granny, you've shamed the omen completely! Go son. Meet him. Good morning, dad.",
+      "target_person": "omen",
+      "target_gender": "unclear",
+      "cause_raw": "being a bad omen",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3552_bolly",
+      "emotion": "shame",
+      "dialogue": "And just think about your family. Will you be able to live away from your dad, mom and Ajju? And the shame that you'll bring to their name. What about that? So what should I do? Fine, I'll marry your brother!",
+      "target_person": "protagonist",
+      "target_gender": "female",
+      "cause_raw": "bringing shame to family by not marrying",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3553_bolly",
+      "emotion": "shame",
+      "dialogue": "It's on the terrace. Licensed. You come to UP and don't taste the bhaang. It's a shame. What's going on? - Nothing much. Bhaisahab's having a little bhang.",
+      "target_person": "visitor",
+      "target_gender": "unclear",
+      "cause_raw": "not participating in local customs",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3554_bolly",
+      "emotion": "shame",
+      "dialogue": "I will never burp in front of you. What? Is this a proposal? I know after marriage when husbands become shameless....they burp in front of their wives and I hate it. So get down and say it. I will never burp in front of you.",
+      "target_person": "husbands",
+      "target_gender": "male",
+      "cause_raw": "burping in front of wives",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p1882_bolly",
+      "emotion": "pride",
+      "dialogue": "My brother's bride Your film is a blockbuster! I can't tell you how proud I was to read your name on the big screen. It was amazing! Why all this drama?",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "sister-in-law's film success",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1883_bolly",
+      "emotion": "pride",
+      "dialogue": "I shall give you in dowry. My girl studied in a Delhi College. We've brought her up with a lot of love and pride. Hello. - So you work in films? Yes.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "daughter's education",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

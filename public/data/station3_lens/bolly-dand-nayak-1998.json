@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "276286",
+    "title": "Dand Nayak",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "",
+    "overview": "Trouble brews for overly enthusiastic police officer Vishal Choudhary (Naseerudin Shah) after he arrests falsely accused Suraj (Manik Bedi). Determined to get back at Choudhary, Suraj and his friend Karan (Indra Kumar) embark on a plan to make people think the lawman is really a gangster. Other plot lines involve a love triangle between Karan, Suraj and the pretty Naina (Ayesha Jhulka) and a gritty underworld run by a Mafia godfather. -  Manek Bedi, Ayesha Jhulka, Bharat Kapoor"
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 3
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s895_bolly",
+      "emotion": "shame",
+      "dialogue": "Do you know the meaning of friendship? If I'd known that you would prove to be such a scoundrel..I would've never joined hands with you. I'm feeling ashamed of myself and my friendship. Now.. before you get burnt down to ashes by my fury..you'd better get out of here. I said get out!",
+      "target_person": "speaker himself",
+      "target_gender": "male",
+      "cause_raw": "betrayal by a friend",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p453_bolly",
+      "emotion": "pride",
+      "dialogue": "I cannot see you in such a restless state of mind. You know that I can do anything for the sake of our friendship. He is very proud of his uniform. I want to break his pride regarding his uniform. All right, then.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "his uniform",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p454_bolly",
+      "emotion": "pride",
+      "dialogue": "You know that I can do anything for the sake of our friendship. He is very proud of his uniform. I want to break his pride regarding his uniform. All right, then. To separate his uniform from his body..whatever you say will be done.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "his uniform",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p455_bolly",
+      "emotion": "pride",
+      "dialogue": "Since I'm the senior most officer, my home should be searched first. This is my request, sir. And I am proud of you, Vishal. He offered himself first for this search. That is the spirit of a good officer.",
+      "target_person": "Vishal",
+      "target_gender": "male",
+      "cause_raw": "offering himself first for search",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p456_bolly",
+      "emotion": "pride",
+      "dialogue": "He once used to be an Assistant Commissioner of Police. He is under suspension till today under suspicion of bribery. He was deprived of his uniform from his body..of which he was very proud once. Today, without his uniform, he appears so naked. So, friends, cheers for his nakedness.",
+      "target_person": "Assistant Commissioner of Police",
+      "target_gender": "male",
+      "cause_raw": "his uniform",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

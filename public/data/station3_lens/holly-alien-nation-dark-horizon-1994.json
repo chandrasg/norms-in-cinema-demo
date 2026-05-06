@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "24047",
+    "title": "Alien Nation: Dark Horizon",
+    "year": "1994",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/fDBN0S2l5QiuoVTPd8K4DTbcKPX.jpg",
+    "overview": "Followup movie to the TV series about 250,000 aliens, or \"newcomers\" as they are known, who have by now settled alongside the humans in California. Most of the newcomers were slaves, and the slave masters are now looking for them. They send Aponso to earth to locate the slaves ready for the aliens to pick them up."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS26_holly",
+      "emotion": "shame",
+      "dialogue": "Tell me, Elliot, what's new on the Purist grapevine?  Does that have to be in here?  You're not ashamed of being a Purist.  - Purist? - Oh, yeah.  Elliot here once burned a Newcomer family out of Glendale.",
+      "target_person": "Elliot",
+      "target_gender": "male",
+      "cause_raw": "racism and violence",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "WS27_holly",
+      "emotion": "shame",
+      "dialogue": "[Footsteps]  - [Grunts] - Don't you look like what the cat-dragon ate.  You left in a hurry last night. Shame you missed dinner.  We had some wonderful liver filled with whipped cream.  - Nu-Twinks. - [Grunts]",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "leaving without notice",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WP38_holly",
+      "emotion": "pride",
+      "dialogue": "To your room I'll take you.  I wanna see Mom. I'm really worried about her.  Of your father you must be very proud.  The police fight the Overseers, yes?  No. They don't let them do that here.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

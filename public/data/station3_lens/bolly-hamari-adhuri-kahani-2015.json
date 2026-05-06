@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "339367",
+    "title": "Hamari Adhuri Kahani",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/joiHOPFGtmY45YwP7Bnm7KvzL8H.jpg",
+    "overview": "A single mother finds solace with a wealthy, but lonely hotel magnate, together they find love until her past comes back to confront her."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2292_bolly",
+      "emotion": "shame",
+      "dialogue": "That wasn't my imagination. That doctor...You paid a high price for your indiscretions, Vasudha. A shameless woman like her was bound to meet this fate. Right? Brazen woman, her body was found on a deserted road.",
+      "target_person": "Vasudha",
+      "target_gender": "female",
+      "cause_raw": "Indiscretions/Immoral behavior",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2293_bolly",
+      "emotion": "shame",
+      "dialogue": "Even at this age, he knows so much about computers. At this rate......he'll soon be India's Bill Gates. Aren't you ashamed? You took a small boy from his school......and brought him to the police station. What right do you have?",
+      "target_person": "police",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate treatment of a minor",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2294_bolly",
+      "emotion": "shame",
+      "dialogue": "- Stop. We need help. - That was the scariest night of my life. I saw a weak man get destroyed because of his shame. That night I swore to be successful......and took my first step towards becoming successful. But this success doesn't take away the pain.",
+      "target_person": "weak man",
+      "target_gender": "male",
+      "cause_raw": "failure to succeed",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2295_bolly",
+      "emotion": "shame",
+      "dialogue": "I work for him. He wants to marry me. Aren't you ashamed? Your father taught values all his life. How could those values give birth to such a woman?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "having a relationship with employer",
+      "theme_label": "Promiscuity"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "film": {
+    "id": "24869",
+    "title": "Ink",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/9vYyX7c8gZtxuqd6SiRukRb4gRd.jpg",
+    "overview": "Invisible forces exert power over us in our sleep. A mercenary named Ink, on a literal nightmare mission, captures the spirit of 8-year-old Emma in the dream world. To save her, the dream-givers marshal all their resources, focusing on saving the soul of Emma's tragically broken father."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1463_holly",
+      "emotion": "shame",
+      "dialogue": "Yes I can. Would you like help Ink?  You need it.  With that shame... That stench!  That stench!  The code isn't here.",
+      "target_person": "Ink",
+      "target_gender": "unclear",
+      "cause_raw": "unknown reason",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS1464_holly",
+      "emotion": "shame",
+      "dialogue": "that you are forgetting.  /You can't change that now.  /You were so ashamed.  Mr Sullivan, your family has already suffered an immense amount of grief.  So it saddens me to have to create any more.",
+      "target_person": "Mr Sullivan",
+      "target_gender": "male",
+      "cause_raw": "causing grief to family",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WS1465_holly",
+      "emotion": "shame",
+      "dialogue": "They're all reactions!  One thing begets the next. A man has a weakness, he's flawed.  That flaw leads him to guilt. The guilt leads him to shame.  The shame he compensates with pride and vanity.  And when pride fails, despair takes over and they all lead to his destruction.",
+      "target_person": "Man",
+      "target_gender": "male",
+      "cause_raw": "personal flaws leading to destructive behavior",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS1466_holly",
+      "emotion": "shame",
+      "dialogue": "One thing begets the next. A man has a weakness, he's flawed.  That flaw leads him to guilt. The guilt leads him to shame.  The shame he compensates with pride and vanity.  And when pride fails, despair takes over and they all lead to his destruction.  What will become his fate.",
+      "target_person": "Man",
+      "target_gender": "male",
+      "cause_raw": "personal flaws leading to destructive behavior",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS1467_holly",
+      "emotion": "shame",
+      "dialogue": "We're just reminding him he's not.  Takes humility to remember who we are.  If he embraces his shame... she has a chance. If not, the girl will be lost.  she has a chance. If not, the girl will be lost.  That can't happen.",
+      "target_person": "him",
+      "target_gender": "male",
+      "cause_raw": "lack of humility",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1468_holly",
+      "emotion": "shame",
+      "dialogue": "You have proved your loyalty.  Those scars, they will be gone now.  No more shame.  Because pride... is what we are made of.  is what we are made of.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "having scars",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS1469_holly",
+      "emotion": "shame",
+      "dialogue": "Ink... Incredible Ink.  Incredible Ink.  You hide yourself ashamed... but you can't see how beautiful you are.  but you can't see how beautiful you are.  I don't understand.",
+      "target_person": "Ink",
+      "target_gender": "unclear",
+      "cause_raw": "self-deprecation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP2567_holly",
+      "emotion": "pride",
+      "dialogue": "One thing begets the next. A man has a weakness, he's flawed.  That flaw leads him to guilt. The guilt leads him to shame.  The shame he compensates with pride and vanity.  And when pride fails, despair takes over and they all lead to his destruction.  What will become his fate.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2568_holly",
+      "emotion": "pride",
+      "dialogue": "That flaw leads him to guilt. The guilt leads him to shame.  The shame he compensates with pride and vanity.  And when pride fails, despair takes over and they all lead to his destruction.  What will become his fate.  Something's got to stop the flow.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2569_holly",
+      "emotion": "pride",
+      "dialogue": "Those scars, they will be gone now.  No more shame.  Because pride... is what we are made of.  is what we are made of.  You will be our greatest asset.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

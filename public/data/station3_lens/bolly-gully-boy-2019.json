@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "491625",
+    "title": "Gully Boy",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg",
+    "overview": "Murad, an underdog, struggles to convey his views on social issues and life in Dharavi through rapping. His life changes drastically when he meets a local rapper, Shrikant alias MC Sher."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2252_bolly",
+      "emotion": "shame",
+      "dialogue": "You're not like me 'coz you're a fake. A snake for women A blot on mankind. My words have more heat than you Shame on you! You have no future. You have no strength.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting women and being dishonest",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2253_bolly",
+      "emotion": "shame",
+      "dialogue": "Moeen, you're using those kids to deal drugs? Chill. They had a message for me. Shame on you, Moeen. Tell me straight. What's going on? Who the hell are you?",
+      "target_person": "Moeen",
+      "target_gender": "male",
+      "cause_raw": "using children for illegal activities",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1164_bolly",
+      "emotion": "pride",
+      "dialogue": "'Coz Loco's the way on our street. The vibe on my street is rocking. It's the pride of Dharavi. Money and fame are common. But our love's rare for everyone.",
+      "target_person": "Loco",
+      "target_gender": "male",
+      "cause_raw": "community spirit and unity",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p1165_bolly",
+      "emotion": "pride",
+      "dialogue": "Feed my kids. Take care of them. Make everyone from Dharavi 17 proud. You hear me? Go there and wipe them clean. Then come and save Moeen.",
+      "target_person": "Moeen",
+      "target_gender": "male",
+      "cause_raw": "Achieving success and helping community",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

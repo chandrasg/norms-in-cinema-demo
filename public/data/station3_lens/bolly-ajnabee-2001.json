@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "22316",
+    "title": "Ajnabee",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/rIscKIZxR4HXzLiWgAU7GykfpfI.jpg",
+    "overview": "Raj and Priya befriend their new neighbors Vicky and Sonia. One day, Raj wakes up in Vicky's house and finds out that Sonia has been murdered and he's being framed for it. On the run, he must try and prove his innocence with the support of his loving wife."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4103_bolly",
+      "emotion": "shame",
+      "dialogue": "Bloody, I'll give her such a kiss that even she'll get happy Kisses after kisses... - What? Shameless, I'm talking about myself Hey, why do you get angry for this I'll kiss you, come here...How dare you kissed me 3 times?",
+      "target_person": "female character",
+      "target_gender": "female",
+      "cause_raw": "inappropriate sexual advances",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4104_bolly",
+      "emotion": "shame",
+      "dialogue": "The truth is that, after our drinks got over we never want to the Airport But, this man had told me so cheap & disgusting word that I feel ashamed to repeat it in this court He talked about swapping my wife for a night I beat him for this",
+      "target_person": "accused man",
+      "target_gender": "male",
+      "cause_raw": "disrespectful and inappropriate comments about someone's wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p2214_bolly",
+      "emotion": "pride",
+      "dialogue": "I gave my watch to bartender and made him into a witness! People spend their lives, even then they can't earn a million And, within 5 months I've become proud owner of 100 millons Why do you always say by chance? What did it gave you?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "financial success",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "film": {
+    "id": "120802",
+    "title": "Noobz",
+    "year": "2013",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/6MpGb2U26E4n9OYYicleucaNHbe.jpg",
+    "overview": "Four friends hit the road to LA to compete in the Cyberbowl Video Game Championship, but will they be able to compete with the worst hangovers of their lives?"
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP227_holly",
+      "emotion": "pride",
+      "dialogue": "- Yes! - Watch it! Geek!  This chick isn't fooling us. We know exactly how her Friday nights will go:  Making Daddy proud.  Ah! This party's so sick, man!  It's time to recognize the new athletes of the 21st century.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP228_holly",
+      "emotion": "pride",
+      "dialogue": "You are a small-minded man, Jeff.  - You're thinking only about money? - I'm your business manager!  - It's my job! - OK, but let me just tell you something, it's about pride too!  Pride is sac, bro. Don't look at my junk because I'm a grower, not a shower.  But listen! What I'm trying to tell you right now, man,",
+      "target_person": "Jeff",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP229_holly",
+      "emotion": "pride",
+      "dialogue": "- You're thinking only about money? - I'm your business manager!  - It's my job! - OK, but let me just tell you something, it's about pride too!  Pride is sac, bro. Don't look at my junk because I'm a grower, not a shower.  But listen! What I'm trying to tell you right now, man,  it's pride that gives the competitive spirit its edge.",
+      "target_person": "business manager",
+      "target_gender": "male",
+      "cause_raw": "competitive spirit",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP230_holly",
+      "emotion": "pride",
+      "dialogue": "Pride is sac, bro. Don't look at my junk because I'm a grower, not a shower.  But listen! What I'm trying to tell you right now, man,  it's pride that gives the competitive spirit its edge.  - Really? - Yeah.  Pride didn't pay for a pool.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP231_holly",
+      "emotion": "pride",
+      "dialogue": "it's pride that gives the competitive spirit its edge.  - Really? - Yeah.  Pride didn't pay for a pool.  Pride didn't pay for a TV  on an antique table by a pool!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP232_holly",
+      "emotion": "pride",
+      "dialogue": "- Really? - Yeah.  Pride didn't pay for a pool.  Pride didn't pay for a TV  on an antique table by a pool!  Really?! All this money, you have a cassette player?!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP233_holly",
+      "emotion": "pride",
+      "dialogue": "They didn't give us much time to celebrate before we have to  - play against each other. - You guys played well though.  You should be proud of yourself.  Oh, no, you don't.  Not until we play.",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "playing well",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP234_holly",
+      "emotion": "pride",
+      "dialogue": "- All right. - Bye.  So, for our Frogger championship,  we have Scott Pride from Trenton, New Jersey.  And Greg \"Armagreggon\" Lipstien.  Kind of big.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

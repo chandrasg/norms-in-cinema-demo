@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "173418",
+    "title": "Dhoom Dadakka",
+    "year": "2008",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/qMOUAFO8oyZ48F9411cdGg526jE.jpg",
+    "overview": "At a Bangkok 'Asian Bhai Meet' the Godfather meets with several gangsters, reviews the reduction in revenue, and decides to induct fresh blood. While Fursat Lala decides to hand-over this task to his son, Zac; Mungi Lal, a bachelor, has no heir, save for an long-estranged maternal nephew, Kamal, and is asked to find him and include him in this gang within 30 days. Mungi and his associate, Jignesh, head out to Mumbai in an effort to locate his estranged sister, Angoori, and her son - in vain - as there is no trace of the duo. He recruits the services of Private Detective Johnny English and instructs him to locate Kamal. Johnny does locate him and takes him to meet with Mungi - a move that will result in nothing but hilarious chaos when Mungi tells him that he has already located Kamal. Things get even more confusing after a woman shows up - also claiming to be Kamal!!"
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1111_bolly",
+      "emotion": "shame",
+      "dialogue": "You didn't think even once.  Someone is waiting for you at Canada.  Jia! Uncle..Uncle.. - She is Jia. And Jia, he is..What? Ashamed to tell? - Huh? That you love me. - Oh! That we are engaged! - Huh?",
+      "target_person": "Jia",
+      "target_gender": "female",
+      "cause_raw": "hiding her engagement",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "p561_bolly",
+      "emotion": "pride",
+      "dialogue": "Underworld's future. - Yes, bhai.  My son. My son is underworld's pride. - Yes, bhai.  The new fear of the underworld. The new king of the underworld. - Yes, bhai.",
+      "target_person": "bhai",
+      "target_gender": "male",
+      "cause_raw": "son's rise in underworld",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p562_bolly",
+      "emotion": "pride",
+      "dialogue": "We made a mistake in recognising you. This man is not just a don, but also a nice person. And we are proud that we are his nephews.  Lie!  They are lying God Father.",
+      "target_person": "nephews",
+      "target_gender": "male",
+      "cause_raw": "being related to a respected person",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

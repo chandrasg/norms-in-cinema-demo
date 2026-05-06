@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "20832",
+    "title": "Krazzy 4",
+    "year": "2008",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8owptcZPbNIqugAHQOzawgRQM5s.jpg",
+    "overview": "4 mental patients formulate the plan to rescue their kidnapped doctor and teach the kidnappers a lesson."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3177_bolly",
+      "emotion": "shame",
+      "dialogue": "It's the day we got our freedom. Let me take a bribe freely. Wife wants the new tri-colored sari available in the market. She'll wear it this evening. - Aren't you ashamed? You'll buy the tri-colour with bribe money! Why be ashamed? People wear the tri-colour and take bribe.",
+      "target_person": "character taking bribe",
+      "target_gender": "male",
+      "cause_raw": "taking bribe",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3178_bolly",
+      "emotion": "shame",
+      "dialogue": "She'll wear it this evening. - Aren't you ashamed? You'll buy the tri-colour with bribe money! Why be ashamed? People wear the tri-colour and take bribe. I'm only using the bribe money to buy the tri-color. What do you want?",
+      "target_person": "character buying tri-color",
+      "target_gender": "unclear",
+      "cause_raw": "using bribe money to buy national symbol",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p1663_bolly",
+      "emotion": "pride",
+      "dialogue": "Hail motherland! 'Gangadhar, a patient of schizophrenia.' 'For ten years he has been the pride of this hospital!' 'Even now he thinks the country has not attained independence.' 'He was writing a book on the freedom fighters.'",
+      "target_person": "Gangadhar",
+      "target_gender": "male",
+      "cause_raw": "contribution to the hospital as a patient",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

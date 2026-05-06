@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "161417",
+    "title": "Saugandh",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/cejQCb1TBi15I8dVtUHUUzwRIGo.jpg",
+    "overview": "Story of love and war"
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4718_bolly",
+      "emotion": "shame",
+      "dialogue": "And neither do I understand this. I'd heard that the moon( Chand) is only ecliPsed. But I didn't know the moon seeks shameless Pleasures. Tell me, which desire of yours is it. . . . .that I've left unfulfilled?",
+      "target_person": "Chand",
+      "target_gender": "male",
+      "cause_raw": "Infidelity or disloyalty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s4719_bolly",
+      "emotion": "shame",
+      "dialogue": "You shouldn't have infringed uPon anyone's honour. This girl had shot my horse! For only that? You should be ashamed. Do you not know, that honour is more Precious than a horse? Here, take my head-dress. . .( mark of honour)",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "infringing upon someone's honour",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s4720_bolly",
+      "emotion": "shame",
+      "dialogue": "though we grow uP together. . .you, my daughter have said it in Public? I have loved you so! And you've turned out to be so shameless! How is she to fault? You haven't even taught her these etiquette!",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "lack of etiquette",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p2659_bolly",
+      "emotion": "pride",
+      "dialogue": "Forgive me. Please forgive me. I swear by the Pyres of my dead. . .that I shall destroy the Pride of the man who has devastated my family. I beg of you, God",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

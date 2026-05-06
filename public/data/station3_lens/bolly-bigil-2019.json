@@ -1,0 +1,103 @@
+{
+  "film": {
+    "id": "563309",
+    "title": "Bigil",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/s4Yi1RbMyyN3hH2hElwvluP2rOG.jpg",
+    "overview": "A do-gooder don wants his footballer son to uplift the life of his people by becoming a champion, but fate draws the youngster into a life of violence. Will he be able to fulfill his father’s dream when an opportunity comes his way seven years later?"
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 3
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s577_bolly",
+      "emotion": "shame",
+      "dialogue": "Ducks...ducks...!11 dim-witted ducks! Are you players? I really want to know Aren't you ashamed to call yourself so? Are you cleaning the ground with your wonderful feet? Don't kick the ball too hard",
+      "target_person": "football players",
+      "target_gender": "unclear",
+      "cause_raw": "poor performance in the game",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p252_bolly",
+      "emotion": "pride",
+      "dialogue": "With such a huge fan following what else can be my blessing? I will be your rowdy-king In my area always protecting You are in no way inferior Stand proud of your high-caliber You're my friend forever Heaped in my heart's atrium For my troops over-enthusiasm",
+      "target_person": "friend",
+      "target_gender": "unclear",
+      "cause_raw": "high-caliber",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p253_bolly",
+      "emotion": "pride",
+      "dialogue": "What a fantastic game! - Totally international standard - Thank you, sir Proud to have you in our national team In this season alone...- I believe you scored 28 goals? - Yes, sir Not just as a player...but your captainship was very mature",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "player's performance and leadership",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p254_bolly",
+      "emotion": "pride",
+      "dialogue": "Focus on the match and ace it We will win this cup And hand it with pride to Kathir sir Okay, Mari? Agreed, Pandi? - Kani? - Okay, 'ka",
+      "target_person": "Mari Pandi Kani",
+      "target_gender": "male",
+      "cause_raw": "Winning a match",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p255_bolly",
+      "emotion": "pride",
+      "dialogue": "All of you know him only as Michael Rayappan Only I know......about Bigil He is the pride of our nation Our country's one of the finest football player! After so many years",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Sports achievement",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p256_bolly",
+      "emotion": "pride",
+      "dialogue": "Railways, Customs, Airport 'Politicians, ministers, businessmen' For big shots like them...it is a pride for their children to even feature in the national team They are willing to grease our palms to any extent, sky is the limit If I should bring your son into the team......how much will you pay?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p257_bolly",
+      "emotion": "pride",
+      "dialogue": "Definitely stands a man with his head held high! That too, behind a successful married woman Stands a proud husband for sure! Lion-queen bold Girl with guts and grit, behold! Entire male clan will salute you &amp; uphold",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "wife's success",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

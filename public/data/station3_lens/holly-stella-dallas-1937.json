@@ -1,0 +1,107 @@
+{
+  "film": {
+    "id": "43865",
+    "title": "Stella Dallas",
+    "year": "1937",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/spcGWnz05deoY7gAl0EvrBelzPa.jpg",
+    "overview": "A working-class woman is willing to do whatever it takes to give her daughter a socially promising future."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS551_holly",
+      "emotion": "shame",
+      "dialogue": "that any girl would be proud of.  I didn't know anyone could be so unselfish.  And I'll say one thing. You'd never be ashamed of Lollie either.  Everybody's just crazy about her. Oh, she makes a wonderful impression.  She's so refined and elegant in her ways, but... Oh, you already know that.",
+      "target_person": "Lollie",
+      "target_gender": "female",
+      "cause_raw": "not being refined or elegant",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WP1158_holly",
+      "emotion": "pride",
+      "dialogue": "I do too. It was my father's name.  - Was? - Con's the man of the family now.  He looks after us all so beautifully. His father would be very proud.  Splendid. Nothing but the finest care would be good enough for your mother.  But, Stephen, tell us about you.",
+      "target_person": "Con",
+      "target_gender": "male",
+      "cause_raw": "looking after the family",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP1159_holly",
+      "emotion": "pride",
+      "dialogue": "I like nice people and a little fun myself.  I'm sorry.  I don't see how your pride would let you show him you cared that much.  If it was me, I'd stay on just to show him that there's other fish in the sea.  It's only for you.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1160_holly",
+      "emotion": "pride",
+      "dialogue": "And your name bein' Mrs. Dallas, you see... everybody would naturally think she was... your little girl.  your little girl.  Then when ya went places, you see... well... You see, you're the kind of a mother... that any girl would be proud of.  that any girl would be proud of.  I didn't know anyone could be so unselfish.",
+      "target_person": "Mrs. Dallas",
+      "target_gender": "female",
+      "cause_raw": "being a mother any girl would be proud of",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP1161_holly",
+      "emotion": "pride",
+      "dialogue": "your little girl.  Then when ya went places, you see... well... You see, you're the kind of a mother... that any girl would be proud of.  that any girl would be proud of.  I didn't know anyone could be so unselfish.  And I'll say one thing. You'd never be ashamed of Lollie either.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "having an unselfish mother",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1162_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, Daddy!  What is it, sweetheart?  I thought it was for my sake... she wanted me to come and live with you... and I was so glad and so proud.  and I was so glad and so proud.  But it wasn't.",
+      "target_person": "Sweetheart",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1163_holly",
+      "emotion": "pride",
+      "dialogue": "What is it, sweetheart?  I thought it was for my sake... she wanted me to come and live with you... and I was so glad and so proud.  and I was so glad and so proud.  But it wasn't.  It was for him.",
+      "target_person": "sweetheart",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

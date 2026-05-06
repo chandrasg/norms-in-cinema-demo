@@ -1,0 +1,155 @@
+{
+  "film": {
+    "id": "245418",
+    "title": "Lover Boy",
+    "year": "1985",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/xlsLNfgTLGe08j0i9zvQvrGHzYA.jpg",
+    "overview": "Lover Boy is a 1985 Indian Bollywood film produced and directed by Shomu Mukherjee. It stars Rajiv Kapoor, Meenakshi Seshadri and Anita Raj in pivotal roles."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 3
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 4
+    },
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3376_bolly",
+      "emotion": "shame",
+      "dialogue": "Why today your own sons shot you. In front of inhumanity, humanity has lost. Due to shame out head has been lowered. Why those cruel people robbed....this flower garden of ours. Our india is better than the whole world.",
+      "target_person": "India",
+      "target_gender": "unclear",
+      "cause_raw": "inhumanity and cruelty",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3377_bolly",
+      "emotion": "shame",
+      "dialogue": "Come, jump. - No. Daddy. - ill just come. Without reason making a donkey ashamed and looking older to me. in age, my son the first rule of success is that in this world...dont even trust your father understood. Yes, I understood.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being naive and trusting",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3378_bolly",
+      "emotion": "shame",
+      "dialogue": "Come on tie my blouse. What a lady you are. Don't you have any shame, Respect or embarrassment. Haven't you seen it before. - Seen it. Come on, tie the blouse. Aren't you ashamed.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "lack of modesty",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s3379_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't you have any shame, Respect or embarrassment. Haven't you seen it before. - Seen it. Come on, tie the blouse. Aren't you ashamed. Showing your body in front of a stranger. No, this is the right of a husband.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "exposing body to a stranger",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3380_bolly",
+      "emotion": "shame",
+      "dialogue": "In the darkness, wife. and in light mother. I won't spare you. I won't spare you. Aren't you ashamed. Onside drama of loving me. And other side from someone begging for love.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3381_bolly",
+      "emotion": "shame",
+      "dialogue": "idiots. Come home. I'll see you. Arent you ashamed. You want to expose your body in front of a stranger. No, only husband has this right.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "exposing body to strangers",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1765_bolly",
+      "emotion": "pride",
+      "dialogue": "Who is she. - Shes your mother. My mother. - Your fourth mother. You should be proud of your father, that alone with wealth....he has also given you a flow of mothers. its my age to get married and you are going on getting married. When i've not finished off, how can you start.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "multiple marriages",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1766_bolly",
+      "emotion": "pride",
+      "dialogue": "So young son of your young mother. From those 20 lakhs, I gave 50 thousand as bribe to Baiya....and won the case of Gandhi orphanage land. You won the case. i'm proud of you, dad. How much more is left. Remaining is 9 1/2",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "father's achievement",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1767_bolly",
+      "emotion": "pride",
+      "dialogue": "two three. They ran away mother. - I'm proud of you, my son. You are savior. Now no one will sleep hungry here. And we can live with pride.",
+      "target_person": "mother",
+      "target_gender": "male",
+      "cause_raw": "saving people from hunger",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1768_bolly",
+      "emotion": "pride",
+      "dialogue": "They ran away mother. - I'm proud of you, my son. You are savior. Now no one will sleep hungry here. And we can live with pride. Come on, Kanhaiya, take the money and run away from here. What is this.",
+      "target_person": "mother",
+      "target_gender": "male",
+      "cause_raw": "saving people from hunger",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1769_bolly",
+      "emotion": "pride",
+      "dialogue": "i'm living for you. Well set the example of true love to the world. Well proudly meet death in love. Those in love, dont fear death. When this lightning will strike, it'll set everything to fire.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "true love",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

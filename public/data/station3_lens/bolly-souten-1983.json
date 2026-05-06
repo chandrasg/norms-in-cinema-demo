@@ -1,0 +1,121 @@
+{
+  "film": {
+    "id": "192842",
+    "title": "Souten",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/pBtKnI3O6Z6yYIq4Sy1VAEdRfb.jpg",
+    "overview": "Shyam an ambitious young man is in Mauritius to fulfill his dreams. He meets Rukmini, a millionaire's daughter. They fall in love and get married despite strong opposition from Rukmani's stepmother and brother. Shyam would love to be a father, but Rukmani undergoes an operation to stop any pregnancy, as she is least interested in becoming a mother. This widens the gap between the couple. Rukmini even suspects Shyam of having an illicit relationship with Radha, a librarian. Rukmini's stepmother and uncle, who have an eye on Rukmini's wealth, further fuel the misunderstanding to the point of breaking their marriage."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 2
+    },
+    "pride": {
+      "female": 1,
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4244_bolly",
+      "emotion": "shame",
+      "dialogue": "So, the sooner we did it, the better. Have something. What a shame! Only illiterates eat with bare hands, young man! Those from high society use forks and knives. This is how...If you're trying to tell me that I don't belong to your society...I must tell you that I know that very well.",
+      "target_person": "young man",
+      "target_gender": "male",
+      "cause_raw": "eating with bare hands",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4245_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you doing at a poor man's place...You're being formal again! I've come to apologize for all my mistakes. I'm terribly ashamed at what I have done, uncle. No, dear. You are like my daughter, Radha. Isn't she in? - Who? Radha?",
+      "target_person": "Radha's friend",
+      "target_gender": "female",
+      "cause_raw": "Mistreating or misunderstanding the poor",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4246_bolly",
+      "emotion": "shame",
+      "dialogue": "It's difficult to maintain you and your father...and you're bringing in the baby too! A baby is a gift of God. Shameless b***h! Is it a gift from God...or is it from your lover? What did you say? Where do you meet the b*****d? Tell me!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "having a child out of wedlock",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p2322_bolly",
+      "emotion": "pride",
+      "dialogue": "These experiences of love that I have been through...were all alien to me, Shyam. Every moment has brought a new feeling. I am proud to be your wife. I want to give you all the happiness in life, Ruku. I want to make it so big...that should destiny have overlooked some happiness for us...I want to buy that and lay it at your feet.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "being spouse",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2323_bolly",
+      "emotion": "pride",
+      "dialogue": "I was very happy with the life I used to lead. I didn't have your bank balance slapping me in the face. I didn't have it always belittling me and my pride! Always remember. She's no longer your daughter. She's my wife, my honor and my pride!",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "wife",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2324_bolly",
+      "emotion": "pride",
+      "dialogue": "I didn't have it always belittling me and my pride! Always remember. She's no longer your daughter. She's my wife, my honor and my pride! By spoiling her, you are spoiling my life! What happened, Shyam?",
+      "target_person": "Shyam",
+      "target_gender": "male",
+      "cause_raw": "his wife",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2325_bolly",
+      "emotion": "pride",
+      "dialogue": "You are talking a lot of nonsense! You are heaping abuses on me! I'm not just your wife... I'm a woman, too! You have abused the pride of your wife! You have abused a woman's honor! It is actually your arrogance at work, Shyam.",
+      "target_person": "Shyam",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2326_bolly",
+      "emotion": "pride",
+      "dialogue": "The life that you led. The person that you were. I am happy with what I am and where I am, Ruku. It's your injured pride that is speaking, Shyam. Was it your love that spoke up in court? All that can be changed in court, provided you belong to me!",
+      "target_person": "Shyam",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

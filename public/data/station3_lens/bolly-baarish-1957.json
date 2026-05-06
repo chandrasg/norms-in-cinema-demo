@@ -1,0 +1,120 @@
+{
+  "film": {
+    "id": "642637",
+    "title": "Baarish",
+    "year": "1957",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9mPweBwnouJfXVLY1oOHtqeUiQO.jpg",
+    "overview": "City-bred Ramu is involved in petty crime. When his close friend Gopal asks him to go to the village and look after his mother and sister Chanda, Ramu does so. After coming to know both mother and daughter, they decide to re-locate to the big city to be together with Gopal. In the process, Ramu and Chanda fall in love with each other. Chanda wants Ramu to give up his life of crime, but will his crime partners allow Ramu to lead a normal life?"
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4,
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s304_bolly",
+      "emotion": "shame",
+      "dialogue": "What do we say? Go and see for yourself on the terrace. Witness the romance going on. Your daughter is dancing away shamelessly with that thug Ramu. What are you saying, sister? That poor Ramu is...Did you hear that? She is defending him. We know Ramu very well. He is a very notorious guy.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately with a man",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s305_bolly",
+      "emotion": "shame",
+      "dialogue": "Until now, the pigeons used to fly over the roof. And now, the girl dances on the roof. Disgusting! There's a limit to shamelessness. The nerve she talks back to us! She is more worried about Ramu, did you see that? To hell with her.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "behaving against traditional norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s306_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't eat of yours to be pushed around by you. First of all in this respectable neighbourhood, you publicly move around shamelessly and then, you dare to bully us! - Shut up! You have done your 6 months term in prison for liquor.... and you call this a respectable neighbourhood! You rolled up your sleeves! Why did you have a fight with Girdhar?",
+      "target_person": "Girdhar",
+      "target_gender": "male",
+      "cause_raw": "public misbehavior and past criminal record",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s307_bolly",
+      "emotion": "shame",
+      "dialogue": "Someone is watching. - Who's there to watch us here? Hey, steer clear! Aren't you ashamed of to go peeping into a couple's affair? Go back to your business! My, what a beauty!",
+      "target_person": "peeping tom",
+      "target_gender": "male",
+      "cause_raw": "invading privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s308_bolly",
+      "emotion": "shame",
+      "dialogue": "Go back to your business! My, what a beauty! You should be ashamed. Don't talk to me like that. I am warning you. You are fighting again! - Oh no! Now I have vowed never to fight with you.",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s309_bolly",
+      "emotion": "shame",
+      "dialogue": "Won't you speak to me? All right, don't speak. I too shan't speak with you. Mom!  - You shameless creature! How dare you! You make an excuse of prayers and quietly sneak over here! Mom, why did you follow me?",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "sneaking out",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s310_bolly",
+      "emotion": "shame",
+      "dialogue": "You make an excuse of prayers and quietly sneak over here! Mom, why did you follow me? How shamelessly are you asking me why I followed you? The neighbours are disparaging you! No... I will never say it.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "sneaking out and causing gossip",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p132_bolly",
+      "emotion": "pride",
+      "dialogue": "We know Ramu very well. He is a very notorious guy. It's his own house then, why should he worry about anything? He lost his brother and yet, he's hasn't lost his pride. Don't know what he thinks himself to be? Don't say anything to Ramu. What's his fault?",
+      "target_person": "Ramu",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

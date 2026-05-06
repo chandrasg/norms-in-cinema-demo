@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "216116",
+    "title": "Shaadi No. 1",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/o9khHif9e22IwkfcKjrNTDGG1AL.jpg",
+    "overview": "In their misguided pursuit of happiness outside of marriage, three husbands end up in the crosshairs of a man who is like an elder brother to their wives."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4131_bolly",
+      "emotion": "shame",
+      "dialogue": "Now who is here to censor our love story? Just wait here, my love, and I will be bacK in a jiffy. Be comfortable. It's you? Don't you have any shame to ring...the doorbell so late in the night? - Sorry. Give me the main door Key and I will use it the next time around. Cut the crap and tell me what do you want?",
+      "target_person": "late-night visitor",
+      "target_gender": "unclear",
+      "cause_raw": "disturbing peace at late hours",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4132_bolly",
+      "emotion": "shame",
+      "dialogue": "Sir, you? - Sir, it's you. Yes, didn't you recognize him? He's Mr. Kothari. Shameless guys! Listen to me carefully. Enough of your acting and singing duets. Now just do the job for which I have brought you here.",
+      "target_person": "Mr. Kothari",
+      "target_gender": "male",
+      "cause_raw": "not focusing on the assigned job",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4133_bolly",
+      "emotion": "shame",
+      "dialogue": "Similarly heartfelt feelings maKeth the relation of a brother and a sister But where is your luggage? Left it in some hotel? Hotel? Shame on you if I have to live in a hotel. I am going to stay here to deal with you all. Monday and Tuesday with the first bro-in-law...Wednesday and Thursday reserved for the second...and Friday, Saturday for the third.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "not having a permanent residence",
+      "theme_label": "Poverty"
+    }
+  ]
+}

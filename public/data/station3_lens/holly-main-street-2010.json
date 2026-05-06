@@ -1,0 +1,146 @@
+{
+  "film": {
+    "id": "54469",
+    "title": "Main Street",
+    "year": "2010",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/nrLwh5HWfTAkhpp6zmUrZs6JFcs.jpg",
+    "overview": "From the once thriving tobacco warehouses, to the current run-down and closed shops of Five Points, a diverse group of residents and their respective life changes when outsider Gus Leroy brings something new and potentially dangerous into their quiet town."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 3
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS951_holly",
+      "emotion": "shame",
+      "dialogue": "He's a lamer.. .at the firm.  Why don't you bring him by the house some time so we can meet him?  Your mama thinks you're ashamed of us.  I'm not ashamed of you.  Well, your mama thinks so.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "perceived as being ashamed of family",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS952_holly",
+      "emotion": "shame",
+      "dialogue": "Why don't you bring him by the house some time so we can meet him?  Your mama thinks you're ashamed of us.  I'm not ashamed of you.  Well, your mama thinks so.  Well, I'm not.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "not introducing family to significant other",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WS953_holly",
+      "emotion": "shame",
+      "dialogue": "l am... here alone most of my life... is suddenly in a panic.  is suddenly in a panic.  I am so ashamed.  There is nothing to be ashamed of.  I'm here now and you're perfectly safe.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "feeling alone and panicked",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS954_holly",
+      "emotion": "shame",
+      "dialogue": "is suddenly in a panic.  I am so ashamed.  There is nothing to be ashamed of.  I'm here now and you're perfectly safe.  Well, God bless ya.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "feeling unsafe",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS955_holly",
+      "emotion": "shame",
+      "dialogue": "-Willa. -Yes, Ma'am.  -You have to know something. -What is it, Auntie?  -I'm ashamed to tell you. -Why?  Because I am.  I have very little money, Willa.",
+      "target_person": "Willa's Aunt",
+      "target_gender": "female",
+      "cause_raw": "having little money",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1772_holly",
+      "emotion": "pride",
+      "dialogue": "l have practically nothing left to return.  Oh, I should have sold this house a long time ago.  It was pride that kept me from doing it.  I couldn't bear to have my friends.. .  know that I had to give up my home.",
+      "target_person": "house owner",
+      "target_gender": "unclear",
+      "cause_raw": "not selling the house",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1773_holly",
+      "emotion": "pride",
+      "dialogue": "What sins?' I asked him. The sin of buying and selling tobacco?  No, he said.  For the sin of pride.  The sin of thinking we were invulnerable.  That our good fortune would last forever.",
+      "target_person": "he",
+      "target_gender": "male",
+      "cause_raw": "thinking they were invulnerable and their good fortune would last forever",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP1774_holly",
+      "emotion": "pride",
+      "dialogue": "Well.. .it did end.  And every night in the year Papa died, I would hear him in his room.  Asking God to... forgive him for his sin of pride.  forgive him for his sin of pride.  I'll sell my house now.. .",
+      "target_person": "Papa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1775_holly",
+      "emotion": "pride",
+      "dialogue": "And every night in the year Papa died, I would hear him in his room.  Asking God to... forgive him for his sin of pride.  forgive him for his sin of pride.  I'll sell my house now.. .  and start over.",
+      "target_person": "Papa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1776_holly",
+      "emotion": "pride",
+      "dialogue": "I'm here to talk about what I like to talk about more than anything.  Managing our waste.  Well, first of all, I'd like you to know that I am a paid employee, and proud  to be of the Environmental Services Corporation.  We have offices in Houston, San Antonio,",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being an employee of the Environmental Services Corporation",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

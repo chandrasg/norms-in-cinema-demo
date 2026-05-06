@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "376884",
+    "title": "Kyaa Kool Hain Hum 3",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/w9XCRN8JOe2cylkPePv6uLT6Bkc.jpg",
+    "overview": "In order to impress his girlfriend's conservative father, a porn actor uses his fellow adult movie stars in creating a fake traditional family."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3223_bolly",
+      "emotion": "shame",
+      "dialogue": "I thought you two are tired of doing good things. Now you'll do some bad things. Aren't you ashamed? You make BP. Not BP...DP. - DP? Yeah...Dirty Picture.",
+      "target_person": "two individuals",
+      "target_gender": "unclear",
+      "cause_raw": "making inappropriate content",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3224_bolly",
+      "emotion": "shame",
+      "dialogue": "His face reminds me...of Rocky. Rocky? Rocky who? He was a shameless and cheap guy. He turned his granny...into super-granny. I mean she's dead. Is that what happened?",
+      "target_person": "Rocky",
+      "target_gender": "male",
+      "cause_raw": "Being shameless and cheap",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3225_bolly",
+      "emotion": "shame",
+      "dialogue": "Someone help him. Forgive me, son. I should be ashamed of myself. You were thinking of making him your wife. But me, his father..I was thinking of making him his mother. - Papa..That means..you're Kanhaiya's real father.",
+      "target_person": "Kanhaiya's father",
+      "target_gender": "male",
+      "cause_raw": "hiding the truth about his son's parentage",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "p1694_bolly",
+      "emotion": "pride",
+      "dialogue": "6609823... call me. Come on, let's plan for the second one. I am really proud of you today. Even though you stayed out of our country for so long......but you haven't forgotten our culture yet. You'll be blessed.",
+      "target_person": "6609823",
+      "target_gender": "male",
+      "cause_raw": "preserving culture",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

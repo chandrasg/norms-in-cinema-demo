@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "15004",
+    "title": "His Name Was Jason: 30 Years of Friday the 13th",
+    "year": "2010",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "/1YyPmtz41mXO0A2ztsn3Ibe6ssF.jpg",
+    "overview": "A retrospective documentary about the groundbreaking horror series, Friday the 13th, featuring interviews with cast and crew from the twelve films spanning 3 decades."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WS350_holly",
+      "emotion": "shame",
+      "dialogue": "And I think \"Friday the 13th\" s were just... they're scary movies.  they're scary movies.  As film critics, shame on them for not appreciating  the fact that they are artistic entertainment vehicles  for a very defined demographic.",
+      "target_person": "Film critics",
+      "target_gender": "unclear",
+      "cause_raw": "not appreciating certain genre of movies",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP758_holly",
+      "emotion": "pride",
+      "dialogue": "Camp Crystal Lake rocks.  One of the things that the \"Friday\" series  never really took pride in was continuity.  How could it be Friday the 13th if \"2,\" \"III\" and \"4\"  are within three or four days?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP759_holly",
+      "emotion": "pride",
+      "dialogue": "- of Camp Crystal Lake. - Zoinks!  When it gets referenced on \"The Simpsons\"  or \"South Park,\" that's like your proudest moment.  Run!  I love the fact that \"The Simpsons\" have Jason and Freddy.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being referenced on popular shows",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP760_holly",
+      "emotion": "pride",
+      "dialogue": "Playing a character that's known around the world  is an amazing feeling  and something I'm really proud of.  There's really no putting your finger on it,  but there seems to be a loyalty",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "playing a globally recognized character",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

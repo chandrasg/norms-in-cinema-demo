@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "366675",
+    "title": "Beyond Paradise",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/99eKpzAGD1bFpkq2UtFg6Twufqn.jpg",
+    "overview": "Haunted by a tragic past, a stunning music student flees her homeland and ends up in an estranged marriage in Los Angeles, where her piano teacher's lover  sparks a passion in her that threatens to destroy everything."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1527_holly",
+      "emotion": "shame",
+      "dialogue": "You're risking your life  and all of this for a gardener?  You're going to shame us all.  Your poor mother.  Maman jan, just someone to talk to.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "prioritizing a gardener over personal safety and family reputation",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2681_holly",
+      "emotion": "pride",
+      "dialogue": "She goes, \"No, I'm not gonna change my name  \"and I'm gonna stay authentic.\"  And I, personally, am very proud of her for that,  anybody that can keep it real, that's incredible.  Well, they look like keloid scars,",
+      "target_person": "I",
+      "target_gender": "female",
+      "cause_raw": "for staying authentic and keeping it real",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP2682_holly",
+      "emotion": "pride",
+      "dialogue": "Give it up for my brother, Ray, everybody.  Give it up. Nice.  Now, I got to tell you, I'm very proud.  I just married an Iranian woman.  She's a great musician, she'a great singer.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "marrying an Iranian woman who is a great musician and singer",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

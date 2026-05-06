@@ -1,0 +1,69 @@
+{
+  "film": {
+    "id": "46383",
+    "title": "Dus Kahaniyaan",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lqqdfQIq8yLeYyPijzYv5aU6CaX.jpg",
+    "overview": "An anthology of ten short films dealing with diverse subjects such as infidelity, companionship, lust and a spectrum of human emotions."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5150_bolly",
+      "emotion": "shame",
+      "dialogue": "I couldn't believe it, that she is our Tasseme's son!   Mala, Tarshima is my friend.  I am feeling very ashamed witnessing all this.  Didn't you daughter feel ashamed while doing such a derogatory act?   Don't lie, uncle.",
+      "target_person": "Tasseme's son",
+      "target_gender": "male",
+      "cause_raw": "performing a derogatory act",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s5151_bolly",
+      "emotion": "shame",
+      "dialogue": "Mala, Tarshima is my friend.  I am feeling very ashamed witnessing all this.  Didn't you daughter feel ashamed while doing such a derogatory act?   Don't lie, uncle.   This is a lie.",
+      "target_person": "Mala",
+      "target_gender": "female",
+      "cause_raw": "committing a derogatory act",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s5154_bolly",
+      "emotion": "shame",
+      "dialogue": "I was about to call her, but that dog too followed her. I couldn't trust my eyes that it was our Narsimhas daughter. Maala, Narsimha is my friend. I feel ashamed of seeing all this! Didn't your daughter feel ashamed while sleeping in the field? Don't tell lies, Uncle.",
+      "target_person": "Narsimha's daughter",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5155_bolly",
+      "emotion": "shame",
+      "dialogue": "I couldn't trust my eyes that it was our Narsimhas daughter. Maala, Narsimha is my friend. I feel ashamed of seeing all this! Didn't your daughter feel ashamed while sleeping in the field? Don't tell lies, Uncle. This is all absurd!",
+      "target_person": "Narsimha's daughter",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

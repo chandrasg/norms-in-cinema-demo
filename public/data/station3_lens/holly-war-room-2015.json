@@ -1,0 +1,78 @@
+{
+  "film": {
+    "id": "323272",
+    "title": "War Room",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/unxQeVUi5DH01r7ZNvAHwpvX7UK.jpg",
+    "overview": "The family-friendly movie explores the transformational role prayer plays in the lives of the Jordan family. Tony and Elizabeth Jordan, a middle-class couple who seemingly have it all – great jobs, a beautiful daughter, their dream home. But appearances can be deceiving. In reality, the Jordan’s marriage has become a war zone and their daughter is collateral damage. With the help of Miss Clara, an older, wiser woman, Elizabeth discovers she can start fighting for her family instead of against them. Through a newly energized faith, Elizabeth and Tony’s real enemy doesn’t have a prayer."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1,
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS176_holly",
+      "emotion": "shame",
+      "dialogue": "Raise up those that love You and seek You and trust You!  Raise them up, Lord! Raise them up!  Lord, we need a generation of believers who are not ashamed of the gospel.  We need an army of believers, Lord,  that hate to be lukewarm",
+      "target_person": "believers",
+      "target_gender": "unclear",
+      "cause_raw": "not being passionate about their faith",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP312_holly",
+      "emotion": "pride",
+      "dialogue": "I'm not a good man.  I'm selfish.  I'm prideful.  And I'm hurting this family.  But this, this is not who I wanted to be.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP313_holly",
+      "emotion": "pride",
+      "dialogue": "And I kept pushing it back and pushing it back until it was too late.  And there's no grief as great as denying the truth until it's too late.  It was my selfish pride, Elizabeth.  Oh, my selfish pride!  And I confessed it.",
+      "target_person": "Elizabeth",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP314_holly",
+      "emotion": "pride",
+      "dialogue": "And there's no grief as great as denying the truth until it's too late.  It was my selfish pride, Elizabeth.  Oh, my selfish pride!  And I confessed it.  And I repented, and I begged God to forgive me.",
+      "target_person": "Elizabeth",
+      "target_gender": "female",
+      "cause_raw": "repenting and confessing her selfish pride",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP315_holly",
+      "emotion": "pride",
+      "dialogue": "'Cause that's how I wanna be treated, Danielle.  Wow!  I'm so proud of you for everything that you've done.  And I just can't wait to see what you guys do out there.  - You wanna say something to them? - Yeah, yeah.",
+      "target_person": "Danielle",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

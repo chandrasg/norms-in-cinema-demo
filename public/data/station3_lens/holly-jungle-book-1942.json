@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "23033",
+    "title": "Jungle Book",
+    "year": "1942",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/zYkffyYCFO1Li1f20MyaAYUaYC4.jpg",
+    "overview": "Mowgli, lost in the jungle when a toddler, raised by wolves, years later happens upon his human village and reconnects with its inhabitants, including his widowed mother. Continuing to maintain a relationship with the jungle, adventures follow."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1150_holly",
+      "emotion": "shame",
+      "dialogue": "You have... turned the weapons of man... upon us.  upon us.  You have brought the pack great shame.  You have brought me... great shame.  great shame.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "using human weapons against his own kind",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "WS1151_holly",
+      "emotion": "shame",
+      "dialogue": "You have... turned the weapons of man... upon us.  upon us.  You have brought the pack great shame.  You have brought me... great shame.  great shame.  Leave.  Bagh... Hello, little brother.",
+      "target_person": "Bagh",
+      "target_gender": "male",
+      "cause_raw": "using human weapons against his own kind",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "WS1152_holly",
+      "emotion": "shame",
+      "dialogue": "You have brought the pack great shame.  You have brought me... great shame.  great shame.  Leave.  Bagh... Hello, little brother.",
+      "target_person": "little brother",
+      "target_gender": "male",
+      "cause_raw": "bringing shame to the group",
+      "theme_label": "Shamelessness"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "film": {
+    "id": "31525",
+    "title": "The Legend of Bhagat Singh",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/pOd8woHbZUDn9HheKTkSQHFNTZ2.jpg",
+    "overview": "Born in British India, Bhagat Singh witnesses numerous atrocities during his childhood and grows up to become one of the most fearless freedom fighters in the country."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Patriotism",
+      "count": 3
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4430_bolly",
+      "emotion": "shame",
+      "dialogue": "Come quickly, Bapu (Gandhi) - Don't worry Bapu, these people are trouble... - Nothing will happen Mahatma Gandhi... - Shame-shame Calm down This is a gift from us. Take it!",
+      "target_person": "Mahatma Gandhi",
+      "target_gender": "male",
+      "cause_raw": "Disrespecting and mocking",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4431_bolly",
+      "emotion": "shame",
+      "dialogue": "Why should we believe you? - history will never forgive you! Come Gandhi... - Shame-shame! Bhagat Singh... - Lives forever! Rajguru... - Lives forever!",
+      "target_person": "Gandhi",
+      "target_gender": "male",
+      "cause_raw": "perceived betrayal or wrong decisions",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s4432_bolly",
+      "emotion": "shame",
+      "dialogue": "The fame of our golden land dragged you all the way from England Under the guise of trade, the English came here to plunder us And you call us poor? Have you no shame? Bloody hell, even your queen wears the Kohinoor diamond stolen from us What's with this order-order?",
+      "target_person": "Englishmen",
+      "target_gender": "male",
+      "cause_raw": "Plundering and exploiting India",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4433_bolly",
+      "emotion": "shame",
+      "dialogue": "Not until their sentences are commuted If  he signs unconditionally, the Congress will be disgraced Doesn't Bapu care for the Congress? You ought to be ashamed...''See, Bapu will do whatever he can. Trust me'' There was another thing... Not connected with the pact Three young men are to be hanged...''if he is martyred, the atmosphere in the country could get prejudiced...''",
+      "target_person": "Congress",
+      "target_gender": "unclear",
+      "cause_raw": "compromising principles",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p2447_bolly",
+      "emotion": "pride",
+      "dialogue": "Pay your respects, son Bless you, son. Heard so much about you We're proud to have you as our son-in-law Saw him? What are you up to? - Getting you married!",
+      "target_person": "parents",
+      "target_gender": "male",
+      "cause_raw": "getting a good son-in-law",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2448_bolly",
+      "emotion": "pride",
+      "dialogue": "Our goal is revolution. Let us take the revolution to the masses...whatever the price My land, my life My country, my pride indestructible Unfearing",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "patriotism",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2449_bolly",
+      "emotion": "pride",
+      "dialogue": "Those who live in cross hairs...aren't afraid of guns My land, my life My country, my pride if you fight among yourselves, how will you fight the British? Embrace!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "patriotism",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2450_bolly",
+      "emotion": "pride",
+      "dialogue": "We were unafraid...''of even looking Death in the eye'' To my Motherland...my life My country...my pride Jatin-da... - Lives forever Even I mourn the death of this boy. But, I regret to say that if we...''followed their path, we can't create a society. It'll cause destruction''",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "dedication to motherland",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2451_bolly",
+      "emotion": "pride",
+      "dialogue": "Do you think 3 judges instead of one scare us? Bring on another 300 if you will. We speak the truth and you will hear us What are you people so proud of anyway? Because you use spoons and forks instead of your hands? Or because you use paper instead of water?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2452_bolly",
+      "emotion": "pride",
+      "dialogue": "Forgive me, Mother. I could not serve you longer Glory to the Motherland...''You're my brave brother, aren't you?. '' Live long, my dear one...''You have made us proud, son. May the Lord be with you, always'' My Bhagat... towers above all...''it is you who taught me to walk on the path of freedom, Father'' Tell me, Bhagat... You think about everything...''Your ideals, your country, your struggle''",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "bravery and patriotism",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

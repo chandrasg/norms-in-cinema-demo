@@ -1,0 +1,92 @@
+{
+  "film": {
+    "id": "309142",
+    "title": "Insaan",
+    "year": "1982",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/2Xx5NOGYmW1SMMokiigaj86krBP.jpg",
+    "overview": "Shankar is a self-starter who is scorned and expelled from the family by his virago stepmother. However, he well-earns with his hard work and lives buoyant with his wife Sona and a child Munna. By this time, his heinous stepbrothers Narendra Singh, Roop, & Pardhu spoil their share. So, they plot to grab Shankar's property and heir a malign Sher Singh to eliminate him, and he announces him as dead. Knowing it, Sona attempts suicide when she is rescued by an altruistic Ravi. At last, Shankar & Ravi cease them when Ravi is severely injured while guarding Munna. Finally, the movie ends with Ravi leaving his breath reuniting Shankar & Sona."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2560_bolly",
+      "emotion": "shame",
+      "dialogue": "What happened? - What else, Ma? Thank God that I arrived in time, else our honour would've torn to shreds Aren't you ashamed to lie, scoundrel? Who was trying to outrage her modesty? I ? or you? He's right. if not for him... - Shut up!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "lying and attempting to violate a woman's modesty",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2561_bolly",
+      "emotion": "shame",
+      "dialogue": "Who was trying to outrage her modesty? I ? or you? He's right. if not for him... - Shut up! Aren't you ashamed to accuse my son? And what did you come here for? - I...I had come to deliver her medicines. - I know what drug is administered...in the middle of nights. Get lost Wait",
+      "target_person": "accuser",
+      "target_gender": "male",
+      "cause_raw": "false accusation",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s2562_bolly",
+      "emotion": "shame",
+      "dialogue": "The weather is romantic too What kind of attitude is this? You are so embarrassing it's hard to reason with shameless chaps it's Holi. - w; Holi These are colours that shall never fade",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior during Holi",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2563_bolly",
+      "emotion": "shame",
+      "dialogue": "Not any more Mr Choudhary, this man has illicit relationship with Sona Ratbag! She is you sister-in-law! Aren't you ashamed to malign an angel? If you can't keep her happy, at least don't hurt her Everyone knows that she still weeps for Shankar",
+      "target_person": "Mr Choudhary",
+      "target_gender": "male",
+      "cause_raw": "having an illicit relationship",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "p1333_bolly",
+      "emotion": "pride",
+      "dialogue": "ls that so? I'm not sparing you You were so proud of those arms! - I still am The bodyguard in your house is eyeing your wife if you want evidence, come over to the hillock at 2 pm",
+      "target_person": "bodyguard",
+      "target_gender": "male",
+      "cause_raw": "physical strength",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

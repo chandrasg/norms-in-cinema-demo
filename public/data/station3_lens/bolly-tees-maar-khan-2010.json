@@ -1,0 +1,93 @@
+{
+  "film": {
+    "id": "46040",
+    "title": "Tees Maar Khan",
+    "year": "2010",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xhbaxPSFA78hQpsSekPLdBoyGIK.jpg",
+    "overview": "A con artist poses as a film director in a village with the intention of executing a caper with the unwitting help of the villagers."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4362_bolly",
+      "emotion": "shame",
+      "dialogue": "Please. Please. Please. Move. idiot, aren't you ashamed of yourself? Everyone is trying to open the door and you're sitting here? Oh, my God! Shackles?",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "not helping in a crisis situation",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4363_bolly",
+      "emotion": "shame",
+      "dialogue": "It would've broken mother's heart. And your bones as well. it's so shameful that your mother doesn't know....that you aren't a film director....but the wanted criminal Tees Maar Khan. That's nothing new, you idiot. Even Spiderman's mother doesn't know that he's Spiderman.",
+      "target_person": "Tees Maar Khan",
+      "target_gender": "male",
+      "cause_raw": "lying about his profession",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "s4364_bolly",
+      "emotion": "shame",
+      "dialogue": "We abducted all these kids from your village....so that they can work for us. And we'd spread the terror of the headless ghost....so that the villagers wouldn't venture into this jungle. Shame on us. We couldn't do anything, Subedar. Had it not been for our director..''Tees Maar Khan.'' You risked your life for us and faced such great danger.",
+      "target_person": "villagers",
+      "target_gender": "unclear",
+      "cause_raw": "inability to protect their children",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p2406_bolly",
+      "emotion": "pride",
+      "dialogue": "Tees Maar Khan. Tees Maar Khan. Tees Maar Khan. Every time he walked with pride. Every plan got foiled. Every time he walked with pride. Every plan got foiled.",
+      "target_person": "Tees Maar Khan",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2407_bolly",
+      "emotion": "pride",
+      "dialogue": "Every time he walked with pride. Every plan got foiled. Every time he walked with pride. Every plan got foiled. Every time he worked his charm.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2408_bolly",
+      "emotion": "pride",
+      "dialogue": "infidel bows down at the doorstep..''And pleads to me..'' You are my devotion. Every lover has a request for beauty. Proudly sacrifice your life. Eyes are like dagger. Took away your life. Pierced the heart through and through.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

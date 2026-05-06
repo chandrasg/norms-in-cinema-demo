@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "52362",
+    "title": "None But the Lonely Heart",
+    "year": "1944",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/st37wKa1ZUbVSlKFI1fuUWb0rbi.jpg",
+    "overview": "When an itinerant reluctantly returns home to help his sickly mother run her shop, they're both tempted to turn to crime to help make ends meet."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2193_holly",
+      "emotion": "pride",
+      "dialogue": "Still the same old trouble?  He won't stay home.  Proud as the queen's carriage he is  and independent.  He's leaving home for good today.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "being independent and leaving home",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP2194_holly",
+      "emotion": "pride",
+      "dialogue": "Take charge of the shop.  See how you go.  Makes me proud you think i can do that.  Slosh you one.  Ain't so long since i was washing out your baby napkins.",
+      "target_person": "shop owner",
+      "target_gender": "unclear",
+      "cause_raw": "being trusted to manage the shop",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2195_holly",
+      "emotion": "pride",
+      "dialogue": "from the smaller dogs.  Peace to be not a hound and not a hare,  but peace with pride,  to have a decent human life... with all the trimmings.  with all the trimmings.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

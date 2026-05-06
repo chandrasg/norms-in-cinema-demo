@@ -1,0 +1,93 @@
+{
+  "film": {
+    "id": "376264",
+    "title": "Qissa Panjab",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/5bp08RHdUyI9id5QdUZq2egNNT5.jpg",
+    "overview": "Qissa Panjab a film that revolves around the lives of its six main protagonists. The lives of these six characters, fighting their circumstances takes a significant turn when their stories intercross each others.The film then moves on to an unpredictable end."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1516_bolly",
+      "emotion": "shame",
+      "dialogue": "All of you old enough to be married and have your own children! Will you be doing the same at your in-laws? You'll bring nothing but shame on us! Worthless girls! Straighten it!",
+      "target_person": "unmarried girls",
+      "target_gender": "female",
+      "cause_raw": "not behaving appropriately",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1517_bolly",
+      "emotion": "shame",
+      "dialogue": "Now, you have to look at me. Look at your daughter. Your shameless daughter. Your worthless daughter. Standing naked in front of her father.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "indecent exposure",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1518_bolly",
+      "emotion": "shame",
+      "dialogue": "She doesn't listen to me anymore. She doesn't listen to anything. What do I do with this shameless girl? Where should I hide her away? She should just die.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "disobedience",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1519_bolly",
+      "emotion": "shame",
+      "dialogue": "But it never occurred to me that this boy is not a boy. You are disgusting! Shameless... - I don't know what you are talking about! He'll be back with his mother very soon. Come back then.",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "not conforming to gender norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p805_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm going to make you as strong as a lion. What a brave boy my son has become! I'm so proud of you. Come here. Pull this up.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "son's bravery",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "316322",
+    "title": "Barbie in Princess Power",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/nCviAdChxibrKRZfvG7MZ2wsqdR.jpg",
+    "overview": "Barbie is Kara - a modern-day princess with a normal life. Kissed by a butterfly which gives her superpowers and allows her to become a Super Sparkle, she is ready to save the kingdom from evil - were it not for her jealous cousin who is also kissed by the butterfly and becomes her rival and nemesis. Watch as Super Sparkle and Dark Sparkle learn that together they can become a great team for good once they learn the power of friendship."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Heroic Bravery",
+      "count": 2
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 3,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2719_holly",
+      "emotion": "pride",
+      "dialogue": "The King and I are incredibly grateful  for Super Sparkle's noble deeds.  And proud of her bravery.  Windemere is lucky to have such a valiant  and dynamic hero in its service.",
+      "target_person": "King and I",
+      "target_gender": "female",
+      "cause_raw": "Super Sparkle's noble deeds and bravery",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "WP2720_holly",
+      "emotion": "pride",
+      "dialogue": "Do you have any idea how bad I want to go up to them right now and yell,  \"It's me! I'm Super Sparkle!  I'm the one you're proud of!\"  I thought this was about making a difference,  not about taking the credit.",
+      "target_person": "Super Sparkle",
+      "target_gender": "female",
+      "cause_raw": "being a superhero",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "WP2721_holly",
+      "emotion": "pride",
+      "dialogue": "[BOTH GIGGLING]  This nonsense stops here and now, do you understand?  But you both said you were proud of Super Sparkle's bravery.  That Windemere was lucky to have such a valiant hero.  That was before we knew it was our daughter.",
+      "target_person": "parents",
+      "target_gender": "unclear",
+      "cause_raw": "their daughter's bravery",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2722_holly",
+      "emotion": "pride",
+      "dialogue": "Your gonna have to get used to it.  [GROWLING]  We are so proud of you.  Ooh, honey... Dark Sparkle! Dark Sparkle!  Can I be you when I grow up?",
+      "target_person": "Dark Sparkle",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2723_holly",
+      "emotion": "pride",
+      "dialogue": "You not only proved able to take care of yourself,  you took care of us and preserved the future of this realm.  For that, we are proud of you both.  Thank you, Uncle Kristoff.  That means a lot, Dad.",
+      "target_person": "Uncle Kristoff",
+      "target_gender": "male",
+      "cause_raw": "preserving the future of the realm",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

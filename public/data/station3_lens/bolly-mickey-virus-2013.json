@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "228648",
+    "title": "Mickey Virus",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5FKtKKCmprBQ2sGrCclmVQ1hjVl.jpg",
+    "overview": "When Delhi Police comes across an unusual case revolving around hacking they seek help of an expert who thinks like them only to come across a lazy hacker Mickey Arora."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3566_bolly",
+      "emotion": "shame",
+      "dialogue": "we also didn't take any interest in it. I mean... it wasn't worth the effort so...I want that small-time crook Kung-fu Chameli. Don't you have any shame? Why will I crash your college server for you? Is the money ready?",
+      "target_person": "Kung-fu Chameli",
+      "target_gender": "female",
+      "cause_raw": "being a small-time crook",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p1888_bolly",
+      "emotion": "pride",
+      "dialogue": "I will not accept defeat now. I will defeat destiny. The pride and attitude. Where did this mud in her nails come from? I will erase it.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1889_bolly",
+      "emotion": "pride",
+      "dialogue": "We slow-pokes are betterthan......an internet virus like you. What was the point of your education......if you wanted to be a thief in the end? Encoded By Zaeem Remember even Raavan lost his pride. My son's a big fan of yours. He always says A real police officer...\"...should be like yourACP not you\".",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "admiration for a real police officer",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

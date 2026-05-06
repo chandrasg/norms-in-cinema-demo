@@ -1,0 +1,121 @@
+{
+  "film": {
+    "id": "876392",
+    "title": "Dupatta",
+    "year": "1952",
+    "industry": "bolly",
+    "country": "PK",
+    "poster_path": "/fnDLn7MqaHqO2oIC4faJS2ulQfp.jpg",
+    "overview": "A young woman (Yasmin) brings her husband to an elderly doctor to restore her husband's disfigured face following a horrific accident. The doctor tells her he has given up plastic surgery long back and tells her a tale to prove that true love should overlook physical looks."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 3
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5140_bolly",
+      "emotion": "shame",
+      "dialogue": "Who were with you? Answer me! Bulbul. -Father! I have done nothing, to be ashamed of. You've done quite enough. And don't argue with me. Father.",
+      "target_person": "Bulbul",
+      "target_gender": "female",
+      "cause_raw": "Disobeying or arguing with father",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s5141_bolly",
+      "emotion": "shame",
+      "dialogue": "You have destroyed years of honor and good name overnight. In these rocks valley, you could hear the clash of our swords. Dishonored and ashamed. I would have to wear the yoke of disgrace in my neck. My face will be stained with shame.",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "dishonoring family name",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s5142_bolly",
+      "emotion": "shame",
+      "dialogue": "Dishonored and ashamed. I would have to wear the yoke of disgrace in my neck. My face will be stained with shame. I will never allow that to happen. I will give my life for your honor.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "protecting someone's honor",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s5143_bolly",
+      "emotion": "shame",
+      "dialogue": "Time is the only healer......of deep wounds. If you need someone in your life......then forget your misgivings......and marry again. Aren't you ashamed to say that? You are a progressive thinker. But I still follow the old ways.",
+      "target_person": "character suggesting remarriage",
+      "target_gender": "unclear",
+      "cause_raw": "suggesting remarriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s5144_bolly",
+      "emotion": "shame",
+      "dialogue": "Doctor is giving injection to Nanhe. Oh, I'm sorry. You should be ashamed of yourself. You are using the injection as an excuse. And this wretched doctor treats children......or flirts with their mothers. - Aunty, go away!",
+      "target_person": "doctor",
+      "target_gender": "male",
+      "cause_raw": "flirting with patients' mothers",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s5145_bolly",
+      "emotion": "shame",
+      "dialogue": "Can a daughter not come to her parents? Only a respectable married one. But not a shameless s**t......who went straight from her husband's arms to another's. -Mother! Where is your doctor? Why didn't you go to him?",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p2896_bolly",
+      "emotion": "pride",
+      "dialogue": "This storm will cease. But the storm in the heart of Bulbul's father did not cease. The fire, lit by the stepmother......was consuming the proud father. Bulbul! Bulbul! You didn't here me?",
+      "target_person": "Bulbul's father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2897_bolly",
+      "emotion": "pride",
+      "dialogue": "Long ago the plectrum of love plucked the strings of my heart. That time, I was not ugly. I remember that even the proudest girls smiled to see me. You are smiling too. What happened then?",
+      "target_person": "proudest girls",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

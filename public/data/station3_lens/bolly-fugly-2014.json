@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "281730",
+    "title": "Fugly",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gK1d772yMqHjvBpMRVz1XWN5OTU.jpg",
+    "overview": "The fun-filled and carefree life of four college friends comes to an abrupt end when they cross paths with a corrupt police officer."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2977_bolly",
+      "emotion": "pride",
+      "dialogue": "One forgets his own wife. The sister-in-law takes a fancy to her brother-in-law. Jobless people are showing off their false pride. They abuse at every turn. We know about everything.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2978_bolly",
+      "emotion": "pride",
+      "dialogue": "What do you feel when you look at the flag? Holiday, dry day. It's our national flag. You're supposed to feel proud. I feel betrayed. Ah, got it.",
+      "target_person": "<speaker",
+      "target_gender": "unclear",
+      "cause_raw": "national flag",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2979_bolly",
+      "emotion": "pride",
+      "dialogue": "They buy a ticket assuming that a woman's dignity comes along with it! Eve teasing has become a hobby in this country. And you're so proud of this country. I love my country! I hate this country.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2980_bolly",
+      "emotion": "pride",
+      "dialogue": "Whoever is guilty will be punished by the court of law! Even if that person who is behind this is my son! We should be proud of brave soldier like Chautala who is serving our country. Hail India..We received bail, but everyone had already accepted that we were criminals and we had decided to prove them wrong.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "bravery and service to country",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "43798",
+    "title": "That Hamilton Woman",
+    "year": "1941",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/zDXsdF9Eqk9hs9KyxakRYYijKxK.jpg",
+    "overview": "The story of courtesan and dance-hall girl Emma Hamilton, including her relationships with Sir William Hamilton and Admiral Horatio Nelson and her rise and fall, set during the Napoleonic Wars."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1323_holly",
+      "emotion": "shame",
+      "dialogue": "Do you know about my  He did. And I imagine that was the only thing he did not lie about.  Oh but please my dear, I don't want to make you feel ashamed.  Ashamed? Oh, I'm not ashamed. There's nothing to be ashamed of.  It's true there were men in my life before Charles, I admit it.",
+      "target_person": "My dear",
+      "target_gender": "female",
+      "cause_raw": "having multiple partners in the past",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS1324_holly",
+      "emotion": "shame",
+      "dialogue": "He did. And I imagine that was the only thing he did not lie about.  Oh but please my dear, I don't want to make you feel ashamed.  Ashamed? Oh, I'm not ashamed. There's nothing to be ashamed of.  It's true there were men in my life before Charles, I admit it.  I made mistakes, I was young, I was stupid.",
+      "target_person": "My dear",
+      "target_gender": "female",
+      "cause_raw": "past relationships and mistakes",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WP2384_holly",
+      "emotion": "pride",
+      "dialogue": "As you wish... Here, here. Go and drink a health to Lord Nelson my son.  Here, here. Go and drink a health to Lord Nelson my son.  Thank you, sir. I will and be proud to.  I am deeply honoured to have you with us on this great occasion, sir.  You are the guest of the British Admiralty, Mr Nelson.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being honored by the British Admiralty",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2385_holly",
+      "emotion": "pride",
+      "dialogue": "Bravo for Nelson!  My boy!  How proud your mother would be if she could see you this day.  How have you been all these years, Father?  First rate. Fanny's taken great care of me.",
+      "target_person": "Father",
+      "target_gender": "male",
+      "cause_raw": "Nelson's achievement",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP2386_holly",
+      "emotion": "pride",
+      "dialogue": "Lady Nelson!  How funny!  How pitiful!  And how proud I might have been.  I'm sorry, Frances.  Sorry?  Is that all you have to give me?",
+      "target_person": "Lady Nelson",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

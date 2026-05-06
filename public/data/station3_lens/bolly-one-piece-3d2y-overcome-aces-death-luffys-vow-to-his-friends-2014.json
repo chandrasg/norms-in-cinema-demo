@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "290271",
+    "title": "One Piece \"3D2Y\": Overcome Ace's Death! Luffy's Vow to his Friends",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "JP",
+    "poster_path": "/caUI7YlhVXykFWQ7Ul7RQ2wQRpv.jpg",
+    "overview": "The special takes place during the two year before the Straw Hats reunite on Sabody.  Luffy is currently in Rusukaina training to get stronger to take on the New World. However the training  is interrupted when Hancock's sisters, Marigold and Sandersonia, are kidnapped by the Byrnndi World,  a pirate who was locked away on Level 6 of Impel Down but escaped during Luffy's invasion to save Ace,  in order to lure Hancock to him and use her as a hostage against the World Government due to her  Shichibukai status. Thus Luffy and Hancock head off to confront him and save Hancock's sisters."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1231_bolly",
+      "emotion": "shame",
+      "dialogue": "What kind of a father are you? Your son had an accident! You should be ashamed of yourself. Here I almost died of fear and you...Believe me, for the last thirty two years, I've been slowly dying of fear as well.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "neglecting his son's accident",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1232_bolly",
+      "emotion": "shame",
+      "dialogue": "Eat, P**s, S**t and Die, what else! You look like a witch from one of those horror films. You should be ashamed of yourself. My son is a pervert. Chintu, say something.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being a pervert",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p644_bolly",
+      "emotion": "pride",
+      "dialogue": "Never had this feeling before That's as sharp as a razor blade Makes you take pride in one's own stupidity Everyone knows the feeling but the reason remains hidden That's the secret I'm talking about.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p645_bolly",
+      "emotion": "pride",
+      "dialogue": "Never had this feeling before That's as sharp as a razor blade Makes you take pride in one's own stupidity Everyone knows the feeling But the reason remains hidden",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

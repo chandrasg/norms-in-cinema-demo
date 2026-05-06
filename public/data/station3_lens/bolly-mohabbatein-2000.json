@@ -1,0 +1,104 @@
+{
+  "film": {
+    "id": "11518",
+    "title": "Mohabbatein",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/dDsYaBazrYKg9bv8qgsEohZQMat.jpg",
+    "overview": "At a prestigious all-male university, three friends seek love outside of the school grounds; at the same time, a newly-hired music teacher seeks to befriend and loosen up the militantly strict headmaster."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 5
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 8
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1904_bolly",
+      "emotion": "pride",
+      "dialogue": "I had to shut the rich girl up...so I just made myself richer than her, and she shut up. Ok, forget this .tell me are all beautiful girls this snooty? Well since they're beautiful they are bound to be a little proud. Not at all, she is very sweet. -Then she must be very ugly. I had seen Kiran for the first time on this very platform.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1905_bolly",
+      "emotion": "pride",
+      "dialogue": "I found out everything about your life about why you go to the station...about your husband, Major Khanna, everything. I was brought up with the belief that boys are the tough ones......and girls are weak, but you made me realize how untrue it is. You are very different from other girls and it would make me proud if we...could be friends, you promised me that you will not get angry. I am not angry . it just that...I am not used to hearing nice things about myself. I am a married girl,",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "realization of women's strength",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1906_bolly",
+      "emotion": "pride",
+      "dialogue": "Because I see a stubborn man standing with his back turned...to the two people who truly loved him. I am sorry sir, I am sorry. For 25 years, I have been very proud of the fact, that I've run this institution with...tradition, honor, and discipline, believing that I have made my students....stronger, fuller, and better men...men who will always come out as winners in the battle of life.",
+      "target_person": "institution head",
+      "target_gender": "male",
+      "cause_raw": "running the institution with tradition honor and discipline",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1907_bolly",
+      "emotion": "pride",
+      "dialogue": "that I've run this institution with...tradition, honor, and discipline, believing that I have made my students....stronger, fuller, and better men...men who will always come out as winners in the battle of life. I have been very proud of the fact that somewhere there is a...Narayan Shankar in each and every student of Gurukul. But, today, as I stand before you I am not feeling so proud. Because, today, I do not like the Narayan Shankar...who is standing in front of you.",
+      "target_person": "Narayan Shankar",
+      "target_gender": "male",
+      "cause_raw": "shaping students into better men",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1908_bolly",
+      "emotion": "pride",
+      "dialogue": "believing that I have made my students....stronger, fuller, and better men...men who will always come out as winners in the battle of life. I have been very proud of the fact that somewhere there is a...Narayan Shankar in each and every student of Gurukul. But, today, as I stand before you I am not feeling so proud. Because, today, I do not like the Narayan Shankar...who is standing in front of you. Because today Narayan Shankar is a man who did not come out as a winner...in the battle of life......he has lost.",
+      "target_person": "Narayan Shankar",
+      "target_gender": "male",
+      "cause_raw": "making his students stronger and better men",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1909_bolly",
+      "emotion": "pride",
+      "dialogue": "Mr. Aryan, please come up. I request you to please take over...and teach my students the essence of love and life. So that from now on I can proudly say that there is a Raj Aryan in each and every student of Gurukul. And probably then my daughter would forgive me.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "teaching students about love and life",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1910_bolly",
+      "emotion": "pride",
+      "dialogue": "I had to shut the rich girl up...so I just made myself richer than her, and she shut up. Ok, forget this -tell me are all beautiful girls this snooty? Well since they're beautiful they are bound to be a little proud. Is your Sanjana also like this? Not at all, she is very sweet. - Then she must be very ugly.",
+      "target_person": "<speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1911_bolly",
+      "emotion": "pride",
+      "dialogue": "I found out everything about your life about why you go to the station...about your husband, Major Khanna, everything. I was brought up with the belief that boys are the tough ones......and girls are weak, but you made me realise how untrue it is. You are very different from other girls and it would make me proud if we...could be friends, you promised me that you will not get angry. I am not angry - its just that...I am not used to hearing nice things about myself. I am a married girl,",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "female strength and resilience",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "61271",
+    "title": "Tezaab",
+    "year": "1988",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vwXVAAxuyDNfUSxYPS6YqRm80Cm.jpg",
+    "overview": "After his parents are killed, Mahesh's life is ruined as he gets imprisoned and separated from Mohini, who suffers due to her cruel father. Mahesh returns to save Mohini and settle old scores."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4415_bolly",
+      "emotion": "shame",
+      "dialogue": "I will even slop time and say, 'waiilMohinPs carriage is passing' - Shall we o? - Yes. Don't you feel ashamed to roam with the street dogs ...so late in the night? Abuse me if you want. It is not decent to talk like that about people you don't know.",
+      "target_person": "Mohini",
+      "target_gender": "female",
+      "cause_raw": "Roaming late at night",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4416_bolly",
+      "emotion": "shame",
+      "dialogue": "Or have you slurred needin men now? How disgusting! You should feel ashamed to talk like that to your daughter. Despite having a father, I used Io feel like an orphan. Bu! I feel at ease with Mothers touch.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards daughter",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4990_bolly",
+      "emotion": "shame",
+      "dialogue": "stop. Miss Mohini is passing! - shall we? - Yes. Have you no shame gallivanting with street dogs at night? Abuse me if you must. Gentlemen don't abuse strangers.",
+      "target_person": "Miss Mohini",
+      "target_gender": "female",
+      "cause_raw": "gallivanting with street dogs at night",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4991_bolly",
+      "emotion": "shame",
+      "dialogue": "Do gentlemen mislead innocent girls like you? Or do you need men now? You should be ashamed to talk to your daughter like this! Despite having a father I felt like an orphan. But Munna's touch gave me solace.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "having a relationship before marriage",
+      "theme_label": "Marital Status"
+    }
+  ]
+}

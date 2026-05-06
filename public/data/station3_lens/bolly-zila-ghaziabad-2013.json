@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "168243",
+    "title": "Zila Ghaziabad",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gUAbhLz7IqztYs7kSTeaAR2qPoP.jpg",
+    "overview": "In the city of Ghaziabad, gang war breaks between two rival groups led by Satbir Singh and Fauji. Thakur Pritam Singh, a corrupt police officer, is transferred to the city to handle the situation."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4696_bolly",
+      "emotion": "shame",
+      "dialogue": "Raise your hands, Do I have to tell I you separately? They're really ashamed on their actions, Get lost, Hands up! Straight up!",
+      "target_person": "people being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "unknown actions leading to shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s4697_bolly",
+      "emotion": "shame",
+      "dialogue": "But, you just can't accuse anyone for it,, And a man like Satbeer, You should be ashamed? Why should I be the only one? And, I know what the Master's thinking,",
+      "target_person": "Satbeer",
+      "target_gender": "male",
+      "cause_raw": "being accused without proof",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "p2642_bolly",
+      "emotion": "pride",
+      "dialogue": "I want every child of my class to study hard, I want you to carve a niche for yourselves,so that the entire country says proudly, He's from District Ghaziabad, We'll do t, Master, - That's more like t, -",
+      "target_person": "Master",
+      "target_gender": "male",
+      "cause_raw": "students' academic success",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p2643_bolly",
+      "emotion": "pride",
+      "dialogue": "instead of punishing him in his style,' Because, if I had liked him, God wouldn't have forgiven me,' We're proud of you, Pritam, Keep it up,, We done!",
+      "target_person": "Pritam",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "44827",
+    "title": "Dor",
+    "year": "2006",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/j29JyRQENX0JWYWBgeg7DlWsA7y.jpg",
+    "overview": "Shankar Singh and his wife, Meera, live in Jodhpur, Rajasthan, India along with widowed paternal grandmother, Laxmibai, his mom, Gowri, and dad, Randhir. The family feel that they are blessed after Meera's entry in this family. Shankar must go and abroad in Saudi Arabia and bids farewell to Meera, promising to keep in touch, which he does, and also sends them a large portion of his earnings, which is used to pay off the family's debts. Then when no word is received from him, a worried Meera phones, and is devastated to learn that Shankar has been killed by being thrown off a 10th floor balcony. Her status quickly changes, her jewelery, ornaments, fancy clothes are taken off, and she is told to remain indoors. wear dark clothes, and is only allowed to pray at a Mandir."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5089_bolly",
+      "emotion": "shame",
+      "dialogue": "When there is talk of carrying a burden...have you ever worn a turban? Shall i say something? You are a very bad actor. You will put impostors to shame. I recognised you the moment i saw you. Stop. - Why? What happened?",
+      "target_person": "impostor",
+      "target_gender": "unclear",
+      "cause_raw": "pretending to be someone else",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s5090_bolly",
+      "emotion": "shame",
+      "dialogue": "Even after all this, you will not throw me out. Because i am very valuable for you. You talk of my honor, but i have not come across...a more shameless man than you. Leave my hand! Leave my hand!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "dishonoring a woman",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p2871_bolly",
+      "emotion": "pride",
+      "dialogue": "So you tell me, you, who knows everything...you, who makes her own life...what do you think? What should i do? If i don't sign these papers, i will be considered cruel. And if i do, i'll crush the pride with which i am living. No meera, i know amir. He cannot kill anyone. Know what my dream is? That i behead that murderer...who snatched my everything from me...my husband, my love, my freedom.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "living with dignity",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2872_bolly",
+      "emotion": "pride",
+      "dialogue": "Let me go, mother-in-law. It's a matter of someone's life. Don't even think of going out. - She surely will. Taking pride in your husband, don't forget your humanity. Remember, even you could be on this side of the fence some day. Now move aside, and let her leave.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "husband's actions",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

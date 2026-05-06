@@ -1,0 +1,78 @@
+{
+  "film": {
+    "id": "255268",
+    "title": "Bad Ass 2: Bad Asses",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/h51RmbFvlkIszrAjJD40H2jLd9W.jpg",
+    "overview": "Vietnam vet Frank Vega now runs an East L.A. community center where he trains young boxers to survive in and out of the ring. But when his prize student falls in with the wrong crowd and turns up dead, Frank teams up with his pal Bernie to take matters into their own fists and prove that justice never gets old."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 3
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP945_holly",
+      "emotion": "pride",
+      "dialogue": "But... I do know you can fight.  Just like your boy Manny.  You would've been so proud of him.  But in the end, he was no match for my men.  Frank!",
+      "target_person": "Frank",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP946_holly",
+      "emotion": "pride",
+      "dialogue": "(SPEAKING) And then the man said... \"Do you take this man to be your man?\"  \"Do you take this man to be your man?\"   I proudly said    \"I do\"    Ohh-ohh-ohh",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "marrying a man",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP947_holly",
+      "emotion": "pride",
+      "dialogue": "We said \"I do\"    We said \"I do\"    I proudly said    I proudly said \"I do\"    You married me",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "getting married",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP948_holly",
+      "emotion": "pride",
+      "dialogue": "We said \"I do\"    I proudly said    I proudly said \"I do\"    You married me    I married you",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "getting married",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP949_holly",
+      "emotion": "pride",
+      "dialogue": "You married me    I married you    I proudly said    \"I do\"    Yeah, yeah, uh",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "marrying speaker 2",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

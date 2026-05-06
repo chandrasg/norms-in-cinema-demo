@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "45675",
+    "title": "Calvin Marshall",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/bKGxLZvEx1ZTz3bh71YZt9VGWtw.jpg",
+    "overview": "A college student is determined to become a Major League Baseball star, but finds his true calling instead."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS933_holly",
+      "emotion": "shame",
+      "dialogue": "It's f*****g unbelievable!  Coach, your - your minor-league career  ain't nothing to be ashamed of.  How many times I got to tell you that?  I love you. You're all right.",
+      "target_person": "Coach",
+      "target_gender": "male",
+      "cause_raw": "having a minor-league career",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS934_holly",
+      "emotion": "shame",
+      "dialogue": "That you, Dewey?  Marshall?  You should be so ashamed.  Calvin, nothing happened.  No, i am not talking to you.",
+      "target_person": "Marshall",
+      "target_gender": "male",
+      "cause_raw": "unknown reason",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1733_holly",
+      "emotion": "pride",
+      "dialogue": "Way to go, Cal.  Oh, that's so good!  Really proud of you. Way to go.  I can't believe it.  Coach said i made some big strides in my game, though.",
+      "target_person": "Coach",
+      "target_gender": "male",
+      "cause_raw": "Cal's improvement in game",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1734_holly",
+      "emotion": "pride",
+      "dialogue": "Tomorrow night, we are going out on the date of a lifetime,  so clear your schedule.  And, Mrs. Jensen, you would have been so proud.  Tori had 45 kills tonight.  Sounds sweet.",
+      "target_person": "Mrs. Jensen",
+      "target_gender": "female",
+      "cause_raw": "Tori's performance in a game",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

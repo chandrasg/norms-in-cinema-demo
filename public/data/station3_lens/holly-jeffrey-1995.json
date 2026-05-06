@@ -1,0 +1,166 @@
+{
+  "film": {
+    "id": "17447",
+    "title": "Jeffrey",
+    "year": "1995",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/cacIqtIkUaD5xYqUUN1J7qJjciQ.jpg",
+    "overview": "Jeffrey, a gay man living in New York City with an overwhelming fear of contracting AIDS, concludes that being celibate is the only option to protect himself. As fate would have it, shortly after his declaration of a sex-free existence, he meets the handsome Steve Howard, his dream man -- except for his HIV-positive status. Facing this dilemma, Jeffrey turns to his best friend and an outrageous priest for guidance."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 13
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 6,
+      "female": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP655_holly",
+      "emotion": "pride",
+      "dialogue": "Wait, let me guess. Is it because I'm a cowboy and you're... a waiter?  a waiter?  We're a proud people.  What a shame.  In a better world, I could ask you to square dance.",
+      "target_person": "waiter",
+      "target_gender": "male",
+      "cause_raw": "being a waiter",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP656_holly",
+      "emotion": "pride",
+      "dialogue": "As if even straight people are like that.  That is so true.  I was watching these two guys on Nightline... on Gay Pride Day, and one of them said:  on Gay Pride Day, and one of them said:  Hi, I'm Bob Wheeler... and I'm an attorney... and my lover, he's a surgeon.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP657_holly",
+      "emotion": "pride",
+      "dialogue": "That is so true.  I was watching these two guys on Nightline... on Gay Pride Day, and one of them said:  on Gay Pride Day, and one of them said:  Hi, I'm Bob Wheeler... and I'm an attorney... and my lover, he's a surgeon.  and my lover, he's a surgeon.",
+      "target_person": "Bob Wheeler",
+      "target_gender": "male",
+      "cause_raw": "being a successful attorney and having a successful partner",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP658_holly",
+      "emotion": "pride",
+      "dialogue": "Come on. You're gay, you're single.  It isn't pretty.  Yes.  I am so proud of you.  You're dating again.  - Jeffrey? - Yes?  I just... - Just so there's no surprises... - Sure.",
+      "target_person": "Jeffrey",
+      "target_gender": "male",
+      "cause_raw": "dating again",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP659_holly",
+      "emotion": "pride",
+      "dialogue": "Something with a T-shirt.  Don't you just love it?  Look. The Gay Pride statues.  Come on.  Color, think about it.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP660_holly",
+      "emotion": "pride",
+      "dialogue": "Excuse me, are you with the parade? I'm lost.  - What group are you with? - Ma, did you find out? We march together.  I'm so proud of my preoperative transsexual lesbian son.  Who are you marching with?  Excuse me, could you take our picture with this nice young man?",
+      "target_person": "Ma",
+      "target_gender": "female",
+      "cause_raw": "her son being a preoperative transsexual lesbian",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP661_holly",
+      "emotion": "pride",
+      "dialogue": "- Synchronized swimmers. - Exactly.  And the parents, they kept crying and waving flags.  And I said to myself, If they can feel proud of their kids... just because they can stand on their head in the deep end... I can feel proud of mine.  I can feel proud of mine.  - One more. - No, come on, Ma.",
+      "target_person": "Ma",
+      "target_gender": "female",
+      "cause_raw": "for her kids",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP662_holly",
+      "emotion": "pride",
+      "dialogue": "And the parents, they kept crying and waving flags.  And I said to myself, If they can feel proud of their kids... just because they can stand on their head in the deep end... I can feel proud of mine.  I can feel proud of mine.  - One more. - No, come on, Ma.  - You think we'll need sunscreen? - Over there, they... Thank you. Good boy.",
+      "target_person": "Parent",
+      "target_gender": "unclear",
+      "cause_raw": "proud of their kids",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP663_holly",
+      "emotion": "pride",
+      "dialogue": "- No, actually, I'm not marching. - What?  I was just taking a shortcut through the park.  I kind of forgot it was Gay Pride Day.  I hope this not-marching thing doesn't have anything to do with me.  Because I know I gave you a pretty hard time.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP664_holly",
+      "emotion": "pride",
+      "dialogue": "Five, four, three... Come here.  Come here.  Good afternoon, this is Chuck Farling at Manhattan's notorious Gay Pride march.  Homosexuals have made great strides in recent years and I am surrounded by them.  - Are you homosexuals? - Yes, Chuck, we are.",
+      "target_person": "Chuck Farling",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP665_holly",
+      "emotion": "pride",
+      "dialogue": "And here's a regular fellow.  He could be anyone. Your son, your brother, the guy next door. Your name?  - Jeffrey. - How are you celebrating Gay Pride Day?  - I'm running. - Provocative.  It seems this is a mother-and-daughter team, is that right?",
+      "target_person": "Jeffrey",
+      "target_gender": "male",
+      "cause_raw": "celebrating Gay Pride Day",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP666_holly",
+      "emotion": "pride",
+      "dialogue": "It seems this is a mother-and-daughter team, is that right?  - That's right. - Don't ask.  What will you do to celebrate this Gay Pride occasion? Something special?  You bet.  We're gonna ride on a flatbed truck for the whole world to see.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "participating in Gay Pride celebration",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP667_holly",
+      "emotion": "pride",
+      "dialogue": "You bet.  We're gonna ride on a flatbed truck for the whole world to see.  Because we are proud of who and what we are.  And after the parade?  - Angelique is going to remove her penis. - It's coming right off.",
+      "target_person": "Angelique",
+      "target_gender": "female",
+      "cause_raw": "for being true to her identity",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

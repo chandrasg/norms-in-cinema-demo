@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "318174",
+    "title": "Chirag",
+    "year": "1969",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/3jP8maYRFawgKcBexDKgcZsumeY.jpg",
+    "overview": "When Ajay (Sunil Dutt) meets Asha (Asha Parekh), he mistakenly believes she's wealthy. The fact that she's not, however, doesn't prevent him from becoming smitten, and the couple soon marries with the full blessings of Ajay's family. Poverty is one thing, though, and childlessness quite another -- which Asha finds out the hard way. When she fails to produce an heir for the clan posthaste, her mother-in-law begins a search for her replacement."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s788_bolly",
+      "emotion": "shame",
+      "dialogue": "Inspite of knowing everything about me and Prashant....you want to marry me? You want to marry me? You should be shameful. Have some shame. Take me home, mom, now at this moment. But daughter Sandhya?",
+      "target_person": "Sandhya",
+      "target_gender": "female",
+      "cause_raw": "wanting to marry despite knowing about her past",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p401_bolly",
+      "emotion": "pride",
+      "dialogue": "What happened? Nothing, Asha. I just had some thought. A day will come when our grandchild....will stand here with his wife and proudly say....that the first plant of this garden was planted....by my grandmother, Asha. And what a sweet grandmother. C'mon.",
+      "target_person": "grandchild",
+      "target_gender": "male",
+      "cause_raw": "grandmother's contribution to the garden",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p402_bolly",
+      "emotion": "pride",
+      "dialogue": "You'll can do whatever you want. You can throw a poor helpless woman out of your house....just because we are poor. Sir prince, if you are so proud of your wealth....then we are proud of our respect. Go away from here. Asha will not go back to that house again.",
+      "target_person": "poor helpless woman",
+      "target_gender": "female",
+      "cause_raw": "self-respect",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

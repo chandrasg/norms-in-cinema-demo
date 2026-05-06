@@ -1,0 +1,107 @@
+{
+  "film": {
+    "id": "555604",
+    "title": "Guillermo del Toro's Pinocchio",
+    "year": "2022",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+    "overview": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1526_holly",
+      "emotion": "shame",
+      "dialogue": "Take that unholy thing away. Take it away! Now!  Yes. Yes, Padre.  - Shame on you, Geppetto! - Burn him!  - So sorry. - Chop him up!  - Oh Dio mio. - Sorry, sorry.",
+      "target_person": "Geppetto",
+      "target_gender": "male",
+      "cause_raw": "creating or owning an unholy object",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP2672_holly",
+      "emotion": "pride",
+      "dialogue": "Yes. Yes.  A model fascist youth.  Proud and brave.  Virile, like his father.  And his teeth, perfect teeth. And no sign of jaundice.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's physical health and attributes",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP2673_holly",
+      "emotion": "pride",
+      "dialogue": "I will obey and go to school, and I'll be the very, very best  at... whatever they do there.  I'll make you proud!   Off to school, off to school    Going to school, going to school Off to school I go",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "being the best at school",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP2674_holly",
+      "emotion": "pride",
+      "dialogue": "Here we are in Roma.  That's him, back there.  You will make me and your papa so proud.  Proud.  Excuse me, sir.",
+      "target_person": "unidentified speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2675_holly",
+      "emotion": "pride",
+      "dialogue": "That's him, back there.  You will make me and your papa so proud.  Proud.  Excuse me, sir.  Catania. Do you go there?",
+      "target_person": "Catania",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2676_holly",
+      "emotion": "pride",
+      "dialogue": "Follow my orders, learn to obey, and you will be the perfect soldier.  But, my papa... You'll return home a hero.  Any father would be proud of such a son.  We're here.  Wow!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son becoming a soldier and a hero",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2677_holly",
+      "emotion": "pride",
+      "dialogue": "You may be boys, but you have the hearts of men.  Tomorrow, you train for the glory of Italy!  Tomorrow, you will make your fatherland proud.  Pinocchio. Pinocchio.  Yeah?",
+      "target_person": "Italy",
+      "target_gender": "unclear",
+      "cause_raw": "for training for the glory of Italy",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

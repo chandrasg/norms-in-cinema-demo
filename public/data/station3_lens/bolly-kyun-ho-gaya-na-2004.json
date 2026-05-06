@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "19491",
+    "title": "Kyun! Ho Gaya Na...",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/kKJZqL53LhyTB5vuBj8dQ3JW9Wh.jpg",
+    "overview": "A man and a woman have opposing beliefs about love. He sees her as a friend, but she is in love with him. When the woman decides to marry someone else, the man is left with a heavy heart and wonders if this is what love feels like."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3231_bolly",
+      "emotion": "shame",
+      "dialogue": "Did you hear that? Is that what you've taught them here? No, he's new around here He doesn't know that with rude and shameless people one shouldn't waste time arguing brute force can get the point across faster",
+      "target_person": "new person",
+      "target_gender": "unclear",
+      "cause_raw": "rudeness and shamelessness",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p1702_bolly",
+      "emotion": "pride",
+      "dialogue": "Love and defeat are not part of my vocabulary, ok? That's all fine but just think, by chance, what if you do? How can we lose? It's a matter of pride How is it for men everything becomes a matter of pride? Listen, right now I'm watching this amazing suspense film",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "not losing",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1703_bolly",
+      "emotion": "pride",
+      "dialogue": "That's all fine but just think, by chance, what if you do? How can we lose? It's a matter of pride How is it for men everything becomes a matter of pride? Listen, right now I'm watching this amazing suspense film Go and sleep. Good night",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "winning",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

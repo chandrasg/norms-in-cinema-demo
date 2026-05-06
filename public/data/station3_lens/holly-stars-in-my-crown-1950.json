@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "111390",
+    "title": "Stars in My Crown",
+    "year": "1950",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/nKE6dBnB5W4AosuCrwILhnSDmUc.jpg",
+    "overview": "An orphaned man recalls his upbringing with his aunt and her husband, the parson, in a small Western town during the Reconstruction."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS887_holly",
+      "emotion": "shame",
+      "dialogue": "I am standing around with a big smile on my face  just 'cause i feel good, and you- - Yes, well, all I have to say is:  you should be ashamed of yourself.  I was brought up to believe  that a man who broke his solemn promise to a lady",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "breaking a promise to a lady",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS888_holly",
+      "emotion": "shame",
+      "dialogue": "When you coming to church, Jed?  Just as soon as you get God to plow that bottom land for me.  Shame.  I'll see what I can do.  Get along, josh!",
+      "target_person": "Jed",
+      "target_gender": "male",
+      "cause_raw": "not attending church",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS889_holly",
+      "emotion": "shame",
+      "dialogue": "Nightriders!  Yellowbacks in fancy dress.  You shame me, and you shame the Lord  that made you and called you men.  And if I wasn't his servant, I'd take a buggy whip to the lot of you.",
+      "target_person": "Nightriders",
+      "target_gender": "male",
+      "cause_raw": "cowardice and lack of integrity",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP1619_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, that's a big one. Stand back, now, stand back.  Well, bang my time.  I done spake in pride,  and the lord had his ear out and heard me.  Go on home. Your mammy wants you.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "film": {
+    "id": "61400",
+    "title": "Thank You",
+    "year": "2011",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1jz15NthZjMHG8sKajS6D6QJkeb.jpg",
+    "overview": "Three married womanisers cheat on their wives. In order to catch them red-handed, their sceptic wives enlist a detective who specialises in investigating extramarital relationships."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4419_bolly",
+      "emotion": "shame",
+      "dialogue": "Look at that! He's married yet he's going for the kill. Shameless. Someone is definitely giving his wife details about his flings. Here...I found my phone bill in Sanjana's handbag.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s4420_bolly",
+      "emotion": "shame",
+      "dialogue": "I know she is at home. All the servants kicked you out, and you still don't get it? You are so shameless to call every few minutes! Why don't you go and play with your girlfriends? Mom, I don't like this guy.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "persistent and unwanted attention",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4421_bolly",
+      "emotion": "shame",
+      "dialogue": "I had a little bit of self-respect. I had those affairs behind your back. But you have no shame, being open about your affair. Am I still wrong about you? No, you are right.",
+      "target_person": "character being spoken to",
+      "target_gender": "male",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p2435_bolly",
+      "emotion": "pride",
+      "dialogue": "You were 'Breaking News'. Boss, now what? Now...Brilliant! Sanjana will be proud of you. Proud of me? She will worship you. Worship? - Yes.",
+      "target_person": "Sanjana",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2436_bolly",
+      "emotion": "pride",
+      "dialogue": "Boss, now what? Now...Brilliant! Sanjana will be proud of you. Proud of me? She will worship you. Worship? - Yes. Hello... - Hello ma'am... how are you?",
+      "target_person": "Sanjana",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2437_bolly",
+      "emotion": "pride",
+      "dialogue": "I heard nothing, saw nothing. I never came here. I love you, Raj. I'm so proud of you. I love you. I love you too! That means now they can have affairs without any fear.",
+      "target_person": "speaker 2",
+      "target_gender": "female",
+      "cause_raw": "love for Raj",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "film": {
+    "id": "17820",
+    "title": "Show Boat",
+    "year": "1951",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/sk7s574pI9QAi6uVqbTg0bnLEUC.jpg",
+    "overview": "A dashing Mississippi river gambler wins the affections of the daughter of the owner of the Show Boat."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2200_holly",
+      "emotion": "pride",
+      "dialogue": "- Need any money? - No, thanks.  Goodbye, Steve.  No, I said we didn't.  Pride is smaller than kindness.  Thanks, Julie.  Captain Andy.  - Mr. Steve, I wants to say l... - Goodbye.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2201_holly",
+      "emotion": "pride",
+      "dialogue": "I love her.  And by heavens, I'm gonna see that she gets them.  And you, standing there... ...are you proud and happy, looking forward to a life with such as him?  ...are you proud and happy, looking forward to a life with such as him?  Yes, Mama, I am.",
+      "target_person": "Mama",
+      "target_gender": "female",
+      "cause_raw": "her child's future life with a loved one",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2202_holly",
+      "emotion": "pride",
+      "dialogue": "And by heavens, I'm gonna see that she gets them.  And you, standing there... ...are you proud and happy, looking forward to a life with such as him?  ...are you proud and happy, looking forward to a life with such as him?  Yes, Mama, I am.  Then that's a sight I never want to see again.",
+      "target_person": "Mama",
+      "target_gender": "female",
+      "cause_raw": "her child's happiness and future life",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2203_holly",
+      "emotion": "pride",
+      "dialogue": "- Will you listen to me? - Even though I reek of the fleshpots... ...even though I cannot kiss the hem of your gown.  ...even though I cannot kiss the hem of your gown.  - I won't have you... - Though I am unworthy as they say... ...I still have my pride, madam, me pride.  ...I still have my pride, madam, me pride.  Gay, will you be sensible for once?",
+      "target_person": "Gay",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2204_holly",
+      "emotion": "pride",
+      "dialogue": "...even though I cannot kiss the hem of your gown.  - I won't have you... - Though I am unworthy as they say... ...I still have my pride, madam, me pride.  ...I still have my pride, madam, me pride.  Gay, will you be sensible for once?  Come here, you.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

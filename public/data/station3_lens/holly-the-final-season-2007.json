@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "15669",
+    "title": "The Final Season",
+    "year": "2007",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "/jW0IQOUE3YN9WOxn3yUdLhL6bgV.jpg",
+    "overview": "True story of Kent Stock, who in the early '90s gives up a job and ditches his wedding plans to take over as head coach of the Norway High School baseball team. Kent must win over his players and convince them and himself that he can fill their former coach's shoes and that they can go out winners. In the summer of 1991 Norway High's baseball tradition ended on a triumphant but sombre note."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2371_holly",
+      "emotion": "pride",
+      "dialogue": "Hell, 80% of this game is defense.  The most important thing to understand  is these boys take a great deal of pride in knowing how to beat you.  It's how they get remembered. And that's how we're gonna win State.  Coming to you live from Colonel Stadium,",
+      "target_person": "boys",
+      "target_gender": "male",
+      "cause_raw": "knowing how to beat the opponent",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2372_holly",
+      "emotion": "pride",
+      "dialogue": "relatives and friends win state titles.  Finally, it's their turn in the sun.  We are honored and proud to present this trophy to Norway High School  and to all the people of Norway that have supported us through thick and thin.  -Yeah! -Yeah!",
+      "target_person": "presenter",
+      "target_gender": "unclear",
+      "cause_raw": "presenting trophy to Norway High School",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2373_holly",
+      "emotion": "pride",
+      "dialogue": "Do you ever get used to this?  Oh, we don't take anything for granted around here.  We're so grateful for baseball, and so proud of the boys.  Of course, they don't have to live with Coach Grumpy all through the season.  He speaks very highly of you, by the way.",
+      "target_person": "we",
+      "target_gender": "unclear",
+      "cause_raw": "for the boys' baseball achievements",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2374_holly",
+      "emotion": "pride",
+      "dialogue": "-So you've been talking to him? -Yes. For that story.  -You talk to him about me? -No.  But he's very proud of you and thinks you're doing a great job.  -You didn't talk to him about me? -Of course I have.  You'd make a pretty good reporter yourself. You know what?",
+      "target_person": "him",
+      "target_gender": "male",
+      "cause_raw": "doing a great job",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP2375_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, say, can you see  By the dawn's early light  What so proudly we hailed  At the twilight's last gleaming?  Whose broad stripes and bright stars",
+      "target_person": "We",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

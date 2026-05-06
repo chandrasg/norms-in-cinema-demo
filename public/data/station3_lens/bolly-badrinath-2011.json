@@ -1,0 +1,143 @@
+{
+  "film": {
+    "id": "77715",
+    "title": "Badrinath",
+    "year": "2011",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lKrLvv9FAWjIn1CiAgEf1RJuqiP.jpg",
+    "overview": "Trained by a religious martial arts guru, Badri becomes the protector of Badrinath temple and tries to revive Alakananda's faith in God, unaware of the fact that she has fallen for him."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 2
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    },
+    "pride": {
+      "female": 3,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s361_bolly",
+      "emotion": "shame",
+      "dialogue": "Call me aunt once, my brother, i mean your father would be happy. Without claiming to be daughter of gd naidu who saved so many lives, aren't you ashamed to say proudly that you're wife of a mass killer! The day you left from the marriage against my grandpa's wish, you're not a member of our family,",
+      "target_person": "character",
+      "target_gender": "female",
+      "cause_raw": "associating with a mass killer",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s362_bolly",
+      "emotion": "shame",
+      "dialogue": "It's going back! It has vanished! You shameless creature! Don't you feel ashamed? You've come to such a holy place! Hey you buffalo! - Get out from here!",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting a holy place",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s363_bolly",
+      "emotion": "shame",
+      "dialogue": "His death resulted in the humiliation of your wife, sir what happened? Aren't you ashamed to call yourself wife of a mass killer? I'll never call you as aunt till i' alive. Do you want me to kill her?",
+      "target_person": "wife of a mass killer",
+      "target_gender": "female",
+      "cause_raw": "being wife of a mass killer",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s364_bolly",
+      "emotion": "shame",
+      "dialogue": "Grandpa... grandpa... - sir...auspicious time my father-in-law likes is fixed. Grandpa! Will hanging your head in shame make it right? Hanging head doesn't mean he has committed the mistake. He never raises his head before guru. - Shut up!",
+      "target_person": "grandpa",
+      "target_gender": "male",
+      "cause_raw": "disrespecting guru",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s365_bolly",
+      "emotion": "shame",
+      "dialogue": "did he call her name loudly without any love on her? He called her because he loves her. He's hung his head in shame because he committed the mistake. The mistake he did was making you a brahmin without bothering about your caste, though he has so many disciples, he chose you as his heir to head takshasila.",
+      "target_person": "disciple",
+      "target_gender": "male",
+      "cause_raw": "caste discrimination",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p154_bolly",
+      "emotion": "pride",
+      "dialogue": "Call me aunt once, my brother, i mean your father would be happy. Without claiming to be daughter of of naidu who saved so many lives, aren't you ashamed to say proudly that you're wife of a mass killer! The day you left from the marriage against my grandpa's wish, you're not a member of our family,",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "marrying against family's wish",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p155_bolly",
+      "emotion": "pride",
+      "dialogue": "Beat me... - what? What's the problem? She's proud and moreover threatens to slap me. If you say proud, i will...stop! Do you know who she is? Badri's mother and father! Dare to slap her now!",
+      "target_person": "Badri's mother and father",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p156_bolly",
+      "emotion": "pride",
+      "dialogue": "What's the problem? She's proud and moreover threatens to slap me. If you say proud, i will...stop! Do you know who she is? Badri's mother and father! Dare to slap her now! Why has she become like that?",
+      "target_person": "Badri's mother and father",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p157_bolly",
+      "emotion": "pride",
+      "dialogue": "Scold her now! Greetings mother-in-law. - See, how cultured she is! She has greeted me. Rich people are never proud. - Is it? How much she's worth? - Around rs.1000 crores. How much is rs.1000 crores?",
+      "target_person": "mother-in-law",
+      "target_gender": "female",
+      "cause_raw": "daughter-in-law's politeness",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p158_bolly",
+      "emotion": "pride",
+      "dialogue": "Marriage, having children isn't just for humans, even animals do ii, but heir to takshasila, one a billion would get that chance. We must be proud of it not feel sad. Only if you agree wholeheartedly, i'm not forcing it on you. We agree sir. - Sir, i'll ask my son...he's my disciple, he'll never say no to me.",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "being chosen as heir to takshasila",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "166872",
+    "title": "Tere Mere Sapne",
+    "year": "1996",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/rwTk5jN5BotQnMIt4CgPQvfNiND.jpg",
+    "overview": "A broke cabdriver's life is changed forever when he picks up an unhappy rich man at the airport one day"
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4398_bolly",
+      "emotion": "shame",
+      "dialogue": "Nobody will believe me if I tell you were a teacher. You behave like the wife of a rural doctor! Sometimes I am ashamed of you! Now get ready. I won't go.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "not behaving as per her husband's expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4399_bolly",
+      "emotion": "shame",
+      "dialogue": "On success. How tragic that I have to tell you his name. It shames me. Thank God you remember her name. Why didn't she tell me?",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "not remembering someone's name",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2419_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes, I had no idea...What? You didn't know? Congratulations. You've made the city proud of you and given us international fame. Is this your dispensary? It's a poor man's home. A small doctor can't get good places here.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "international fame",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2420_bolly",
+      "emotion": "pride",
+      "dialogue": "If you deem me fit. You must be joking. This is an important day in your life. I'll be proud to have been with you. Let's go. Sleeping? Get up. I want to tell you something great.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being with the listener on an important day",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2421_bolly",
+      "emotion": "pride",
+      "dialogue": "You should have brought your wife here someday. - I could've met her. - I would do that...But these days she's mad with me and has gone home. She's very proud. Won't return till I get her. These days I don't have the time to go. If you take my advice, your problems will end.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

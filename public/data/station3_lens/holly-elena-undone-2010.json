@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "56743",
+    "title": "Elena Undone",
+    "year": "2010",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/m4SDHYqLbYHnq5Lb6XPZPHgBbID.jpg",
+    "overview": "The wife of a pastor who preaches against homosexuality embarks on an affair with a female writer."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS433_holly",
+      "emotion": "shame",
+      "dialogue": "and liberal judges ruling willy nilly in their favor.  We are not going to stand by and allow it, Mrs. Winters.  Shame on you.  Shame on you for undermining your husband's work.  But more importantly - God's work.",
+      "target_person": "Mrs. Winters",
+      "target_gender": "female",
+      "cause_raw": "undermining husband's and God's work",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WS434_holly",
+      "emotion": "shame",
+      "dialogue": "We are not going to stand by and allow it, Mrs. Winters.  Shame on you.  Shame on you for undermining your husband's work.  But more importantly - God's work.  Elena... I'm sorry, but she just... she's been really tired.",
+      "target_person": "Mrs. Winters",
+      "target_gender": "female",
+      "cause_raw": "undermining husband's work",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WP921_holly",
+      "emotion": "pride",
+      "dialogue": "But I personally think it's kinda cool,  'cause you're not all caught up in the church,  and it makes me kind of proud.  Just so you're completely informed, Nash,  according to the specialist who was on",
+      "target_person": "Nash",
+      "target_gender": "male",
+      "cause_raw": "not being caught up in the church",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

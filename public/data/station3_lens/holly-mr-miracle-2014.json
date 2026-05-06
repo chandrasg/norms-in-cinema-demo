@@ -1,0 +1,100 @@
+{
+  "film": {
+    "id": "299585",
+    "title": "Mr. Miracle",
+    "year": "2014",
+    "industry": "holly",
+    "country": "CA",
+    "poster_path": "/2KQiBN5ogHIoqSWAmq5wRHikNe0.jpg",
+    "overview": "Heavenly angel Harry Mills is sent to Earth on a trial assignment to intervene in the life of a woman who needs help getting her life on track after the death of her father. With a deadline of Christmas day, he attempts to help her heal in order to embrace a new future, and an unexpected love, just in time to celebrate the miracle of the holiday season."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP395_holly",
+      "emotion": "pride",
+      "dialogue": "and get started.  I really want to follow through this time.  Addie, your dad would be really proud of you.  You know, I have got to be the only person  who dropped out of community college",
+      "target_person": "Addie's dad",
+      "target_gender": "male",
+      "cause_raw": "Addie's determination to follow through",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP396_holly",
+      "emotion": "pride",
+      "dialogue": "No!  But I refused to come back until I made something of myself.  Six years later... You've got your pride.  You've got your pride.  - Yeah. - Yeah.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "making something of himself",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP397_holly",
+      "emotion": "pride",
+      "dialogue": "But I refused to come back until I made something of myself.  Six years later... You've got your pride.  You've got your pride.  - Yeah. - Yeah.  You know, I regret",
+      "target_person": ": speaker",
+      "target_gender": "male",
+      "cause_raw": "making something of himself",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP398_holly",
+      "emotion": "pride",
+      "dialogue": "\"The night you left home,  \"you said that I set my expectations so high,  \"that I could never be proud of you.  \"I only encouraged you  \"because I want you to see what I see.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP399_holly",
+      "emotion": "pride",
+      "dialogue": "\"I only encouraged you  \"because I want you to see what I see.  \"I want you to be as proud of yourself  \"as I am of you.  \"The gift is my Christmas wish... \"that someone is able to show you",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP400_holly",
+      "emotion": "pride",
+      "dialogue": "if I passed?  What do you think?  Well, I... I'm proud of my work.  I put the time into the reading,  and, you know, I shared a little bit about myself.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "for putting effort into work and sharing about self",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP401_holly",
+      "emotion": "pride",
+      "dialogue": "- Oh! - One step at a time.  Addie! Oh!  I'm really proud of you.  Thanks, mom.  Would you say you're back on your path?",
+      "target_person": "mom",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

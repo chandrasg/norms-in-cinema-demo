@@ -1,0 +1,159 @@
+{
+  "film": {
+    "id": "70366",
+    "title": "Sahib Bibi Aur Ghulam",
+    "year": "1962",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/tUVjkGSe7ZRhFoWirqZOh00kNlz.jpg",
+    "overview": "A debauchee Zamindar greatly neglects his wife. The decadence of the Bengali Zamindar milieu in the late 19th century, seen through the eyes of a young upward mobile rustic seeking fortune in Calcutta, fascinated by the lonely lady of the house."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4,
+      "male": 5
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1834_bolly",
+      "emotion": "shame",
+      "dialogue": "It cannot be explained to a man, or to some women, either It can only be understood by unfortunate women It is a great disgrace and a great shame for a woman I'll await you tomorrow He's Chottan Babu, Bari Bahu's son. He's very fond of women",
+      "target_person": "unfortunate women",
+      "target_gender": "female",
+      "cause_raw": "being unfortunate",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1835_bolly",
+      "emotion": "shame",
+      "dialogue": "My Chotti Bahu - Yours? What torment? It is a great disgrace and a great shame for a woman What sort of torment? It is very great trouble. But you will not understand",
+      "target_person": "Chotti Bahu",
+      "target_gender": "female",
+      "cause_raw": "Unspecified torment",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1836_bolly",
+      "emotion": "shame",
+      "dialogue": "When am I ever near your brother-in-law? When do I have the opportunity When does he ever stay at home? Stop lamenting shamelessly My brother-in-law is a man of a rich family He enjoys song and dance all night",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "being accused of inappropriate behavior with brother-in-law",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s1837_bolly",
+      "emotion": "shame",
+      "dialogue": "If the husband stays away...What are these ornaments for? What is this life for? Have some shame. You ruin the prestige of the Chaudhary family I've never seen a woman who pines for her husband I want to ask you something",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "longing for her husband",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1838_bolly",
+      "emotion": "shame",
+      "dialogue": "We wed according to the rites of Hinduism Have you no duty towards me? He who learns from a wife...... has no shame How are you? At least it's as well the bullet struck you in the leg",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "learning from a wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1839_bolly",
+      "emotion": "shame",
+      "dialogue": "It's so dark It is better not to see my face today Today I have summoned you to do something......that should make a woman die of shame Die of shame? Yes, Bhoothnath",
+      "target_person": "Bhoothnath",
+      "target_gender": "male",
+      "cause_raw": "being asked to do something shameful",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1840_bolly",
+      "emotion": "shame",
+      "dialogue": "It is better not to see my face today Today I have summoned you to do something......that should make a woman die of shame Die of shame? Yes, Bhoothnath Who else but you could I tell?",
+      "target_person": "Bhoothnath",
+      "target_gender": "male",
+      "cause_raw": "being asked to do something shameful",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1841_bolly",
+      "emotion": "shame",
+      "dialogue": "Empty the glass then, give peace to your soul Yes, who are you to interfere? Shame on you Shame? What's that to do with it?",
+      "target_person": "interferer",
+      "target_gender": "unclear",
+      "cause_raw": "interfering in personal matters",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s1842_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes, who are you to interfere? Shame on you Shame? What's that to do with it? No other member of the Chaudhary family has done......what Chotte Babu has done for me",
+      "target_person": "interferer",
+      "target_gender": "male",
+      "cause_raw": "interfering in personal matters",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s1843_bolly",
+      "emotion": "shame",
+      "dialogue": "No other member of the Chaudhary family has done......what Chotte Babu has done for me Now he is mine alone I am not ashamed. I am proud Will you drink more? - What if I do? No, you shall not",
+      "target_person": "Chotte Babu",
+      "target_gender": "male",
+      "cause_raw": "Drinking alcohol",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "p957_bolly",
+      "emotion": "pride",
+      "dialogue": "No other member of the Chaudhary family has done......what Chotte Babu has done for me Now he is mine alone I am not ashamed. I am proud Will you drink more? - What if I do? No, you shall not",
+      "target_person": "Chaudhary family member",
+      "target_gender": "male",
+      "cause_raw": "support and care",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "61420",
+    "title": "The 19th Wife",
+    "year": "2010",
+    "industry": "holly",
+    "country": "CA",
+    "poster_path": "/jJoRaomFiukI7hP4dg66GYr2FwO.jpg",
+    "overview": "Fundamentalist sect member BeckyLyn is accused of killing her husband. Queenie, another wife in the polygamist sect, doesn't believe BeckyLyn is capable of such violence and desperate to prove her innocence reaches out to her excommunicated son Jordan for help in freeing his mother."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1715_holly",
+      "emotion": "pride",
+      "dialogue": "My mom Kimberly, she married your dad after you left.  BeckyLyn's the 19th, my mom's 23.  And proud of it.  Wow. All right.  Proud of marrying that creep.",
+      "target_person": "Kimberly's child",
+      "target_gender": "unclear",
+      "cause_raw": "Kimberly marrying their father",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1716_holly",
+      "emotion": "pride",
+      "dialogue": "And proud of it.  Wow. All right.  Proud of marrying that creep.  You know, he used to make the wives cut his toenails?  You ever see his toenails?",
+      "target_person": "speaker 1",
+      "target_gender": "female",
+      "cause_raw": "marrying someone considered undesirable",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP1717_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, jeez.  This is good.  Yeah, plus, it makes you proud to know  your father's a horny scumbag.  I mean, 25 wives and he still has to go online.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "father's sexual exploits",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

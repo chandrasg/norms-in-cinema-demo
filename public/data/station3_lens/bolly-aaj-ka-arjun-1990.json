@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "307490",
+    "title": "Aaj Ka Arjun",
+    "year": "1990",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/4V4QbSabLUiT3LhyXFq1oqsjJ5K.jpg",
+    "overview": "Thakur Bhupendra Singh and his son Ajit are powerful landlords who oppress a helpless community of villagers. Ajit marries Laxmi, a city girl who has come to the village to be with her brother,Bheema. Bheema and a feisty village belle Gauri, are in love but before they can marry, tragedy strikes. Ajit, who had abandoned Laxmi soon after their wedding returns and murders her. The law is helpless and Bheema decides to take law into his own hands."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3951_bolly",
+      "emotion": "shame",
+      "dialogue": "God knows. Maybe the inspector is in for a rough time. He's inquiring about his death. it's indeed shamelul that you all are abetting the crime. - Is there nobody? - I'll tell you. - Who killed him? - Thakur Bhupendra Singh.",
+      "target_person": "inspector",
+      "target_gender": "male",
+      "cause_raw": "abetting crime",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s3952_bolly",
+      "emotion": "shame",
+      "dialogue": "- What?! - Kiss? Shut up! If you are scared to give, I'll give you one. Have some shame! Everyone is looking at us. - I don't care. - My letter. You are always ready.",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate public behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3953_bolly",
+      "emotion": "shame",
+      "dialogue": "- Forgive me. - Apologize to her not me. - Come with me. - What is this you are doing? Won't I leel embarrassed to apologize to the shameless girl? You won't get lood or water until you apologize to her. Okay, I'm going.",
+      "target_person": "shameless girl",
+      "target_gender": "female",
+      "cause_raw": "not accepting apology",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p2137_bolly",
+      "emotion": "pride",
+      "dialogue": "You don't know what you've done for me. ls there anyone educated like you even in the neighboring villages? You've done me proud. Freshen up. - Yes? - What sort of clothes are these?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "education",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

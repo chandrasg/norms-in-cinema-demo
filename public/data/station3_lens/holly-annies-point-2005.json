@@ -1,0 +1,69 @@
+{
+  "film": {
+    "id": "51091",
+    "title": "Annie's Point",
+    "year": "2005",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/5fxbVbesest1TWgxgDOziR2PWWD.jpg",
+    "overview": "A recently widowed grandmother is determined to grant her husband's last wish of setting his ashes free over the idyllic bluff they called Annie's Point. The charm of this tale lies in her journey."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1553_holly",
+      "emotion": "pride",
+      "dialogue": "No, it isn't.  \"Thank you.\"  Stop it.  You should be proud of yourself.  You're a good flirt.  Oh. Only two left.  Ok, we need to get you some more pills",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being a good flirt",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP1554_holly",
+      "emotion": "pride",
+      "dialogue": "All that time, and--  Well, you just blew me away.  Oh, your mother would be so proud.  That was tremendous.  Oh! My purse. I'll be right back.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1555_holly",
+      "emotion": "pride",
+      "dialogue": "Have a nice trip.  Come back, ok? Thank you.  I'm proud of you, Doug.  Eliot would be, too.  Grandma, I think we need to get you out of this car for a while.",
+      "target_person": "Grandma",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1556_holly",
+      "emotion": "pride",
+      "dialogue": "Well, and she's also just like her father.  You're a good dad, Richard.  Your father would be proud of you.  Wow.  Yeah. Dad told me about this.",
+      "target_person": "Richard",
+      "target_gender": "male",
+      "cause_raw": "being a good dad",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

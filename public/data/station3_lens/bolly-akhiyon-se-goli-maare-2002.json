@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "158723",
+    "title": "Akhiyon Se Goli Maare",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/qK7ceXlDh10AJxEz53dHlWhjPYL.jpg",
+    "overview": "Akelinder or Bhangari Dada (Kader Khan) has a shop at Chor bazaar which he runs illegally, he lives with his wife and only daughter Kiran (Raveena Tandon). Bhangari wants his daughter to be married to a gangster, so he begins his search. He finds Shakti dada (Shakti Kapoor) and wants him to be married to Kiran but Kiran already loves Raj (Govinda), a wealthy man who has no links to crime. But in order to satisfy her dad, she persuades Raj to pose as a Gangster for time being. For this they search a Trainer called Subramaniam (Johnny Lever), who teaches Raj to act as a Gangster. Finally Raj becomes successful posing as a gangster but Bhangari's dad (Kader Khan) somehow appears and doesn't want Kiran to marry to a gangster. Will Raj be able to clean his image?"
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 3
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4115_bolly",
+      "emotion": "shame",
+      "dialogue": "Lassie! You're looking like a bomb! Is that make-up? Or original colour? Am I supposed to smile through my bruised jaw? What are you gaping at? - Never seen anyone as shameless as you Choose a design for the wedding invitation Wedding invitation? But I haven't met the boy, my parents haven't met him",
+      "target_person": "Lassie",
+      "target_gender": "female",
+      "cause_raw": "Being shameless and not following traditional marriage protocols",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4116_bolly",
+      "emotion": "shame",
+      "dialogue": "Won't you take a dowry then? - I certainly will. But not as dowry What then? - Extortion money Every week too. - Shame on you Whatever happens. - All right. I give it to you Why're you giving me so much’? Your daughter's not squint-eyed, is she?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "demanding dowry and insulting the girl",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4117_bolly",
+      "emotion": "shame",
+      "dialogue": "Straighten your mouth. You call your wife punter '2 Is this the language you learn in this locality of the thugs? Shameless man! Daughter-m-law, come here Bless you Greetings",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "disrespectful language towards wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4118_bolly",
+      "emotion": "shame",
+      "dialogue": "What number did you dial on the mobile? I called the police. Can't you see'? - Have you no shame'? - Why'? My life was at risk. Take them away!",
+      "target_person": "person who called the police",
+      "target_gender": "unclear",
+      "cause_raw": "calling the police for help",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2219_bolly",
+      "emotion": "pride",
+      "dialogue": "Fabulous! What an idea what a brain you have! Cleaned up the enemy! I'm proud of my son-in-law. It's my goodness that I didn't hand him over to the police. Because he saved my family honour.",
+      "target_person": "son-in-law",
+      "target_gender": "male",
+      "cause_raw": "saved family honour",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

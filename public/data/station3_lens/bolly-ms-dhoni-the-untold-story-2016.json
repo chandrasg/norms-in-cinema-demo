@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "388333",
+    "title": "M.S. Dhoni: The Untold Story",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lUpMckVHaB55YJ3SMK0arwxKmCt.jpg",
+    "overview": "Based on the life story of Mahendra Singh Dhoni, and his journey to being the world cup winning captain of the Indian cricket team."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    },
+    {
+      "label": "Sports Victory",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1777_bolly",
+      "emotion": "pride",
+      "dialogue": "That's great! That's Dhoni's second century! Double century for him! I'm proud of you. He has unravelled the opposition! Hello. - Hello, please connect me to Mr. Somi.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Dhoni's sports achievement",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1778_bolly",
+      "emotion": "pride",
+      "dialogue": "How are you? - All well, sir. Did you see yesterday's match? I did, sir. The boys have done us proud. Kaif and Yuvraj were brilliant. They were too good. John is doing everything right.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Sports achievement",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p1779_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm happy to be proven wrong. Just keep playing well. Make your country proud. And don't let all this go to your head. Yes.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Sports achievement",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p1780_bolly",
+      "emotion": "pride",
+      "dialogue": "Good morning, sir. How are you, sir? Watching your success makes me proud. It's all thanks to people like you, sir. There's something I have wanted to tell you for a long time now.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "watching someone's success",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1781_bolly",
+      "emotion": "pride",
+      "dialogue": "Switch to smart. Lava never lets you down. For instant pickup, I use Gulf Pride 4T Plus Bike Engine Oil. Whether the fight's on the field or against pimples on the face I will always win with Garnier Men Face wash.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

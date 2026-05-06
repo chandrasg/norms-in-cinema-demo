@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "34144",
+    "title": "Atithi Tum Kab Jaoge?",
+    "year": "2010",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cia1gaHHjO626oSSH5Pf9hwbXN0.jpg",
+    "overview": "The story of a happily married couple living in Mumbai whose lives take an interesting turn when a distant relative turns up unannounced at their doorstep from a far off village."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s239_bolly",
+      "emotion": "shame",
+      "dialogue": "After polishing off the liquor......there's nothing left to do, but go home and sleep it off. Breathe out. Exhale. Breathe normally. The police conducted a late night raid......and caught some people committing a shameful act. We're standing right outside... Outside a hotel in Andheri......where the police conducted a late night raid......and caught some people committing a shameful act. Let me tell you there are models and students......involved in this and also an innocent mother.",
+      "target_person": "people caught in raid",
+      "target_gender": "unclear",
+      "cause_raw": "committing illegal acts",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s240_bolly",
+      "emotion": "shame",
+      "dialogue": "Breathe out. Exhale. Breathe normally. The police conducted a late night raid......and caught some people committing a shameful act. We're standing right outside... Outside a hotel in Andheri......where the police conducted a late night raid......and caught some people committing a shameful act. Let me tell you there are models and students......involved in this and also an innocent mother. And she has a six year old son.",
+      "target_person": "people caught in raid",
+      "target_gender": "unclear",
+      "cause_raw": "committing illegal or socially unacceptable acts",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s241_bolly",
+      "emotion": "shame",
+      "dialogue": "And now, we'll show you a glimpse of that cruel man. Take a close look at this man. He has put humanity to shame. - Take a good look at this man. Don't be taken by his innocent looks. He could be anywhere around you.",
+      "target_person": "cruel man",
+      "target_gender": "male",
+      "cause_raw": "inhumane actions",
+      "theme_label": "Corruption"
+    }
+  ]
+}

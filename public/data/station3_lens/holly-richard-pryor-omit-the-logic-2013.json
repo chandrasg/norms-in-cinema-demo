@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "174340",
+    "title": "Richard Pryor: Omit the Logic",
+    "year": "2013",
+    "industry": "holly",
+    "country": "GB|US",
+    "poster_path": "/sCuj6Whfe0dmv0WDDBtONTX2Vxk.jpg",
+    "overview": "Mike Epps, Richard Pryor Jr. and others recount the culture-defining influence of Richard Pryor - one of America's most brilliant, iconic comic minds."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 3
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP112_holly",
+      "emotion": "pride",
+      "dialogue": "Nine of them you could deal with.  But them other four could be a m**********r now.  Richard was very intense... ..about his personal pride. And he didn't care where it took him.  ..about his personal pride. And he didn't care where it took him.  There was a huge benefit for gay pride at the Hollywood Bowl.",
+      "target_person": "Richard",
+      "target_gender": "male",
+      "cause_raw": "personal pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP113_holly",
+      "emotion": "pride",
+      "dialogue": "But them other four could be a m**********r now.  Richard was very intense... ..about his personal pride. And he didn't care where it took him.  ..about his personal pride. And he didn't care where it took him.  There was a huge benefit for gay pride at the Hollywood Bowl.  A lot of performers were at the Hollywood Bowl",
+      "target_person": "Richard",
+      "target_gender": "male",
+      "cause_raw": "personal pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP114_holly",
+      "emotion": "pride",
+      "dialogue": "Richard was very intense... ..about his personal pride. And he didn't care where it took him.  ..about his personal pride. And he didn't care where it took him.  There was a huge benefit for gay pride at the Hollywood Bowl.  A lot of performers were at the Hollywood Bowl  to lend their support,",
+      "target_person": "Richard",
+      "target_gender": "male",
+      "cause_raw": "personal pride",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "15772",
+    "title": "Guru",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xX2BJ5sn3ElTZqhnOEod8ZXsCQg.jpg",
+    "overview": "A villager, Gurukant Desai, arrives in Bombay in 1958, and rises from its streets to become the biggest tycoon in India."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2265_bolly",
+      "emotion": "shame",
+      "dialogue": "Have you checked the results in town ? Have you failed ? Oh, you are trying to cover the shame with a job. I've got a job in Turkey. Now how does a pass or fail matter ? I'll beat you. The whole village will laugh that....the math teacher's son has failed. You'll never prosper.",
+      "target_person": "math teacher's son",
+      "target_gender": "male",
+      "cause_raw": "failure in academics",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2266_bolly",
+      "emotion": "shame",
+      "dialogue": "Now pick up both of them and throw them in the dustbin. Editor sir. - Yes ? - I hear you've a new car. Don't you have shame ? Don't you have even a little shame ? We have to apologize to the country. Tomorrow morning's edition will have an apology letter.",
+      "target_person": "Editor",
+      "target_gender": "male",
+      "cause_raw": "Corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p1170_bolly",
+      "emotion": "pride",
+      "dialogue": "Shyam. if you and I break the law we would be scared. But he is proud of breaking the law. And he doesn't just break or bend the law. He buries it and then builds a beautiful park on it....the one with flowers and fountains.",
+      "target_person": "he",
+      "target_gender": "male",
+      "cause_raw": "breaking the law",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

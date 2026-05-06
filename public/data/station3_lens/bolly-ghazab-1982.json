@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "410853",
+    "title": "Ghazab",
+    "year": "1982",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/ohao3SzoIVp4DEVcXxb3L920gfg.jpg",
+    "overview": "Ajay alias Munna Babu is a semi-senile, gentle but naive young man who has a wealthy family estate. His employees and alleged well-wishers conspire against him and introduce him to his long-estranged mother, Shakuntala, and brother, Vijay. Munna is overjoyed, not knowing that they are devious impersonators. This joy is quite short-lived, as they soon show their true colors, and Munna gets killed. His restless spirit seeks out his real brother and appeals to him to avenge his death. Vijay, at first, thinks he is hallucinating, but when his mother confirms that he indeed had a twin brother, he agrees to accompany Munna's spirit back to where he was killed, and thus assist him complete his vengeance. Things do not go as planned, and Vijay himself becomes their victim, and may face the very same fate as Munna."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2115_bolly",
+      "emotion": "shame",
+      "dialogue": "After this, what is there, father? - Mr. Sunderdas. Come on father! We don't want to stay here. I am very ashamed, Mr. Sunderdas. Let your shamelessness get lost! You may go from here, please.",
+      "target_person": "Mr. Sunderdas",
+      "target_gender": "male",
+      "cause_raw": "Shamelessness",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2116_bolly",
+      "emotion": "shame",
+      "dialogue": "Come on father! We don't want to stay here. I am very ashamed, Mr. Sunderdas. Let your shamelessness get lost! You may go from here, please. Come on, father! Come!",
+      "target_person": "Mr. Sunderdas",
+      "target_gender": "male",
+      "cause_raw": "Shamelessness",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2117_bolly",
+      "emotion": "shame",
+      "dialogue": "The full blame we will be on Jata Shankar. What? Don't you feel ashamed? - I just feel like loving. What shall I do? I am also having the feeling. - Then, come on !",
+      "target_person": "Jata Shankar",
+      "target_gender": "male",
+      "cause_raw": "expressing his feelings openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2118_bolly",
+      "emotion": "shame",
+      "dialogue": "Jata Shankar! Jata Shankar, I will kill you. Jamuna, what are you doing? Have some shame, Jamuna? Why are you beating me? I am your uncle. Yes, you are my uncle, but you are like Kans.",
+      "target_person": "Jamuna",
+      "target_gender": "female",
+      "cause_raw": "physical aggression",
+      "theme_label": "Violence"
+    }
+  ]
+}

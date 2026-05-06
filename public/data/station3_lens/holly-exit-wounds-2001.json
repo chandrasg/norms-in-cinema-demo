@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "10877",
+    "title": "Exit Wounds",
+    "year": "2001",
+    "industry": "holly",
+    "country": "CA|US",
+    "poster_path": "/tGIJhBejmredgUZRNdteZyiahag.jpg",
+    "overview": "Maverick cop Orin Boyd always brings down the domestic terrorists he tracks, but he ruffles feathers with his unorthodox techniques -- and soon finds himself reassigned to the toughest district in Detroit. When he discovers a group of detectives secretly operating a drug ring, Boyd joins forces with an unlikely ally -- gangster Latrell Walker -- to bring down the rotten cops."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS293_holly",
+      "emotion": "shame",
+      "dialogue": "Linda, I'm a changed man with a lot of problems... ...so we'll see a lot of each other.  ...so we'll see a lot of each other.  I've signed up for your shame and impotence class.  And these are for you.  Thank you.",
+      "target_person": "Linda",
+      "target_gender": "female",
+      "cause_raw": "being associated with shame and impotence",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP625_holly",
+      "emotion": "pride",
+      "dialogue": "Hey-  How's your head?  Head is fine. It's my pride that's still hurting.  Question for you.  Six months ago, there was a bust. A kid named Shaun Rollins. Remember?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP626_holly",
+      "emotion": "pride",
+      "dialogue": "Thank you.  That's super, Henry.  So I'd like to proudly acknowledge our very own hero, Orin Boyd.  Hey, guys. You need some love. Come on.  Come on. Group hug.",
+      "target_person": "Henry",
+      "target_gender": "male",
+      "cause_raw": "being acknowledged as a hero",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "WP627_holly",
+      "emotion": "pride",
+      "dialogue": "Come on. Group hug.  Get in here. Come on, everybody.  We're proud of this man.  Feels good, don't it?  Where are we going? You guys got to stay here.",
+      "target_person": "group",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

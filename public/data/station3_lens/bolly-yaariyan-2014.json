@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "252053",
+    "title": "Yaariyan",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fZmL1C67pA0OHLGPITt0d2IODnM.jpg",
+    "overview": "A college student must win an inter college competition to save his college from being demolished by property builders."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4598_bolly",
+      "emotion": "shame",
+      "dialogue": "Aunt! Aunt! Give me blessings, aunt. I am going on a mission. Naughty, shameless. I am not your aunt. I am the girl's hostel warden. Get that!",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4599_bolly",
+      "emotion": "shame",
+      "dialogue": "I pray to thee. Losers. - You made the college lose. Shame on you. Don't ever show your face in the college again. You people can never succeed in life.",
+      "target_person": "college students",
+      "target_gender": "unclear",
+      "cause_raw": "causing the college to lose",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s4600_bolly",
+      "emotion": "shame",
+      "dialogue": "Neil. Neil. What are you doing? I will kill you. - Neil, what are you doing? Weren't you ashamed? You sold the college's reputation. You didn't even think about Debu.",
+      "target_person": "Neil",
+      "target_gender": "male",
+      "cause_raw": "damaging college's reputation",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p2594_bolly",
+      "emotion": "pride",
+      "dialogue": "Hey. - Hello, sir. The biggest humiliation in life......is when someone insults your country. And the biggest happiness......when your country's flag, is fluttering proudly. This is our country's flag. Don't let be insulted.",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "protecting the honor of the country",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2595_bolly",
+      "emotion": "pride",
+      "dialogue": "There is power in our intentions. We are the feet of the breeze. The biggest happiness in life......is when your country's flag is fluttering with pride. You're grownup now, son. Bye sir.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "country's flag fluttering with pride",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

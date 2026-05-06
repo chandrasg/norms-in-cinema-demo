@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "16155",
+    "title": "Safe Men",
+    "year": "1998",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/857L7x6uFNr4c2oHD5KJw5pkbxn.jpg",
+    "overview": "Two untalented singers are mistaken for a pair of major league safe crackers in Providence, Rhode Island. The two are pressed into service by the local hoodlums and quickly find themselves in conflict with their professional colleagues. Romantic interest is added by the daughter of the underworld leader who won't date the men she knows are gangsters."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1416_holly",
+      "emotion": "pride",
+      "dialogue": "Whoo!  So you psyched to become a man?  I don't know. Your mom would have been real proud of you.  I guess so.  Your dad's pumped up.",
+      "target_person": "mom",
+      "target_gender": "female",
+      "cause_raw": "becoming a man",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1417_holly",
+      "emotion": "pride",
+      "dialogue": "Sam knows what you do for a living, Dad.  Six days a week I'm moving serious swag outta my store onto the street,  and I pride myself on my ability to do this.  The man is good, Samuel. He's good at what he does.  A year ago, this shine I used to deal with, uh-",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "his ability to move merchandise",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1418_holly",
+      "emotion": "pride",
+      "dialogue": "for his bar mitzvah party tomorrow night.  Ah, sweet. He looks good. Ah, he's all right.  - So, I'm really proud of you guys. - You doubted us.  Chop, what'd I say when they wouldn't pay me after the second safe?  \"Veal Chop, those two guys have nuts the size of casaba melons.",
+      "target_person": "guys",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

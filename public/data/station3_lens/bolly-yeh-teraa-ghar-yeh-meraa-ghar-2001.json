@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "64049",
+    "title": "Yeh Teraa Ghar Yeh Meraa Ghar",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/h1gDlv4Yu49zkZF2ntbH6lPwalY.jpg",
+    "overview": "After the death of his dad, Dayashankar Pandey arranges the marriage of his two sisters. In debt, he goes to the city to ask the tenants to leave his house, as he intends to sell it and repay his debts. A woman, her two daughters, Jyoti, Saraswati, and one son, Chotu are living there. When Dayashankar asks them to vacate, they refuse. What results is Dayashankar's hilarious attempts to force them to vacate - from seeking legal advice; filing police reports; asking goons to remove them - moving in himself. Will Dayashankar succeed in his attempts to evict his tenants?"
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4622_bolly",
+      "emotion": "shame",
+      "dialogue": "This Government is also..Mother... till the time,we're paying rent for this house- Till such time,this house is our's- He's too shameless,he's washing rice in our kitchen- He's telling me that the price of rice has shooted up- What can I do for that?",
+      "target_person": "Government",
+      "target_gender": "unclear",
+      "cause_raw": "not providing affordable housing",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4623_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey,give my clothes back- Look,I'll come out like this itself You'll all feel very much ashamed I'm coming out...Hey,give my clothes back If he's threatening you by saying that he'll file a case on you Then,you also file a case on him-",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "threatening to expose himself",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4624_bolly",
+      "emotion": "shame",
+      "dialogue": "Let me see,how he eat's fish over here? Hey,son of an elephant how dare you kicked my fish? What are you doing move away...Aren't you ashamed of raising hands on a small child? Is he a child?He's the son of an elephant,bloody useless...You stay in this house,does it mean that,you'll trouble everyone over here? And,what's all this,this is a house of Brahmins,who don't cook fish",
+      "target_person": "small child",
+      "target_gender": "male",
+      "cause_raw": "physical assault and breaking dietary norms",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s4625_bolly",
+      "emotion": "shame",
+      "dialogue": "You developed the fever of love open the door- Why were you going after her by taking a rose in your hands?- Aren't you ashamed of yourself- Water was flowing from your lips shut up...Hey,I've my respect over here what are you doing...?Let them also listen,how cheap a person you are? You do one thing,tomorrow you come to the police station",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate romantic pursuit",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p2607_bolly",
+      "emotion": "pride",
+      "dialogue": "Everything will be burnt to ashes Please wait!let my daughter come Don't wait for that proud girl put all your things out Yadav becomes blind with rage if he gets angry Then,don't complain that house owner is a heartless man",
+      "target_person": "Yadav",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "18885",
+    "title": "3 Ninjas Kick Back",
+    "year": "1994",
+    "industry": "holly",
+    "country": "JP|US",
+    "poster_path": "/kXuh3c0DyvqSGo0DBatoemBwEtz.jpg",
+    "overview": "During a championship baseball match, the three brothers hear that their grandfather in Japan is in trouble, and head out to help him, conceding the match. When they arrive in Japan, they must use all their powers to defend him against his ancient enemy, who has returned to exact revenge."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS995_holly",
+      "emotion": "shame",
+      "dialogue": "-I want to go. -I want to play.  Stop it! \"l want, I want.\" What's the matter with you guys?  I was embarrassed and ashamed of your behaviour, and you should be too.  How can I pay attention with Grandpa pestering me from the stands?  -That's embarrassing. -Enough.",
+      "target_person": "Grandpa",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior in public",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WP1889_holly",
+      "emotion": "pride",
+      "dialogue": "Don't they look adorable in their uniforms?  Welcome to the league championship playoffs.  This game will determine who goes home proudly with the championship trophy:  The Dragons... ...or the Mustangs.  ...or the Mustangs.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1890_holly",
+      "emotion": "pride",
+      "dialogue": "-All right. -Okay!  Boys, come here.  Look, win or lose... ...I just wanted to tell you... ...that I'm really very proud of you.  ...that I'm really very proud of you.  You're real sportsmen out there.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being real sportsmen",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1891_holly",
+      "emotion": "pride",
+      "dialogue": "Boys, come here.  Look, win or lose... ...I just wanted to tell you... ...that I'm really very proud of you.  ...that I'm really very proud of you.  You're real sportsmen out there.  You see? You learn about life through baseball.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "being real sportsmen",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

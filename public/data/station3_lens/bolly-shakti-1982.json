@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "159487",
+    "title": "Shakti",
+    "year": "1982",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2Gz21c2XNYIOWty9JaFMc3h825E.jpg",
+    "overview": "A policeman's son becomes a criminal after a childhood incident creates a rift between them."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1955_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll be right back. Mr. Narang, are you okay? What happened, Mr. Narang? Shame on you! You should be ashamed! Go and end your life! I had arranged everything! And you just had to fire!",
+      "target_person": "Mr. Narang",
+      "target_gender": "male",
+      "cause_raw": "failure to perform a task",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1956_bolly",
+      "emotion": "shame",
+      "dialogue": "What happened, Mr. Narang? Shame on you! You should be ashamed! Go and end your life! I had arranged everything! And you just had to fire!",
+      "target_person": "Mr. Narang",
+      "target_gender": "male",
+      "cause_raw": "failure to perform a task",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1957_bolly",
+      "emotion": "shame",
+      "dialogue": "it's the same even today. Even today I can sense.... the voice of a police officer in your voice. Your pessimistic attitude is saddening. I feel ashamed at seeing your behaviour I didn't call you here to ease my responsibilities. I called you to inform you that your mother is seriously ill.",
+      "target_person": "character being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "pessimistic attitude",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p1024_bolly",
+      "emotion": "pride",
+      "dialogue": "Forget all that. Tell me, how are you? I'm fine and very happy. I am proud that I am the mother of your child. lsn't this strange? You gave me a son and I still haven't thanked you.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "motherhood",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1025_bolly",
+      "emotion": "pride",
+      "dialogue": "Go and ask him to get proof of my crime. Ask him to get witnesses against me. He is proud of his status and position, isn't it? Has he lost courage that he has sent you to arrange for my arrest? Vijay! You uncouth man! You ill-mannered man!",
+      "target_person": "him",
+      "target_gender": "male",
+      "cause_raw": "status and position",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "76489",
+    "title": "The Three Stooges",
+    "year": "2012",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/b0nNQCL90RGTwjxLEFsFFLQZKNe.jpg",
+    "overview": "Left on the doorstep of an orphanage run by nuns, three newborn knuckleheads grow up to be finger-poking, nyuk-nyuking janitors named Larry, Curly and Moe. When they learn that financial problems will soon force the only home they've ever known to close, the trio sets out to raise $830,000 in one month. Out in the world for the very first time, the three innocent bumblers become embroiled in a murder plot and find stardom on a TV reality show."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS170_holly",
+      "emotion": "shame",
+      "dialogue": "why didn't we go live with Teddy when we had the chance?  Now we got no Teddy, no seed money, no nothing.  Yeah, shame on you, Moe. You put your pride ahead of them kids.  How dare you accuse me of having pride!  Back off.",
+      "target_person": "Moe",
+      "target_gender": "male",
+      "cause_raw": "prioritizing pride over children's welfare",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP293_holly",
+      "emotion": "pride",
+      "dialogue": "Well, it's been a bad week for Lenny the Lion.  His nasty disposition has prompted local zoo officials  to put the proud cat an a short leash inside his pen.  Zoo employees were refusing to clean the arnery beast's cage  after several recent close calls.",
+      "target_person": "Lenny the Lion",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP294_holly",
+      "emotion": "pride",
+      "dialogue": "why didn't we go live with Teddy when we had the chance?  Now we got no Teddy, no seed money, no nothing.  Yeah, shame on you, Moe. You put your pride ahead of them kids.  How dare you accuse me of having pride!  Back off.",
+      "target_person": "Moe",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP295_holly",
+      "emotion": "pride",
+      "dialogue": "Now we got no Teddy, no seed money, no nothing.  Yeah, shame on you, Moe. You put your pride ahead of them kids.  How dare you accuse me of having pride!  Back off.  I won't.",
+      "target_person": "Moe",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP296_holly",
+      "emotion": "pride",
+      "dialogue": "I won't.  Okay, kid, you got me.  You know, I'm proud of you for finally standing up for yourself.  Let's shake on it. There you go.  Get out of here.",
+      "target_person": "Kid",
+      "target_gender": "unclear",
+      "cause_raw": "standing up for oneself",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

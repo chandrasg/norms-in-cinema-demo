@@ -1,0 +1,121 @@
+{
+  "film": {
+    "id": "403858",
+    "title": "Budhia Singh: Born to Run",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5kvr2gx6j3XjueQfkYsGPqvGSQ.jpg",
+    "overview": "Budhia Singh – Born To Run is an Indian biographical sports film directed by Soumendra Padhi. It is based on Budhia Singh, who ran 48 marathons — one of which was from Bhubaneshwar to Puri, when he was a five-year-old."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 9
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 3
+    },
+    {
+      "label": "Sports Victory",
+      "count": 2
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p298_bolly",
+      "emotion": "pride",
+      "dialogue": "It just can't be done This is an official function There are so many people here! A proud day for all Jawans here Please be silent for a while We have a 5 year old child with us",
+      "target_person": "Jawans",
+      "target_gender": "male",
+      "cause_raw": "official function",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p299_bolly",
+      "emotion": "pride",
+      "dialogue": "It's not about the run...it never was. If a man lives. he should live with self-respect Pride..Dignity..Even Kenyan athletes don't run such distances  at such temperatures Budhia becomes the youngest Marathon runner in the world",
+      "target_person": "Budhia",
+      "target_gender": "male",
+      "cause_raw": "becoming the youngest Marathon runner in the world",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p300_bolly",
+      "emotion": "pride",
+      "dialogue": "Though everybody was lost Few known faces Few unknown But prides reflects on everybody's eyes Seemingly old paths Which were now forgotten Have now come to forefront",
+      "target_person": "everybody",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p301_bolly",
+      "emotion": "pride",
+      "dialogue": "I'll run more Say, I'll run another 100 kms I'll run 100 kms Budhia is the Pride of Orissa! Pride of India! Every sports person's inspiration our Budhia!",
+      "target_person": "Budhia",
+      "target_gender": "male",
+      "cause_raw": "athletic achievement",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p302_bolly",
+      "emotion": "pride",
+      "dialogue": "Say, I'll run another 100 kms I'll run 100 kms Budhia is the Pride of Orissa! Pride of India! Every sports person's inspiration our Budhia! Why draw water from here?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Budhia's athletic achievements",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p303_bolly",
+      "emotion": "pride",
+      "dialogue": "the organizers and his Coach, Biranchi Das will be arrested Now, this is politics speaking where it has become a Oriya's pride It is not about the Oriya pride There will be pride when we have no starvation deaths",
+      "target_person": "speaker 2",
+      "target_gender": "unclear",
+      "cause_raw": "no starvation deaths",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p304_bolly",
+      "emotion": "pride",
+      "dialogue": "will be arrested Now, this is politics speaking where it has become a Oriya's pride It is not about the Oriya pride There will be pride when we have no starvation deaths And no children being sold",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "no starvation deaths and no children being sold",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p305_bolly",
+      "emotion": "pride",
+      "dialogue": "Now, this is politics speaking where it has become a Oriya's pride It is not about the Oriya pride There will be pride when we have no starvation deaths And no children being sold Let Budhia be! He should be free!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "No starvation deaths and no children being sold",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p306_bolly",
+      "emotion": "pride",
+      "dialogue": "is useless and we have no authority Be smart l-low should be Odisha's Pride. Like Buclhia Singh. Biranchi listen..Biranchi..Why are you so stubborn? Because they wouldn't let him run",
+      "target_person": "Biranchi",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

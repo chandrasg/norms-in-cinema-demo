@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "76600",
+    "title": "Avatar: The Way of Water",
+    "year": "2022",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1492_holly",
+      "emotion": "shame",
+      "dialogue": "taking their first breath.  Teach them our ways,  so they do not suffer the shame of being  useless.  (JAKE CHUCKLES SOFTLY)",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "not being useful or productive",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS1493_holly",
+      "emotion": "shame",
+      "dialogue": "Dad, you told me to make friends with these kids.  That's all I was trying to... I don't want to hear it.  Dad... You brought shameto this family.  (JAKE SIGHS)  Can I go now?",
+      "target_person": "Jake",
+      "target_gender": "male",
+      "cause_raw": "disappointing family",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP2610_holly",
+      "emotion": "pride",
+      "dialogue": "I saw a Forest Boy  chosen by tulkun.  I am very proud of you.  Payakan didn't kill those boys.  I saw it all.",
+      "target_person": "Forest Boy",
+      "target_gender": "male",
+      "cause_raw": "being chosen by tulkun",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

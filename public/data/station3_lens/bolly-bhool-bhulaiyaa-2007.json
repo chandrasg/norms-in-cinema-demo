@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "19025",
+    "title": "Bhool Bhulaiyaa",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/soRW3p4GlPphHiFkwbqYGrodQ5S.jpg",
+    "overview": "NRI Siddharth Chaturvedi and his wife Avni return to Siddharth's family's ancestral Varanasi palace while disregarding warnings of a curse and paranormal phenomena. Soon enough, inexplicable events begin occuring, which forces Siddharth to consult the eccentric psychiatrist Aditya Shrivastav to help solve the mystery."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s563_bolly",
+      "emotion": "shame",
+      "dialogue": "Close the door and go to sleep! Walk in a group. Walk in a group. I am not ashamed to say that I am scared. Walk in a group. Walk in a group. Chandu, who has appointed these servants.",
+      "target_person": "Chandu",
+      "target_gender": "male",
+      "cause_raw": "appointing incompetent servants",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s564_bolly",
+      "emotion": "shame",
+      "dialogue": "I want to meet you, and that too alone. You scoundrel, swine, may you rot to death. Aren't you ashamed flirting with a lonely girl? Return my clothes! Quiet! Here! Here! Wear it! Who is it?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "flirting and disrespecting a woman",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s565_bolly",
+      "emotion": "shame",
+      "dialogue": "You have troubled me a lot. I am playing hide and seek with you. You come wherever I go. Aren't you ashamed? Come on, come out. Come out. - What is it?",
+      "target_person": "stalker",
+      "target_gender": "unclear",
+      "cause_raw": "stalking",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p246_bolly",
+      "emotion": "pride",
+      "dialogue": "My holidays are going on? Whatever I ask you, you spontaneously answer it. You are very proud. Why? I have been noticing that. . . wherever there is a doubt you are always there.",
+      "target_person": "<speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

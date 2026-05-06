@@ -1,0 +1,120 @@
+{
+  "film": {
+    "id": "363992",
+    "title": "The Wizard of Lies",
+    "year": "2017",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg",
+    "overview": "A look behind the scenes at Bernie Madoff's massive Ponzi scheme, how it was perpetrated on the public and the trail of destruction it left in its wake, both for the victims and Madoff's family."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS262_holly",
+      "emotion": "shame",
+      "dialogue": "That's your Honda Civic p***y.  Gets you where you wanna go.  No shame in this p***y at all.  Reliable. You just, you know,  you're not gonna be proud to be seen",
+      "target_person": "Honda Civic owner",
+      "target_gender": "unclear",
+      "cause_raw": "owning a modest car",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WS263_holly",
+      "emotion": "shame",
+      "dialogue": "Bernie: Ruth. Ruth.  Ruth, I need more pills.  Ruth.  Man: Have you no shame?  Hello?  Have you no shame?  No remorse?",
+      "target_person": "Bernie",
+      "target_gender": "male",
+      "cause_raw": "asking for more pills potential drug misuse)",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "WS264_holly",
+      "emotion": "shame",
+      "dialogue": "Ruth.  Man: Have you no shame?  Hello?  Have you no shame?  No remorse?  Have you no conscience?  You steal from widows,",
+      "target_person": "Ruth",
+      "target_gender": "female",
+      "cause_raw": "stealing from vulnerable individuals",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "WS265_holly",
+      "emotion": "shame",
+      "dialogue": "You prey on your own people.  You steal from your own people.  Have you no shame!?  - Huh? - Well, we're still here.  Man: Mr. Markopolos, it's all yours.",
+      "target_person": "Mr. Markopolos",
+      "target_gender": "male",
+      "cause_raw": "stealing and preying on people",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "WS266_holly",
+      "emotion": "shame",
+      "dialogue": "did not have the same opportunity  to protect our families.  Man: You have left your family with a legacy of shame.  You have a marriage made in hell,  and that is where you are going to return.",
+      "target_person": "Man",
+      "target_gender": "male",
+      "cause_raw": "neglecting family responsibilities",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP572_holly",
+      "emotion": "pride",
+      "dialogue": "No shame in this p***y at all.  Reliable. You just, you know,  you're not gonna be proud to be seen  riding around town in it, am I right?  - Nothing against her. - What's going on?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP573_holly",
+      "emotion": "pride",
+      "dialogue": "It's just hard because I know he's gonna be disappointed.  Well, I'm not.  I am very proud of you.  Thanks.  Andy's voice: Okay, I'll see you when I get home.",
+      "target_person": "Not specified",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP574_holly",
+      "emotion": "pride",
+      "dialogue": "maybe too much,  and for as long as I can remember,  I worked as hard as I could to make him proud.  And then one day,  I found out that my father was not the man I thought.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "hard work of the speaker",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

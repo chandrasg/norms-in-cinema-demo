@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "259042",
+    "title": "Bazaar",
+    "year": "1982",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2OT6ILOvQVtMFvrqdGGDT7RdpLr.jpg",
+    "overview": "Najma is in platonic love with Salim Akhtar but cannot marry him until he is financially stable. An elderly Shakir promises to help Akhtar set up his business in exchange for Najma finding a suitable bride for him."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s470_bolly",
+      "emotion": "shame",
+      "dialogue": "Scoundrel! This scoundrel is coming forward. Let's go. Don't you feel ashamed to intrude into the women's area? What is my fault in that? I was sitting peacefully.",
+      "target_person": "Intruder",
+      "target_gender": "male",
+      "cause_raw": "Intruding into women's area",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s471_bolly",
+      "emotion": "shame",
+      "dialogue": "What do you want? - I want to meet Najma. Najma is not feeling well! - I know....but if you.. - Simply refuses to leave! Such a shameless fellow! - Who is it, mother? Salim. I told him you're not feeling well.",
+      "target_person": "Salim",
+      "target_gender": "male",
+      "cause_raw": "Intruding despite being told not to",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s472_bolly",
+      "emotion": "shame",
+      "dialogue": "Our daughter will be disgraced by your coming here everyday. Who will marry her then? You neither have any shame, nor any worry about her reputation! Come. You cannot go with this worthless fellow.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "association with a man considered inappropriate",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

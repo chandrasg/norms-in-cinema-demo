@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "265289",
+    "title": "Purani Jeans",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/zv5zBTqLDeRICnHxROlipqKFbum.jpg",
+    "overview": "Purani Jeans is a film based on the belief that friendship is like a pair of old jeans—the more you wear them the better it gets. The summer now unfolds more dramatically as the boys make detrimental choices—of love, sex, friendship, jealousy, heartbreaks & betrayal, finally leading to broken bonds of friendship. The film travels with Siddharth as he explores equations with his past—to rebuild friendships with his four friends whom he grew up with in a small town in Himachal Pradesh in India. When Siddharth lands in India from the US, ghosts from his youth loom up. He finally overcomes the complications and sets right all the wrongs done in his past & rediscovers bonds of friendship.I n the end Siddharth goes back to New York a better man; reconciled with his past & most importantly rediscovering a happier today. He returns to New York with the belief that friendship is indeed like Purani Jeans, the older the better!!"
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1465_bolly",
+      "emotion": "shame",
+      "dialogue": "I am sorry. I...misjudged you. It's really okay. Even I am ashamed for my behavior....on the night of the party. Really sorry. I was an idiot. I just wanted to say that I..I.. - I love you too, beautiful nun.",
+      "target_person": "character 2",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior at a party",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1466_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't care about her anymore. And I don't care about you. You know what..I am ashamed to call you a friend. I am ashamed to call you a Kasauli Cowboy. You broke the Cowboy rules.",
+      "target_person": "friend",
+      "target_gender": "male",
+      "cause_raw": "breaking friendship rules",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1467_bolly",
+      "emotion": "shame",
+      "dialogue": "And I don't care about you. You know what..I am ashamed to call you a friend. I am ashamed to call you a Kasauli Cowboy. You broke the Cowboy rules. You broke the rules of friendship.",
+      "target_person": "friend",
+      "target_gender": "unclear",
+      "cause_raw": "breaking rules of friendship",
+      "theme_label": "Nonconformity"
+    }
+  ]
+}

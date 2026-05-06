@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "13571",
+    "title": "True Colors",
+    "year": "1991",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/iRchyRu07YagzHv9bQ7Jfz1CsAc.jpg",
+    "overview": "Two law school friends find themselves at odds when one becomes a Justice Department lawyer and the other goes into politics."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1058_holly",
+      "emotion": "shame",
+      "dialogue": "- Your mother and I are disappointed. - You'll have to try harder, that's all.  - How you doing? - Great. You?  - BJ said there was a fight. See it? - No... Yeah, a guy got what was coming to him and will live in shame for ever.  Yeah, a guy got what was coming to him and will live in shame for ever.  - I'm sorry I missed it... - Sorry, Doug Stubblefield, Peter Burton.",
+      "target_person": "Doug Stubblefield",
+      "target_gender": "male",
+      "cause_raw": "involved in a fight",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS1059_holly",
+      "emotion": "shame",
+      "dialogue": "- How you doing? - Great. You?  - BJ said there was a fight. See it? - No... Yeah, a guy got what was coming to him and will live in shame for ever.  Yeah, a guy got what was coming to him and will live in shame for ever.  - I'm sorry I missed it... - Sorry, Doug Stubblefield, Peter Burton.  Good to know you. I got a keg on ice, you won't believe who's here, so let's go.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "involved in a fight",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WP2018_holly",
+      "emotion": "pride",
+      "dialogue": "Rise for our National Anthem.  - If a guy promises the 50-yard line... - All right. It's the Banner.  What so proudly we hailed...  You've been buying drinks all weekend for the State of Florida.  Log-rolling. Yeah, I know. Meet Senator Lackerby.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2019_holly",
+      "emotion": "pride",
+      "dialogue": "The tough answer is because I'm not afraid to admit that I'm human.  I'm one of you.  I'm motivated, I'm proud,  I'm competitive and, yeah, sometimes I'm a little headstrong.  - Does that sound familiar? - Yes!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being human motivated competitive and headstrong",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

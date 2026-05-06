@@ -1,0 +1,93 @@
+{
+  "film": {
+    "id": "14604",
+    "title": "Hold That Ghost",
+    "year": "1941",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/9CPix9FAWSiUHoxcDOa8eWZYqJ8.jpg",
+    "overview": "Two bumbling service station attendants are left as the sole beneficiaries in a gangster's will. Their trip to claim their fortune is sidetracked when they are stranded in a haunted house along with several other strangers."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS526_holly",
+      "emotion": "shame",
+      "dialogue": "I what? Show the checker your slip.  I can't. Why not?  I'm ashamed to tell. I'm not wearing any. No, check on your food.  Me... and my shadow  Yes, sir",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "not wearing undergarments",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS527_holly",
+      "emotion": "shame",
+      "dialogue": "Look what you did to me! Get to work.  Now we're shadows. I'll get to work.  You ought to be ashamed of yourself. I am.  But I'm gonna make you proud of me. What do you mean?  I'm not gonna be a gas attendant all my life. I'm gonna have a club of my own.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "not fulfilling expectations or potential",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS529_holly",
+      "emotion": "shame",
+      "dialogue": "All right, wait a minute now. I'll open the door. You go ahead.  There you are... empty.  I should be ashamed of myself.  I'm gettin' to be a big sissy.  Oh, Charlie.",
+      "target_person": "Charlie",
+      "target_gender": "male",
+      "cause_raw": "self-shaming for showing emotional vulnerability",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS530_holly",
+      "emotion": "shame",
+      "dialogue": "And this place is just as much mine as it is yours.  You don't... Don't ever do this again.  You oughta be ashamed. Now clean it up!  Hey, Chuck?  Don't ever pull a knife on me!",
+      "target_person": "Chuck",
+      "target_gender": "male",
+      "cause_raw": "threatening with a knife",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "WP1111_holly",
+      "emotion": "pride",
+      "dialogue": "Now we're shadows. I'll get to work.  You ought to be ashamed of yourself. I am.  But I'm gonna make you proud of me. What do you mean?  I'm not gonna be a gas attendant all my life. I'm gonna have a club of my own.  I'm gonna have Ted Lewis and the Andrews Sisters. Own a nightclub!",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "owning a nightclub",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

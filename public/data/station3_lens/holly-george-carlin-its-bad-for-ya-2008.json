@@ -1,0 +1,167 @@
+{
+  "film": {
+    "id": "13643",
+    "title": "George Carlin: It's Bad for Ya!",
+    "year": "2008",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/m9fIvowFHpVjGn5OzFKudp2XJLD.jpg",
+    "overview": "It's Bad For Ya, Carlin's Emmy nominated 14th and final HBO special from March of 2008 features Carlin's noted irreverent and unapologetic observations on topics ranging from death, religion, bureaucracy, patriotism, overprotected children and big business to the pungent examinations of modern language and the decrepit state of the American culture."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 15
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 5
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 8
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP157_holly",
+      "emotion": "pride",
+      "dialogue": "and I question a lot of these things.  I'll give you an example.  I saw a slogan on a guy's car that said \"Proud to be an American.\"  And I thought, well, what the f**k does that mean?  Proud to be an American.",
+      "target_person": "guy",
+      "target_gender": "male",
+      "cause_raw": "being an American",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP158_holly",
+      "emotion": "pride",
+      "dialogue": "I saw a slogan on a guy's car that said \"Proud to be an American.\"  And I thought, well, what the f**k does that mean?  Proud to be an American.  You see, I've never understood national pride.  I've never understood ethnic pride.",
+      "target_person": "guy",
+      "target_gender": "male",
+      "cause_raw": "being an American",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP159_holly",
+      "emotion": "pride",
+      "dialogue": "And I thought, well, what the f**k does that mean?  Proud to be an American.  You see, I've never understood national pride.  I've never understood ethnic pride.  Because I'm Irish,",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being an American",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP160_holly",
+      "emotion": "pride",
+      "dialogue": "Proud to be an American.  You see, I've never understood national pride.  I've never understood ethnic pride.  Because I'm Irish,  and all four of my grandparents were born in Ireland, so I'm fully Irish.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being American",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP161_holly",
+      "emotion": "pride",
+      "dialogue": "and all four of my grandparents were born in Ireland, so I'm fully Irish.  And when I was a kid I would go to the St. Patrick's Day parade,  and I noticed they sold a button that said \"Proud to be Irish.\"  And I could never understand that because I knew  that on Columbus Day they sold a different button that said \"Proud to be Italian.\"",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being Irish",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP162_holly",
+      "emotion": "pride",
+      "dialogue": "and I noticed they sold a button that said \"Proud to be Irish.\"  And I could never understand that because I knew  that on Columbus Day they sold a different button that said \"Proud to be Italian.\"  Then came black pride and Puerto Rican pride.  And I could never understand ethnic or national pride",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP163_holly",
+      "emotion": "pride",
+      "dialogue": "And I could never understand that because I knew  that on Columbus Day they sold a different button that said \"Proud to be Italian.\"  Then came black pride and Puerto Rican pride.  And I could never understand ethnic or national pride  because to me pride should be reserved",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP164_holly",
+      "emotion": "pride",
+      "dialogue": "that on Columbus Day they sold a different button that said \"Proud to be Italian.\"  Then came black pride and Puerto Rican pride.  And I could never understand ethnic or national pride  because to me pride should be reserved  for something you achieve or attain on your own,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP165_holly",
+      "emotion": "pride",
+      "dialogue": "Then came black pride and Puerto Rican pride.  And I could never understand ethnic or national pride  because to me pride should be reserved  for something you achieve or attain on your own,  not something that happens by accident of birth.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP166_holly",
+      "emotion": "pride",
+      "dialogue": "Being Irish isn't a skill.  It's a f*****g genetic accident.  You wouldn't say \"I'm proud to be 5'11\".  I'm proud to have a predisposition for colon cancer.  So why the f**k would you be proud to be Irish",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP167_holly",
+      "emotion": "pride",
+      "dialogue": "It's a f*****g genetic accident.  You wouldn't say \"I'm proud to be 5'11\".  I'm proud to have a predisposition for colon cancer.  So why the f**k would you be proud to be Irish  or proud to be Italian or American or anything?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP168_holly",
+      "emotion": "pride",
+      "dialogue": "You wouldn't say \"I'm proud to be 5'11\".  I'm proud to have a predisposition for colon cancer.  So why the f**k would you be proud to be Irish  or proud to be Italian or American or anything?  Hey, if you're happy with it, that's fine.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP169_holly",
+      "emotion": "pride",
+      "dialogue": "I'm proud to have a predisposition for colon cancer.  So why the f**k would you be proud to be Irish  or proud to be Italian or American or anything?  Hey, if you're happy with it, that's fine.  Do that. Put that on your car. \"Happy to be an American.\"",
+      "target_person": "Speaker 1",
+      "target_gender": "male",
+      "cause_raw": "having a predisposition for colon cancer",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP170_holly",
+      "emotion": "pride",
+      "dialogue": "Hey, if you're happy with it, that's fine.  Do that. Put that on your car. \"Happy to be an American.\"  Be happy. Don't be proud. Too much pride as it is.  Pride goeth before a fall.  Never forget Proverbs, okay.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP171_holly",
+      "emotion": "pride",
+      "dialogue": "Do that. Put that on your car. \"Happy to be an American.\"  Be happy. Don't be proud. Too much pride as it is.  Pride goeth before a fall.  Never forget Proverbs, okay.  Now, here's another slogan -",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "film": {
+    "id": "481135",
+    "title": "Phool",
+    "year": "1993",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6CDOnwmTdSufgTai5uKaTaqnBbJ.jpg",
+    "overview": "Phool is a 1993 Bollywood film directed by Singeetam Srinivasa Rao starring Kumar Gaurav and Madhuri Dixit in lead roles along with Sunil Dutt and Rajendra Kumar in supporting roles."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 3
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 4
+    },
+    "pride": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1381_bolly",
+      "emotion": "shame",
+      "dialogue": "The young women of the same country are running....scared of a few thugs? They are searching for help? Shame. This country has no future. No future? - There is future. If you work with courage and help yourself.",
+      "target_person": "young women",
+      "target_gender": "female",
+      "cause_raw": "being scared and helpless",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1382_bolly",
+      "emotion": "shame",
+      "dialogue": "Grandmother! Grandmother! Child! Your father has a big textile industry. But doesn't he have enough clothes for you....that you have to roam naked? Aren't you ashamed? Grandmother! I came to ask you where Raju is. He has gone outside. - Where did he go?",
+      "target_person": "child",
+      "target_gender": "female",
+      "cause_raw": "inappropriate dressing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1383_bolly",
+      "emotion": "shame",
+      "dialogue": "My heaven is at your footstep. Oh my God! Hey you! - Aren't you ashamed? You think the mother is daughter and....the daughter is mother. I made a mistake. Please forgive me.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards women",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1384_bolly",
+      "emotion": "shame",
+      "dialogue": "Mr. Chaudhari. Mr. Chaudhari. I will kill you. - Please leave him. Leave him. Scoundrels. Aren't you ashamed? You are insulting the honor of Mr. Chaudhari. Mr. Chaudhari's honor is our honor..Honor of our village. Shameless fools!",
+      "target_person": "Mr. Chaudhari",
+      "target_gender": "male",
+      "cause_raw": "Insulting his honor",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1385_bolly",
+      "emotion": "shame",
+      "dialogue": "Scoundrels. Aren't you ashamed? You are insulting the honor of Mr. Chaudhari. Mr. Chaudhari's honor is our honor..Honor of our village. Shameless fools! Mr. Chaudhari, you can go. I apologize on their behalf. You go, Mr. Chaudhari.",
+      "target_person": "Mr. Chaudhari",
+      "target_gender": "male",
+      "cause_raw": "Insulting his honor",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1386_bolly",
+      "emotion": "shame",
+      "dialogue": "lam asking you what this is. Why are you quiet? Is this true? Shameless! Barefaced! Till today no one had the courage to lift a finger....at Chaudhari Balram. But today the whole town is maligning Chaudhari Balram.",
+      "target_person": "Chaudhari Balram",
+      "target_gender": "male",
+      "cause_raw": "Accused of a shameful act",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p738_bolly",
+      "emotion": "pride",
+      "dialogue": "I am scared of the tinkling of the anklet. I hide my glance because of shyness. I have started walking with a pride. I have started walking with a pride. I walk avoiding my earrings from kissing my cheeks.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p739_bolly",
+      "emotion": "pride",
+      "dialogue": "I hide my glance because of shyness. I have started walking with a pride. I have started walking with a pride. I walk avoiding my earrings from kissing my cheeks. Oh my God! The arrival of this new year is such that....it has changed my style.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "personal transformation",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p740_bolly",
+      "emotion": "pride",
+      "dialogue": "I would have gone to meet your father. And together we would have decided about....your life and your marriage. This would have increased our pride and the....name of your family. I am sorry, father. But I won't take you to my father. Why?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "decision about child's life and marriage",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p741_bolly",
+      "emotion": "pride",
+      "dialogue": "Those dreams which were the light of her eyes. And you took away that light. You are very proud and gallant about your wealth. Then go, get those dreams with your wealth. And get back my wife who is no more in this world.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "wealth",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

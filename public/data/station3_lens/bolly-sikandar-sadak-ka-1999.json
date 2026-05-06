@@ -1,0 +1,132 @@
+{
+  "film": {
+    "id": "919820",
+    "title": "Sikandar Sadak Ka",
+    "year": "1999",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/g2DFARxovtWB8oqEnCH8t6fNdgV.jpg",
+    "overview": "Sikandar is union leader of workers in a factory which is owned by Chawla a corrupt criminal lawyer . when he refuses to take bribe. Sikander and his family are killed .Sikander returns back. how will he face Chawla ?"
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 3
+    },
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 6
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4187_bolly",
+      "emotion": "shame",
+      "dialogue": "Police! The girls flicked away your purse? Yes. You should feel ashamed. If they felt the shame, would the girls have done such a thing? I'm not talking about the girls. I'm talking about you.",
+      "target_person": "police",
+      "target_gender": "male",
+      "cause_raw": "incompetence",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4188_bolly",
+      "emotion": "shame",
+      "dialogue": "The girls flicked away your purse? Yes. You should feel ashamed. If they felt the shame, would the girls have done such a thing? I'm not talking about the girls. I'm talking about you. You should feel ashamed.",
+      "target_person": "character being robbed",
+      "target_gender": "unclear",
+      "cause_raw": "being robbed by girls",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s4189_bolly",
+      "emotion": "shame",
+      "dialogue": "If they felt the shame, would the girls have done such a thing? I'm not talking about the girls. I'm talking about you. You should feel ashamed. Though you are a man, you got fooled by girls? You have put all the men to shame.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being fooled by girls",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4190_bolly",
+      "emotion": "shame",
+      "dialogue": "You should feel ashamed. Though you are a man, you got fooled by girls? You have put all the men to shame. I never expected that such a beautiful girl will deceive me. Kid! The second name for a girl is deceit.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being deceived by a woman",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4191_bolly",
+      "emotion": "shame",
+      "dialogue": "Then they vanished and you had to pay the bill. Exactly. Shame on this young man! But how do you know all about this? Were you too the victim of those girls?",
+      "target_person": "young man",
+      "target_gender": "male",
+      "cause_raw": "being tricked by girls",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4192_bolly",
+      "emotion": "shame",
+      "dialogue": "After I talked with your dad, I realised my mistake. If I had not reached on time, I'd have remained ashamed for my lifetime. Please forgive me. You are forgiven. Now take me to my home.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "not reaching on time",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4193_bolly",
+      "emotion": "shame",
+      "dialogue": "You have snatched my mother's happiness. You have made her suffer a lot. I am ashamed that you are my father and I'm your son. Remember this, the trauma my mother has undergone....the sorrows she has suffered, you'll suffer them from now, Dhanraj! I will snatch all the happiness from your life.",
+      "target_person": "Dhanraj",
+      "target_gender": "male",
+      "cause_raw": "causing suffering to his wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p2278_bolly",
+      "emotion": "pride",
+      "dialogue": "Oh, God! There's some trouble. Fool! The girl who hoodwinks people is standing near me. The one who is with you is so simple....that I'm proud that I must have done some good jobs....in my previous life that God gave me such a daughter. Do you understand? Don't worry. Your daughter is safe. It'll be better if she is safe.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "having a simple and good daughter",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p2279_bolly",
+      "emotion": "pride",
+      "dialogue": "Few days earlier your father met me and perhaps that's why he..And you hid it from me till today? You suffered all the sorrows and didn't let me suffer any? I am proud of you, Mother. Don't worry, Mom. I will take revenge from them now. Now I won't spare them, Mom.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "mother's strength and sacrifice",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

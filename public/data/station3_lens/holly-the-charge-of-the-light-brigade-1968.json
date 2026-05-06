@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "42193",
+    "title": "The Charge of the Light Brigade",
+    "year": "1968",
+    "industry": "holly",
+    "country": "GB",
+    "poster_path": "/6mh7BKo0AFjweVGnUyNTbtCK1HN.jpg",
+    "overview": "During the Crimean War between Britain and Russia in the 1850s, a British cavalry division, led by the overbearing Lord Cardigan, engages in an infamously reckless strategic debacle against a Russian artillery battery."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1277_holly",
+      "emotion": "shame",
+      "dialogue": "Try not to hit him, Nolan. We must remember our rank.  You blackguard, what do you whisper?  I am ashamed that you are not polite to our rank. We are your own officers.  Officer? Paymaster Duberly!  That ain't a rank, it's a trade.",
+      "target_person": "Nolan",
+      "target_gender": "male",
+      "cause_raw": "disrespecting rank and authority",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "WS1278_holly",
+      "emotion": "shame",
+      "dialogue": "If poor, brave, weak little, sick little Turkey... ”The sick man of Europe. ”  ”The sick man of Europe. ”  Yes, though I prefer to consider her as a young lady, hands up, flutter... ...defenseless. If she should fall to the tyrant... If the Turks go down like cards, flip-flop... ...then next up our own Solent... ...and our own Queen, will come the Russians, ships and guns... ...to rip our country into shame.  ...to rip our country into shame.  The Russians. The Russians.",
+      "target_person": "Turkey",
+      "target_gender": "unclear",
+      "cause_raw": "being weak and defenseless",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1279_holly",
+      "emotion": "shame",
+      "dialogue": "”The sick man of Europe. ”  Yes, though I prefer to consider her as a young lady, hands up, flutter... ...defenseless. If she should fall to the tyrant... If the Turks go down like cards, flip-flop... ...then next up our own Solent... ...and our own Queen, will come the Russians, ships and guns... ...to rip our country into shame.  ...to rip our country into shame.  The Russians. The Russians.  The Russians. The Russians. The Russians.",
+      "target_person": "Europe",
+      "target_gender": "female",
+      "cause_raw": "being defenseless and susceptible to invasion",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}

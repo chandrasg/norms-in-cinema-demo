@@ -1,0 +1,81 @@
+{
+  "film": {
+    "id": "120139",
+    "title": "Brother's Keeper",
+    "year": "2002",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ckhTQSNy12LWkaBqFaW0SW0xyXc.jpg",
+    "overview": "The FBI sought the help of Lucinda Pond, a former agent of the body, to try to locate the author of a series of murders that allegedly may have committed his brother. Lucinda, who left the police years ago, decides to help reluctantly convinced by an old boyfriend. The tracks are directly related to the abuse that Lucinda and her brother suffered during his childhood, which seems to be in the suspect has caused a serious psychological disorder."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP285_holly",
+      "emotion": "pride",
+      "dialogue": "And, uh, I think you guys have been doing a good job  of keeping that alive.  And I'm proud of you.  Now, we're here for one reason, we're here  so you guys can talk about the stuff",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "keeping something alive not explicit)",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP286_holly",
+      "emotion": "pride",
+      "dialogue": "Let's go, Zay. Come on.  Nah, bro. I'ma stay.  Grandpa would be real proud of you.  - What'd you say? - You heard me.  I said Grandpa would be real proud of you, man.",
+      "target_person": "Grandpa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP287_holly",
+      "emotion": "pride",
+      "dialogue": "Grandpa would be real proud of you.  - What'd you say? - You heard me.  I said Grandpa would be real proud of you, man.  Grandpa ain't here no more.  Hey, hey.",
+      "target_person": "Grandpa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP288_holly",
+      "emotion": "pride",
+      "dialogue": "Hey, hey.  Here's for your Grandpa, homie, right there.  Yeah, Grandpa would be real proud of you.  Boo, the big football star.  You're my b***h, homes!",
+      "target_person": "Grandpa",
+      "target_gender": "male",
+      "cause_raw": "becoming a football star",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP289_holly",
+      "emotion": "pride",
+      "dialogue": "For every single person that believes in you.  And I love every one of you for it.  I am extremely proud of what you have already accomplished  and for what you are fixing to accomplish.  Yeah!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "accomplishments of the people he/she is addressing",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

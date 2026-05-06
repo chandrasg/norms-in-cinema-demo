@@ -1,0 +1,116 @@
+{
+  "film": {
+    "id": "35053",
+    "title": "Darr",
+    "year": "1993",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6y601CavDK46ap8uxeoXxpArU8p.jpg",
+    "overview": "A woman is caught between one man's love and another man's obsession. She fears one and fears for the other. One stands for love and the other for life. Who will she choose?"
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 3
+    },
+    {
+      "label": "Promiscuity",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s906_bolly",
+      "emotion": "shame",
+      "dialogue": "He didn't even come to the station. I won't spare him when he meets me. You shameless fellow! You are always scaring me! I felt as if some dead body fell on me- You're mad!",
+      "target_person": "unidentified character",
+      "target_gender": "male",
+      "cause_raw": "not fulfilling a commitment",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s907_bolly",
+      "emotion": "shame",
+      "dialogue": "Have you gone mad? It's fun to bathe together after playing Holi! You shameless fellow! They haven't been rewarded! Do you have money? I will take it back!",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s908_bolly",
+      "emotion": "shame",
+      "dialogue": "Where? - To Brabourne Stadium- Nobody must've celebrated his honeymoon the way I did- Shameless fellow. Does one tell people about one's honeymoon? I had celebrated my honeymoon in public. Do you know how? You had even celebrated-? What did you do?",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "discussing intimate details publicly",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s909_bolly",
+      "emotion": "shame",
+      "dialogue": "-I feel that they can need me any time. That's why I always keep myself ready- Congratulations Sir. - What for? It's a matter of shame. They've scored just 102 runs in 40 overs. If I had been in their place I would've committed suicide.",
+      "target_person": "cricket team",
+      "target_gender": "unclear",
+      "cause_raw": "poor performance in cricket",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4904_bolly",
+      "emotion": "shame",
+      "dialogue": "Where?   - To Brabourne Stadium. Nobody must've celebrated his   honeymoon the way I did. Shameless fellow. Does one tell   people about one's honeymoon? I had celebrated my honeymoon in public. Do you know how I had   celebrated my wedding night?",
+      "target_person": "Character 1",
+      "target_gender": "male",
+      "cause_raw": "Sharing personal intimate details",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s4905_bolly",
+      "emotion": "shame",
+      "dialogue": "Considering our team's   condition these days......I feel that they can   need me any time. That's why I always   keep myself ready. Congratulations, Sir.   - What for? It's a matter of shame. They've scored just   102 runs in 40 overs. If I had been in their place,   I would've committed suicide.",
+      "target_person": "cricket team",
+      "target_gender": "unclear",
+      "cause_raw": "poor performance",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p467_bolly",
+      "emotion": "pride",
+      "dialogue": "Their boat is anchored in the middle of the ocean. The child is there. Sunil we are all proud of the task executed by you and your unit. As long as we have brave men like you..-the enemies of peace can never succeed in our country. I thank you all on behalf of the government-",
+      "target_person": "Sunil",
+      "target_gender": "male",
+      "cause_raw": "bravery and successful task execution",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p468_bolly",
+      "emotion": "pride",
+      "dialogue": "Do away with the veil of your tresses- let me see your pretty face Proud lithesome..\"walk up to me-\" for these are the traits I so dearly love It's all over the winds",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "film": {
+    "id": "168159",
+    "title": "Johar-Mehmood in Goa",
+    "year": "1965",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/aPbUsdNguSfkbrtB7UOMJ1WnXhL.jpg",
+    "overview": "Mary and Peter fall in love with each other and are about to get married, when Peter is asked to re-join his regiment to go to war. Shortly thereafter, he is missing, believed to be dead, leaving behind a devastated Mary who subsequently gives birth to twins, and leaves them on the doorsteps of two Goan households, and becomes a nun. Twenty four years later, India is a free country, while Goa is under the rule of the Portugese, Mary is the Mother Superior; Peter, who is still alive, is the Deputy Superintendent of Police in Goa, who has been entrusted the task of apprehending two revolutionaries by the name of Ram and Rahim - none other than his very own sons. Watch what happens when duo unleash a series of attacks against the oppressive Portugese regime, including robbing the Bank of Portugal, disrobing an arrogant Superindent of Police, Alburqueue, then setting his house on fire, joining hands with dreaded bandit Daler Singh, and abducting the daughter of the Goa's Hakim, Rita."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 3
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2786_bolly",
+      "emotion": "shame",
+      "dialogue": "How nonsense! Sit down. It's a shame for us....that Ram and Rahim in broad daylight....attack police station, treasures....and courts and escape. And we're left staring each other. It's important to save the government's honor.",
+      "target_person": "Government",
+      "target_gender": "unclear",
+      "cause_raw": "inability to maintain law and order",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s2787_bolly",
+      "emotion": "shame",
+      "dialogue": "I understood. Son! Kidnapping any women is a shame for our culture. You never thought about our Indian women....who wer e harassed by Portuguese. They've treated them so badly.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "kidnapping and harassing women",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2788_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't force us to tr eat you badly. We gave you our religion....respect, manners..On top of that you're helping freedom fighters. That is shameful. God has given me my religion. You've made us slaves.",
+      "target_person": "character being forced",
+      "target_gender": "unclear",
+      "cause_raw": "supporting freedom fighters",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1457_bolly",
+      "emotion": "pride",
+      "dialogue": "An iron elephant is our carriage. An iron elephant is our carriage. We are going with pride..''..as government grooms.:' We are going with pride.. ..as government grooms..''We are going towards our destination.'' We are going towards our destination.",
+      "target_person": "characters",
+      "target_gender": "unclear",
+      "cause_raw": "becoming government grooms",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1458_bolly",
+      "emotion": "pride",
+      "dialogue": "An iron elephant is our carriage. We are going with pride..''..as government grooms.:' We are going with pride.. ..as government grooms..''We are going towards our destination.'' We are going towards our destination. These are our adornments.",
+      "target_person": "characters",
+      "target_gender": "unclear",
+      "cause_raw": "becoming government grooms",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1459_bolly",
+      "emotion": "pride",
+      "dialogue": "One. Two. Three. Very good, sister. We're proud to make you our party member. Thank you, my boy. Good luck. I'll go now.",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "becoming a party member",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1460_bolly",
+      "emotion": "pride",
+      "dialogue": "Very nice food. In a few days I've learnt....Hindi language, Indian food..I read Quran, Ramayan and Bible too....and to feel shy like an Indian girl also. I'm proud of you. Ask! What do you want? When Ravana had kidnapped Sita....Ram had fought with Ravan.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "learning about Indian culture",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

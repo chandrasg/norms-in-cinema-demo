@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "13183",
+    "title": "Watchmen",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/u0ROjy3KPzMDTipqCrwD8LwkKSQ.jpg",
+    "overview": "In a gritty and alternate 1985, the glory days of costumed vigilantes have been brought to a close by a government crackdown. But after one of the masked veterans is brutally murdered, an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so they uncover a sinister plot that puts all of humanity in grave danger."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Deception",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1353_holly",
+      "emotion": "shame",
+      "dialogue": "This represents the culmination of a dream more than 2000 years old... ...a dream now assured because of your unquestioning assistance.  ...a dream now assured because of your unquestioning assistance.  And for this... ...I am ashamed... ...ashamed that you must now share such inadequate a reward.  ...ashamed that you must now share such inadequate a reward.  To the pharaohs... ...their greatest secrets entrusted to their servants... ...buried alive with them in sand-floored chambers.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "not providing adequate reward",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1354_holly",
+      "emotion": "shame",
+      "dialogue": "...a dream now assured because of your unquestioning assistance.  And for this... ...I am ashamed... ...ashamed that you must now share such inadequate a reward.  ...ashamed that you must now share such inadequate a reward.  To the pharaohs... ...their greatest secrets entrusted to their servants... ...buried alive with them in sand-floored chambers.  ...buried alive with them in sand-floored chambers.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "not providing adequate reward",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1355_holly",
+      "emotion": "shame",
+      "dialogue": "What you must think of me.  I'm sorry I never told you.  I should have... ...but I don't know, I just felt ashamed. I felt stupid.  ...but I don't know, I just felt ashamed. I felt stupid.  It doesn't matter.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "hiding the truth",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "WS1356_holly",
+      "emotion": "shame",
+      "dialogue": "I'm sorry I never told you.  I should have... ...but I don't know, I just felt ashamed. I felt stupid.  ...but I don't know, I just felt ashamed. I felt stupid.  It doesn't matter.  People's lives take them strange places. They do strange things... ...and, well, sometimes they can't talk about them.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "hiding the truth",
+      "theme_label": "Deception"
+    }
+  ]
+}

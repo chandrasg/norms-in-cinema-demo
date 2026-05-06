@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "272218",
+    "title": "Jab Pyar Kisise Hota Hai",
+    "year": "1961",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/i2mgQDDnAnZuANSuv5WKZrGYWTi.jpg",
+    "overview": "About to be married, Nisha learns that Sunder had already been married to another woman, whom he is accused of murdering. And Sunder scrambles to come up with an explanation and absolve himself."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2645_bolly",
+      "emotion": "shame",
+      "dialogue": "In which case, I'll wake him myself. Suraj is sleeping, isn't he? Aren't you ashamed of lying? Forgive me! I lied to you! Please forgive me! - I want to talk to Suraj. - Who is this?",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2646_bolly",
+      "emotion": "shame",
+      "dialogue": "- The chill. - Chill? You got us killed! Aren't they ashamed to trail behind an old man? - Call them here. - Here they are. You can't do any better after a night of drinking.",
+      "target_person": "young men",
+      "target_gender": "male",
+      "cause_raw": "inability to perform tasks due to drinking",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s2647_bolly",
+      "emotion": "shame",
+      "dialogue": "No kidding. Tell me. The day after tomorrow. Shame! Aren't you wearing pants? - Of course. Shorts. Move. - You aren't asleep yet? - I can't sleep alone. I'm scared.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "not wearing pants",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2648_bolly",
+      "emotion": "shame",
+      "dialogue": "I have just come to know about it. I decided to come oven as soon as I came to know. You should be ashamed! The wedding is to take place this evening! And you come to us with this news up in the morning!",
+      "target_person": "messenger",
+      "target_gender": "unclear",
+      "cause_raw": "delivering bad news at the last moment",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2649_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you saying?! If this marriage is cancelled, my daughter will be ruined! And if she marries him, she's going to die of shame. You must send the b*****d away. You must choose one.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "cancelling marriage",
+      "theme_label": "Marital Status"
+    }
+  ]
+}

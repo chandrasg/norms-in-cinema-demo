@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "215322",
+    "title": "Rishtey",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/Apm7IbwR26Q1kl1yUckPPmAZEUZ.jpg",
+    "overview": "Suraj Singh is a wrestler by profession and has the misfortune of falling in love with wealthy Yashpaul Chaudhary's daughter Komal. When Yashpaul learns of there relationship he arrogantly disagrees of his daughter's choice but Komal refuses to accept her dad's word and gets married to Suraj without the blessings of Yashpaul. Aggravated by his daughter's act Yashpaul connote some negative scenes which spoil Suraj's character in the eyes of Komal resulting in the couple's separation. Before separation, Komal has given birth to a baby boy, which Yashpaul had wanted to kill but Suraj escapes with the child and single-handily brings him up in a poor environment. Years later Komal will return and demand that her child is handed over to her even if having to appeal to the judicial system."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1689_bolly",
+      "emotion": "shame",
+      "dialogue": "What did you give me to drink last night? What was it? - A calming pill in the sherbet I thought it would be fun. - Weren't you ashamed? Weren't you ashamed to do something so cheap? What are you watching? Get lost! - Why're you yelling at me?",
+      "target_person": "character who spiked the drink",
+      "target_gender": "unclear",
+      "cause_raw": "spiking someone's drink",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1690_bolly",
+      "emotion": "shame",
+      "dialogue": "What was it? - A calming pill in the sherbet I thought it would be fun. - Weren't you ashamed? Weren't you ashamed to do something so cheap? What are you watching? Get lost! - Why're you yelling at me? Had Karan's mother been alive, would you have shouted at her like this?",
+      "target_person": "Karan",
+      "target_gender": "male",
+      "cause_raw": "drugging someone",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "p888_bolly",
+      "emotion": "pride",
+      "dialogue": "and invite him to the dais. Come, son. Congratulations. Here's your trophy We are proud of you. - Sir, I wish to say something We say a prayer in school everyday which tells us. that it's God who made the world. He's the master of everything",
+      "target_person": "Raju",
+      "target_gender": "male",
+      "cause_raw": "Sports achievement",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p889_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm the one who had him separated from his wife And God has punished me for my sins This was a body I was proud of. and this is how it is today My husband has left me. I went begging from door to door",
+      "target_person": "character",
+      "target_gender": "female",
+      "cause_raw": "physical appearance",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

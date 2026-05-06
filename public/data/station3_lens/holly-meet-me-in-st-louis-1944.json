@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "909",
+    "title": "Meet Me in St. Louis",
+    "year": "1944",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ekVeUvG81pidsv2LMtWf5yYcNbq.jpg",
+    "overview": "A year in the life of a turn-of-the-century middle class family, leading up to the opening of the 1904 St. Louis World's Fair."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "female": 3,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS590_holly",
+      "emotion": "shame",
+      "dialogue": "Well... ...if you two won't go with each other, I won't go either.  ...if you two won't go with each other, I won't go either.  You ought to be ashamed, wrecking your poor sister's evening.  Rose? I'd be willing... ...I mean, glad to... - You would, Lon? - I was going to ask you anyhow, but l... You two will have the best time of anybody.  You two will have the best time of anybody.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "ruining someone else's plans",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WP1254_holly",
+      "emotion": "pride",
+      "dialogue": "Don't you think I could be a sensation without the corset?  You're competing with an Eastern girl. I'll wager she doesn't move without a corset.  Well, I certainly don't relish wearing this thing... ...but pride has come to the rescue. For tonight, I'll do anything.  ...but pride has come to the rescue. For tonight, I'll do anything.  It'll be worth it. If we create a breathtaking effect... ...it'll be simple to monopolie all the worthwhile men.",
+      "target_person": "female speaker",
+      "target_gender": "female",
+      "cause_raw": "creating a breathtaking effect",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1255_holly",
+      "emotion": "pride",
+      "dialogue": "You're competing with an Eastern girl. I'll wager she doesn't move without a corset.  Well, I certainly don't relish wearing this thing... ...but pride has come to the rescue. For tonight, I'll do anything.  ...but pride has come to the rescue. For tonight, I'll do anything.  It'll be worth it. If we create a breathtaking effect... ...it'll be simple to monopolie all the worthwhile men.  ...it'll be simple to monopolie all the worthwhile men.",
+      "target_person": "female speaker",
+      "target_gender": "female",
+      "cause_raw": "creating a breathtaking effect to monopolize worthwhile men",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1256_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, Grandpa, you're the first human being... ...I've danced with all evening.  ...I've danced with all evening.  Esther, I wouldn't want this rumored about... ...but I'm pretty proud of you.  ...but I'm pretty proud of you.  It's our last dance in St. Louis.",
+      "target_person": "Grandpa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1257_holly",
+      "emotion": "pride",
+      "dialogue": "...I've danced with all evening.  Esther, I wouldn't want this rumored about... ...but I'm pretty proud of you.  ...but I'm pretty proud of you.  It's our last dance in St. Louis.  I feel like I'm gonna cry.",
+      "target_person": "Esther",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1258_holly",
+      "emotion": "pride",
+      "dialogue": "- I guess maybe I was kind of... - Oh, John.  No one could have done it more beautifully.  I'm very proud.  Esther, will you?  - Will you, Esther? - Of course I will, John.",
+      "target_person": "John",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

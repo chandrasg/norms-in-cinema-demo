@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "1460735",
+    "title": "The Story of My Summer Break",
+    "year": "",
+    "industry": "holly",
+    "country": "BA",
+    "poster_path": "/iPxCwgZkFdrM5WOC1BWNaIcDzx6.jpg",
+    "overview": "Nenad insists on a family trip to a lake, hoping to reconnect with his teenage daughter Mia, who resists joining. Tensions rise, but along the way, Mia stumbles upon a troubling discovery about her father that changes the meaning of their journey."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 3,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS461_holly",
+      "emotion": "shame",
+      "dialogue": "I can see the headlines now.  \"Father and Son Burn Uncle In Makeshift Viking Funeral.\"  \"Wife and Children Shamed.\"  Is this legal?  So, what do we do?",
+      "target_person": "Father and Son",
+      "target_gender": "male",
+      "cause_raw": "conducting an unorthodox funeral",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "WP988_holly",
+      "emotion": "pride",
+      "dialogue": "Suzie, Suzie, I am so flattered. OK? But we gotta let this go.  Because the truth is, guilt is stronger than lust.  I was so proud of you. You did so good.  Let's put this right here, so Dad can't miss it when he comes in.  Wonderful.",
+      "target_person": "Suzie",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP989_holly",
+      "emotion": "pride",
+      "dialogue": "I think of the word, \"grace\".  That was a word that was invented for her.  She set the standard... in loyalty, family pride  in loyalty, family pride  and love.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP990_holly",
+      "emotion": "pride",
+      "dialogue": "That was a word that was invented for her.  She set the standard... in loyalty, family pride  in loyalty, family pride  and love.  She taught me well,",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "for teaching loyalty family pride and love",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "WP991_holly",
+      "emotion": "pride",
+      "dialogue": "Doesn't mean I don't.  And I love you, too, Dad.  I'm not always proud of my behaviour.  Nobody is.  And, Alex, you're a much better father than I was.",
+      "target_person": "Alex",
+      "target_gender": "male",
+      "cause_raw": "being a better father",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

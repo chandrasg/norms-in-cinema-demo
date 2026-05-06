@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "318106",
+    "title": "Hawaizaada",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/hfva9KEVTRvYQpq7mdlTmM9KVLM.jpg",
+    "overview": "In 1895, Shivkar Bapuji Talpade constructs and flies India's first unmanned plane, despite having the odds stacked against him."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 3
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2342_bolly",
+      "emotion": "shame",
+      "dialogue": "We||...don't get your cataract treated. And you won't ever see anything again. Shivy. Quiet. Aren't you ashamed? What shame, mother? If he had any shame, he would know....that boys half his age are struggling for independence.",
+      "target_person": "Shivy",
+      "target_gender": "male",
+      "cause_raw": "lack of participation in independence struggle",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2343_bolly",
+      "emotion": "shame",
+      "dialogue": "And you won't ever see anything again. Shivy. Quiet. Aren't you ashamed? What shame, mother? If he had any shame, he would know....that boys half his age are struggling for independence. And he's blabbering nonsense.",
+      "target_person": "Shivy",
+      "target_gender": "male",
+      "cause_raw": "Not contributing to the struggle for independence",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2344_bolly",
+      "emotion": "shame",
+      "dialogue": "Shivy. Quiet. Aren't you ashamed? What shame, mother? If he had any shame, he would know....that boys half his age are struggling for independence. And he's blabbering nonsense. Brother, only slaves fight for liberty.",
+      "target_person": "Shivy",
+      "target_gender": "male",
+      "cause_raw": "Not participating in the fight for independence",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1220_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't lose tomorrow, Shivy. Don't lose tomorrow. Make India proud! 'I will wear this the day...l take off in an airplane.' With a bag full of memories...“And a trunk stuffed with love...“\"Turned the key, seatbelts fastened...\"\"Turned the key, seatbelts fastened...\"\"Time to go kiss the moon.\"",
+      "target_person": "Shivy",
+      "target_gender": "male",
+      "cause_raw": "representing India",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

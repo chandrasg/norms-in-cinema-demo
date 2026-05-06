@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "35561",
+    "title": "Arizona",
+    "year": "1940",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/qDOcNRXtYJzvqAGmkeubVd17xsG.jpg",
+    "overview": "Phoebe Titus is a tough, swaggering pioneer woman, but her ways become decidedly more feminine when she falls for California bound Peter Muncie. But Peter won't be distracted from his journey and Phoebe is left alone and plenty busy with villains Jefferson Carteret and Lazarus Ward plotting at every turn to destroy her freighting company. She has not seen the last of Peter, however."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1280_holly",
+      "emotion": "shame",
+      "dialogue": "...and every morning he'd be out there looking for footprints in the dirt.  But my father always said that work was like a hat you put on your head.  And even if you didn't have pants, you didn't have to walk down the street ashamed of your a*s.  'Cause you had a hat.  One of the other things I was sure about my life was:..",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "not working or being unemployed",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1281_holly",
+      "emotion": "shame",
+      "dialogue": "- No! - Yes, you think! You think I'm old.  Don't tell me what I think.  That's why you wanna go by train, you're ashamed to be with me!  I'm not ashamed, Elaine. I'm gonna go trade these tickets in.  No! No, no, no! Listen! I don't blame you. You're right!",
+      "target_person": "Elaine",
+      "target_gender": "female",
+      "cause_raw": "ageism",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1282_holly",
+      "emotion": "shame",
+      "dialogue": "Don't tell me what I think.  That's why you wanna go by train, you're ashamed to be with me!  I'm not ashamed, Elaine. I'm gonna go trade these tickets in.  No! No, no, no! Listen! I don't blame you. You're right!  I'm old, you're young. You're right! It's disgusting!",
+      "target_person": "Elaine",
+      "target_gender": "female",
+      "cause_raw": "age difference in relationship",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WS1283_holly",
+      "emotion": "shame",
+      "dialogue": "I don't know why, but... my father's words jumped back into my head.  You know that work was like a hat that you put on your head...  ...and even if you didn't have pants, you didn't have to walk down the street being ashamed of your a*s...  ...because you had a hat.  And even though my uncle Leo worked for everything he got...",
+      "target_person": "Uncle Leo",
+      "target_gender": "male",
+      "cause_raw": "not having a job",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2294_holly",
+      "emotion": "pride",
+      "dialogue": "You got big on me!  - I guess you heard about the wedding? - I did. Oh, congratulations, Leo.  Thank you! I'd be especially proud if you'd be my best man.  I wish I could, I've... I've gotta get back to New York tonight.  Sure... Larry, we have to make Axel an appointment tomorrow for a fitting.",
+      "target_person": "Leo",
+      "target_gender": "male",
+      "cause_raw": "getting married",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

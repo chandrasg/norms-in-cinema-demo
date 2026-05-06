@@ -1,0 +1,69 @@
+{
+  "film": {
+    "id": "465656",
+    "title": "Kedarnath",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/viq6ltqew6ZU6dur1FUVKpf9tiZ.jpg",
+    "overview": "Mansoor, a reserved and reticent Pithoo (porter), helps pilgrims make an arduous journey upwards to the temple town. His world turns around when he meets the beautiful and rebellious Mukku who draws him into a whirlwind of intense love."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3032_bolly",
+      "emotion": "shame",
+      "dialogue": "Why don't you ask your Allah? All you Gods above, please save us! 'Here goes a sixer!' Shameless. Come on... Come home now! Man of the match... Shall we? Someone stole the signboard again?",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s3033_bolly",
+      "emotion": "shame",
+      "dialogue": "No. The meeting of scent and air. Feels like a sin..Don't you have any shame? A girl is looking at you like that and you won't even look back at her. Stay buried in that phone like lice in hair.",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "not reciprocating a girl's interest",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3034_bolly",
+      "emotion": "shame",
+      "dialogue": "He made a mistake! Please forgive him...Kulluji he will die...Kulluji please forgive us...You won't see him here again...Lata...get ready...she's getting married tomorrow. You just had him beaten him up so severely...give him a few days to recover. Is there any limit to your shamelessness? You stripped me of all shame the day you got me engaged to Kullu. If you let me marry Mansoor... - That is impossible!",
+      "target_person": "Lata's parent",
+      "target_gender": "female",
+      "cause_raw": "forcing their daughter into an unwanted marriage",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3035_bolly",
+      "emotion": "shame",
+      "dialogue": "You just had him beaten him up so severely...give him a few days to recover. Is there any limit to your shamelessness? You stripped me of all shame the day you got me engaged to Kullu. If you let me marry Mansoor... - That is impossible! Even if all hell breaks loose...Then I shall pray day and night that it does...Tomorrow morning 8 am is the auspicious time...9 am... farewell...after that never show me your cursed face again!",
+      "target_person": "Kullu's fiance",
+      "target_gender": "female",
+      "cause_raw": "choosing her own life partner",
+      "theme_label": "Romantic Expression"
+    }
+  ]
+}

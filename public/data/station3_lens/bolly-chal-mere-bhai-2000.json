@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "161221",
+    "title": "Chal Mere Bhai",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/7eyv5NxoQFwFGYwi2je4ryayYWb.jpg",
+    "overview": "Vicky, a businessman, loves his younger brother Prem, who spends his time chasing women. The family feels that secretary Sapna will make a good wife for Vicky, but she is already in love with Prem."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s700_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you laughing, shorty? - Here she comes. - Why have you come here? - What is it? - Grandma...Aren't you ashamed to ogle at two young men? What sorry? Pick that up and pass it to me. Forget it.",
+      "target_person": "grandma",
+      "target_gender": "female",
+      "cause_raw": "ogling at young men",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s701_bolly",
+      "emotion": "shame",
+      "dialogue": "There's a lot of difference in yourworking style and mine. What will the horse eat if he befriends the grass? Aren't you ashamed to be lying to my Dad? Had I told him the truth he would have been hurt. - You should have let him be hurt! - He thinks you've come here to work.",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p359_bolly",
+      "emotion": "pride",
+      "dialogue": "She has come to her uncle not you. Don't be rude to her today. - Why? - She's a very proud girl. - She's come here to look for a job. You've neverfound a job. How will she get one? I'm sure I'll get this job!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "confidence in getting a job",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

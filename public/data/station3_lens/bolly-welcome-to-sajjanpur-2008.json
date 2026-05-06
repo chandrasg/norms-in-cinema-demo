@@ -1,0 +1,139 @@
+{
+  "film": {
+    "id": "35695",
+    "title": "Welcome to Sajjanpur",
+    "year": "2008",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/aKutRHnTtuuVJsaX4BHE275871.jpg",
+    "overview": "Mahadev (Shreyas Talpade) is an unemployed graduate with a Bachelor of Arts from Satna college, who is forced to make a living writing letters for the uneducated people of his village. His real ambition is to become a novel writer. Through his humble occupation, Mahadev has the potential to impact numerous lives. The movie is a satirical, but warm-hearted portrait of life in rural India."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 4
+    },
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4577_bolly",
+      "emotion": "shame",
+      "dialogue": "The witch got scared as soon as she was caught in the act. Yes? She couldn't bear her shame and..What did she do? There was a sickle lying nearby. - A sickle? She picked up the sickle and chopped off her head.",
+      "target_person": "witch",
+      "target_gender": "female",
+      "cause_raw": "practicing witchcraft",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4578_bolly",
+      "emotion": "shame",
+      "dialogue": "I've been waiting for you for so long. - So, tell me. What's the matter? Write a nice letter for me. Shame on you. An educated person and a compounder. And you can't you write a letter? Mahadev, it's not an ordinary letter.",
+      "target_person": "Mahadev",
+      "target_gender": "male",
+      "cause_raw": "illiteracy",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4579_bolly",
+      "emotion": "shame",
+      "dialogue": "You are a genius at writing. If you had written like this for yourself....you would've gotten married by now and become a father of 20. Shame on you, Ramkumar! You preach family planning and....you bless me with 20 children. I was joking! I meant you are not married yet and..What do you mean not married yet? Who is not married yet? Am I impotent?",
+      "target_person": "Ramkumar",
+      "target_gender": "male",
+      "cause_raw": "not being married",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4580_bolly",
+      "emotion": "shame",
+      "dialogue": "The witch got scared as soon as she was caught in the act. Yes? She couLdnt bear her shame and..What did she do? There wasa sickLe Lying nearby. -AsickLe? She picked up the sickLe and chopped off her head.",
+      "target_person": "witch",
+      "target_gender": "female",
+      "cause_raw": "being caught doing something wrong",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4581_bolly",
+      "emotion": "shame",
+      "dialogue": "i've been waiting for you.. - Yes. teLL me what happened. Write a nice Letter for me. Shame on you. An educated person and a compounder. And you cant you write a Letter? Mahadev. its not an ordinary Letter. -Then?",
+      "target_person": "Mahadev",
+      "target_gender": "male",
+      "cause_raw": "lack of skills to write a letter",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4582_bolly",
+      "emotion": "shame",
+      "dialogue": "You have such knowLedge. if you had written Like this for yourseLf....you wouLdve gotten married by now and become a father of 20. Shame on you. Ramkumar! You preach famiLy pLanningand....you bLess me with 20 chiLdren. I was joking! I meant you are not married yet and..What do you mean not married yet? What do you mean not married yet? Who is not married yet?",
+      "target_person": "Ramkumar",
+      "target_gender": "male",
+      "cause_raw": "not being married",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p2584_bolly",
+      "emotion": "pride",
+      "dialogue": "We have a democracy. It's a government for the people, of the people, by the people. We are proud of our Democracy It is people's rule. We are proud of our Democracy",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Democracy",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2585_bolly",
+      "emotion": "pride",
+      "dialogue": "We are proud of our Democracy It is people's rule. We are proud of our Democracy A vote may seem small but its power is infinite. We have a democracy.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Democracy",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2586_bolly",
+      "emotion": "pride",
+      "dialogue": "We have a democracy. it's a government for the peopLe. of the peopLe. by the peopLe. We are proud of our democracy. it's a government for the peopLe. of the peopLe. by the peopLe. We are proud of our democracy.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "democracy",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2587_bolly",
+      "emotion": "pride",
+      "dialogue": "We are proud of our democracy. it's a government for the peopLe. of the peopLe. by the peopLe. We are proud of our democracy. A vote may seem smaLL but its power is infinite. We have a democracy.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Democracy",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

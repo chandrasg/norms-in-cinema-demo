@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "65889",
+    "title": "Roseanna's Grave",
+    "year": "1997",
+    "industry": "holly",
+    "country": "IT|US",
+    "poster_path": "/qaimjcQYua8UjnEJAx6UPjRRc3a.jpg",
+    "overview": "Roseanna is dying of a heart condition, and all she wants is to be buried next to her daughter, in a cemetery that is getting full fast. The cemetery can't expand because Capestro, the man who owns the land next to the cemetery, won't sell. While Marcello is doing good deeds to make sure no one dies, Roseanna thinks of Marcello's future."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS667_holly",
+      "emotion": "shame",
+      "dialogue": "Because he likes me, and maybe I can convince him  to talk some sense into his uncle.  Shame on you.  When did you become such a person?  When the family Tanzini left the high wire.",
+      "target_person": "Tanzini",
+      "target_gender": "male",
+      "cause_raw": "manipulation for personal gain",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WS668_holly",
+      "emotion": "shame",
+      "dialogue": "It's under my wife.  Under your wife?  My dear Nina, whose memory I shamed.  It's in her grave.  Bruno.",
+      "target_person": "Bruno",
+      "target_gender": "male",
+      "cause_raw": "shaming wife's memory",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP1348_holly",
+      "emotion": "pride",
+      "dialogue": "How could you expose yourself to his contempt?  You know why I went. I'll try anything.  There are limits! Where is your pride?  What's pride got to do with it?  I thought he might listen to reason.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1349_holly",
+      "emotion": "pride",
+      "dialogue": "You know why I went. I'll try anything.  There are limits! Where is your pride?  What's pride got to do with it?  I thought he might listen to reason.  He is dead to reason! He's not half the man you are!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1350_holly",
+      "emotion": "pride",
+      "dialogue": "Look at all these people! We're all your friends!  And think of your father!  Only last night, he told me how proud he is of you!  But my father's in Torino.  We spoke on the phone! Listen!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

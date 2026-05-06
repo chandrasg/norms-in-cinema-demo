@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "45533",
+    "title": "Pyaar Kiya To Darna Kya",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/wWJPE15xbl1RkM9y4EgnwbtEiBC.jpg",
+    "overview": "A wealthy collegian falls in love with an heir apparent, but her domineering cousin orders her to end the affair."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1499_bolly",
+      "emotion": "shame",
+      "dialogue": "/Oh ignorant lover /You don`t understand /You don`t agree /I`m ashamed /My body trembles /I`ve no control /On my heart /Don`t torture me /Come embrace me",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "expressing vulnerability in love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1500_bolly",
+      "emotion": "shame",
+      "dialogue": "/Oh ignorant lover /You don`t understand /You don`t agree /I`m ashamed /My body trembles /But you realize my life /Consent is hidden in denial When I left army for my children I didn`t know that",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "leaving army for family",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1501_bolly",
+      "emotion": "shame",
+      "dialogue": "It`s insult of Thakur Veer Bahadur Amar Singh Rathore. As you say Thakur Veer Bahadur Amar Singh Rathore. Forgive them, they are ashamed spit your anger sir. Should I spit? Here comes the bull.",
+      "target_person": "Thakur Veer Bahadur Amar Singh Rathore",
+      "target_gender": "male",
+      "cause_raw": "Insulting his honor",
+      "theme_label": "Shamelessness"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "9413",
+    "title": "Picture Perfect",
+    "year": "1997",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/xYnvr4o7GEaA2uyt4Q1ASUI5Obv.jpg",
+    "overview": "A young advertising executive's life becomes increasingly complicated when, in order to impress her boss, she pretends to be engaged to a man she has just met."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS670_holly",
+      "emotion": "shame",
+      "dialogue": "I admit it.  Okay.  Yeah, I admit it. I'm not ashamed of it, okay?.  And you know why I have a mistress?.  Because she has a mistress, too.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "having a mistress",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS671_holly",
+      "emotion": "shame",
+      "dialogue": "but while you're still single??!.  [ Crowd Gasps ]  Shame on you!  Don't bother looking back. He is out of your life.  Come on.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "being single",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WP1351_holly",
+      "emotion": "pride",
+      "dialogue": "We're in advertising, Kate. I didn't lie. I sold.  Oh, God, I got to sit down.  I told him you were too proud to mention it yourself.  They all said they want to meet him, of course.  Oh, great. Oh, my God.",
+      "target_person": "Kate",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

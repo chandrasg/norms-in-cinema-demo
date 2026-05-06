@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "591598",
+    "title": "Bharosa",
+    "year": "1963",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9Jr4DWeG2LXeK5Mig6HNUVpaaHM.jpg",
+    "overview": "Ramdas is a trusting individual, and trusts everybody around him. When times turn bad for him, he entrusts the life of his son, Bansi, to his trusted employee, Ronaklal, and departs. He regularly sends money to Ronaklal to provide for the upkeep of his son, but Ronaklal uses this money to educate his son, Deepak, keeps Bansi uneducated, and makes him do a lot of manual work. Years pass by, Ronaklal is now crippled, and is dependent on Bansi, as Deepak has left him, got married to a wealthy girl, and lives with his in-laws. Ronaklal is unable to show his face to Ramdas, and avoids him, and Bansi has grown up without knowing who his real father is. Will Ronaklal be able to tell Ramdas the truth when he returns, or will be just let Deepak be the sole heir to all the estate and the property?"
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s557_bolly",
+      "emotion": "shame",
+      "dialogue": "Not only that, on receiving your letter, ......l purchased 2 acres of land. Bless you friend! Bless you! Sister, don't feel ashamed to ask anything. What is there to be ashamed of? I'll definitely ask. - Okay I'll go, goodbye. - Goodbye.",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "asking for help or favor",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s558_bolly",
+      "emotion": "shame",
+      "dialogue": "Bless you friend! Bless you! Sister, don't feel ashamed to ask anything. What is there to be ashamed of? I'll definitely ask. - Okay I'll go, goodbye. - Goodbye. Listen.",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "asking for help or favor",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s559_bolly",
+      "emotion": "shame",
+      "dialogue": "You dare argue with me! Remember, my decision is final? Father, then do what you want but mind you...... if I'm betrothed to Deepu...... then not my litter, but my bier will go from here. Shameless! Aren't you ashamed of talking like this? I know much better! it's a matter of my prestige after all! But you can't ruin my life for the sake of your false prestige!",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "defying father's decision",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s560_bolly",
+      "emotion": "shame",
+      "dialogue": "You are being magnanimous, sir. Friends, a possession is a possession. And if a servant doesn't take care of a possession......entrusted to him by his boss, then shame on that servant! I haven't done a favour on my godlike owner by raising his son lnstead, I have repaid him for the kindness ....... he's given me for years.",
+      "target_person": "servant",
+      "target_gender": "male",
+      "cause_raw": "not taking care of entrusted possession",
+      "theme_label": "Causing Harm"
+    }
+  ]
+}

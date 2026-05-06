@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "36807",
+    "title": "The 6th Man",
+    "year": "1997",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/c08PAB0kWE38zrOGl376D9qqdEc.jpg",
+    "overview": "A college athlete returns from the dead to help his brother's basketball team win the NCAA title."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2120_holly",
+      "emotion": "pride",
+      "dialogue": "- Kenny! Antoine! - Mom!  You got it. You know you got it.  Oh, gosh. Your father would have been so proud of you both today.  - I wish he could've seen you play. - So do we.  But his spirit lives on in you.",
+      "target_person": "Mother",
+      "target_gender": "female",
+      "cause_raw": "sons' performance",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP2121_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah, why not?  Yeah. Hell, yeah.  You must be proud. The team's been kicking a*s.  Oh, yeah. We've been really hot lately, you know.  No, you've been more than hot. It's been weird. You know what I'm saying?",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "team's success",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP2122_holly",
+      "emotion": "pride",
+      "dialogue": "Honey, I don't know what's gonna happen in New York and I don't care.  I just wanna say thank you, baby.  I just wish your daddy was here. Ooh. He would be so proud of you.  - Who's your baby girl? - You, Ma.  You better believe it.",
+      "target_person": "Ma",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

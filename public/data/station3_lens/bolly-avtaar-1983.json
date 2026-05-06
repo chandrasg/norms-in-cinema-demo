@@ -1,0 +1,124 @@
+{
+  "film": {
+    "id": "258677",
+    "title": "Avtaar",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/czNlKKQywcyr8pzus90K4vp66w9.jpg",
+    "overview": "Avtaar Krishen lives a poor lifestyle with his wife, Radha, and two sons, Ramesh and Chander. He works in a factory and toils hard so that his sons can get the necessary education, and live a better lifestyle. He gets injured and crippled while working, but is compensated adequately by his employer, Bawaji."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s257_bolly",
+      "emotion": "shame",
+      "dialogue": "Vegetables that resemble you! And that mince...!how often have I told you to get fine mince! The mince is quite fine. Is that fine? God what a shame! While eating eye sight is sharp but weakens when buying groceries! You do one odd Job but ruin 10 others!",
+      "target_person": "grocery buyer",
+      "target_gender": "unclear",
+      "cause_raw": "poor quality grocery shopping",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s258_bolly",
+      "emotion": "shame",
+      "dialogue": "Stupid! You're washing his dirty clothes! But you make him wash your dirty clothes. Shameless! Daughter-in-law, aren't you ashamed to hit the child? You should be ashamed! You made him wash your dirt!",
+      "target_person": "daughter-in-law",
+      "target_gender": "female",
+      "cause_raw": "mistreating child and making him do chores",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s259_bolly",
+      "emotion": "shame",
+      "dialogue": "But you make him wash your dirty clothes. Shameless! Daughter-in-law, aren't you ashamed to hit the child? You should be ashamed! You made him wash your dirt! Tomorrow you'll make him beg and steal!",
+      "target_person": "daughter-in-law",
+      "target_gender": "female",
+      "cause_raw": "mistreating a child",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s260_bolly",
+      "emotion": "shame",
+      "dialogue": "Shameless! Daughter-in-law, aren't you ashamed to hit the child? You should be ashamed! You made him wash your dirt! Tomorrow you'll make him beg and steal! I won't let his horrible shadow fall on my child!",
+      "target_person": "daughter-in-law",
+      "target_gender": "female",
+      "cause_raw": "physical abuse and child exploitation",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s261_bolly",
+      "emotion": "shame",
+      "dialogue": "If you want to help them do it with money earned yourself! Our money is not for charity! That you distribute to beggars! Aren't you ashamed to insult them? You should be ashamed. You've started stealing! - You're crossing all limits! - You are crossing limits not me!",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "stealing money for charity",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s262_bolly",
+      "emotion": "shame",
+      "dialogue": "Our money is not for charity! That you distribute to beggars! Aren't you ashamed to insult them? You should be ashamed. You've started stealing! - You're crossing all limits! - You are crossing limits not me! Don't quarrel because of us.",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "giving money to beggars",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s263_bolly",
+      "emotion": "shame",
+      "dialogue": "I've been tolerating you for long! If you want to live off us, you'll have to put up with more! Shameless! how dare you! See how unJustly she behaved me! - I'm her husband! - I made the same mistake.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "living off wife's earnings",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p103_bolly",
+      "emotion": "pride",
+      "dialogue": "Avtar Kishen lives by his own efforts. Your wealth can never wield power over his poverty. In your false pride, you're losing a good opportunity. You'll regret it someday. Sir, it's the needy who regrets!",
+      "target_person": "Avtar Kishen",
+      "target_gender": "male",
+      "cause_raw": "self-reliance",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "1430",
+    "title": "Bowling for Columbine",
+    "year": "2002",
+    "industry": "holly",
+    "country": "CA|DE|US",
+    "poster_path": "/5AlgeysilsfLdEwlTlYO7fqgsLn.jpg",
+    "overview": "This is not a film about gun control. It is a film about the fearful heart and soul of the United States, and the 280 million Americans lucky enough to have the right to a constitutionally protected Uzi. From a look at the Columbine High School security camera tapes to the home of Oscar-winning NRA President Charlton Heston, from a young man who makes homemade napalm with The Anarchist's Cookbook to the murder of a six-year-old girl by another six-year-old. Bowling for Columbine is a journey through the US, through our past, hoping to discover why our pursuit of happiness is so riddled with violence."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2038_holly",
+      "emotion": "pride",
+      "dialogue": "And you were number 2 on the list. Who were number 1?  They never revealed me the name, what made me s**t.  Because you were not number 1? - Yes I know it is idiotic... But it is a business of personal pride.  But it is a business of personal pride.  I could have been number 1 in Oscada and on the list of the bombs.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "not being number 1",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP2039_holly",
+      "emotion": "pride",
+      "dialogue": "They never revealed me the name, what made me s**t.  Because you were not number 1? - Yes I know it is idiotic... But it is a business of personal pride.  But it is a business of personal pride.  I could have been number 1 in Oscada and on the list of the bombs.  The attack of Oklahoma City was it right?",
+      "target_person": "me",
+      "target_gender": "male",
+      "cause_raw": "not being number 1",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP2040_holly",
+      "emotion": "pride",
+      "dialogue": "each inhabitant, in accordance with the law, to have a weapon.  DRAW ON THE CRETIN  Kerry McWilliams shows proudly the result of its examination of shooting.  However it cannot see it at all. Indeed, it is blind.  Kerry likes the weapons since it held in the hands, for the first time, M-16 whereas it was adolescent.",
+      "target_person": "Kerry McWilliams",
+      "target_gender": "male",
+      "cause_raw": "passing shooting examination",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP2041_holly",
+      "emotion": "pride",
+      "dialogue": "11. 09. 2001: Ben Laden uses the lessons of the CIA to kill 3. 000 people.  In Littleton, the south of Denver, the Academy US Air Force, is exposed a Bomber B-52.  On its base, a plate clamp proudly that it is this plane which killed 80 000 people the morning of Christmas 1972.  It was the largest bombardment war of Vietnam.  Just apart from Denver, Roky Flats, more large factory of weapons to plutonium in the world,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

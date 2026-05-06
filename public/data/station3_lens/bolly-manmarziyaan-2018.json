@@ -1,0 +1,128 @@
+{
+  "film": {
+    "id": "523277",
+    "title": "Manmarziyaan",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/spTuL3PJFYQsxBdAHbUJlHtwwyi.jpg",
+    "overview": "A spirited girl finds herself caught in a complicated love triangle while burdened with societal and familial pressures."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 3
+    },
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 5
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3462_bolly",
+      "emotion": "shame",
+      "dialogue": "Not those dumbbells again! - 30. I've called out to you so many times! - 31. Her parents would've been ashamed if they were alive today. The entire town is talking about these two. They are the only weirdos here.",
+      "target_person": "two individuals",
+      "target_gender": "unclear",
+      "cause_raw": "behaving in a way that attracts negative attention",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3463_bolly",
+      "emotion": "shame",
+      "dialogue": "I was about to......call you! Okay. I'm slightly ashamed but I'll be honest. Rumi has agreed to another proposal. So... we have to turn down your client!",
+      "target_person": "client",
+      "target_gender": "female",
+      "cause_raw": "rejected marriage proposal",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3464_bolly",
+      "emotion": "shame",
+      "dialogue": "It's okay! There's always a first time for everything! Do you have no shame? I chose my happiness over shame! And do you know that.......\"Shame\" is often what leads to suicide.",
+      "target_person": "first speaker",
+      "target_gender": "female",
+      "cause_raw": "choosing happiness over societal norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3465_bolly",
+      "emotion": "shame",
+      "dialogue": "There's always a first time for everything! Do you have no shame? I chose my happiness over shame! And do you know that.......\"Shame\" is often what leads to suicide. If my father were alive - Don't dare manipulate me!",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "choosing personal happiness over societal expectations",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3466_bolly",
+      "emotion": "shame",
+      "dialogue": "Do you have no shame? I chose my happiness over shame! And do you know that.......\"Shame\" is often what leads to suicide. If my father were alive - Don't dare manipulate me! You know that friend of Rumi's...Yes....he wants to marry her.",
+      "target_person": "Speaker",
+      "target_gender": "female",
+      "cause_raw": "choosing personal happiness over societal expectations",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3467_bolly",
+      "emotion": "shame",
+      "dialogue": "She's ready to wait for him......as long as he commits. Uncle, tell me...She's not asking him to marry right away......at least get engaged! So that her family isn't shamed. Vicky, the girl was right. If you can't sit tight, leave town.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "not being engaged",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p1837_bolly",
+      "emotion": "pride",
+      "dialogue": "She'll brass hard on your manhood, Dare belittle, any sister from the hood. Watch out ! She roars like a lioness Pride in her gait, Shine on her face, Foxy mind, shrewd in her trait, A fiery gaze Now move to the side She's not your Jekyll, She's Mr. Hyde.",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "self-confidence and strength",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1838_bolly",
+      "emotion": "pride",
+      "dialogue": "What do you mean? I know you what you look like naked, but..I still don't know if you like fritters or fries. They proudly enquire..A female monkey is attracted to the strongest male. During the mating season,..Do you like Kofte?...the males display their strength. Rainfall or snowfall?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1839_bolly",
+      "emotion": "pride",
+      "dialogue": "I will tolerate all your tantrums. As your heart desires. I will smile whenever you say. As your heart desires. I will feel proud of your love. As your heart desires. I will adorn as your heart desires. Pockets of Love-prayers",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being loved",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

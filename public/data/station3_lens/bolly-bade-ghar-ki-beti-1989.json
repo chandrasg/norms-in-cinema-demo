@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "391549",
+    "title": "Bade Ghar Ki Beti",
+    "year": "1989",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/jHf44xkb3iokH5Gh4A0FzZMgoxj.jpg",
+    "overview": "Mala is the daughter of Kishanlal who works as a servant with a wealthy family. One day Mala meets with the owner of this family, who is so impressed with Mala that he asks for her hand in marriage for his fourth son, Gopal, which Kishanlal humbly accepts. As a result, Mala gets married to Gopal, and moves in to their palatial home. While Mala is extremely helpful and sweet-natured, the rest of the daughters-in-law, three of them, are quite the opposite."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s343_bolly",
+      "emotion": "shame",
+      "dialogue": "You have stooped so low. This house is not fit for respectable people now. The family members have become shameless as soon as father died. The youngsters raise their hands on the elders. Wife back answers me....and the husband raises his hand on his elder sister-in-law.",
+      "target_person": "family members",
+      "target_gender": "unclear",
+      "cause_raw": "disrespect towards elders and inappropriate behavior",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s344_bolly",
+      "emotion": "shame",
+      "dialogue": "The constable asks Rs. 5. The inspector asks Rs. 8-10. I died out of shame and got defamed. I attained youth and got defamed. I attained youth and got defamed.",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s345_bolly",
+      "emotion": "shame",
+      "dialogue": "Please drink it, Grandma. You are under our oath. No, no, child. I'll drink it. I'll drink it. What a shame! You are teaching such things to kids. It is really shameful, Mother-in-law. You tell the children to bring you milk....on the sly and drink it when alone?",
+      "target_person": "Grandma",
+      "target_gender": "female",
+      "cause_raw": "drinking milk secretly",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s346_bolly",
+      "emotion": "shame",
+      "dialogue": "No, no, child. I'll drink it. I'll drink it. What a shame! You are teaching such things to kids. It is really shameful, Mother-in-law. You tell the children to bring you milk....on the sly and drink it when alone? You are teaching the children to steal being their grandma?",
+      "target_person": "grandmother",
+      "target_gender": "female",
+      "cause_raw": "teaching children to steal",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s347_bolly",
+      "emotion": "shame",
+      "dialogue": "You tell the children to bring you milk....on the sly and drink it when alone? You are teaching the children to steal being their grandma? What a shame! They are innocent children. At least you should think that if you drink their milk....the children will go hungry. No, Mother.",
+      "target_person": "grandma",
+      "target_gender": "female",
+      "cause_raw": "teaching children to steal",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s348_bolly",
+      "emotion": "shame",
+      "dialogue": "According to humanity and law....all of you should be shot to death at the village square. But that mother forbids slapping you, too. If you have any shame…die out of it. Son. Son, if you also behave like them....then what will be the difference between my Gopal and them? I don't have any complaints from my destiny, Son.",
+      "target_person": "villagers",
+      "target_gender": "unclear",
+      "cause_raw": "behaving inhumanely",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p148_bolly",
+      "emotion": "pride",
+      "dialogue": "You ride on an elephant one day and horse on the other. You go walking someday. Don't be proud of anything you achieve....this is a perishing world.\" Don't be proud of anything you achieve....this is a perishing world.\" Even your shadow will leave with you from here.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p149_bolly",
+      "emotion": "pride",
+      "dialogue": "You go walking someday. Don't be proud of anything you achieve....this is a perishing world.\" Don't be proud of anything you achieve....this is a perishing world.\" Even your shadow will leave with you from here. Distribute your love to everyone.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

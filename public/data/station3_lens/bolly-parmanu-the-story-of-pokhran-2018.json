@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "465642",
+    "title": "Parmanu: The Story of Pokhran",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/58X8iBxgT5n4aVBLkDFSnOrIHlD.jpg",
+    "overview": "A look at India's second confidential nuclear test series at Pokhran lead by Dr. APJ Abdul Kalam, during the time of PM Atal Bihari Vajpayee's tenure."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Patriotism",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1304_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you doing here? I should be asking...His wife is here. Nakul? Are you even a little ashamed? <i>You are mistaken.</i> <i>I am mistaken?</i> <i>I had no idea that you'd lie so much.</i>",
+      "target_person": "Nakul",
+      "target_gender": "male",
+      "cause_raw": "Infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1305_bolly",
+      "emotion": "shame",
+      "dialogue": "Defense Residential Complex -It was this guy, right? -Yes, it was him. I told him. Aren’t you ashamed? The suspect was right in front of you and you let him go! You may leave, Ashwat.",
+      "target_person": "Ashwat",
+      "target_gender": "male",
+      "cause_raw": "incompetence in catching a suspect",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p694_bolly",
+      "emotion": "pride",
+      "dialogue": "We should not think about the outcome. We should carry out our plans as intended. I don’t know... if the world will praise us or not. But I am sure that...when we look at ourselves in the mirror, we will proudly say that...we made the plans for the country. We executed the actions for the country...and the result we achieved belongs to the country. My motherland!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "contribution to the country",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p695_bolly",
+      "emotion": "pride",
+      "dialogue": "My soul is painted My soul is painted My country is my love, my pride The skies above surrender before it My country is my love, my pride",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "love for country",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p696_bolly",
+      "emotion": "pride",
+      "dialogue": "My country is my love, my pride The skies above surrender before it My country is my love, my pride The skies above surrender before it My soul is painted",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "love for country",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

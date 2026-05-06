@@ -1,0 +1,56 @@
+{
+  "film": {
+    "id": "17487",
+    "title": "Body and Soul",
+    "year": "1947",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/lnKYS1A1k78X5v5IpLA96e6EYoe.jpg",
+    "overview": "Charley Davis, against the wishes of his mother, becomes a boxer. As he becomes more successful the fighter becomes surrounded by shady characters, including an unethical promoter named Roberts, who tempt the man with a number of vices. Charley finds himself faced with increasingly difficult choices."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1977_holly",
+      "emotion": "pride",
+      "dialogue": "That's the reason you should listen to me, baby!  Don't you ever get tired?  No...I got no time for pride!  He could have had the whole world, so he leaned over sideways and grabbed you!  Nobody grabbed me, I grabbed him!",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1978_holly",
+      "emotion": "pride",
+      "dialogue": "But here, Charlie Davis is champion.  So you'll win and you'll retire champion.  And we are proud, period.  And Charlie, when you leave, stop in and say toodle-doo.  What's the matter with people, anyway? Why do they have to bet?",
+      "target_person": "Charlie Davis",
+      "target_gender": "male",
+      "cause_raw": "becoming a champion",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1979_holly",
+      "emotion": "pride",
+      "dialogue": "It always felt so good after a win.  Walk down Lennox Avenue,  the kids all crazy for you, and proud... Champion of the world, for the whole world to know.  Champion of the world, for the whole world to know.  You fixed the fight, didn't you?",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "being a world champion",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

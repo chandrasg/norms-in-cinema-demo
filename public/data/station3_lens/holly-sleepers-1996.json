@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "819",
+    "title": "Sleepers",
+    "year": "1996",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/yUpiEk2EojS9ZEXb3nIQonQCYYF.jpg",
+    "overview": "Two gangsters seek revenge on the state jail worker who during their stay at a youth prison sexually abused them. A sensational court hearing takes place to charge him for the crimes."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Deception",
+      "count": 2
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS622_holly",
+      "emotion": "shame",
+      "dialogue": "This is where I get to see all four of you guys today.  I loved Father Bobby, but I couldn't stand to look at him.  I was afraid he'd look right through me... ...past the fear and shame, right through to the truth.  ...past the fear and shame, right through to the truth.  Shakes, is there anything you want to tell me?",
+      "target_person": "Shakes",
+      "target_gender": "male",
+      "cause_raw": "hiding the truth",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "WS623_holly",
+      "emotion": "shame",
+      "dialogue": "I loved Father Bobby, but I couldn't stand to look at him.  I was afraid he'd look right through me... ...past the fear and shame, right through to the truth.  ...past the fear and shame, right through to the truth.  Shakes, is there anything you want to tell me?  Anything at all?",
+      "target_person": "Shakes",
+      "target_gender": "male",
+      "cause_raw": "hiding the truth",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "WP1281_holly",
+      "emotion": "pride",
+      "dialogue": "And you will receive the gifts... ...of the Holy Spirit.  ...of the Holy Spirit.  It's gonna be a great day and your... ...parents will be proud of you. When you were baptised... ...godparents made promises for you. And now... -You're gonna confirm those promises. -Let me have the clacker.  -You're gonna confirm those promises. -Let me have the clacker.  What clacker?",
+      "target_person": "parents",
+      "target_gender": "unclear",
+      "cause_raw": "child's baptism and confirmation",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "504080",
+    "title": "Dhadak",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vIVKzzPA7hrSZpEwofB7Luo83kO.jpg",
+    "overview": "Madhukar and Parthavi fall head over heels in love with each other, but the fact that they belong to different castes of society, becomes an obstacle in their romance. The lovers dare to go against societal norms and battle all odds for the sake of love."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1052_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes yes. You snake, why are you spewing venom on my love story You have no shame or what? Stalking a child! Is she your child? your child? And why were you hitting on my head, what if my hair would have fallen?",
+      "target_person": "stalker",
+      "target_gender": "male",
+      "cause_raw": "stalking a minor",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1053_bolly",
+      "emotion": "shame",
+      "dialogue": "A donkey will always remain a donkey Your own face is like a buffalo Don't you feel ashamed by calling others a donkey? One, two... One two three four How do I tell you, how much I love you, I will never be able to...Heart is not stopping, wants to do talking",
+      "target_person": "character being insulted",
+      "target_gender": "unclear",
+      "cause_raw": "being compared to a donkey",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p527_bolly",
+      "emotion": "pride",
+      "dialogue": "- No mom... - Come Enough, let's go Bheema is out of the race now...a mother is a nation's pride and Madhukar is now on a food ride Who will win the race? Devilal or Madhu?",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

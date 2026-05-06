@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "211105",
+    "title": "Krishna Cottage",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2j7Y5CyO10HxZEzCij9XcxmVYSz.jpg",
+    "overview": "After their car breaks down, a group of collegians are forced to take shelter in the mysterious Krishna Cottage for the night. Little do they know that the cottage is haunted by a spirit awaiting its lover."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3179_bolly",
+      "emotion": "shame",
+      "dialogue": "You were boasting so much about your love. And now, you're after my love I haven't seen such a shameless girl like you, till date. I apologize to you on behalf of Shanti's behalf. Had I been in Shanti's place, I too, would've done the same thing.",
+      "target_person": "Shanti",
+      "target_gender": "female",
+      "cause_raw": "Betrayal in love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p1664_bolly",
+      "emotion": "pride",
+      "dialogue": "It's unsaid. Neither have I been able to think of the end of this......story nor will I ever be able to know about it. That's why... that's why this story is incomplete, even today. I proudly dedicate this story book to your college. Principal, this room of the college......has been closed for years, isn't it? - Yes. This used to be the painting room.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Dedication of story book",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p1665_bolly",
+      "emotion": "pride",
+      "dialogue": "Where are you going? C'mon, change the stepny. But, pal... - Your mother will be pleased with you. But, pal... - You couldn't become a mechanical engineer......at least become a mechanic and make your mother proud. Ok, bye. I'm coming. The door's open. Somebody must've kept it open, for us.",
+      "target_person": "pal",
+      "target_gender": "male",
+      "cause_raw": "becoming a mechanic",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

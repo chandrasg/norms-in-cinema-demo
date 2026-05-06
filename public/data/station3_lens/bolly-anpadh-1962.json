@@ -1,0 +1,128 @@
+{
+  "film": {
+    "id": "410332",
+    "title": "Anpadh",
+    "year": "1962",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/pfGy9uf2bY4bdDZoBIs2DtUCgmO.jpg",
+    "overview": "A wealthy, pampered and illiterate woman faces many challenges after her marriage."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4,
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s168_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't say written by you, but got it written. You are disgracing our family by getting it written by a servant? Aren't you ashamed? You mannerless! She is. How could you write it? Aren't you ashamed to get it written by a servant?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "getting a letter written by a servant",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s169_bolly",
+      "emotion": "shame",
+      "dialogue": "Aren't you ashamed? You mannerless! She is. How could you write it? Aren't you ashamed to get it written by a servant? You must have complained about me. You must have abused me. Must have put me down. I understand you and your brother.",
+      "target_person": "servant",
+      "target_gender": "female",
+      "cause_raw": "being illiterate",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s170_bolly",
+      "emotion": "shame",
+      "dialogue": "You can neither cook nor sew or read and write. Are you alone? Have you no shame? Have you no sisters? Get lost! Or I'll hand you to the police!",
+      "target_person": "individual",
+      "target_gender": "female",
+      "cause_raw": "lack of domestic skills and literacy",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s171_bolly",
+      "emotion": "shame",
+      "dialogue": "And I haven't yet got the girl. - Talk to her mother. - Why don't you do it? - I feel shy. - Am I shameless? Not shameless but a lawyer. Let go... just a thought... ask your servant to talk to mother.",
+      "target_person": "character 2",
+      "target_gender": "male",
+      "cause_raw": "feeling shy to talk to a girl's mother",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s172_bolly",
+      "emotion": "shame",
+      "dialogue": "- Talk to her mother. - Why don't you do it? - I feel shy. - Am I shameless? Not shameless but a lawyer. Let go... just a thought... ask your servant to talk to mother. Don't ever call him a servant.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being asked to do something he is uncomfortable with",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s173_bolly",
+      "emotion": "shame",
+      "dialogue": "Mother! Who...?Who let you in? Who are you? If you find out who I am you'll die of shame! Wish you'd drowned before attacking the family honour! What are you sayi ng? Who the heck are you?",
+      "target_person": "Mother",
+      "target_gender": "female",
+      "cause_raw": "Attacking family honor",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p44_bolly",
+      "emotion": "pride",
+      "dialogue": "I caused pain to your delicate heart. I'll compensate it. I'll teach you personally. I'll make you a worthy person that......people feel proud of you one day. Smile once......which will brighten up your Deepak's life. Just once for your Deepak.",
+      "target_person": "Deepak",
+      "target_gender": "male",
+      "cause_raw": "making the other person worthy",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p45_bolly",
+      "emotion": "pride",
+      "dialogue": "I'll avenge my humiliation. Don't be foolish. Come to senses. If you can not make your family proud, atleast don't disgrace it. Go away from here. Murder... murder... What are you waiting for?",
+      "target_person": "family",
+      "target_gender": "unclear",
+      "cause_raw": "not disgracing the family",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

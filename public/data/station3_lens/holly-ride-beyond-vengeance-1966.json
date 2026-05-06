@@ -1,0 +1,51 @@
+{
+  "film": {
+    "id": "101308",
+    "title": "Ride Beyond Vengeance",
+    "year": "1966",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/qO3XemtoN9e7AjSW2kA9EkZ7Mf7.jpg",
+    "overview": "Jonas Trapp falls in love with the beautiful Jessie, a wealthy girl out of his humble class. Against the wishes of her snobbish aunt, she marries him, later faking a pregnancy to win her aunt's consent. But Jonas tires of living off of his wife's family, and eventually deserts her to become a buffalo hunter. 11 years later, with his self-made fortune, he sets out to return home, only to be set upon by three sadistic marauders, who steal his money and leave him for dead. Rescued by a farmer who nurses him back to health, Jonas becomes consumed by the desire for revenge. As fate would have it, all three men live close to Jonas' former home. Matters quickly get worse when Jonas reunites with his wife, only to discover that she is now engaged to Renne."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP972_holly",
+      "emotion": "pride",
+      "dialogue": "Jessie, what good... Do you know that Aunt Gussie wasn't shamming?  Do you know that Aunt Gussie wasn't shamming?  She died the month after you left and took your precious pride with you.  She owed everybody in town, even for the wedding.  The money had run out, Jonas. I mortgaged the house to the rooftop... and I've been trying to scratch out a living in this shop.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP973_holly",
+      "emotion": "pride",
+      "dialogue": "- Well, this ain't getting nowhere... - Well, where would you like us to get?  For all you knew, I could have ended up in the back room of some saloon.  I started to have a letter wrote... Well, what stopped you then? Your pride or your love of the buffaloes?  Well, what stopped you then? Your pride or your love of the buffaloes?  Or maybe you had somebody else, Jonas, somebody better suited to you!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP974_holly",
+      "emotion": "pride",
+      "dialogue": "For all you knew, I could have ended up in the back room of some saloon.  I started to have a letter wrote... Well, what stopped you then? Your pride or your love of the buffaloes?  Well, what stopped you then? Your pride or your love of the buffaloes?  Or maybe you had somebody else, Jonas, somebody better suited to you!  - Nobody else. - Well, I have!",
+      "target_person": "Jonas",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

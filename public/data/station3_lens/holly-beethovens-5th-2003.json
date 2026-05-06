@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "24477",
+    "title": "Beethoven's 5th",
+    "year": "2003",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/mIjzNxaUWsacg4R8rDGl6pJn4C8.jpg",
+    "overview": "When Sara takes Beethoven to spend summer vacation with wacky Uncle Freddie in an old mining town, the mischievous canine \"digs up\" the missing clue to a legendary hidden fortune of Rita and Moe Selig. Now everybody wants to be the dog's best friend as his discovery unleashes a frenzy of treasure hunting among the community's cast of kooky creatures. With help from Uncle Freddie and Garrett (a friend or maybe more), Sara and Beethoven try to help uncover a secret that has been in the crazy little town for years."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS111_holly",
+      "emotion": "shame",
+      "dialogue": "Say when.  When.  Shame to see all that ice cream go to waste.  Ahhh!  Mmm... Hey, look at this. Who needs a maid?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "wasting food",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WS112_holly",
+      "emotion": "shame",
+      "dialogue": "I can smell that. Out of the van.  Man!  You ought to be ashamed of yourself. With the kids?!  I am not drunk. This is Beethoven's fault.  Now you're trying to blame the dog? Arms out, eyes closed.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "drunk driving with kids",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "WP146_holly",
+      "emotion": "pride",
+      "dialogue": "- Nice takedown, big guy. - (contented growl)  That's for taking my money, and that's for taking my dog.  Equaliser death-grip. Dad would be proud.  Meet the ghost of Moe and Rita. I must admit, the carnation was a nice touch.  Harold Herman, you're under arrest.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "for the takedown",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

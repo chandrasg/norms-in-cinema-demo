@@ -1,0 +1,113 @@
+{
+  "film": {
+    "id": "118677",
+    "title": "Why Stop Now?",
+    "year": "2012",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/xEaVD2RJADGWUhlBkhGV0vQoHrP.jpg",
+    "overview": "When a college piano prodigy tries to check his mother into rehab, he is taken hostage by her drug dealer and swept along on a wild adventure."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2,
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP813_holly",
+      "emotion": "pride",
+      "dialogue": "- Checking in.  - Fill this out. Fill that up.  You should be really proud of your son.  It takes a lot of courage to walk in that door.  - Mighty proud.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "showing courage to walk in the door",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "WP814_holly",
+      "emotion": "pride",
+      "dialogue": "You should be really proud of your son.  It takes a lot of courage to walk in that door.  - Mighty proud.  Wait outside for me, baby?  - Okay.",
+      "target_person": "Mighty",
+      "target_gender": "male",
+      "cause_raw": "son's courage",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP815_holly",
+      "emotion": "pride",
+      "dialogue": "- Why? Who am I?  - My son.  Go make your mother proud.  - This is ridiculous.  - Ah, ya f*****' door!",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP816_holly",
+      "emotion": "pride",
+      "dialogue": "Get yourself in the car.  You talked such good Spanish with him, sweetie.  I was so proud. Okay.  - Oh, s**t, yo, this really hurts.  - You know, I've got some Motrin in here somewhere.",
+      "target_person": "speaker 1",
+      "target_gender": "female",
+      "cause_raw": "speaking good Spanish",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP817_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, bravo!  - Mom, what the hell are you doing here?  - I am so proud.  - I think you need some help. - No, no.  - Don't worry. I'll get help.",
+      "target_person": "Mom",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP818_holly",
+      "emotion": "pride",
+      "dialogue": "I don't want that to get in your way.  I don't want it to stop you.  I'm so proud of you, huh?  Oh, you played beautifully today.  - Thank you.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "playing beautifully",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP819_holly",
+      "emotion": "pride",
+      "dialogue": "- No. Congratulations.  - Yeah.  - I'm proud of you.  You know, you can be proud of yourself.  - Okay.",
+      "target_person": "No",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP820_holly",
+      "emotion": "pride",
+      "dialogue": "- Yeah.  - I'm proud of you.  You know, you can be proud of yourself.  - Okay.  I am.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

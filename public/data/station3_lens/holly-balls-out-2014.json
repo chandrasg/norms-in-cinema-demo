@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "263913",
+    "title": "Balls Out",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/yQ5PWOIOE2zTZTeiLg1YpaXZCYn.jpg",
+    "overview": "With marriage, graduation, and the real world looming on the horizon, fifth year senior Caleb Fuller reassembles the ol' team of misfits for one last epic run in Intramural football."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS144_holly",
+      "emotion": "shame",
+      "dialogue": "- Barry-- - Father Walsh.  - Barry-- - She just-- she pushed me.  I couldn't help it. Shame on you.  - Barry-- - It was Whitesnake.  - Barry-- - ♪ Here I go again on my own... ♪",
+      "target_person": "Barry",
+      "target_gender": "male",
+      "cause_raw": "physical aggression",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "WP240_holly",
+      "emotion": "pride",
+      "dialogue": "I've told her this since she was 14,  \"You need to put on makeup, nice dresses,  show some pride, Iike Jennifer.\"  Leave her alone, Mom.  Let's ask Barry.",
+      "target_person": "Mom",
+      "target_gender": "female",
+      "cause_raw": "daughter not meeting her beauty standards",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP241_holly",
+      "emotion": "pride",
+      "dialogue": "loved and appreciated,  even if it's 180 degrees different from me.  I would be very proud to have a gay chiId.  So, where are we having this wonderful new addition?  St. Joseph's?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "having a gay child",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

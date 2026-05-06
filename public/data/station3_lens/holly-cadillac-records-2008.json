@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "14299",
+    "title": "Cadillac Records",
+    "year": "2008",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/u2GtllItFwaXMLj4uCeKYt9wf4l.jpg",
+    "overview": "The story of sex, violence, race and rock and roll in 1950s Chicago, and the exciting but turbulent lives of some of America's musical legends, including Muddy Waters, Leonard Chess, Little Walter, Howlin' Wolf, Etta James and Chuck Berry."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1377_holly",
+      "emotion": "shame",
+      "dialogue": "Sorry about that, chief.  Sorry about the damage, boss.  Yeah, you f****d up my place. You... Yes, sir. It's a damn shame, boss.  Yes, sir. It's a damn shame, boss.  Just get out.",
+      "target_person": "chief/boss",
+      "target_gender": "male",
+      "cause_raw": "causing damage to property",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WS1378_holly",
+      "emotion": "shame",
+      "dialogue": "Sorry about the damage, boss.  Yeah, you f****d up my place. You... Yes, sir. It's a damn shame, boss.  Yes, sir. It's a damn shame, boss.  Just get out.  Here. There you go.",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "damaging property",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WS1379_holly",
+      "emotion": "shame",
+      "dialogue": "Every club on the chitlin circuit  wanted that sharp, swinging jump boy in the Cadillac.  Now, ain't that sure enough a goddamn shame?  - What is that? - A big-time recording artist like Little Walter  driving around in that broken-down, no-account short.",
+      "target_person": "Little Walter",
+      "target_gender": "male",
+      "cause_raw": "driving a broken-down car despite being a successful artist",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

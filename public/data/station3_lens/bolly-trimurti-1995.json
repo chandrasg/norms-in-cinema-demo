@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "102358",
+    "title": "Trimurti",
+    "year": "1995",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/o6Pmeu0tcw3YKNHLdYw7IrNNdNq.jpg",
+    "overview": "Entrapped by notorious gangster Khokha Singh, honest police inspector Satyadevi Singh gets a life sentence in jail. She hopes to get her three sons Shakti, Anand and Romi to avenge this carnage."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1984_bolly",
+      "emotion": "shame",
+      "dialogue": "Get going___ Hurry up! Damn beggars! - We're not beggars, we're devotees_ - Your tongue wags too much, eh? - You shameless being! - Get lost, old woman! Tell your father, this place on which he has spent so much money___ ___is where the Mother of these poor people resides_",
+      "target_person": "devotees",
+      "target_gender": "unclear",
+      "cause_raw": "being poor and begging",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1985_bolly",
+      "emotion": "shame",
+      "dialogue": "___l'll punch him like this, and break his jaw! Like this___ - You're here again? - I came to apologize for last night_ - I'm so ashamed_ - But I'm very proud_ - Of me? - Of your actions_ - Meaning? - You're a true lover___",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "aggressive behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4993_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't you worry.  It's like this you see, sir. When I really lose my temper, I spin like this...But that father of her... I'll...I'll hit him on his bald pate. And that uncle of hers... I'll punch him like this, and break his jaw! Like this... You're here again? - I came to apologise for last night.  I'm so ashamed. - But I'm very proud.  Of me? - Of your actions.  Meaning? - You're a true lover... but you won't be successful.",
+      "target_person": "protagonist",
+      "target_gender": "male",
+      "cause_raw": "aggressive behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1052_bolly",
+      "emotion": "pride",
+      "dialogue": "i'll punch him like this, and break his jaw! Like this___ - You're here again? - I came to apologize for last night_ - I'm so ashamed - But I'm very proud - Of me? - Of your actions_ - Meaning? - You're a true lover___",
+      "target_person": "lover",
+      "target_gender": "unclear",
+      "cause_raw": "lover's actions",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2807_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't you worry.  It's like this you see, sir. When I really lose my temper, I spin like this...But that father of her... I'll...I'll hit him on his bald pate. And that uncle of hers... I'll punch him like this, and break his jaw! Like this... You're here again? - I came to apologise for last night.  I'm so ashamed. - But I'm very proud.  Of me? - Of your actions.  Meaning? - You're a true lover... but you won't be successful.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "defending loved one",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

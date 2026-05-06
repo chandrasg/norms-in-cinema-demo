@@ -1,0 +1,100 @@
+{
+  "film": {
+    "id": "619002",
+    "title": "Harjaee",
+    "year": "1981",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lwwk93cUlU2l53uEMDh2KtPocuO.jpg",
+    "overview": "Ajay Nath comes from a wealthy family, and is prone to playing practical jokes and pranks in order to get his way with this mother and father. In one case he asked one of their family doctors', Dr. Panjabi, to lie to his dad that he has cancer, so that he can accompany his college friends to a outing to Kashmir. He falls in love with fellow collegian Geeta Chopra, who is in love with Shyam. But Ajay's dad, fooled by his illness convinces her to be kind to him, and she becomes friendly with Ajay, both eventually fall in love with each other and want to get married. Then their family gets the news that Ajay really has cancer and has only a few more months to live. Under the changed circumstances, both the Nath and Chopra families are against the marriage of Ajay and Geeta. Will Ajay and Geeta get married? Does Ajay really have cancer or is this another prank?"
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 3
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 3
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4,
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2313_bolly",
+      "emotion": "shame",
+      "dialogue": "The King! - King of King! Leader of the workers! - Leader of corruption! King of King! Shameless! Celibate bachelor is coming! Servant! - King! Why is this girl seated on the bench?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "sitting on a bench implied inappropriate behavior)",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2314_bolly",
+      "emotion": "shame",
+      "dialogue": "God knows what all things that girl told him! And he.. he just stood and listened! Why? Because of you! Because of you he was ashamed! O God! What kind of son are you! What kind of son are you!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not standing up for his mother",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2315_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you laughing? What happened? Tell me! Tell me whose photo is this! Who else besides you can be shameless....enough to click this snap! You are wrong! This is not the shameless one! This is the shameless one's father! Your father-in-law!",
+      "target_person": "father-in-law",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2316_bolly",
+      "emotion": "shame",
+      "dialogue": "Tell me! Tell me whose photo is this! Who else besides you can be shameless....enough to click this snap! You are wrong! This is not the shameless one! This is the shameless one's father! Your father-in-law! Really? - Yes! Geeta! What are you doing?",
+      "target_person": "character in the photo",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2317_bolly",
+      "emotion": "shame",
+      "dialogue": "Who else besides you can be shameless....enough to click this snap! You are wrong! This is not the shameless one! This is the shameless one's father! Your father-in-law! Really? - Yes! Geeta! What are you doing? Who took this photo from my room? - I.. I..I am sure it's your mischief! Shameless!",
+      "target_person": "Geeta",
+      "target_gender": "female",
+      "cause_raw": "invading privacy and stealing",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s2318_bolly",
+      "emotion": "shame",
+      "dialogue": "This is the shameless one's father! Your father-in-law! Really? - Yes! Geeta! What are you doing? Who took this photo from my room? - I.. I..I am sure it's your mischief! Shameless! Me? - Shameless! Why are you going on eating? Let daughter-in-law eat it!",
+      "target_person": "Geeta",
+      "target_gender": "female",
+      "cause_raw": "invading privacy and taking photo without permission",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s2319_bolly",
+      "emotion": "shame",
+      "dialogue": "Really? - Yes! Geeta! What are you doing? Who took this photo from my room? - I.. I..I am sure it's your mischief! Shameless! Me? - Shameless! Why are you going on eating? Let daughter-in-law eat it! Mummy, I am helping her! She can't eat so much!",
+      "target_person": "Geeta",
+      "target_gender": "female",
+      "cause_raw": "invading privacy",
+      "theme_label": "Invasion of Privacy"
+    }
+  ]
+}

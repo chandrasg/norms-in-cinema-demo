@@ -1,0 +1,97 @@
+{
+  "film": {
+    "id": "342162",
+    "title": "Gurudev",
+    "year": "1993",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/88fMGDrdQZ7S4xhYpGULcgKqZnr.jpg",
+    "overview": "Inspector Dev Kumar and Gaurav alias Guru are childhood friends. The problem is that while Dev Kumar is with the police, his dad, Parshu Ram, works with the underworld, and is the right-hand man of Kakhan, a criminal don, who is also Guru's dad. When Inspector Khan is assigned the case of apprehending Kakhan, his first suspect is none other than Dev himself, and Dev must prove to Khan that he is earnest, and will not hesitate to arrest Kakhan. It remains to be seen if Dev will really apprehend his friend's dad, or just play around without really getting anywhere."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 3
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2269_bolly",
+      "emotion": "shame",
+      "dialogue": "I've returned after praying for his well-being and long life. But when will you change? You take forever to do anything. Fell a little ashamed. It has been ages since you applied for the job's exams. But there's no sign of the results.",
+      "target_person": "job applicant",
+      "target_gender": "unclear",
+      "cause_raw": "procrastination or inefficiency",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2270_bolly",
+      "emotion": "shame",
+      "dialogue": "- What nonsense is this? - it's no nonsense. I am making love. I am kissing. Do you know why? - He's my future husband. - You shameless woman! Why are you cursing me like this? Mind your tongue. Do you think that I am your wife?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "premarital physical intimacy",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s2271_bolly",
+      "emotion": "shame",
+      "dialogue": "Then I would have sacrificed her for you. Why are you laughing like this? You are shameless. I am crying here, and you are laughing merrily? There will be a day when you would be weeping......and I would be laughing.",
+      "target_person": "character laughing",
+      "target_gender": "unclear",
+      "cause_raw": "insensitivity towards others' feelings",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p1172_bolly",
+      "emotion": "pride",
+      "dialogue": "Who is he, sir? Send inspector Dev in. - I am glad to meet you. - I am also proud to have met you. That's because you are the pride of the police department. I would like you to become the pride of the department some day.",
+      "target_person": "inspector Dev",
+      "target_gender": "male",
+      "cause_raw": "becoming the pride of the police department",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1173_bolly",
+      "emotion": "pride",
+      "dialogue": "Send inspector Dev in. - I am glad to meet you. - I am also proud to have met you. That's because you are the pride of the police department. I would like you to become the pride of the department some day. if anybody even tries to touch father's reflection in jail......l will kill that man.",
+      "target_person": "Dev",
+      "target_gender": "male",
+      "cause_raw": "being the pride of the police department",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1174_bolly",
+      "emotion": "pride",
+      "dialogue": "- I am glad to meet you. - I am also proud to have met you. That's because you are the pride of the police department. I would like you to become the pride of the department some day. if anybody even tries to touch father's reflection in jail......l will kill that man. It's of no use to console each other within the four walls.",
+      "target_person": "second speaker",
+      "target_gender": "unclear",
+      "cause_raw": "meeting the pride of the police department",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

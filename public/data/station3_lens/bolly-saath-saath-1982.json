@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "218111",
+    "title": "Saath Saath",
+    "year": "1982",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/kOd4IFry1sA5Vjl21VVEwAuo52N.jpg",
+    "overview": "The story is about a simple man with high moral values. Avinash (Farookh Shekh) is a poor but self respected guy. His policy is to earn while you learn. He excels in his studies and wishes for an idealistic society to live in. He wants to change the world with truth and simplicity. Movie has beautiful Gazals from Jagjit Singh and Chitra Singh"
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1813_bolly",
+      "emotion": "shame",
+      "dialogue": "Wow!  -It sounds good. Shall I tell you?  -Yes. -Columbus. You did great. There is a limit to shamelessness. You wrote again those who run this newspaper. You'll get me in trouble. Is this the way to act?",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior or actions",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1814_bolly",
+      "emotion": "shame",
+      "dialogue": "We just want....you to tell us the truth. Father....if it's about Avinash and my marriage....then it's true. Aren't you ashamed to say this? No, mother. Not at all. It's true, but not wrong.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "marrying without parent's consent",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1815_bolly",
+      "emotion": "shame",
+      "dialogue": "I thought you'd be happy to meet them. I'm happy, but..Now that you've called them..Friend, there is a big problem of accommodation. It's so small that....if anyone comes home, I feel ashamed. There are two alternatives. Either book a flat in co- Operative society....or keep feeling ashamed.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "living in a small house",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1816_bolly",
+      "emotion": "shame",
+      "dialogue": "It's so small that....if anyone comes home, I feel ashamed. There are two alternatives. Either book a flat in co- Operative society....or keep feeling ashamed. Your first suggestion is great. But I need money for that too.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "living in a small house",
+      "theme_label": "Poverty"
+    }
+  ]
+}

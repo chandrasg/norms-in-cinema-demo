@@ -1,0 +1,108 @@
+{
+  "film": {
+    "id": "78880",
+    "title": "Amman Kovil Kizhakale",
+    "year": "1986",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cvNyhndV2ALXgsmeF5JaDQ712UT.jpg",
+    "overview": "Kanmani, a wealthy girl, decides to teach Chinnamani a lesson by pretending to be in love with him. Things, however, take an ugly turn when Chinnamani marries her in a fit of rage."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 3
+    },
+    {
+      "label": "Patriotism",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    },
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s56_bolly",
+      "emotion": "shame",
+      "dialogue": "You? - No, sir. We were talking amongst ourselves. Sorry! Stop! Shame on such a marriage. Your parents did not even give me a bag. They have deceived us. Don't look there! Look down.",
+      "target_person": "bride",
+      "target_gender": "female",
+      "cause_raw": "not providing dowry",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s57_bolly",
+      "emotion": "shame",
+      "dialogue": "'Today's age.' 'And from a daughter-in-law I became a mother-in-law.' It's a shame to this marriage! Munni! - It's a shame to this marriage! Your father had said that he would give fifty thousand as dowry.",
+      "target_person": "Munni's father",
+      "target_gender": "male",
+      "cause_raw": "not providing the promised dowry",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s58_bolly",
+      "emotion": "shame",
+      "dialogue": "'And from a daughter-in-law I became a mother-in-law.' It's a shame to this marriage! Munni! - It's a shame to this marriage! Your father had said that he would give fifty thousand as dowry. But he did not give a single penny.",
+      "target_person": "Munni's father",
+      "target_gender": "male",
+      "cause_raw": "not providing dowry",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s59_bolly",
+      "emotion": "shame",
+      "dialogue": "Like you I will not suppress my feelings. What did you say? You shameless girl! You... you... you have... you have...accused Suraj? That means you have accused me.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "expressing her feelings",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p24_bolly",
+      "emotion": "pride",
+      "dialogue": "Kamli, lift up her veil. Move back! Sister, don't be so proud of your wealth. I came here with my daughter-in-law to give your respect....and not to degrade ourselves. Take back your gift.",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "wealth",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p25_bolly",
+      "emotion": "pride",
+      "dialogue": "Father, don't be worried. Your son is going to die for the sake of our country's freedom. You should be proud of me. Yes, my son. I am proud! I am very proud. But after you are hanged will these people allow us to take you away....home for the last rites?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "dying for country's freedom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p26_bolly",
+      "emotion": "pride",
+      "dialogue": "Your son is going to die for the sake of our country's freedom. You should be proud of me. Yes, my son. I am proud! I am very proud. But after you are hanged will these people allow us to take you away....home for the last rites? No, father. Why is that necessary?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "dying for country's freedom",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

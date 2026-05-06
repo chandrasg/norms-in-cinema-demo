@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "272243",
+    "title": "Speed",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/r3n9To0WxMrLiiPLw5KEl4N7Qn0.jpg",
+    "overview": "Sandeep Malhotra comes to London to convince his girlfriend to give him another chance. Meanwhile, Siddharth, an undercover MI5 agent, receives a CD, which contains the recording of his kidnapped wife, Richa, and is asked to follow the instructions."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4250_bolly",
+      "emotion": "shame",
+      "dialogue": "I am going to, going to take you home with me. Some how! Some how! Don't create a scene. Have some shame. People will laugh at us. Think about it There is time, think about it.",
+      "target_person": "character being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "creating a public scene",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p2327_bolly",
+      "emotion": "pride",
+      "dialogue": "But my advisors tell me, it is best that your names are not revealed. No problem ma'am, I completely understand. You must be very proud of him. There are very few people, that risk their own life......to save others lives. - Yes ma'am, I am very proud of you. This is a personal thank you from me.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "bravery and selflessness",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p2328_bolly",
+      "emotion": "pride",
+      "dialogue": "No problem ma'am, I completely understand. You must be very proud of him. There are very few people, that risk their own life......to save others lives. - Yes ma'am, I am very proud of you. This is a personal thank you from me. If you need anything, do let me know.",
+      "target_person": "ma'am",
+      "target_gender": "female",
+      "cause_raw": "saving others' lives",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

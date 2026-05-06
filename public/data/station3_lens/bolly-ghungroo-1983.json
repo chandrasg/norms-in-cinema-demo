@@ -1,0 +1,107 @@
+{
+  "film": {
+    "id": "306409",
+    "title": "Ghungroo",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6LxRkMDSD8yjuV3MuJZ7lMzuU0Y.jpg",
+    "overview": "While on his deathbed, the Emperor promises that his Senapati, Vikram Singh, will be treated like his son, and he will get married to a woman from a royal family. He also asks Vikram to obey every wish and whim of his wife, Ranimaa, to which Vikram agrees to. A few moments later the emperor passes away. After the formal mourning period is over, Ranimaa announces that she would like Vikram to marry Princess Priya. Vikram agrees to this, and soon Priya and he are married with great pomp and ceremony. After this marriage, Priya learns that Vikram really loves a prostitute named Kesarbai, and has only married her as he had promised to obey every wish and whim of Ranimaa. She also finds out that Kesar and Vikram had a baby girl as a result of this relationship."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 3
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2136_bolly",
+      "emotion": "shame",
+      "dialogue": "I wish, instead of the oath you would whip or behead me. This head has always been held high while meeting out justice. But your persistence has snatched a woman's rights...and made me bow with shame. Which woman are you talking of, who...is a stigma in the name of womanhood? She has had more than one lover.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "having multiple lovers",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s2137_bolly",
+      "emotion": "shame",
+      "dialogue": "Where does Renu live? Why do you want to know a girl's address? Aren't you ashamed? Just listen to him. Hey...What is wrong in it? Should we tell you?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "asking a girl's address without her consent",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2138_bolly",
+      "emotion": "shame",
+      "dialogue": "They work hard the whole day..only then they get food. Will you be able to do it? Why not? - Won't you fell ashamed? - Why should I? Then go and start. See how our prince is working with the masses.",
+      "target_person": "Prince",
+      "target_gender": "male",
+      "cause_raw": "working with the masses",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2139_bolly",
+      "emotion": "shame",
+      "dialogue": "- Where is my daughter? - Let me introduce you to Renu. - Is Renu my daughter? - Yes. I am very ashamed, Suraj Please forgive me. I...No, I should be the one to apologies. I thought that your love was lust and your duty was injustice Forgive me! Come, let me introduce you to your daughter.",
+      "target_person": "Suraj",
+      "target_gender": "male",
+      "cause_raw": "misunderstanding and misjudging someone's intentions",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1121_bolly",
+      "emotion": "pride",
+      "dialogue": "Come this way with me. It wouldn't be right for you to hold my hand. The one who holds your hand, should be proud of himself. -What you think, I am not... -What I think is right. - I know that you are... - Vikram.. - Yes.",
+      "target_person": "Vikram",
+      "target_gender": "male",
+      "cause_raw": "holding the speaker's hand",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1122_bolly",
+      "emotion": "pride",
+      "dialogue": "Your highness, will you accept my Renu? - Will you, queen mother? - Call me only mother. I lived in dark for quite long. The people I thought my own...proved to be my enemy. I will accept Renu with pride. I have a request, Suraj. Request?",
+      "target_person": "queen mother",
+      "target_gender": "female",
+      "cause_raw": "accepting Renu",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

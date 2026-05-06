@@ -1,0 +1,159 @@
+{
+  "film": {
+    "id": "14163",
+    "title": "Chak De! India",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg",
+    "overview": "A team of rag-tag girls with their own agenda form Team India competing for international fame in field hockey. Their coach, the ex-men's Indian National team captain, returns from a life of shame after being unjustly accused of match fixing in his last match. Can he give the girls the motivation required to win, while dealing with the shadows of his own past?"
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 10
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 3
+    },
+    {
+      "label": "Sports Victory",
+      "count": 3
+    },
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 9
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s692_bolly",
+      "emotion": "shame",
+      "dialogue": "Sold his team out in the World cup! Was thrown out of the team, the country. What else can I say? I am ashamed to say any more. Does it hurt? I have a spray..How is Nethra?",
+      "target_person": "cricketer",
+      "target_gender": "male",
+      "cause_raw": "poor performance in sports",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s693_bolly",
+      "emotion": "shame",
+      "dialogue": "Get the coach to use the Dutch tactic..Ho! Ho! A minor confusion.. Looks like Soimoi does not understand the referee..And one more penalty corner for Australia. Match over! Australia - 7, india - 0. A shameful defeat for india..Well played! - How did you ever make it to the World championship? Bindia! Bindia.. What were you up to?",
+      "target_person": "Indian Hockey Team",
+      "target_gender": "unclear",
+      "cause_raw": "poor performance in sports",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p336_bolly",
+      "emotion": "pride",
+      "dialogue": "Your tune was the rhythm of my life Just some food for the road..Do you want us to be thrown out of the neighbourhood? My divine master, you are my pride My master, my life is yours to take So, what have you decided?",
+      "target_person": "disciple",
+      "target_gender": "unclear",
+      "cause_raw": "devotion to master",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p337_bolly",
+      "emotion": "pride",
+      "dialogue": "today india are playing 6 times World champions Australia. The teams are greeting each other - Australia exudes the confidence of World champions..The teams pay their respects to their flags..A deep sense of pride in the eyes of coach Kabir Khan and his team..Excitement in the stands..Teams are raring to go and the match begins! Australia has the ball.. Back pass! A long scoop, straight to india's 25 yard line..Left the indian defenders behind.. cross pass.. and GOAL!",
+      "target_person": "Kabir Khan",
+      "target_gender": "male",
+      "cause_raw": "Coaching a national team",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p338_bolly",
+      "emotion": "pride",
+      "dialogue": "I was your third colour once Your tune was the rhythm of my life You were my master, you were my pride My master, my life is yours to take What are you doing here, sir?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "serving the master",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p339_bolly",
+      "emotion": "pride",
+      "dialogue": "it will not play this match as an underdog team. Just how important this goal was for the team's psyche, is reflected in the look of pride on coach Kabir Khan's face. What the hell just happened? They have changed something. Find out what it is.",
+      "target_person": "Kabir Khan",
+      "target_gender": "male",
+      "cause_raw": "team's performance",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p340_bolly",
+      "emotion": "pride",
+      "dialogue": "My master I was your third colour once You were my master, you were my pride My master, my life is yours to take And now Ladies and Gentlemen, we ....present to you the new World champions, Team India..Jaya Hind! (Hail India)",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being part of the winning team",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p341_bolly",
+      "emotion": "pride",
+      "dialogue": "As long as players like Kabir Khan exist,....indian hockey can hold its head high. Brother Khan has proved that there is no greater motivation.... than playing for your flag Kabir Khan - the spirit of India! Kabir Khan - the pride of India! The credit of winning this trophy, is being ....given to the team's coach - Kabir Khan And what does the man on the street have to say?",
+      "target_person": "Kabir Khan",
+      "target_gender": "male",
+      "cause_raw": "Winning a trophy for India",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p342_bolly",
+      "emotion": "pride",
+      "dialogue": "And what does the man on the street have to say? There can be no one more respected than the man ....who raised the status of our National game. He makes you feel proud to be an indian. - ....Kabir Khan has showed us all who a true indian is Kabir Khan - the spirit of India! Kabir Khan - the pride of india! TRAiTOR",
+      "target_person": "man on the street",
+      "target_gender": "male",
+      "cause_raw": "raising the status of national game",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p343_bolly",
+      "emotion": "pride",
+      "dialogue": "There can be no one more respected than the man ....who raised the status of our National game. He makes you feel proud to be an Indian. - ....Kabir Khan has showed us all who a true indian is Kabir Khan - the spirit of India! Kabir Khan - the pride of India! TRAlTOR chak de! chak de India!(Go India!)",
+      "target_person": "Kabir Khan",
+      "target_gender": "male",
+      "cause_raw": "raising the status of the national game",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p344_bolly",
+      "emotion": "pride",
+      "dialogue": "I was your third colour once Your tune was the rhythm of my life You were my master, you were my pride My master, my life is yours to take So Preeti has no clue that you are going to propose ....to her before the entire country?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "devotion to master",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p345_bolly",
+      "emotion": "pride",
+      "dialogue": "congrats Vidya.. - Thank you! come on, everyone is waiting for you, especially Dad. He says that his daughter-in-law has made him really proud.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "daughter-in-law's achievement",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

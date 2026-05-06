@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "158388",
+    "title": "Little Red Wagon",
+    "year": "2012",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/baVkKSEPW7y6D46zMprSC6JDfhd.jpg",
+    "overview": "With nothing more than a blazing spirit of philanthropy and his beat-up red wagon, Zach sets out to help homeless children in America. In the process, he sweeps his fractured family - and ultimately the entire country - along with him."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2629_holly",
+      "emotion": "pride",
+      "dialogue": "All right. Nice work, little man. Thanks.  I'll get your mic, here.  You must be so proud.  Yeah, I'm about to bust.  You know, I was wondering... Excuse me.",
+      "target_person": "little man",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2630_holly",
+      "emotion": "pride",
+      "dialogue": "I mean, I really do.  Yeah.  I know it's been hard on you, but... I think your dadwould be so proud,  how you got through all this.  Do you know what I miss most?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "overcoming difficulties",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP2631_holly",
+      "emotion": "pride",
+      "dialogue": "it touches me, Zach.  In ways I can't even explain.  I am so proud of you.  And I'm so glad I get to help you with this.  So, let's you and me finish this, okay?",
+      "target_person": "Zach",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2632_holly",
+      "emotion": "pride",
+      "dialogue": "Shiny new and red   And your daddy pulled you around and around   You felt so loved You felt so proud   Now open up your eyes and you will see   Children waiting for the love they need",
+      "target_person": "You",
+      "target_gender": "male",
+      "cause_raw": "feeling loved and proud as a child",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

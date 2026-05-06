@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "338065",
+    "title": "Dil Dhadakne Do",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN|ES|TR|IT|FR|TN",
+    "poster_path": "/AqFX6282JM2ollS4XTFp6t6Dwa9.jpg",
+    "overview": "On a cruise to celebrate their parents' 30th wedding anniversary, a brother and sister deal with the impact of family considerations on their romantic lives."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1137_bolly",
+      "emotion": "shame",
+      "dialogue": "What gift? - The plane you are selling. <i>MOW.!</i> Have you no shame? I didn’t say anything. What’s wrong with you, Kabir? - Just leave him out of this.",
+      "target_person": "Kabir",
+      "target_gender": "male",
+      "cause_raw": "Accused of selling a plane",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "p571_bolly",
+      "emotion": "pride",
+      "dialogue": "You should have seen him, Jamaal...He was a tiger! Really? Good job, Kabir. Proud of you! You have completely forgotten Delhi and all of us. Not at all, Amrish uncle! You must come more often.",
+      "target_person": "Jamaal",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p572_bolly",
+      "emotion": "pride",
+      "dialogue": "Without anybody's help look at where you've reached. And I am really proud of you! That's it. Who the hell does he think he is?",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "personal achievement",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

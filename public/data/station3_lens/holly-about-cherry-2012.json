@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "94901",
+    "title": "About Cherry",
+    "year": "2012",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/gl6Q7GwDnwHDNd1emmQBoyUKiwB.jpg",
+    "overview": "18-year-old Angelina shuffles between school, a dead-end job, her exploitative boyfriend, and home, where her life consists of cleaning up after her alcoholic mother and protecting her younger sister from their menacing stepfather. After arranging an escape to San Francisco with her best friend Andrew, she soon finds herself dating a coke-addicted attorney and becoming immersed in the local porn industry, mentored by lesbian director Margaret, who has more than just a professional interest in Angelina's talents."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP857_holly",
+      "emotion": "pride",
+      "dialogue": "Well, you're gonna do great.  You're the smartest person I know.  I'm so proud of you.  You turned out so great in spite of everything.  You make everything okay.",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "for being smart and overcoming adversity",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP858_holly",
+      "emotion": "pride",
+      "dialogue": "This is Mrs. Larchmont,  the chairwoman of the acquisitions committee  and the proud sponsor of this exhibition.  Oh, cool.  And proud mother of this handsome boy.",
+      "target_person": "Mrs. Larchmont",
+      "target_gender": "female",
+      "cause_raw": "sponsoring the exhibition and being a mother",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP859_holly",
+      "emotion": "pride",
+      "dialogue": "and the proud sponsor of this exhibition.  Oh, cool.  And proud mother of this handsome boy.  You didn't tell me that.  Well, it's really something.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "her son's handsomeness",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP860_holly",
+      "emotion": "pride",
+      "dialogue": "Look, I can help.  I will.  I'm so proud of you.  I thought you were going in the other direction.  Here you are six months later.",
+      "target_person": "Unidentified speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

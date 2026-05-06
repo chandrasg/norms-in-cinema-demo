@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "602609",
+    "title": "Good Sam",
+    "year": "2019",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/8HYTN6cCfqUwBEGAlKcXhEjiSEd.jpg",
+    "overview": "A news reporter looks into who has been anonymously leaving large cash gifts on random doorsteps in New York."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP104_holly",
+      "emotion": "pride",
+      "dialogue": "My dad still doesn't understand  why I chose to go to journalism school instead of law school like he did.  Yeah, but... I know that your dad is very proud of you.  I know that your dad is very proud of you.  He's slowly warming up to this whole reporter thing.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "choosing journalism school",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP105_holly",
+      "emotion": "pride",
+      "dialogue": "why I chose to go to journalism school instead of law school like he did.  Yeah, but... I know that your dad is very proud of you.  I know that your dad is very proud of you.  He's slowly warming up to this whole reporter thing.  He likes the Good Sam stories I'm doing.",
+      "target_person": "dad",
+      "target_gender": "male",
+      "cause_raw": "choosing journalism and doing good sam stories",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP106_holly",
+      "emotion": "pride",
+      "dialogue": "if they weren't weighed down by where it came from.  I'm really sorry about your brother.  But I think he'd be so proud of what you've done here.  Thanks.  I cannot be your story.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "for what the person has done",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

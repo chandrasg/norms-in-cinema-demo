@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "152599",
+    "title": "The Immigrant",
+    "year": "2013",
+    "industry": "holly",
+    "country": "US|FR",
+    "poster_path": "/ArWRRQYeXL3nG4jYpMOPoBvgmy9.jpg",
+    "overview": "1921 New York. An immigrant woman is tricked into a life of burlesque and vaudeville until a dazzling magician tries to save her and reunite her with her sister who is being held in the confines of Ellis Island."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1209_holly",
+      "emotion": "shame",
+      "dialogue": "They cut their head off and they make us watch.  No, don't touch me. Don't touch me.  Shame on you.  Shame!  I don't need to force myself on you!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "forcing oneself on someone",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WS1210_holly",
+      "emotion": "shame",
+      "dialogue": "No, don't touch me. Don't touch me.  Shame on you.  Shame!  I don't need to force myself on you!  You are a stranger to me.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "inappropriate physical contact",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WS1211_holly",
+      "emotion": "shame",
+      "dialogue": "Why?  I have a good name here, a business.  I won't be shamed.  I didn't do anything.  The men at Ellis Island, they told me what you did on the ship!",
+      "target_person": "Unnamed Character",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior on the ship",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WS1212_holly",
+      "emotion": "shame",
+      "dialogue": "I...I let him use me.  And I stay with him.  And I'm ashamed.  God punishes you for your sins, my child.  I know. I know.",
+      "target_person": "Unnamed Female Character",
+      "target_gender": "female",
+      "cause_raw": "staying in an abusive/unhealthy relationship",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WP2205_holly",
+      "emotion": "pride",
+      "dialogue": "Is it a sin to want to survive,  when I have done many bad things?  Your uncle is a proud man.  I cannot change that.  I know.",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

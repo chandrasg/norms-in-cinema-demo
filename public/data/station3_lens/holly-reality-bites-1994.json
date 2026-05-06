@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "2788",
+    "title": "Reality Bites",
+    "year": "1994",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/qGDhodtpkpxkrFqokenGNJlzt6w.jpg",
+    "overview": "A small circle of friends suffering from post-collegiate blues must confront the hard truth about life, love and the pursuit of gainful employment. As they struggle to map out survival guides for the future, the Gen-X quartet soon begins to realize that reality isn't all it's cracked up to be."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP700_holly",
+      "emotion": "pride",
+      "dialogue": "- Shut up. - It's not even a big deal.  The old manager tried to kill herself by eating a whole pot of poinsettias.  - Still, I'm so proud of you! - I'll be making $400 a week.  We're never gonna have rent problems again.  Troy, aren't you excited?",
+      "target_person": "Troy",
+      "target_gender": "male",
+      "cause_raw": "making $400 a week and solving rent problems",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP701_holly",
+      "emotion": "pride",
+      "dialogue": "our gross has increased over 20%, uh... - So? - What?  - So? - What?  Okay, okay. Um, I guess I'm proud of that.  Ho, please. Look at this sweater.  People don't know what it takes.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "increasing gross by 20%",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP702_holly",
+      "emotion": "pride",
+      "dialogue": "Mmm, well. I hate to say it,  but times are hard.  You're just gonna have to swallow your pride.  Why don't you get a job at Burgerama? They'll hire you.  My Lord, I saw on TV",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

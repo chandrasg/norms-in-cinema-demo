@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "619094",
+    "title": "Naya Kadam",
+    "year": "1984",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/paEqKKFbkeKx81ATa3ogxGou8ip.jpg",
+    "overview": "Madhukar and Jaggu are Hitler-like tyrants who rule over a small community with an iron hand. They prefer to keep the inhabitants illiterate, so that they can continue to oppress and abuse them over time. But one young lad, Ramu, educates himself secretly with the help of the local school-master, Srikanth. Years later, Ramu has grown up and is now a formidable force to reckon with. Madhukar and Jaggu see him as a threat and soon spin a web of lies and deceit around him, leaving him with no alternative except to retreat, leaving the poor villagers once again at their mercy of their oppressors."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3776_bolly",
+      "emotion": "shame",
+      "dialogue": "Wish you all the best. Let's go. What shame! You keep a small moustache......wear glasses, carry a baton, and call yourself Hitler! Were out to rout him indeed! I declare to have Ramu finished!",
+      "target_person": "Ramu",
+      "target_gender": "male",
+      "cause_raw": "being compared to Hitler",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p2010_bolly",
+      "emotion": "pride",
+      "dialogue": "You stand for the election of the village chief. I will support you. I am proud of my daughter who is serving a great human being. In fact, even I will serve you from today. I am proud The caste and class system had made me unfair.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "daughter's service to a great person",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p2011_bolly",
+      "emotion": "pride",
+      "dialogue": "I will support you. I am proud of my daughter who is serving a great human being. In fact, even I will serve you from today. I am proud The caste and class system had made me unfair. I was doing such a bad deed.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "daughter's service to a great human being",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

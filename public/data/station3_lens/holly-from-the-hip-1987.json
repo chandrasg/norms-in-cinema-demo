@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "24081",
+    "title": "From the Hip",
+    "year": "1987",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/jkwzakMmaasylJc2Uj9LvL8bSOk.jpg",
+    "overview": "Apprentice lawyer Robin Weathers turns a civil suit into a headline grabbing charade. He must reexamine his scruples after his shenanigans win him a promotion in his firm, and he must now defend a college professor who is appearantly guilty of murder."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS790_holly",
+      "emotion": "shame",
+      "dialogue": "Who never got one penny for her crippling injuries  Because she died before her case came to trial.  The man is totally without shame.  Then think of all the frivolous,  Meaningless cases in which nobody gets hurt",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "not compensating for injuries leading to death",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS791_holly",
+      "emotion": "shame",
+      "dialogue": "Sir, did you have an affair  With liza williams?  Yes, i am ashamed to admit that i did.  I'm a vain man, mr. Weathers.  I have trouble in resisting the attention of women,",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "having an affair",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WP1482_holly",
+      "emotion": "pride",
+      "dialogue": "- Robin:what's he doing here? - Larry:i don't know.  I invited him.  You're both good lawyers. You did yourself proud.  He's got as much cause to celebrate as you do.  Anyhow, i know you're both professionals.",
+      "target_person": "Larry",
+      "target_gender": "male",
+      "cause_raw": "being a good lawyer",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

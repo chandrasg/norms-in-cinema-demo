@@ -1,0 +1,116 @@
+{
+  "film": {
+    "id": "14254",
+    "title": "The Uninvited",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/1xQlzKUDLuCe3SUGIGL6K1PtldH.jpg",
+    "overview": "Anna returns home after spending time in a psychiatric facility following her mother's tragic death and discovers that her mother's former nurse, Rachel, has moved into their house and become engaged to her father. Soon after she learns this shocking news, Anna is visited by her mother's ghost, who warns her that Rachel has evil intentions."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 4
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS558_holly",
+      "emotion": "shame",
+      "dialogue": "And let me assure you, they were not all beautiful like your mom.  No, I mostly had to do things that decrepit old ladies  with lots of money were either too ashamed or weak to do for themselves.  Wanna know how I got through it?  It's terrible,",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "exploiting vulnerable elderly women",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WS559_holly",
+      "emotion": "shame",
+      "dialogue": "l always told myself,  ''They'll be dead very, very soon.''  You know, Anna, we all have things in our past that we're ashamed of.  I think sometimes it's best to just let it go.  Anna?",
+      "target_person": "Anna",
+      "target_gender": "female",
+      "cause_raw": "past actions",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS560_holly",
+      "emotion": "shame",
+      "dialogue": "We talked about going away, but I wanna have the wedding here,  for all of us.  I'm not ashamed, Anna. I'm not ashamed to be happy again.  Bye, Daddy.  We shouldn't be late for Matt's service. Wear something decent.",
+      "target_person": "Anna",
+      "target_gender": "female",
+      "cause_raw": "being happy again after a presumably tragic event",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS1408_holly",
+      "emotion": "shame",
+      "dialogue": "And let me assure you, they were not all beautiful like your mom.  No, I mostly had to do things that decrepit old ladies  with lots of money were either too ashamed or weak to do for themselves.  Wanna know how I got through it?  It's terrible,",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "exploiting vulnerable elderly women",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WS1409_holly",
+      "emotion": "shame",
+      "dialogue": "l always told myself,  ''They'll be dead very, very soon.''  You know, Anna, we all have things in our past that we're ashamed of.  I think sometimes it's best to just let it go.  Anna?",
+      "target_person": "Anna",
+      "target_gender": "female",
+      "cause_raw": "past actions",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS1410_holly",
+      "emotion": "shame",
+      "dialogue": "We talked about going away, but I wanna have the wedding here,  for all of us.  I'm not ashamed, Anna. I'm not ashamed to be happy again.  Bye, Daddy.  We shouldn't be late for Matt's service. Wear something decent.",
+      "target_person": "Anna",
+      "target_gender": "female",
+      "cause_raw": "being happy again after a presumably tragic event",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP1195_holly",
+      "emotion": "pride",
+      "dialogue": "The pearls.  Rachel said they were a gift from an old patient.  She put them around my neck. Like... Like she was proud of them.  Yeah, well, lucky for us, now we have proof.  Yeah, if we can get our hands on them.",
+      "target_person": "Rachel",
+      "target_gender": "female",
+      "cause_raw": "gifting pearls",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2492_holly",
+      "emotion": "pride",
+      "dialogue": "The pearls.  Rachel said they were a gift from an old patient.  She put them around my neck. Like... Like she was proud of them.  Yeah, well, lucky for us, now we have proof.  Yeah, if we can get our hands on them.",
+      "target_person": "Rachel",
+      "target_gender": "female",
+      "cause_raw": "gifting pearls",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

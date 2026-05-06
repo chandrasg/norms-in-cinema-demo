@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "454388",
+    "title": "Samson",
+    "year": "1964",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/yR5mcW3pOXgeokWKq0ahgUyZfWf.jpg",
+    "overview": "Samson is story that stars Dara Singh, Ameeta, Feroz Khan and many others. In this movie Dara Singh plays the mythological Samson character to the hilt as he must contend with a love starved princess and her all female warriors, a sorcerer and his magical dwarfs, a dinosaur sized lizard, and a rebel in love with a hand-maiden. How will the story unfold, how beautifully will it end. Watch as the climax reveals it all."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1858_bolly",
+      "emotion": "shame",
+      "dialogue": "Rashid's enchantment will go against him. And he will be exposed to the world. Liars will be shamed and the truthful will be heard. Hatred will end. And love will smile.",
+      "target_person": "Rashid",
+      "target_gender": "male",
+      "cause_raw": "lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p972_bolly",
+      "emotion": "pride",
+      "dialogue": "You are dreaming a musical dream. Rub your eyes with your hands. Smile proudly. The dawn will become bright. The dawn will become bright.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p973_bolly",
+      "emotion": "pride",
+      "dialogue": "Ustad Rashid. - Hail him. Ustad Rashid. - Hail him. Ustad Rashid is still proud of his strength. We can turn the entire world into ashes....with our friend Aag. And with my friend Paani we can immerse....the entire world with water.",
+      "target_person": "Ustad Rashid",
+      "target_gender": "male",
+      "cause_raw": "his strength",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

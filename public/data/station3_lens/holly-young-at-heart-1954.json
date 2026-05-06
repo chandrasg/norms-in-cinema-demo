@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "43340",
+    "title": "Young at Heart",
+    "year": "1954",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/t4n74mKJAfx1ln1CTGSa9vxS1z6.jpg",
+    "overview": "The lives and romances of three sisters in a musical family; the youngest daughter's life is complicated by the subsequent arrival of a charming composer and a cynical music arranger."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1027_holly",
+      "emotion": "shame",
+      "dialogue": "You know my mom doesn't like to eat alone.  So invite her over!  What? Are you ashamed of me or something?  I'll give you some sauce to take home.  I wish my dad were here.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "ashamed of partner",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP1937_holly",
+      "emotion": "pride",
+      "dialogue": "Just taking a look at what's out there.  - How was school? - The same.  The seminar thing was about pride today.  Go figure.  You're what I take pride in you know... raising you.",
+      "target_person": "parent",
+      "target_gender": "unclear",
+      "cause_raw": "raising their child",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1938_holly",
+      "emotion": "pride",
+      "dialogue": "The seminar thing was about pride today.  Go figure.  You're what I take pride in you know... raising you.  I don't know how much credit I can take  but I'm really proud of who you are.",
+      "target_person": "speaker 2",
+      "target_gender": "unclear",
+      "cause_raw": "raising the other person",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1939_holly",
+      "emotion": "pride",
+      "dialogue": "You're what I take pride in you know... raising you.  I don't know how much credit I can take  but I'm really proud of who you are.  Mom, what is the deal with hand jobs?  How do you know if you're doing the right th-",
+      "target_person": "Mother",
+      "target_gender": "female",
+      "cause_raw": "raising her child",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

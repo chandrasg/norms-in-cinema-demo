@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "128488",
+    "title": "Shukriya: Till Death Do Us Apart",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xcUSExwHtdoKKDdWVuWxi93RNfR.jpg",
+    "overview": "hirty years ago Karam Jindal together with his widowed mom, Gayatri, and wife, Sandhya, had immigrated to London, England. Shortly thereafter Gayatri gets cancer and tragically passes away. Then, Sandhya gives birth to two daughters, Anjali and Sanam. The Jindals accumulate wealth, and are now one of the wealthiest families' in London. Anjali gets married to Akash, while Sanam is on the look-out for her beau. With Karam's 60th birthday coming up, Anjali is busy with preparations for a grand party, while Sanam has already started with her make-up. Karam hopes to get Sanam married to Yash, his employee, who is like a son to him. Add to that is the inauguration of the \"Gayatri Jindal Cancer Hospital\" which is to be done on the same day."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2264_bolly",
+      "emotion": "pride",
+      "dialogue": "U R jindal. U R jindal. Yes sir. I am U R jindal. Sir, I am very proud of you. - Yes. You have brought glory to the name of jindals coming here. And this what you have erected, this tension...This is great. - Tension?",
+      "target_person": "U R jindal",
+      "target_gender": "male",
+      "cause_raw": "Achievements and contributions",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2265_bolly",
+      "emotion": "pride",
+      "dialogue": "Thirty nine and a half. Hold your breath sir. Thirty six. What are you saying? I am proud of you. - Really! Bless you! Bless you. Hi. My possession.",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2266_bolly",
+      "emotion": "pride",
+      "dialogue": "Superb. I think that the deal that Yash did was outstanding. Well done Yash, I am proud of you. Thank you, sir. And I think that this deal......we should route this deal through our japan office......because their currency is much stronger than the dollar.",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "Yash's business deal",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

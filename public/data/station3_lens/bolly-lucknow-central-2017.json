@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "471919",
+    "title": "Lucknow Central",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gnGl9Djk4JCzJwFF5BhiL7nXL9Z.jpg",
+    "overview": "After being accused of murder and awaiting his death penalty, Kishen Mohan Girhotra is compelled by NGO worker Gayatri Kashyap to form a musical band of prisoners to compete at band competition held at the dreaded jail of ‘Lucknow Central’. Kishen befriends and convinces a talented bunch of criminals to form a band that provides them with a purpose and a new lease of life."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3382_bolly",
+      "emotion": "shame",
+      "dialogue": "- Yes, so? - Oh my, my. - Can we give you a lift? - Thank you. - Come. Come. - Get lost! You shameless dog. Wait! Where are you going?! Stop! Stop you rascal.",
+      "target_person": "unknown male",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1770_bolly",
+      "emotion": "pride",
+      "dialogue": "Five people will turn over to a new life. They'll make some achievement in life. - What do you stand to lose? - I lose my pride. Pride. It took me 15 years to make it, can't lose it so easily.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1771_bolly",
+      "emotion": "pride",
+      "dialogue": "They'll make some achievement in life. - What do you stand to lose? - I lose my pride. Pride. It took me 15 years to make it, can't lose it so easily. Lucknow central jail is my fortress.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "maintaining reputation",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1772_bolly",
+      "emotion": "pride",
+      "dialogue": "Your name has been printed on this. Bindiya Pandit, daughter of Shiv Purushottam Pandit. I printed this with pride. And, you're thinking about running away. Even I want to taste freedom. It's been 12 years.",
+      "target_person": "Shiv Purushottam Pandit",
+      "target_gender": "male",
+      "cause_raw": "daughter's achievement",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1773_bolly",
+      "emotion": "pride",
+      "dialogue": "Mine, sir! Great. Life's in s**t, But you've still got pride. Even the color of your uniform is same. Do you remember something, IG sir?",
+      "target_person": "IG sir",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

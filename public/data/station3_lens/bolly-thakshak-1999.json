@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "73110",
+    "title": "Thakshak",
+    "year": "1999",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/rUGay9zMlCvyJ3IBPNvinv4YX4Y.jpg",
+    "overview": "Nahar Singh's (Amrish Puri) fore-fathers and he have sworn to protect the family and heirs of powerful underworld don, Jodhabhai and his heirs for generations. Nahar would like his son, Ishaan (Ajay Devgan) to continue this tradition, to which he is willing as he friendly with Jodhabhai's son, Sunny (Rahul Bose). Ishaan's vow begins to falter when he falls in love with Suman Dev (Tabu). Things gets even more complicated when Suman comes forward to testify that she witnessed Sunny's car being driven from the scene of a multiple homicide. Sunny finds this out and asks Ishaan to chose between him and Suman, and Ishaan choses Suman. Things escalate out of control when Nahar is killed; and Ishaan becomes a prime suspect in the multiple-family homicide."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4417_bolly",
+      "emotion": "shame",
+      "dialogue": "This voice is inside you too but you have suppressed it with your faithfulness. This was mom's voice too but my head bows in shame by lying to people about you. Who do you lie to? Who are those people? Did he tell you anything?",
+      "target_person": "speaker himself",
+      "target_gender": "male",
+      "cause_raw": "lying about someone's identity",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2430_bolly",
+      "emotion": "pride",
+      "dialogue": "You'll be told - but there is no other guarantee. Well done ishan - After all you're Nahar's blood. I'm proud you succeeded in such a difficult task Sunny - ishan is your shadow. As long he is with you I'll not worry about you. And lshan your safety is",
+      "target_person": "Nahar",
+      "target_gender": "male",
+      "cause_raw": "Ishan's success",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2431_bolly",
+      "emotion": "pride",
+      "dialogue": "We have signed our oath with our blood. You're my blood ishan - inheritor of my faithfulness. I respect your faithfulness - I'm proud of your courage...but by being faithful should I also remain blind - should I refuse to distinguish between right and wrong. Who is talking inside you?",
+      "target_person": "Ishan",
+      "target_gender": "male",
+      "cause_raw": "courage",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

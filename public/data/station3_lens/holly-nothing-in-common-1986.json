@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "29968",
+    "title": "Nothing in Common",
+    "year": "1986",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/m2G6Idl1CKJwOt8aFsnJk08sfDP.jpg",
+    "overview": "A successful advertising executive finds his freewheeling life crashing to a halt when his parents end their longtime marriage."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS758_holly",
+      "emotion": "shame",
+      "dialogue": "Come on.  Put it back. Put it back.  Shame on you. I'm sorry.  Get in the car.  Cubitode is a smalltime bookie.",
+      "target_person": "Cubitode",
+      "target_gender": "male",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "WS759_holly",
+      "emotion": "shame",
+      "dialogue": "Mom, the AA doesn't tow your car. They're the one who help alcoholics.  Yes, I'm sorry I bothered you. Goodbye.  - I'm the father he's ashamed of. - Nice.  - Father's on 7, mother's on 8. - I was in a meeting.  Don't put your father on hold.",
+      "target_person": "Father",
+      "target_gender": "male",
+      "cause_raw": "being an embarrassment to his son",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS760_holly",
+      "emotion": "shame",
+      "dialogue": "Help me, help me, please  Whoa, whoa  Such a crying shame  You know I loved you then  You know I love you now",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "not reciprocating love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WP1454_holly",
+      "emotion": "pride",
+      "dialogue": "plus all the kids whose mothers dragged them kicking and screaming.  Goodbye, have a grand year, and remember, Chicago Mart's motto is:  Be proud to be a salesman.  Don't ad-lib the lines. Stick to the copy.  Just sort of enjoy the language and read the script.",
+      "target_person": "Chicago Mart",
+      "target_gender": "unclear",
+      "cause_raw": "being a salesman",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

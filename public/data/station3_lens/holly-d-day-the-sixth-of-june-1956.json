@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "64129",
+    "title": "D-Day the Sixth of June",
+    "year": "1956",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ghPpTqMNDYxexeuxPlc10aWIvot.jpg",
+    "overview": "En route to Normandy, an American and a British officer reminisce in flashback about their romances with the same woman."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP981_holly",
+      "emotion": "pride",
+      "dialogue": "Well, when I do go back, they'll have to give me a division.  Of course, I know why they're keeping me here. They're afraid I'll fight.  When you do get your division, sir, I'd be very proud if I could serve with you again.  And I'd want you, Wynter. You've got the makings.  You had them at St. Omer in '40.",
+      "target_person": "Wynter",
+      "target_gender": "male",
+      "cause_raw": "serving with the sir in his division",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP982_holly",
+      "emotion": "pride",
+      "dialogue": "Just as we started to know each other, you're going away.  And I'd have felt so, sort of, safe and useless and alone  without someone to be proud of, and frightened for,  and to be waiting for when they come back, and to live for when it's all over.  This is going to have to last me a long time.",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP983_holly",
+      "emotion": "pride",
+      "dialogue": "He's been through two wars and quite badly, really,  with all the stupidity and waste of the first  and the angry pride and despair of this one.  But I do love my father, and I just don't know Americans.  But you are here and fighting the war,",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP984_holly",
+      "emotion": "pride",
+      "dialogue": "and most of us want to try and help you and make you feel welcome,  But it's difficult, because some of us, and the older ones particularly,  are proud of what we've done, perhaps for that reason prouder than we've a right to be,  and therefore prouder than we've ever been.  But please don't punish those men, Major, and try to understand us.",
+      "target_person": "older ones",
+      "target_gender": "male",
+      "cause_raw": "their past achievements",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP985_holly",
+      "emotion": "pride",
+      "dialogue": "But it's difficult, because some of us, and the older ones particularly,  are proud of what we've done, perhaps for that reason prouder than we've a right to be,  and therefore prouder than we've ever been.  But please don't punish those men, Major, and try to understand us.  We're not awfully good at being thankful.",
+      "target_person": "older ones",
+      "target_gender": "male",
+      "cause_raw": "their past achievements",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP986_holly",
+      "emotion": "pride",
+      "dialogue": "Or one of those English things made out of damp smoke?  A real blazing fire. And we'll have tea there.  - The African landings went well, didn't they? - Yeah, and am I proud.  I wielded a very valiant pencil.  Oh, darling, that's childish.",
+      "target_person": "speaker 2",
+      "target_gender": "male",
+      "cause_raw": "successful African landings",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

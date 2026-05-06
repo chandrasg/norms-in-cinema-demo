@@ -1,0 +1,91 @@
+{
+  "film": {
+    "id": "344248",
+    "title": "Meri Biwi Ka Jawab Nahin",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fU93Maklubbj3os0kCQ8dySTgen.jpg",
+    "overview": "Ajay gets married to his childhood friend Durga; who is illiterate unable to differentiate between the style of these days and that of long time ago. When Ajay is given the post as police inspector he re-locates to Bombay and later on encourages Durga to move into there new home. In this new environment Durga will meet with some women who are subjected to injustice by some influential people, the police and corrupt politicians. Watch when Durga attempts to defend the rights of these women how she will be maligned and what impact it will cause on her marriage life."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Alcoholism",
+      "count": 3
+    },
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3558_bolly",
+      "emotion": "shame",
+      "dialogue": "A rise in inflation doesn't mean that people will stop eating No, Anna. - Then how can they stop boozing? Shame on you! Come again, sir, please. - Here you go! Shame on you Caught that? - Yes",
+      "target_person": "Anna",
+      "target_gender": "male",
+      "cause_raw": "Drinking alcohol",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s3559_bolly",
+      "emotion": "shame",
+      "dialogue": "No, Anna. - Then how can they stop boozing? Shame on you! Come again, sir, please. - Here you go! Shame on you Caught that? - Yes Sanga, what's the status of kidneys. Is it dwindling?",
+      "target_person": "boozer",
+      "target_gender": "male",
+      "cause_raw": "excessive drinking",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s3560_bolly",
+      "emotion": "shame",
+      "dialogue": "You send your young daughter out to fetch liquor at this late hour? Will you sell your daughter if you don't have the money for liquor? Shame on you! Rather you swallow poison instead of liquor! Kill her if you can't look after her But don't send her to places where life becomes worse than death!",
+      "target_person": "girl's parent",
+      "target_gender": "male",
+      "cause_raw": "sending young daughter to fetch liquor",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s3561_bolly",
+      "emotion": "shame",
+      "dialogue": "On several occasions, I have enjoyed her charms too I'm a human being, after all. We all make mistakes Shame on you! May you go blind! You dare accuse me? You are not permitted to interrupt",
+      "target_person": "accuser",
+      "target_gender": "male",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3562_bolly",
+      "emotion": "shame",
+      "dialogue": "Characterless woman. Every child knows what a filthy relationship you have with the SP And you say he's like your brother! Aren't you ashamed? Get going! What are you staring at? Get lost! Wait, keep all her stuff inside",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "alleged illicit relationship",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3563_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't move. Arrest him. Take them away! Take them away! You ought to be ashamed! It's people like you who have given the police department a bad name Take him away and throw him behind bars",
+      "target_person": "corrupt police officer",
+      "target_gender": "male",
+      "cause_raw": "corruption",
+      "theme_label": "Corruption"
+    }
+  ]
+}

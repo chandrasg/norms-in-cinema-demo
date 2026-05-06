@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "14467",
+    "title": "Jaane Tu... Ya Jaane Na",
+    "year": "2008",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/iV1W0IEtQYuBnnxNmZxSmPHK3Pu.jpg",
+    "overview": "Two best friends being convinced that they are not in love search for each other's love."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2630_bolly",
+      "emotion": "shame",
+      "dialogue": "Get out of Jai's dreams. Then stop turning him into a coward. I feel ashamed of him. He's a Rathore...A Rathore from Ranjhore! If I wanted a Rathore from Ranjhore,",
+      "target_person": "Jai",
+      "target_gender": "male",
+      "cause_raw": "being a coward",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p1376_bolly",
+      "emotion": "pride",
+      "dialogue": "Mark my words, Savitri. One day he will make all of Ranjhore, all the Rathores, all Rajasthan proud. And you shall behold him in silence! The Rathores from Ranjhore took their machismo pretty seriously.",
+      "target_person": "Savitri",
+      "target_gender": "female",
+      "cause_raw": "future achievements of her son",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1377_bolly",
+      "emotion": "pride",
+      "dialogue": "I wish you had returned after being slapped ten times. Nonsense. You're a martyr's widow. You should be proud! I will now enter that painting and strangle you! Why am I listening?",
+      "target_person": "martyr's widow",
+      "target_gender": "female",
+      "cause_raw": "being a martyr's widow",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p1378_bolly",
+      "emotion": "pride",
+      "dialogue": "I haven't seen it either. Amit likes Sushant! - You must be so proud of him. - Thanks, bro-in-law! Bro-in-law? You gave Sushant a painting?",
+      "target_person": "Amit",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

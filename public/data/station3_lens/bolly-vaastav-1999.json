@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "146270",
+    "title": "Vaastav",
+    "year": "1999",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fsB57eZ0EJ9nXLxgfjQG9iYiswH.jpg",
+    "overview": "Raghu, a simpleton, and his best friend decide to run a food stall to get rid of their unemployment. However, Raghu's life takes a drastic turn after he accidentally kills one of their customers and he is pushed into a life of crime."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4526_bolly",
+      "emotion": "shame",
+      "dialogue": "Balaji, you know it and i know it. vijay and Pooja are in love.- -Why don稚 we get them married? - That痴 on of yours, the loafer...-he came to tell me that. No problem even if my daughter stays a spinster. But i won稚 give her to your family. - But Balaji...- Daddy- listen to me...-Shut up! Are you so shameless? just go inside. Go in. -you池e still here? look- he of you. Stop pursuing my daughter.-",
+      "target_person": "Balaji's daughter",
+      "target_gender": "female",
+      "cause_raw": "falling in love without parental consent",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4527_bolly",
+      "emotion": "shame",
+      "dialogue": "Blossoming! But her man is worn out. - The monkey doesn稚 deserve her. -what a swish-and-sway! Come on beauty/ respond.- You池e always taunting married women. Aren稚 you ashamed? why be ashamed about being warm-blooded? Let go of my hand. - Wont. what will you do?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards married women",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4528_bolly",
+      "emotion": "shame",
+      "dialogue": "-what a swish-and-sway! Come on beauty/ respond.- You池e always taunting married women. Aren稚 you ashamed? why be ashamed about being warm-blooded? Let go of my hand. - Wont. what will you do? kiss me? - i will slap you.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4529_bolly",
+      "emotion": "shame",
+      "dialogue": "-I知 going to the police. - pooja, try to understand.- Going to the police will only make things worse. -Besides/ we have to live here. - I知 ashamed of you!- -if you池e so scared/just sit at home. i will go to the police station myself.- No...Get lost! i don稚 want to see your face.",
+      "target_person": "Pooja's companion",
+      "target_gender": "female",
+      "cause_raw": "fear of confronting the police",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p2520_bolly",
+      "emotion": "pride",
+      "dialogue": "Go away. No one here is for you. - i don稚 want her for free. Keep that. -Very proud of  your money/ are you? You keep your money.- with all your money/ have you ever bought a woman痴 heart?- Body is all you have bought. And we decide who we sell to.",
+      "target_person": "second speaker",
+      "target_gender": "unclear",
+      "cause_raw": "wealth",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

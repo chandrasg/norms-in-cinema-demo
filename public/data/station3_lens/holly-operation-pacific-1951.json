@@ -1,0 +1,65 @@
+{
+  "film": {
+    "id": "40683",
+    "title": "Operation Pacific",
+    "year": "1951",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/w76x8HiPPzpnHiaZI7j7rRIk08I.jpg",
+    "overview": "During WWII, Duke E. Gifford is second in command of the USS Thunderfish, a submarine which is firing off torpedoes that either explode too early or never explode at all. It's a dilemma that he'll eventually take up personally. Even more personal is his quest to win back his ex-wife, a nurse; but he'll have to win her back from a navy flier who also happens to be his commander's little brother."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2116_holly",
+      "emotion": "pride",
+      "dialogue": "What was the real reason?  Just now when I kissed you, well, that's where we were four years ago.  I'm proud of you. Where did you train?  General Hospital, Durham.  What did the gentleman from North Carolina say?",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2117_holly",
+      "emotion": "pride",
+      "dialogue": "I'll miss him.  His kindness, and his gruff humor.  But the missing is all mixed with such a fierce pride in what he did that... I have no room for mourning.  I have no room for mourning.  -I think Pop understands. -But that doesn't lessen the hurt.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "for what \"he\" did",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP2118_holly",
+      "emotion": "pride",
+      "dialogue": "Maybe it's my fault.  Maybe I shouldn't have let you shut me out.  But you have no corner on pride.  If I can't be a part of everything in your life... I can't be a part of anything.  I can't be a part of anything.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2119_holly",
+      "emotion": "pride",
+      "dialogue": "\"You don't need me! \"  \"Maybe I shouldn't have let you shut me out.\" What kind of talk is that?  And what has pride got to do with love?  Don't worry. He won't be happy.  But what is more important he won't be back!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

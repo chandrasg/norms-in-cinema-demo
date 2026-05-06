@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "442532",
+    "title": "Jagir",
+    "year": "1984",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2jCekvxS1zBmyJPt0nhohXjUxzj.jpg",
+    "overview": "Lakhan, an evil dacoit kills Shoor Veer Singh while robbing a royal locket that conceals a map to the treasure. Years later, Singh's son along with Sangha and Danny set out to save the treasure."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2674_bolly",
+      "emotion": "shame",
+      "dialogue": "Mangal Singh, why're you doing this? Tell them that he's your son Father! Help! Shame on your manliness! Why are you using a whip? Use swords. Even then you will not find the real pendant! Where is the map? - My mouth will never open...to tell you about the royal treasure, Lakhan!",
+      "target_person": "Mangal Singh",
+      "target_gender": "male",
+      "cause_raw": "Physical violence and greed",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2675_bolly",
+      "emotion": "shame",
+      "dialogue": "Let me go! Where are you going? Four guys against one? Aren't you ashamed? Wait here, my boy... I'm with you To save that thief, you're beating us up?",
+      "target_person": "four guys",
+      "target_gender": "male",
+      "cause_raw": "ganging up on one person",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2676_bolly",
+      "emotion": "shame",
+      "dialogue": "Asha! You can't even imagine the truth about your Daddy I know. I was under the illusion that I was the daughter of an angelic Dad But now I am ashamed to think of myself as his daughter Asha, but that's no fault of yours. - Seema I don't know...why he wanted to kill them, but I know he's a murderer He was the one who cut off Mangal Singh's arm",
+      "target_person": "Asha's father",
+      "target_gender": "male",
+      "cause_raw": "criminal activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p1390_bolly",
+      "emotion": "pride",
+      "dialogue": "After the heart-attack, I want to entrust...the responsibility of the safety of the treasure to the Prince Bless him, Lord, so that he turns out to be a kind-hearted king...who rules the hearts of the people Bless him with wisdom and strength, Lord Shamshera, I'm proud of your loyalty I entrust the safety of the royal treasure to you Go",
+      "target_person": "Shamshera",
+      "target_gender": "male",
+      "cause_raw": "loyalty",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

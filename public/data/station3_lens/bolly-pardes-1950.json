@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "1195554",
+    "title": "Pardes",
+    "year": "1950",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/eVXNHjbaPveppoW8js9bx0n6l8D.jpg",
+    "overview": "A teacher falls in love with a wealthy girl but decides to go away from her to earn money."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1289_bolly",
+      "emotion": "shame",
+      "dialogue": "Yet, I shall give this a thought. Nothing will happen only by thinking about it, Mr.Rana. I am warning you again that he is shameless and brazen. You can't change him into a decent and respectable man with your wealth. Listen.",
+      "target_person": "Mr.Rana",
+      "target_gender": "male",
+      "cause_raw": "trying to change a shameless person with wealth",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1290_bolly",
+      "emotion": "shame",
+      "dialogue": "Crush this hand. it's touched a friend's wife. Why are you getting worried? You are also her brother-in-law. Shameless! When I went to her with all my desires, I went not as her brother-in-law, but as a lover. You have tried to test an innocent woman.",
+      "target_person": "character who touched friend's wife",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards a friend's wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p691_bolly",
+      "emotion": "pride",
+      "dialogue": "Go. She's waiting for you. - She's waiting for me? Yes. - Sajan, I don't know how I can thank you. You have made friendship proud today. God bless you, my friend. Wait here. I'll  come back soon. - Okay.",
+      "target_person": "Sajan",
+      "target_gender": "male",
+      "cause_raw": "Upholding friendship",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

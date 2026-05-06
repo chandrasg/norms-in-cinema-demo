@@ -1,0 +1,115 @@
+{
+  "film": {
+    "id": "16363",
+    "title": "The Best Little Whorehouse in Texas",
+    "year": "1982",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/yw3PNR3NVeKKfLWv8SgFQnXoHZh.jpg",
+    "overview": "When a Conservative TV crusader threatens to shut down beloved brothel, the Chicken Ranch, proprietress Miss Mona Stangley and her girls won't go down without a fight."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1086_holly",
+      "emotion": "shame",
+      "dialogue": "- Watch your temper. - Everything's gonna be fine.  Leave that little s******d to me.  Howdy again, neighbours. Melvin P Thorpe, the old Watchdog himself... ...shinin' a spotlight on Gilbert, the little town with the big shame.  ...shinin' a spotlight on Gilbert, the little town with the big shame.  Who's that fella in them trick britches?",
+      "target_person": "Gilbert",
+      "target_gender": "male",
+      "cause_raw": "unspecified shameful act",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1087_holly",
+      "emotion": "shame",
+      "dialogue": "Leave that little s******d to me.  Howdy again, neighbours. Melvin P Thorpe, the old Watchdog himself... ...shinin' a spotlight on Gilbert, the little town with the big shame.  ...shinin' a spotlight on Gilbert, the little town with the big shame.  Who's that fella in them trick britches?  I don't know, but it's too late in the year for a carnival.",
+      "target_person": "Gilbert",
+      "target_gender": "male",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2065_holly",
+      "emotion": "pride",
+      "dialogue": "So long, partner.  (applause)  Boy, you sent him hightailin'. I was so proud of you!  - Didn't I? - Yeah.  - Look at them stars. - Mm.",
+      "target_person": "partner",
+      "target_gender": "male",
+      "cause_raw": "for sending someone hightailin'",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2066_holly",
+      "emotion": "pride",
+      "dialogue": "The holidays are comin'. Maybe in a week or two the whole thing will blow over... I warned you yesterday about losin' your temper and carryin' on.  I warned you yesterday about losin' your temper and carryin' on.  - Last night you was proud of me. - Last night I wasn't on the 11.00 news!  I didn't know that son of a b***h was gonna make an idiot out of me.  I don't know about that electronic b******t! How was I supposed to handle that?",
+      "target_person": "Last night speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2067_holly",
+      "emotion": "pride",
+      "dialogue": "Senator, you ain't forgot you was gonna take us to the Chicken Ranch, did ya?  - Yeah! How about it? - I always keep my campaign promises.  The Chicken Ranch is a fine institution and I'm proud to have it in my district.  And to hell with what Melvin P Thorpe says.  I'll see all you seniors out at Miss Mona's.",
+      "target_person": "Senator",
+      "target_gender": "male",
+      "cause_raw": "having the Chicken Ranch in his district",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2068_holly",
+      "emotion": "pride",
+      "dialogue": "Hey, boys! I think you'll find it's a fittin' celebration for today's victory!  - (all) Whoo! - Howdy, boys!  Howdy, ma'am. I'm Senator Wingwood of the 19th District... ...and the Aggie class of '49. Mighty proud to meet you.  ...and the Aggie class of '49. Mighty proud to meet you.  To meet me! Charlie, who you think you're talkin' to?",
+      "target_person": "Senator Wingwood",
+      "target_gender": "male",
+      "cause_raw": "meeting the person",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2069_holly",
+      "emotion": "pride",
+      "dialogue": "- (all) Whoo! - Howdy, boys!  Howdy, ma'am. I'm Senator Wingwood of the 19th District... ...and the Aggie class of '49. Mighty proud to meet you.  ...and the Aggie class of '49. Mighty proud to meet you.  To meet me! Charlie, who you think you're talkin' to?  How's Mary Margaret and the kids?",
+      "target_person": "Senator Wingwood",
+      "target_gender": "male",
+      "cause_raw": "meeting the person",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2070_holly",
+      "emotion": "pride",
+      "dialogue": "...to settle their differences in a christian manner.  Have you seen the evidence of the disgraceful situation at the Chicken Ranch?  } Fellow Texans, I am proudly  } Standing here to humbly say  } I assure you",
+      "target_person": "Fellow Texan",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

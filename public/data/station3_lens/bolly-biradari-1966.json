@@ -1,0 +1,104 @@
+{
+  "film": {
+    "id": "444988",
+    "title": "Biradari",
+    "year": "1966",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jN97csce4sLiDcYIOvP8EJacKjy.jpg",
+    "overview": "Seema lives a wealthy lifestyle with her widowed mom in Bombay, India. Her mother is a compassionate soul who rents out several rooms in a self-owned building, which is occupied by very poor and nearly destitute people. Seema's mom often ends up looking after her tenants financially and also gives them ample time to find money to pay the rent. Seema, who wants a luxurious lifestyle, has sold the building to Bihari, and is all set to evict the tenants forcibly. Watch what happens when Seema's mother and Rajan decide to confront her to try and stop this sale."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s586_bolly",
+      "emotion": "shame",
+      "dialogue": "Which language? - Your language! Which else? Is that so? Hey! You people are so shameless! We are not shameless! We are humans! We are neighbors! We have to stay together all our lives!",
+      "target_person": "neighbors",
+      "target_gender": "unclear",
+      "cause_raw": "not speaking the same language",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s587_bolly",
+      "emotion": "shame",
+      "dialogue": "Is that so? Hey! You people are so shameless! We are not shameless! We are humans! We are neighbors! We have to stay together all our lives! What's wrong if we get acquainted?",
+      "target_person": "neighbors",
+      "target_gender": "unclear",
+      "cause_raw": "intruding personal space",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s588_bolly",
+      "emotion": "shame",
+      "dialogue": "And she was entertaining you! Brother! - My lord! My lord, what are you saying? - Aren't you ashamed! Brother! - I understand it very well! You both meet under the pretext of my ailment!",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s589_bolly",
+      "emotion": "shame",
+      "dialogue": "You became unrighteous and he used you! Brother! - Brother? Aren't you ashamed to call me brother? I let you enter this house considering you as a kin, Brother, you can rebuke me as much as you want,",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "betrayal",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s590_bolly",
+      "emotion": "shame",
+      "dialogue": "And let me see how you banish Murari! Yes! Why would you want Radha to go away from your sight? Seema! Aren't you ashamed to think of such things! When you are not ashamed, then why will I feel ashamed? But Seema, don't you know our relationship! - I know!",
+      "target_person": "Seema",
+      "target_gender": "female",
+      "cause_raw": "inappropriate thoughts about a relationship",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s591_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes! Why would you want Radha to go away from your sight? Seema! Aren't you ashamed to think of such things! When you are not ashamed, then why will I feel ashamed? But Seema, don't you know our relationship! - I know! What do you know?",
+      "target_person": "Seema",
+      "target_gender": "female",
+      "cause_raw": "inappropriate thoughts about a relationship",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s592_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes! Yes! What if we don't vacant it? We won't vacant it! - Shut up! Aren't you ashamed to talk like this! You people want to rebel! Is this how you all are repaying madam's favor?",
+      "target_person": "tenants",
+      "target_gender": "unclear",
+      "cause_raw": "rebelling against the landlord",
+      "theme_label": "Poverty"
+    }
+  ]
+}

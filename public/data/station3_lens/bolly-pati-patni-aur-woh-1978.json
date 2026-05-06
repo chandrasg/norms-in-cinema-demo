@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "389558",
+    "title": "Pati Patni Aur Woh",
+    "year": "1978",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1LTuKQ3DdyohEu5l4RbtX15122A.jpg",
+    "overview": "Adam and Eve are banished to Earth to live as Ranjeet and Sharda. They live in harmony until Ranjeet carries out an affair with his beautiful secretary, and has to repent when his wife finds out."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 3
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1319_bolly",
+      "emotion": "shame",
+      "dialogue": "what are you trying to save? we're partners in joy and sorrow Lay off. You have drenched my sari what a shameless man you are You're no better than a kid Mummy only needs an excuse to start a fight",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1320_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm here to see your ailing wife. won't you introduce me to her? won't you tell me about...the prediction of the astrologers, Ranjit? weren't you ashamed to betray me? - weren't you ashamed to ruin my home? weren't you ashamed to break my heart? weren't you ashamed to betray my love?",
+      "target_person": "Ranjit",
+      "target_gender": "male",
+      "cause_raw": "betrayal and infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1321_bolly",
+      "emotion": "shame",
+      "dialogue": "won't you tell me about...the prediction of the astrologers, Ranjit? weren't you ashamed to betray me? - weren't you ashamed to ruin my home? weren't you ashamed to break my heart? weren't you ashamed to betray my love? Now look... the two of you are making a mistake",
+      "target_person": "Ranjit",
+      "target_gender": "male",
+      "cause_raw": "betrayal and infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1322_bolly",
+      "emotion": "shame",
+      "dialogue": "weren't you ashamed to betray me? - weren't you ashamed to ruin my home? weren't you ashamed to break my heart? weren't you ashamed to betray my love? Now look... the two of you are making a mistake Now say you're not Ranjit. - And I'm not Nirmala",
+      "target_person": "Ranjit",
+      "target_gender": "male",
+      "cause_raw": "Betrayal and heartbreak",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1323_bolly",
+      "emotion": "shame",
+      "dialogue": "Please manage with this. Its 5333 why must I accept your money? I'm terribly ashamed of myself This good deed might make me feel better Listen...who was this angel, dear?",
+      "target_person": "character offering money",
+      "target_gender": "unclear",
+      "cause_raw": "offering money as help",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s1324_bolly",
+      "emotion": "shame",
+      "dialogue": "So that this money may mend our broken home So that it may prevent it from being shattered And you are accusing her. You ought to be ashamed what was it that you could not tell me? You were the one who gave Nirmala this money",
+      "target_person": "Nirmala's accuser",
+      "target_gender": "male",
+      "cause_raw": "accusing without knowing the truth",
+      "theme_label": "False Accusation"
+    }
+  ]
+}

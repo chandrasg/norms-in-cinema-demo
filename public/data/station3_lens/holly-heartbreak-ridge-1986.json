@@ -1,0 +1,50 @@
+{
+  "film": {
+    "id": "10015",
+    "title": "Heartbreak Ridge",
+    "year": "1986",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/aMr99UigkMCTSPnLTpkzJeLmpyc.jpg",
+    "overview": "A hard-nosed, hard-living Marine gunnery sergeant clashes with his superiors and his ex-wife as he takes command of a spoiled recon platoon with a bad attitude."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1463_holly",
+      "emotion": "pride",
+      "dialogue": "You'd get away with that with Tyler. But this cat, he's nuts. He'll catch you.  Don't worry yourself.  Hey, man, the few, the proud, the chumps.  -Oh, no! -Man, we can't win for losing.  He must have the key to the PX.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1464_holly",
+      "emotion": "pride",
+      "dialogue": "Sooner or later, you'll disobey orders, circumvent procedures again... ...or just get drunk.  ...or just get drunk.  You can't help it. You're too old, too stupid... ...too prideful to change.  ...too prideful to change.  I'm gonna enjoy watching you fall.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1465_holly",
+      "emotion": "pride",
+      "dialogue": "...or just get drunk.  You can't help it. You're too old, too stupid... ...too prideful to change.  ...too prideful to change.  I'm gonna enjoy watching you fall.  Now, get out, and send in that idiot, Ring.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

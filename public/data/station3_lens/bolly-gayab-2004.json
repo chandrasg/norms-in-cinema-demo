@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "397690",
+    "title": "Gayab",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/bTEslOpqHHxqjB3Si3wM3DX8JWE.jpg",
+    "overview": "When Vishnu Prasad Singh wishes he were invisible, the last thing he expects is that it would really happen. Once he cannot be seen, he turns to take revenge on all he thinks have wronged him."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2040_bolly",
+      "emotion": "shame",
+      "dialogue": "Godbole, what is this system? Do you accept bribes? Stand straight! - Yes sir. Are you not ashamed of yourselves? You have put the whole police station to shame. Sir, I didn’t do anything.",
+      "target_person": "Godbole",
+      "target_gender": "male",
+      "cause_raw": "Accepting bribes",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2041_bolly",
+      "emotion": "shame",
+      "dialogue": "Stand straight! - Yes sir. Are you not ashamed of yourselves? You have put the whole police station to shame. Sir, I didn’t do anything. I'll suspend you.",
+      "target_person": "police officer",
+      "target_gender": "male",
+      "cause_raw": "incompetence",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2044_bolly",
+      "emotion": "shame",
+      "dialogue": "Godbole, what is this system? Do you accept bribes? Stand straight! - Yes sir. Are you not ashamed of yourselves? You have put the whole police station to shame. Sir, I didn't do anything.",
+      "target_person": "Godbole",
+      "target_gender": "male",
+      "cause_raw": "corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2045_bolly",
+      "emotion": "shame",
+      "dialogue": "Stand straight! - Yes sir. Are you not ashamed of yourselves? You have put the whole police station to shame. Sir, I didn't do anything. I'll suspend you.",
+      "target_person": "police officer",
+      "target_gender": "male",
+      "cause_raw": "incompetence or failure in duty",
+      "theme_label": "Negligence"
+    }
+  ]
+}

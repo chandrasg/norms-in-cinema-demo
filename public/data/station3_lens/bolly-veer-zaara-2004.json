@@ -1,0 +1,146 @@
+{
+  "film": {
+    "id": "4251",
+    "title": "Veer-Zaara",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/j267YqLvKAHeyykTflxzpgVgviQ.jpg",
+    "overview": "Squadron Leader Veer Pratap Singh, a pilot in the Indian Air Force, rescues the stranded Zaara, a woman from Pakistan, following a bus accident, and their lives are forever bound."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 4
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "female": 3,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4538_bolly",
+      "emotion": "shame",
+      "dialogue": "Mr. Khan's years of hard work will be ruined. He'd lose the elections for sure, and he'll face.....a lifetime of disgrace. He will not be able to bear.....the weight of that shame. He won't be able to bear it. Prepare for the wedding, Brother Abdul",
+      "target_person": "Mr. Khan",
+      "target_gender": "male",
+      "cause_raw": "losing elections",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4539_bolly",
+      "emotion": "shame",
+      "dialogue": "I've come to ask you to give my daughter back to me. Please give us back our daughter. Otherwise, her father will die. He won't be able to bear the shame, he'll die. I've heard that you save lives. You're the one who saved Zaara's life.",
+      "target_person": "daughter's father",
+      "target_gender": "male",
+      "cause_raw": "daughter's elopement or abduction",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p2538_bolly",
+      "emotion": "pride",
+      "dialogue": "What kind of a person are you? You know we risk our lives everyday to save lives.....of people who are complete strangers......who aren't related to us in any way. Yet on our way home, our hearts swell with pride.....that we saved someone's sister, wife, brother or mother. Gave someone a new life. But today, for the first time in so many years.....I'm doubting my work.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "saving lives",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2539_bolly",
+      "emotion": "pride",
+      "dialogue": "Nor will I be doing anything great in the future. My life, like yours, will be spent being a good wife and a good mother. But after doing this, I will always be proud of myself. That I helped someone attain salvation. Mother, now that I've come so far.....I will return only after completing my work.",
+      "target_person": "character",
+      "target_gender": "female",
+      "cause_raw": "helping someone attain salvation",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2540_bolly",
+      "emotion": "pride",
+      "dialogue": "You risk your life to save the lives of strangers. There can't be nobler work than that. I would not like you to stop taking pride in your work because of me. That's why I've come to tell you the reason for my behaviour. These are the ashes of my Bebe.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "noble work of saving lives",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2541_bolly",
+      "emotion": "pride",
+      "dialogue": "This is more important to me than my life. Perhaps, you were not happy saving my life. But I am sure you'll be proud that.....you saved this urn that was in my bag. Please try to forgive me. I'm sorry.",
+      "target_person": "person apologizing",
+      "target_gender": "unclear",
+      "cause_raw": "saving the urn",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2542_bolly",
+      "emotion": "pride",
+      "dialogue": "What happened, Father? What're you looking at? I'm looking at my lifetime's achievements, my legacy, my village. Until now, I was very proud of myself that I have done great work. That I've developed this village from nothing. But yesterday.....that young girl asked me an innocent question. And I realised.....that I haven't done much.. there's still a lot left to do.",
+      "target_person": "Father",
+      "target_gender": "male",
+      "cause_raw": "development of his village",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2543_bolly",
+      "emotion": "pride",
+      "dialogue": "Zaara's love had not yet begun. And without knowing what Zaara felt, Veer's story and Veer's life.....would both remain incomplete. Jehangir Hayaat Khan, Zaara's father and the pride of Lahore. Since the inception of Pakistan the name of the Hayaat Khan family.....was synonymous with respect, power and glory. Jehangir Hayaat Khan was taking his first step into politics.....with the help of Abdul Shirazi.",
+      "target_person": "Jehangir Hayaat Khan",
+      "target_gender": "male",
+      "cause_raw": "respect power and glory",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2544_bolly",
+      "emotion": "pride",
+      "dialogue": "Either your life should be a living hell..Or Zaara's. Not mine You take great pride in your love, right? So, now you're being tested. I can make Zaara's life heaven or hell. But it's all in your hands.",
+      "target_person": "Zaara",
+      "target_gender": "female",
+      "cause_raw": "love",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2545_bolly",
+      "emotion": "pride",
+      "dialogue": "Thank you, Saamiya. Thank you for teaching me the value of truth and justice. Your father would've been proud of you, he would've been very proud. I am. Goodbye.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "teaching value of truth and justice",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

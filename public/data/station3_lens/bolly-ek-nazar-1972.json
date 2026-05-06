@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "190873",
+    "title": "Ek Nazar",
+    "year": "1972",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9QbOisTvyCLNdZCJOP0UhTYTRI4.jpg",
+    "overview": "One Glance.  Romance between a poet, son of the public prosecutor, and a nautch girl accused of murdering her mother."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5216_bolly",
+      "emotion": "shame",
+      "dialogue": "Who will let you take the path? - Who will stop me? I will! Aminabai will! Aminabai, you are mere human. Not even God can stop me now...Shameless tramp! Was it for this that I brought you up? I'll kill you! - Do that. Or I might end up killing those, who are obstacles in my love!",
+      "target_person": "Aminabai",
+      "target_gender": "female",
+      "cause_raw": "Disobedience and defiance",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p2924_bolly",
+      "emotion": "pride",
+      "dialogue": "I've looked around a hundred times That was great poetry. You are marvelous, my friend. You've done me proud. You're a genius. What poetry!",
+      "target_person": "friend",
+      "target_gender": "unclear",
+      "cause_raw": "friend's poetry skills",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2925_bolly",
+      "emotion": "pride",
+      "dialogue": "And see how many more young men come forward. You're arguing for no reason, Akash. I will do what I have to. Uncle, you ought to be proud of your son. But why do you want to go back to the brothel? I have a score to settle with Aminabai.",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "son's determination",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2926_bolly",
+      "emotion": "pride",
+      "dialogue": "I don't know the extent to which people will be stripped...when we go into their past. But no matter what, I will bring the truth before the court. I don't know whether I should be proud of you...or whether I must throw you out of the house. I have decided cases all my life. And I find myself clue-less today. So I leave the decision to you. Do what you deem fit.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "pursuit of truth",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

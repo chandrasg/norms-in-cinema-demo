@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "96",
+    "title": "Beverly Hills Cop II",
+    "year": "1987",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/egDakU8O5yUwpUJP9IMAUVtIDll.jpg",
+    "overview": "Axel Foley returns to the land of sunshine and palm trees to investigate the near-fatal shooting of police Captain Andrew Bogomil. With the help of Sgt. Taggart and Det. Rosewood, they soon uncover that the shooting is associated with a series of \"alphabet\" robberies masterminded by a heartless weapons kingpin—and the chase is on."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP607_holly",
+      "emotion": "pride",
+      "dialogue": "現在他是市民了  有權利像其它人一樣扭屁股了 Now he's a civilian, and it's his right to shake his a*s like everybody else.  他要狂歡  要去那里  他說要去385北方 I said, \"Where you wanna go?\" He said, \"I wanna go 385 North\", I said,  那就去吧  放特勤人員一天假 \"Let's go\". Get the Secret Service men... 我們來385北方狂歡  你應引以為榮 We came to party at 385 North. You should be proud to have him here.  我們來385北方狂歡  你應引以為榮 We came to party at 385 North. You should be proud to have him here.  -是我們的榮幸  -謝謝  失陪了 -It's our pleasure to have him.  -Thank you very much. Excuse me.",
+      "target_person": "You",
+      "target_gender": "male",
+      "cause_raw": "having him there",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP608_holly",
+      "emotion": "pride",
+      "dialogue": "他要狂歡  要去那里  他說要去385北方 I said, \"Where you wanna go?\" He said, \"I wanna go 385 North\", I said,  那就去吧  放特勤人員一天假 \"Let's go\". Get the Secret Service men... 我們來385北方狂歡  你應引以為榮 We came to party at 385 North. You should be proud to have him here.  我們來385北方狂歡  你應引以為榮 We came to party at 385 North. You should be proud to have him here.  -是我們的榮幸  -謝謝  失陪了 -It's our pleasure to have him.  -Thank you very much. Excuse me.  -有不加冰的可樂嗎  -一杯可樂  不加冰  馬上來 -Can I have a Coke with no ice?  -One Coke, no ice, coming up.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP609_holly",
+      "emotion": "pride",
+      "dialogue": "我是聯調局特遣組 I'm with the FBI Enforcement Bulletin.  -我一直在看  -非常感謝 -I read it all the time.  -Thank you very much, sir.  別碰皮面  甜心 We're proud of it ourselves. Don't touch the leather, sweetheart.  我的主管要求我面試 My director has asked me to interview  當地警員 an exceptional local law enforcement officer,",
+      "target_person": "FBI Enforcement Bulletin",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

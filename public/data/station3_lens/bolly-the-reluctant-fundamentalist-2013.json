@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "121677",
+    "title": "The Reluctant Fundamentalist",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "QA|US|IN",
+    "poster_path": "/nbdiRDhStWuAPmrscejIlRCFrQt.jpg",
+    "overview": "In New York, a Pakistani native finds that his American Dream has collapsed in the wake of the 9/11 terrorist attacks."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4447_bolly",
+      "emotion": "shame",
+      "dialogue": "You are a keeper of our culture in this part of the world. Your father is a poet? I think you should be ashamed of yourself, doing what you're doing here. Right.",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "not upholding cultural values",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p2457_bolly",
+      "emotion": "pride",
+      "dialogue": "Yet say I must smile... My wisest ally, and I'd cut him to the quick. Only his pride. Please, Changez, don't let yours get in the way of doing the right thing.",
+      "target_person": "Changez",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2458_bolly",
+      "emotion": "pride",
+      "dialogue": "and now I get this s**t, this f*****g s**t from you too now? Hmm? - I don't...I thought... I thought...I thought you'd be proud of me. - Why would I be proud? What? Proud of being your own little pet artistic project?",
+      "target_person": "second speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being an artistic project",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2459_bolly",
+      "emotion": "pride",
+      "dialogue": "this f*****g s**t from you too now? Hmm? - I don't...I thought... I thought...I thought you'd be proud of me. - Why would I be proud? What? Proud of being your own little pet artistic project? Can we please take this outside?",
+      "target_person": "second speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being an artistic project",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2460_bolly",
+      "emotion": "pride",
+      "dialogue": "Hmm? - I don't...I thought... I thought...I thought you'd be proud of me. - Why would I be proud? What? Proud of being your own little pet artistic project? Can we please take this outside? - No, what? Was that the idea?",
+      "target_person": "first speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being an artistic project",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

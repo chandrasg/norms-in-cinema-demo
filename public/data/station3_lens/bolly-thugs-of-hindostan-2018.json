@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "472138",
+    "title": "Thugs of Hindostan",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN|MT|TH",
+    "poster_path": "/eonEvymAPpXvWvbBu21HYJx8VdS.jpg",
+    "overview": "After the British company’s officer Clive takes over the kingdom of Mirza, Princess Zafira and Khudabaksh aka Azaad form a band of rebel pirates who swear to defeat the English officer and win their freedom back. The British Company in return, hire the wily thug Firangi track Azaad’s gang and thwart his plans."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4454_bolly",
+      "emotion": "shame",
+      "dialogue": "You caused their deaths. Serving your white master Clive has blinded you. You felt no shame selling your own brothers. He has enslaved your very soul. I shall free it today.",
+      "target_person": "character being shamed",
+      "target_gender": "male",
+      "cause_raw": "betrayal and siding with oppressors",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s4455_bolly",
+      "emotion": "shame",
+      "dialogue": "Besides a woman's treasure is her virtue, silly girl! You? And virtue? Virtue would die of shame to hear you utter the word. I swear! Even a slap from you makes my heart swell. That's not called a heart, sweetie.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "questioning her virtue",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p2475_bolly",
+      "emotion": "pride",
+      "dialogue": "A song fills the other. We are people who know how to smile. We take pride in our sorrows too. We shall dazzle those who watch us perform today. Until we achieve our goal, our hearts will not stop beating.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Achieving goals",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "491622",
+    "title": "Manikarnika: The Queen of Jhansi",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/kbTzlKKnZHZ8RYulknO4xqQOJ24.jpg",
+    "overview": "Story of Rani Lakshmibai, one of the leading figures of the Indian Rebellion of 1857 and her resistance to the British Rule."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1830_bolly",
+      "emotion": "pride",
+      "dialogue": "♪ Makes you sway ♪ ♪ Like a balloon flying astray ♪ ♪ You are my pride, my love ♪ ♪ My one my only, my true love ♪ ♪ A zingy jolt it gave Through my body runs a wave ♪",
+      "target_person": "singer",
+      "target_gender": "unclear",
+      "cause_raw": "love",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1831_bolly",
+      "emotion": "pride",
+      "dialogue": "♪ Tell me! ♪ ♪ When will you avenge yourself? Freedom or death... Victory is yours! ♪ ♪ The poor are your voice Don't sell short your pride ♪ ♪ Decide! ♪ ♪ Will you now succumb to fear? ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1832_bolly",
+      "emotion": "pride",
+      "dialogue": "but celebrate their freedom. We will fight and reawaken Shivaji's dream of self-rule! Our people, our land, our pride... forever and always. A unified India! Victory is ours!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Victory and unification of India",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

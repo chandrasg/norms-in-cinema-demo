@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "109586",
+    "title": "Khudgarz",
+    "year": "1987",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cuHRw6h20gpVfOy3F4abVzhSxcz.jpg",
+    "overview": "Sita Sinha has brought up her son, Bihari and his friend, Amar as her own. The three are very close to each other. When they grow up they maintain their friendship and love for each other. Amar marries wealthy Jaya, and Bihari marries a labourer. Amar's dad, Mr. Saxena does not like Bihari, and schemes to separate them. He succeeds, and Bihari is humiliated. Bihari blames Amar, and swears to bring about his downfall at all costs."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3103_bolly",
+      "emotion": "shame",
+      "dialogue": "- I was about to take off like an airplane. - Congratulations, Sir. Wow! God be praised! The flower that puts all other flowers to shame! - You? - Yes, me. Have you come to buy flowers again?",
+      "target_person": "flower seller",
+      "target_gender": "female",
+      "cause_raw": "selling flowers",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s3104_bolly",
+      "emotion": "shame",
+      "dialogue": "- You refused the top floor for your buffaloes? - Yes. - What a sacrifice you made! - Thank you, friend. He even says thank you ! Don't you have any shame? If God makes a couple of more models like him .... the entire world will turn into a cattle shed .... and humans and buffaloes will give milk together! Don't blabber! The most sorrowful thing is that .... they ask me to demolish my house and my hotel.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "prioritizing animals over personal growth",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3105_bolly",
+      "emotion": "shame",
+      "dialogue": "Are you showing off your money to your poor friend? I'll sock you and break all your teeth! What are you doing? Don't you feel ashamed? Why don't you say anything to this rascal? He wants to buy our land with money!",
+      "target_person": "friend",
+      "target_gender": "male",
+      "cause_raw": "showing off wealth",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3106_bolly",
+      "emotion": "shame",
+      "dialogue": "You can't do it? Okay, forget it! I'll propose to her myself! If I succeed, then it's okay! Else, I'll buy poison and kill myself! Shut up, you coward! Don't you feel ashamed? All right, tell me what I should do. .. Hey you! Tell me! Talk to her nicely in your style.",
+      "target_person": "male character",
+      "target_gender": "male",
+      "cause_raw": "lack of courage to propose",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3107_bolly",
+      "emotion": "shame",
+      "dialogue": "Please sit; I'll call him right now. Where's Amar? I'm really ashamed: Amar doesn't want to see you. What? My son doesn't want to see me? He said he'll never meet Bihari or any member of your family.",
+      "target_person": "Bihari",
+      "target_gender": "male",
+      "cause_raw": "Rejection by his son",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3108_bolly",
+      "emotion": "shame",
+      "dialogue": "Sometimes, girls drop you at home. Do you know what he'll do to you then? Shameless woman! Answering back to your husband! Congratulations, Bihari! Hold him.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "answering back to her husband",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3109_bolly",
+      "emotion": "shame",
+      "dialogue": "But I love Kumar. I'll marry only Kumar. Shameless girl! Talking to your father about your marriage! What are you doing? Hitting your own daughter! I've only hit her, but she's murdered my reputation!",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "expressing her love and choice of marriage",
+      "theme_label": "Marital Status"
+    }
+  ]
+}

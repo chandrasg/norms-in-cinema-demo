@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "37920",
+    "title": "An American Rhapsody",
+    "year": "2001",
+    "industry": "holly",
+    "country": "CA|US",
+    "poster_path": "/lXkWyYiMKx3o187CYH7fcrzEjAJ.jpg",
+    "overview": "A Hungarian family forced to flee the Communist country for the United States must leave a young daughter behind. Six years later, the family arranges to bring the absent daughter to the United States where she has trouble adjusting. The daughter then decides to travel to Budapest to discover her identity."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1886_holly",
+      "emotion": "pride",
+      "dialogue": "Zsuzsi.  You look so beautiful.  I'm so proud of you, honey.  They're nice. So many of them.  Hi, Suzanne. Oh, Sheila?",
+      "target_person": "speaker 1",
+      "target_gender": "female",
+      "cause_raw": "Zsuzsi's beauty",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1887_holly",
+      "emotion": "pride",
+      "dialogue": "Your mother was our only child.  Your grandfather loved her so.  He was so proud of her.  One night during the war,  we were sitting in this very cafe.",
+      "target_person": "grandfather",
+      "target_gender": "male",
+      "cause_raw": "his daughter",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1888_holly",
+      "emotion": "pride",
+      "dialogue": "It was an amazing trip.  I'm glad. I'm glad you went.  You are?  I'm proud of you.  You're a brave girl.  You're brave.  Why didn't you tell me?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "going on a trip",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

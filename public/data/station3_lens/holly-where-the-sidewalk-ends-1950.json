@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "17221",
+    "title": "Where the Sidewalk Ends",
+    "year": "1950",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/27Q0i6ZjmRnjfvegksunixnLxuG.jpg",
+    "overview": "A police detective's violent nature keeps him from being a good cop."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2410_holly",
+      "emotion": "pride",
+      "dialogue": "not understanding what made him seem so mean and impossible.  L guess the chief thing wrong with Ken was no job,  and lots of pride.  Too much pride.  A man can usually find work if he wants to.",
+      "target_person": "Ken",
+      "target_gender": "male",
+      "cause_raw": "not having a job",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP2411_holly",
+      "emotion": "pride",
+      "dialogue": "L guess the chief thing wrong with Ken was no job,  and lots of pride.  Too much pride.  A man can usually find work if he wants to.  You're worried about me feeling badly",
+      "target_person": "Ken",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2412_holly",
+      "emotion": "pride",
+      "dialogue": "(Phone rings)  Lt's interesting how blood will tell.  Your old man would've been proud of you,  to see how you finally followed in his footsteps.  You and me oughta get friendly when you're on your feet again, Dixon.",
+      "target_person": "Dixon",
+      "target_gender": "male",
+      "cause_raw": "following in his father's footsteps",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2413_holly",
+      "emotion": "pride",
+      "dialogue": "He didn't do it single-handed, Miss Taylor.  The department contributed towards establishing your father's innocence.  Not that I'm not proud of you, Mark.  I'm putting you back where you were and recommending you for promotion.  - Oh, that's wonderful. - Here's your letter back.",
+      "target_person": "Mark",
+      "target_gender": "male",
+      "cause_raw": "establishing father's innocence and recommended for promotion",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

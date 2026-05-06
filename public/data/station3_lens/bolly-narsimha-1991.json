@@ -1,0 +1,171 @@
+{
+  "film": {
+    "id": "198343",
+    "title": "Narsimha",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/KyeS7VRIh1v5gcmY4YekSIty1x.jpg",
+    "overview": "Narsimha a young and captive man lives a middle-class life with his family in a quiet neighbourhood. He gets his beautiful sister to marry an eligible young man in their vicinity. On the occasion of his sister giving birth, he returns home to find that conflict arise between his neighbourhood and another neighbourhood where he seek refuge in a dwelling area nearby only to return and find out that his whole family has been murder. Without no aim left in life, Narasimha decided to turn to crime and alcohol. He later decided to work for a man-call Suraj Narayan Singh. But when Suraj asks him to kill Ravi Rastogi for falling in love with his daughter, Meenu. Narasimha refuses, and on the contrary joins forces with Ravi, his sister, Anita, to force Suraj to get the young couple married. This kind of conflict escalates to such proportions that Suraj finally gets arrested and lodged in a cell."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 9
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 7
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3762_bolly",
+      "emotion": "shame",
+      "dialogue": "I have got good marl<s, and even my attendance is 1 00 % . Your attendance is more with girls and less in class. Don't you feel ashamed roaming around with girls? But only Meenu and I ...These is not mine, but Bapji's orders. You will have to leave Meenu, or this college. Choice is yours.",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "associating with girls",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3763_bolly",
+      "emotion": "shame",
+      "dialogue": "This is not some charity home where you can stay as long as you lil<e. This is not your profession, but your pride,...you power, that is tall<ing. You should feel ashamed that influenced by a cheap man ...you are playing with a patient's life. Stop your nonsense! I asl< you the last time. Will you tal<e him from here or not?",
+      "target_person": "doctor",
+      "target_gender": "unclear",
+      "cause_raw": "neglecting professional duties",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3764_bolly",
+      "emotion": "shame",
+      "dialogue": "No...Ravi stop! Do you also want to l<ill your brother of hunger? I can see him die hungry ...but not dying of shame and humiliation. I am going to return this to the one who has given it. fool<.",
+      "target_person": "Ravi",
+      "target_gender": "male",
+      "cause_raw": "accepting charity",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "p1993_bolly",
+      "emotion": "pride",
+      "dialogue": "Sir, no one will give evidence in Narayanpur against Bapji. It's a week since you joined duty, ...and you haven't gone to greet Bapji yet? Just because you got a medal, you have become proud? Tell your Bapji, that I have heard a lot about his crimes. The day I get even one clue against your Bapji ...he'll be under arrest.",
+      "target_person": "officer",
+      "target_gender": "male",
+      "cause_raw": "receiving a medal",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1994_bolly",
+      "emotion": "pride",
+      "dialogue": "I said that the man who has earned such a big honour ...- I will myself go to him. - Please come. - Sit down. - Thank you. Whenever any man has made my city proud ...I have made their lives. Dr.Deshmukh...when he got a big degree from America ...I got him a plot from the government to start his clinic. When Rajan Patel became judge from a public prosecutor ...I got a bungalow made for him on government expense on Gangapur road.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "making city proud",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1995_bolly",
+      "emotion": "pride",
+      "dialogue": "Are you the doctor, or we? This is not some charity home where you can stay as long as you like. This is not your profession, but your pride,...you power, that is talking. You should feel ashamed that influenced by a cheap man ...you are playing with a patient's life. Stop your nonsense!",
+      "target_person": "doctor",
+      "target_gender": "unclear",
+      "cause_raw": "profession",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1996_bolly",
+      "emotion": "pride",
+      "dialogue": "You had only us left to try your strength on? A helpless girl, an old woman, a half dead boy? If you are so proud of your strength, ...you should have tried it in the ring ...in the sports field, the boxing ring. Then your strength would be this country pride ...not a curse on a helpless family. Look, the one who has sent us here is a very powerful man.",
+      "target_person": "half dead boy",
+      "target_gender": "male",
+      "cause_raw": "physical strength",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1997_bolly",
+      "emotion": "pride",
+      "dialogue": "A helpless girl, an old woman, a half dead boy? If you are so proud of your strength, ...you should have tried it in the ring ...in the sports field, the boxing ring. Then your strength would be this country pride ...not a curse on a helpless family. Look, the one who has sent us here is a very powerful man. - Go away from here, or ... - Or what?",
+      "target_person": "<NA",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1998_bolly",
+      "emotion": "pride",
+      "dialogue": "Using this blind power, four goons ...can destroy a happy family in minutes like ...Go...go and tell your master ...that we will not leave this home until we are alive. If anything leaves from here, it will be three dead bodies. And if your master orders, cut us to pieces with your sword...in which you take pride. Go...go away! Bravo! Welcome, my lion!",
+      "target_person": "goons",
+      "target_gender": "male",
+      "cause_raw": "power and violence",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1999_bolly",
+      "emotion": "pride",
+      "dialogue": "I request you all. Remove the fear of Bapji from your minds. Reject his every order from today. So that every man who is Bapji, or dreams of becoming one ...sees his pride being shattered to pieces. Do you want to give your children such a city ...which goons, cheats and murderers run? Saw Bapji? The same public used to bow & walk backwards while leaving.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "standing against tyranny",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p2000_bolly",
+      "emotion": "pride",
+      "dialogue": "People have been instigated. Your mansion won't last long now. My mansion has always stood proud, and will always stand proud. The fear of your power without me is a fake devil. You cannot rule with it.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "resilience and strength of his mansion",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2001_bolly",
+      "emotion": "pride",
+      "dialogue": "Shall I call him? Where he is, forget you, even I cannot call him. I have killed your Narsimha. One who takes pride in his power Let him be most cruel Let this world realise",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "killing Narsimha",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

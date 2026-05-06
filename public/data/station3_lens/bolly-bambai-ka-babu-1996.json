@@ -1,0 +1,92 @@
+{
+  "film": {
+    "id": "302882",
+    "title": "Bambai Ka Babu",
+    "year": "1996",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/mFqaMAOy3nNY9YlifyCQbTrUqqS.jpg",
+    "overview": "Film starring Saif Ali Khan, Atul Agnihotri and Kajol"
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s390_bolly",
+      "emotion": "shame",
+      "dialogue": "Smile trying to keep his face .. a will fade soon. Shame on you! You are doing a great man to tears! - What is it Amit? - It belonged to my parents.",
+      "target_person": "Amit",
+      "target_gender": "male",
+      "cause_raw": "causing emotional distress",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s391_bolly",
+      "emotion": "shame",
+      "dialogue": "- And you want to meet with the offender? - Come on. Let's go. Yes. Let's go ... what day? -Go! - How Only raided! Have very bad manners ...Are not you ashamed? I first hired a taxi! Go! Go! - You! Just come to you! - Shut up, please.",
+      "target_person": "offender",
+      "target_gender": "unclear",
+      "cause_raw": "bad manners",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s392_bolly",
+      "emotion": "shame",
+      "dialogue": "I was unfair to you and our parents. And now we have to do what it asked me. But how do you get back home? Do I have to come back with ..lowered his head in shame? Have you already may be lifted its head high? What can you do Vicki? Lord has a solid impact. He will take care of you to be thrown behind bars.",
+      "target_person": "Vicki",
+      "target_gender": "male",
+      "cause_raw": "Unfair treatment and actions leading to shame",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s393_bolly",
+      "emotion": "shame",
+      "dialogue": "Spill as you can. But at the end of the final is your blood, Dad. Wear your child. I love you. - Are not you ashamed? - I want you more. Make sure your sins will come back someday with you for redemption. I still hate you!",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "not being a good father",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p172_bolly",
+      "emotion": "pride",
+      "dialogue": "-Kill him! -Kill him! Why mourn for someone who was never yours? Now I can go home with a proud head straight.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "victory over enemy",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "320295",
+    "title": "Detective Byomkesh Bakshy!",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/7IvuZioWIvj8UAIWJhGtLsqwwt.jpg",
+    "overview": "Byomkesh, fresh out of college, agrees to investigate the disappearance of Bhuvan, a chemist. Assisted by Bhuvan's son Ajit, Byomkesh links the case to a larger conspiracy that will unsettle Calcutta."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1006_bolly",
+      "emotion": "shame",
+      "dialogue": "Be careful Your help has no sense. I'll wait outside You felt no shame stealing from a woman's bag......so why be ashamed looking at her in her bath? Give me one Don't get jumpy. It's only a cigarette",
+      "target_person": "thief",
+      "target_gender": "male",
+      "cause_raw": "stealing from a woman",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s1007_bolly",
+      "emotion": "shame",
+      "dialogue": "This map...This map looks familiar. How did the volunteer have it? You should've been my father's son He was ashamed of me I wanted to write I was the shy skinny type",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "not living up to father's expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p511_bolly",
+      "emotion": "pride",
+      "dialogue": "Our first famous boarder Read it A sensational murder and blackmail case was solved by Bengal's pride...\"...the brave talented young detective Byomkesh Bakshy\" Why did the paper come so late? Late? It's the usual time",
+      "target_person": "Byomkesh Bakshy",
+      "target_gender": "male",
+      "cause_raw": "solving a sensational murder and blackmail case",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

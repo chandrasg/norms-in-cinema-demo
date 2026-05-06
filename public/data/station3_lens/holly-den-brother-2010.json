@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "46064",
+    "title": "Den Brother",
+    "year": "2010",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/5oWZJChuObK0STDK3FiPNgxzFfr.jpg",
+    "overview": "Alex Pearson has a lot to learn about teamwork. As the star of the Lemon Oaks hockey team, Alex almost always has his way on and off the ice. That is until he pulls a stunt so outrageous not even his own coach can give him a pass. His punishment? Suspension from the team, a never-ending list of chores and a job watching his little sister Emily after school."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2728_holly",
+      "emotion": "pride",
+      "dialogue": "Alex, this isn't a hockey rink.  You have to be more... Bumble Bee.  I mean, have some Bumble Bee pride.  - (TROOP 57 GIRLS GASPING IN AWE) - Now, is this Bumble Bee enough for you?  TROOP 57 GIRLS: Look at the bumble bees!",
+      "target_person": "Alex",
+      "target_gender": "male",
+      "cause_raw": "being a Bumble Bee",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2729_holly",
+      "emotion": "pride",
+      "dialogue": "She was great. Uh... She's actually in the living roomgoofing around with her friends right now.  (CHUCKLES) That's... What's the big surprise, Dad?  Alex, I am proud of you.  Not only have you been great with Emily,  but you didn't just do the chores, you took 'em seriously,",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "Alex's responsibility and seriousness towards chores",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2730_holly",
+      "emotion": "pride",
+      "dialogue": "(BUMBLE BEE GIRLS WHOOPING)  I never imagined I'd hear myself say this, son,  but it fills my heart with pride  to see you in that Bumble Bee Girl uniform.  Yahoo! Bumble Bees!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son wearing Bumble Bee Girl uniform",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

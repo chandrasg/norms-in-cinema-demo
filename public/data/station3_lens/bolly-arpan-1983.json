@@ -1,0 +1,119 @@
+{
+  "film": {
+    "id": "109037",
+    "title": "Arpan",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/y8nOAim2W81MCzaEREZhHbzIdGW.jpg",
+    "overview": "The Verma family consists of Mrs. Verma, the mother; Anil, the son; and a daughter named Vinnie. Anil loves Shobha, and hopes to marry her someday. While Vinnie loves Rakesh and also hopes to marry him someday too. Shobha and Rakesh both work for JK, a multi-millionaire industrialist. Anil has to goes overseas for a year to better his prospects. He promises to stay in touch with Shobha. However, after a year when Anil returns he finds that Vinnie and Rakesh have married, and is heart-broken to find that Shobha had married JK. Dejected but not beaten, he marries another girl by the name of Sona, but is unable to get Shobha out of his mind. Sona resents this, and one day follows him, and finds him in bed with none other than Shobha."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 4
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4
+    },
+    "pride": {
+      "female": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s222_bolly",
+      "emotion": "shame",
+      "dialogue": "What is this? - Till now I had never accepted......you as my sister in law, but today I came to know that you......are so great. Just for our sake you spoiled your life. How did you come to know this? - J. K told me everything. I had gone to ask for a leave, but there I got to know the......reality, about why you married J.K., I was very ashamed and I......immediatly resigned from job - I didn't want Anil's family to......know why I married him. I wanted every one to hate me. But since you have come to know, promise me that you......will hide this secret from Anil, Mother and everyone else Please promise me, -We shall behave the way you want.",
+      "target_person": "sister-in-law",
+      "target_gender": "female",
+      "cause_raw": "hiding the truth about her marriage",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "s223_bolly",
+      "emotion": "shame",
+      "dialogue": "Bring the luggage. Oh! How stupid are these anklets...One day they'll kill me due to it My face turned red due to shame as they make noise on the street How stupid are the anklets, How can one hide his expressions......when there is problem in the family",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "wearing noisy anklets",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s224_bolly",
+      "emotion": "shame",
+      "dialogue": "J.K. What has happened to you, insulting you wife in front of......your friends is a very bad thing. - You don't know......this lady had insulted me in my office, that very moment I'd......taken an oath to take revange on her throughout my life. You might be seeing many figures in your account book every day......now see my wife's figure today. J.k. I knew that you were a big flirt, but didn't know that you......could be such a shameless b*****d. When did my friends leave? - After midnight. I insulted you in front of them, - That's not a new thing, now......I'm used to it. - Are you a human or a stone?",
+      "target_person": "J.K.'s wife",
+      "target_gender": "female",
+      "cause_raw": "Insulting and degrading wife in public",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s225_bolly",
+      "emotion": "shame",
+      "dialogue": "Love has become a trade, and trade has become love. In the past it was known as betrayal, But now it's shamelessness It has become the attitude of the respected people...She was the goddess of the temple...And she used to be very beautifull But look how she looks now",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "moral degradation and loss of beauty",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p85_bolly",
+      "emotion": "pride",
+      "dialogue": "I'll commit suicide, doctor has said that nothing can be done. No Vinney, every thing will be alright. I had promised you that, I will save the pride of your family. So today, I'm going to do just the same, there is no other way. This is Shobha. - Why did you call me so late, what should......I do for you? - I'm ready to get married,",
+      "target_person": "Shobha",
+      "target_gender": "female",
+      "cause_raw": "saving family's pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p86_bolly",
+      "emotion": "pride",
+      "dialogue": "J.K. Kidnapped me with the help of some goons, because he......wanted to take revenge on Shobhaji at any cost. Shobhaji met him, but he made a deal that she should marry him......immediately or else he won't allow us to marry. In this situation, to save the pride of your family and......for my sake & Vinney's, she deliberately strangled her love......and set foot in J. K's trap. Not just that, people started blaming her for getting married......to J.k. For his money. But this is not true. She transferred the money to J.K.'s younger brother.",
+      "target_person": "Shobhaji",
+      "target_gender": "female",
+      "cause_raw": "saving family's pride and for the sake of loved ones",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p87_bolly",
+      "emotion": "pride",
+      "dialogue": "You don't know the reality. You are blaming the one whom we......should have worshipped. - Worshiping that rascal? Mother you have forced me to reveal the truth. This girl, your daughter and my sister. Ask her what Shobha......has done to save the pride of our family. She was pregnant, before marriage. I had done a mistake, mother.",
+      "target_person": "Shobha",
+      "target_gender": "female",
+      "cause_raw": "saving family's pride by hiding pre-marital pregnancy",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p88_bolly",
+      "emotion": "pride",
+      "dialogue": "If Shobha wouldn't have married J.K. Vinney and Rakesh wouldn't......have got married. - But why? Since, Shobha had insulted J.K. He wanted to take revenge, after......marriage he has harassed her a lot. She has gone through a lot. And this, she has done just for your sake, to save your pride. And I have always thought wrong about her, and blamed her I was wrong. I've committed a crime. God shouldn't forgive me.",
+      "target_person": "Shobha",
+      "target_gender": "female",
+      "cause_raw": "saving someone's pride",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

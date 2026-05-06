@@ -1,0 +1,92 @@
+{
+  "film": {
+    "id": "38428",
+    "title": "Gandhi, My Father",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/sFzo2Ss4PQfNUlrzeTfwoVp5ajE.jpg",
+    "overview": "Unable to live in his father's gigantic shadow, Mahatma Gandhi's eldest son, Harilal, gets distraught and resorts to alcoholism."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5330_bolly",
+      "emotion": "shame",
+      "dialogue": "We can`t watch you in this condition. Now you don`t need to hide your face from public. Really. it's a shame. that you had to bare all this. thank You very much. Don`t be formal Hari Brother.",
+      "target_person": "Hari",
+      "target_gender": "male",
+      "cause_raw": "facing public humiliation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s5331_bolly",
+      "emotion": "shame",
+      "dialogue": "Brother Abdullah, You are safe just because of Gandhi`s name. That`s why you are getting your breakfast here. You ashamed our selves. You are getting wrong our hosting. it`s a limit.",
+      "target_person": "Abdullah",
+      "target_gender": "male",
+      "cause_raw": "Misusing Gandhi's name for personal benefits",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s5332_bolly",
+      "emotion": "shame",
+      "dialogue": "You came here to meet me while you drunk! I came here to meet you I ain`t drunk. Babu, He drunk. Don`t you ashame your self? I came here to meet you. Get lost from here. Bapu, Ba`s calling you.",
+      "target_person": "Babu",
+      "target_gender": "male",
+      "cause_raw": "Being drunk",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "p2993_bolly",
+      "emotion": "pride",
+      "dialogue": "as soon as I will take you in africa don`t think about it just study and become Big man. and Mother and Father proud on your and me too. I will wait for you. Hari Bhai.. Driver become angry he want to take other passenger.",
+      "target_person": "Hari Bhai",
+      "target_gender": "male",
+      "cause_raw": "academic success",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p2994_bolly",
+      "emotion": "pride",
+      "dialogue": "Don`t be afraid on this matter today we again got chance to enjoy..once again they put into jail Barrister Ghandi. I am proud of my father..what is this nonsense.. that a barrister who obey british rules. who doing work honestly in the society of british. they told them to give the finger prints.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "father's resistance against British rule",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "44951",
+    "title": "Beneath the Blue",
+    "year": "2010",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "/8N6jG6mpuIMm5PGLEW8fyBZra2b.jpg",
+    "overview": "Dolphin experts confront the US Navy when its sonar program is suspected of causing the animals' deaths."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS193_holly",
+      "emotion": "shame",
+      "dialogue": "Mmm, I'm not above a little claim jumping,  time to time.  Oh, you're shameless.  (Craig) That wouldn't be the famous Rasca, would it?  (Styles) Everyone on the island is talking about her.",
+      "target_person": "Rasca",
+      "target_gender": "female",
+      "cause_raw": "claim jumping",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "WS194_holly",
+      "emotion": "shame",
+      "dialogue": "Okay.  (Tamika sighs) You two are too much.  Don't worry, we ain't got no shame.  And we get results.  (Dramatic music)",
+      "target_person": "Tamika and the other person",
+      "target_gender": "female",
+      "cause_raw": "not showing shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS195_holly",
+      "emotion": "shame",
+      "dialogue": "before the Navy got a chance to examine them.  Hmm, were they?  A shame.  If I were a detective,  I'd think you pulled a fast one on us.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "deception or dishonesty",
+      "theme_label": "Dishonesty"
+    }
+  ]
+}

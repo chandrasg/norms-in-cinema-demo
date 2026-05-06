@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "63378",
+    "title": "100% Love",
+    "year": "2011",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xDuAT2K7kcN2kM9BP9lwwNqNWCD.jpg",
+    "overview": "Balu and Mahalakshmi are both very competitive in college, which leads to ego clashes. When they meet again after a few years, they try to outdo each other until they realize that they are in love."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3841_bolly",
+      "emotion": "shame",
+      "dialogue": "How can he give letter unless she's lenient? It seems he gave and she took it. I've lost my respect in college. Grandma, tell me, isn't it shame if anyone gives love letter to her? Why isn't anyone bothering about me? Leave it, I've to take care of it anyway.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "accepting a love letter",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3842_bolly",
+      "emotion": "shame",
+      "dialogue": "Now...You mean... - Rs.50000 more than mine. Look, personality means...l got it, isn't it marks? She failed in a subject. You've ashamed America. Phone number! But, 6 digits only? Wrong number. it's not phone number but measurements of Miss india.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "academic failure",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3843_bolly",
+      "emotion": "shame",
+      "dialogue": "I feel like hugging you now. Do you know how difficult it is for me to stay away from you? She's shamelessly accepting her love publicly, why don't you believe her? You fool! Wait grandpa. She's a magnet like grandma.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "expressing love publicly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p2064_bolly",
+      "emotion": "pride",
+      "dialogue": "Where did you keep my toothpaste? I told you nobody must use my toothpaste. Go! She's still proud! It's false teeth! Celebrating birthdays too!",
+      "target_person": "She",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

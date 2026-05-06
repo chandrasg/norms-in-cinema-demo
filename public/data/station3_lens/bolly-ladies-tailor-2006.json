@@ -1,0 +1,126 @@
+{
+  "film": {
+    "id": "269758",
+    "title": "Ladies Tailor",
+    "year": "2006",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/uNXkMsqd8qyowSt2wS2nY99ARHp.jpg",
+    "overview": "Chander is the only tailor in his colony. Though talented, he is very lazy. He dreams of becoming big and live like a king. Chander meets a fortune-teller who informs him that he has Rajyog and that he should marry a Padmini jati girl with a mole on her right lap. His search for the right girl takes him to a yoga teacher, a widowed doctor and an unmarried girl. But to his dismay he finds none of them matches his requirements. Finally when he finds the right girl, he is in a dilemma. The three girls want to marry him at any cost. Now, he finds himself sandwiched between three girls and Radhika."
+  },
+  "totals": {
+    "shame": 9,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 6,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3250_bolly",
+      "emotion": "shame",
+      "dialogue": "There's been a battle royal between mister and missus Banerjee already! Open the door! - It's a grave sin to commit suicide You think that shameless guy will commit suicide...?he's fast asleep in there! - If they get in before you go out...they'll send you packing from the world! So wake up! Disturb not",
+      "target_person": "Mr. Banerjee",
+      "target_gender": "male",
+      "cause_raw": "Attempting suicide",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s3251_bolly",
+      "emotion": "shame",
+      "dialogue": "The bird does not work for a living As has been wisely said...\"the Lord provides for everyone\" You get that, you nut? And you feel ashamed now? The dog's tail! He'll never straighten out! Really? Now you get to know! Else you'd never try to straighten me out!",
+      "target_person": "character being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "laziness or lack of work",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3252_bolly",
+      "emotion": "shame",
+      "dialogue": "She wore a gown like this and married a tailor! That's how she got her name. - May I wear it then...?Go ahead... may I help you with it? Go on... shameless man! - What is it about shame...?I'll go and wear it... let me... - Hang on... it'll be fun...you and l, in one room... and the key gets lost! Shameless man! Come back soon!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3253_bolly",
+      "emotion": "shame",
+      "dialogue": "That's how she got her name. - May I wear it then...?Go ahead... may I help you with it? Go on... shameless man! - What is it about shame...?I'll go and wear it... let me... - Hang on... it'll be fun...you and l, in one room... and the key gets lost! Shameless man! Come back soon! My wish is going to be granted today, I swear!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate sexual advances",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3254_bolly",
+      "emotion": "shame",
+      "dialogue": "If anyone of you has a mole on your right thigh... let's see it My boss wants to get married Aren't you ashamed to tease girls...? - I am But they all wave me good-bye. So let's see the mole, quick That's the way to go",
+      "target_person": "teaser",
+      "target_gender": "male",
+      "cause_raw": "teasing girls",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3255_bolly",
+      "emotion": "shame",
+      "dialogue": "Th at FTV sells such cheap garments and still calls himself Fashion TV Take off your cloth es... I'll sew them up Shameless! - What's there to feel shy about? Whoever feels sh y with a tailor! Lay Off... go on!",
+      "target_person": "Fashion TV",
+      "target_gender": "unclear",
+      "cause_raw": "selling cheap garments",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3256_bolly",
+      "emotion": "shame",
+      "dialogue": "I love you  I don't think there's a girl with a mole in this world Shame on you guys! You guys are sitting like deflated balloons! You couldn't find a girl with a mole! Boss, we got photographs of every girl in the colony for you",
+      "target_person": "subordinates",
+      "target_gender": "male",
+      "cause_raw": "incompetence in finding a specific girl",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3257_bolly",
+      "emotion": "shame",
+      "dialogue": "Come here radhika... radhika...I love you dearly, radhika Love me as much as you will. I have no problems, I'm shameless Come into my arms. - Fladhika, show me the mole Let two hearts meet. - You want to see the mole? Hang on",
+      "target_person": "Radhika",
+      "target_gender": "female",
+      "cause_raw": "Sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3258_bolly",
+      "emotion": "shame",
+      "dialogue": "Chander is not at fault I have nothing against Chander anymore Chander is a nice man. He had many opportunities...to take undue advantage of me, but he never did anything...that'd put me to shame Chander n ever took advantage of me either In fact, I owe my life to him",
+      "target_person": "Chander",
+      "target_gender": "male",
+      "cause_raw": "Accusation of taking undue advantage",
+      "theme_label": "Financial Desperation"
+    }
+  ]
+}

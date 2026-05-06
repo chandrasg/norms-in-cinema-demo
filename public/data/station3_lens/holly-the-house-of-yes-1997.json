@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "33344",
+    "title": "The House of Yes",
+    "year": "1997",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "/42mp1sJw6E7BDNMrF65IOZ4j4zq.jpg",
+    "overview": "Jackie-O is anxiously awaiting the visit of her brother home for Thanksgiving, but isn't expecting him to bring a friend — and she's even more shocked to learn that this friend is his fiance. It soon becomes clear that her obsession with Jackie Kennedy is nothing compared to her obsession with her brother, and she isn't the only member of the family with problems."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS684_holly",
+      "emotion": "shame",
+      "dialogue": "- Little brothers always feel left out. - I felt majorly left out.  - Is that why you went crazy? - No.  That's why you went crazy. You were ashamed.  - I wasn't ashamed. - Well, you should be.  - Oh, Anthony, don't be bourgeois. - I'm not being bourgeois.",
+      "target_person": "Anthony",
+      "target_gender": "male",
+      "cause_raw": "feeling left out",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS685_holly",
+      "emotion": "shame",
+      "dialogue": "- Is that why you went crazy? - No.  That's why you went crazy. You were ashamed.  - I wasn't ashamed. - Well, you should be.  - Oh, Anthony, don't be bourgeois. - I'm not being bourgeois.  Don't call me bourgeois just 'cause I know right from wrong.",
+      "target_person": "Anthony",
+      "target_gender": "male",
+      "cause_raw": "not acknowledging wrongdoing",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS686_holly",
+      "emotion": "shame",
+      "dialogue": "- Why did you have to tell him? - To get him out of the room.  - What if he tells Lesly? - He won't.  - What if he does? - Are you ashamed?  - Of what? - Of us. Of what we have.  - Had. - I don't recognize the past tense.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "hiding a relationship",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "WS687_holly",
+      "emotion": "shame",
+      "dialogue": "- Of what? - Of us. Of what we have.  - Had. - I don't recognize the past tense.  I'm not ashamed.  - What are you? - I don't know.  I see other houses. I see other lives, and... - What? - They're not like mine.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "not fitting into societal norms",
+      "theme_label": "Nonconformity"
+    }
+  ]
+}

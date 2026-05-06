@@ -1,0 +1,51 @@
+{
+  "film": {
+    "id": "10029",
+    "title": "Very Bad Things",
+    "year": "1998",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/rYmyRxF5e9fBdgcQScKu0CUtMy5.jpg",
+    "overview": "Kyle Fisher has one last night to celebrate life as a single man before marrying Laura, so he sets out to Vegas with four of his best buddies. But a drug and alcohol filled night on the town with a stripper who goes all the way, turns into a cold night in the desert with shovels when the stripper goes all the way into a body bag after dying in their bathroom. And that's just the first of the bodies to pile up before Kyle can walk down the aisle..."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 3
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WP1447_holly",
+      "emotion": "pride",
+      "dialogue": "It is clearly not a good thing  But it was, given the circumstance the smart play.  I am proud of us. I am proud of each and everyone of us.  It will be ok.  We performed under the most complex and earth-shattering situation",
+      "target_person": "us",
+      "target_gender": "unclear",
+      "cause_raw": "performing under complex and earth-shattering situation",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1448_holly",
+      "emotion": "pride",
+      "dialogue": "It will be ok.  We performed under the most complex and earth-shattering situation  Each one of us stood fast. We all delivered... We're proud.  We're proud.  Were going to hell, hell or prison, which everyone comes first.",
+      "target_person": "We",
+      "target_gender": "unclear",
+      "cause_raw": "performing under complex and earth-shattering situation",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1449_holly",
+      "emotion": "pride",
+      "dialogue": "We performed under the most complex and earth-shattering situation  Each one of us stood fast. We all delivered... We're proud.  We're proud.  Were going to hell, hell or prison, which everyone comes first.  That wrong, that flat out wrong.",
+      "target_person": "We",
+      "target_gender": "unclear",
+      "cause_raw": "performing under complex and earth-shattering situation",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

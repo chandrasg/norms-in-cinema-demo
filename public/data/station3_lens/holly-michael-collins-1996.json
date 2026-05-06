@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "1770",
+    "title": "Michael Collins",
+    "year": "1996",
+    "industry": "holly",
+    "country": "IE|GB|US",
+    "poster_path": "/brIBbU6t9glEGAKRTJ4PMj9OiDC.jpg",
+    "overview": "Michael Collins plays a crucial role in the establishment of the Irish Free State in the 1920s, but becomes vilified by those hoping to create a completely independent Irish republic."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS613_holly",
+      "emotion": "shame",
+      "dialogue": "All work and no play.  Are you finished in here?  It's a drink, is it? Shame to waste it.  Take it.  Let's get you cleaned up and take you home.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "wasting a drink",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WS614_holly",
+      "emotion": "shame",
+      "dialogue": "Shut up, you two. I'm leaving no one.  Do all the women in America wear trousers?  Yes. Shameless hussies, the lot of them.  Did you hear?  A butterfly's been seen in West Clare.",
+      "target_person": "American women",
+      "target_gender": "female",
+      "cause_raw": "wearing trousers",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS615_holly",
+      "emotion": "shame",
+      "dialogue": "We hit them at daybreak. If you're not up to it, say so now.  I know what some of you have been through.  There's no shame in pulling out.  Thank you.  Don't stay in your usual places... ...Vaughan's, Cleary's Pub.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "fear or reluctance to participate in a risky activity",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}

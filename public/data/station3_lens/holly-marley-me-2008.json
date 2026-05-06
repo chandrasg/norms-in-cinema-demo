@@ -1,0 +1,58 @@
+{
+  "film": {
+    "id": "14306",
+    "title": "Marley & Me",
+    "year": "2008",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/pnB6hjTKylb0Ve2nUWt16gzkErr.jpg",
+    "overview": "A newly married couple, in the process of starting a family, learn many of life's important lessons from their trouble-loving retriever, Marley. Packed with plenty of laughs to lighten the load, the film explores the highs and lows of marriage, maturity and confronting one's own mortality, as seen through the lens of family life with a dog."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1393_holly",
+      "emotion": "shame",
+      "dialogue": "Oh, wait. There she is.  - Who? - Give me the kid.  No, I can't be a party to this. That's-That's shameless.  This is gonna be even better than the puppy.  No, not my son.",
+      "target_person": "Unnamed Woman",
+      "target_gender": "female",
+      "cause_raw": "using a child for manipulative purposes",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WP2477_holly",
+      "emotion": "pride",
+      "dialogue": "Thanks. Yeah. It'll be good. I'm gonna miss everybody. I'm gonna miss your laugh.  Yeah. There was a good chance that every piece of advice I ever gave you was a lot of crap.  - No, no, no. I appreciate it just the same. - Well, at this point... a mushy guy would tell you he's proud of you, give you a hug and send you on your way.  a mushy guy would tell you he's proud of you, give you a hug and send you on your way.  Well, I'm glad you're not that guy, sir.",
+      "target_person": "mushy guy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2478_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah. There was a good chance that every piece of advice I ever gave you was a lot of crap.  - No, no, no. I appreciate it just the same. - Well, at this point... a mushy guy would tell you he's proud of you, give you a hug and send you on your way.  a mushy guy would tell you he's proud of you, give you a hug and send you on your way.  Well, I'm glad you're not that guy, sir.  All right. Okay.",
+      "target_person": "mushy guy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

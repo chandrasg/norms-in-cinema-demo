@@ -1,0 +1,133 @@
+{
+  "film": {
+    "id": "159664",
+    "title": "Mann",
+    "year": "1999",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/nbn9Hxj7GEBxrZ8biAfIjhYSs1Y.jpg",
+    "overview": "A young woman falls in love with a handsome playboy, while aboard a Singapore to India cruise. They make plans to meet again, but fate may have other plans..."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3470_bolly",
+      "emotion": "shame",
+      "dialogue": "Please. - Give. Hey, this is our picture. What is this nonsense? Aren't you ashamed? You are hiding and clicking our photographs. Hold it. What will happen by tearing one picture?",
+      "target_person": "photographer",
+      "target_gender": "unclear",
+      "cause_raw": "invading privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s3471_bolly",
+      "emotion": "shame",
+      "dialogue": "I will sell her too. I will take a total of Rs. 100,000 for that damsel. Shameless, rogue. Broker. Hey, why are you slapping him ? People should break the skull of a person like you. .",
+      "target_person": "character being sold",
+      "target_gender": "female",
+      "cause_raw": "human trafficking",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3472_bolly",
+      "emotion": "shame",
+      "dialogue": "'Nobody has ever pushed me in my entire lifetime.' 'Meeting you, I felt as if I am a short, and you a draw-string.' What a shameless fellow you are! Instead of apologising, you are reciting poetry! it's you who has just recited a poetry.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "behaving shamelessly and reciting poetry instead of apologizing",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3473_bolly",
+      "emotion": "shame",
+      "dialogue": "'Forgive me. Please.' Forgive me. Please? I'm ashamed about what happened last night. Why are you telling me all this? I don't want to talk to you. The ambience you know. I just got carried away.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3474_bolly",
+      "emotion": "shame",
+      "dialogue": "Good! What about the other one? I'll sell her too. For what she is, the wench will fetch 100,000! You shameless lout! You pimp! Why did you slap me? A man like you should be shot in the head!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "selling a woman",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "p1841_bolly",
+      "emotion": "pride",
+      "dialogue": "And the girl is Pratap Rai Singhania's. . . .only daughter. He is one of our biggest industrialists. And we are proud to have Mr. Singhania. . . . in our studio today. Let's hear it from our horse's mouth.",
+      "target_person": "studio host",
+      "target_gender": "male",
+      "cause_raw": "having a prominent industrialist in the studio",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1842_bolly",
+      "emotion": "pride",
+      "dialogue": "It's unbelievable. Friend, It's unbelievable. Today I have realised that true love has great strength. I am proud of you, my friend. I am proud of you, my friend. That's why, we have given him the tile of The King of Lovers. Sir, do you recognise me? No. Moon TV, N . D. Shrivastav.",
+      "target_person": "friend",
+      "target_gender": "male",
+      "cause_raw": "true love",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1843_bolly",
+      "emotion": "pride",
+      "dialogue": "Lover-boy Mr. Dev Karan Singh......who has been linked o many famous beauies......like Sushmia Rai, Madhuri Tandon, Urmila Kapoor ec...Mr. Dev Karan Singh has now decided o ie he nupial kno. And he girl is he only daugher of India's famous indusrialis......Mr. Praaprai Singhania. l's a maer of pride ha Mr. Singhania is in he sudio oday. ls i rue ha you are geing your daugher married o Mr. Dev? Bu you are familiar wih his aciviies, aren' you",
+      "target_person": "Mr. Praaprai Singhania",
+      "target_gender": "male",
+      "cause_raw": "daughter's marriage to a famous person",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1844_bolly",
+      "emotion": "pride",
+      "dialogue": "He has penchant for languages. And he loves travelling and meeting people. Really? When he was a child, he made us so proud. The problem is he's so fickle-minded. He just can't stick around......with any one thing. So anyone for that matter.",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    }
+  ]
+}

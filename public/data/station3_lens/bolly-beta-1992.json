@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "107747",
+    "title": "Beta",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1RUOf9MCf8PsKxrefcwFqb0JCKL.jpg",
+    "overview": "Beta is the story of Raju, the only child of a widowed multi millionaire. Raju's father can provide him anything he wants but Raju's only desire is to get mother's love, in order to please Raju, his father gets married to Nagmani, thinking that she will take care of Raju more than his real mother would. Raju becomes completely devoted to his stepmother, doing whatever she wishes. Time passes by, Raju grows up and gets married to Saraswati. Saraswati discovers that Nagmani's motherly love for Raju is fake and all what Nagmani is interested in, is capturing Raju's wealth."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s495_bolly",
+      "emotion": "shame",
+      "dialogue": "Move away, I saw her first!- No, me! So you have put these rogues behind me. What do you want? I feel shy to tell.-You are behind me like a shameless. What is the relation between us -Can call it relation of ages. With you. Have you seen your face on the mirror, monkey!",
+      "target_person": "character being called monkey",
+      "target_gender": "male",
+      "cause_raw": "physical appearance",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s496_bolly",
+      "emotion": "shame",
+      "dialogue": "You are not fit to become even a broker, leave alone a husband Keep this bangle given by you, and get away from here. You are only my mother <i>&</i> father, and I have the culture...\"...which you have given me. I will die, but not do such a sinful...\"...which will make you bow in shame. I will never allow that. Will you marry me? Daughter, fall at her feet, your fate has opened up.",
+      "target_person": "proposed husband",
+      "target_gender": "male",
+      "cause_raw": "lack of capability to be a good husband",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s497_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't talk like this with the owner, go from here. Konika, did you take father's blessings-No, who will go......to that mad man's room. What if breaks my head? Konika, don't you feel ashamed to talk like this about your...\"...father-in-law?-No, everybody knows he is a mad man.\" Do you know, what you are saying-She is telling the truth Came to advise us like a grandmother!",
+      "target_person": "Konika",
+      "target_gender": "female",
+      "cause_raw": "Disrespecting her father-in-law",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p222_bolly",
+      "emotion": "pride",
+      "dialogue": "During the dice game in Mahabharata, Shakuni also left...\"...smiling, but it resulted in Draupati's insult.\" Don't worry, sister will definitely plan some conspiracy. My daughter-in-law is like the moon. I am proud of my Raju's......choice. Even I couldn't have got such a modest beauty for him. Sit down. I had made these two bangles for Raju's bride. Take it. Let me put it on your hands myself-Why these tears, mother?",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "son's choice of spouse",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p223_bolly",
+      "emotion": "pride",
+      "dialogue": "Who will take so many responsibilities? What is this daughter-in-law for?- I am educated. I can't do these small works. - If I give you one slap,......all your pride will go. You have to take the keys. But -Mother, give the keys -She can't handle it, son I will see, how she can't -Take these keys.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "confidence in daughter-in-law's capabilities",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

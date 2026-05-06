@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "24006",
+    "title": "O. Henry's Full House",
+    "year": "1952",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/vznk8LPE5nRRbNjeTG20P42yy2l.jpg",
+    "overview": "Five O. Henry stories, each separate. The primary one from the critics' acclaim was \"The Cop and the Anthem\". Soapy tells fellow bum Horace that he is going to get arrested so he can spend the winter in a nice jail cell. He fails. He can't even accost a woman; she turns out to be a streetwalker. The other stories are \"The Clarion Call\", \"The Last Leaf\", \"The Ransom of Red Chief\", and \"The Gift of the Magi\"."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS440_holly",
+      "emotion": "shame",
+      "dialogue": "Just a couple of days rest.  Of course, he thinks you ought to be spanked for going out in such weather.  Sue. I'm so ashamed.  Why should you be?  Oh, sure, your pride's hurt now.",
+      "target_person": "Sue",
+      "target_gender": "female",
+      "cause_raw": "going out in bad weather",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WS441_holly",
+      "emotion": "shame",
+      "dialogue": "Slick, this has been the worst night of my life.  I don't think I can take any more.  William, you should be ashamed of yourself... letting a little child break your spirit.  letting a little child break your spirit.  That's enough, Slick. I'll take it from him, but not from you.",
+      "target_person": "William",
+      "target_gender": "male",
+      "cause_raw": "letting a child break his spirit",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WP930_holly",
+      "emotion": "pride",
+      "dialogue": "Sue. I'm so ashamed.  Why should you be?  Oh, sure, your pride's hurt now.  Six months from now you'll be laughing about it if you even remember.  Now close your eyes and go to sleep.",
+      "target_person": "Sue",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

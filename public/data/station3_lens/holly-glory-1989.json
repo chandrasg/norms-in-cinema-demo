@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "9665",
+    "title": "Glory",
+    "year": "1989",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+    "overview": "Robert Gould Shaw leads the US Civil War's first all-black volunteer company, fighting prejudices of both his own Union army and the Confederates."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS641_holly",
+      "emotion": "shame",
+      "dialogue": "You prissy little schoolgirl.  You're the worst soldier in this whole company. Now hit me!  No shame, son. Get up.  I said, get up.  Nigger forgot to duck. That's all.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "poor performance as a soldier",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WP1300_holly",
+      "emotion": "pride",
+      "dialogue": "But we are not disheartened.  I am honoured to be part of such a splendid company.  They have made me captain, of which I am enormously proud.  You would think it strange to see me giving orders to a hundred men...  ...most of whom are older than I am.",
+      "target_person": "Captain",
+      "target_gender": "male",
+      "cause_raw": "being made captain",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1301_holly",
+      "emotion": "pride",
+      "dialogue": "Dashing.  - Robert. - Thomas.  Captain Shaw. I was so proud when I heard.  Well, they had no choice. All the other officers are dead.  - And Forbes? - Impossible, as always.",
+      "target_person": "Captain Shaw",
+      "target_gender": "male",
+      "cause_raw": "for being chosen as an officer",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1302_holly",
+      "emotion": "pride",
+      "dialogue": "The governor is proposing to raise a regiment of Negro soldiers.  No, no. It was not just my idea. Mr. Douglass and some of us--  We will offer pride and dignity... ...to those who have known only degradation.  ...to those who have known only degradation.  Coloured soldiers, Robert. Just think of it.",
+      "target_person": "governor",
+      "target_gender": "male",
+      "cause_raw": "proposing to raise a regiment of Negro soldiers",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1303_holly",
+      "emotion": "pride",
+      "dialogue": "Hey, pop, you fitting to lay down for this too?  - Fall in! - Fall in!  Hey. Hey, come on. Where's your pride, now?  Make your mark right here.  - I can write my name. - Then do it.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

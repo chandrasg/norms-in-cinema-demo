@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "636952",
+    "title": "Waaris",
+    "year": "1988",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/qj8FlA6VfZzBgNib5KRChOstAVU.jpg",
+    "overview": "Multi-millionaire's unequal division of property causes family feud. One son kills father, goes to jail. Years later, grandson murdered by other son's offspring over land dispute. Widow seeks heir through remarriage to secure inheritance."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 4
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 2
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2018_bolly",
+      "emotion": "shame",
+      "dialogue": "Were my sons illegitimate that you never even gave them a thought? How can you expect me to give a thought to your kids...after you married a wanton woman? Aren't you ashamed of yourself to demand your rights over my property? I would have never stopped you today if only my mother had...told me on her deathbed that I am not your child. Father, your elder son is the rightful owner to all your property.",
+      "target_person": "elder son",
+      "target_gender": "male",
+      "cause_raw": "marrying a woman of ill-repute and demanding property rights",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2019_bolly",
+      "emotion": "shame",
+      "dialogue": "As this is your first meeting,...l suggest you remain at an arm's length from her. I agree. Shameless creep! He's good. Don't be afraid if he comes a bit closer to you. Bye!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2020_bolly",
+      "emotion": "shame",
+      "dialogue": "How many times have I told him to approach uncle...\"and demand our rights over our land, but will he?\" He doesn't even listen to me. All he ever cares about is trading horses. He doesn't care about the land at all. - Actually father, I...What's have you to say? Aren't you ashamed of yourselves? I killed my own father to usurp that land...and spent 16 years cooped up in the cold limbo. All this for you. And, I am still trying to get a hold on that property.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "neglecting family property and rights",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s2021_bolly",
+      "emotion": "shame",
+      "dialogue": "Move aside! - What happened dad? Did Paro consent to the proposal? Uncle was right. Paro vehemently refused it outright. I am ashamed of you all. None of you is capable enough to take her for a ride. There's only two ways to catch hold of her.",
+      "target_person": "Paro",
+      "target_gender": "female",
+      "cause_raw": "refusing a marriage proposal",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2022_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh really! But, you dissented the proposal to the marriage to my son. But something tells me, you are giving it a second thought. Haven't you a speck of shame in you? Even a beggar doesn't knock on the same door twice once driven out. But, you are worse than him.",
+      "target_person": "person proposing marriage",
+      "target_gender": "female",
+      "cause_raw": "proposing marriage after initial rejection",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2023_bolly",
+      "emotion": "shame",
+      "dialogue": "What do you want? You want the marriage between your father-in-law and Seebo! Weren't you ashamed to speak these words? Why don't you just kill her instead...or sell her off in the market place like an animal? Don't shout!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "suggesting inappropriate relationship",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2024_bolly",
+      "emotion": "shame",
+      "dialogue": "Marriages are made in heaven. You were destined to me by husband and therefore, I am here. Uncle Gajjan wasn't ashamed to marry the sister of his daughter-in-law. What image must have the community formed of our family? To hell with the family.",
+      "target_person": "Uncle Gajjan",
+      "target_gender": "male",
+      "cause_raw": "marrying within the family",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p1076_bolly",
+      "emotion": "pride",
+      "dialogue": "I have heard that she visits my father's tomb everyday before sunset. Yes, she does. After the fiasco,...how dare she roam the streets of our village with so much pride? if we had a boundary protecting our land,...we would have put up a sign for no trespassing. But, how should one be treated if one ever trespasses?",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

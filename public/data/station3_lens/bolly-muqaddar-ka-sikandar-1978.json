@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "71298",
+    "title": "Muqaddar Ka Sikandar",
+    "year": "1978",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lm4Zlk53kuByV7eK2Y0PKTqvrU0.jpg",
+    "overview": "Sikandar, an orphan, makes many friends and foes as he works his way up to become rich, but his heart only yearns for his unfulfilled childhood love, Kaamna. Though he finds temporary comfort in an enchanting prostitute named Zohra, all hell breaks loose when Kaamna falls for Sikandar's best friend."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3711_bolly",
+      "emotion": "shame",
+      "dialogue": "No, no my brother had said to do it. Which brother? Do you think you rule this place? Paul, aren't you ashamed of lifting your hand on a child? I will slap you! What relation do you have with her? I am her brother.",
+      "target_person": "Paul",
+      "target_gender": "male",
+      "cause_raw": "physical violence against a child",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s3712_bolly",
+      "emotion": "shame",
+      "dialogue": ". .after completing 7 years of imprisonment. And today, again you are sitting in front of me. It is a very shameful thing Dilawar. What is there to be shameful of sir. . . .when I am not feeling ashamed, then why are you?",
+      "target_person": "Dilawar",
+      "target_gender": "male",
+      "cause_raw": "repeated imprisonment",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3713_bolly",
+      "emotion": "shame",
+      "dialogue": "And today, again you are sitting in front of me. It is a very shameful thing Dilawar. What is there to be shameful of sir. . . .when I am not feeling ashamed, then why are you? Then you will never reform.",
+      "target_person": "Dilawar",
+      "target_gender": "male",
+      "cause_raw": "not feeling remorse for his actions",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3714_bolly",
+      "emotion": "shame",
+      "dialogue": "It is a very shameful thing Dilawar. What is there to be shameful of sir. . . .when I am not feeling ashamed, then why are you? Then you will never reform. I can never reform inspector sir.",
+      "target_person": "Dilawar",
+      "target_gender": "male",
+      "cause_raw": "Not willing to reform",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3715_bolly",
+      "emotion": "shame",
+      "dialogue": "What is her name? - I never took her name. Think of me as her servant. You have put to shame the love of Laila-Majnu. . . .and Shirin-Farhad. Anyway, I will write it. Beloved. No, not beloved.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "not respecting love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p1968_bolly",
+      "emotion": "pride",
+      "dialogue": "They are the ones who had to bow down. They had insulted my brother by calling him a thief. Their pride was shattered. I have heard that Kamna. . . .works as a teacher in some musical school.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "216138",
+    "title": "10 Rules for Sleeping Around",
+    "year": "2013",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/dX8IMDXbVWJ7fq0AX0efog1SMX5.jpg",
+    "overview": "By following ten simple rules,  20-somethings Vince and Cameron spice up their relationship by sleeping around. But when their straitlaced friends get engaged, their relationship gets turned upside down. To put the rules to the test, they will go on the road to the Hamptons to crash the biggest party of the year where love triangles collide and off-the-wall mayhem ensues."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS839_holly",
+      "emotion": "shame",
+      "dialogue": "There's a code? What code?  Shut up, Mr. three-way.  No, have you no shame?  For Christ sakes.  He's not in here, dear.",
+      "target_person": "Mr. three-way",
+      "target_gender": "male",
+      "cause_raw": "engaging in promiscuous behavior",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS840_holly",
+      "emotion": "shame",
+      "dialogue": "Ms. Cooney.  Here, take this pill.  I am appalled, and you should all be ashamed of yourselves.  Coming ladies?  Yes.",
+      "target_person": "Ms. Cooney and others",
+      "target_gender": "female",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1540_holly",
+      "emotion": "pride",
+      "dialogue": "to see his boy become a man.  Don't worry, it's not a surprise bar Mitzvah.  But tonight is my pride and joy's 18th birthday.  So belly up to the bar and join me in a toast.  To-",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "his child's 18th birthday",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1541_holly",
+      "emotion": "pride",
+      "dialogue": "Let the fireworks begin.  Mambo!  You know you've made me very proud, son.  If you needed someone to talk to, you should've come to me.  That lipstick shade is all wrong on you.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

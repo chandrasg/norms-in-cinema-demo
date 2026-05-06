@@ -1,0 +1,91 @@
+{
+  "film": {
+    "id": "165069",
+    "title": "Hameshaa",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/g9K6lJHB35Y9vi0tnlQ3G6ZbTFu.jpg",
+    "overview": "Two close friends, Yash and Raja, share a passion for cars and beautiful women. Both come from different backgrounds, while Yash is wealthy, Raja comes from a poor family. Raja meets with Reshma, who is attending a nearby college, and falls in love with her. Reshma eventually also falls in love with him. When Yash meets Reshma, he also instantly falls in love with her. When Yash finds out that Reshma loves Raja, he has both of them tragically separated."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Academic Success",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2296_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't try to change the topic! I'll pay you 5000 bucks! 5000 Rupees...?! You ought to be ashamed to offer only 5000 for the frying-pan! Don't you know the frying-pan...Was used by Anarkali to make fritters for Prince Salim?! That frying-pan must fetch you no less than Ten grand.",
+      "target_person": "buyer",
+      "target_gender": "unclear",
+      "cause_raw": "offering a low price for a valuable item",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4929_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't try to change the topic! I'll pay you 5000 bucks! 5000 Rupees...?! You ought to be ashamed to offer only 5000 for the frying-pan! Don't you know the frying-pan...Was used by Anarkali to make fritters for Prince Salim?! That frying-pan must fetch you no less than Ten grand.",
+      "target_person": "buyer",
+      "target_gender": "unclear",
+      "cause_raw": "undervaluing a historical item",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "p1194_bolly",
+      "emotion": "pride",
+      "dialogue": "Where is she, if true? In the Principal's chamber! Where is the Principal's chamber. That where the girl is! Going by the excellent marks you have scored......it would be a matter of pride to have you in our college. I hope you will win accolades for our college, too. I will do my best, sir.",
+      "target_person": "principal",
+      "target_gender": "male",
+      "cause_raw": "student's academic achievement",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p1195_bolly",
+      "emotion": "pride",
+      "dialogue": "Take this, Rani. What is it? It is the Pride of this Royal family......the most expensive dress of this palace. But why have you brought it to me? You will wear it today.",
+      "target_person": "Rani",
+      "target_gender": "female",
+      "cause_raw": "receiving the most expensive dress of the palace",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2749_bolly",
+      "emotion": "pride",
+      "dialogue": "Where is she, if true? - In the Principal's chamber! Where is the Principal's chamber. - That where the girl is! Going by the excellent marks  you have scored...it would be a matter of pride to have you in our college. I hope you will win accolades for our college, too. I will do my best, sir.",
+      "target_person": "principal",
+      "target_gender": "male",
+      "cause_raw": "student's academic achievement",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p2750_bolly",
+      "emotion": "pride",
+      "dialogue": "Take this, Rani. What is it? It is the Pride of this Royal family...the most expensive dress of this palace. But why have you brought it to me? You will wear it today.",
+      "target_person": "Rani",
+      "target_gender": "female",
+      "cause_raw": "wearing the most expensive dress of the palace",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

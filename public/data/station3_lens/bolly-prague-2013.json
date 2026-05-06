@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "217596",
+    "title": "Prague",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/nIjlbe5aczjglnjsXYEhOc8CVkU.jpg",
+    "overview": "A city with a history of heritage, myth and superstition. A passionate architect with strong but delusional ideas about love and life. A Czech gypsy girl searching for her identity and true love. Add to the drama of a mean friend you can’t do without and cannot trust either. The conflict of these complex characters is further heightened with illusions of someone who is there but at the same time not there- what you see is not true? or is the truth, what you not see? All of the above are thrown together in a very unique and unusual situation where you do not know what to believe and what to disbelieve."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p652_bolly",
+      "emotion": "pride",
+      "dialogue": "Because today we learned the alphabets. Everybody else learned halfway up to M..Me, I learned the whole alphabet. So he said, well, you know son that's just natural.....you know, gypsies are clever and you should be proud. So boy comes back from school. So how was today son?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's academic achievement",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p653_bolly",
+      "emotion": "pride",
+      "dialogue": "So boy comes back from school. So how was today son? Today.. Oh dad I am proud of myself..Because today we looked at each other's penises.....and all the other boys.. phew. This size.. really.. like this Just nothing. And me.. yeah! I mean.. Maybe..And hair and everything.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "physical maturity",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p654_bolly",
+      "emotion": "pride",
+      "dialogue": "This size.. really.. like this Just nothing. And me.. yeah! I mean.. Maybe..And hair and everything. He said well..Well son, you know, you shouldn't be proud of that....after all you are 20 years old and they are 7. Why are you laughing? We are just talking.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

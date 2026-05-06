@@ -1,0 +1,151 @@
+{
+  "film": {
+    "id": "274694",
+    "title": "Janam Janam Ke Phere",
+    "year": "1957",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "",
+    "overview": "Kamla and Mahapatra pray to Bhagwan Shree Indra and are blessed with a male child. Despite his upbringing, Raghu is won over by the four temptations of Lobh, Madh, Kaam and Krodh."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 9
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2,
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2686_bolly",
+      "emotion": "shame",
+      "dialogue": "When Annapurna will come to worship the banyan tree....then she will kidnapped at that very moment. What if Raghu came in between? Don't you feel ashamed of stopping daughter-in-law....who is worshipping for your long life?! Father, don't tell him anything in front of me. Why shouldn't I say?!",
+      "target_person": "Annapurna's husband",
+      "target_gender": "male",
+      "cause_raw": "stopping wife from performing religious rituals",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2687_bolly",
+      "emotion": "shame",
+      "dialogue": "Have faith on God, dear. If Raghu is alive....then he will surely come back some day. Now he is not going to come. After ruining his house and dignity....won't Raghu be ashamed to come back to the village?! Annapurna. This is his voice only!",
+      "target_person": "Raghu",
+      "target_gender": "male",
+      "cause_raw": "ruining his house and dignity",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "p1411_bolly",
+      "emotion": "pride",
+      "dialogue": "Look Laxmi, this is the world. And this is the human residing in the world. He took birth.... grew up....then came into his youth....and when he reached the stage....when he could distinguish the bad from the good....then sex, anger, pride and selfishness surrounded him. Look, they threw their chains. And they hindered the knowledge of man....by hiding it in the darkness of unawareness.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1412_bolly",
+      "emotion": "pride",
+      "dialogue": "Om Vaishnave Namaha. Om Vaishnave Namaha. Sex, anger, pride! - Yes God? Enter into this boy's heart and destroy God's existence in it. Go!",
+      "target_person": "God",
+      "target_gender": "male",
+      "cause_raw": "Destroy God's existence in boy's heart",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1413_bolly",
+      "emotion": "pride",
+      "dialogue": "Go! Om Vaishnave Namaha! The one who makes man revolve....in the ups and downs life that have always existed....sex, anger, pride and selfishness....entered into this house, in spite of your presence. Let them come. - Now you will have to move out of the house. I will leave.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1414_bolly",
+      "emotion": "pride",
+      "dialogue": "Me?! - Yes. You have always thought of duty as just a deceit. Till I was alive, I kept suffering....because of your pride. And now after dying....I am suffering because of your sins. Look! Father! Son, at least speak up now.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's silence",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1415_bolly",
+      "emotion": "pride",
+      "dialogue": "For once, have a look at me. My beauty. - I saw it. O saint! Are you proud of your holiness? Not at all. - But I am proud of my beauty. It is a lie.",
+      "target_person": "character",
+      "target_gender": "female",
+      "cause_raw": "her beauty",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1416_bolly",
+      "emotion": "pride",
+      "dialogue": "My beauty. - I saw it. O saint! Are you proud of your holiness? Not at all. - But I am proud of my beauty. It is a lie. Your holiness will have to bow at beauty's feet!",
+      "target_person": "character",
+      "target_gender": "female",
+      "cause_raw": "her beauty",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1417_bolly",
+      "emotion": "pride",
+      "dialogue": "It is a lie. Your holiness will have to bow at beauty's feet! Pride has to bow at God's feet. - It will be seen! To trap this saint, I will plan how to attract him. You'll bring him there.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1418_bolly",
+      "emotion": "pride",
+      "dialogue": "'This is the fire of love O my lover....that rises here and spreads there.' 'This is the music of love O my lover....that plays here as well as there.' 'We are very proud of your love.' 'You are only the king who can rule me.' 'God won't be able to hide like this.'",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1419_bolly",
+      "emotion": "pride",
+      "dialogue": "How can this stone idol reach him the letter?! Yes aunt. This is my belief. You only are the pride of God. Please get this letter reached to my husband. Come on, aunt.",
+      "target_person": "aunt",
+      "target_gender": "female",
+      "cause_raw": "faith and belief",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

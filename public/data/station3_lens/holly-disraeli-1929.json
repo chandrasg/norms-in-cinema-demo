@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "84274",
+    "title": "Disraeli",
+    "year": "1929",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/uVTmxQJp0sqBujbieSTrB2ui9al.jpg",
+    "overview": "Prime Minister of Great Britain Benjamin Disraeli outwits the subterfuge of the Russians and chicanery at home in order to secure the purchase of the Suez Canal."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS897_holly",
+      "emotion": "shame",
+      "dialogue": "I'm a girl of 19 and you come to me with an essay on political economy.  I'm a man of heavy responsibilities, not a hero of romance.  You will enter a family of which the men have never done anything to be ashamed of.  Have they ever done anything ?  Nothing, thank God, to attract attention.",
+      "target_person": "Girl of 19",
+      "target_gender": "female",
+      "cause_raw": "lack of knowledge on political economy",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1631_holly",
+      "emotion": "pride",
+      "dialogue": "And it's no use talking. I refused him and I told him why.  Did you. Quite frankly. Did you.  I told him I must have a man with pride.  As he is now, I would sooner marry a bricklayer.  He does lay bricks and he may build a cathedral.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1632_holly",
+      "emotion": "pride",
+      "dialogue": "Empress of India ? Ah, sounds well, Mary, doesn't it ?  Mary, you shall be my messenger when the time is ripe.  You, Lady Beaconsfield, shall carry the news to our beloved Queen... ... and you shall be there, and you shall be proud... ... when I stand up to announce the new title to Our Majesty's faithful Common.  ... when I stand up to announce the new title to Our Majesty's faithful Common.  Yes, Dizzy, when will that be ? Oh, some time must elapse.",
+      "target_person": "Lady Beaconsfield",
+      "target_gender": "female",
+      "cause_raw": "announcing the new title to the Queen",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1633_holly",
+      "emotion": "pride",
+      "dialogue": "Probert, of course.  Is that one of the famous peacocks ?  Yes. Dizzy is very proud of them. And of the swans. I've heard so much about them.  May I have a look at them ?  Yes.",
+      "target_person": "Dizzy",
+      "target_gender": "male",
+      "cause_raw": "his peacocks and swans",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1634_holly",
+      "emotion": "pride",
+      "dialogue": "Then let me tell you, sir, you have committed a crime.  As Parliament was not sitting to vote the money I had to seek it elsewhere.  Five million sterling, you refused. I did and I'm proud of it.  I went to the wealthiest private firm, to Hugh Meyers. A Jew.  Meyers, not being a party man but a patriot, saw the greatness of the idea and stood beside me.",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "refusing to vote the money",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

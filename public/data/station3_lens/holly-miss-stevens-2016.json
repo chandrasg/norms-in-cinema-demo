@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "346134",
+    "title": "Miss Stevens",
+    "year": "2016",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/cgFkIPfFyV6NRn2hBmCdDWLfwGj.jpg",
+    "overview": "Stuck at a crossroads in her personal life, it falls on high school English teacher Miss Stevens to chaperone three of her students — Billy, Margot and Sam — on a weekend trip to a drama competition."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP478_holly",
+      "emotion": "pride",
+      "dialogue": "Duh!  Okay, goodnight.  Okay, goodnight.  Pride and Prejudice. So loud.  Wake up, wake up.  Hello. Good morning.  Good morning.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP479_holly",
+      "emotion": "pride",
+      "dialogue": "Just smile like a normal... person.  \"Good morning. Good morning.  Pride and Prejudice.  Okay, did you read it? Did anybody read it?  Am I just talking to people who haven't read the book?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP480_holly",
+      "emotion": "pride",
+      "dialogue": "Let's... Let's start with... Let's start with... Let's start with prejudice.  Let's start with... Let's start with prejudice.  Let's start with pride.  Pride. Pride. We've all felt pride.  And goodnight. You're all asleep.\"",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP481_holly",
+      "emotion": "pride",
+      "dialogue": "Let's start with... Let's start with prejudice.  Let's start with pride.  Pride. Pride. We've all felt pride.  And goodnight. You're all asleep.\"  Hey, Miss Stevens.",
+      "target_person": "Miss Stevens",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP482_holly",
+      "emotion": "pride",
+      "dialogue": "I can't believe he told you that.  I'm really sorry I missed your monologues today.  But I'm really proud of you guys for moving on.  Thanks, Margot.  Yeah, thanks.",
+      "target_person": "Margot",
+      "target_gender": "female",
+      "cause_raw": "for moving on",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "143844",
+    "title": "Dostana",
+    "year": "1980",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/nYUgAxGTeZ3DvIKno5OpHJt0e4k.jpg",
+    "overview": "Two close friends decide to enter law enforcement – one a police officer, the other a lawyer – but their friendship begins to unravel when they both fall in love with the same woman."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5103_bolly",
+      "emotion": "shame",
+      "dialogue": "Look Sheetal, I don't understand Ravi's behaviour in the court. I never got to meet you aRer that. And I couldn't even thank him...We can talk later. As of now, the letter you had written for me......it never reached me, but today it did find Ravi. He is very ashamed. He wants to talk to you. Where is he? - With me. Speak to him. When your heart holds no grudges, then why be ashamed?",
+      "target_person": "Ravi",
+      "target_gender": "male",
+      "cause_raw": "hiding information",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "s5104_bolly",
+      "emotion": "shame",
+      "dialogue": "He is vey ashamed. He wants to talk to you. Where is he? - With me. Speak to him. When your heart holds no grudges, then why be ashamed? Speak to him. How are you, my friend?",
+      "target_person": "Unnamed Male",
+      "target_gender": "male",
+      "cause_raw": "Holding grudges",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p2877_bolly",
+      "emotion": "pride",
+      "dialogue": "People lie unabashedly. Why must I hesitate to tell the truth? You are really a nice person. I feel proud that you consider me a friend. The keys to your new house, Mr Ravi. Just take a look. You'll find it an exact replica ofthat photograph.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being considered a friend",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "343284",
+    "title": "Night of the Living Deb",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/4zYHMNeK9gqr4x7GiY5YpjDEeG.jpg",
+    "overview": "After a one night stand Deb wakes up in the middle of a zombie apocalypse."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS200_holly",
+      "emotion": "shame",
+      "dialogue": "I think I'm gonna be sick.  Hi-ooh!  - Longest walk of shame EVER! - No, no! That's not... Nothing happened, we both just passed out.  Nothing happened, we both just passed out.  - I mean, something happened. - I'm sure it did!",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "presumed sexual activity",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WP405_holly",
+      "emotion": "pride",
+      "dialogue": "The same thing that wiped out the indigenous Wabanaki Indians?  - Wobanaki Indians, Pop. - Wobanaki Indians.  I'm supposed to be proud of you that you wiped out the entire population of our town'?!  You see that? You always go to the negative.  - I'm proud of you. Pop. - Always!",
+      "target_person": "Pop",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP406_holly",
+      "emotion": "pride",
+      "dialogue": "I'm supposed to be proud of you that you wiped out the entire population of our town'?!  You see that? You always go to the negative.  - I'm proud of you. Pop. - Always!  Population or no population.  Oh, come on, relax now, babe. We've got some catching up to do! Hm-hm!",
+      "target_person": "Pop",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP407_holly",
+      "emotion": "pride",
+      "dialogue": "Even as a zombie, his hair is camera perfect!  - Oh, is he coming'? - Uh-huh.  He was always mean to me, but I'm going to do him proud.  - Aaaaaaagh! - Okay, let's... let's go.  Control room's in here. Oh'?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "doing proud to someone who was mean to them",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

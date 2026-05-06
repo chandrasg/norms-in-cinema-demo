@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "391726",
+    "title": "Jheel Ke Us Paar",
+    "year": "1973",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/uaa0JnWNU2ra2DcEWPqBT0vow7b.jpg",
+    "overview": "Kulwant Rai's horse carriage runs over a child, and as a result, she loses her vision."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2739_bolly",
+      "emotion": "shame",
+      "dialogue": "Help! Help! Rascal! Scoundrel! Rascal! Scoundrel! Shameless fellow! Leave me! For God's sake, don't touch me. Have mercy on me. I beg of you. Sir...please rescue me.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2740_bolly",
+      "emotion": "shame",
+      "dialogue": "What's happened to you? I've been stung by a scorpion. Why this body exposure and shamelessness? You have begun to love that blind girl. What does she have that I don't?",
+      "target_person": "character 1",
+      "target_gender": "female",
+      "cause_raw": "body exposure and perceived shamelessness",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2741_bolly",
+      "emotion": "shame",
+      "dialogue": "Neelu was distanced from you because of me. You had to leave your home because of me. Forgive me. You shameless girl...you handed over that helpless girl to those jackals. Because of you, I suspected Neelu's love for me. I won't spare you alive.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "betrayal and causing harm to others",
+      "theme_label": "Dishonesty"
+    }
+  ]
+}

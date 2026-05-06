@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "96149",
+    "title": "Anamika",
+    "year": "1973",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/rY3iXVIRZUre4PfZ1BS8pfA0kNA.jpg",
+    "overview": "A self proclaimed misogynistic writer rescues an injured woman who suffers from amnesia but claims to be his wife. In the process of finding out her real identity, he falls in love with her."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s73_bolly",
+      "emotion": "shame",
+      "dialogue": "No one informed me. - How could anyone inform you? If you were a normal person anyone would share their sorrow. You are off your top at home. it's shameful. Being the owner of the house you don't know anything. Look dear, you know she has lost her memory.",
+      "target_person": "owner of the house",
+      "target_gender": "male",
+      "cause_raw": "lack of awareness about household matters",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s74_bolly",
+      "emotion": "shame",
+      "dialogue": "Go quickly. - Okay aunt. Good. Yogi Vishwamitra is not in his room. Aren't you ashamed? Why are you staring? But why should I feel shy of you? You are everything. My body, soul everything is for you.",
+      "target_person": "Yogi Vishwamitra",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s75_bolly",
+      "emotion": "shame",
+      "dialogue": "He held my hand and proposes love to me. She is joking. Joking. - Joke? Not at all. He took my muffler too. -You are shameless. Don't you have anyone at home? Go and love them. I will check his love. - Hello.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards a woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s76_bolly",
+      "emotion": "shame",
+      "dialogue": "The heart says no. That's fine. I will get the documents. Because of your shameful behavior....your father has not given you any share in his property. What can I do? Mr. Mehra, you are our family lawyer.",
+      "target_person": "Mr. Mehra",
+      "target_gender": "male",
+      "cause_raw": "shameful behavior leading to disinheritance",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s77_bolly",
+      "emotion": "shame",
+      "dialogue": "Still my husband's whereabouts were not known. Archana, you are mine forever. Aren't you ashamed to speak thus? If your brother comes, then? - Hey. He will never return. What nonsense? - He surely became a husband.",
+      "target_person": "Archana",
+      "target_gender": "female",
+      "cause_raw": "being claimed by another man while her husband is missing",
+      "theme_label": "Marital Status"
+    }
+  ]
+}

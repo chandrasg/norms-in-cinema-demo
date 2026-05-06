@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "22315",
+    "title": "Aitraaz",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9tVt6N7vgIFnf8g6NzaqfjkQObr.jpg",
+    "overview": "Raj, a married man, is falsely accused of rape by his ex-girlfriend who is also his employer's wife. He decides to sue her for sexual harassment despite societal pressures."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4088_bolly",
+      "emotion": "shame",
+      "dialogue": "I won't sleep with Bunty. Adjust it for a single night and then.....I'll arrange everything for you tomorrow. Don't you feel ashamed? You're telling a girl to sleep in a boy's room. No. No. He's not a boy. He's a kid",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "suggesting inappropriate sleeping arrangements",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4089_bolly",
+      "emotion": "shame",
+      "dialogue": "But now.. I will fight my husband's case. I will challenge the court's decision. And I will unveil so many veils of shame.....In the open court, you wouldn't.....have opened so many behind closed doors too. This will be the first time A woman will unveil a woman in a court full of men.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "challenging court's decision",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2210_bolly",
+      "emotion": "pride",
+      "dialogue": "I came because I thought that the..\"Woman inside you awakened. You understood your mistake. But I didn't know that you think so low. Mrs. Sonia.. for this power and post which god knows how many men you...used as a ladder to achieve, being.....blind in it's pride, you want to snatch my husband from me? Listen. Nor will my husband accept your conditions. And neither will I let him go to prison.",
+      "target_person": "Sonia",
+      "target_gender": "female",
+      "cause_raw": "achieving power and post",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

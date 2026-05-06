@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "19348",
+    "title": "Girlfight",
+    "year": "2000",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ydHUoYtpZdkwxdroK1rWyEpJrLZ.jpg",
+    "overview": "Diana Guzman, a troubled Brooklyn teenager, decides to channel her aggression by training to become a boxer, all while keeping it a secret from her father."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP577_holly",
+      "emotion": "pride",
+      "dialogue": "Here, this is from my dad.  You Sandro's kid too?.  - How come I never heard aboutyou?. - I don't know. I'm his pride and joy.  Jesus Christ.  Nice meeting you.",
+      "target_person": "Sandro's kid",
+      "target_gender": "unclear",
+      "cause_raw": "being Sandro's child",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP578_holly",
+      "emotion": "pride",
+      "dialogue": "Then maybeyou shouldn't be a boxer.  Oh, saycanyousee  Bythe dawn's earlylight  Whatsoproudly we hailed  At the twilight's last gleaming  Whose broadstripes and bright stars  Through the perilous fight",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP579_holly",
+      "emotion": "pride",
+      "dialogue": "Diana Guzman!  Yeah!  Satisfied?.  I n al I my I ife, I never been so proud.  Never.  Let's go.  You got a deadly hook.",
+      "target_person": "Unnamed character",
+      "target_gender": "female",
+      "cause_raw": "Diana Guzman's deadly hook",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

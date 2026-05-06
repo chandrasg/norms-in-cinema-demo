@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "362136",
+    "title": "Prem Ratan Dhan Payo",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/pCxT9c2E0YhzxsSkweVW2ELO3mS.jpg",
+    "overview": "While recovering from an assassination attempt four days before his coronation, a stern prince is replaced by a romantic lookalike."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1429_bolly",
+      "emotion": "shame",
+      "dialogue": "Get your dirty mind off Janaki. Get your dirty mind off Janaki. Be ashamed of your deeds. Ravan, you better leave this place. Why are you angry?",
+      "target_person": "Ravan",
+      "target_gender": "male",
+      "cause_raw": "Harassing Janaki",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p758_bolly",
+      "emotion": "pride",
+      "dialogue": "The girl and the guy will both learn..\"..Ram and Sita's unique..\"\"..love story.\" We next move on to King Janak's court......where Lord Rama is sitting with a smile. Ravan is proudly... staring at the bow! And then he arrogantly steps forward! Silly is the Ruler of Lanka to stare at women.",
+      "target_person": "Ravan",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p759_bolly",
+      "emotion": "pride",
+      "dialogue": "Immature Bapu! This is our Princess‘ future home. It's a matter of our pride and honour! There's no question of money! Keep a straight face! Sit straight!",
+      "target_person": "Bapu",
+      "target_gender": "male",
+      "cause_raw": "maintaining family honour",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p760_bolly",
+      "emotion": "pride",
+      "dialogue": "Dilwale? Bapu, I can deceive you as the Prince......but I can't deceive the Princess anymore. Bapu, let the pride of the royal family stay in the royal family. Why did I come here to meet her? Why did I stay here?",
+      "target_person": "Bapu",
+      "target_gender": "male",
+      "cause_raw": "maintaining royal family's pride",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

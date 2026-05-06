@@ -1,0 +1,99 @@
+{
+  "film": {
+    "id": "158807",
+    "title": "Chalo Ishq Ladaaye",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gOjdeBCBIAVK9JQyF1LlVwTfiwJ.jpg",
+    "overview": "Popular but lonely Bollywood actress, Rani, lives a fairly isolated life, through publicly she is thronged by fans, and has taken to drinking alcohol in a big way. Thus intoxicated she runs her vehicle into a young man named Pappu, who suffers minor injuries. He recognizes her, and tells her that he is her number one fan, and will do anything for her. She wants him to kill her double-timing boyfriend, Rahul. He agrees to do so, provided she kills his overbearing, aged grandmother, to which she agrees. After Pappu completes his gruesome task, he meets with Rani, only to be told that she does not recognize him, but when presented with proof, she relents and agrees to fulfill her part of this trade."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s705_bolly",
+      "emotion": "shame",
+      "dialogue": "I turned a thug because I had no other way Now tell me. Whose grandmother do you want me to bump off? What will I tell you? I feel so ashamed Take him in. -Why me....?where are you taking me? Who are you? - I came to show him where you live",
+      "target_person": "thug",
+      "target_gender": "male",
+      "cause_raw": "criminal activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s706_bolly",
+      "emotion": "shame",
+      "dialogue": "Why don't you fax yourself if it's so urgent? Fax...? If there's a power failure, I'll only be half-delivered Aren't you ashamed to crack such rotten jokes? Looks like it's more important for you to get to Raniket Here's my ticket. You can go ahead",
+      "target_person": "character cracking jokes",
+      "target_gender": "unclear",
+      "cause_raw": "cracking inappropriate jokes",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s707_bolly",
+      "emotion": "shame",
+      "dialogue": "My brother? - Yes You and he drank milk from the same bottle as infants Shame on my childhood He came to meet me because I'm here. Babbar's coming over too Rajiv Babbar? - The lion",
+      "target_person": "speaker's brother",
+      "target_gender": "male",
+      "cause_raw": "association with a disreputable person",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s708_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm crazy, I'm crazy Granny...? You? Aren't you ashamed? Dancing in the middle of the night like lunatics! Granny, where did you go with a gun in the middle of the night? That thief, your uncle, sneaked in again. I went to drive him out",
+      "target_person": "Granny",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately for her age",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s709_bolly",
+      "emotion": "shame",
+      "dialogue": "Not a single grain to eat, nor there is water to cook in the wells So you roam about begging with your young daughter, right? Aren't you ashamed? Go and drown yourself God has given you hands. Break stones or be a porter, and earn a living I don't have the strength. - You still can earn two square meals",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "begging and not working",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s710_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh no, grandma. May you live till I grow to be old man Who do I have but you? - All right, wipe your tears Aren't you ashamed to cry? Every time I'm meditating, you come and disturb me Why do you meditate as if - I'm dead?",
+      "target_person": "grandson",
+      "target_gender": "male",
+      "cause_raw": "crying and disturbing meditation",
+      "theme_label": "Immodesty"
+    }
+  ]
+}

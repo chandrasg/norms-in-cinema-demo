@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "125216",
+    "title": "Julie",
+    "year": "1975",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/hlfFkXiI3p7tbyx85swZGqjpLCb.jpg",
+    "overview": "Julie is an anglo-Indian girl with a loving, but alcoholic father and a domineering mother, a younger brother and sister. She falls in love with her best friend's brother Shashi Bhattacharya, a Hindu boy, and she has a passionate encounter with him, which leaves her pregnant. He goes away to college, not knowing about her condition.  Her mother is distraught when Julie tells her about the pregnancy. They don't tell the rest of the family. Her mother thinks about getting Julie an abortion, but a devout Christian talks her out of it. Julie is sent away to have her baby in secret. The rest of the family is told that Julie got a job. When she comes back home, she runs into her Hindu boyfriend and tells him everything. He agrees to marry her, but his mother objects to the mixed marriage, not knowing about the baby born in secret. Julie's mother doesn't want the marriage either, as she and the rest of the family want to go to England"
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2814_bolly",
+      "emotion": "shame",
+      "dialogue": "What have you done? Couldn't you find any other beast? Shameless! Do you have any idea of what you've done? You made me misbegotten!",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior or action",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2815_bolly",
+      "emotion": "shame",
+      "dialogue": "He will stay with me! You don't have to say anything. You're worried about the shame. Then I won't come home with you! I'll take him somewhere else.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "bringing shame to family by living with a man",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2816_bolly",
+      "emotion": "shame",
+      "dialogue": "I want work not this! How strange. Fashionable girls like you are feeling shy. If honor and shame belongs to men like you...You are a stigma for the nation and community! You flashed Rs. 300...And want your friend's daughter. Tomorrow somebody might buy your daughter for the same.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "objectifying women",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2817_bolly",
+      "emotion": "shame",
+      "dialogue": "Your son who made that virgin a mother. And ran away to Calcutta! I'm ashamed that this coward is my brother! Is this true? Johnny said you're selling all household items.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "impregnating a girl and running away",
+      "theme_label": "Marital Status"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "5965",
+    "title": "Scorcher",
+    "year": "2002",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/hkyMlHqPwWFSSuDwuQLRlIhlWiv.jpg",
+    "overview": "The only hope for humanity to survive a natural disaster is to detonate a nuclear bomb in Los Angeles."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1803_holly",
+      "emotion": "pride",
+      "dialogue": "Good luck.  Ten hut!  Make me proud, Colonel.  Unit 17,DCneeds acopyonyou20. Over.  Copy that, Rampart. Our 2O is the 7OOO block... of Valjean Avenue in Van Nuys. We're proceeding westbound... ...awaiting your orders. Over. -What are you doing?",
+      "target_person": "Speaker 1",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1804_holly",
+      "emotion": "pride",
+      "dialogue": "I've spent most of my life... Iistening to people tell me what a great man he was.  Iistening to people tell me what a great man he was.  How proud I should be that he was out there... making the world a better place.  making the world a better place.  He was always the same.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1805_holly",
+      "emotion": "pride",
+      "dialogue": "You know... in all the time we were apart, there was never... a day that I did not miss you.  a day that I did not miss you.  There was never a minute that I wasn't proud of you.  And there has never been an instant... that I did not love you.  that I did not love you.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "for being missed and loved",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

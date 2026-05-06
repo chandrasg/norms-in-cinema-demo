@@ -1,0 +1,111 @@
+{
+  "film": {
+    "id": "509702",
+    "title": "Ujala Hi Ujala",
+    "year": "1974",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6eQkRRdfhQ5qJi5HEGCJ5MwP6aV.jpg",
+    "overview": "Story of Anuradha who is an alcoholic"
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 3
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4493_bolly",
+      "emotion": "shame",
+      "dialogue": "That's fine, Shankar. But..How will you sell ? As you're a graduate. Right? This is the problem with educated men. They think they'll get a job after getting....a certificate from college. -You're ashamed of manual work. No, Shankar. It's not so. -Forget it. I know.",
+      "target_person": "Shankar",
+      "target_gender": "male",
+      "cause_raw": "being educated and not willing to do manual work",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4494_bolly",
+      "emotion": "shame",
+      "dialogue": "Make him sit. I'll be there. Mr. Vikram. You..You're very shameless. You insulted me yesterday and today....you came to ask me for a job. If I had known Jamnaprasad will sent me to you I'd..The problem is that you came to me with uncle's letter.",
+      "target_person": "Mr. Vikram",
+      "target_gender": "male",
+      "cause_raw": "Insulting the speaker",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4495_bolly",
+      "emotion": "shame",
+      "dialogue": "Vikram, Anu is a big moody but she's kind hearted. Don't mind her. She told me that she's really ashamed. Come to office at 10 am and take charge. Ok. Well, best of luck.",
+      "target_person": "Anu",
+      "target_gender": "female",
+      "cause_raw": "Being moody",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4496_bolly",
+      "emotion": "shame",
+      "dialogue": "His daughter is characterless. She's promiscuous. -Shut up! Aren't you ashamed to say that? -Ashamed? When you didn't feel shy to have affair with other men....why should I shy from saying it? Ajit, are you out of your mind? What are you saying?",
+      "target_person": "Ajit's daughter",
+      "target_gender": "female",
+      "cause_raw": "promiscuity",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s4497_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't know all this. I swear on you. -Don't swear! You shameless girl! Ah! Great! You look like a fairy in this dress.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "lying or dishonesty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p2503_bolly",
+      "emotion": "pride",
+      "dialogue": "I failed for 3 years and so I returned. What do you plan to do now? Sir, I've thought of a plan so that you and your father..I mean my father and mother will be proud too. Do it for sure. Thank you, sir.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "unknown plan",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2504_bolly",
+      "emotion": "pride",
+      "dialogue": "Come with me. Come with me to a far away land, dear. Daddy, didn't I say to you....some day you'll be proud of me. Dad, pat my back. First tell me, what did you find out?",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "film": {
+    "id": "337961",
+    "title": "Guilty",
+    "year": "2015",
+    "industry": "holly",
+    "country": "HK",
+    "poster_path": "/zR28Ui7coE3yAYJIIoeWdjNZdZo.jpg",
+    "overview": "A hitman Jack is slowly wandering into a red light district. As he walks through the alley, everyone avoid eye contact with him because of his extremely ugly face. Ting Ting is the only prostitute that did not reject him. Jack finds a scar on the stomach of Ting Ting which was wounded by a gunshot. Ting Ting on the other hand stares at the giant lump on Jack's face without showing any sign of fear. The two of them quickly form a bond and Jack could not bear to leave Ting Ting alone. He decides to take Ting Ting out of her miserable life at any cost. From then on, their lives turns out differently."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS509_holly",
+      "emotion": "shame",
+      "dialogue": "And I know some people who'd be interested to know that.  CHAIRMAN: Would you speak up, please, son?  There's nothing to be ashamed of here.  [Train announcements]  BUNNY: David! Over here!",
+      "target_person": "David",
+      "target_gender": "male",
+      "cause_raw": "not speaking up",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS510_holly",
+      "emotion": "shame",
+      "dialogue": "She killed herself. The Communists twisted her mind.  In the name of ridding the world of Communism, you destroyed her!  Have you no shame? She's dead!  I'm tired of acting...  ...as though we're playing some little game!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "causing emotional distress leading to suicide",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WS511_holly",
+      "emotion": "shame",
+      "dialogue": "I was raised to stand up for my beliefs and I'll raise my son the same way!  And I'm going to try to live it!  If that isn't what a real American is, then we've failed! Shame on you!  You're dismissed! Remove him!  VELDE: A real American would be proud to answer.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "not standing up for beliefs",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS512_holly",
+      "emotion": "shame",
+      "dialogue": "You're dismissed! Remove him!  VELDE: A real American would be proud to answer.  Shame on you!  CHAIRMAN: Next witness!  RUTH: There's Bunny.",
+      "target_person": "Unnamed Character",
+      "target_gender": "male",
+      "cause_raw": "not being patriotic",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WP1062_holly",
+      "emotion": "pride",
+      "dialogue": "You're so easy.  I'm sorry I was late for the play.  -That's okay. -But I'm so proud of you.  DAVID: I'm so proud of you.  DAVID: See you in a day or two, okay?",
+      "target_person": "David",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1063_holly",
+      "emotion": "pride",
+      "dialogue": "I'm sorry I was late for the play.  -That's okay. -But I'm so proud of you.  DAVID: I'm so proud of you.  DAVID: See you in a day or two, okay?  DAVID: I'll go see Zanuck tomorrow. RUTH: You think he'll help?",
+      "target_person": "David",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1064_holly",
+      "emotion": "pride",
+      "dialogue": "If that isn't what a real American is, then we've failed! Shame on you!  You're dismissed! Remove him!  VELDE: A real American would be proud to answer.  Shame on you!  CHAIRMAN: Next witness!",
+      "target_person": "VELDE",
+      "target_gender": "male",
+      "cause_raw": "being a real American",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

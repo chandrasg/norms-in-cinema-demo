@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "528028",
+    "title": "Swati",
+    "year": "1986",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2x7uwiGoAvKTa0ydxdnaVO39IUB.jpg",
+    "overview": "Sharda, a nurse and single mother, raises her daughter Swati as an independent, articulate young woman. Swati is a strong advocate of women's rights in a society where there is significant male domination. Swati deals with eve teasers firmly, sometimes with considerable force. When a married friend of hers gets raped in the presence of her husband, she acts as a counsellor and helps them adjust to the reality of a society that blames the victim and not the rapists. Swati takes on a huge transformation when she meets a political activist and falls in love with him. She embarks on a project of matchmaking for her mother and engineers a wedding with a widower who has a grown-up daughter."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1717_bolly",
+      "emotion": "shame",
+      "dialogue": "Then, this rule must he changed. Getting deceived is a matter of regret. It's not a matter of shame. Tell me one thing. It has no hands or legs, but I'0BlllS around by getting on to the back.",
+      "target_person": "rule",
+      "target_gender": "unclear",
+      "cause_raw": "being deceptive",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1718_bolly",
+      "emotion": "shame",
+      "dialogue": "When Laxmi is in the hospital going through pain, all a one. I wanted to see, how you look at home? Aren't you ashamed? Then, what am I to do? When those scoundrels were molesting Laxmi in front of my eyes.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "not protecting a woman",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1719_bolly",
+      "emotion": "shame",
+      "dialogue": "Because, you're elder In me. Enough. Aren't you ashamed to talk to your mother like this? What's wrong in what I said. How long will you be the weather c**k carrying the garbage of your life?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disrespecting mother",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1720_bolly",
+      "emotion": "shame",
+      "dialogue": "Did the legendary lovers, Mahival, Ranjha or Manju were versed in dying? Pen'lle sacrifice their Ives for Inve. Can't you fail in the rotten B. Sc. Exams? Shame on you! Okay. Solve a riddle quickly. Again a riddle? Ask.",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "failing in exams",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1721_bolly",
+      "emotion": "shame",
+      "dialogue": "My brother-in-law told Malmhar...I warn you, it is improper to keep this adulterous in the house. Listen tn me & throw her nut if the house immediately. Shameless woman. Your shadow has fallen on me. I'll have to bathe again, Oh God! Oh my girl... Stop it...Your name is also there in the list Laxmi's murderers.",
+      "target_person": "Malmhar's wife",
+      "target_gender": "female",
+      "cause_raw": "adultery",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1722_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes... Yes! We know him for a long lime. By the way, I also know Kapil from a long lime....Did I ever bring him home? No! Not at all! I can never do such a shameless thing. Mummg, Daddy will never like Swati's oy friend coming home. I'll enquire.",
+      "target_person": "Swati's boyfriend",
+      "target_gender": "male",
+      "cause_raw": "visiting girlfriend's home without formal introduction",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1723_bolly",
+      "emotion": "shame",
+      "dialogue": "This is your penance and atonement also. And listen...Don't ever come to watch my programme. I feel ashamed! Have you both taken a vow of silence? Nothing dear... Just like that.",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "disrupting the speaker's programme",
+      "theme_label": "Invasion of Privacy"
+    }
+  ]
+}

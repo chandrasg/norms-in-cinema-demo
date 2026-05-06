@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "23715",
+    "title": "Karz",
+    "year": "1980",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/hetcyXaRfZPXAInkltGtlNHAJof.jpg",
+    "overview": "Ravi is killed by his wife after his marriage. He is reborn as Monty and is now a singer he goes to holiday in Ooty where he recollects his memories from previous life and inquires about his family from first life and his evil wife Kamini."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 2
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3008_bolly",
+      "emotion": "shame",
+      "dialogue": "By mixing poison in my food, you want to kill me. Why are you after my life? What a shameful thing to say, bhabhi? You are putting such blame on me. Will I try to kill my brother's wife? - Shut up!",
+      "target_person": "bhabhi",
+      "target_gender": "female",
+      "cause_raw": "Female false accusation of attempted murder",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s3009_bolly",
+      "emotion": "shame",
+      "dialogue": "'l can't stand this shock, Kabira uncle.' 'Don't try and look for me. Think that Tina is dead.' Shameless girl! Juliet's niece! Tried to kill herself for love. You don't know, he was talking shameless talk....with the queen. Shut up! I am no fool!",
+      "target_person": "Tina",
+      "target_gender": "female",
+      "cause_raw": "Attempted suicide for love",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s3010_bolly",
+      "emotion": "shame",
+      "dialogue": "'Don't try and look for me. Think that Tina is dead.' Shameless girl! Juliet's niece! Tried to kill herself for love. You don't know, he was talking shameless talk....with the queen. Shut up! I am no fool! As if he is worried, and you are increasing his worries.",
+      "target_person": "Tina",
+      "target_gender": "female",
+      "cause_raw": "Attempted suicide for love",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "p1552_bolly",
+      "emotion": "pride",
+      "dialogue": "Our school. After sometime, we will go to that hall and....you shall inaugurate the hall. People will applaud and envy the pride and status....of Mrs. Shanta Prasad Verma. God bless you, son! After that we will go to our palace. Yes, mother! We will go to our house.",
+      "target_person": "Mrs. Shanta Prasad Verma",
+      "target_gender": "female",
+      "cause_raw": "son's achievements",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

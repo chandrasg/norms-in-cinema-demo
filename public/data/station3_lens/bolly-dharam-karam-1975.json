@@ -1,0 +1,124 @@
+{
+  "film": {
+    "id": "117788",
+    "title": "Dharam Karam",
+    "year": "1975",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/4C0NBkOwHTmDcoAACGbwWbU5Jkd.jpg",
+    "overview": "Not wishing his son to grow up like himself, a brutish criminal secretly swaps his baby for that of a wealthy entertainer. Is the boys' destiny written in their genes or can the change of environment make a difference ? Their lives and those of their fathers inevitably collide."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1067_bolly",
+      "emotion": "shame",
+      "dialogue": "They've worn high society clothes. This is a swimming pool They come to bathe here. -Bathe? Don't they bathe at home? Aren't they ashamed to bathe like this together in public? You won't understand the ways of the high society I don't like your 'High society.",
+      "target_person": "high society people",
+      "target_gender": "unclear",
+      "cause_raw": "bathing in public swimming)",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1068_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll wait for you. -What! If I meet you outside, I'll set you straight! Basanti, don't talk like that. -Shameless! Standing half-naked Basanti, come on. I'll show you an English picture I don't understand them. I'll see a Hindi movie",
+      "target_person": "Basanti",
+      "target_gender": "female",
+      "cause_raw": "immodest dressing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1069_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll play this piano? -Will somebody else play it, silly? I'll not play this piano of yours from the flea market Shame on you! You can neither sing nor play anything Neither give your heart nor take it when given Come on, get going",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "lack of musical talent",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1070_bolly",
+      "emotion": "shame",
+      "dialogue": "Come on, get going Shall I play? -Of course. Go on Shame on you! A bad carpenter blames his tools What am I landed with? What a nut my boyFriend is!",
+      "target_person": "boyfriend",
+      "target_gender": "male",
+      "cause_raw": "incompetence in a task",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1071_bolly",
+      "emotion": "shame",
+      "dialogue": "He puts on airs and refuses to hug me He doesn't steal my heart but claims to be a marauder The marauder.. Shame on you! When one can't dance..When one can't dance, one says the ground's crooked! What a pain in the neck! My boyFriend's a real nut!",
+      "target_person": "boyfriend",
+      "target_gender": "male",
+      "cause_raw": "not meeting girlfriend's expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1072_bolly",
+      "emotion": "shame",
+      "dialogue": "Really? -Yes. So, shall we? What? -Which happens in the English movies That mouth to mouth stuff. -Aren't you ashamed of yourself? Then was that just a put on act? You'll never be a high society girl. Go and change now",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately according to societal norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1073_bolly",
+      "emotion": "shame",
+      "dialogue": "I swear by God, he's my son. This isn't my father. He's lying! My lord, I am ashamed of myself Punish me and my son! Punish me! I have fathered a son like Ranjit!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "having a disobedient son",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p546_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes.. -Okay Ranjit! Promising entertainer Well done, son! Bring pride to your father's name Do you know? He's my son -Is he your son?! Mad!",
+      "target_person": "Ranjit's father",
+      "target_gender": "male",
+      "cause_raw": "son's achievement as an entertainer",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

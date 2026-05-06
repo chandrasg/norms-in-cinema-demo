@@ -1,0 +1,132 @@
+{
+  "film": {
+    "id": "442774",
+    "title": "Billoo Baadshah",
+    "year": "1989",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/3mgMEZokZ11EqrrIXftQbPCRazp.jpg",
+    "overview": "An orphan makes sacrifices for the family who took him in but subsequently faces humiliation and homelessness."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s578_bolly",
+      "emotion": "shame",
+      "dialogue": "In the sight of humanity, you are not Billu, the rickshaw driver....you are Billu Badshah. Accept this small gift from me, Mr. Tiwari. What a shame. No, Mr. Gosangi. Don't entrap me in this trap of money. I don't want it. Take it away.",
+      "target_person": "Billu",
+      "target_gender": "male",
+      "cause_raw": "accepting money/gifts",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s579_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll say it. I'll say it thousands of times. Why should I be afraid of her? Shameless. You should have taken a poison before you said this. Why should I consume poison? Let her consume it if she wants.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "speaking against someone",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s580_bolly",
+      "emotion": "shame",
+      "dialogue": "Stop talking nonsense. Asha. Asha. Shameless girl. What have you done? She had said it for your own good. Don't shout at me, Mother.",
+      "target_person": "Asha",
+      "target_gender": "female",
+      "cause_raw": "Disrespecting elders",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s581_bolly",
+      "emotion": "shame",
+      "dialogue": "Let's give this food to him. He'll eat it and he'll like the taste. What are you saying? You should feel ashamed. Will you serve tasted food to brother? I didn't know that you are so narrow-minded.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "serving tasted food to a guest",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s582_bolly",
+      "emotion": "shame",
+      "dialogue": "What do you want? - Don't act innocent. Tell me, Sister-in-law. Why don't you wash your clothes yourself? You should feel ashamed. Come on, wash your clothes right now. My foot! I'm not used to do such trivial jobs.",
+      "target_person": "Sister-in-law",
+      "target_gender": "female",
+      "cause_raw": "not doing her own laundry",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s583_bolly",
+      "emotion": "shame",
+      "dialogue": "They've gone to Delhi. - What? Mummy-daddy gone, very good. Have some shame, shameless. Those who hesitate are doomed. You know, darling, there's no censor between husband and wife.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p258_bolly",
+      "emotion": "pride",
+      "dialogue": "But Roshanlal will never accept a poor girl as a family member. Stop it, sir. Don't challenge my goodness, and my pride. Billu is not anybody's slave. I do everything as per my wishes. I'm the emperor of my heart.",
+      "target_person": "Billu",
+      "target_gender": "male",
+      "cause_raw": "self-determination and independence",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p259_bolly",
+      "emotion": "pride",
+      "dialogue": "Bravo, Ravi. For the first time you've acted like a man. Today, I can proudly say that you're my brother-in-law. Stop this 'brother-in-law' nonsense. Are you in your senses?",
+      "target_person": "brother-in-law",
+      "target_gender": "male",
+      "cause_raw": "Ravi's actions",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

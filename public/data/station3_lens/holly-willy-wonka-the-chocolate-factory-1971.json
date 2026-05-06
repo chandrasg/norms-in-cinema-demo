@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "252",
+    "title": "Willy Wonka & the Chocolate Factory",
+    "year": "1971",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+    "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1282_holly",
+      "emotion": "pride",
+      "dialogue": "in the small town of Duselheim, Germany.  We've been waiting several hours for the follow-up story and we're finally ready with a live report.  Proud we are, for the attention of the entire world  focuses today right here in Duselheim.  A community suddenly thrust into prominence",
+      "target_person": "we",
+      "target_gender": "unclear",
+      "cause_raw": "for the attention of the entire world focusing on Duselheim",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1283_holly",
+      "emotion": "pride",
+      "dialogue": "Its lucky finder is the son of our most prominent parve butcher.  The boy's name? Augustus Gloop.  Augustus Gloop, the pride of Duselheim, the fame of Western Germany,  an example for the whole world.  Augustus, how does it make you feel to be the first Golden Ticket finder?",
+      "target_person": "Augustus Gloop",
+      "target_gender": "male",
+      "cause_raw": "finding the first Golden Ticket",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1284_holly",
+      "emotion": "pride",
+      "dialogue": "Miss Violet Beauregarde, finder of Wonka's Golden Ticket Number Three,  from Miles City, Montana.  And with her, the proud parents:  Mr. Beauregarde, a prominent local politician, a great civic leader, a philosopher...  Hi, folks, Sam Beauregarde here, Square Deal Sam to you,",
+      "target_person": "Mr. Beauregarde",
+      "target_gender": "male",
+      "cause_raw": "daughter finding Wonka's Golden Ticket",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

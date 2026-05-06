@@ -1,0 +1,50 @@
+{
+  "film": {
+    "id": "9375",
+    "title": "Crazy",
+    "year": "2000",
+    "industry": "holly",
+    "country": "DE",
+    "poster_path": "/9tZ36iWvmrzupMOvleGh57nb94Y.jpg",
+    "overview": "Benjamin, a 16-year-old with lousy grades, switches to a boarding school in order to eventually reach grammar school. Adjusting to his new environment is difficult as he has to struggle with being a teen... specially when he falls in love to the school's dream girl, Malen."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP14_holly",
+      "emotion": "pride",
+      "dialogue": "Kitchen.  I could understand him  being proud of Christian, or Antoine.  But Raymond?  Aren't you going to introduce us?",
+      "target_person": "him",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP15_holly",
+      "emotion": "pride",
+      "dialogue": "I used my magic age as if it were a wand  And never saw the waste and emptiness beyond  The game of love I played with arrogance and pride  And every flame I lit too quickly quickly died  The friends I made all seemed somehow to drift away",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP16_holly",
+      "emotion": "pride",
+      "dialogue": "You want a shotgun?  A coke.  Same.  I'm very proud of you.  What's so funny?  Check those two out.  Little Zac sure seems to like his cousin.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "137113",
+    "title": "Edge of Tomorrow",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+    "overview": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1504_holly",
+      "emotion": "shame",
+      "dialogue": "Let me guess. You're afraid of heights.  I'm afraid of crashing.  And not at all ashamed to admit it.  You'll be fine, Cage. You'll learn.  - What is it? - It's nothing. I'm fine.",
+      "target_person": "Cage",
+      "target_gender": "male",
+      "cause_raw": "fear of heights/crashing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WP2635_holly",
+      "emotion": "pride",
+      "dialogue": "Those sure ain't officer cufflinks.  I see everyone is havin' a productive mornin'.  You know, it gives me a swell of pride  knowin' soldiers of your.. ...caliber will be leadin'the charge tomorrow.  Tip of the spear.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "leading the charge in a military operation",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2636_holly",
+      "emotion": "pride",
+      "dialogue": "Isn't that an officer's uniform?  They sure ain't officer cuff links.  'You know, it gives me a swell of pride'  'knowing soldiers of your...caliber'  'will be leadin' the charge tomorrow.'",
+      "target_person": "speaker 3",
+      "target_gender": "male",
+      "cause_raw": "leading soldiers of high caliber",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

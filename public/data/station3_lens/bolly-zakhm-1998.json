@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "155308",
+    "title": "Zakhm",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/qXJWHVj3vcQviTKpKGHjYMypitj.jpg",
+    "overview": "Amidst religious riots, a son deals with his mother's life-threatening injuries, and her last request."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4677_bolly",
+      "emotion": "shame",
+      "dialogue": "Whose phone was it? Why don't you say whose phone was it? What are you hiding from me? - Ma. I have a son. Oh my God. That lowly, shameless woman. She can stoop so low. Wasn't one child enough that she has another to trap my son.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "having a child out of wedlock",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4678_bolly",
+      "emotion": "shame",
+      "dialogue": "I won't let you play your political game on the corpse of my mother. Brother ! - You don't intervene. Mother for which you feel ashamed. You should be proud to be her son. Listen Anand. After my death throw my body in a garbage can",
+      "target_person": "Anand",
+      "target_gender": "male",
+      "cause_raw": "not respecting his mother",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p2631_bolly",
+      "emotion": "pride",
+      "dialogue": "Answers to all your questions Write them yourself. This is not something to hide like an wound This is something to tell to the world proudly. This was love, Ajay. Real love. Even after death your mother has hope for meeting her husband.",
+      "target_person": "Ajay",
+      "target_gender": "male",
+      "cause_raw": "mother's enduring love",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p2632_bolly",
+      "emotion": "pride",
+      "dialogue": "Brother ! - You don't intervene. Mother for which you feel ashamed. You should be proud to be her son. Listen Anand. After my death throw my body in a garbage can But mother's body will be treated as mother had desired.",
+      "target_person": "Anand",
+      "target_gender": "male",
+      "cause_raw": "being son of his mother",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

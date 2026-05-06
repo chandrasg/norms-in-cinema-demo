@@ -1,0 +1,129 @@
+{
+  "film": {
+    "id": "19931",
+    "title": "The Joy Luck Club",
+    "year": "1993",
+    "industry": "holly",
+    "country": "US|CN",
+    "poster_path": "/s1Sk0hhVARNs7i9wqRHqbCriu8n.jpg",
+    "overview": "Through a series of flashbacks, four Chinese women born in America and their respective mothers born in feudal China explore their pasts."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 1
+    },
+    "pride": {
+      "female": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS688_holly",
+      "emotion": "shame",
+      "dialogue": "- Thank you. Bye-bye. - And you'll be proud to have me  I wish you wouldn't do that, telling everyone I'm your daughter.  - What you mean? You so ashamed to be with your mother? - One fine day  - You're gonna want me for your girl - It's not that.  It's just that it's so... - embarrassing, that's all. - What? Embarrassed you be my daughter?",
+      "target_person": "Daughter",
+      "target_gender": "female",
+      "cause_raw": "being associated with her mother",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS689_holly",
+      "emotion": "shame",
+      "dialogue": "I could see her face looking at me... but not seeing me.  but not seeing me.  She was ashamed... so ashamed to be my daughter.  so ashamed to be my daughter.  Ma?",
+      "target_person": "Daughter",
+      "target_gender": "female",
+      "cause_raw": "being ashamed of her mother",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS690_holly",
+      "emotion": "shame",
+      "dialogue": "but not seeing me.  She was ashamed... so ashamed to be my daughter.  so ashamed to be my daughter.  Ma?  - What's wrong? - Nothing.",
+      "target_person": "Daughter",
+      "target_gender": "female",
+      "cause_raw": "ashamed of her mother",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS691_holly",
+      "emotion": "shame",
+      "dialogue": "- Hello, darling. We're having a wonderful visit. - \"Hello, darling\"?  You know, you know, I always knew you were a jerk.  But, s**t, this is the first time in my life I am ashamed of you.  How dare you use that language.  I think you better apologize right now.",
+      "target_person": "Darling",
+      "target_gender": "male",
+      "cause_raw": "using inappropriate language",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WP1367_holly",
+      "emotion": "pride",
+      "dialogue": "more gusto!  I'm a girl and by me that's only great  I am proud that my silhouette is curvy  When I was young, Auntie Lindo... was my mother's best friend and archenemy.  was my mother's best friend and archenemy.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "her curvy silhouette",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1368_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, you know my daughter, Waverly Jong, chess champion?  - The arms I long for will open wide - Smart girl! Bye.  - Thank you. Bye-bye. - And you'll be proud to have me  I wish you wouldn't do that, telling everyone I'm your daughter.  - What you mean? You so ashamed to be with your mother? - One fine day",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "daughter being a chess champion",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1369_holly",
+      "emotion": "pride",
+      "dialogue": "But the worst was when Rich criticized my mother's cooking... and he didn't even know what he had done.  and he didn't even know what he had done.  As is the Chinese cook's custom... my mother always insults her own cooking... but only with the dishes she serves with special pride.  but only with the dishes she serves with special pride.  This dish not salty enough.",
+      "target_person": "Mother",
+      "target_gender": "female",
+      "cause_raw": "cooking a dish with special pride",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1370_holly",
+      "emotion": "pride",
+      "dialogue": "and he didn't even know what he had done.  As is the Chinese cook's custom... my mother always insults her own cooking... but only with the dishes she serves with special pride.  but only with the dishes she serves with special pride.  This dish not salty enough.  No flavor. It's too bad to eat.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "her own cooking",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1371_holly",
+      "emotion": "pride",
+      "dialogue": "- Hi. - Oh, hi. - Oh.  It's so wonderful, Rosie, how everybody's here.  Yeah. Your mom would've been so proud.  No meal's ever gonna be the same without your mom's famous crab.  Last Chinese New Year, we had Auntie Lindo's family to dinner.",
+      "target_person": "Rosie's mom",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

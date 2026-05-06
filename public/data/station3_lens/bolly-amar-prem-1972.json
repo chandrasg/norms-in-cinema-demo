@@ -1,0 +1,173 @@
+{
+  "film": {
+    "id": "29534",
+    "title": "Amar Prem",
+    "year": "1972",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ojV06b1ULi6PA1hJ3QsnhlX6N68.jpg",
+    "overview": "A village woman abandoned by her husband is forced into prostitution in Kolkata and forms nameless yet strong relations with a wealthy patron as well as an abused boy in the neighbourhood."
+  },
+  "totals": {
+    "shame": 12,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 9
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s44_bolly",
+      "emotion": "shame",
+      "dialogue": "Sister Mandira, will you lend me some food grains? Lend? Why don't you say you've come to beg? Take it that way. It's not for me. I can stay hungry, but mother...Go away! Leaving your husband, aren't you ashamed to go begging? It is a sin to even look at you. Get lost! You had been to my place, hadn't you? Sister-in-law humiliated you?",
+      "target_person": "Mandira",
+      "target_gender": "female",
+      "cause_raw": "Leaving her husband and begging",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s45_bolly",
+      "emotion": "shame",
+      "dialogue": "I helped you and you... - Meaning? It is deserted across the lake at dusk. Aren't you ashamed? You are like my elder brother. By helping me, you want to play with my honor? Shame on you! You saw it with your own eyes? - Yes! Uncle held her hand...and gave her 100 rupees. - Really?",
+      "target_person": "elder brother figure",
+      "target_gender": "male",
+      "cause_raw": "taking advantage of a vulnerable situation",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s46_bolly",
+      "emotion": "shame",
+      "dialogue": "It is deserted across the lake at dusk. Aren't you ashamed? You are like my elder brother. By helping me, you want to play with my honor? Shame on you! You saw it with your own eyes? - Yes! Uncle held her hand...and gave her 100 rupees. - Really? Come with me.",
+      "target_person": "elder brother figure",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards a woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s47_bolly",
+      "emotion": "shame",
+      "dialogue": "Shut up! Be quiet, sister-in-law. We are not cheap. Your brother-in-law is! - Shut up! You wanton, shameless, characterless w***e! Tell me, how much money did you take from her brother-in-law? And why? Mother! - Don't dare call me mother.",
+      "target_person": "sister-in-law",
+      "target_gender": "female",
+      "cause_raw": "alleged infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s48_bolly",
+      "emotion": "shame",
+      "dialogue": "You are going to commit suicide? Too bad. Get up! Was I dead? With me around if you are still in trouble, it's a shame on me! Come, let's go to Calcutta. I told you girls to watch a lot of films these days.",
+      "target_person": "person attempting suicide",
+      "target_gender": "unclear",
+      "cause_raw": "attempting suicide",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s49_bolly",
+      "emotion": "shame",
+      "dialogue": "What? - Give me the dagger please. Give it to me. Shame! What a small knife! Where have you forgotten your trident Lord Shiva? What rubbish is that, sir. - Didn't you understand?",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "not being aggressive or assertive",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s50_bolly",
+      "emotion": "shame",
+      "dialogue": "No. - Take it. Take it mister. When you didn't feel ashamed earlier, why must you today? Till you live, continue to rob people like this. Go, Nepal babu. Go on!",
+      "target_person": "Nepal Babu",
+      "target_gender": "male",
+      "cause_raw": "Robbing people",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s51_bolly",
+      "emotion": "shame",
+      "dialogue": "And I thought you are hiding from me. From you? We are two sides of the same coin, Mr Anand. And besides, where coming here is concerned...I'm more shameless than you are. I must leave now. - What is the hurry? Mr Anand, Pyari and Dulari... - Are they waiting for you?",
+      "target_person": "Mr Anand",
+      "target_gender": "male",
+      "cause_raw": "being shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s52_bolly",
+      "emotion": "shame",
+      "dialogue": "Mother, he is going there again! - Nandu, you are going there again? I wonder what spell that prostitute has cast on you! That witch is not ashamed of spoiling respectable children. Damn it! I am fed up! That little boy has made life miserable.",
+      "target_person": "Nandu",
+      "target_gender": "male",
+      "cause_raw": "associating with a prostitute",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s53_bolly",
+      "emotion": "shame",
+      "dialogue": "But... nothing happened. Nothing. Mister, aren't you ashamed to stay here with your wife? I'm so ashamed that I have to come and go on the sly. You can do that. But what do I do?",
+      "target_person": "Mister",
+      "target_gender": "male",
+      "cause_raw": "staying with wife without consummating marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s54_bolly",
+      "emotion": "shame",
+      "dialogue": "Nothing. Mister, aren't you ashamed to stay here with your wife? I'm so ashamed that I have to come and go on the sly. You can do that. But what do I do? Because of these women, I can't even step out of the house.",
+      "target_person": "Mister",
+      "target_gender": "male",
+      "cause_raw": "living with wife in a shared space",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s55_bolly",
+      "emotion": "shame",
+      "dialogue": "Go on. Mother, brother is back. You are back? Rascal! Devil! Shameless wretch! You went there? You bit me and went to give her the medicine? She means everything! I'm nothing to you!",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "favoring another woman over his family",
+      "theme_label": "Romantic Expression"
+    }
+  ]
+}

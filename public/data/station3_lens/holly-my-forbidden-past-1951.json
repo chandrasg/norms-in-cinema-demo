@@ -1,0 +1,83 @@
+{
+  "film": {
+    "id": "106016",
+    "title": "My Forbidden Past",
+    "year": "1951",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/jUmuhlOf4KoI87czkVwo0z51vyK.jpg",
+    "overview": "An 1890s New Orleans heiress tries to buy a married doctor's love with her tainted family fortune."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP769_holly",
+      "emotion": "pride",
+      "dialogue": "< Stand by your lines!  AUNT: Nowadays, Mr Duchaine, it's considered old-fashioned  to be proud of one's origins. Well, Madame, I prefer to be considered old-fashioned.  I feel it's our duty to remember our heritage and be proud of it.  SHIP'S HOOTER BLOWS",
+      "target_person": "<Mr Duchaine",
+      "target_gender": "male",
+      "cause_raw": "remembering and being proud of one's heritage",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP770_holly",
+      "emotion": "pride",
+      "dialogue": "AUNT: Nowadays, Mr Duchaine, it's considered old-fashioned  to be proud of one's origins. Well, Madame, I prefer to be considered old-fashioned.  I feel it's our duty to remember our heritage and be proud of it.  SHIP'S HOOTER BLOWS  You know, Clay, whenever Barbara hears a ship's whistle at eight o'clock, she spills her soup.",
+      "target_person": "Mr Duchaine",
+      "target_gender": "male",
+      "cause_raw": "remembering and being proud of one's heritage",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP771_holly",
+      "emotion": "pride",
+      "dialogue": "You knew her?  That's how I recognised you.  Imagine her with your complexion, with your proud look.  I didn't know I had a proud look.  Just as she had.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP772_holly",
+      "emotion": "pride",
+      "dialogue": "That's how I recognised you.  Imagine her with your complexion, with your proud look.  I didn't know I had a proud look.  Just as she had.  She married a gambler. He left her before the child was born.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP773_holly",
+      "emotion": "pride",
+      "dialogue": "25,000 dollars tomorrow,  the rest the day she meets you in an... Assignation is the word. Yes.  That scientist fellow must have torn your pride to shreds this evening.  You know, Barbara, we're only cousins and yet we're so very much alike, but you're beautiful.  You're being paid to use your charm on Mrs Lucas.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP774_holly",
+      "emotion": "pride",
+      "dialogue": "I'm glad to see you so vigorously defend one of your faculty,  however Lucas's contract is up soon and you might want to find someone more suitable.  But Dr Lucas has a brilliant future. Some day you'll be proud we had him on our Faculty. I hope you're right.  I hope I'm not disturbing you. Close the door quietly, please,  I don't want any little gusts of air.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

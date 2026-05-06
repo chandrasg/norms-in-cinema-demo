@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "306169",
+    "title": "Mera Saaya",
+    "year": "1966",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fBTFTZ9kQn1Un8iFPA1GzurHbad.jpg",
+    "overview": "A lawyer's wife dies in his arms. Yet, another woman - identical in appearance and accused of aiding a gang of bandits - claims to be the lawyer's wife. A courtroom drama ensues."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3547_bolly",
+      "emotion": "shame",
+      "dialogue": "The court is working. But I'm not going today What will you do all day sitting at home like a woman? In bed... I'll chat with you - Shameless man! What will people at home say? - She'll say you're so beautiful...you have me in your clutches as soon as you've arrived Maybe that's why she suggested it. - What?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "behaving like a woman not going to work)",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3548_bolly",
+      "emotion": "shame",
+      "dialogue": "You wouldn't say that if you really loved me? What would I say then?  When she takes off the veil before the Moon...\" the moon blushed in shame and fell at her feet\"  The stars would wonder what is wrong The doe-eyed beauty...\" a naughty girl has stolen my heart\"",
+      "target_person": "moon",
+      "target_gender": "unclear",
+      "cause_raw": "being less beautiful than the girl",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3549_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't you know, really...? - Spare me, Thakur Saheb! You utter my name at last. But half of it actually You're so shameless! What if someone sees us?  You've done it, my love. You bought me out I could even say that in court. - You're late...and you're using sweet words",
+      "target_person": "Thakur Saheb",
+      "target_gender": "male",
+      "cause_raw": "having an illicit relationship",
+      "theme_label": "Promiscuity"
+    }
+  ]
+}

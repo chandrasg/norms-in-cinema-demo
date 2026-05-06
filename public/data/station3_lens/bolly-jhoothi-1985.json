@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "263284",
+    "title": "Jhoothi",
+    "year": "1985",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/55m13nf44KO7pVSt7Aqy8CJL3d.jpg",
+    "overview": "Kalpana, a compulsive liar, believes that lying is justified for a good cause. However, trouble comes knocking on her door when she arranges dates for her siblings by lying."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2757_bolly",
+      "emotion": "shame",
+      "dialogue": "I slapped him and got your chain. Did Basanti come? Don't you feel ashamed lying like this? If Basanti needed money, couldn't you tell me? It's strange! Should I tell my friend's problem to everyone?",
+      "target_person": "character being lied about",
+      "target_gender": "unclear",
+      "cause_raw": "lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2758_bolly",
+      "emotion": "shame",
+      "dialogue": "No. It's not so. You're out whole day and he's all alone. When I'll get the right officially to take care of him..No girl can be more shameless to talk of her marriage. Even brother said that both the girls....should married at one time. So I came to you.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "talking openly about her marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2759_bolly",
+      "emotion": "shame",
+      "dialogue": "Once he goes out, he doesn't return before an hour. Come on have it. Have it. - Aren't you ashamed? You're a boy of such a decent family..Oh I see. So you came to lecture me. Get out of here. I said get out.",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "behaving indecently",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2760_bolly",
+      "emotion": "shame",
+      "dialogue": "Go away. Go..Please. I said go out. Brother. Listen to me.. brother.. - Shameless. Don't call me your brother. Sister-in-law is like a mother.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards sister-in-law",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1445_bolly",
+      "emotion": "pride",
+      "dialogue": "You're first in sports so be first in studies too. Child, we've high expectations from you. Make this family proud. And me too. - Yes. Uncle, with your blessings I'll do everything. God bless you. Bring tea. - Okay.",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "high expectations in studies and sports",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

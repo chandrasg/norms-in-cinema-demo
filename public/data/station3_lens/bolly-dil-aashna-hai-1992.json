@@ -1,0 +1,56 @@
+{
+  "film": {
+    "id": "141166",
+    "title": "Dil Aashna Hai",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zKCbrXhRqBYpbw7H6JtqMbVqSBK.jpg",
+    "overview": "A cabaret dancer who was raised in a brothel sets out to find her biological mother."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 3
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1131_bolly",
+      "emotion": "shame",
+      "dialogue": "Why did you call us to such a despicable place? To display my dance. How was it'? Very disgusting and vulgar! You weren't ashamed doing it! But I was embarrassed seeing it!! Only a tramp can dance this way!",
+      "target_person": "dancer",
+      "target_gender": "female",
+      "cause_raw": "performing a vulgar dance",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1132_bolly",
+      "emotion": "shame",
+      "dialogue": "Did you call for me, dad'? Karan, the more I try to raise you higher,.... the more you keep falling into a trap. Why'? I have done no such thing that will bring you shame. Laila is a cabaret dancer, an object to be lusted after. Sleep with her in a hotel room. I have no objections.",
+      "target_person": "Karan",
+      "target_gender": "male",
+      "cause_raw": "Relationship with a cabaret dancer",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1133_bolly",
+      "emotion": "shame",
+      "dialogue": "But I surely do not approve of you roaming arm in arm with her in public. You are my father. But I doubt, any father must have spoken so shamelessly to his son. Firstly, you have made her a cabaret dancer in your hotel. And then, you say she is an object meant to be lusted!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "inappropriate public behavior and relationship with a cabaret dancer",
+      "theme_label": "Immodesty"
+    }
+  ]
+}

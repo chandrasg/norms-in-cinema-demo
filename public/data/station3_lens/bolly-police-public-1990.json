@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "305876",
+    "title": "Police Public",
+    "year": "1990",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/6qCZlZrpuJuTZNhP3y6gyfjLaN8.jpg",
+    "overview": "Film about the investigation of the death of a young woman."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1410_bolly",
+      "emotion": "shame",
+      "dialogue": "What do you want Karuna? I want a child. You've become quite shameless. Go pick a child from an orphanage. Why should I go to an orphanage? I want my own child. Shut up! Along with shame you've also lost your senses.",
+      "target_person": "Karuna",
+      "target_gender": "female",
+      "cause_raw": "Desire for a child",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1411_bolly",
+      "emotion": "shame",
+      "dialogue": "You've become quite shameless. Go pick a child from an orphanage. Why should I go to an orphanage? I want my own child. Shut up! Along with shame you've also lost your senses. If you were so keen on a child, why did you come..\"..barren to this house, huh?\" Sir.. I never knew that she would get so much angry with me.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infertility",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1412_bolly",
+      "emotion": "shame",
+      "dialogue": "Why didn't you report to the police?! Just to save ourselves from disgrace. And to hide Karuna's shameful act. You've concocted a really interesting story. Trust me, Sir.",
+      "target_person": "Karuna",
+      "target_gender": "female",
+      "cause_raw": "committing an act considered disgraceful",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p745_bolly",
+      "emotion": "pride",
+      "dialogue": "Other than that I've nothing to do with that house. Ravi.. get the acid. - Yes, sir. She's proud of her beautiful face....with which she makes the men dance to her tune.....I'll completely disfigure her face! So that she never misuses her beauty! No! I'll tell you!",
+      "target_person": "She",
+      "target_gender": "female",
+      "cause_raw": "her beauty",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

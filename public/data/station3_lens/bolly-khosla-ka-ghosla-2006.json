@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "15412",
+    "title": "Khosla Ka Ghosla!",
+    "year": "2006",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/nYcqtbv8Be6qpTcl6Y7qp0hvVdh.jpg",
+    "overview": "Kamal Khosla's land is grabbed by a land shark named Khurana. In a bid to retrieve their land, Khosla's elder son hatches a clever plan to con the crook and enlists the help of his friends and his dysfunctional family."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3073_bolly",
+      "emotion": "shame",
+      "dialogue": "What is this you are doing? What am I doing? I am trying to have a drink with my young son. But he is feeling ashamed to drink with me, don't I understand? You go inside. - He won't go. I need to talk with him. What is there to talk? - There are 100 things.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "drinking alcohol with father",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s3074_bolly",
+      "emotion": "shame",
+      "dialogue": "I will tell you one thing, uncle. Your son is at least sitting with you. My son feels ashamed to sit with me. We have given birth to you; we have brought you up. Nursed you when you were sick.",
+      "target_person": "speaker's son",
+      "target_gender": "male",
+      "cause_raw": "feeling ashamed of his parents",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3075_bolly",
+      "emotion": "shame",
+      "dialogue": "We have given birth to you; we have brought you up. Nursed you when you were sick. And you feel ashamed to sit with your father? Bloody snakes! Khosla sir, you and me will talk, okay?",
+      "target_person": "Khosla's son",
+      "target_gender": "male",
+      "cause_raw": "disrespecting parents",
+      "theme_label": "Disrespect"
+    }
+  ]
+}

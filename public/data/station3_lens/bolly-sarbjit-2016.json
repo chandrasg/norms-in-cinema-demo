@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "393421",
+    "title": "Sarbjit",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/pJTWc13iJeLD0zWpjRBZMBGZwky.jpg",
+    "overview": "Sarbjit accidentally crosses the Indo-Pak border in a drunken state and gets arrested by the Pakistani army who falsely accuse him to be an Indian spy. His sister, Dalbir, fights to get justice for her brother and prove his innocence. Based on true events."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1895_bolly",
+      "emotion": "shame",
+      "dialogue": "Wait! You're in big trouble. Shame on you. The apple of your eye......is sitting outside without anything to eat. Sukh's an outsider......but Dalbir you are my sister.",
+      "target_person": "Dalbir",
+      "target_gender": "female",
+      "cause_raw": "neglecting family responsibilities",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1896_bolly",
+      "emotion": "shame",
+      "dialogue": "Okay...love to everyone else. And to the elders...goodbye! - Look, sister. Shameless, you're in trouble now. Keep some bitter gourds for me. Go to hell.",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1897_bolly",
+      "emotion": "shame",
+      "dialogue": "Your brother has humiliated us in the eyes of Pakistan. We can't point fingers at them anymore. Your brother has brought shame upon our country. Take a look. And take her away from my sight.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "causing national humiliation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1898_bolly",
+      "emotion": "shame",
+      "dialogue": "Stop them...Can you Sleep peacefully at night Can you eat peacefully One innocent man... is paying for your evil deeds since past 20 years...Don't you fear Almighty...You shameless Rascal...Now you won't be spared...I've have all evidences in place...I'll make sure you are hanged for your deeds...Oh Sisterl! me and the evidences against me have been roaming free for a long time...But did anything ever happen!!! Nothing will happen! ! They didn't arrest me... I got myself arrested...My well wishers are immune from your curses and proofs...Come, let's go...They gave me back my identity, but not my freedom.",
+      "target_person": "evil man",
+      "target_gender": "male",
+      "cause_raw": "committing evil deeds",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s1899_bolly",
+      "emotion": "shame",
+      "dialogue": "Stop it! Stop this madness. At least let someone be human. Shame on your anger! Shame on your revenge! You talk about justice! You did what you wanted to.",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "anger and revenge",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s1900_bolly",
+      "emotion": "shame",
+      "dialogue": "At least let someone be human. Shame on your anger! Shame on your revenge! You talk about justice! You did what you wanted to.",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "anger and revenge",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s1901_bolly",
+      "emotion": "shame",
+      "dialogue": "You staged an attack on a helpless, unarmed prisoner inside the jail. You call this justice? It's a shame. And now you've issued death warrants for the four of us. Go tell your Taliban...Tell us the place and time.",
+      "target_person": "justice system",
+      "target_gender": "unclear",
+      "cause_raw": "unfair treatment and violence",
+      "theme_label": "Corruption"
+    }
+  ]
+}

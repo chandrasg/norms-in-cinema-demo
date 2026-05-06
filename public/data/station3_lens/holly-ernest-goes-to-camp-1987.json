@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "18935",
+    "title": "Ernest Goes to Camp",
+    "year": "1987",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/14GzgM3U2ABJ3h4ixhOkWpoQJAj.jpg",
+    "overview": "Ernest, a lovable loser who works as a summer camp handyman and dreams of becoming a guidance counselor, must find a way to inspire a group of juvenile delinquents while stopping a shady strip mining company from closing the camp as well."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP610_holly",
+      "emotion": "pride",
+      "dialogue": "each cabin will have a project.  That project should reflect  the proud tradition of Kamp Kikakee.  -- Wow. -- Wow. -- Wow.  The winner of last year's competition",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP611_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah, the inside's really starting to look nice.  These boys have really jumped into this competition with both feet.  They just needed something to be proud of.  Hey, Crutch , next time I run away from the institute,  I'm gonna build myself one of these things.",
+      "target_person": "Crutch",
+      "target_gender": "male",
+      "cause_raw": "participating in competition",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP612_holly",
+      "emotion": "pride",
+      "dialogue": "Yep, and my boys don't have to go back to the institute,  and this camp has a year-round counselor.  I'm really proud of you , Ernest.  You did what nobody else could have done.  Yep, I guess I'm just a take-charge kind of guy,",
+      "target_person": "Ernest",
+      "target_gender": "male",
+      "cause_raw": "for accomplishing something nobody else could have done",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

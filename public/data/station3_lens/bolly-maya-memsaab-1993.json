@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "170991",
+    "title": "Maya Memsaab",
+    "year": "1993",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lIRLy3RGceFWQ9SMKN26ZudxvLw.jpg",
+    "overview": "A frustrated housewife whose marriage to an average man does not meet her expectations enters into an affair with a younger man. Of course, there are no easy escapes from reality."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3503_bolly",
+      "emotion": "shame",
+      "dialogue": "Ask for her blessings. Have a blissful married life. Aren't you ashamed? Such clothes don't suit married women, daughter-in-law. It doesn't happen like that, daughter.",
+      "target_person": "daughter-in-law",
+      "target_gender": "female",
+      "cause_raw": "inappropriate dressing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s3504_bolly",
+      "emotion": "shame",
+      "dialogue": "I am tired of Maya. She doesn't let me stop. She will eat me up. I want to sleep. 'Baby..'Aren't you ashamed? Are these the days of being ashamed now? What happened?",
+      "target_person": "Maya",
+      "target_gender": "female",
+      "cause_raw": "Overworking someone",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3505_bolly",
+      "emotion": "shame",
+      "dialogue": "She will eat me up. I want to sleep. 'Baby..'Aren't you ashamed? Are these the days of being ashamed now? What happened? Nothing. Madam is feeling shy.",
+      "target_person": "Madam",
+      "target_gender": "female",
+      "cause_raw": "expressing sexual desire",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3506_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes. She had come that day. I didn't tell you earlier because..I don't know why. Maybe, I was ashamed, maybe I was scared. Maybe..You, at this time? Why? Did you feel bad? No. Not me.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "hiding information",
+      "theme_label": "Deception"
+    }
+  ]
+}

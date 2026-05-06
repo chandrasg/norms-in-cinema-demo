@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "203381",
+    "title": "Bio.",
+    "year": "2005",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "/1eYS4rPgMfGNq8og8qQriymrmm3.jpg",
+    "overview": ""
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP640_holly",
+      "emotion": "pride",
+      "dialogue": "l don´t think there´s a kegger at Vasquez Lakes.  We´ve been had, Squirly.  Makes you kind of proud that we got such crafty girlfriends.  We´re lucky guys.  That´s for sure.",
+      "target_person": "Squirly",
+      "target_gender": "male",
+      "cause_raw": "having crafty girlfriends",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP641_holly",
+      "emotion": "pride",
+      "dialogue": "Just get out of there.  Can´t. We signed up.  We´re part of the few and the proud.  Part of the problem.  Come on, you guys.",
+      "target_person": "We",
+      "target_gender": "male",
+      "cause_raw": "being part of the few and the proud",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP642_holly",
+      "emotion": "pride",
+      "dialogue": "l miss it.  I know. I miss you.  l´m proud of you.  So I guess this is good-bye?  I guess.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP643_holly",
+      "emotion": "pride",
+      "dialogue": "How about good-bye?  You can save the world from your couch.  l´m so proud of you, Doyle.  -l´m proud of me, too. -You should be.  I love you!",
+      "target_person": "Doyle",
+      "target_gender": "male",
+      "cause_raw": "saving the world",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP644_holly",
+      "emotion": "pride",
+      "dialogue": "You can save the world from your couch.  l´m so proud of you, Doyle.  -l´m proud of me, too. -You should be.  I love you!  We definitely learned a few things, that´s for sure.",
+      "target_person": "Doyle",
+      "target_gender": "male",
+      "cause_raw": "saving the world",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

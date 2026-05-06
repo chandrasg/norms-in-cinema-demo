@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "371676",
+    "title": "Loafer",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/kTuccSG22tU7jPHQF0x4dJ0v14Q.jpg",
+    "overview": "Raja, who thinks his mother is dead, turns into a thief. However, his life changes when he falls for Mounika, a girl who is escaping a forced marriage, and eventually meets her aunt."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3346_bolly",
+      "emotion": "shame",
+      "dialogue": "Just as an attempt was made today. You were so many and he was alone...yet you couldn't out smart him. = You should be ashamed of yourselves. = But, boss...Get out, you b******s. Pratap, I've brought one more of your b******s. Who is this idiot?",
+      "target_person": "gang members",
+      "target_gender": "male",
+      "cause_raw": "incompetence",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1755_bolly",
+      "emotion": "pride",
+      "dialogue": "Even after dinner, they were singing your praises. Meena's father in particular, was highly impressed by your humbleness. I swelled with pride, father. = Rupa, have I pleased you too? = Very much, father. You are the best father, a daughter can have.",
+      "target_person": "Rupa",
+      "target_gender": "female",
+      "cause_raw": "father's humbleness",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1756_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm very happy today because Rupa passed with a 1st class. Father, I've stood 1st in any class. Good! You've done me proud. Listen, our son has stood 1st in the class. Celebrate the occasion. Rupa, your brother has stood 1st.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's academic achievement",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

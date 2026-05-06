@@ -1,0 +1,159 @@
+{
+  "film": {
+    "id": "468073",
+    "title": "Veer Savarkar",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/u1n2OGQFHv1iG817VpXEtRMrjeZ.jpg",
+    "overview": "Veer Savarkar is a Hindi language[1] 2001 Indian film based on the life of Vinayak Damodar Savarkar. This version was released on DVD format. This film was produced by Savarkar Darshan Prathisthan,[2] under the president-ship of Sudhir Phadke.[3] It premiered on 16 November 2001, in Mumbai, New Delhi, Nagpur and six other Indian cities.[4] Rediff.com reports a claim that it is the first movie in the world financed by public donations.[5] On 28 May 2012 its Gujarati language version was released by the then Chief Minister of Gujarat, Narendra Modi.[2]"
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 3
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4531_bolly",
+      "emotion": "shame",
+      "dialogue": "Your sense of digniTy is dead. Maybe you're right, it's beyond cure We're shameLess, denuded of our pride and that is why they ruLe us. Because a few thousand EngLishmen ruLe 300 miLLion indians ...... can 800-odd indian students here not preserve their digniTy? How can we suffer siLentLy the indigniTy of being sequestered?",
+      "target_person": "Indians",
+      "target_gender": "unclear",
+      "cause_raw": "lack of self-respect and dignity",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4532_bolly",
+      "emotion": "shame",
+      "dialogue": "And they are right! - The day after tomorrow...At a generaL meeting in Caxton HaLL which wiLL aLso be attended by ...... the Princes of Bhavnagar and Cooch Behar and the Aga Khan ...... they wiLL pass a resoLution condemning Dhingra. No! I won't Let that happen! Madan LaL Dhingra's shamefuL act denigrates india and indians. We regret it. We condemn him unanimousLy.",
+      "target_person": "Madan Lal Dhingra",
+      "target_gender": "male",
+      "cause_raw": "committing an act that denigrates India and Indians",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s4533_bolly",
+      "emotion": "shame",
+      "dialogue": "They are your brethren. The 70 miLLion whom you caLL untouchabLes. if you Let them convert to another reLigion ...... you'LL create 70 miLLion enemies of Hinduism This is shamefuL. Recant! ELse in times to come you won't be forgiven. Here is the tempLe of The Lord who aLso resides in our hearts.",
+      "target_person": "Hindus",
+      "target_gender": "unclear",
+      "cause_raw": "allowing conversion of untouchables to another religion",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4534_bolly",
+      "emotion": "shame",
+      "dialogue": "The Hindu order was raised upon this system of four castes. it's naturaL and it's necessary. Lt did not breed untouchabiLiTy. UntouchabiLiTy is Hinduism's shame ... it is not part of it! if it wasn't part of the order, how come it is it's shame? The onLy way to eradicate untouchabiLiTy is to eradicate the caste system.",
+      "target_person": "Hinduism",
+      "target_gender": "unclear",
+      "cause_raw": "untouchability and caste system",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4535_bolly",
+      "emotion": "shame",
+      "dialogue": "it's naturaL and it's necessary. it did not breed untouchabiLiTy. UntouchabiLiTy is Hinduism's shame ... it is not part of it! Lf it wasn't part of the order, how come it is it's shame? The onLy way to eradicate untouchabiLiTy is to eradicate the caste system. There is an inherent power in the caste system ...... that has saved the Hindu order from ruin.",
+      "target_person": "Hinduism",
+      "target_gender": "unclear",
+      "cause_raw": "untouchability and caste system",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p2523_bolly",
+      "emotion": "pride",
+      "dialogue": "Then I shaLL return to disappoint many peopLe. Just stay the way you are. When peopLe taLk about you, aLL of us feeL so proud. As a son, you have done your famiLy proud. Even when you are away we wiLL bask in your gLories.",
+      "target_person": "family",
+      "target_gender": "male",
+      "cause_raw": "son's achievements",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2524_bolly",
+      "emotion": "pride",
+      "dialogue": "Just stay the way you are. When peopLe taLk about you, aLL of us feeL so proud. As a son, you have done your famiLy proud. Even when you are away we wiLL bask in your gLories. I wish I couLd take Prabhakar aLong.",
+      "target_person": "family",
+      "target_gender": "male",
+      "cause_raw": "son's achievements",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2525_bolly",
+      "emotion": "pride",
+      "dialogue": "The very bastion we are battLing. You are facing the reaL enemy. That edifice is 700 years oLd. - The symboL of British might Vermaji, if they pride their independence so much...... why do they ensLave us? - That's the irony! One more reason for caLLing you here. - What? Since you came, the poLice activiTy in and around India House has increased.",
+      "target_person": "Vermaji",
+      "target_gender": "male",
+      "cause_raw": "British independence",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2526_bolly",
+      "emotion": "pride",
+      "dialogue": "Not just an insuLt to our country, this is an insuLt to aLL of humaniTy. They consider us worse than dogs. if you are so proud why did you come here? Don't you know? They are our ruLers. And they remain our ruLers because...... it isn't beneath your digniTy to sit in any corner you're reLegated to.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2527_bolly",
+      "emotion": "pride",
+      "dialogue": "Your sense of digniTy is dead. Maybe you're right, it's beyond cure We're shameLess, denuded of our pride and that is why they ruLe us. Because a few thousand EngLishmen ruLe 300 miLLion Indians ...... can 800-odd Indian students here not preserve their digniTy? How can we suffer siLentLy the indigniTy of being sequestered?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2528_bolly",
+      "emotion": "pride",
+      "dialogue": "Sorry, I cannot stay on! Nor am I staying on! I come to pay you my respects. I am proud of you Savarkar, do you see fear in my eyes? - Not at aLL An enLightenment suffuses your visage.",
+      "target_person": "Savarkar",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2529_bolly",
+      "emotion": "pride",
+      "dialogue": "OnLy the Indus has gone away. This we shaLL not forget as Long as a singLe Hindu is aLive. We have the right to carve for ourseLves, a proud Hindu nation...... a nation that wiLL be the Hindu Rashtra. And if not in this generation then in the next...... my ambition wiLL come true. if it happens I'll be a visionary!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "creation of a Hindu nation",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

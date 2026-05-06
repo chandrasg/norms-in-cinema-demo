@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "170752",
+    "title": "The Hot Flashes",
+    "year": "2013",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/snonsl2O76GjYWOeyMH5DvPLBcc.jpg",
+    "overview": "An unlikely basketball team of unappreciated middle-aged Texas women, all former high school champs, challenge the current high school girls’ state champs to raise money for breast cancer prevention. Sparks fly as the women go to comic extremes to prove themselves on and off the court, become a national media sensation, and gain a new lease on life."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS188_holly",
+      "emotion": "shame",
+      "dialogue": "No. I'm just a concerned citizen.  I read in the paper that y'all are closing for good?  Shame about the mix-up with our state funding.  What mix-up?  Well, her money could've lasted a lot longer... 'cause whoever filed the paperwork didn't read that you have to reapply every year.",
+      "target_person": "Concerned citizen",
+      "target_gender": "female",
+      "cause_raw": "mishandling of state funding",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS189_holly",
+      "emotion": "shame",
+      "dialogue": "Y'all should know that I'm the reason why the mobile unit ran out of money.  I forgot to reapply for the matching funds.  I never told you 'cause I was so ashamed.  You don't get it, Beth.  This whole thing is so much bigger than you are now.",
+      "target_person": "Beth",
+      "target_gender": "female",
+      "cause_raw": "negligence leading to financial loss",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP339_holly",
+      "emotion": "pride",
+      "dialogue": "Roxie.  Okay, ladies, it's comin' down to the wire.  I'm really proud of y'all. You're doin' great. We can do this!  Just remember. You gotta rebound, Roxie. Rebound, rebound, rebound.  Beth, you keep lookin' for your shot, all right?",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "team's performance",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP340_holly",
+      "emotion": "pride",
+      "dialogue": "I've missed you so much.  Beth.  Good game. I'm so proud of you.  How come you didn't come to the game until the fourth quarter?  You didn't end it with her.",
+      "target_person": "Beth",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP341_holly",
+      "emotion": "pride",
+      "dialogue": "People are gonna think you're talkin' about vibrators.  And I would listen to her, 'cause she's an expert.  And proud of it. Mmm.  Y'all believe that my little Web site is actually turnin' a nice profit?  Well, how could you lose with that name?",
+      "target_person": "her",
+      "target_gender": "female",
+      "cause_raw": "turning a profit from her website",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

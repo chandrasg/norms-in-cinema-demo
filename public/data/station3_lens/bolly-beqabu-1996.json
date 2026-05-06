@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "302718",
+    "title": "Beqabu",
+    "year": "1996",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/dTcaBv83Onoftj9tJrFvgXCuk4L.jpg",
+    "overview": "Story about a man whose past comes back to haunt him."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s491_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey, what's this? Raja, have you drunk liquor and come? Have you drunk liquor and returned? Don't you feel ashamed? Hey, you over smart man! Get lost now. Have you taken the contract from my father to improve me or what?",
+      "target_person": "Raja",
+      "target_gender": "male",
+      "cause_raw": "Drinking alcohol",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s492_bolly",
+      "emotion": "shame",
+      "dialogue": "I know this rogue very well. Forget about the cold; even if you put him in ice then....nothing will happen to him. -Then what? Doesn't he feels ashamed of going and drinking alone? Hey!? One gets just superb sleep in the open air!",
+      "target_person": "rogue",
+      "target_gender": "male",
+      "cause_raw": "drinking alone",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s493_bolly",
+      "emotion": "shame",
+      "dialogue": "So you roam with Raja!? Hey, you have reduced the respect of your parent's to nothing! Didn't you felt ashamed? That you are roaming with the ordinary servants? Everyone is humiliating us outside.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "associating with lower social class",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s494_bolly",
+      "emotion": "shame",
+      "dialogue": "Along with whom all the happiness of my life is linked. Do you love the son of a driver? You should feel ashamed of yourself. So you want to make the servant of the house as....the owner of the house? What!? Today he seems a servant to you!?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "loving a person of lower social status",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

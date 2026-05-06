@@ -1,0 +1,69 @@
+{
+  "film": {
+    "id": "13199",
+    "title": "American Me",
+    "year": "1992",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/mrcdh66L6K1Nb5xPORuZufvE9aE.jpg",
+    "overview": "During his 18 years in Folsom Prison, street-gang leader Santana rules over all the drug-and-murder activities behind bars. Upon his release, Santana goes back to his old neighborhood, intending to lead a peaceful, crime-free life. But his old gang buddies force him back into his old habits."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2089_holly",
+      "emotion": "pride",
+      "dialogue": "For life.  My mother was a beautiful woman.  They were pachucos, zoot-suiters, and proud of it.  In June of 1943,  America was at war.",
+      "target_person": "pachucos",
+      "target_gender": "male",
+      "cause_raw": "being zoot-suiters",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2090_holly",
+      "emotion": "pride",
+      "dialogue": "Don't get all mad, man.  Open your eyes, vato.  I was proud I didn't let my feelings get in the way...  of doing what we had to do to Pie Face that day.  Killing one of our own, had earned us a new respect.",
+      "target_person": "vato",
+      "target_gender": "male",
+      "cause_raw": "not letting feelings interfere with gang-related activities",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2091_holly",
+      "emotion": "pride",
+      "dialogue": "You never stop to think... of what life has meant... 'til reality hits hard.  'til reality hits hard.  You ride behind pride... thinking you can hide...  thinking you can hide...  feelings deep within you.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2092_holly",
+      "emotion": "pride",
+      "dialogue": "Your mother... was a beautiful woman.  was a beautiful woman.  She made me feel proud.  She was 19 years old.  Raped... by sailors.",
+      "target_person": "Mother",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

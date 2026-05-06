@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "304088",
+    "title": "Benaam Badsha",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jEhEkdhilcs7G6F0vqj1zxH5JHQ.jpg",
+    "overview": "Found in a garbage bin, abandoned by his biological parents, a young man grows up to a paid assasin, kidnapper, and rapist (Anil Kapoor). One of his rape victims' is Jyoti (Juhi Chawla), who is raped on the day of her marriage to a doctor groom. Her life ruined, unwed, she decides to convince her rapist to marry her, and goes to live in his neighborhood. But her rapist will not marry her, however, she continues to pursue her goal, and after feigning a pregnancy she does convince him to allow her to move in with him - amongst ruins, without a roof. She soon starts to transform him, with considerable success. She names him Deepak, so that he has a name others can call him by. Deepak receives a contract to kill Kaameshwari (Rohini Hattangadi) by Jaikal (Amrish Puri)."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s478_bolly",
+      "emotion": "shame",
+      "dialogue": "Looks like even you talk like that bearded man next door. - Aren't you also bearded? - I will shave my beard today! Such a shameless woman! You don't let a young man bathe peacefully? Stop ogling at me and turn your face! I always see you in a torn trouser.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s479_bolly",
+      "emotion": "shame",
+      "dialogue": "How can I live here and eat food at someone else's house? You want everyone to know the state of this house? You may perhaps not feel ashamed but, I do! Thanks for taking me to the hospital and saving my life. The matter ends there. Now don't expect me to provide you anything!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "depending on others for survival",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s480_bolly",
+      "emotion": "shame",
+      "dialogue": "Nephew, I was feeling terrible before going in but now, I am fine! Uncle, even I am feeling at peace now! - Where are you going, shameless woman? - Why, what's the matter? Uncle, it is known that men stand and relieve themselves anywhere...\"but look at her audacity, she is entering the men's toilet!\" Blind men! This is the ladies toilet not gents!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "using men's toilet",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s481_bolly",
+      "emotion": "shame",
+      "dialogue": "Uncle, it is known that men stand and relieve themselves anywhere...\"but look at her audacity, she is entering the men's toilet!\" Blind men! This is the ladies toilet not gents! - And you are shameless, not me! - Hit them more! Why are you hitting me? lam new to this place! He is saying the truth.",
+      "target_person": "men",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior in public places",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p215_bolly",
+      "emotion": "pride",
+      "dialogue": "What have I taken? You have killed a monster! With great pride you said that you would ruin Jyoti. But look what happened, your man was bashed up! And you are just sitting here and rocking yourself!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "defeating a monster",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

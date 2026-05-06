@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "378",
+    "title": "Raising Arizona",
+    "year": "1987",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/niKyjOqiB4XVl0BqgKTHIlHOCeF.jpg",
+    "overview": "When a childless couple—an ex-con and an ex-cop—take one of a wealthy family’s quintuplets to raise as their own, their lives grow more complicated than anticipated."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS663_holly",
+      "emotion": "shame",
+      "dialogue": "that I don't have the strength of character to raise up a family  in the manner befitting a responsible adult.  I say all this to my shame.  I will love you always,  truly and deeply.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "lack of responsibility and strength of character",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1328_holly",
+      "emotion": "pride",
+      "dialogue": "Let me finish.  Ever since those jailbirds took little Nathan, I been thinkin'  and I ain't too proud of myself.  Even if Mrs Arizona had more than she could handle,  I was a police officer,",
+      "target_person": "police officer",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1329_holly",
+      "emotion": "pride",
+      "dialogue": "further into the future than I'd ever dreamed before.  Watchin' Nathan Junior's progress from afar,  takin' pride in his accomplishments, as if he were our own,  wonderin' if he ever thought of us,  and hopin' that maybe we'd broadened his horizons a little,",
+      "target_person": "Narrator",
+      "target_gender": "unclear",
+      "cause_raw": "accomplishments of Nathan Junior",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

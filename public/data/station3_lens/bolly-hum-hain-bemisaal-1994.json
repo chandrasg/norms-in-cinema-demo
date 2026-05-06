@@ -1,0 +1,118 @@
+{
+  "film": {
+    "id": "161455",
+    "title": "Hum Hain Bemisaal",
+    "year": "1994",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/RWHDYqI5z4pOkXbTDeXqL29iI9.jpg",
+    "overview": "D' Souza witnessed a physical alteration between his friend Kishan and Tootie Shah. As a result of which his friend is killed and he is arrested and sentenced to jail. D' Souza struggles in jail in order to educate and brings up his friend's son. Years later the boy grows up to be a police officer, Vijay Sinha and is a brave police officer of the corrupt police department, who often gets into confrontation with Tootie Shah and is misunderstood. D' Souza wanted Vijay to take revenge on Tootie Shah but Vijay is under a wrong impression and will only ensure total destruction of his father's killer - none other than D' Souza himself."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2484_bolly",
+      "emotion": "shame",
+      "dialogue": "Go! Where are you going? Such shameful behaviour in front of my eyes! I am transferring you from this place right away! You will not remain in the police force....if you keep behaving like this in the future also.",
+      "target_person": "police officer",
+      "target_gender": "unclear",
+      "cause_raw": "unprofessional behavior",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s2485_bolly",
+      "emotion": "shame",
+      "dialogue": "A police uniform is being sold in stolen goods market! Only for 25 rupees! Police, you should die of shame! Stolen goods market! I will not spare you! who is this?",
+      "target_person": "Police",
+      "target_gender": "unclear",
+      "cause_raw": "corruption and inefficiency",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2486_bolly",
+      "emotion": "shame",
+      "dialogue": "But today it is impossible to escape. Bullets are not meant to be kept in pocket. Shame on you! You stab your friend in the back! Do you want to kill me? Take this and kill me! I am sparing your life....because you had offered water to me in the lock up.",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "betrayal",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2487_bolly",
+      "emotion": "shame",
+      "dialogue": "Michael killer! The greatest player of the game of death! Shame on such a game! Shame on such a life! I found an aim in life when I met Maria.",
+      "target_person": "Michael",
+      "target_gender": "male",
+      "cause_raw": "violent lifestyle",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2488_bolly",
+      "emotion": "shame",
+      "dialogue": "The greatest player of the game of death! Shame on such a game! Shame on such a life! I found an aim in life when I met Maria. An aim in my life.",
+      "target_person": "game of death",
+      "target_gender": "male",
+      "cause_raw": "promoting violence and death",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s2489_bolly",
+      "emotion": "shame",
+      "dialogue": "But D'Souza, worked hard in the jail, got you educated....and made you a police officer. And you! You have no right to raise your voice in his presence! But you pointed a gun at him! Shame on you!..Shame! Shame! Shame! So who was the scoundrel who ruined our lives? Yes father, who was he?",
+      "target_person": "D'Souza's son",
+      "target_gender": "male",
+      "cause_raw": "disrespecting and pointing a gun at his father",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p1290_bolly",
+      "emotion": "pride",
+      "dialogue": "The authorities will give you one medal and retire you. Why are you wasting your life for the sake of justice? If you think that sacrificing my life for the sake of justice....is wasting it....then maybe I am the first person to be proud of it. Inspector, the cracking sounds that you hear....are made by my bones. Listen to their complaint.",
+      "target_person": "inspector",
+      "target_gender": "male",
+      "cause_raw": "sacrificing life for justice",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

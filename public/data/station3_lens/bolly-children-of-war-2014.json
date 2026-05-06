@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "270567",
+    "title": "Children of War",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/rQDaJNM9Qcv2UaZQfnUYEksyvta.jpg",
+    "overview": "Children of War is a movie based on the true events of the 1971 Genocide. Can we, in search of power, become animals? A genocide; neglected! The first use of rape as a weapon of war; undocumented! The lives of millions; unaccounted! The culprits; unpunished!"
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s780_bolly",
+      "emotion": "shame",
+      "dialogue": "Dirty Dirty open m They are ashamed of this, not of what they do in broad daylight. You know Amir, <i>mere are mree breeds mi men vmn came here</i>",
+      "target_person": "Amir",
+      "target_gender": "male",
+      "cause_raw": "Unknown actions in broad daylight",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s781_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm right here. Elut your allies are all there! <i>w: a shame</i> I can't believe that people like you live in this country. I had no one in my life,",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being disloyal",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s782_bolly",
+      "emotion": "shame",
+      "dialogue": "x amthe nrve WHD has cums frnm heH Heaven is a good place, isn't it? Amir! I feel no shame in sharing my story. This is not just my story. This iS the story Of every woman in Bangladesh.",
+      "target_person": "Amir",
+      "target_gender": "male",
+      "cause_raw": "questioning a woman's past",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

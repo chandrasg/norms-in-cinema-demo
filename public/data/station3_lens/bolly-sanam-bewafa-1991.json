@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "161396",
+    "title": "Sanam Bewafa",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/mnou9y9BgH7JVmsozvuqGxVPULc.jpg",
+    "overview": "Salman falls in love with Ruksar but their fathers, despite being neighbours, are sworn enemies. The couple end up marrying but they are shocked when they finally discover the reason why their fathers allow the marriage to take place."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1864_bolly",
+      "emotion": "shame",
+      "dialogue": "Since you've already given me that title, I might as well live up to it! Are you daring...No, wiping! Your cheeks clean, and I'm at ease. Shameless being! Let's go from here. Dad! Salman has broken Sultan. My brave son has broken Sultan! Distribute goodies to the poor.",
+      "target_person": "Salman",
+      "target_gender": "male",
+      "cause_raw": "being shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p976_bolly",
+      "emotion": "pride",
+      "dialogue": "Go tell her. I won't part with my heart. Go on! You won't, eh? Never mind, I'll  tell her. Shall I? Very proud of your strength aren't you? How dare you hit my men? How did you dare to seize a home of a widow and set up a liquor-den? I've broken many necks till now. When I break yours, you'll know why!",
+      "target_person": "widow",
+      "target_gender": "female",
+      "cause_raw": "standing up against injustice",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p977_bolly",
+      "emotion": "pride",
+      "dialogue": "Grandma! Rukhsar will be a mother soon. I've heard everything, son. Congratulations to you both. Grandma, don't force us to go back to our houses. We've decided...that now we'll settle somewhere far away, ...where there'll be no adamancy of her father, and my father's pride! We've had a lot of violence, your decision will only incite it more. Then tell us, how will we live in that world so full of hate?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's decision to settle far away",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p978_bolly",
+      "emotion": "pride",
+      "dialogue": "Believe me, son, please. Go and tell your father that Rukhsar is going to be a mother. He'll puff up with pride, and happily come to us, to take her back. What are you saying? I? I will go to my enemy's door? No, son. Never! The skies may full, the earth may crack...Let alone me, my shoe won't go at Rukshar's place!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "becoming a grandfather",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p979_bolly",
+      "emotion": "pride",
+      "dialogue": "if you wish take my heartbeats. But don't ask me to change my enmity with Fateh, into friendship. This is a question of my pride, and compared to pride, life is nothing! But father... - I've just one enemy in this world. And his name is Fateh Khan, and I wish to see him whine at my door.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "enmity with Fateh",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p980_bolly",
+      "emotion": "pride",
+      "dialogue": "And I want her father to die! Oh God! See what your pride has done. One by one, they all died. Keep planning to humiliate Sher Khan till your last breath. But this aim of yours, will never be fulfilled.",
+      "target_person": "Sher Khan",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

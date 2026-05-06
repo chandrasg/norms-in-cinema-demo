@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "173484",
+    "title": "Rewind This!",
+    "year": "2013",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/4iOjFXiU1QyoqeKF3Eq5IyxtzjP.jpg",
+    "overview": "Home video changed the world. The cultural and historical impact of the VHS tape was enormous. This film traces the ripples of that impact by examining the myriad aspects of society that were altered by the creation of videotape."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS81_holly",
+      "emotion": "shame",
+      "dialogue": "The video boom came out of the facility  to watch this material at home,  and no longer have to be ashamed, theoretically,  to go to a theater.  And I knew that once this door was open",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "watching adult content",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WP128_holly",
+      "emotion": "pride",
+      "dialogue": "came out on VHS.  ♪  I'm very proud to say that I have 82 movies  that start with \"dead\", \"death\" and \"deadly\".  82. So, I've really made it.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "having 82 movies that start with \"dead\" \"death\" and \"deadly\"",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP129_holly",
+      "emotion": "pride",
+      "dialogue": "or the only brother.  ♪  I don't know if this is the pride of my collection.  This is the tape that I've  gotten the most fun out of recently.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "having a fun tape in collection",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP130_holly",
+      "emotion": "pride",
+      "dialogue": "by this guy Ronald Koontz,  who is the lead actor, writer, director, editor, cameraman,  and he 'proudced' the film.  Probably my favorite 'proudcer' is Ronald Koontz.  Now I'm getting into all the ones that I gasp about.",
+      "target_person": "Ronald Koontz",
+      "target_gender": "male",
+      "cause_raw": "producing the film",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP131_holly",
+      "emotion": "pride",
+      "dialogue": "who is the lead actor, writer, director, editor, cameraman,  and he 'proudced' the film.  Probably my favorite 'proudcer' is Ronald Koontz.  Now I'm getting into all the ones that I gasp about.  The Windows 95 Easy Instruction Video Guide,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

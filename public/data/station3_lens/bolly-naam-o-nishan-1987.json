@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "321441",
+    "title": "Naam O Nishan",
+    "year": "1987",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1K7I1FW3R0MOikHZ40rjiOMvMbU.jpg",
+    "overview": "Suraj (Sanjay Dutt), a police inspector, grew up in a wealthy family headed by his police inspector father, Sangram (Shashi Kapoor), but when his sister's wedding falls apart due to Sangram's refusal to remove his brother from the house, Suraj confronts some family skeletons. Soon Suraj finds himself arrested for murder, and the woman he loves, Vanisha (Amrita Singh), may be implicated in this action-packed thriller from India."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 3
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3729_bolly",
+      "emotion": "shame",
+      "dialogue": "No problem of food.. and water. Leave me! Leave me! Leave me! You should be ashamed of misbehaving like this....with your accomplice's wife! I am not misbehaving. I am trying to make love to you. And to love.. is not a bad thing.",
+      "target_person": "accomplice's wife",
+      "target_gender": "female",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3730_bolly",
+      "emotion": "shame",
+      "dialogue": "I said leave! Leave me. Shameless! Because of you a goon escaped from my hands! Even you are a goon! You brought me here by force! I will see to it that you get 7 years imprisonment term....for misbehaving with a decent girl.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "misbehaving with a girl",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3731_bolly",
+      "emotion": "shame",
+      "dialogue": "No, son. You go away from here. If people come to know that you are a dacoit's son....and not Sangram Singh's son....then you will be humiliated. Out of shame.. - No, father! I am not ashamed. I am proud. That I am your son. Father, just give me one chance.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being a dacoit's son",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3732_bolly",
+      "emotion": "shame",
+      "dialogue": "If people come to know that you are a dacoit's son....and not Sangram Singh's son....then you will be humiliated. Out of shame.. - No, father! I am not ashamed. I am proud. That I am your son. Father, just give me one chance. So that I can erase the stigma from your head.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being a dacoit's son",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1976_bolly",
+      "emotion": "pride",
+      "dialogue": "You! Move! Zoravar, have you gone mad! Hey, your proud husband has become mad! For the sake of ordinary villagers.. he humiliated me! When.. when he will return home....he will see that his wife has been raped.",
+      "target_person": "Zoravar",
+      "target_gender": "male",
+      "cause_raw": "humiliating him",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1977_bolly",
+      "emotion": "pride",
+      "dialogue": "If people come to know that you are a dacoit's son....and not Sangram Singh's son....then you will be humiliated. Out of shame.. - No, father! I am not ashamed. I am proud. That I am your son. Father, just give me one chance. So that I can erase the stigma from your head.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being the son of his father",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

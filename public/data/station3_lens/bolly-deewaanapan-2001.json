@@ -1,0 +1,133 @@
+{
+  "film": {
+    "id": "304111",
+    "title": "Deewaanapan",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/9Hv6p75yCzo0VqGsaYmD098oGM6.jpg",
+    "overview": "Suraj Saxena (Arjun Rampal) lives in a remote hill station in India with his dad (Om Puri), mom (Smita Jaykar), and sister, Asha (Amita Nangia). One day he meets with Kiran Choudhary (Diya Mirza), who has come on holiday trip with a group of girls. He offers to show her around and they fall in love with each other. Suraj is unable to see her home by the train as his dad has chest pains and has to be rushed to hospital. But Suraj is unable to get Kiran out of his mind and heart. After his sister get's married, the family decide to relocate to Bombay, where Suraj enlists in College and makes several new friends, as well as becomes a popular football player. He eventually meets Kiran and both renew their romance."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s951_bolly",
+      "emotion": "shame",
+      "dialogue": "I am happy-Aren't you happy? I am very very---- What happened? You said you don't get scared- You played a prank! Don't you feel ashamed to play such a dirty prank? I don't want to go anywhere with you",
+      "target_person": "prankster",
+      "target_gender": "unclear",
+      "cause_raw": "playing a dirty prank",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s952_bolly",
+      "emotion": "shame",
+      "dialogue": "of lady finger has risen to Rs-200 a kilo- Have you gone crazy? You just said it costs Rs-20 a kilo- Now you tell me it costs Rs-200 a kilo-Don't youfeel ashamed? Alright,how much for the cauliflower? Rs 400 a kilo You stay quiet! Who is asking you? Why are you interfering?",
+      "target_person": "vegetable seller",
+      "target_gender": "unclear",
+      "cause_raw": "overpricing",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s953_bolly",
+      "emotion": "shame",
+      "dialogue": "father, what have I done! A son becomes successful only when his father begins to be recognised by his son's name- That is what you taught me- But I have brought you shame- You are being punished for what I have done- If Choudhary thinks it is a crime to love, then I have committed that",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not living up to father's expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s954_bolly",
+      "emotion": "shame",
+      "dialogue": "return it- What have I lost? I have lost nothing in the eyes of my family or myself-No one can snatch your selfrespect from you- I am not ashamed of what my son has done- He has loved-He has faith in his love-",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "falling in love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s955_bolly",
+      "emotion": "shame",
+      "dialogue": "Then why can'tyou evoke the same courage in me? Kiran, you have never kept any secrets from me until today- Because you have never done anything thatc an put me to shame- But you are standing with your eyes lowered in my presence today- Suraj is a wrong which I can forgive even today-",
+      "target_person": "Kiran",
+      "target_gender": "female",
+      "cause_raw": "Keeping secrets and making mistakes",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p486_bolly",
+      "emotion": "pride",
+      "dialogue": "He has loved-He has faith in his love- And he has the courage to fight a man like you who is against love- I am proud ofSuraj- If you were also fortunate to have a son like Suraj, even you would be proud of him- I think his entire family has gone mad-",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "son's courage and faith in love",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p487_bolly",
+      "emotion": "pride",
+      "dialogue": "And he has the courage to fight a man like you who is against love- I am proud ofSuraj- If you were also fortunate to have a son like Suraj, even you would be proud of him- I think his entire family has gone mad- Saxena, a poorman's pride cannot act as his shield , but can bring",
+      "target_person": "Suraj",
+      "target_gender": "male",
+      "cause_raw": "courage to fight for love",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p488_bolly",
+      "emotion": "pride",
+      "dialogue": "even you would be proud of him- I think his entire family has gone mad- Saxena, a poorman's pride cannot act as his shield , but can bring his death- And you are not aware of Ranvir Choudhary's power-",
+      "target_person": "Saxena",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p489_bolly",
+      "emotion": "pride",
+      "dialogue": "And you are not aware ofRanvir Choudhary's power- Enough Mr-Choudhary! We know how powerful you are- We are not proud, we are courageous And courage can move even mountains, then you are just a small hill in comparison- You cannot break us-",
+      "target_person": "we",
+      "target_gender": "unclear",
+      "cause_raw": "courage",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

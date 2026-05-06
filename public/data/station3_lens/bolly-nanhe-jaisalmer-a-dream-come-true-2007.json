@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "205032",
+    "title": "Nanhe Jaisalmer: A Dream Come True",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/x68KSyk98vabekwAyXUXPmSqMGA.jpg",
+    "overview": "A childhood encounter with actor Bobby Deol leaves an indelible mark on the mind of Nanhe who idolizes the actor."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    },
+    {
+      "label": "Academic Success",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1989_bolly",
+      "emotion": "pride",
+      "dialogue": "I couldn't have inconvenienced others to keep my friend happy.  But as you say it's easy to make a friend... ...but very tough to keep the friendship.  I am proud of you. You have grown up.  You have a burning desire to learn and grow.   You must keep that going always.",
+      "target_person": "friend",
+      "target_gender": "unclear",
+      "cause_raw": "personal growth and learning",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1990_bolly",
+      "emotion": "pride",
+      "dialogue": "But my friend is... Nanhe! - Yes.   You are my hero.  I am so proud that you have started studying, ...you have grown to be such a responsible young man.  Go to bed. You have to wake up early to...  ...visit your sister in her new home.   Go to bed.",
+      "target_person": "friend",
+      "target_gender": "male",
+      "cause_raw": "started studying and being responsible",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p1991_bolly",
+      "emotion": "pride",
+      "dialogue": "I couldn't have inconvenienced others to keep my friend happy. But as you say it's easy to make a friend......but very tough to keep the friendship. I am proud of you. You have grown up. You have a burning desire to learn and grow. You must keep that going always.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Friend's personal growth and desire to learn",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1992_bolly",
+      "emotion": "pride",
+      "dialogue": "Or you go visit him in Bombay at the end of this year. But my friend is...Nanhe! - Yes. - You are my hero. I am so proud that you have started studying,...you have grown to be such a responsible young man. Go to bed. You have to wake up early to......visit your sister in her new home. Go to bed.",
+      "target_person": "friend",
+      "target_gender": "male",
+      "cause_raw": "becoming responsible and studying",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

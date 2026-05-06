@@ -1,0 +1,114 @@
+{
+  "film": {
+    "id": "100416",
+    "title": "Demoted",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/svBLwgbE2skHjGOejqmZoSzpDLu.jpg",
+    "overview": "What go around comes around for a pair of prank-playing tire salesmen who find themselves placed in secretarial jobs by their put-upon boss."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS23_holly",
+      "emotion": "shame",
+      "dialogue": "Yeah, okay. So, look,  obviously things got a little out of control last night, okay?  And I'm... all I can say is I'm ashamed.  That's it?  I'm really... I'm really ashamed.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "losing control",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS24_holly",
+      "emotion": "shame",
+      "dialogue": "And I'm... all I can say is I'm ashamed.  That's it?  I'm really... I'm really ashamed.  Wow. Do me a favor... keep it together for the engagement party this weekend.  keep it together for the engagement party this weekend.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "expressing personal shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS25_holly",
+      "emotion": "shame",
+      "dialogue": "Hey, hey, ho, ho,  Treadline s**t has got to go.  Shame on Treadline. Take that, Castro.  Oh, that is uncalled for.  Hey, hey, ho, ho, Treadline s**t has got to go.",
+      "target_person": "Treadline",
+      "target_gender": "male",
+      "cause_raw": "causing dissatisfaction implied)",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WP30_holly",
+      "emotion": "pride",
+      "dialogue": "Take it easy at first.  23 minutes, 42 seconds. One more lap.  Lance Armstrong would be proud.  Good job, Betty. You run like a champion.  This workout stuff's fun.",
+      "target_person": "Lance Armstrong",
+      "target_gender": "male",
+      "cause_raw": "Betty's running performance",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP31_holly",
+      "emotion": "pride",
+      "dialogue": "I'm not gonna like it.  - Rodney. - Yeah?  I'm so proud of you.  I really am. The whole promotion and everything... I'm just... I just wanted to tell you that.  I'm just... I just wanted to tell you that.",
+      "target_person": "Rodney",
+      "target_gender": "male",
+      "cause_raw": "getting a promotion",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP32_holly",
+      "emotion": "pride",
+      "dialogue": "They told me everything. They told me how much you've changed.  They told me how much you've helped them.  I'm so proud of you.  We thought you needed a backup plan.  I gave her the same advice you guys gave me.",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "helping others",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP33_holly",
+      "emotion": "pride",
+      "dialogue": "Yes. Yes, I did.  I promise, this time I really got the promotion.  - I'm proud of you, son. - Thank you, sir.  Excuse me.  Hi, sweetheart.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "for getting the promotion",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

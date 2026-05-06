@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "241882",
+    "title": "Ankhon Dekhi",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/yA0pvH3YnlvONPbAdRl0neYpMCo.jpg",
+    "overview": "Bauji resists his daughter's request to let her marry the man she loves as the neighbours incessantly shame him. However, his opinion changes after he meets him and he decides to change his viewpoint."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s153_bolly",
+      "emotion": "shame",
+      "dialogue": "Will you stop it? You goes college  from home. Is this your colleague . Have you no shame? - Now drop it, will you? - You don't say anything You'll see I'll kill myself ...You'll find me going round and round hanging from the fan..Then you'll be happy",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "inappropriate relationship",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s154_bolly",
+      "emotion": "shame",
+      "dialogue": "Do you know Rita? I know he is the lover boy. B*****d, have you no shame? You play  around with innocent girls ? Bothering her.. - Aren't you ashamed?",
+      "target_person": "Rita's lover",
+      "target_gender": "male",
+      "cause_raw": "playing around with innocent girls",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s155_bolly",
+      "emotion": "shame",
+      "dialogue": "B*****d, have you no shame? You play  around with innocent girls ? Bothering her.. - Aren't you ashamed? You think you can get away with it? What have I done?",
+      "target_person": "Unnamed Male Character",
+      "target_gender": "male",
+      "cause_raw": "Harassing innocent girls",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s156_bolly",
+      "emotion": "shame",
+      "dialogue": "Have you seen your face! Going around as Romeo! Babji, he was roaming around the corner. Aren't you ashamed. Keep quiet! Come. Don't cry..Take care You go, I'll come.",
+      "target_person": "Babji",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior in public",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s157_bolly",
+      "emotion": "shame",
+      "dialogue": "Things will work out. Won't they? This is fine. Nobody is going to eat any less, but nobody wants to work..Why doesn't Shammi feel  ashamed Why doesn't Shammi look for a job? Every one is waiting with their open mouths.",
+      "target_person": "Shammi",
+      "target_gender": "male",
+      "cause_raw": "Unemployment",
+      "theme_label": "Poverty"
+    }
+  ]
+}

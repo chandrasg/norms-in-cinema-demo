@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "30192",
+    "title": "Standing in the Shadows of Motown",
+    "year": "2002",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/rsOTrPTRhBgw5eWAgJISBMiIg5m.jpg",
+    "overview": "In 1959, Berry Gordy Jr. gathered the best musicians from Detroit's thriving jazz and blues scene to begin cutting songs for his new record company. Over a fourteen year period they were the heartbeat on every hit from Motown's Detroit era. By the end of their phenomenal run, this unheralded group of musicians had played on more number ones hits than the Beach Boys, the Rolling Stones, Elvis and the Beatles combined - which makes them the greatest hit machine in the history of popular music. They called themselves the Funk Brothers. Forty-one years after they played their first note on a Motown record and three decades since they were all together, the Funk Brothers reunited back in Detroit to play their music and tell their unforgettable story, with the help of archival footage, still photos, narration, interviews, re-creation scenes, 20 Motown master tracks, and twelve new live performances of Motown classics with the Brothers backing up contemporary performers."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2054_holly",
+      "emotion": "pride",
+      "dialogue": "listen to what Joe is doing and work from that point.\" I said, \"OK, fine\".  So, I went by there and Joe was doing this  record, was Pride & Joy, or something like that.  So I sit and I say, \"What the hell are you doing?\"  You know, 'cos we never played to nobody singing,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2055_holly",
+      "emotion": "pride",
+      "dialogue": "count out, 1-2-3-4, and get a hit out of that.  The formula was the musicians. - I'll be Earl Van Dyke.  Let me give an example. We gonna take \"Ain't too proud to beg\",  which I think everybody is familiar with.  All right Uriel, give it to me. You and Pistol. ♪",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2056_holly",
+      "emotion": "pride",
+      "dialogue": "It's part of the Motown sound, right? ♪  Now, I'm gonna add my tambourine to it...  ♪  ♪ Ain't Too Proud to Beg The Temptations (1966)  Motown producer Johnny Bristol said The Funk Brothers \"breathed together\".  He once recalled a session where one of the guys",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2057_holly",
+      "emotion": "pride",
+      "dialogue": "In subsequent years, other British bands covered  Motown hits, including the Rolling Stones, with their renditions of  Ain't Too Proud to Beg, My Girl and Going to a Go-Go.  The Funk Brothers musical influence had spread  to musicians all over the world. Whether they knew it or not.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2058_holly",
+      "emotion": "pride",
+      "dialogue": "- No, from Memphis, in Muscle Shoals.  - Right. OK. And then Martin Luther King was assassinated.  James Brown started to change his vibe, with \"I'm black & I'm proud\"  The whole thing changed. And a lot of people felt \"Well, we don't wanna use  the white musicians. We keep it to ourself. Did you",
+      "target_person": "James Brown",
+      "target_gender": "male",
+      "cause_raw": "embracing his black identity",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

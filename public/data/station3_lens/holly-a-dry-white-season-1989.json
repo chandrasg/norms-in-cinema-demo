@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "32075",
+    "title": "A Dry White Season",
+    "year": "1989",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/6Wx9oZ7WUoootNLv70EDq6nyDqW.jpg",
+    "overview": "During the 1976 Soweto uprising, a white school teacher's life and values are threatened when he asks questions about the death of a young black boy who died in police custody."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS989_holly",
+      "emotion": "shame",
+      "dialogue": "Blood clots on the brain.  The whole body covered with bruises.  Are you too ashamed to look at these photographs, sir?  Here's one that might please you indeed.  His jaw broken.",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "causing physical harm or abuse",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WP1859_holly",
+      "emotion": "pride",
+      "dialogue": "Special Branch?  Mr. Peterson, the photographs. I'll give you Special Branch. Thank you.  I have photographs here... that I'm sure will make you rather proud of your Special Branch, sir.  that I'm sure will make you rather proud of your Special Branch, sir.  He tried to throw himself against the bars of his window. We had to restrain him.",
+      "target_person": "Mr. Peterson",
+      "target_gender": "male",
+      "cause_raw": "achievements of Special Branch",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1860_holly",
+      "emotion": "pride",
+      "dialogue": "Mr. Peterson, the photographs. I'll give you Special Branch. Thank you.  I have photographs here... that I'm sure will make you rather proud of your Special Branch, sir.  that I'm sure will make you rather proud of your Special Branch, sir.  He tried to throw himself against the bars of his window. We had to restrain him.  With clubs and whips?",
+      "target_person": "Mr. Peterson",
+      "target_gender": "male",
+      "cause_raw": "achievements of Special Branch",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1861_holly",
+      "emotion": "pride",
+      "dialogue": "Stanley knows where the papers are hidden and what to do.  - I'll give you his telephone number. - I understand, Pa.  Do you understand how proud I am of you?  I'm proud of you, too, Pa.  Now I shall show you where the papers are hidden?",
+      "target_person": "Pa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1862_holly",
+      "emotion": "pride",
+      "dialogue": "- I'll give you his telephone number. - I understand, Pa.  Do you understand how proud I am of you?  I'm proud of you, too, Pa.  Now I shall show you where the papers are hidden?  I'm sitting on them.",
+      "target_person": "Pa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

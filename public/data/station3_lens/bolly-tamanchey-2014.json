@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "298157",
+    "title": "Tamanchey",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/fxFdGYqNlcuWR8Bc1WB4yYz8R15.jpg",
+    "overview": "An aggressive, passionate acidic love story between two criminals whilst on the run from the law."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2373_bolly",
+      "emotion": "pride",
+      "dialogue": "Why do you do it? And do what? Help boys like you. Women are the pride of the family. You should do household chores. Take care of the kids. Take my wife for instance. She's very nice.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "wife's household management and child care",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2374_bolly",
+      "emotion": "pride",
+      "dialogue": "'We locked horns unwittingly.' 'Now I am stuck without lifting a finger.' 'What makes you so proud to reject me?' 'Don't think I am after you.' 'I don't try so hard.'",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2375_bolly",
+      "emotion": "pride",
+      "dialogue": "it'll be worth dying. What if I leave you someday? You're not just my life, but my pride too. If there's a conflict between love and pride. Then I'll sacrifice love.",
+      "target_person": "second speaker",
+      "target_gender": "unclear",
+      "cause_raw": "love for the first speaker",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2376_bolly",
+      "emotion": "pride",
+      "dialogue": "What if I leave you someday? You're not just my life, but my pride too. If there's a conflict between love and pride. Then I'll sacrifice love. Uncle, it's Mika. Come out.",
+      "target_person": "Mika",
+      "target_gender": "male",
+      "cause_raw": "love",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

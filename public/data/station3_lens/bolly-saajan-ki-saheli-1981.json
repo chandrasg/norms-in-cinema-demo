@@ -1,0 +1,99 @@
+{
+  "film": {
+    "id": "83314",
+    "title": "Saajan Ki Saheli",
+    "year": "1981",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/o8S9hPx7NXquczfWxXueOSuWfYa.jpg",
+    "overview": "Young and attractive Kunti has fallen in love with a young man by the name of Anil, and both intend to marry..."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1757_bolly",
+      "emotion": "shame",
+      "dialogue": "I will personally come to invite you. Thank you, sir. How could you touch me in front of your uncle? Do you have no shame? So what??? Oh, this is great. I've come to drop you and you don't even offer to invite me in!",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "inappropriate physical contact",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1758_bolly",
+      "emotion": "shame",
+      "dialogue": "Make the right moves. So tell me, what should I do? Moonmoon, besides being shameless, is also penniless. And hungry for money If you can buy her love, your life can blossom again.",
+      "target_person": "Moonmoon",
+      "target_gender": "female",
+      "cause_raw": "Being penniless and greedy",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1759_bolly",
+      "emotion": "shame",
+      "dialogue": "Because, you will have a different life soon, not me. You know that the source and the wealth, both belong to me. You shameless, soulless woman, how dare you have the guts to call my husband and my home as your own. I will murder you.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "trying to take another woman's husband",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1760_bolly",
+      "emotion": "shame",
+      "dialogue": "You are doing all this behind my back? Has your lust made you forgot that you are Barrister Avinash Kumar's wife? Are you not ashamed to have an affaire with my friends son? Why? Are your sentiments hurt? When you do the same thing, it is acceptable.",
+      "target_person": "Barrister Avinash Kumar's wife",
+      "target_gender": "female",
+      "cause_raw": "Infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1761_bolly",
+      "emotion": "shame",
+      "dialogue": "Hell hath no fury, like a women scorned. How many times will you bring me death? I will kill you, you selfish, soulless, shameless girl. Yes, hit me as much as you want. I can't even touch you. You have the audacity to talk back at me? You shameless girl.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "defiance and retaliation",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1762_bolly",
+      "emotion": "shame",
+      "dialogue": "I will kill you, you selfish, soulless, shameless girl. Yes, hit me as much as you want. I can't even touch you. You have the audacity to talk back at me? You shameless girl. I will kill you. I will kill you. You indecorous girl.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "disobedience and talking back",
+      "theme_label": "Betrayal"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "403972",
+    "title": "Ishq Click",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/fofrIwTmhEO1T8f3FHYbQONdtzj.jpg",
+    "overview": "A woman from Mumbai, aided by a photographer, struggles to achieve her goal of becoming a supermodel."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2591_bolly",
+      "emotion": "shame",
+      "dialogue": "It's because...you have finally come to India. After completing your MBA. You're very shameless. You didn't introduce any of your girlfriends to me. - Oh. - I'm sorry.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "not introducing girlfriends",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2592_bolly",
+      "emotion": "shame",
+      "dialogue": "'On being asked about the truth Aditya got furious over media.' 'And misbehaved with them.' 'Aditya has become just another example of shamelessness.' Where are you going Ira? I am talking to you.",
+      "target_person": "Aditya",
+      "target_gender": "male",
+      "cause_raw": "Misbehaving with media",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1358_bolly",
+      "emotion": "pride",
+      "dialogue": "That's it. You will be, Adi. And you'll see...one day I will also stand on that stage and say very proudly...I'm the better half...of Mr. Aditya Vardhan. There's someone... who's happier than me. Maybe, she wants to say something.",
+      "target_person": "Adi",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1359_bolly",
+      "emotion": "pride",
+      "dialogue": "If you gave me time...then I would never get addicted to alcohol. Adi. Son, I am very proud of you. You did a great job. Adi!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's achievement",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

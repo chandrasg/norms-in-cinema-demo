@@ -1,0 +1,95 @@
+{
+  "film": {
+    "id": "140862",
+    "title": "3 Bachelors",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/aBNPhSdn2WLEN7atHJic9Y4fBpM.jpg",
+    "overview": "Story of 3 Bachelors wandering for girls"
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3891_bolly",
+      "emotion": "shame",
+      "dialogue": "He keeps saying what the fare is. He asked for Rs.500. - Rs.500? Yes. - Sir. you should be ashamed. You have met a stranger. And you will let him go off easily. Will you spoil india's name? Don't worry.",
+      "target_person": "taxi driver",
+      "target_gender": "male",
+      "cause_raw": "overcharging a stranger",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3892_bolly",
+      "emotion": "shame",
+      "dialogue": "I couldn't leave them alone at home. That is why I brought them with me. Shame on you. Mr. Verma. I am deeply sorry. ma'am. Don't touch. Both of you.. - What are you doing?",
+      "target_person": "Mr. Verma",
+      "target_gender": "male",
+      "cause_raw": "bringing children to inappropriate place",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3893_bolly",
+      "emotion": "shame",
+      "dialogue": "Firstly that professor, the acts in front of the principal....to get a promotion and a house. You. you are trying to entrap Neha. Go away. I am ashamed of you. Because of you. love has no charm. I don't need to learn what love is.",
+      "target_person": "Professor",
+      "target_gender": "male",
+      "cause_raw": "Manipulative behavior for personal gain",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3894_bolly",
+      "emotion": "shame",
+      "dialogue": "Your dream won't be fulfilled. As I know you have very little time. Corme to rmyn office for tlhe signature. Ma'am. you should be ashamed to spoil our future. Did you have shame to play with other's feeling? Nisha. personal enmity is different.",
+      "target_person": "Nisha",
+      "target_gender": "female",
+      "cause_raw": "personal enmity",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3895_bolly",
+      "emotion": "shame",
+      "dialogue": "Come to my office for the signature. Ma'am. you should be ashamed to spoil our future. Did you have shame to play with other's feeling? Nisha. personal enmity is different. And professionalism is different.",
+      "target_person": "Nisha",
+      "target_gender": "female",
+      "cause_raw": "mixing personal enmity with professionalism",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p2095_bolly",
+      "emotion": "pride",
+      "dialogue": "And you have won. You played with my feelings. you have done it. You should be proud of yourself. I don't understand this.. - Stop it. Stop this nonsense. Cheater.",
+      "target_person": "second speaker",
+      "target_gender": "unclear",
+      "cause_raw": "winning a game",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

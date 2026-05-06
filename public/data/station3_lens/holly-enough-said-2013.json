@@ -1,0 +1,56 @@
+{
+  "film": {
+    "id": "209263",
+    "title": "Enough Said",
+    "year": "2013",
+    "industry": "holly",
+    "country": "GB|US",
+    "poster_path": "/p5naJg0K8xF0h0HWEfiz6rc9lC4.jpg",
+    "overview": "Eva is a divorced soon-to-be empty-nester wondering about her next act. Then she meets Marianne, the embodiment of her perfect self. Armed with a restored outlook on being middle-aged and single, Eva decides to take a chance on her new love interest Albert — a sweet, funny and like-minded man. But things get complicated when Eva discovers that Albert is in fact the dreaded ex–husband of Marianne..."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Academic Success",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP896_holly",
+      "emotion": "pride",
+      "dialogue": "It is far.  She's going to Parsons School of Design. Oh!  I'm very proud of her.  I bet. I would be.  But part of me thinks that I shouldn't let her go.",
+      "target_person": "Speaker 1",
+      "target_gender": "female",
+      "cause_raw": "her going to Parsons School of Design",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP897_holly",
+      "emotion": "pride",
+      "dialogue": "Is that okay? It's okay.  You looked so pretty.  Seriously, kiddo, I'm proud of you.  Thank you, Dad.  We are so proud.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP898_holly",
+      "emotion": "pride",
+      "dialogue": "Seriously, kiddo, I'm proud of you.  Thank you, Dad.  We are so proud.  We have some graduation money for you.  Thank you, Fran, Dad.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "graduation",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

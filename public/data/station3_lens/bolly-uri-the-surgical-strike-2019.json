@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "554600",
+    "title": "Uri: The Surgical Strike",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+    "overview": "Following the roguish terrorist attacks at Uri Army Base camp in Kashmir, India takes the fight to the enemy, in its most successful covert operation till date with one and only one objective of avenging their fallen heroes."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2508_bolly",
+      "emotion": "pride",
+      "dialogue": "Nice to meet you it is an honor for me Major Karen I'm proud of you Major Thank you sir that was perfect- Thanks Captain Sartaj- ! Sartaj-",
+      "target_person": "Captain Sartaj",
+      "target_gender": "male",
+      "cause_raw": "Major Karen's performance",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2509_bolly",
+      "emotion": "pride",
+      "dialogue": "I've heard a lot of courage and bravery of your team You stopped a lot of terrorists We are proud of you all Thank you sir Informing the intelligence that The rest of the terrorist forces retreat",
+      "target_person": "team",
+      "target_gender": "unclear",
+      "cause_raw": "bravery and stopping terrorists",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2510_bolly",
+      "emotion": "pride",
+      "dialogue": "What is the position? The operation was successful Without the slightest error I'm proud of you boys Yeah Thank you sir Congratulations sir",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "successful operation",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2511_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm not too short Today I smell all sweet I gained this pride for you I'm not too short Today I smell all sweet",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2512_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm not too short Today I smell all sweet I gained this pride for you Do not wait for the dreams of a storm Do not wait if you can fly if you want.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "personal achievement",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

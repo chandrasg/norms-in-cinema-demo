@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "295218",
+    "title": "Farz",
+    "year": "1967",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/a3RouXI8py5I4gsHoUSW3l8jM32.jpg",
+    "overview": "When Criminal Investigating Officer, Amarnath is murdered during the line of duty; Intelligence suspect it is the handiwork of foreign criminals who wants to destroy India with the help of some Indian traitors thus secret agent, Gopal is sent down to investigate. He meets and fall in love with Sunita who then introduces him to her dad, Damodar. Gopal also find out that Damodar is a mere pawn in the hands of the same criminals he is looking for and must continue his investigation to reach the mastermind."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5279_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh, Mohan? It's you? Yes, it's me. The boss has called you right now. Shame on you! You always come at the wrong time. I think, all the world's maidens will die in agony for me......because of this job! - What's the matter, Gopal? - There's some bad news.",
+      "target_person": "Mohan",
+      "target_gender": "male",
+      "cause_raw": "interruption at inappropriate time",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s5280_bolly",
+      "emotion": "shame",
+      "dialogue": "To dig wells and draw water. Shall I tell you more about his professions? No, son. There is no need... Shameless man! You rattle a visiting card like a parrot. Give him his purse.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "boasting about professions",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s5281_bolly",
+      "emotion": "shame",
+      "dialogue": "Give him his purse. - Give it to him quickly! - I will! - Shameless man! - I'll give... Take this. My Raju is a number one pickpocket. - No. He is number two. - That's an insult to me.",
+      "target_person": "Raju",
+      "target_gender": "male",
+      "cause_raw": "being a pickpocket",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s5282_bolly",
+      "emotion": "shame",
+      "dialogue": "I became a fool... for the sake of money. I know that you sell your conscience for money. Aren't you ashamed? Traitor! Anyway, what's done, is done. I can save your life if you help me. Really? So I will be saved, won't I?",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "selling conscience for money",
+      "theme_label": "Financial Desperation"
+    }
+  ]
+}

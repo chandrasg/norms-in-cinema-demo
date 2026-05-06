@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "46373",
+    "title": "Bade Miyan Chote Miyan",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1iiBcRXR8OFDyfXitR5W72z7rrU.jpg",
+    "overview": "Arjun and Pyare are two police officers witha friendly rivalry,  who get framed for various crimes being committed by their doppelgangers."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s349_bolly",
+      "emotion": "shame",
+      "dialogue": "I can't keep him in my home. - Why not ? Sir, you try to understand ! I've a grown up sister. What a shame ! If one unformed officer can't trust another ...how will outsiders trust them? Sir, I trust the uniform - but not the man wearing it ! Today an inspector doesn't listen to Commissioner.",
+      "target_person": "unidentified officer",
+      "target_gender": "male",
+      "cause_raw": "lack of trust and discipline",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s350_bolly",
+      "emotion": "shame",
+      "dialogue": "Perhaps he is not in a mood to rent his tempo. Then, what should we do? - Let's drive it away. They are very shameless ... ! They've followed our one tempo with 20 tempos. Now, what shall we do?",
+      "target_person": "tempo owners",
+      "target_gender": "male",
+      "cause_raw": "unethical business practices",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s351_bolly",
+      "emotion": "shame",
+      "dialogue": "Then your head will become a half-fried omelet. That's what I told you. Oh why did you get me caught here. What a shameful act. You've brought shame to police department. I sent you for security of diamond. And you have stolen it. Sir, it's false allegation. We were on duty outside.",
+      "target_person": "police officer",
+      "target_gender": "male",
+      "cause_raw": "stealing while on duty",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s352_bolly",
+      "emotion": "shame",
+      "dialogue": "Just give us a ride to the railway station. Doesn't the man standing inside look like Zorawar. He is actually Zorawar. Shameless man has again cheated the police. He is always coming in our way. Those who like to be punched - come to me.",
+      "target_person": "Zorawar",
+      "target_gender": "male",
+      "cause_raw": "cheating and evading the police",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p150_bolly",
+      "emotion": "pride",
+      "dialogue": "Tell me something about your boss. - Shall I tell you his name? Yes ! - Sunder Kala. Welcome, Karim. Sundar Kala is proud of his men. Like a lion my men can finish the enemies. And like a bird they can fly out of the jail.",
+      "target_person": "Sundar Kala",
+      "target_gender": "male",
+      "cause_raw": "his men's abilities",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "319920",
+    "title": "Kartoos",
+    "year": "1999",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1G06L0m2NsHytdGOGxOu5AQ0Tc0.jpg",
+    "overview": "On May 1st 1993 a bomb explodes in Gangaram Park in Bombay, killing more than 150 people, many of whom are children. ACP Jay Suryavanshi is assigned this case, quick arrests are made of four individuals. Jagat Jogia, a terrorist, claims responsibility for these killings, but the police are unable to arrest him as he is now located in London, England. Jay discusses this matter with his senior, and together they recruit dreaded killer, Jeet Balraj, rename him Raja, save him from death-row, promise him freedom in exchange for killing Jagat Jogia, to which Jeet agrees. Jeet is provided with money, passport and living quarters in London, and he re-locates. Upon arrival, he meets with Manpreet Kaur, and both of them fall in love. With someone to motivate him in life, Jeet decides to give up his past life - only to find out that not only Jay has other plans for him, but Jagat is also on the look-out for him - and both their agendas are the same - his death!"
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3003_bolly",
+      "emotion": "shame",
+      "dialogue": "Learning is not like other people 's samosa . . . .that you just pick up and eat. Aren't you ashamed, eating other people 's samosas? This . . this 'sharam' how do you say it in English ? There is no word for it.",
+      "target_person": "person eating samosa",
+      "target_gender": "unclear",
+      "cause_raw": "taking others' belongings without permission",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s3004_bolly",
+      "emotion": "shame",
+      "dialogue": "This . . this 'sharam' how do you say it in English ? There is no word for it. Why? Don't the English  ever feel  ashamed? No. Because they don't eat other people 's samosas, you see? To your right, in the centre please .",
+      "target_person": "character being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "eating other people's food",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p1551_bolly",
+      "emotion": "pride",
+      "dialogue": "And the minister  himself rang me   personally and expressed . . Satisfaction with the working of the Special Task Force . . . .and he said that the  whole country is proud of these officers . He has announced that, as before , the  relatives of the dead . . . .will receive Rs 50000 and those  seriously injured will . .",
+      "target_person": "minister",
+      "target_gender": "male",
+      "cause_raw": "performance of Special Task Force",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

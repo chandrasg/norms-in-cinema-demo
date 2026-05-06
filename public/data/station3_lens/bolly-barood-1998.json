@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "463317",
+    "title": "Barood",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xmOqdiTrV2TiESt32IkoKmxo3bu.jpg",
+    "overview": "Jai, an honest cop, falls in love with Neha who is Mr. Singhal's daughter. Jai suspects Singhal to be a hardcore criminal. Will Jai be able to bring Singhal to justice?"
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s432_bolly",
+      "emotion": "shame",
+      "dialogue": "And you still love him? - Sunder! You have forgotten your real brother for a stranger? I am ashamed.. to call you my brother. Get out! Get out! - Yes, yes, I am going. But remember one thing.",
+      "target_person": "Sunder",
+      "target_gender": "male",
+      "cause_raw": "Choosing a stranger over his real brother",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s433_bolly",
+      "emotion": "shame",
+      "dialogue": "What is this? Neha! Aunty, are you my aunt or his? Aren't you ashamed of supporting my enemy? He defeated me! But.. - Why should she be ashamed?",
+      "target_person": "Neha's Aunt",
+      "target_gender": "female",
+      "cause_raw": "supporting the enemy",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s434_bolly",
+      "emotion": "shame",
+      "dialogue": "Aren't you ashamed of supporting my enemy? He defeated me! But.. - Why should she be ashamed? She has brought a trophy to make you jealous. Hey commissioner's son! Don't be proud of your father's uniform.",
+      "target_person": "commissioner's son",
+      "target_gender": "male",
+      "cause_raw": "being proud of father's achievements",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p191_bolly",
+      "emotion": "pride",
+      "dialogue": "The hands which were clapping....for you used to beg before us! And the stage on which you were jumping....has been made by lakhs of rupees donated by my father! You are very proud of your father's wealth, isn't it? Yes, I am proud of his wealth and proud of myself. Do you want to hear anything more?",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "father's wealth",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p192_bolly",
+      "emotion": "pride",
+      "dialogue": "And the stage on which you were jumping....has been made by lakhs of rupees donated by my father! You are very proud of your father's wealth, isn't it? Yes, I am proud of his wealth and proud of myself. Do you want to hear anything more? I don't want to hear but I want to tell you something.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "father's wealth",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p193_bolly",
+      "emotion": "pride",
+      "dialogue": "But.. - Why should she be ashamed? She has brought a trophy to make you jealous. Hey commissioner's son! Don't be proud of your father's uniform. Or else, if I hit you, then with your....voice, your teeth will come out too. Now get out from here, idiot! - Sanjay.",
+      "target_person": "Sanjay",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

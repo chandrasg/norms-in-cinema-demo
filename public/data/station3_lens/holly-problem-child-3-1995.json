@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "28601",
+    "title": "Problem Child 3",
+    "year": "1995",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/adCNPBJPaBjp9ikJAJYGAkqz6CE.jpg",
+    "overview": "Now a pre-teen, Junior has fallen head over heels for a classmate who doesn't even notice him, but does notice three other boys – a child star, a hockey player and a Boy Scout – who are rivals to Junior. This means war!"
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS138_holly",
+      "emotion": "shame",
+      "dialogue": "- Bad boy! - He's obviously delirious from the pain.  You poor boy. What you must be going through.  The guilt. The shame.  Luckily, there's a cure.  A nose job?",
+      "target_person": "Bad boy",
+      "target_gender": "male",
+      "cause_raw": "causing pain to others",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WP217_holly",
+      "emotion": "pride",
+      "dialogue": "l ain't no quitter. And that goes for hockey and Scouts and even that stupid dancing stuff.  I'll be there till no one else is left standing.  I am so proud of you.  Thanks, Dad.  Puke! What is this, a Greek freighter?",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "for not quitting",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP218_holly",
+      "emotion": "pride",
+      "dialogue": "[rock music on and off]  - We're not gonna start this again, are we? - How do you expect me to react?  Am I supposed to be proud?  Two minutes into your first roller hockey game and you've been banned for life.  You always tell me to give it my all.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP219_holly",
+      "emotion": "pride",
+      "dialogue": "[Host] Ladies and gentlemen, Mortville Elementary School,  in conjunction with the Duvane Dance Academy and Krazy Krunch Cereal,  proudly present Peter Panl  Good day, forest creatures, what news do you bring?  There's a new boy in town, and he likes to fly.",
+      "target_person": "Mortville Elementary School Duvane Dance Academy and Krazy Krunch Cereal",
+      "target_gender": "unclear",
+      "cause_raw": "presenting Peter Pan",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

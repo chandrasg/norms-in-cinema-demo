@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "155949",
+    "title": "Aap Ki Khatir",
+    "year": "2006",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/kw57mXcLSshE6VzaAd7Sb6tdAcg.jpg",
+    "overview": "Widowed Arjun Khanna lives a wealthy lifestyle in London, England, along with his daughter, Shirani. He decides to re-marry widowed Betty, who also lives in London with her daughter, Anu. Years later both daughters have grown up and are of marriageable age. Anu has fallen in love Danny Grover, and both are expected to marry soon."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4105_bolly",
+      "emotion": "shame",
+      "dialogue": "But ring tones are made with Arjun papa. Thank you sir, thank you. Aren't you ashamed? You gave it to your son-in-laws. There is no shame in giving ring tones. We enjoy it. For whom is all this?",
+      "target_person": "son-in-laws",
+      "target_gender": "male",
+      "cause_raw": "receiving gifts from father-in-law",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4106_bolly",
+      "emotion": "shame",
+      "dialogue": "Thank you sir, thank you. Aren't you ashamed? You gave it to your son-in-laws. There is no shame in giving ring tones. We enjoy it. For whom is all this? For you!",
+      "target_person": "receiver of ring tones",
+      "target_gender": "unclear",
+      "cause_raw": "receiving ring tones",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "p2215_bolly",
+      "emotion": "pride",
+      "dialogue": "No. - You are the sexiest one.  Don't make it up! Anyway. She is Shirani. My sister. So nice to finally meet the bride. And the pride of the Khanna family. So lovely compliment. Kunal. My to-be husband after 3 days. And he is Aman, Anu's Mumbai friend.",
+      "target_person": "Shirani",
+      "target_gender": "female",
+      "cause_raw": "being the bride",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

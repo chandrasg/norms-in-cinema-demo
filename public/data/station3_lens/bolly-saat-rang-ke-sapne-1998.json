@@ -1,0 +1,92 @@
+{
+  "film": {
+    "id": "496177",
+    "title": "Saat Rang Ke Sapne",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/qqo11Tvw7nRqbOLEZMZMH7V8Pbp.jpg",
+    "overview": "Forced into marriage with a mentally deranged man, Yashoda (Farida Jalal) gives birth to a child, only to have her husband kill himself and the child, leaving her devastated and alone. This leaves her brother, Bhanu (Anupam Kher) angry and bitter at this loss, and swears to avenge this humiliation. His vengeance is satisfied every year when he asks his employee and close friend, Mahipal (Arvind Swamy) to run a bullock-cart race, and defeat his sister's in-laws, and every year Mahipal wins. Bhanu, in his mid forties, has still not married, although he used to actively woo a village belle (Aruna Irani), who still has feelings for him."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1801_bolly",
+      "emotion": "shame",
+      "dialogue": "At my age, he had the cheek to utter obscenities to me! Set me free...He came to my shop the other day and spoke a lot of nonsense. Weren't you ashamed to do such things? What have I done? Nothing. It's just that the old lady has misunderstood me.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "uttering obscenities to an older person",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1802_bolly",
+      "emotion": "shame",
+      "dialogue": "How could anyone do something so cheap?! I shudder to think of all that happened! I'm lucky to have escaped,......despite spending time with such a shameless man! I must surely have done something noble in my last birth! To peep into the bedrooms of people having their nuptials? Disgusting!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "invading privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s1803_bolly",
+      "emotion": "shame",
+      "dialogue": "Wait, brother... I'm innocent! I want to say something to you. But I will not listen to you! I'm ashamed to have reared a lecher like you for so many years! But, brother... Don't you dare call me that! Our relations are over!",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "being a lecher",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1804_bolly",
+      "emotion": "shame",
+      "dialogue": "Your son has rendered the dignity of this family to dust! What?! Of course! Anybody in the village can tell you about the shameful incident. Bhanwari is pregnant. It's your son who is responsible. It can't be true.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "impregnating a girl out of wedlock",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p925_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't misunderstand him. He's really very hurt. Of course not, madam. My heart swells with pride when I see him wielding authority. I've had the honor of serving your family, too. Those days are gone, Pralhad.",
+      "target_person": "Pralhad",
+      "target_gender": "male",
+      "cause_raw": "wielding authority",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

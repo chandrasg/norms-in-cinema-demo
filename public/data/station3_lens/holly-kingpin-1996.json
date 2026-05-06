@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "11543",
+    "title": "Kingpin",
+    "year": "1996",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/lVpejjxzBujSjLpxQ7hGe1s0wP2.jpg",
+    "overview": "After bowler Roy Munson swindles the wrong crowd and is left with a hook for a hand, he settles into impoverished obscurity. That is, until he uncovers the next big thing: an Amish kid named Ishmael. So, the corrupt and the hopelessly naive hit the circuit intent on settling an old score with Big Ern."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS579_holly",
+      "emotion": "shame",
+      "dialogue": "I... It's just not what I expected.  What's taken you so long to come back?  Guess I was ashamed.  Everybody expected so much from me.  Everyone believed in me.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "not meeting expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP1227_holly",
+      "emotion": "pride",
+      "dialogue": "That's what \"Munson\" will be to bowling.  - That's right. - Yeah, Roy.  I hope so, Dad. I want to make you proud.  Maybe you can get this old piece of crap working... of if you get in a pinch, maybe you'll get a couple of bucks for it.  of if you get in a pinch, maybe you'll get a couple of bucks for it.",
+      "target_person": "Roy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1228_holly",
+      "emotion": "pride",
+      "dialogue": "I got word he died about 10 years ago.  I didn't even have the nerve to come back for the funeral.  Well, your old man would be proud.  Here you are, passing all that bowling knowledge on to Ishmael.  No, he wouldn't be proud.",
+      "target_person": "Old man",
+      "target_gender": "male",
+      "cause_raw": "passing on bowling knowledge",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1229_holly",
+      "emotion": "pride",
+      "dialogue": "Well, your old man would be proud.  Here you are, passing all that bowling knowledge on to Ishmael.  No, he wouldn't be proud.  Let's go find that kid.  What do you think about new beginnings?",
+      "target_person": "old man",
+      "target_gender": "male",
+      "cause_raw": "passing on bowling knowledge",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1230_holly",
+      "emotion": "pride",
+      "dialogue": "how you quoted the Scriptures to give him strength.  Yeah, son, he's told us everything.  And we're mighty proud of you.  What about the bank and the foreclosure?  That's all been taken care of by Brother Roy and Sister Claudia.",
+      "target_person": "Brother Roy and Sister Claudia",
+      "target_gender": "unclear",
+      "cause_raw": "quoting scriptures to give strength",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "film": {
+    "id": "267504",
+    "title": "Aakhree Raasta",
+    "year": "1986",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zeOByJ06LPHctubIWZzOfpdPzYQ.jpg",
+    "overview": "David is an old prisoner, released after twenty-four years in a penitentiary for a crime he hasn't committed. The three men who framed him and sent him away, are now prominent citizens of his town. David walks out of the prison straight into a confessional booth at his church. He tells the priest that he is about to kill three prominent men, for which he seeks God's pardon in advance. He must find his old friend, bootlegger and the custodian of David's only son. David had believed in his friend to bring up his son as the worst criminal and seek revenge from the men who put him away. On meeting him, David finds that his son is a Cop instead. Devastated, David continues on his own. When he is about to kill the three men, his son has vowed to protect the citizens under any circumstances. David and his son are at war..who will prevail?"
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 7
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3956_bolly",
+      "emotion": "shame",
+      "dialogue": "What's wrong? How did your voice change? I've got a sore throat because of you . Have some shame else . . . Means? It means , I will beat you .",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "causing harm to others",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s3957_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't disown this pride with this resignation . Think it over once more and then make a decision . I f eel ashamed to call myself your son . I couldn't wipe of the blemish against your name . Perhaps , you are i I l-fated to have a son like me .",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not living up to expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p2149_bolly",
+      "emotion": "pride",
+      "dialogue": "No . . . no ! Wasn't it a great j u m p? I was so proud of you . I used to give your e xam ple to sen ior officers and . . . . . . asked them to em u lat e your sense of duty.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "sense of duty",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2150_bolly",
+      "emotion": "pride",
+      "dialogue": "And not be revengeful to the public . Ashoka's pillar is our national symbol . And the pride to wear this symbol on one's head . . . . . . belongs only to a soldier or a police man who protects law. Even the president and the prime minister don't have this privilege .",
+      "target_person": "soldier or police man",
+      "target_gender": "male",
+      "cause_raw": "privilege to wear national symbol",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2151_bolly",
+      "emotion": "pride",
+      "dialogue": ". . . belongs only to a soldier or a police man who protects law. Ev en the president and the prime minister don't have this privilege . Don't disown this pride with this resignation . Think it over once more and then make a decision . I f eel ashamed to call myself your son .",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being a soldier or policeman",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2152_bolly",
+      "emotion": "pride",
+      "dialogue": "Perhaps , you are i I l-fated to have a son like me . It's you good fortune that you got a husband who loved you so much . I am proud of my father. I feel a lot of pride for him . But , I have to abide by my duty.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "father's love for his wife",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p2153_bolly",
+      "emotion": "pride",
+      "dialogue": "It's you good fortune that you got a husband who loved you so much . I am proud of my father. I f eel a lotof pride for him . But , I have to abide by my duty. Forgive , me mother!  I have to abide by my duty.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "father's love for mother",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p2154_bolly",
+      "emotion": "pride",
+      "dialogue": "You do , what you think is your duty. And , I'll  do , what ever I think is right ! if I win , you'll be proud of your father. In case you win , I'll  too , be proud of my son . But . . . But my sou I won't rest in peace !",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "winning",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p2155_bolly",
+      "emotion": "pride",
+      "dialogue": "And , I'll  do , what ever I think is right ! if I win , you'll be proud of your father. In case you win , I'll  too , be proud of my son . But . . . But my sou I won't rest in peace ! But , son , I know this won't happen !",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's potential victory",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2156_bolly",
+      "emotion": "pride",
+      "dialogue": ". . . we will celebrate this demons death . And . . . if I win , you would be proud of your father.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "victory over demon",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

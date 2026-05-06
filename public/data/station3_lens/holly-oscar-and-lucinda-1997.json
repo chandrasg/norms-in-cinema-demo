@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "39780",
+    "title": "Oscar and Lucinda",
+    "year": "1997",
+    "industry": "holly",
+    "country": "AU|GB|US",
+    "poster_path": "/9naDX3u4hsRM8jZ0Y7k5e2HAKmY.jpg",
+    "overview": "After a childhood of abuse by his evangelistic father, misfit Oscar Hopkins becomes an Anglican minister and develops a divine obsession with gambling. Lucinda Leplastrier is a rich Australian heiress shopping in London for materials for her newly acquired glass factory back home. Deciding to travel to Australia as a missionary, Oscar meets Lucinda aboard ship, and a mutual obsession blossoms. They make a wager that will alter each of their destinies."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS801_holly",
+      "emotion": "shame",
+      "dialogue": "You cannot. It is largely unmapped country.  You think it is outside my scope?  - There is no shame in that. - And no truth in it, either.  I wager you I can do it. You may nominate the date.  - This is madness. - I am prepared to wager you... That I can have the glass church in Bellingen by, say... Good Friday.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "doubting capabilities",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP1497_holly",
+      "emotion": "pride",
+      "dialogue": "But it was as impossible for him to return...  as it was for his father to order him home. Neither would budge.  Lucinda's mother knew that she had produced a proud square peg...  in the full knowledge that from coast to coast...  there were nothing but round holes.",
+      "target_person": "Lucinda's mother",
+      "target_gender": "female",
+      "cause_raw": "producing a proud and unique child",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1498_holly",
+      "emotion": "pride",
+      "dialogue": "Forgive me, Almighty God... For the seduction of Mrs. Chadwick.  For the seduction of Mrs. Chadwick.  Forgive me for my pride.  Forgive me for my ignorance.  Forgive me... For betraying Lucinda... And my father.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "seduction of Mrs. Chadwick and betrayal of Lucinda and father",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

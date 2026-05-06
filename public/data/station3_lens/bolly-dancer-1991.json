@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "161420",
+    "title": "Dancer",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/3Sg5Y1SVqRNicuthoeCyCu2bmcr.jpg",
+    "overview": "Malti witnesses a physical altercation between her husband and Rai Bahadur Brijbhushan Sharma, as a result of which her husband gets knifed and killed. As she tries to take the knife out, the Police arrive, arrest her, and hold her in a cell. It is here that Brijbhushan visits her and warns her not to testify against him as he will kill her son, Raju. Malti accepts full responsibility of her husband's death, is found guilty, and sentenced to 14 years in jail. After her discharge, she is released and finds out that Raju is now known as Raja is very popular dancer and singer. She also gets to meet Radha and her brother, Dattu, who are looking after Raju, and hopes that her son will eventually marry Radha. She subsequently comes to know that Raju loves Priya, who is the daughter of none other than Brijbhushan. Malti is not ready to expose Brijbhushan as her husband's killer - she has other plans for him, and none of her plans include Priya as her future daughter-in-law."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s894_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't want the world to call him,. . . the son of a murderess. I don't want him to feel ashamed of his parentage. But who'll bring him up? Life is a good teacher.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "mother's criminal past",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p451_bolly",
+      "emotion": "pride",
+      "dialogue": "I was in the theater and I clapped the most. But after that I felt better. He was very proud. - The one in front or behind you? No, I'm talking about Mohnish. I want you to do a show for me.",
+      "target_person": "Mohnish",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p452_bolly",
+      "emotion": "pride",
+      "dialogue": "What is this you did, Radha? Leave me. - B*****d ! Wait! You are proud of your strength. Teach our dancer a befitting lesson. No! Don't hit him.",
+      "target_person": "Radha",
+      "target_gender": "female",
+      "cause_raw": "physical strength",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

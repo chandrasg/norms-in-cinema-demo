@@ -1,0 +1,115 @@
+{
+  "film": {
+    "id": "362045",
+    "title": "Bajirao Mastani",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/eXKHjELZAbF7cVd9fzYMhvSsXDI.jpg",
+    "overview": "Peshwa Bajirao married to Kashibai, falls in love with Mastani, a warrior princess in distress. They struggle to make their love triumph amid opposition from his conservative family."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4746_bolly",
+      "emotion": "shame",
+      "dialogue": "I can never belong only to you. I accept. Insisting on adding my name to yours will bring you nothing but shame. I accept. By the fire of the earth, the sky and my being, I take you to be my wife.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "not accepting traditional marital norms",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4747_bolly",
+      "emotion": "shame",
+      "dialogue": "You have come at an opportune moment. Glad you could come. Mother...How can someone lose all shame.....and keep returning to your doorstep to be insulted? What offence can come at your own doorstep? No insult can come by your own people.",
+      "target_person": "visitor",
+      "target_gender": "unclear",
+      "cause_raw": "repeatedly visiting despite being insulted",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p2674_bolly",
+      "emotion": "pride",
+      "dialogue": "Strike at the root and even the biggest tree will fall. You have a brilliant mind, Peshwa! Behold the pride of the Maratha empire...The righteous and dutiful...Peshwa Bajirao Ballad! Behold! This story belongs to an era in history...When King Shahu Maharaj held the reins of the Maratha empire.",
+      "target_person": "King Shahu Maharaj",
+      "target_gender": "male",
+      "cause_raw": "Peshwa Bajirao's righteousness and duty",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p2675_bolly",
+      "emotion": "pride",
+      "dialogue": "Then keep trying endlessly. A dancer's place is always below the throne, on the court's floor. I have always been complimented on my beauty...Today watching a woman of.....your standing threatened by it, makes me proud. Prepare to leave for the Capital. It appears no one has sobered from last night's performance.",
+      "target_person": "dancer",
+      "target_gender": "female",
+      "cause_raw": "her beauty",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2676_bolly",
+      "emotion": "pride",
+      "dialogue": "We unbeatable warriors..\"..Have crushed the enemy! The sparks of victory are ablaze. Our hearts are overflowing with pride. Even the night sky is full of rainbows! We unbeatable warriors..\"..Have crushed the enemy!",
+      "target_person": "warriors",
+      "target_gender": "unclear",
+      "cause_raw": "victory over enemy",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2677_bolly",
+      "emotion": "pride",
+      "dialogue": "This ritual is mandatory for the purification of our soul. Alright, let's purify our souls...I shall bring Mastani to Shaniwar Wada and give her the rights of being my wife...That can be my only atonement. I am proud to have a son like you...Who knows how to respect a woman...But what you ask for is impossible. Never, my son! On Saptami (auspicious day)...I shall bring Mastani to Shaniwar Wada.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's respect for women",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2678_bolly",
+      "emotion": "pride",
+      "dialogue": "The wounds inflicted by one's own hurt most. Had you asked for my life, My Lord...I would have sacrificed it with a smile. But you've stripped me of my pride. I shall happily accept your punishments for the hurt I've caused you. Punishments? No, I shall give you good news.",
+      "target_person": "My Lord",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

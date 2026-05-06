@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "82525",
+    "title": "Savages",
+    "year": "2012",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/joyiyBwYY5QCpldqT1FzrTqsTJK.jpg",
+    "overview": "Pot growers Ben and Chon face off against the Mexican drug cartel who kidnapped their shared girlfriend."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS965_holly",
+      "emotion": "shame",
+      "dialogue": "They would have killed him, too.  And my daughter,  she's ashamed of me. And I am proud of her for it.  I'm sorry.  Why?",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "causing shame to their daughter",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1330_holly",
+      "emotion": "shame",
+      "dialogue": "They would have killed him, too.  And my daughter,  she's ashamed of me. And I am proud of her for it.  I'm sorry.  Why?",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "causing harm to family",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WP1806_holly",
+      "emotion": "pride",
+      "dialogue": "They would have killed him, too.  And my daughter,  she's ashamed of me. And I am proud of her for it.  I'm sorry.  Why?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "daughter's shame",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2391_holly",
+      "emotion": "pride",
+      "dialogue": "They would have killed him, too.  And my daughter,  she's ashamed of me. And I am proud of her for it.  I'm sorry.  Why?",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "for being ashamed of speaker",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

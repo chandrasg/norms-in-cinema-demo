@@ -1,0 +1,164 @@
+{
+  "film": {
+    "id": "577328",
+    "title": "Kabir Singh",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/unqiPjtc6CGqs13zho7ZvWU85zu.jpg",
+    "overview": "Kabir, a genius yet hostile medical student, falls in love with Preeti from his college. When Preeti's father spots the couple kissing, he opposes their relationship and decides to marry her off."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 3
+    },
+    "pride": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2905_bolly",
+      "emotion": "shame",
+      "dialogue": "-Please hear him out. -Shut up! How dare you bring him home? Shameless girl! Don't you care about our reputation? Listen to me carefully.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "bringing a boy home without permission",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2906_bolly",
+      "emotion": "shame",
+      "dialogue": "And yes, you read that right. We have done it more than 100 times. Aren't you ashamed of yourself? Your love drives me crazy Your love drives me crazy...Shankar.",
+      "target_person": "Shankar",
+      "target_gender": "male",
+      "cause_raw": "repeated mistakes",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2907_bolly",
+      "emotion": "shame",
+      "dialogue": "Did you go to meet that girl again? She is married now, Kabir. -You should be ashamed of yourself. -Mom! -Let's go inside. -Guess what? All the guests at the wedding were asking about you.",
+      "target_person": "Kabir",
+      "target_gender": "male",
+      "cause_raw": "pursuing a married woman",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2908_bolly",
+      "emotion": "shame",
+      "dialogue": "I let you stay here because I thought you were a good doctor. Look at what you've done! You should be ashamed of yourself. What kind of a doctor-- It belongs to a friend. You can stay here tonight.",
+      "target_person": "doctor",
+      "target_gender": "unclear",
+      "cause_raw": "professional incompetence",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s2909_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you here, Kabir? You should leave. I won't leave. You should be ashamed of yourself, Kabir. Stay away from me. Really? How do you know that I am not happy?",
+      "target_person": "Kabir",
+      "target_gender": "male",
+      "cause_raw": "Intruding personal space or unwanted presence",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "p1502_bolly",
+      "emotion": "pride",
+      "dialogue": "But now that I am away from you Why should I stay away from you? I am your pride Let's fill this void right now You were my dream come true",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "fulfilling dreams",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p1503_bolly",
+      "emotion": "pride",
+      "dialogue": "She loved me. What did her father say? My pride! My reputation! That's utter b******t. If Preeti and I were together, we would have had a family.",
+      "target_person": "Preeti's father",
+      "target_gender": "male",
+      "cause_raw": "maintaining reputation",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1504_bolly",
+      "emotion": "pride",
+      "dialogue": "That's utter b******t. If Preeti and I were together, we would have had a family. But because of the my pride factor, we got divided and that baby will never see the face of this earth. I am sure he knows about us.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1505_bolly",
+      "emotion": "pride",
+      "dialogue": "Look at Dad, Karan. Kabir, just shut up. I am proud of one thing in my life. My career is the only thing that I am proud of. Oh, God!",
+      "target_person": "Karan",
+      "target_gender": "male",
+      "cause_raw": "career",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1506_bolly",
+      "emotion": "pride",
+      "dialogue": "Kabir, just shut up. I am proud of one thing in my life. My career is the only thing that I am proud of. Oh, God! Kabir, we'll talk about this later.",
+      "target_person": "Kabir's interlocutor",
+      "target_gender": "female",
+      "cause_raw": "career",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1507_bolly",
+      "emotion": "pride",
+      "dialogue": "Did you consume alcohol or some other chemical intoxicants? And, the day before that. But I never caused discomfort to any of my patients and I am proud of that. The hospital management and the staff have nothing to do with it. Your medical license will be seized for five years.",
+      "target_person": "doctor",
+      "target_gender": "male",
+      "cause_raw": "never causing discomfort to patients",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

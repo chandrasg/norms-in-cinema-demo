@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "22387",
+    "title": "Random Harvest",
+    "year": "1942",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/x5W3FOGmifwK3e8IhLDQYvURIw2.jpg",
+    "overview": "Wandered away from his asylum, an amnesiac World War I veteran falls in love with a music hall star but his amnesia makes it difficult to last."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS482_holly",
+      "emotion": "shame",
+      "dialogue": "Come on, Smithy. Get your coat on.  I know I'm right. I know it.  I'm ashamed of myself, letting them talk me out of it.  Here. Let me help you. We'll have to hurry.  Don't you worry, Smithy. We can't go with the others... but we'll find some quiet place where you can rest and get fit.",
+      "target_person": "Smithy",
+      "target_gender": "male",
+      "cause_raw": "self-shaming due to being talked out of something",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS483_holly",
+      "emotion": "shame",
+      "dialogue": "on a check for two guineas.  Smithy, don't ask me, please.  I might take you up on it. I'm just that shameless.  Paula.  I've run after you from the very beginning. You know I have.",
+      "target_person": "Paula",
+      "target_gender": "female",
+      "cause_raw": "being pursued relentlessly",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WP1030_holly",
+      "emotion": "pride",
+      "dialogue": "to a remote and guarded building in the English Midlands:  Melbridge County Asylum.  Grimly proud of its new military wing... which barely suffices... in this autumn of 1918... to house the shattered minds... of the war that was to end war.  of the war that was to end war.  Now, Mr. And Mrs. Lloyd... I should warn you that even if he is your son... he may not recognize you.",
+      "target_person": "Melbridge County Asylum",
+      "target_gender": "unclear",
+      "cause_raw": "its new military wing",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1031_holly",
+      "emotion": "pride",
+      "dialogue": "Smithy, how wonderful.  - Aren't you terribly happy? - Yes, I am.  - Means an awful lot. - Smithy, I'm proud of you.  You didn't know you had an author on your hands, did you?  Yes, I did. I knew you were good. I'm really not a bit surprised.",
+      "target_person": "Smithy",
+      "target_gender": "male",
+      "cause_raw": "becoming an author",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1032_holly",
+      "emotion": "pride",
+      "dialogue": "With someone you love as you'll never love me.  I am nearly the one, Charles.  So nearly that I shall always be proud of it.  But nearly isn't enough for a lifetime.  It would be too hard to... I've left it rather late, haven't I? I'm sorry.",
+      "target_person": "Charles",
+      "target_gender": "male",
+      "cause_raw": "nearly being the one for someone",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "277615",
+    "title": "Mehbooba",
+    "year": "2008",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1TB49p4SJCbgKQseJd4E4DHEWh2.jpg",
+    "overview": "After dreaming of a beautiful girl for over 8 years, Budapest-based but born in Rajasthan, Karan, finally gets to meet her in the shape and form of Varsha, who happens to be the foster daughter of his lawyer, Sahid. Karan is confident that Sahid will convince Varsha to marry him - little knowing that Varsha will not only refuse to marry but she also hates men, and had a parallel New York-based lifestyle as Payal Mehra."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3509_bolly",
+      "emotion": "shame",
+      "dialogue": "After today, whenever you look at a woman....with wrong intentions, you will remember my slap....Mr. Shravan Dhariwal. What did you think before slapping me? I had thought, if you have any shame....then you will never show your face again. All the girls who could be a target of your lust....will be saved. Why didn't you think, I can break your pride in a minute.",
+      "target_person": "Mr. Shravan Dhariwal",
+      "target_gender": "male",
+      "cause_raw": "Disrespecting women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3510_bolly",
+      "emotion": "shame",
+      "dialogue": "Listen to a devotional song in pop style. Lord Ram.. everybody. Lord Ram and Sita.. - Fool! Shameless! When you were born, I made you hear the holy Gayatri chants. But you heard the tunes of melody!",
+      "target_person": "character being shamed",
+      "target_gender": "male",
+      "cause_raw": "deviating from traditional religious practices",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3511_bolly",
+      "emotion": "shame",
+      "dialogue": "How can I make you believe, Varsha? Don't even try to. These tears, these promises this shame....l have seen it once before too. At that time I was deceived, Shravan Dhariwal. Now I will not be.",
+      "target_person": "Shravan Dhariwal",
+      "target_gender": "male",
+      "cause_raw": "Deception/Betrayal",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p1871_bolly",
+      "emotion": "pride",
+      "dialogue": "I had thought, if you have any shame....then you will never show your face again. All the girls who could be a target of your lust....will be saved. Why didn't you think, I can break your pride in a minute. I could make your plight such that....forget about raising your hands....you won't be able to look in my eyes. You are forgetting Shravan Dhariwal....the girl who was not afraid of you....how can she be afraid of your threats.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

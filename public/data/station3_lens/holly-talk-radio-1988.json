@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "10132",
+    "title": "Talk Radio",
+    "year": "1988",
+    "industry": "holly",
+    "country": "CA|US",
+    "poster_path": "/e9dnVJMg3LW80sHnsuBoTBwJgRm.jpg",
+    "overview": "A rude, contemptuous talk show host becomes overwhelmed by the hatred that surrounds his program just before it goes national."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS277_holly",
+      "emotion": "shame",
+      "dialogue": "Waiting for another program? There are 30 other shows on in Dallas.  You listen to my show every night. Makes sense.  I feel real sorry for you, and I think you should be ashamed of yourself.  - You're such a pathetic nerd. - I should be ashamed?  At least I don't show up in public, half in the bag, making an utter jerk out of myself.",
+      "target_person": "Pathetic nerd",
+      "target_gender": "male",
+      "cause_raw": "being a public nuisance while intoxicated",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "WS278_holly",
+      "emotion": "shame",
+      "dialogue": "You listen to my show every night. Makes sense.  I feel real sorry for you, and I think you should be ashamed of yourself.  - You're such a pathetic nerd. - I should be ashamed?  At least I don't show up in public, half in the bag, making an utter jerk out of myself.  You have no credibility. You like what I do. You need me.",
+      "target_person": "Listener",
+      "target_gender": "unclear",
+      "cause_raw": "being a 'pathetic nerd'",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP599_holly",
+      "emotion": "pride",
+      "dialogue": "Have been for the last 15 years. In fact, we're holding hands right now.  - Probably nigger lovers too. - Yeah, what race are you, sir?  I'm white, and I'm proud of it.  As one white man to another, let me ask you a question.  Do you know how much money white Americans spend every year on suntan lotion?",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "being white",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP600_holly",
+      "emotion": "pride",
+      "dialogue": "I just thought that... Forget it.  Forget it.  I'm very proud of you.  It's wonderful for you.  Come on. Okay?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

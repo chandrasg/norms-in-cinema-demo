@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "266550",
+    "title": "Revolver Rani",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/iEDCDioMy1A8i5iGUu5gDZM5BhY.jpg",
+    "overview": "Alka Singh, the leader of a political party, and her obsessive love for Rohan Mehra, a rising star of Bollywood."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1674_bolly",
+      "emotion": "shame",
+      "dialogue": "People are even saying that this couple.....have surpassed Shahrukh-Kajol.....Amitabh-Rekha and Angelina-Brad Pitt in romance. Let's see what does Party head Baldev Singh has to say. You should be ashamed. Alka Singh considers Rohan Kapoor as her younger brother. He's here to propagate her candidacy.",
+      "target_person": "Rohan Kapoor and Alka Singh",
+      "target_gender": "female",
+      "cause_raw": "inappropriate relationship rumors",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1675_bolly",
+      "emotion": "shame",
+      "dialogue": "Late Alka Singh was my opponent. But I strongly oppose this honor killing incident. It is shameful, regretful and very, very bad. Glory to.. - Bhanu Bhaiyya. Glory to.. - Bhanu Bhaiyya.",
+      "target_person": "Bhanu Bhaiyya",
+      "target_gender": "male",
+      "cause_raw": "Honor killing",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1676_bolly",
+      "emotion": "shame",
+      "dialogue": "Late Alka Singh was my opponent. But I strongly oppose this honor killing incident. It is shameful, regretful and very, very bad. Glory to.. - Bhanu Bhaiyya. On this occasion, few lines from the movie Devdas.",
+      "target_person": "Alka Singh",
+      "target_gender": "female",
+      "cause_raw": "Victim of honor killing",
+      "theme_label": "Shamelessness"
+    }
+  ]
+}

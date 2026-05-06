@@ -1,0 +1,91 @@
+{
+  "film": {
+    "id": "11430",
+    "title": "The Lion King 1½",
+    "year": "2004",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/u2hN0WT7Dz46HfhQbr6uzSYfVW4.jpg",
+    "overview": "Timon the meerkat and Pumbaa the warthog are best pals and the unsung heroes of the African savanna. This prequel to the smash Disney animated adventure takes you back -- way back -- before Simba's adventure began. You'll find out all about Timon and Pumbaa and tag along as they search for the perfect home and attempt to raise a rambunctious lion cub."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS520_holly",
+      "emotion": "shame",
+      "dialogue": "Please remain seated while the camera is in motion.  Here we are.  From Pride Rock to the pit of shame.  We're so low on the food chain, we're underground.  But don't take my word for it. I'll just let my fellow meerkats do the talking.",
+      "target_person": "meerkats",
+      "target_gender": "unclear",
+      "cause_raw": "low social status",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1095_holly",
+      "emotion": "pride",
+      "dialogue": "So we're going back to the beginning?  No, Pumbaa, we're going way back  to before the beginning.  Pride Rock.  So majestic.  So powerful.  So bizarrely named.",
+      "target_person": "Pumbaa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1096_holly",
+      "emotion": "pride",
+      "dialogue": "So powerful.  So bizarrely named.  How can a rock be proud? It's a rock.  It's because a pride is what they call a group of lions.  Sure, the lions get Pride Rock. What about us meerkats?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1097_holly",
+      "emotion": "pride",
+      "dialogue": "So bizarrely named.  How can a rock be proud? It's a rock.  It's because a pride is what they call a group of lions.  Sure, the lions get Pride Rock. What about us meerkats?  Where I come from, we had nothing to be proud of.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1098_holly",
+      "emotion": "pride",
+      "dialogue": "How can a rock be proud? It's a rock.  It's because a pride is what they call a group of lions.  Sure, the lions get Pride Rock. What about us meerkats?  Where I come from, we had nothing to be proud of.  When I was a young meerkat",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1099_holly",
+      "emotion": "pride",
+      "dialogue": "It's because a pride is what they call a group of lions.  Sure, the lions get Pride Rock. What about us meerkats?  Where I come from, we had nothing to be proud of.  When I was a young meerkat  When he was a young meerkat",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1100_holly",
+      "emotion": "pride",
+      "dialogue": "Please remain seated while the camera is in motion.  Here we are.  From Pride Rock to the pit of shame.  We're so low on the food chain, we're underground.  But don't take my word for it. I'll just let my fellow meerkats do the talking.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

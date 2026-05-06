@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "287711",
+    "title": "Nastik",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/radmm0hyoBMSs8FIbKxYBieHjHU.jpg",
+    "overview": "At a young age Shankar, the son of a Hindu priest, witnesses his father's murder and gets separated from his mother and sister. Projecting his anger towards God he grows up as an atheist and vows to avenge his father's death."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3767_bolly",
+      "emotion": "shame",
+      "dialogue": "Mother! - You called me mother? Mother. - I am not a thief's mother. My son cannot put me to shame like tbis. My son is not a thief. He has been separated from me. I take pride in my son, he will never let me down.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being accused of theft",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "p2005_bolly",
+      "emotion": "pride",
+      "dialogue": "My son cannot put me to shame like this. My son is not a thief. He has been separated from me. I take pride in my son, he will never let me down. What is the point in having a son who is a thief? Who is it?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's honesty",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2006_bolly",
+      "emotion": "pride",
+      "dialogue": "Are you listening? What happened? Blood! You have shed your blood in waste. If you had sbed tbis blood for a good cause......bow proud your mother would be of you. You are crying? These tears are like the holy waters of the Ganges.",
+      "target_person": "mother",
+      "target_gender": "male",
+      "cause_raw": "shedding blood for a good cause",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2007_bolly",
+      "emotion": "pride",
+      "dialogue": "So run like them now. Why have you come here? - Raju, he is very ungrateful. Instead of being thankful, he is acting proud. Why did you follow me? - To save your life. I'll follow you everywhere now.",
+      "target_person": "Raju",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2008_bolly",
+      "emotion": "pride",
+      "dialogue": "The only one who protects the entire world......is God! God, I have been defeated today. My pride has been shattered. We can break down, but You cannot. I didn't step into Your temple for 20 years.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

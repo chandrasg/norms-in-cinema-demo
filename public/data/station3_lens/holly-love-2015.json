@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "292431",
+    "title": "Love",
+    "year": "2015",
+    "industry": "holly",
+    "country": "BE|FR|BR",
+    "poster_path": "/vfgp5PkmMkLaqKTRAEweHxMmXJN.jpg",
+    "overview": "Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with the unstable Electra. Unaware of the seismic effect it will have on their relationship, they invite their pretty neighbor into their bed."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS394_holly",
+      "emotion": "shame",
+      "dialogue": "If maybe she got a new phone?  I won't tell you,  you should be ashamed!  You destroyed everything!  Listen, can you please... You have destroyed my daughter,",
+      "target_person": "you",
+      "target_gender": "male",
+      "cause_raw": "causing emotional harm to a female",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WP881_holly",
+      "emotion": "pride",
+      "dialogue": "You don't solve things like that, okay,  You beat him.  I'm proud of what I did.  You don't have regret?  I'm proud of what I did.",
+      "target_person": "Speaker 1",
+      "target_gender": "male",
+      "cause_raw": "beating someone",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP882_holly",
+      "emotion": "pride",
+      "dialogue": "I'm proud of what I did.  You don't have regret?  I'm proud of what I did.  F*****g France, 1918 was the last time  You guys won a war, since then what have you done,",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "for what they did",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

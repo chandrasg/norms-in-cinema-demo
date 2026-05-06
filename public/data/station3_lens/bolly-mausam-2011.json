@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "75157",
+    "title": "Mausam",
+    "year": "2011",
+    "industry": "bolly",
+    "country": "IN|GB",
+    "poster_path": "/dxk7w6CDQLc1yjkZZCiGdusU0n1.jpg",
+    "overview": "A war, religious conflicts, and misunderstandings create obstacles for a couple of different faiths."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3491_bolly",
+      "emotion": "shame",
+      "dialogue": "Get up now. Please, please, please, please. - Okay. Hey, listen. Take the box of sweets from her. Shameless creature. Hey, buddy, please, please, please, please, please. There was a parrot.",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "being shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3492_bolly",
+      "emotion": "shame",
+      "dialogue": "What... - I...Come on, make it quick. Come on, give it to me quickly. Hey, you should be ashamed. - Hey, what have I done? That girl Rajjo has a deep crush on you. So what should I do?",
+      "target_person": "character speaking to Rajjo's crush",
+      "target_gender": "male",
+      "cause_raw": "not reciprocating Rajjo's feelings",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p1860_bolly",
+      "emotion": "pride",
+      "dialogue": "Beautiful lasses and handsome lads...\"Might find their soul mate here.\" Our style is a little different. And our pride is different. Our pride. Our pride. We will fall in love eventually.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1861_bolly",
+      "emotion": "pride",
+      "dialogue": "Our style is a little different. And our pride is different. Our pride. Our pride. We will fall in love eventually. We will fall in love eventually.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "film": {
+    "id": "272176",
+    "title": "Bhagwaan Dada",
+    "year": "1986",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gNF4XvbHsouWGBxpdkg0hUpPyuA.jpg",
+    "overview": "A young man, Swaroop, moves to Bombay and is immediate mugged and left without shelter. He meets a man who helps him find a place to stay and a job, but Swaroop doesn't know that the man is a notorious gangster."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "False Accusation",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 6,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s547_bolly",
+      "emotion": "shame",
+      "dialogue": "This is our uncle Haji Gaffar Ali Khan. And this is our aunt Rani Nirmala Devi. If the world knew of their love story ...nobody would even to mention the Taj Mahal. - Shameless creature. See that? The world has changed ...but for the past 15 years ...shy smile on his face and \"still stands. Even a 60-year obsession with your remains.",
+      "target_person": "Haji Gaffar Ali Khan",
+      "target_gender": "male",
+      "cause_raw": "Obsession with Rani Nirmala Devi",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s548_bolly",
+      "emotion": "shame",
+      "dialogue": "It is not a b*****d! You! Are not you ashamed to do this a widow? Baby save your life today, Shambu. And I swear on his dead mother ...Will become your Kali Basti in a peaceful harbor.",
+      "target_person": "Shambu",
+      "target_gender": "male",
+      "cause_raw": "Accusing a widow",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s549_bolly",
+      "emotion": "shame",
+      "dialogue": "Only after they discovered I knew the true meaning of life If it were you, I will not be anywhere I would be lost on the road of shame You changed my only destiny Only after they found out I realized the true meaning of life",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "changing someone's destiny",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s550_bolly",
+      "emotion": "shame",
+      "dialogue": "For what? Is your sister? Look, I'm a poor businessman. This is Bombay. Do not knead in the confusion of others. Shame on you! You are not quite human. Where ...? A true man is one who retains the honor of the lady, ex? What are you doing? Let her go.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting a woman",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s551_bolly",
+      "emotion": "shame",
+      "dialogue": "Considering all aspects of the case ...and arguments of the defense, the court issued a verdict ...that the accused killed Shambu Birdzhu. The courts in accordance with Indian laws ...Shambu ordered to imprisonment for life. I did not see the cloth out? Shameless creature. Me? You are shameless. - You are. I bathe in it. Nobody has seen me at all! - What did I do?",
+      "target_person": "Shambu",
+      "target_gender": "male",
+      "cause_raw": "Accused of murder",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s552_bolly",
+      "emotion": "shame",
+      "dialogue": "The courts in accordance with Indian laws ...Shambu ordered to imprisonment for life. I did not see the cloth out? Shameless creature. Me? You are shameless. - You are. I bathe in it. Nobody has seen me at all! - What did I do? Do not tell anyone. - Why not?",
+      "target_person": "Shambu",
+      "target_gender": "male",
+      "cause_raw": "breaking the law",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s553_bolly",
+      "emotion": "shame",
+      "dialogue": "Sit normal as others. What are you doing? - What are they doing? How shameless! - Speaking for others it is insolence. October Look! Broad sits there.",
+      "target_person": "character being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "not conforming to social norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s554_bolly",
+      "emotion": "shame",
+      "dialogue": "You are very bad. - Who are you? I manage this hotel. - I see. She is the one that sucks. Are you not ashamed to sit in the lap of a stranger? No, never hijack someone here ... - Enough upravitelyu. Are you threatening me? Call the police.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior with a stranger",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s555_bolly",
+      "emotion": "shame",
+      "dialogue": "Much respect it. Slaroop, never so wrong. - I heard everything. I really feel ashamed. - What? She walked away. Not Slaroop. You can find it and return it back at any cost. Our duty is,",
+      "target_person": "Slaroop",
+      "target_gender": "male",
+      "cause_raw": "losing something",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s556_bolly",
+      "emotion": "shame",
+      "dialogue": "Now it hurts more - a little. How will I live ...'Without you? \" Your death ...\"Put my life in shame.\" We need to cry blood ...\"Every time I miss you\" They rose, all these years.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "loss of a loved one",
+      "theme_label": "Romantic Expression"
+    }
+  ]
+}

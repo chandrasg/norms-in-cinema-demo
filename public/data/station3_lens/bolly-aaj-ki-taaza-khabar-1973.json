@@ -1,0 +1,95 @@
+{
+  "film": {
+    "id": "82177",
+    "title": "Aaj Ki Taaza Khabar",
+    "year": "1973",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2Ej93yLfg1g3AqyU4RGdTcqQRKL.jpg",
+    "overview": "Sunil Mehta is a businessman married to a pretty and loving wife, Geeta.  Sunil's only problem is she is easily led to suspicion.  One day while returning from office, Sunil is attracted by the sight of a wayside carnival and decides to try the Giant Wheel drive reminiscing his childhood days.  Unfortunately, Sunil gets stuck in mid-air due to a mechanical problem in the Giant Wheel and is unable to return home till the next morning.  Geeta suspects Sunil is seeing someone else and even though Sunil says the truth to Geeta, she doesn't believe it and so starts a hilarious and twisted tale that engulfs three happily married couples."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3945_bolly",
+      "emotion": "shame",
+      "dialogue": "Who? - My best friend. Boy or girl? - If it was a girl, wouldn't it be fun? Shameless. - Listen! You are unnecessarily doubting me, he was a boy. We have spent some beautiful days together.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being friends with a girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3946_bolly",
+      "emotion": "shame",
+      "dialogue": "Wait. The soap is here. Can't you see? The soap was just an excuse. - Don't you feel ashamed? Why should I feel ashamed to love my wife? Can't I even hug you? - No.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "physical intimacy in public",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3947_bolly",
+      "emotion": "shame",
+      "dialogue": "The soap is here. Can't you see? The soap was just an excuse. - Don't you feel ashamed? Why should I feel ashamed to love my wife? Can't I even hug you? - No. Then you hug me. Someone has come.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "physical intimacy in public",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3948_bolly",
+      "emotion": "shame",
+      "dialogue": "How can we stop when a beauty smiles and beckons us How can we spurn the one who comes in our arms Don't you feel ashamed? Then you also hear this, even I will roam the streets all dressed up And how you will feel after that, I will ask you only",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3949_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey! What's going on? Let's leave. - Wait. There is a limit to shamelessness. I thought you were a decent guy. No, I... let's go. Don't you feel ashamed to openly express love to another woman?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "expressing love to another woman while being in a relationship",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3950_bolly",
+      "emotion": "shame",
+      "dialogue": "There is a limit to shamelessness. I thought you were a decent guy. No, I... let's go. Don't you feel ashamed to openly express love to another woman? Another woman? How can you say that? - Because I know his wife. What is she talking about? - I'll tell you.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "expressing love to another woman while being married",
+      "theme_label": "Romantic Expression"
+    }
+  ]
+}

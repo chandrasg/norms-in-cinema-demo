@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "503928",
+    "title": "Mahabharat",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xaSz9jaFaYQqPDWFAE4MAgZNXpt.jpg",
+    "overview": "Mahabharat is considered as the greatest and the longest epic in world literature It has all the possible elements that a story could have - conflict, duty, sacrifice, heroism, truth, justice, romance, adventure, fantasy and relationships - making it truly an all-encompassing fascinating saga."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1795_bolly",
+      "emotion": "pride",
+      "dialogue": "Hail King Dritharashtra! Attention please! The pride and honor of the Kauravas and Pandavas....respected Grandsire Bheeshma is on his way. Long live Grandsire Bheeshma! Long live Grandsire Bheeshma!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1796_bolly",
+      "emotion": "pride",
+      "dialogue": "I won you from Dharmaraj in a game of dice. Dharmaraj, you had no right to wager me. What happened to your pride? - They are my slaves and you too. Obey me. Undress and sit on my lap. You are insulting a married woman, Duryodhan.",
+      "target_person": "Duryodhan",
+      "target_gender": "male",
+      "cause_raw": "winning a game of dice",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p1797_bolly",
+      "emotion": "pride",
+      "dialogue": "This union will make you more powerful. - I don't need such a union. Duryodhan, such arrogance is not good. Arrogance is the pride of Emperors. I can't let it go. That means you won't give away half the kingdom. If they have the strength, they can make war and get it.",
+      "target_person": "Duryodhan",
+      "target_gender": "male",
+      "cause_raw": "his power and status as an emperor",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1798_bolly",
+      "emotion": "pride",
+      "dialogue": "I think I'll have to do something about it. Well done, son. You will make the Pandavas proud. I am proud of you. The scared enemies conspired against him. Only cowards stab the brave in the back.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "bravery",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

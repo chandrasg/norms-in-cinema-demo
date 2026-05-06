@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "171004",
+    "title": "Mandi",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/euu0sbaZnW0ryCHKAjZfdGLeIQR.jpg",
+    "overview": "The denizens of a brothel deal with internal drama, as well as pressure from greedy land developers and an anti-sex work politician to leave town."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "s4738_bolly",
+      "emotion": "shame",
+      "dialogue": "Hello I am not feeling well, can't get up I am so ashamed and regretful It's a funny world Our very own people are suffering because of us",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "causing suffering to own people",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s4739_bolly",
+      "emotion": "shame",
+      "dialogue": "What's going on? Leave me! Shameless! You are being paid properly and yet you misbehave! We will not work -Why not? We will not work - you have to",
+      "target_person": "employee",
+      "target_gender": "unclear",
+      "cause_raw": "misbehavior at workplace",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4740_bolly",
+      "emotion": "shame",
+      "dialogue": "You should have thought about it earlier You need money! You think I am so degraded and shameless? I treated her like my daughter What if she runs away with your son?",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "financial instability",
+      "theme_label": "Poverty"
+    }
+  ]
+}

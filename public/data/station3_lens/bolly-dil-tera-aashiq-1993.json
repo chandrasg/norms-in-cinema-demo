@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "161410",
+    "title": "Dil Tera Aashiq",
+    "year": "1993",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/iTk4hNCV4L7MvJ7a4riAoZhElaP.jpg",
+    "overview": "Wealthy Thakur Ranvir Singh Chaudhary never forgave his late sister Radha for marrying a poor man. After her death, he reluctantly takes in her children—Vijay, Bittu, and Gudiya.  Desperate for work, Soniya disguises herself as elderly Savitri Devi to become a governess for the children while also teaching dance. She meets Vijay, and they fall in love, but Thakur, unaware of her true identity, finds himself drawn to Savitri."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1191_bolly",
+      "emotion": "shame",
+      "dialogue": "Will the river of my heart and yours...... ever have a confluence? \"Tell me oh Radha.\"\"\" No... never!! Oh what a shame. Why are you laughing like a crazy on...... some one is seriously in trouble and you are joking. I'm not joking, the life has played a joke on him.",
+      "target_person": "Radha",
+      "target_gender": "female",
+      "cause_raw": "rejecting a romantic proposal",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1192_bolly",
+      "emotion": "shame",
+      "dialogue": "- Who are you? - They call me `Jawani Diwani' I'm a minor poet. But when I saw you I was crazy...\"What a walk, what hair\" and style and what cheeks. - Will you have some beetle leaf? - No.- Listen lady...\"You are after me, aren't you \" ashamed even at this age...Don't talk to me like this. \"You beauty, your style...\"... your attractiveness is making me go crazy. lts making me feel weak, and astonishing me. Its agonizing me and I'm getting out of control.",
+      "target_person": "Jawani Diwani",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior and comments",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p620_bolly",
+      "emotion": "pride",
+      "dialogue": "You even forgot that love is such a relation like a precious...... diamond which can be bought only by love. No wealth in this world can buy it. And you have lost everything blinded with the pride of your wealth. And you haven't come back you your senses as yet. Kumar you are forgetting you are standing in my house.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

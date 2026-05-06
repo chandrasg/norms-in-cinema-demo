@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "115943",
+    "title": "Banaras",
+    "year": "2006",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/7wn0aMUZiL8qZbMehvQQyyvnoKQ.jpg",
+    "overview": "Banaras: A Mystic Love Story is the name of an Indian Bollywood film directed by Pankaj Parashar released in 2006. The film takes place in the Hindu holy city of Varanasi (the city, once known as Banaras, serves as a destination for the pilgrimage of millions of Hindu worshippers annually) and is centered around the relationship of a young woman with her parents and her lover. The storyline also has a strong religious dimension. Most of the film was shot in Varanasi, with some scenes shot in Mauritius."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s394_bolly",
+      "emotion": "shame",
+      "dialogue": "Then you should congratulate him. LooK, to what heights he has reached. Uncle has no shame! Shwetambari is my sister. She was dancing with him! You did not see it. But people were talKing about it.",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior with niece",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s395_bolly",
+      "emotion": "shame",
+      "dialogue": "When did you grow up so much that you did not......consider it necessary to taKe my permission? I... I...what! You should be ashamed! You have betrayed our trust! But I haven't done anything... that would be......a shameful thing for me and you. Hiding in Sarnath's runes! His head in your lap!",
+      "target_person": "character in question",
+      "target_gender": "female",
+      "cause_raw": "betraying trust and engaging in romantic activities without permission",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s396_bolly",
+      "emotion": "shame",
+      "dialogue": "I... I...what! You should be ashamed! You have betrayed our trust! But I haven't done anything... that would be......a shameful thing for me and you. Hiding in Sarnath's runes! His head in your lap! I... that... Soham had a Kind of...Now you will never meet Soham.",
+      "target_person": "Unnamed Female Character",
+      "target_gender": "female",
+      "cause_raw": "Infidelity",
+      "theme_label": "Dishonesty"
+    }
+  ]
+}

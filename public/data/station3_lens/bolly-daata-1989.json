@@ -1,0 +1,158 @@
+{
+  "film": {
+    "id": "507645",
+    "title": "Daata",
+    "year": "1989",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xqy6FtqfYTmV2K7Moh0XcntTiIo.jpg",
+    "overview": "Kundan is the son of a honorable teacher recognized for his contributions to the community, and is a poet himself. When his sister's marriage is arranged to a goon's son and later falls apart due to dowry demands, he needs to take revenge. His actions will lead to the death of his closest ones and he will turn into a rebel."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s879_bolly",
+      "emotion": "shame",
+      "dialogue": "My father was an honest man. But he made him a wrong man. He put the shroud of shame on him. But Lala... I won't let go of you now. Come!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "being made to appear dishonest",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s880_bolly",
+      "emotion": "shame",
+      "dialogue": "That you plunder the people with the gun. And I plunder them with my sweet talk. Shameless! I will always preserve this gift of love. And I will preserve you unfaithfulness.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "deceit and manipulation",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s881_bolly",
+      "emotion": "shame",
+      "dialogue": "'You are known in the market of flesh trade.' 'You are trying to stop me from drinking.' 'How shameless is your tongue! ' 'How shameless is your tongue! ' 'Stop drinking... stop.'",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "involvement in flesh trade",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s882_bolly",
+      "emotion": "shame",
+      "dialogue": "'You are trying to stop me from drinking.' 'How shameless is your tongue! ' 'How shameless is your tongue! ' 'Stop drinking... stop.' 'Break away from this intoxication... break away.'",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "alcohol addiction",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "p435_bolly",
+      "emotion": "pride",
+      "dialogue": "Mr. Kundan. Brothers and sisters, Kundan is the son of......respected master Dinanath. He has topped the exam of B.A. In the state level and......he has made this college proud. I would like to give him this certificate of merit......this award and Rs. 1001 from me as a reward. Brothers and sisters, if the son has topped in the state level.",
+      "target_person": "Mr. Kundan",
+      "target_gender": "male",
+      "cause_raw": "Academic achievement",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p436_bolly",
+      "emotion": "pride",
+      "dialogue": "Then why should his farther lack behind. Come master Dinanath, please come. Friends, I am proud to announce that......master Dinanath's book 'Daata tere kai naam' and......it's melodies which is being sung in every corner of......our country today and which you all have heard just now. The government of India has declared this melody as......the best melody of unity and this book as......the best book of the year and I would like to present him......with this certificate of honour and a shawl. And now I will gift this pen to master Dinanath for his truth......his dedication and his sincerity.",
+      "target_person": "master Dinanath",
+      "target_gender": "male",
+      "cause_raw": "writing the best book of the year and creating the best melody of unity",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p437_bolly",
+      "emotion": "pride",
+      "dialogue": "Wow! It is amazing! Along with the kicks, the priest will also stamp you, my dear. Kundan, you are very proud of your poems, aren't you? Do you have any doubts? Fine, tell such a poem that will make her open the window.",
+      "target_person": "Kundan",
+      "target_gender": "male",
+      "cause_raw": "his poems",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p438_bolly",
+      "emotion": "pride",
+      "dialogue": "'You are my self-respect.' 'You are my dignity.' 'You are the pride of our friendship.' 'Whatever may come our way but our friendship....will always continue.' 'Give me a clap.'",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Friendship",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p439_bolly",
+      "emotion": "pride",
+      "dialogue": "You refuse them. I am not one of those, Lala. My principles are my self pride. Neither can my self pride be sold nor can anyone bribe my son. Then it is fine master.",
+      "target_person": "master",
+      "target_gender": "male",
+      "cause_raw": "adherence to principles",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p440_bolly",
+      "emotion": "pride",
+      "dialogue": "I am not one of those, Lala. My principles are my self pride. Neither can my self pride be sold nor can anyone bribe my son. Then it is fine master. Take the lamp of your sincerity and roam in the lanes.",
+      "target_person": "master",
+      "target_gender": "male",
+      "cause_raw": "principles and integrity",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p441_bolly",
+      "emotion": "pride",
+      "dialogue": "Shanti! Wow Gopu! You have kept the pride of our friendship. What a plan it was! You made similar kind of copper ornaments and......coated it with gold.",
+      "target_person": "Gopu",
+      "target_gender": "male",
+      "cause_raw": "clever plan and execution",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

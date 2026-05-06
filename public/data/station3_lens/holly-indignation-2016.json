@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "340611",
+    "title": "Indignation",
+    "year": "2016",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/2xNGhpg7BoQZIh6ufGNaRRPv706.jpg",
+    "overview": "In 1951, Marcus Messner, a working-class Jewish student from New Jersey, attends a small Ohio college, where he struggles with anti-Semitism, sexual repression, and the ongoing Korean War."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS856_holly",
+      "emotion": "shame",
+      "dialogue": "So, I went up to my father and I said \"Boss,\"I always called him \"Boss,\"  I said, \"Boss, I can't clean the garbage cans anymore.\"  You were ashamed?  No. No, you see, that's what he thought.  To me, it was practical.",
+      "target_person": "Boss",
+      "target_gender": "male",
+      "cause_raw": "not willing to do a certain job",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS857_holly",
+      "emotion": "shame",
+      "dialogue": "I could have guessed.  So what did your father say? Did he let you off the hook?  No. He said, \"What, you're ashamed?\"  What are you ashamed of? All you have to be ashamed of is stealing.  Nothing else.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "WS858_holly",
+      "emotion": "shame",
+      "dialogue": "So what did your father say? Did he let you off the hook?  No. He said, \"What, you're ashamed?\"  What are you ashamed of? All you have to be ashamed of is stealing.  Nothing else.  \"Clean the cans.\"",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "WS859_holly",
+      "emotion": "shame",
+      "dialogue": "Oh, f**k you it is!  (Wentz) To what do we owe this outbreak of moral laxity?  To what do we owe this shameful fall from grace,  and from Winesburg tradition?  A drunken brawl outside The Owl this weekend.",
+      "target_person": "Wentz",
+      "target_gender": "male",
+      "cause_raw": "drunken brawl and moral laxity",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "WP1568_holly",
+      "emotion": "pride",
+      "dialogue": "I didn't ask about your grades.  I know your grades.  You have every right to be proud of them,  as I've already told you.  Well, then you know the answer to your question",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "good grades",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

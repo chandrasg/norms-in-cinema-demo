@@ -1,0 +1,118 @@
+{
+  "film": {
+    "id": "76684",
+    "title": "Masti",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2cUfjsn5uCiDiTdkjiEQM2HXYLg.jpg",
+    "overview": "Three henpecked friends try to escape their unhappy marriages by seeking out some extramarital fun, only to end up being blackmailed."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3590_bolly",
+      "emotion": "shame",
+      "dialogue": "Let me introduce you to my darling. This is Prem! In such matters, I'm a worshipper of love Love on the open streets...? What a shame! What's so shameful about it? Prem and I've been buddies since we were in college",
+      "target_person": "Prem",
+      "target_gender": "male",
+      "cause_raw": "Public display of affection",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3591_bolly",
+      "emotion": "shame",
+      "dialogue": "In such matters, I'm a worshipper of love Love on the open streets...? What a shame! What's so shameful about it? Prem and I've been buddies since we were in college You mean, you love each other from so many days?",
+      "target_person": "characters expressing love",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love in public",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3592_bolly",
+      "emotion": "shame",
+      "dialogue": "For the first time, he has asked me for help You tell me. How will I help him? How...?What are you doing...? We got to help him No, Aanchal! No! I'm not one of those shameless men...who will distribute their wives' money among their own friends But whatever I possess is yours too No, Aanchal! I can never take money from my wife!",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "taking money from his wife",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3593_bolly",
+      "emotion": "shame",
+      "dialogue": "Isn't that what you thought? But you have no idea. A woman can hate you...as much as she loves you. And when the time comes...she can even take the form of Bellona And you guys! Shame on you Not friends, you are monsters It's so disgusting! I know, you guys must've mislead him",
+      "target_person": "friends",
+      "target_gender": "male",
+      "cause_raw": "misleading and betraying trust",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3594_bolly",
+      "emotion": "shame",
+      "dialogue": "Come on! What are you doing? Nothing sir. Not me They are at it. Look. What a shame Times have changed. I feel like puking. Apocalypse You? Here? I'm here to meet my friend",
+      "target_person": "unidentified characters",
+      "target_gender": "unclear",
+      "cause_raw": "unspecified shameful act",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3595_bolly",
+      "emotion": "shame",
+      "dialogue": "I can't open it. Did the old hag change the combination? Where are you? Bloody diaper boys! Aren't you ashamed? Which gang do you belong to? Diaper gang? Gotcha!",
+      "target_person": "gang members",
+      "target_gender": "male",
+      "cause_raw": "being incompetent",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1918_bolly",
+      "emotion": "pride",
+      "dialogue": "We always weep when we listen to you As if we aren't weeping right now! Think One smile from a beautiful girl makes us puff our chests in pride But imagine what would happen if a girl not only smiled...but also said a few loving words to us? What if she had hugged us? What if she had given us a kiss?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "receiving affection from a beautiful girl",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

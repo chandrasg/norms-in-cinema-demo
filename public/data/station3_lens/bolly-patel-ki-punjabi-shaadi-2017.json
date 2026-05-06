@@ -1,0 +1,130 @@
+{
+  "film": {
+    "id": "471364",
+    "title": "Patel Ki Punjabi Shaadi",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/nNj2PPUeN0nHXSveCDwBPZX29xX.jpg",
+    "overview": "Comedy movie is about a Punjabi and Gujarati family. and their cultural clash. Gujarati is played by Paresh Rawal and Punjabi Played by Rishi Kapoor."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 9
+  },
+  "themes": [
+    {
+      "label": "Cultural Identity",
+      "count": 4
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1316_bolly",
+      "emotion": "shame",
+      "dialogue": "will you wipe their tears off? How can you say that? You should be ashamed of yourself. Stop crying, you idiot! Now listen to me.",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "lack of empathy",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p700_bolly",
+      "emotion": "pride",
+      "dialogue": "TVchannels, e-mail, Facebook, Twitter. These new age things are attacking our culture and we must save our culture and defend our pride against them. Like you know, we don't allow liquor and meat in the Adarsh Gujarati Society.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "preserving traditional culture",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p701_bolly",
+      "emotion": "pride",
+      "dialogue": "Punjabis are magnanimous and generous! Did I ever say I was a Punjabi? Proud to be a Gujarati. That's the trouble. It's like cumin seeds in whiskey.",
+      "target_person": "speaker 2",
+      "target_gender": "male",
+      "cause_raw": "being a Gujarati",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p702_bolly",
+      "emotion": "pride",
+      "dialogue": "What are you doing here? - Hi. Why are you following me everywhere? I came here to learn about the pride of Gujarat. Trust me. - Trust in you? Forget old news. Here's something new.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p703_bolly",
+      "emotion": "pride",
+      "dialogue": "Hail the holy cow. - True. Who am I? - Kantibhai. Kantibhai Goradia. The pride of Gujaratis! I spend millions to collect antique artifacts of Gujarat. I own seven cow shades",
+      "target_person": "Kantibhai Goradia",
+      "target_gender": "male",
+      "cause_raw": "collecting antique artifacts of Gujarat and owning seven cow shades",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p704_bolly",
+      "emotion": "pride",
+      "dialogue": "The problem solved. He gets five million. - Correct. He won't accept help from us. - Correct. He'll lecture us about Gujarati pride. Is he around? Here I am.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "Gujarati pride",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p705_bolly",
+      "emotion": "pride",
+      "dialogue": "you will at least get...A box? - Not a box. - Then? Ten million. Or five million at the minimum. This is the pride of Gujarat. Our pride? You want me to sell it? My conscience says no.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p706_bolly",
+      "emotion": "pride",
+      "dialogue": "Ten million. Or five million at the minimum. This is the pride of Gujarat. Our pride? You want me to sell it? My conscience says no. Do you want to persuade your conscience or Kantibhai?",
+      "target_person": "Kantibhai",
+      "target_gender": "male",
+      "cause_raw": "not selling the pride of Gujarat",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p707_bolly",
+      "emotion": "pride",
+      "dialogue": "A school. - A school. Such an old plate. - Where did you find it? This is what you call the pride of Gujarat. Something you should be proud of. Are you blind or something? Look, what you have done!",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "heritage of Gujarat",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p708_bolly",
+      "emotion": "pride",
+      "dialogue": "Such an old plate. - Where did you find it? This is what you call the pride of Gujarat. Something you should be proud of. Are you blind or something? Look, what you have done! This is my mother, 500 years old.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "heritage and culture",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

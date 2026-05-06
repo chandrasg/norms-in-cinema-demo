@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "305819",
+    "title": "Yeh Raaste Hain Pyaar Ke",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/sg9gpuKn8XAQKAkBlORzbzg15X4.jpg",
+    "overview": "Two con artistes and car thieves, Vicky and Sakshi, are faced with death when they accidentally kill Bhanwarlal's brother. Bhanwarlal and his other brother both swear to avenge the death of their brother and mistakenly kill Rohit Verma, who is a look-alike of Vicky."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4617_bolly",
+      "emotion": "shame",
+      "dialogue": "He's my love. Very soon, we'll get married. Did you hear? Shamelessly she talks to love and marriage! Your parents passed away. If we hadn't taken care of you, you'd be nowhere!",
+      "target_person": "orphan girl",
+      "target_gender": "female",
+      "cause_raw": "expressing love and desire to marry",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4618_bolly",
+      "emotion": "shame",
+      "dialogue": "I am not to be blamed I am not in my senses 'You looked at me with such love..''Looked with love'' I broke all lines of shame Lines of shame..''God knows what you served me..'' 'You lit a fire in every pore",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "losing self-control",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4619_bolly",
+      "emotion": "shame",
+      "dialogue": "'You looked at me with such love..''Looked with love'' I broke all lines of shame Lines of shame..''God knows what you served me..'' 'You lit a fire in every pore God alone knows what will happen now",
+      "target_person": "character being looked at",
+      "target_gender": "female",
+      "cause_raw": "crossing boundaries of modesty",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s4620_bolly",
+      "emotion": "shame",
+      "dialogue": "What is the matter? My Papa is here! Forgive your foolish father for not realising that...a parent's happiness lies in seeing a child happy Greetings, Mr Sharma. - Mr Verma, I'm ashamed...for my misbehaviour. I insulted you. Forgive me if you can Mr Sharma, let's forget the past Neha my child, won't you show your Papa around your house?",
+      "target_person": "Mr. Sharma",
+      "target_gender": "male",
+      "cause_raw": "Insulting and misbehaving with Mr. Verma",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4621_bolly",
+      "emotion": "shame",
+      "dialogue": "Has Sakshi found her boyfriend? - She will Oh yes, she will So it's you! Why are you staring? Aren't you ashamed? I want to tell you a story. - No! Not a story, please I want to make love to you, to my heart's content",
+      "target_person": "Sakshi's boyfriend",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

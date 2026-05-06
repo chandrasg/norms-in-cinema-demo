@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "20360",
+    "title": "Namastey London",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN|GB",
+    "poster_path": "/dO0F66lM1jehIH5bsooKSbdz7xG.jpg",
+    "overview": "On a trip to India, Jasmeet's father forcefully marries her off to Arjun. However, when they return to London, Jasmeet announces her intention of marrying her boyfriend, Charlie Brown."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3757_bolly",
+      "emotion": "shame",
+      "dialogue": "All this is your fault . You married this simple  girl  from Punjab and left her there to suffer for four years...You brought me to London and told  me that this is our new home...you never took me out because I was too rustic...because you were ashamed to be seen with me in public . <i>I know these jeans don't look good on these Indian legs.</i> I also  know my English  is very bad.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "being rustic and not sophisticated",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s3758_bolly",
+      "emotion": "shame",
+      "dialogue": "But I had to do it for you. <i>Because I didn't want an Indian like you...</i> to be ashamed of being seen with our daughter <i>That's why I raised her to be more British than Indian.</i> So...you could  have told  me all this nicely , you know...there was no need to get so angry!",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "not being British enough",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3759_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>Don't complain  later...</i> <i>Bebe, if I don't get married to her, then I will kidnap her.</i> Shameless ! <i>There is no difference between being decent or shameless ..</i> what matters is how your heart feels .",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "intending to kidnap a girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3760_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>Bebe, if I don't get married to her, then I will kidnap her.</i> Shameless ! <i>There is no difference between being decent or shameless ..</i> what matters is how your heart feels . Do you like him, Jasmeet?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "expressing intention to kidnap a girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3761_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>The advise that you gave to Jasmeet has not only  shattered her family ..</i> but...it has also  destroyed the life of an innocent man. You should  be ashamed! Enjoy the party. <i>You've made me the happiest man in the world .</i>",
+      "target_person": "Jasmeet's advisor",
+      "target_gender": "male",
+      "cause_raw": "giving harmful advice",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1988_bolly",
+      "emotion": "pride",
+      "dialogue": "Just by taking seven rounds around a sacred fire...is not accepted as a legal marriage in London. What is the legal proof that I am married? Anything can happen there. I mean, this guy can get very aggressive...''It is a matter of my pride! I  only want to marry her'' He can't do much here. He will have to go back home,  quietly. What are you saying?",
+      "target_person": "guy",
+      "target_gender": "male",
+      "cause_raw": "marrying a specific woman",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

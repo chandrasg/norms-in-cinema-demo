@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "18871",
+    "title": "Ride the Pink Horse",
+    "year": "1947",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/6oJWu5XZ5tb7EgJVmTdOlaqcsjf.jpg",
+    "overview": "A con man tries to blackmail a Mexican gangster."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1171_holly",
+      "emotion": "pride",
+      "dialogue": "So quick we drink up all the change.  - There's a lot more where it came from. - No, ml amigo.  When I see you, I say, “This is kind of fellow... more proud than you, Pancho.”  more proud than you, Pancho.”  Pancho very proud man.",
+      "target_person": "Pancho",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1172_holly",
+      "emotion": "pride",
+      "dialogue": "- There's a lot more where it came from. - No, ml amigo.  When I see you, I say, “This is kind of fellow... more proud than you, Pancho.”  more proud than you, Pancho.”  Pancho very proud man.  Oye, chafo, give everybody drink.",
+      "target_person": "Pancho",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1173_holly",
+      "emotion": "pride",
+      "dialogue": "When I see you, I say, “This is kind of fellow... more proud than you, Pancho.”  more proud than you, Pancho.”  Pancho very proud man.  Oye, chafo, give everybody drink.  Big drink for everybody. Pancho is buying!",
+      "target_person": "Pancho",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1174_holly",
+      "emotion": "pride",
+      "dialogue": "“Boom” in the mouth. “I don't know.”  I fall down, but I don't know.  I told you, Pancho very proud man.  I'm gonna cut you in, Pancho.  Cut me 'm'? On what, mi amigo?",
+      "target_person": "Pancho",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

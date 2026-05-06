@@ -1,0 +1,115 @@
+{
+  "film": {
+    "id": "425741",
+    "title": "Gundaraj",
+    "year": "1995",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cAabJw7YaeMMSxoFGG18iQRAGT5.jpg",
+    "overview": "Ajay is framed and sentenced to seven years in prison for the rape of three women. After four years he's out for good behaviour, and seeks revenge."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2258_bolly",
+      "emotion": "shame",
+      "dialogue": "I have nine bangles in my hands I have nine bangles in my hands Keep quiet, shameless girl Don't you feel ashamed to talk about your own marriage Hurry up, son otherwise you will get late, and listen",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "talking about her own marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2259_bolly",
+      "emotion": "shame",
+      "dialogue": "I have nine bangles in my hands Keep quiet, shameless girl Don't you feel ashamed to talk about your own marriage Hurry up, son otherwise you will get late, and listen There is a famous goddess temple there",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "talking about her own marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2260_bolly",
+      "emotion": "shame",
+      "dialogue": "Such a person should be shot dead before everyone What's need to find out about such a son He has put his father to damn shame You are right uncle Dheenu If it was my son I would have strangled him",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "causing shame to his father",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2261_bolly",
+      "emotion": "shame",
+      "dialogue": "But look at his courage Having a grown up sister He should have been ashamed to do such a treacherous deed Yes, yes he should feel ashamed off Come",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "committing a treacherous act while having a grown-up sister",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2262_bolly",
+      "emotion": "shame",
+      "dialogue": "Having a grown up sister He should have been ashamed to do such a treacherous deed Yes, yes he should feel ashamed off Come Rascal, in front of girls college you are acting as a gangster",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "behaving inappropriately in front of a girls' college",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2263_bolly",
+      "emotion": "shame",
+      "dialogue": "Listen, if he doesn't present himself here by tomorrow morning I will treat you so badly That you will be ashamed to show your face in the neighborhood Inspector, leave my family I will release them after the court's verdict",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "not following the law",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p1169_bolly",
+      "emotion": "pride",
+      "dialogue": "Your father couldn't bear the taunts of the society! And how could he bear it? The son who was his life and who was his pride. About whom the society talked so badly. He committed suicide!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's reputation",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

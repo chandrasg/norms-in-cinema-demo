@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "82595",
+    "title": "Bandini",
+    "year": "1963",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/oRb3wtRUzPtGTEtjLNusu7z4kt2.jpg",
+    "overview": "In 1930s British-ruled Bengal, a prison-doctor falls in love with a convicted murderer with past connections to a freedom fighter."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s415_bolly",
+      "emotion": "shame",
+      "dialogue": "You! What are you doing here? You were secretly overhearing our conversation! Shameless! - What's the matter, Shivani? Who're you getting angry on? - You sit calmly! She's a shameless maid! I'll teach her a lesson today!",
+      "target_person": "maid",
+      "target_gender": "female",
+      "cause_raw": "eavesdropping",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s416_bolly",
+      "emotion": "shame",
+      "dialogue": "Shameless! - What's the matter, Shivani? Who're you getting angry on? - You sit calmly! She's a shameless maid! I'll teach her a lesson today! I'll complain to the doctor about you! I'll get you thrown out of here! Get lost!",
+      "target_person": "maid",
+      "target_gender": "female",
+      "cause_raw": "not performing duties properly",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p183_bolly",
+      "emotion": "pride",
+      "dialogue": "For this work, very often he had to stay out many days. But dad never stopped or restricted him. He was proud of him. Once, 10 miles away from a village....a flood occurred at the river due to rains. Brother immediately went there with his group.",
+      "target_person": "dad",
+      "target_gender": "male",
+      "cause_raw": "son's dedication to work",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "48127",
+    "title": "The North Star",
+    "year": "1943",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/zENGbNnvBLJNOHxRYpQBoSiX3Ku.jpg",
+    "overview": "A Ukrainian village must suddenly contend with the Nazi invasion of June 1941.  Later re-edited and released as \"Armored Attack.\""
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Academic Success",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS893_holly",
+      "emotion": "shame",
+      "dialogue": "Of course.  It'd make me sad if you didn't --  and ashamed.  But it wouldn't matter.  I'd go anyway.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "choosing to leave despite causing sadness",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS894_holly",
+      "emotion": "shame",
+      "dialogue": "Oh! I shouldn't be talking this way!  I know it!  You're all ashamed of me.  You are what you are, Clavdia.  It is my opinion that the trouble in the world",
+      "target_person": "Clavdia",
+      "target_gender": "female",
+      "cause_raw": "being herself/ her behavior",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP1623_holly",
+      "emotion": "pride",
+      "dialogue": "I was being foolish.  I only wanted to be with you.  I'm proud you got the scholarship, of course.  You'll be a great man,  and the whole district will be proud of you.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "getting a scholarship",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP1624_holly",
+      "emotion": "pride",
+      "dialogue": "I'm proud you got the scholarship, of course.  You'll be a great man,  and the whole district will be proud of you.  You'll have medals.  I think we'll go to the theater every night.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "getting a scholarship",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

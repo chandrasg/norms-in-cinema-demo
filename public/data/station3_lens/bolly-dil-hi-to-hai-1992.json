@@ -1,0 +1,124 @@
+{
+  "film": {
+    "id": "269621",
+    "title": "Dil Hi To Hai",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/3Hh08NUBC1CJriCOssWeUIVbVpd.jpg",
+    "overview": "Twins Govardhan & Harshvardhan exchange their names in childhood and decide to live each others life forever without the knowledge of their parents but what will happen when their strict father will come to know about this. Loosely based on 'Coming To America' starring Eddie Murphy"
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1158_bolly",
+      "emotion": "shame",
+      "dialogue": "- That's just what I'm doing. - Then you'll tell me...if the formula is correct or not. For 15 years, that's the formula we've been trying to teach you. Govardhanji, aren't you the least ashamed? Why should I be ashamed? I'm not sitting nude, am I? Toothpaste",
+      "target_person": "Govardhanji",
+      "target_gender": "male",
+      "cause_raw": "lack of knowledge/education",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1159_bolly",
+      "emotion": "shame",
+      "dialogue": "For 15 years, that's the formula we've been trying to teach you. Govardhanji, aren't you the least ashamed? Why should I be ashamed? I'm not sitting nude, am I? Toothpaste Water",
+      "target_person": "Govardhanji",
+      "target_gender": "male",
+      "cause_raw": "not learning or improving",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1160_bolly",
+      "emotion": "shame",
+      "dialogue": "It is your duty to accept. - What if I don't accept? - It would be an insult to the king. I am ashamed, Your Majesty. I grieve to see Prince Harshvardhan behaving in this manner. What in the world have I denied him? My wealth, my status and my throne!",
+      "target_person": "Prince Harshvardhan",
+      "target_gender": "male",
+      "cause_raw": "not accepting the king's orders",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1161_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't you look before you leap? My shoe...?Watch it, Sooty. What are you up to? - Aren't you ashamed? - I'm abashed! I help him, and that's the way he talks to rne! What a place! I lose my shoe as soon as I step in here!",
+      "target_person": "Sooty",
+      "target_gender": "male",
+      "cause_raw": "careless behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1162_bolly",
+      "emotion": "shame",
+      "dialogue": "Carry on. In the meantime, let rne collect. Run! You shameless girl! So this is why you ran away from home! Here you are in this dirty slum, dancing with a washer man! I didn't come here to make merry. I love Raja.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "eloping and choosing her own partner",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1163_bolly",
+      "emotion": "shame",
+      "dialogue": "You have given rne so much love and respect. But my husband has never given rne the status of his wife. I am ashamed to speak of this. But I must say this. It's my duty to give you an heir. I did all this to win my husband's love.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "not being treated as a wife by her husband",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1164_bolly",
+      "emotion": "shame",
+      "dialogue": "And you led him astray. I took you for a well-wisher. And you landed him in jail! Shame on you! For the rest of your life, you can dream about...becoming the king of Vikramgarh. You've dashed all my hopes. In a slum! Of all places!",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "betrayal and causing harm to another",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p579_bolly",
+      "emotion": "pride",
+      "dialogue": "You love me, don't you? - Happy? - Elated! I'm proud of you! Prince Harshvardhan, you will be punished for this rebellion. Wait...But Your Highness...I will not hear a word. All my life you have spoken.",
+      "target_person": "Prince Harshvardhan",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

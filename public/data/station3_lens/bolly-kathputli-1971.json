@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "623560",
+    "title": "Kathputli",
+    "year": "1971",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/j3wGYXd9OjmuHd7hP05kBZv5WrX.jpg",
+    "overview": "A woman secretly gives birth to a child after being raped by her boss and hides the truth from her husband."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3027_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't ask anything. People thrashed him black and blue! His entire luggage was thrown away. He was humiliated so badly, still he was shameless. He saluted me while leaving. Only those people are humiliated......who have some respect.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "lack of respect",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3028_bolly",
+      "emotion": "shame",
+      "dialogue": "Had I raised him for this day! He can't live without Meena! Go to hell! Again these shameless people have come! Why didn't they drown and die! Are you Murli's mother? - Yes.",
+      "target_person": "Murli",
+      "target_gender": "male",
+      "cause_raw": "being in love with Meena",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3029_bolly",
+      "emotion": "shame",
+      "dialogue": "You guys are the free citizens of free India. And you guys don't know the law of India. It is a shameful thing. I know only one law. I will shoot you. You can't scare us with the gun......that you use to kill pigeons, daddy.",
+      "target_person": "citizens",
+      "target_gender": "unclear",
+      "cause_raw": "ignorance of law",
+      "theme_label": "Criminal Activity"
+    }
+  ]
+}

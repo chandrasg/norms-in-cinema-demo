@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "159655",
+    "title": "Parampara",
+    "year": "1993",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fXmOtJpndCBMx9qRYmwMTHHP7Vk.jpg",
+    "overview": "In a remote region in India there has been a tradition of settling differences by fighting a duel with pistols with only one bullet in each of them. Such was the duel fought by Shankar and Thakur Bhavani Singh, with the latter emerging as the victor. Years later, Bhavani's son, Prithvi, returns from London, meets Shankar's son, Gora and daughter, Tara, befriends them, and eventually both Tara and Prithvi fall in love with each other. When Bhavani finds this out, he wants Prithvi to marry Rajeshwari, who comes from a rich family, and will destroy Gora Shankar and his tribe of gypsies. Unable to make up his mind, Prithvi ends up marrying both women, leading to Tara giving birth to a son, Pratap. Bhavani is enraged when he this out, he has Tara and a lot of their people slain, and their homes torched. Gora himself is arrested by the police, and sentenced to several years in prison..."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5035_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes! What is it? - Death's knell! Don't be afraid? Why should I be ashamed of being afraid? Brother! - What? Wasn't for you, Mr. Shukla.",
+      "target_person": "Mr. Shukla",
+      "target_gender": "male",
+      "cause_raw": "showing fear",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p2836_bolly",
+      "emotion": "pride",
+      "dialogue": "Come, let's walk in the shade (of love). Come, let's walk in the shade (of love). The royal flower stands upright with pride. Only its fragrance gives its place away. The royal flower stands upright with pride.",
+      "target_person": "<royal flower",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2837_bolly",
+      "emotion": "pride",
+      "dialogue": "The royal flower stands upright with pride. Only its fragrance gives its place away. The royal flower stands upright with pride. Only its fragrance gives its place away. I shall wear it like a charm if I get it as a divine gift.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2838_bolly",
+      "emotion": "pride",
+      "dialogue": "I shall wear it like a charm if I get it as a divine gift. I shall wear it like a charm if I get it as a divine gift. The royal flower stands upright with pride. I shall wear it like a charm if I get it as a divine gift. I shall wear it like a charm if I get it as a divine gift.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

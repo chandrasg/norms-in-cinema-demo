@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "161238",
+    "title": "Judwaa",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/hC1prtsvTKSUh6FzRun7zD0XXUB.jpg",
+    "overview": "Identical twins Raja and Prem are separated at birth and raised in drastically different backgrounds. While Prem becomes a singer in the USA, Raja's life leads him to become a tough-talking thug in India. When Prem comes to India, who's who confusion brews and leads to hilarious consequences."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2802_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you hiding? Come here. How can I? They'll bash me up! What a shame! A grown-up boy getting scared of a beating! Watch it, ok? She's my sister. Your sister is my sister. Don't worry.",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "fear of physical confrontation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2803_bolly",
+      "emotion": "shame",
+      "dialogue": "Start it. My God! What a calamity! I hope you aren't hurt, sir. What a shame! Having taken birth in the holy land of India, this chap....instead of slogging like a mule and living like a dog....is into thievery! Who the hell are you? What's wrong with his voice? - Who is he?",
+      "target_person": "thief",
+      "target_gender": "male",
+      "cause_raw": "thievery",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s2804_bolly",
+      "emotion": "shame",
+      "dialogue": "When your brother goes out. - She'll spend time with you! And when you go out. - She'll spend time with me! Shame on you! You have an unmarried sister at home....and you're thinking of your own wedding! We thought you were talking about your brother's marriage. If this is how you guys will be, you'd better watch out!",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "thinking about their own marriage while their sister is still unmarried",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2805_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you looking at? - Brother-in-law. There's a lot of hanky-panky in the bathroom! Shameless creature! It must be my daughter and son-in-law. Do you want to watch them? Get down. Well now, my boy. Tell me.",
+      "target_person": "brother-in-law",
+      "target_gender": "male",
+      "cause_raw": "voyeurism",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p1468_bolly",
+      "emotion": "pride",
+      "dialogue": "India, I love that style. India, is happening now. India is here, we are so proud! Speak up! Go on! I'll get the truth out of you, no matter how long it takes!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "India's progress",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1469_bolly",
+      "emotion": "pride",
+      "dialogue": "You've achieved a lot, by arresting Raja's assistant! Thank you sir! The police department is proud of you! - Thank you sir! I'm very happy with you, too. - Thank you sir! Set Rangeela free immediately.",
+      "target_person": "police department",
+      "target_gender": "unclear",
+      "cause_raw": "arresting Raja's assistant",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

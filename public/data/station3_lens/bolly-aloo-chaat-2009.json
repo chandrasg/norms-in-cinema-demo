@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "20192",
+    "title": "Aloo Chaat",
+    "year": "2009",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1XoRQnF2I49c0I3pZeIj9qaC4My.jpg",
+    "overview": "What do you do when your entire family is against the bride of your choice? Do you replace your family? Or do you replace the bride? Or do you make an aloo-chaat of your life? Aloo Chaat the film, is rich in masala - with plots within sub-plots, with wisecracks dripping endlessly like that tangy chutney, and is a treat that you don't want to miss.It tickles you, shakes you, rattles you, and gags you as it takes you through the narrow lanes and equally narrow minds of orthodox Delhi parents, to a wider world of love and romance, and an unexpected twist in the tale..."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s21_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh, that. You should be proud. Your soon to-be wife has such a beautiful body. You aren't ashamed. You are feeling proud of it, instead? Yes. This is my life. -But.. but this is india. India.",
+      "target_person": "soon-to-be wife",
+      "target_gender": "female",
+      "cause_raw": "objectification of her body",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s22_bolly",
+      "emotion": "shame",
+      "dialogue": "Uncle, lets talk about this tomorrow morning. Tomorrow morning! I'll go tell him right now. You should be ashamed. -Why? Didn't you hear what the doctor said? He shouldn't receive a shock.",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "Not considering doctor's advice",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p15_bolly",
+      "emotion": "pride",
+      "dialogue": "What went wrong? Why did you disturb my sunbathing? How dare you! You are asking me, why did I bring you down? Oh, that. You should be proud. Your soon to-be wife has such a beautiful body. You aren't ashamed. You are feeling proud of it, instead?",
+      "target_person": "soon to-be husband",
+      "target_gender": "male",
+      "cause_raw": "fiancee's physical appearance",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p16_bolly",
+      "emotion": "pride",
+      "dialogue": "Oh, that. You should be proud. Your soon to-be wife has such a beautiful body. You aren't ashamed. You are feeling proud of it, instead? Yes. This is my life. -But.. but this is India. India.",
+      "target_person": "soon to-be husband",
+      "target_gender": "male",
+      "cause_raw": "wife's physical beauty",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

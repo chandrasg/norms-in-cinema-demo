@@ -1,0 +1,155 @@
+{
+  "film": {
+    "id": "336211",
+    "title": "Tanu Weds Manu: Returns",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/sO3XD6ZDZetb2N6YDQrHLTVQrfq.jpg",
+    "overview": "After Tanu and Manu's marriage breaks apart, the latter finds himself smitten by Datto, a lookalike of his ex-wife. But the estranged couple's feelings begin to spark again."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 3
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 4
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4331_bolly",
+      "emotion": "shame",
+      "dialogue": "I thought.. - What did you think? That I am Manisha Koirala? Come on, Dhatto. - Coming. Shameless...good for nothing perverts. We'll miss our bus. What happened? He was standing in the middle of the pitch.",
+      "target_person": "Dhatto",
+      "target_gender": "male",
+      "cause_raw": "Misbehaving with women",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4332_bolly",
+      "emotion": "shame",
+      "dialogue": "Manu's gone, daughter-in-law. What do you want now? Didn't you feel ashamed.....when you sent him to the mental asylum? I don't need him. In fact he needs my permission. I am still his legal wife.",
+      "target_person": "daughter-in-law",
+      "target_gender": "female",
+      "cause_raw": "sending her husband to mental asylum",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4333_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you doing this? What...what are you doing? Sister-in-law Tanu. Aren't you ashamed? Why would I be ashamed? Pappi is going crazy for you. And you want to know why you should be ashamed.",
+      "target_person": "Tanu",
+      "target_gender": "female",
+      "cause_raw": "Inappropriate behavior towards Pappi",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4334_bolly",
+      "emotion": "shame",
+      "dialogue": "Sister-in-law Tanu. Aren't you ashamed? Why would I be ashamed? Pappi is going crazy for you. And you want to know why you should be ashamed.",
+      "target_person": "Tanu",
+      "target_gender": "female",
+      "cause_raw": "Not reciprocating Pappi's feelings",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4335_bolly",
+      "emotion": "shame",
+      "dialogue": "Why would I be ashamed? Pappi is going crazy for you. And you want to know why you should be ashamed. Pappi's here too. - He's here for you. Pack your bags.",
+      "target_person": "Pappi",
+      "target_gender": "male",
+      "cause_raw": "Being obsessed with someone",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4336_bolly",
+      "emotion": "shame",
+      "dialogue": "Why do you drink so much if you can't digest it? Tanu? Weren't you ashamed? - Look, mister..Take him away! You brought these idiots back home with you. You went out to be famous. Now I'll show you. - Show me what.",
+      "target_person": "Tanu",
+      "target_gender": "female",
+      "cause_raw": "excessive drinking",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s4337_bolly",
+      "emotion": "shame",
+      "dialogue": "Either you kill them before they are born. And if she grows up, then strangle her to death. Weren't you ashamed of assaulting.....a girl that carved a niche for herself. Speak up. Why don't you Speak? You think beating these girls make you a man.",
+      "target_person": "assaulter",
+      "target_gender": "male",
+      "cause_raw": "assaulting a girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4338_bolly",
+      "emotion": "shame",
+      "dialogue": "Komal, look who's here for you. O Doctor! Wow, Mr. Sharma. I turned sordid.....but you turned completely shameless. Don't worry. I only came here to see your bride. Who is the one who did what I couldn't do in four years?",
+      "target_person": "Mr. Sharma",
+      "target_gender": "male",
+      "cause_raw": "being shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s4339_bolly",
+      "emotion": "shame",
+      "dialogue": "I want to feel humiliated some more. Come in marriage party. The smiles of their face, joys of the heart.....and shame, wonder what else your lovers have sacrificed for you. O bel0ved..\"O bel0ved..\"\"l did what I didn't want to, my world's come crashing down.\" I did what I didn't want to, my world's come crashing down.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "sacrificing for love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4340_bolly",
+      "emotion": "shame",
+      "dialogue": "Dean Greetings. To bad with your greetings. Aren't you ashamed of what you're doing here? She is your daughter-in-law. Dear, let's go from here. Tanu, don't be scared. I am here.",
+      "target_person": "Dean",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards daughter-in-law",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p2399_bolly",
+      "emotion": "pride",
+      "dialogue": "Every subject she t0uches...she's a topper. She flies away with her own wings proper. Even bhangda feels proud if you accept its offer. Never listens...always stubborn.“ And the sharp wit.“",
+      "target_person": "subject",
+      "target_gender": "female",
+      "cause_raw": "academic achievement",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

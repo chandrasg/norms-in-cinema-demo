@@ -1,0 +1,51 @@
+{
+  "film": {
+    "id": "1522923",
+    "title": "Safe House",
+    "year": "2025",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/jlQW7qPp9j6yGqiIEcB3uNYbjys.jpg",
+    "overview": "Trapped in a high-security safe house after a terrorist attack in downtown Los Angeles, six government agents realize they must survive not just the enemy outside, but the potential traitor among them."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WP1072_holly",
+      "emotion": "pride",
+      "dialogue": "Hey.  How you doing?  I'm proud of you.  And what you pulled off.  You're going to make a hell of a case officer.",
+      "target_person": "Unnamed Character",
+      "target_gender": "unclear",
+      "cause_raw": "becoming a successful case officer",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1073_holly",
+      "emotion": "pride",
+      "dialogue": "What would you do... if someone is watching your every move?  if someone is watching your every move?  Some maybe you're not proud of.  And you will have some you're not proud of, believe me.  And then tries to use it against you?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1074_holly",
+      "emotion": "pride",
+      "dialogue": "if someone is watching your every move?  Some maybe you're not proud of.  And you will have some you're not proud of, believe me.  And then tries to use it against you?  You would do what you have to do.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

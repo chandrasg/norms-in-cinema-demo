@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "269238",
+    "title": "Koyelaanchal",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/tKoN5NNfF8sFfoW0DJKLqGh4Xz7.jpg",
+    "overview": "Koyelaanchal (coal belt of India) brings to light the explosive story of the people who have kept our precious fuel station at ransom for centuries. Koyelaanchal unveils itself through Saryu Bhan Singh (Vinod Khanna),an ex-owner turned Mafioso of the region, who through his sheer brutality & blatant defiance of law of the land, forces the people & the authorities to acknowledge him as their 'maalik'. Any protest, any voice of dissent against him is dealt with spine chilling violence of epic proportions."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1653_bolly",
+      "emotion": "pride",
+      "dialogue": "The storm of death can fire up the lamp. They have confidence on their brutality. His pride.. \"they have confidence on their brutality, I have faith that.\" The hands raised for truth are stronger..\"..than the hands raised to kill.\" My executioner is probably not aware.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1654_bolly",
+      "emotion": "pride",
+      "dialogue": "Samistipur. Samistipur. It feels really good....when I hear a Bihari speak such good English. I feel proud. Master. Master. I beg your forgiveness. I made a grave mistake.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Bihari speaking good English",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1655_bolly",
+      "emotion": "pride",
+      "dialogue": "I think we need him at the press-con. Master told me to keep this from you. You're the master's honor, you're his pride. His last hope. He didn't want to put you in danger.",
+      "target_person": "master",
+      "target_gender": "male",
+      "cause_raw": "being the last hope and honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1656_bolly",
+      "emotion": "pride",
+      "dialogue": "The effect's going to show. If they master stays alive....he'll never be able to tolerate it. The master's lived all his life with pride....so send him away similarly. Give him salvation. If he dies by your hand, he'll be immortal.",
+      "target_person": "master",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

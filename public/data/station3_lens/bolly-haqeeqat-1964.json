@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "326781",
+    "title": "Haqeeqat",
+    "year": "1964",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/dey0RnLOjEg83825PJ4kdGHUjsD.jpg",
+    "overview": "A platoon of Indian soldiers encounters harsh realities while fighting in the Sino-Indian War of 1962."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2303_bolly",
+      "emotion": "shame",
+      "dialogue": "it's really sad that no one writes to him. He is waiting only for one letter but in vain. Anyway, I won my bet. Aren't you ashamed to gamble on his condition? On the first of every month he wagers bets and wins. And then lends that money to us on interest. He's really ruined me.",
+      "target_person": "gambler",
+      "target_gender": "male",
+      "cause_raw": "gambling",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2304_bolly",
+      "emotion": "shame",
+      "dialogue": "It would've been better had we been corpses. True. Atleast I wouldn't have to hear this answer. I am ashamed for being your officer. What will you do if the enemy challenges you? Will you accord him a welcome?",
+      "target_person": "officer's subordinates",
+      "target_gender": "unclear",
+      "cause_raw": "lack of courage",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2305_bolly",
+      "emotion": "shame",
+      "dialogue": "And I will say, that will-power is what keeps us moving. Shame on you, guys! Let's go. What is it? - Some injured soldiers have arrived! We must arrange help for them. - Hurry up!",
+      "target_person": "guys",
+      "target_gender": "male",
+      "cause_raw": "lack of will-power",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2306_bolly",
+      "emotion": "shame",
+      "dialogue": "And you? - I'll wait, to distract the enemy. Crawl and go. Aren't you ashamed to fire at a woman? You are a Ladakhi and we are Chinese. Chinese and indians are brothers. You work and go to your village and praise us.",
+      "target_person": "Ladakhi man",
+      "target_gender": "male",
+      "cause_raw": "firing at a woman",
+      "theme_label": "Criminal Activity"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "film": {
+    "id": "46375",
+    "title": "Barsaat",
+    "year": "1995",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/JFSE2glCPewOeXZajuIIDZFs0R.jpg",
+    "overview": "A village boy named Badal, is attracted towards his classmate Tina, who belongs to a rich family. However, her father disapproves of their relationship and gets him arrested under false charges."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s435_bolly",
+      "emotion": "shame",
+      "dialogue": "How was your jacket found with that girl? That I don't know, sir. Someone might haVe taken my jacket..This shameful incident! This debasing act! It proVes that an uncouth person like who haVe come from the....jungle haVe been brought up definitely in the....inferior poor surroundings! - Excuse me, sir.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "being accused of inappropriate behavior with a girl",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s436_bolly",
+      "emotion": "shame",
+      "dialogue": "So that she herself can take the decision of her life! You are getting Very excited, boy! You should feel ashamed of yourself! By giVing seVen lakh rupees, you are talking....about buying Tina! LeaVe the question of seVen lakh or 70 million rupees!..l won't eVen sell her smile eVen in my seVen liVes!.. You scoundrel!",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "trying to buy a girl's decision with money",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s437_bolly",
+      "emotion": "shame",
+      "dialogue": "Those who are in loVe....they don't talk with their heads..-..bowed down! They talk with their heads raised high! Hey, you don't haVe any need to feel ashamed, son Badal! In fact, they should feel ashamed who don't understand loVe. And they do atrocities to the loVers!",
+      "target_person": "Badal",
+      "target_gender": "male",
+      "cause_raw": "being in love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s438_bolly",
+      "emotion": "shame",
+      "dialogue": "They talk with their heads raised high! Hey, you don't haVe any need to feel ashamed, son Badal! In fact, they should feel ashamed who don't understand loVe. And they do atrocities to the loVers! Hey, I am proud of you! I am really proud of you!",
+      "target_person": "Badal",
+      "target_gender": "male",
+      "cause_raw": "being in love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s439_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't you worry, Badal! EVerything will become all right! - EVerything will be fine! Aren't you ashamed of making the foul planning of....taking away the property of my daughter? it's enough! - Just enough! We are definitely poor but not deceitful!",
+      "target_person": "Badal",
+      "target_gender": "male",
+      "cause_raw": "trying to deceitfully acquire property",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "p194_bolly",
+      "emotion": "pride",
+      "dialogue": "in fact, they should feel ashamed who don't understand loVe. And they do atrocities to the loVers! Hey, I am proud of you! I am really proud of you! Hey, how many braVe sons like you might be present....in this world, those who are ready to die for the sake of loVe? Don't you worry, Badal!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "bravery in love",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

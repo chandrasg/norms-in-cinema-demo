@@ -1,0 +1,132 @@
+{
+  "film": {
+    "id": "16345",
+    "title": "Billu",
+    "year": "2009",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/nmWKskigmvBow3uOP4RPQOIaUux.jpg",
+    "overview": "When a famous Bollywood actor visits a small village for a film's shoot, a poor hairdresser's claim that they were once childhood friends soon makes him the centre of attention."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s584_bolly",
+      "emotion": "shame",
+      "dialogue": "I didn't want you to see me in this condition. Let it go. It was the fear in my heart. I was ashamed. You were ashamed? Of me?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "fear of being seen in a vulnerable state",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s585_bolly",
+      "emotion": "shame",
+      "dialogue": "I didn't want you to see me in this condition. Let it go. It was the fear in my heart. I was ashamed. You were ashamed? Of me? I thought so. Forgive me.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "fear of judgement",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p260_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't trouble Billu! Billu is like my brother! Taj Mahal is the pride of India. Similarly, you are the pride of Budbuda. Now we respect you more than ever before.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being respected by community",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p261_bolly",
+      "emotion": "pride",
+      "dialogue": "Billu is like my brother! Taj Mahal is the pride of India. Similarly, you are the pride of Budbuda. Now we respect you more than ever before. No! No! I'm the same person I was before.",
+      "target_person": "Billu",
+      "target_gender": "male",
+      "cause_raw": "being respected by his community",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p262_bolly",
+      "emotion": "pride",
+      "dialogue": "Our Billu, the Terrible. Our   Billu! Our   Billu! Billu is the pride of Budbuda. Sometimes he turns left. - Billu. Sometimes he turns right. - Billu. Sometimes he does a U-turn. - Billu",
+      "target_person": "community",
+      "target_gender": "male",
+      "cause_raw": "Billu's unpredictable actions",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p263_bolly",
+      "emotion": "pride",
+      "dialogue": "Billu, the barber. Do you get it? Or should I give you a slap. He has made his father proud. Don't just call him a barber. He has made his father proud.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's achievement",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p264_bolly",
+      "emotion": "pride",
+      "dialogue": "He has made his father proud. Don't just call him a barber. He has made his father proud. Don't just call him a barber. Famous men come to him for a haircut.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's professional success",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p265_bolly",
+      "emotion": "pride",
+      "dialogue": "If you say that you can't bring Uncle Sahir to school....then we'll never go to school. Let's go. Not just for the school....but it is a matter of pride for the whole village of Budbuda....that Sahir Khan's friend's children study in our school. But Mr. Billu, you've put us in a dilemma. You've not brought any message from Sahir Khan.",
+      "target_person": "village of Budbuda",
+      "target_gender": "unclear",
+      "cause_raw": "association with a celebrity",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p266_bolly",
+      "emotion": "pride",
+      "dialogue": "Please walk fast. - Countless national....and international awards make good witnesses. It is an honour for the Gyan Bharati school committee....to welcome such a prestigious person. Every Indian is proud to take his name. He has rendered our grief and happiness on screen....and has given us a golden reason to live. I request Mr. Sahir Khan, the dream maker....to guide our students and talk to us.",
+      "target_person": "Sahir Khan",
+      "target_gender": "male",
+      "cause_raw": "Achievements in film industry",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

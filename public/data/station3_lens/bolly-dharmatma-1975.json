@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "108377",
+    "title": "Dharmatma",
+    "year": "1975",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fQ0S7Nq9v46Q7T1da6tBpSQnK5x.jpg",
+    "overview": "Wealthy, powerful and influential Seth Dharamdas is known to come to the aid of all people who are poor, and this leads to him being known as Dharmatma. However, he also has a parallel life as a gangster. The only person Dharamdas hates and fears is none other than his very own son, Ranbir, who has sworn that he will never compromise with his father's dark career, and threatens to expose him."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1080_bolly",
+      "emotion": "shame",
+      "dialogue": "Did you ever try to earn someone's friendship.... for help in times of need? That was a grave mistake I made, Dharamdas. I'm ashamed of it. I'll remain your slave for life! I plead with you!",
+      "target_person": "Dharamdas",
+      "target_gender": "male",
+      "cause_raw": "exploiting friendship for personal needs",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1081_bolly",
+      "emotion": "shame",
+      "dialogue": "Okay. My dear Indians, brothers and sisters.... it's now more than 25 years since.... our country gained freedom. But it's very surprising and shameful that.... even after 25 years of freedom.... we still wear the shackles of poverty. We'll have to eradicate poverty. Poverty is like an anaconda, which will swallow us all.... if it isn't crushed.",
+      "target_person": "Indians",
+      "target_gender": "unclear",
+      "cause_raw": "poverty",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1082_bolly",
+      "emotion": "shame",
+      "dialogue": "Can I ask for something? Yes. Forgive Kundan. For what? - He's ashamed for hitting me that day. Kundan! Brother. Brother!",
+      "target_person": "Kundan",
+      "target_gender": "male",
+      "cause_raw": "physical violence",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "p549_bolly",
+      "emotion": "pride",
+      "dialogue": "Child, your stars are shinning. Every wish of yours will be fulfilled. You'll become the mother of 3 brave sons.... who'll make our entire tribe proud. Reshma. Reshma.... won't you show me your hand?",
+      "target_person": "Reshma",
+      "target_gender": "female",
+      "cause_raw": "giving birth to brave sons",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

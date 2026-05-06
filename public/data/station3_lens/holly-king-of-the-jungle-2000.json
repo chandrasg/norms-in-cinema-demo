@@ -1,0 +1,120 @@
+{
+  "film": {
+    "id": "140511",
+    "title": "King of the Jungle",
+    "year": "2000",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "/tbQOMKgS1HqEjOLDHuHanzBx4G9.jpg",
+    "overview": "Seymore is a young man with the mind of a child. He loves three things in life: basketball, sneaking out for cigarettes, and his mother. But all life's simple pleasures are brutally torn from him when he witnesses his mother gunned down by a neighborhood punk.  Now Seymore must overcome the child within as he rises up to fight for some kind of justice. It's a fight that will take him out into the streets where there are few friends and many enemies -- and one of them is a killer who wants him silenced."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 7
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1000_holly",
+      "emotion": "shame",
+      "dialogue": "♪ Though I seem thick-skinned ♪  ♪ And it hurt that my friends never stood downwind ♪  ♪ - And, oh, the shame. ♪ ♪ - He was ashamed ♪  ♪ - Thought of changing my name. ♪ ♪ - Oh, what's in a name? ♪  ♪ And I got downhearted ♪",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "personal insecurities and self-esteem issues",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP1905_holly",
+      "emotion": "pride",
+      "dialogue": "That’s very good.  - Zazu! - Yes!  - Sir, news from the underground. - Now, this time... Sire! Hyenas in the Pride Lands!  Sire! Hyenas in the Pride Lands!  Zazu, take Simba home.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1906_holly",
+      "emotion": "pride",
+      "dialogue": "- Zazu! - Yes!  - Sir, news from the underground. - Now, this time... Sire! Hyenas in the Pride Lands!  Sire! Hyenas in the Pride Lands!  Zazu, take Simba home.  Aw, dad, can't I come?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1907_holly",
+      "emotion": "pride",
+      "dialogue": "Hey, Uncle Scar! Guess what?  I despise guessing games.  I'm gonna be King of Pride Rock.  Oh, goody!  My dad just showed me the whole kingdom,",
+      "target_person": "Uncle Scar",
+      "target_gender": "male",
+      "cause_raw": "becoming the King of Pride Rock",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP1908_holly",
+      "emotion": "pride",
+      "dialogue": "Wrong! The only checking out you will do will be to check out of here.  Oh, man!  We're way beyond the boundary of the Pride Lands.  Look, banana beak is scared.  It's Mr. Banana Beak to you, fuzzy,",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1909_holly",
+      "emotion": "pride",
+      "dialogue": "♪ Are as wet as a warthog's backside ♪  ♪ But thick as you are, pay attention ♪  ♪ My words are a matter of pride ♪  ♪ It's clear from your vacant expressions ♪  ♪ The lights are not all on upstairs ♪",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "for his words",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP1910_holly",
+      "emotion": "pride",
+      "dialogue": "But I don't understand something.  You've been alive all this time.  Why didn't you come back to Pride Rock?  Well, I just needed to get out on my own, live my own life.  And I did, and it's great.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1911_holly",
+      "emotion": "pride",
+      "dialogue": "Yes, we do. You're the king.  Nala, we've been through this. I'm not the king. Scar is.  Simba, he let the hyenas take over the Pride Lands.  - What? - Everything's destroyed.  There's no food, no water.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1912_holly",
+      "emotion": "pride",
+      "dialogue": "No, you're just not looking hard enough.  It's over. There is nothing left.  We have only one choice. We must leave Pride Rock.  We're not going anywhere.  Then you have sentenced us to death.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

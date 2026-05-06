@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "354859",
+    "title": "The Promise",
+    "year": "2016",
+    "industry": "holly",
+    "country": "ES|US",
+    "poster_path": "/iDWer2VFikupdqDc7d5sxCWZ3gW.jpg",
+    "overview": "Set during the last days of the Ottoman Empire, a love triangle develops between Mikael, a brilliant medical student, the beautiful and sophisticated artist Ana, and Chris, a renowned American journalist based in Paris."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1737_holly",
+      "emotion": "pride",
+      "dialogue": "using formulas handed down from our ancestors.  We treated everyone alike, Muslim and Christian, rich and poor.  I was proud of our craft.  But making potions from herbs and minerals was not enough.  My greatest desire was to study medicine",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "practicing and being skilled in their craft",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1738_holly",
+      "emotion": "pride",
+      "dialogue": "We will build a future together, Maral and I,  and we will grow to love each other.  And you will be proud of us.  Give this letter to your Uncle Mesrob.  He is an important man in Constantinople,",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "building a future with Maral",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1739_holly",
+      "emotion": "pride",
+      "dialogue": "but he has never forgotten his roots.  He will take good care of you.  I will make you proud, Papa.  The Boghosians will bring more than medicine into Siroun.  Always remember, God has given you this mission.",
+      "target_person": "Papa",
+      "target_gender": "male",
+      "cause_raw": "fulfilling his mission",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP1740_holly",
+      "emotion": "pride",
+      "dialogue": "Here is Europe. There is Asia.  The world is at your feet, Michael.  Do us proud.  How old is this suit, huh?  Come by my shop sometime. We need to dress you like a doctor, huh?",
+      "target_person": "Michael",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1741_holly",
+      "emotion": "pride",
+      "dialogue": "Hello. Nice to meet you all.  Ah. I hear a French accent.  I lived in Paris for many years, but I'm a proud Armenian.  This is a glorious day, General.  We have a flotilla waiting to greet your ships.",
+      "target_person": "Armenian",
+      "target_gender": "male",
+      "cause_raw": "being Armenian",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "22074",
+    "title": "Capitalism: A Love Story",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/zJBkIPakBXdu3cEgGqKCPHUNXVE.jpg",
+    "overview": "Michael Moore comes home to the issue he's been examining throughout his career: the disastrous impact of corporate dominance on the everyday lives of Americans (and by default, the rest of the world)."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1458_holly",
+      "emotion": "shame",
+      "dialogue": "become angry  at the wealthy.  Shame on you! Shame on you!  Shawn: People who became rich in this country  in the last decades were not even making",
+      "target_person": "wealthy people",
+      "target_gender": "unclear",
+      "cause_raw": "becoming rich",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WP2562_holly",
+      "emotion": "pride",
+      "dialogue": "Perhaps more distressing was the fact that the rest of America  was now starting to resemble Flint, Michigan.  But there were some cities that still took pride in their greatness.  Cleveland  Come on down to Cleveland Town, everyone",
+      "target_person": "Cleveland",
+      "target_gender": "male",
+      "cause_raw": "its greatness",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2563_holly",
+      "emotion": "pride",
+      "dialogue": "They'll break ranks and fight no more  And if those cannibals keep trying  To sacrifice us to their pride  Each at the forge must do their duty  And we'll strike while the iron is hot",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

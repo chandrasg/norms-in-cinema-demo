@@ -1,0 +1,125 @@
+{
+  "film": {
+    "id": "401552",
+    "title": "Sachin: A Billion Dreams",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ysOy2g2NcDRszOM8YF14aru82fy.jpg",
+    "overview": "Sachin Tendulkar plays himself in this sports-docudrama that traces the life and times of one of the world’s biggest cricket phenomenas.​"
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 9
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 4
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 7
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p941_bolly",
+      "emotion": "pride",
+      "dialogue": "Once in a decade, a genius is born and Sachin Tendulkar is just that. I am very proud to say that I've been selected for the Indian Team. And tomorrow we'll be going to Pakistan. Do you feel a little nervous about facing the Pakistan team?",
+      "target_person": "Sachin Tendulkar",
+      "target_gender": "male",
+      "cause_raw": "selected for the Indian Team",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p942_bolly",
+      "emotion": "pride",
+      "dialogue": "There is a lot to learn from Sachin Tendulkar. The whole world is connected to his accomplishments. The whole world is proud of him. Children at a blind school today were given words of encouragement by Sachin Tendulkar.",
+      "target_person": "world",
+      "target_gender": "unclear",
+      "cause_raw": "Sachin Tendulkar's accomplishments",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p943_bolly",
+      "emotion": "pride",
+      "dialogue": "and that is why I am here to ward off the evil eye. Sachin for me is someone who is the collective consciousness of the pride of India. He kept pushing himself. You know he's pushed all the limits.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Sachin's achievements and determination",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p944_bolly",
+      "emotion": "pride",
+      "dialogue": "When you are standing in the middle of a ground and the national anthem is played you feel the proudest. You get goosebumps. Sangakkara winning the toss and batting first.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "patriotism",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p945_bolly",
+      "emotion": "pride",
+      "dialogue": "Vande..Hard to express what I feel today. I've waited for 22 years so..It's been a long time. Surely the proudest day of my life. Vande Mataram.. Vande Mataram! Vande Mataram.. Vande Mataram!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p946_bolly",
+      "emotion": "pride",
+      "dialogue": "Whatever has happened in my life, I am absolutely happy with it. Yes, I constantly used to be under pressure. I'm extremely proud to have played for my country. I think after a while, great sportsmen do so much that they kind of answer all the questions that we have.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "representing country in sports",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p947_bolly",
+      "emotion": "pride",
+      "dialogue": "Thank you! Thank you! Mr. Sachin Ramesh Tendulkar. I'm proud of all my children but of course, I am proud of Sachin. So, no doubt, he's an excellent person",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Sachin's achievements",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p948_bolly",
+      "emotion": "pride",
+      "dialogue": "Mr. Sachin Ramesh Tendulkar. I'm proud of all my children but of course, I am proud of Sachin. So, no doubt, he's an excellent person but something more than that I find..That's why every person feels that he",
+      "target_person": "is their own.      \r\nOutput: speaker",
+      "target_gender": "male",
+      "cause_raw": "Sachin's achievements and character",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p949_bolly",
+      "emotion": "pride",
+      "dialogue": "but something more than that I find..That's why every person feels that he is their family member which is a great thing of pride for me. O dear..\"O dear..\"\"My friend!\" The star of the world",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being considered as a family member by everyone",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

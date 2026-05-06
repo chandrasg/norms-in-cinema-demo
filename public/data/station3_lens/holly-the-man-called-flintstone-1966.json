@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "42515",
+    "title": "The Man Called Flintstone",
+    "year": "1966",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/3nnVtJjLQmRcHhJNeyP5UYnkfE9.jpg",
+    "overview": "In this feature-length film based on the \"Flintstones\" TV show, secret agent Rock Slag is injured during a chase in Bedrock. Slag's chief decides to replace the injured Slag with Fred Flintstone, who just happens to look like him. The trip takes Fred to Paris and Rome, which is good for Wilma, Barney, and Betty, but can Fred foil the mysterious Green Goose's evil plan for a destructive missile without letting his wife and friends in on his secret?"
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP297_holly",
+      "emotion": "pride",
+      "dialogue": "Now we get Rock Slag.  No time. First we must take message to Green Goose.  Good idea, Ali. Green Goose will be proud of us.  [BOBO LAUGHlNG]  Here we are, Rock. The Green Goose's secret headquarters.",
+      "target_person": "Ali",
+      "target_gender": "male",
+      "cause_raw": "delivering message to Green Goose",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP298_holly",
+      "emotion": "pride",
+      "dialogue": "MAN: Welcome home, Fred Flintstone.  [CROWD CHEERlNG]  And with great pride, we, the citizens of Bedrock... ...present you with this medal.  ...present you with this medal.  [CROWD CHEERlNG]",
+      "target_person": "Fred Flintstone",
+      "target_gender": "male",
+      "cause_raw": "receiving a medal",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP299_holly",
+      "emotion": "pride",
+      "dialogue": "It's been one parade after another.  My Fred, a big hero.  Oh, I'm so proud of you.  Oh, heh, heh. Forget the hero stuff.  Forget everything that happened in Eurock.",
+      "target_person": "Fred",
+      "target_gender": "male",
+      "cause_raw": "being a hero",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

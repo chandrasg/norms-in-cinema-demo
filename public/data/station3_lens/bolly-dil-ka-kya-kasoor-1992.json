@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "111394",
+    "title": "Dil Ka Kya Kasoor",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ooe07XsDasNjHW64UCUqRnk329Y.jpg",
+    "overview": "Shalini Saxena lives a wealthy life-style with her brother Rajesh. She attends college and writes a few poems under the name Seema as part time activity, she meets her fellow collegian an orphan called Arun Kumar who sings for important occasions usually following the words of her poem. Shalini loves Arun wholeheartedly but is unable to express her feelings to him and thus she secretly helps Arun to not only become a popular singer but also rich. And then Arun gets married to the college principal daughter Meena; this breaks Shalini's heart and to make matters worse she is diagnosed with throat cancer and does not have any longer to live."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1169_bolly",
+      "emotion": "shame",
+      "dialogue": "Now we will tell Uncle Verma and publish your songs. But only on the condition that you will sing for me first. - No. - Why are you ashamed of your brother? Come on, sing for him. - Come on, sing. - Okay, only if you will shut your eyes. - Do it! - Alright, I will close my eyes. Now sing.",
+      "target_person": "Uncle Verma",
+      "target_gender": "male",
+      "cause_raw": "not singing in front of others",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p581_bolly",
+      "emotion": "pride",
+      "dialogue": "Congratulations, you sang very well. - Congrats! - You sang very well. - Thank you. - You made the college proud again. - He's my follower, right boss? You call him a follower and boss in the same breath? - Why are you so confused? - Congratulations Arun.",
+      "target_person": "Arun",
+      "target_gender": "male",
+      "cause_raw": "Singing well",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p582_bolly",
+      "emotion": "pride",
+      "dialogue": "No! If that was the case then people wouldn't taunt me. They wouldn't laugh at me behind my back. They wouldn't say that, There goes Rajesh Saxena...\"...who was always so proud of himself. \"He always said......he would wed his sister to a prince. And today his sister had him degraded for an ordinary man. He's not ordinary. You don't know him.",
+      "target_person": "Rajesh Saxena",
+      "target_gender": "male",
+      "cause_raw": "sister's marriage to a prince",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p583_bolly",
+      "emotion": "pride",
+      "dialogue": "Maybe it will prove better for all of us. I'm a dejected man. I had gone very proudly with my sister's proposal there. Did you see how circumstances defeated me? All my life I was proud of my standard and status......and thought that I could attain anything I wanted.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "high standard and status",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p584_bolly",
+      "emotion": "pride",
+      "dialogue": "I had gone very proudly with my sister's proposal there. Did you see how circumstances defeated me? All my life I was proud of my standard and status......and thought that I could attain anything I wanted. And today fate has dealt me a big blow. I wish I had spoken to Arun about it on that day itself.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "high standard and status",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p585_bolly",
+      "emotion": "pride",
+      "dialogue": "I shouldn't have been so conceited. I had gone to ask for something without even being humble. And now I have been humbled by my pride. How can I face my sister empty handed? What will I say to Shalu?",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

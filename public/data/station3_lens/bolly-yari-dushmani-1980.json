@@ -1,0 +1,111 @@
+{
+  "film": {
+    "id": "304124",
+    "title": "Yari Dushmani",
+    "year": "1980",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/11ei32uN9KaFuM748d0aLNZF3Fw.jpg",
+    "overview": "Orphans, Shambu and Birju, grow up together while committing petty crimes. When they successfully steal a diamond necklace, Birju deceives Shambu."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4604_bolly",
+      "emotion": "shame",
+      "dialogue": "Pammo for once be mine, and I'll take you for rides in brand new cars Won't let your feet touch the ground. _ Damn you! What the hell...?Let me do the scratching Want me to scratch there...?\"Aren't you ashamed? _ Darling Pammo, this attire...\"\"makes you look brand new. _ Have no worry, seth\" Put me into any attire, and I'll still look the same Another bedbug?",
+      "target_person": "Pammo",
+      "target_gender": "female",
+      "cause_raw": "Sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4605_bolly",
+      "emotion": "shame",
+      "dialogue": "Gotcha! I've put my 20,000 on you. I'm not letting you go Let go, will you? Aren't you ashamed to touch another's woman? I'll fix you, wait Police! _ Pande, get them That oldie is also after me. - Police...?Run! - Where to?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate touching of a woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4606_bolly",
+      "emotion": "shame",
+      "dialogue": "Shankar...? You are alive? You're alive? I was scared! This was Jumbo's doing No one can harm him whom the Lord protects. My enemy is put to shame Shankar and Birju are thick friends, aren't they? I know how thick the friendship runs",
+      "target_person": "Jumbo",
+      "target_gender": "male",
+      "cause_raw": "Attempted murder",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s4607_bolly",
+      "emotion": "shame",
+      "dialogue": "You'll not bear this baby. Didn't I tell you that? Get out of here! Who are you to throw her out? She's my sister, I brought her over I never asked anything from you. Pammi just...\"You ought to be ashamed, Birju\" Even a snake won't hurt a pregnant woman. Shame on you! Try this",
+      "target_person": "Birju",
+      "target_gender": "male",
+      "cause_raw": "mistreating a pregnant woman",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4608_bolly",
+      "emotion": "shame",
+      "dialogue": "Who are you to throw her out? She's my sister, I brought her over I never asked anything from you. Pammi just...\"You ought to be ashamed, Birju\" Even a snake won't hurt a pregnant woman. Shame on you! Try this All right. _ Prabhakar, fix it",
+      "target_person": "Birju",
+      "target_gender": "male",
+      "cause_raw": "mistreating a pregnant woman",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p2600_bolly",
+      "emotion": "pride",
+      "dialogue": "Friendship is no relationship, it is religion, it is pride Friendship is godly. Animosity is satanic Are you blind? Dumping trash on us? Can't you see us sleeping? S**t!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Friendship",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2601_bolly",
+      "emotion": "pride",
+      "dialogue": "Birju, atonement is the only punishment for such sins Shankar, forgive me Friendship is no relationship, it is religion, it is pride Friendship is godly. Animosity is satanic",
+      "target_person": "Shankar",
+      "target_gender": "male",
+      "cause_raw": "Friendship",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

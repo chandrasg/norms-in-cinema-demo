@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "61988",
+    "title": "The Naked Jungle",
+    "year": "1954",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/gZyPloNh7m2uaaJa1TvKHhlAFFR.jpg",
+    "overview": "The Leiningen South American cocoa plantation is threatened by a 2-mile-wide, 20-mile-long column of army ants."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS531_holly",
+      "emotion": "shame",
+      "dialogue": "and be brave, like Leiningen's woman.  Will your men stay?  They'll stay tonight because they're ashamed.  They'll stay tomorrow because they have to.  I burned their boats.",
+      "target_person": "Leiningen's men",
+      "target_gender": "male",
+      "cause_raw": "cowardice",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP1112_holly",
+      "emotion": "pride",
+      "dialogue": "but it's what I wanted.  I wanted it to be filled with beautiful things.  I wanted a family I could be proud of in this house that I'm proud of,  in the land that I took out of the river and the jungle with my bare hands.  The only condition I ever made about anything I brought up the river",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "building a house and land with bare hands",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1113_holly",
+      "emotion": "pride",
+      "dialogue": "The strength and purpose that was missing in my first husband.  - He was a weakling. - So are you!  Your weakness is your pride.  Yes, I'm proud.  Too proud to take another man's leavings.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "not accepting another man's leavings",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1114_holly",
+      "emotion": "pride",
+      "dialogue": "- He was a weakling. - So are you!  Your weakness is your pride.  Yes, I'm proud.  Too proud to take another man's leavings.  Maybe you don't realize what it meant to me to have you come here.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "not accepting another man's leavings",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1115_holly",
+      "emotion": "pride",
+      "dialogue": "Your weakness is your pride.  Yes, I'm proud.  Too proud to take another man's leavings.  Maybe you don't realize what it meant to me to have you come here.  I told you I was 19 when I came out here.",
+      "target_person": "Yes",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

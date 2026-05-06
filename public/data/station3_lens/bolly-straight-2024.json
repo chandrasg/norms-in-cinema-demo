@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "1167898",
+    "title": "Straight",
+    "year": "2024",
+    "industry": "bolly",
+    "country": "MX",
+    "poster_path": "/34l0QGrhDv8DawQss6rDRkio4Ga.jpg",
+    "overview": "Roberto is a successful 32-year-old banker with a demanding life and a job that occupies him even on the weekends; a talented girlfriend, Elia, with whom he has been in a relationship for six years; and in his free time a little soccer, beer and Cris, a 20-year-old boy he meets on a gay dating app. Cris will make him rethink whether he has the life he wants or the one he's expected to have."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "s4256_bolly",
+      "emotion": "shame",
+      "dialogue": "What has happened to our television? 'To fulfill her wishes, that lady can do anything.' Where is our culture? Where is our shame? Where is the sunshine? We people? Me and my pets?",
+      "target_person": "television",
+      "target_gender": "unclear",
+      "cause_raw": "promoting inappropriate content",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p2331_bolly",
+      "emotion": "pride",
+      "dialogue": "He runs his own restaurant. He runs his business very well. He has made both of us very proud. And now, we're going to India, to bring his bride. Very happy today. Very happy!",
+      "target_person": "both of us",
+      "target_gender": "unclear",
+      "cause_raw": "successful business",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2332_bolly",
+      "emotion": "pride",
+      "dialogue": "He's down to, he's down to, love, love, love. Are you into, are you out to, love, love, love. We're out to, we're proud to, 'cos world has got it down to. Love, love, love. Love, love, love.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

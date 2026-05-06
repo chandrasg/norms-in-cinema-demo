@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "71297",
+    "title": "Kasauti",
+    "year": "1974",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2YU9Ldgvqy6XBkKrW1MayabKwpx.jpg",
+    "overview": "Sapna lives a simple life in the slums with her hard-working mother and her alcoholic step-father. One day she catches the eye of the wealthy smuggler Heera, who tries to seduce her, then sexually assaults her. Sapna is rescued by the young taxi driver Amit and the two fall in love, but vengeful Heera is not the only challenge to the couple's love."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3013_bolly",
+      "emotion": "shame",
+      "dialogue": "If I was your daughter, would you ask me to do this work? Shut up! Just because you get some liquor, you cannot talk like this! - I cannot be shameless like you! - You called me shameless? - Yes! - How dare you! Leave me, I say!",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "being asked to do inappropriate work",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3014_bolly",
+      "emotion": "shame",
+      "dialogue": "Did you doubt that? I am a graduate! If you are a graduate then why do you drive a taxi? What's there to feel ashamed about? I regret only one thing...\"I graduated in my first attempt but, I failed in all attempts to get a job.\" I made many applications but I wasn't allowed to enter the offices. But madam, I did not lose hope, I went to a bank and took a loan...and bought a taxi. Now I am self employed.",
+      "target_person": "taxi driver",
+      "target_gender": "male",
+      "cause_raw": "unemployment despite being educated",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3015_bolly",
+      "emotion": "shame",
+      "dialogue": "Here it is! It's a matter of principle, give it to the one from whom you have taken. Don't feel ashamed, you have got the complete amount with the interest! - Where did you get this money from? - From the same, Mr. Hariram! I had stolen an antique idol of God from a temple for him.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    }
+  ]
+}

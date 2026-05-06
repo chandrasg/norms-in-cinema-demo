@@ -1,0 +1,143 @@
+{
+  "film": {
+    "id": "108343",
+    "title": "Nikaah",
+    "year": "1982",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zWYDSWWLVvlNU2GFsj0zSHdF0YU.jpg",
+    "overview": "After an unsuccessful marriage, Niloufer mets an old college friend, Haider, an editor, who has been secretly in love with her since their college days. As the two start thinking about marriage, Niloufer's ex-husband Wasim returns to her life."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 3
+    },
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3796_bolly",
+      "emotion": "shame",
+      "dialogue": "God Almighty! Why don't you use your eyes? You can't write one single piece! What a shame! Who the hell has made a sub-editor out of you? What's that? Take it away! I have no time! What are you standing there and staring at me for?",
+      "target_person": "sub-editor",
+      "target_gender": "unclear",
+      "cause_raw": "incompetence in work",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3797_bolly",
+      "emotion": "shame",
+      "dialogue": "We've been childhood friends; but she's a great one at jokes. - So... - Do you want a joke then?! Don't you know? I'm Niloufer! Shameless being! She with the blue eyes... Niloufer. Such a tender name... and what a temper!",
+      "target_person": "Niloufer",
+      "target_gender": "female",
+      "cause_raw": "Being shameless and having a temper",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3798_bolly",
+      "emotion": "shame",
+      "dialogue": "- It's this flower... - To hell with the flower. Take the bicycle and get lost! The shameless creature! And listen... do this again and you'll face the consequences! Do you understand?",
+      "target_person": "character being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3799_bolly",
+      "emotion": "shame",
+      "dialogue": "Mr Wasim has really gone to the limits! Or why else would he leave such a charming and beautiful wife at home......and spend time in his cursed plywood-office? What a shame! He must be busy with some work. Handling you is full-time work, too.",
+      "target_person": "Mr Wasim",
+      "target_gender": "male",
+      "cause_raw": "Neglecting wife for work",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3800_bolly",
+      "emotion": "shame",
+      "dialogue": "- Why is that? - You didn't turn up......and the Madam went upstairs, after waiting long for you. - Leaving the guests unattended? - Yes, sir. What a shame! How can the host go upstairs, when the house is brimming with guests? What nonsense is this?",
+      "target_person": "Host",
+      "target_gender": "male",
+      "cause_raw": "leaving guests unattended",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3801_bolly",
+      "emotion": "shame",
+      "dialogue": "You have insulted your husband! You have ground to dust the honour of this house! What a shame for guests to go away without having dinner! Should I have fed them with my own hands? - You could've been present there! - I was busy.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "not fulfilling traditional role of a wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3802_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm glad I met you... I can at least apologise to you. In fact, I have been wanting to apologise from the time......I have lost you. But I was so ashamed of myself......that let alone talking to you......I couldn't even face you. Time went by, somehow or the other......and I began losing control on myself. Ever since I first met you......I was obsessed about fulfilling two special dreams.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "losing control and not fulfilling dreams",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3803_bolly",
+      "emotion": "shame",
+      "dialogue": "I met Wasim yesterday. That's very nice... What did he have to say? He said he was ashamed of himself for whatever has happened. And? And that he wants to start life afresh with me.",
+      "target_person": "Wasim",
+      "target_gender": "male",
+      "cause_raw": "past mistakes",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3804_bolly",
+      "emotion": "shame",
+      "dialogue": "Hurry up! Please! I'm coming over, ain't I? You're getting worked up for...- Hand me the towel! - Come outside and take it. Had I known how shameless you are, I'd never have married you! Exactly, how shameless should I have been for you to marry me...A letter from Wasim?! To Nilu, who means my life to me...\"You must have now returned from your honeymoon\"",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "shameless behavior",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3805_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm coming over, ain't I? You're getting worked up for...- Hand me the towel! - Come outside and take it. Had I known how shameless you are, I'd never have married you! Exactly, how shameless should I have been for you to marry me...A letter from Wasim?! To Nilu, who means my life to me...\"You must have now returned from your honeymoon\" I'm yearning for you in my loneliness",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "shamelessness",
+      "theme_label": "Shamelessness"
+    }
+  ]
+}

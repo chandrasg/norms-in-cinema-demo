@@ -1,0 +1,134 @@
+{
+  "film": {
+    "id": "87149",
+    "title": "An Evening in Paris",
+    "year": "1967",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xlSfgJ3HW9nhUwjVyqZzHgAiatg.jpg",
+    "overview": "In romantic Paris, two Parisians of Indian origin are in love namely Shyam or Sam and Roopa. Mystery and intrigue surround this romance, as Roopa is abducted and held by criminal mastermind Jack and his minions, who will trade her for a hefty ransom. Roopa has a look-alike in the shape and form of Suzy, who is sent in place of Roopa to ensure that the money is received, while the real Roopa is still being held captive. Sam must use all the resources available to in order to set Roopa free, but he will have a difficult time to differentiate between Suzy and Roopa."
+  },
+  "totals": {
+    "shame": 9,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 6,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s60_bolly",
+      "emotion": "shame",
+      "dialogue": "So do that What are you guys doing? Shameless guys! You knock down a small boy? Leave me alone! For God's sake! I don't know where the girls have gone!",
+      "target_person": "guys",
+      "target_gender": "male",
+      "cause_raw": "knocking down a small boy",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s61_bolly",
+      "emotion": "shame",
+      "dialogue": "Leave me alone! For God's sake! I don't know where the girls have gone! Aren't you ashamed to be following those girls? I'll hand you over to the cops Get lost, for God's sake! - Sardarji...Here comes another",
+      "target_person": "character following girls",
+      "target_gender": "male",
+      "cause_raw": "stalking/harassing girls",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s62_bolly",
+      "emotion": "shame",
+      "dialogue": "Ever since I've seen you, I can see no one else I wonder what disease this is. - I know what it is Shamelessness! - Really? Do you have a cure for it? Sure. A patented cure. Coming up in a moment Matron, this is Deepa. Please come here with the police immediately",
+      "target_person": "Deepa",
+      "target_gender": "female",
+      "cause_raw": "Shamelessness/Inappropriate behavior",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s63_bolly",
+      "emotion": "shame",
+      "dialogue": "You had to burst it? Couldn't you blow it some more? Get lost! Go on! Shameless boys! They've ruined it for me You? What brings you here? You're here to treat people. And I come ailing",
+      "target_person": "boys",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s64_bolly",
+      "emotion": "shame",
+      "dialogue": "But they can be got rid of. - Then please do! I hate boys. Move away. Get lost. Leave me. Aren't you ashamed to push me? Come on. Tell us. - Please, tell us. O God! I don't know! I don't know! Not possible.",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "being pushy or intrusive",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s65_bolly",
+      "emotion": "shame",
+      "dialogue": "O God! I don't know! I don't know! Not possible. I don't know where the girls are. Shameless lot! Chasing girls? I'll call the police. For God's sake, get lost! - Sir. - Here's another one! Good morning. - Does Deepa live here? - And who are you?",
+      "target_person": "men",
+      "target_gender": "male",
+      "cause_raw": "chasing girls",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s66_bolly",
+      "emotion": "shame",
+      "dialogue": "You! - Yes. Ever since I've seen this girl, I can't see anything else. I wonder what the disease is. - I know Shamelessness. Really? Got a remedy for it? Yes. A very patent remedy. I'll just give it to you.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "expressing his feelings openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s67_bolly",
+      "emotion": "shame",
+      "dialogue": "Couldn't you blow it a bit more? You burst it at the last moment. Come on. Get lost! Shameless souls. Spoilt all my chances! Hello, Deepa. How come you're here?",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "spoiling chances",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s68_bolly",
+      "emotion": "shame",
+      "dialogue": "Where is she? - In this hotel. - I want to see her. Very well. But from a distance. I'm very ashamed for whatever happened last night. And ever grateful, for all that you did. I won't be able to face you. So I'm going away.",
+      "target_person": "female character",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

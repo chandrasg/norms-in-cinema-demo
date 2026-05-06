@@ -1,0 +1,65 @@
+{
+  "film": {
+    "id": "9880",
+    "title": "The Princess Diaries",
+    "year": "2001",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/qSw4lzhDGeM5MjQc86BLzJALhBs.jpg",
+    "overview": "A socially awkward but very bright 15-year-old girl being raised by a single mom discovers that she is the princess of a small European country because of the recent death of her long-absent father, who, unknown to her, was the crown prince of Genovia. She must make a choice between continuing the life of a San Francisco teen or stepping up to the throne."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 4
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1878_holly",
+      "emotion": "pride",
+      "dialogue": "But not for money. Paolo hates money, he spits on money.  There was no money. Well, there was some money.  A man like me. Each ring is... The point is it was pride and ego that drove me to know  The point is it was pride and ego that drove me to know  that royalty would see one day the beauty was mine,",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "his work being recognized by royalty",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1879_holly",
+      "emotion": "pride",
+      "dialogue": "There was no money. Well, there was some money.  A man like me. Each ring is... The point is it was pride and ego that drove me to know  The point is it was pride and ego that drove me to know  that royalty would see one day the beauty was mine,  the hair was mine.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "his own beauty and hair",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1880_holly",
+      "emotion": "pride",
+      "dialogue": "if it's officers and transportation engineers  don't follow the letter of the law.  I would be proud to have  two such fine, honorable gentlemen serving in Genovia.  - Aw shucks, ma'am. - We're not all that.",
+      "target_person": "ma'am",
+      "target_gender": "female",
+      "cause_raw": "having honorable gentlemen serving in Genovia",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1881_holly",
+      "emotion": "pride",
+      "dialogue": "The future of Genovia is in the hands of young Mia Thermopolis.  Her decision tonight will affect the queen, the court,  and all the people of this small, but proud, country.  - Do you think it's going to rain on us? - It never comes down on Willie Brown.  - Thank you. - Umbrellas up.",
+      "target_person": "Mia Thermopolis",
+      "target_gender": "female",
+      "cause_raw": "decision affecting the future of Genovia",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

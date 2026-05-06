@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "46063",
+    "title": "Last Dance",
+    "year": "1996",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/hsMe9TYfPs1VfpZs9xVLZBVGcES.jpg",
+    "overview": "Upon taking a new job, young lawyer Rick Hayes is assigned to the clemency case of Cindy Liggett, a woman convicted of first degree murder and sentenced to death. As Hayes investigates the background for her case, the two begin to form a deep friendship, while all the while the date for her execution draws nearer."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS576_holly",
+      "emotion": "shame",
+      "dialogue": "And that's my business. That's my time now.  How 'bout self-respect?  Every dollar you have, these sweet and innocent-looking girls... shamelessly tell us they are money hungry and... I'm Rick Hayes. I'm with the Clemency Board. Would you like to have a seat?  I'm Rick Hayes. I'm with the Clemency Board. Would you like to have a seat?  I'm gonna be working on your report, the update, so we need to... - No. - No?",
+      "target_person": "Rick Hayes",
+      "target_gender": "male",
+      "cause_raw": "disrespecting women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "WS578_holly",
+      "emotion": "shame",
+      "dialogue": "# Take this gilded cage of pain  # And set me free  # Take this overcoat of shame  # It never did belong to me  # It never did belong to me",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "feeling trapped and ashamed",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP1225_holly",
+      "emotion": "pride",
+      "dialogue": "Miss Liggett, maybe you can explain to me... what is it that you have to lose?  I mean, there is really no good reason for you not to cooperate.  Just give us something we can work with here. There's gotta be a... I'm very, very proud of my 17-year-old 'cause she works and goes to school... What'd you say your name was? Rick?  What'd you say your name was? Rick?  - Right. - What's that short for?",
+      "target_person": "Miss Liggett",
+      "target_gender": "female",
+      "cause_raw": "her 17-year-old working and going to school",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP1226_holly",
+      "emotion": "pride",
+      "dialogue": "Um, look, l-I've been looking at this Liggett file.  L-I'd like to go back and see if I can get her to work with us.  Oh. So now it's a matter of pride, huh?  No, no, no, I just... I think it's the only way we're gonna get anything new.  You're wasting your time, Rick. You've got two dozen people to reinterview for the update.",
+      "target_person": "Rick",
+      "target_gender": "male",
+      "cause_raw": "getting Liggett to work with them",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

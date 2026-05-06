@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "17661",
+    "title": "Going My Way",
+    "year": "1944",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/838yNJnOk6iZj5YK1MoKiN2n1hw.jpg",
+    "overview": "Youthful Father Chuck O'Malley led a colorful life of sports, song, and romance before joining the Roman Catholic clergy. After being appointed to a run-down New York parish, O'Malley's worldly knowledge helps him connect with a gang of boys looking for direction, eventually winning over the aging, conventional Parish priest."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS709_holly",
+      "emotion": "shame",
+      "dialogue": "[Woman] Hurry up! Come on!  - What do you think you're doing? - I'm the substitute right fielder.  You ought to be ashamed of yourself, playing with kids, smashing people's windows.  - A big grown-up man. - And a priest besides.  - Oh, hello. - Still looking for St. Dominic's.",
+      "target_person": "Priest",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior and damaging property",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WS713_holly",
+      "emotion": "shame",
+      "dialogue": "Have you no family pride?  Uh-uh.  - No shame? - Nope.  You've certainly slipped, my boy. You've lost everything.  I don't think so, Dad. I think I've found something.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "loss of family pride and status",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP1401_holly",
+      "emotion": "pride",
+      "dialogue": "Yes, Dad, you certainly have.  Look, son.  My boy.  Have you no family pride?  Uh-uh.  - No shame? - Nope.  You've certainly slipped, my boy. You've lost everything.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "son's loss of family pride",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

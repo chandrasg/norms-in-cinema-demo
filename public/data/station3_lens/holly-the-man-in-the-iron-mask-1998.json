@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "9313",
+    "title": "The Man in the Iron Mask",
+    "year": "1998",
+    "industry": "holly",
+    "country": "US|GB",
+    "poster_path": "/tSLWIX3NzqFPWNMNX7FfeExHCRk.jpg",
+    "overview": "Years have passed since the Three Musketeers, Aramis, Athos and Porthos, have fought together with their friend, D'Artagnan. But with the tyrannical King Louis using his power to wreak havoc in the kingdom while his twin brother, Philippe, remains imprisoned, the Musketeers reunite to abduct Louis and replace him with Philippe."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2348_holly",
+      "emotion": "pride",
+      "dialogue": "Riots?  But Paris is the most beautiful city in the world.  Why should my people feel anything but... Pride and contentment?  Of course, Your Majesty. I'm sure they are content and proud.  But they are also starving.",
+      "target_person": "Your Majesty",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2349_holly",
+      "emotion": "pride",
+      "dialogue": "But Paris is the most beautiful city in the world.  Why should my people feel anything but... Pride and contentment?  Of course, Your Majesty. I'm sure they are content and proud.  But they are also starving.  Your Majesty, if we distributed some of the food... Reserved for the Army... The priest, Aramis.",
+      "target_person": "Your Majesty",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2350_holly",
+      "emotion": "pride",
+      "dialogue": "You are my son.  I never knew you existed,  and I never... Felt pride as a father... Until this moment.  Until this moment.  D'Artagnan... They're young musketeers.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "knowing his son exists",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

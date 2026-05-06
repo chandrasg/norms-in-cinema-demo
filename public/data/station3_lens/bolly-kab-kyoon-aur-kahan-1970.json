@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "116854",
+    "title": "Kab? Kyoon? Aur Kahan?",
+    "year": "1970",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vv2WfEvr66OdaIbTJ03wW1m44Ky.jpg",
+    "overview": "A woman's father dies mysteriously in a car accident, and she inherits his property. When the police inform her that his death doesn't appear to be an accident, she may be in danger of losing her sanity, and even her life."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2875_bolly",
+      "emotion": "shame",
+      "dialogue": "There's hand-wrestling going on between and Indian......and a foreigner. But the Indian is stronger. He'll win. Just strength isn't sufficient. It's an art. Aren't you ashamed of yourself! His hand is burning and you are laughing? Hey, girl! Who are you to interfere between us!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "interfering in men's matters",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s2876_bolly",
+      "emotion": "shame",
+      "dialogue": "You trouble me a lot. - O God! What happened? - A pin got stuck. Where? - Shut up! You shameless person. Darling, come here. - You close your eyes. I will be there. You come into my dreams everyday......but when will come in real. - When we will get married.",
+      "target_person": "Unnamed Male Character",
+      "target_gender": "male",
+      "cause_raw": "Inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2877_bolly",
+      "emotion": "shame",
+      "dialogue": "This fan wants to present a gift of love in the court of beauty. What kind of gift? - The gift is my heart......which is wounded by your eyes. You should be ashamed to speak like that, old man. Old man! - My brother is actually old man. But I am very young. Look at me with eyes of your heart.",
+      "target_person": "old man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate romantic advances",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1484_bolly",
+      "emotion": "pride",
+      "dialogue": "Come with me. - Let's go. Mr. Jagdish Prasad? You are his daughter? You know my father? - Who doesn't know......a philanthropist like him. He is the pride of our city. Who is he? - He is my uncle. My father's step-brother. I see. - But he loves him more than own brother.",
+      "target_person": "Mr. Jagdish Prasad",
+      "target_gender": "male",
+      "cause_raw": "philanthropy",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "11835",
+    "title": "Death Sentence",
+    "year": "2007",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/3rdEAMh4a3pc7GO6fSkJwpt7BWX.jpg",
+    "overview": "Nick Hume is a mild-mannered executive with a perfect life, until one gruesome night he witnesses something that changes him forever. Transformed by grief, Hume eventually comes to the disturbing conclusion that no length is too great when protecting his family."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP264_holly",
+      "emotion": "pride",
+      "dialogue": "Whoa! Watch out for the tree though.  - [Boy] Do a trick. - [Mom] Do a trick.  - How proud are you of him? - Oh, my God. He's amazing.  Tell me the truth. Did Mommy do that painting for you?  Hey. Wow, look at that.",
+      "target_person": "Mom",
+      "target_gender": "female",
+      "cause_raw": "son's ability to do tricks",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP265_holly",
+      "emotion": "pride",
+      "dialogue": "Well, at least they're not throwing food.  - [Crowd Cheering] - ## [Man Singing, Indistinct]  [Dad] You played a heck of a game, kid. I'm proud of you.  - Heck of a game. - Thank you.  Love the way you're handling the puck. S**t.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "playing a good game",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP266_holly",
+      "emotion": "pride",
+      "dialogue": "[Laughing, Chattering Continue]  You scared that mother pretty f*****' bad.  I'm proud of you.  Who's a man now?  - [Engine Starts] - Get in the car.",
+      "target_person": "Unknown",
+      "target_gender": "male",
+      "cause_raw": "scaring someone",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP267_holly",
+      "emotion": "pride",
+      "dialogue": "- ## [Car Stereo: Hip-hop] - Have a nice, fun time with this one here.  - All right, bro. Okay. - All right?  I'm proud of you. All right?  ## [Continues, Muffled]  [Shouting, Laughing]",
+      "target_person": "bro",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

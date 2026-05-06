@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "112200",
+    "title": "Thanks for Sharing",
+    "year": "2013",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/qSf3mmkjxohgnA8ZvhBQqTTBaWx.jpg",
+    "overview": "A romantic comedy that brings together three disparate characters who are learning to face a challenging and often confusing world as they struggle together against a common demon—sex addiction."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP874_holly",
+      "emotion": "pride",
+      "dialogue": "Thanks. I'm Mike, gratefully recovering sex addict.  - Hi, Mike. - Hi, Mike.  I'm proud of you, birthday boy.  - Really proud. - Thanks.  And I'm proud to be your sponsor.",
+      "target_person": "sponsor",
+      "target_gender": "male",
+      "cause_raw": "Mike's recovery from sex addiction",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP875_holly",
+      "emotion": "pride",
+      "dialogue": "- Hi, Mike. - Hi, Mike.  I'm proud of you, birthday boy.  - Really proud. - Thanks.  And I'm proud to be your sponsor.  So, what's going on with me? Let's see.",
+      "target_person": "Mike",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP876_holly",
+      "emotion": "pride",
+      "dialogue": "I'm proud of you, birthday boy.  - Really proud. - Thanks.  And I'm proud to be your sponsor.  So, what's going on with me? Let's see.  Well, I'm grateful to be sober.",
+      "target_person": "sponsor",
+      "target_gender": "male",
+      "cause_raw": "birthday boy's sobriety",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP877_holly",
+      "emotion": "pride",
+      "dialogue": "Well, so what are we talking? Male, female or shemale?  Hey, babe, you told me to get out there.  Well, I'm proud of you. That's good news. That's good news.  - You going to fellowship? - No, I can't.  I'm meeting up with my sponsee to go over his first step.",
+      "target_person": "babe",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP878_holly",
+      "emotion": "pride",
+      "dialogue": "I don't... I don't want to disappoint you anymore, Pop.  I don't want to disappoint you anymore, Pop.  I want you to be proud of me.  Hey.  Jesus, you're beautiful.",
+      "target_person": "Pop",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

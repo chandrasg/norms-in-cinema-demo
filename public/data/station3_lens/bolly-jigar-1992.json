@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "118809",
+    "title": "Jigar",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/uWDpye3njNiwegY00rlV57IiC3i.jpg",
+    "overview": "When a gangster takes over the art of karate and causes unrest in a town, one man rises to fight against them."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2766_bolly",
+      "emotion": "shame",
+      "dialogue": "That's wonderful We're here to congratulate you Quiet! You should be ashamed to insult somebody like this. We're from the girl's side, but we won't tolerate your impudence. We're entertaining you and you... Who do you think you are anyway?",
+      "target_person": "guests",
+      "target_gender": "unclear",
+      "cause_raw": "insulting the hosts",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2767_bolly",
+      "emotion": "shame",
+      "dialogue": "Tomorrow, those very men will do the same to your women. Isn't there anyone among you who'll make a statement against them? Shame on you cowards, who were born from the womB of fear! Rouse your dead souls! Tell me!",
+      "target_person": "men",
+      "target_gender": "male",
+      "cause_raw": "cowardice",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2768_bolly",
+      "emotion": "shame",
+      "dialogue": "There can't be a better place than your school to arrest Raju. Put it down! - What is it? Shameless! You're drinking liquor...and there, he drinks my blood you play politics, eh? I'm from Bihar. There a kid learns politics in its mother's womb. I'll hit him so badly, that your lnspector will forget himself!",
+      "target_person": "Raju",
+      "target_gender": "male",
+      "cause_raw": "engaging in illegal activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p1448_bolly",
+      "emotion": "pride",
+      "dialogue": "Break Bones! - What! Come. I'll  show you. - What are you staring for? - Friend...You look like Arjun, But your pride is like Duryodhan. You said you broke bones, but here, you get yours broken? I get paid to Break bones, and them, broken too.",
+      "target_person": "friend",
+      "target_gender": "male",
+      "cause_raw": "breaking bones for a living",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

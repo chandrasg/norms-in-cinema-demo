@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "863540",
+    "title": "The Adventures of the Zordine Warriors",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "US",
+    "poster_path": "",
+    "overview": "80s-style teen action comedy\r A duo of high-kicking kids from a far off kingdom use their wits, intelligence and martial arts skills to save the world from evil."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4707_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't trouble us anymore, i beseech you. Trouble? Your son has put us in trouble. He has put the entire poiice department to shame. Stained this uniform! i feel odd wearing this uniform out. Really?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "causing trouble and staining the reputation of the police department",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s4708_bolly",
+      "emotion": "shame",
+      "dialogue": "People's trust! Everything! This man......who always considered me as his son. But because of me he has been put to shame. And the one responsible for all this is Shah Alam! i have all evidence against him!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "causing shame to a respected figure",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p2648_bolly",
+      "emotion": "pride",
+      "dialogue": "Father has done all this. Then what is the duty of such a son? You tell me. To do his father proud. To take his name to the zenith of glory. Accomplish something so great...Please sit. We only want to go in and come out.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "Accomplishing something great",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2649_bolly",
+      "emotion": "pride",
+      "dialogue": "What? Now who's going to be an obstacle between us? My friend. A friend, whom anyone would be proud of. Terrorism is the worst form of cancer. But those who think that by spreading terrorism......can break india, have been shown......that india is india! !",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "friend's actions against terrorism",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

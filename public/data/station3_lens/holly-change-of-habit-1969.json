@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "18694",
+    "title": "Change of Habit",
+    "year": "1969",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/bZx6oDV3LnhaDImYJj2tkgEtqI0.jpg",
+    "overview": "Dr. John Carpenter takes the job of running a health center in a low-income district. He enlists three women to help out who — unbeknownst to him — are actually nuns in street clothes. The church wants to improve the neighborhood but fears that nuns in full habit would not be well received. Unaware of her unavailability, John falls for Sister Michelle, serenading her with his guitar — which, luckily for him, effectively wears away at her religious resolve."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1051_holly",
+      "emotion": "shame",
+      "dialogue": "Well, if a nurse doesn't drink, then we usually have dinner.  Yes, I'll bet you do. But there's no chance.  We're going to try to shame the landlord into painting the apartment.  You're gonna have to stop throwing yourself at me like this... or people will start talking.  or people will start talking.",
+      "target_person": "Nurse",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WS1052_holly",
+      "emotion": "shame",
+      "dialogue": "Luis, Raoul, start moving the furniture away from the walls.  Chino, you\"ll mix the paint:  I know your landlord. He doesn't shame so easily.  It's too bad Chino and the rest of the boys couldn't stay for dinner.  Maybe they're not partial to noodle ring like I am.",
+      "target_person": "Chino and the boys",
+      "target_gender": "male",
+      "cause_raw": "not staying for dinner",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1053_holly",
+      "emotion": "shame",
+      "dialogue": "Notre Dame, French for \"Our Lady.\"  But I don't think Our Lady'd be very proud to claim you now.  Father, we've done nothing to be ashamed of.  Men in your rooms. Late parties. Profane music till all hours.  Forsaking the habit was one thing, but now you're not even dressed like females.",
+      "target_person": "Notre Dame",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior and dressing against religious norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "WS1054_holly",
+      "emotion": "shame",
+      "dialogue": "Irene, it's not my place to tell anybody when to fish or cut bait.  Let's just hope it doesn't turn out to be fish or get your throat cut.  They shame the other fine Sisters of the cloth, who know their place.  Our place is where we're needed. How we dress in unimportant.  You're no longer needed in my parish.",
+      "target_person": "Irene",
+      "target_gender": "female",
+      "cause_raw": "not adhering to expected behavior of her role",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP2013_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, we were playing touch football in the park.  Notre Dame, French for \"Our Lady.\"  But I don't think Our Lady'd be very proud to claim you now.  Father, we've done nothing to be ashamed of.  Men in your rooms. Late parties. Profane music till all hours.",
+      "target_person": "Father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2014_holly",
+      "emotion": "pride",
+      "dialogue": "In a potentially violent confrontation, it's imperative law enforcement officials... should conduct themselves with calm and understanding.  should conduct themselves with calm and understanding.  Club us! Load us into that paddy wagon out there... and we will bear our scars proudly.  and we will bear our scars proudly.  The only scars you'll bear will be splinters, Sister Barbara.",
+      "target_person": "Sister Barbara",
+      "target_gender": "female",
+      "cause_raw": "bearing scars from a potentially violent confrontation",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2015_holly",
+      "emotion": "pride",
+      "dialogue": "should conduct themselves with calm and understanding.  Club us! Load us into that paddy wagon out there... and we will bear our scars proudly.  and we will bear our scars proudly.  The only scars you'll bear will be splinters, Sister Barbara.  A law officer should always remember to keep his own good humor: : :",
+      "target_person": "Sister Barbara",
+      "target_gender": "female",
+      "cause_raw": "bearing scars from protest",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

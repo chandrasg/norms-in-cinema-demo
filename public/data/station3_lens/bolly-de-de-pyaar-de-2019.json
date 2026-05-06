@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "590401",
+    "title": "De De Pyaar De",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lKxbegRPahPDeOYeaDHhsNJDZU8.jpg",
+    "overview": "A 50-year-old single father faces disapproval from his family and his ex-wife when he falls in love with a 26-year-old woman."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s942_bolly",
+      "emotion": "shame",
+      "dialogue": "Ayesha. Ayesha. Please hear me out. - What the hell are you doing here? Do you have no shame? Get lost and don't show me your face again. I really love you.",
+      "target_person": "Ayesha's lover",
+      "target_gender": "male",
+      "cause_raw": "Intruding and not respecting personal space",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s943_bolly",
+      "emotion": "shame",
+      "dialogue": "Why did you come here in the first place? Why? She is as old as Ishika. Don't you feel ashamed? What did you think? You will drop in unannounced introduce your girlfriend as your secretary",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "introducing girlfriend as secretary",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s944_bolly",
+      "emotion": "shame",
+      "dialogue": "Won't you wait for the mother who raised you? I am selfish. Ishika..You have no shame at all, do you? You sent your ex-wife to convince me? We aren't divorced yet.",
+      "target_person": "Ishika",
+      "target_gender": "female",
+      "cause_raw": "selfishness and manipulation",
+      "theme_label": "Poverty"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "film": {
+    "id": "132363",
+    "title": "The Butler",
+    "year": "2013",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/pAi8Bl3ZKX6pANPVhNwbhbQANop.jpg",
+    "overview": "Cecil Gaines was a sharecropper's son who grew up in the 1920s as a domestic servant for the white family who casually destroyed his. Eventually striking out on his own, Cecil becomes a hotel valet of such efficiency and discreteness in the 1950s that he becomes a butler in the White House itself. There, Cecil would serve numerous US Presidents over the decades as a passive witness of history with the American Civil Rights Movement gaining momentum even as his family has troubles of its own. As his wife, Gloria, struggles with alcoholism and his defiant eldest son, Louis, strives for a just world, Cecil must decide whether he should take action in his own way."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 4,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1538_holly",
+      "emotion": "shame",
+      "dialogue": "is to make that revolution, that change,  peaceful and constructive for all.  Those who do nothing are inviting shame as well as violence.  Those who act boldly... (GUNSHOT)  (GUNSHOT)",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "inaction in the face of necessary change",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1539_holly",
+      "emotion": "shame",
+      "dialogue": "Hey, Louis.  Didn't expect to hear from you on my birthday.  You should feel ashamed of yourself.  A grown-a*s man, calling your mama, asking for money.  Well, guess what. It's the butler's money. It's Uncle Tom's money.",
+      "target_person": "Louis",
+      "target_gender": "male",
+      "cause_raw": "asking for money from his mother",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WP2693_holly",
+      "emotion": "pride",
+      "dialogue": "OK. Yeah, I like it.  (GLORIA) Make a difference, don't it? (GINA) It really does.  Girl, you must be so proud of Cecil.  You know he got that job himself.  The White House called him.",
+      "target_person": "Gloria",
+      "target_gender": "female",
+      "cause_raw": "Cecil getting a job at the White House",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2694_holly",
+      "emotion": "pride",
+      "dialogue": "I'm going to make some potato salad.  Now he could see that I knew what I was talking about.  - That was wonderful. I'm so proud of you. - Thanks, Mama.  - That hat looks stupid. - Your face looks stupid.  - Proud of you too. - Dad,",
+      "target_person": "Mama",
+      "target_gender": "female",
+      "cause_raw": "making potato salad",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2695_holly",
+      "emotion": "pride",
+      "dialogue": "- That was wonderful. I'm so proud of you. - Thanks, Mama.  - That hat looks stupid. - Your face looks stupid.  - Proud of you too. - Dad,  - did you see...? - (GLORIA) Don't start something in there.  Did you see one white kid in my school?",
+      "target_person": "Mama",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2696_holly",
+      "emotion": "pride",
+      "dialogue": "You the first.  I know.  I'm really proud of you.  I gotta go, Dad.  I gotta... You need anything, you call me.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2697_holly",
+      "emotion": "pride",
+      "dialogue": "- He a butler, ain't he? - Don't talk about my dad.  I don't talk about your dad. All right?  That's because my daddy's proud of what I'm doing.  (LOUD POPS)  - (ENGINE REVVING) - (TIRES SCREECHING)",
+      "target_person": "daddy",
+      "target_gender": "male",
+      "cause_raw": "son's actions",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP2698_holly",
+      "emotion": "pride",
+      "dialogue": "in America.  I buried my daddy over there.  My mama would have been right proud of me,  being with a man like you,  who's taken such good care of me all of these years.",
+      "target_person": "mama",
+      "target_gender": "female",
+      "cause_raw": "being with a good man",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

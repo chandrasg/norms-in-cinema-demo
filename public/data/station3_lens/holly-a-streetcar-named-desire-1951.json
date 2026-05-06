@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "702",
+    "title": "A Streetcar Named Desire",
+    "year": "1951",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+    "overview": "A disturbed, aging Southern belle moves in with her sister for solace — but being face-to-face with her brutish brother-in-law accelerates her downward spiral."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS421_holly",
+      "emotion": "shame",
+      "dialogue": "I've been half-crazy, Stella. How could you come back to this place last night?  Please, Blanche. He was as good as a lamb when I came back.  - He's really very ashamed of himself. - And that... - That makes it all right? - No.  - That makes it all right? - No.  Stanley's always smashed things.",
+      "target_person": "Stanley",
+      "target_gender": "male",
+      "cause_raw": "violent behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WS422_holly",
+      "emotion": "shame",
+      "dialogue": "Haven't you ever ridden on that streetcar?  It brought me here.  Where I'm not wanted... and where I'm ashamed to be.  and where I'm ashamed to be.  Don't you think your superior attitude's a little out of place?",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "feeling of not belonging and feeling ashamed",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS423_holly",
+      "emotion": "shame",
+      "dialogue": "It brought me here.  Where I'm not wanted... and where I'm ashamed to be.  and where I'm ashamed to be.  Don't you think your superior attitude's a little out of place?  - A man like that... - I told you I love him.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "feeling unwanted and ashamed",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS424_holly",
+      "emotion": "shame",
+      "dialogue": "Oh. Well, why don't you sit down. Take off your coat. Loosen your collar.  - No, I better leave it on. - No. I want you to be comfortable.  No, I'm ashamed of the way I perspire. My shirt is sticking to me.  Perspiration is healthy. If people didn't perspire, they would die in five minutes.  Oh, this is a nice coat. What...? - What material is it? - They call this stuff alpaca.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "excessive perspiration",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS425_holly",
+      "emotion": "shame",
+      "dialogue": "And that was all he could do. He was just a human bottle-opener.  Then one time at a wedding party, he broke his front teeth right off.  And then after that, he was so ashamed of himself... that he used to sneak out of the house when company came.  that he used to sneak out of the house when company came.  Rain from heaven.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "physical incapability/accident",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP914_holly",
+      "emotion": "pride",
+      "dialogue": "People from Poland are Poles, they are not Polacks!  But what I am is 100 percent American!  I'm born and raised in the greatest country on earth and I'm proud of it!  - And don't you ever call me a Polack! - That's for me, I'm sure!  Just keep your seat. I'm not so sure.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being 100 percent American",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

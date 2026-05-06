@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "26845",
+    "title": "Tarzan the Ape Man",
+    "year": "1932",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/sqtdNAktAI3p1iXmaEooaHjMmWd.jpg",
+    "overview": "James Parker and Harry Holt are on an expedition in Africa in search of the elephant burial grounds that will provide enough ivory to make them rich. Parker's beautiful daughter Jane arrives unexpectedly to join them. Jane is terrified when Tarzan and his ape friends abduct her, but when she returns to her father's expedition she has second thoughts about leaving Tarzan."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1082_holly",
+      "emotion": "shame",
+      "dialogue": "I'm going. Parker.  That's my gill.  Now. go out there and shame those b******s.  Parker, I-  - You're a b*****d. - Oh, I am.",
+      "target_person": "Parker",
+      "target_gender": "male",
+      "cause_raw": "being called a b*****d",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS1273_holly",
+      "emotion": "shame",
+      "dialogue": "I'm going. Parker.  That's my gill.  Now. go out there and shame those b******s.  Parker, I-  - You're a b*****d. - Oh, I am.",
+      "target_person": "Parker",
+      "target_gender": "male",
+      "cause_raw": "being called a b*****d",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP2061_holly",
+      "emotion": "pride",
+      "dialogue": "What now?  \"Deliver to Parker expedition. \"  Wake up. my proud beauty.  Holt! Get up, Holt!  Holt. she's here!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2062_holly",
+      "emotion": "pride",
+      "dialogue": "This is their leader. Jahmay.  Why would these 10 go and not the others?  Their pride. They're not as superstitious as the others.  They like the money.  Well. 10 times the money. then.",
+      "target_person": "Jahmay",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2286_holly",
+      "emotion": "pride",
+      "dialogue": "What now?  \"Deliver to Parker expedition. \"  Wake up. my proud beauty.  Holt! Get up, Holt!  Holt. she's here!",
+      "target_person": "Parker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2287_holly",
+      "emotion": "pride",
+      "dialogue": "This is their leader. Jahmay.  Why would these 10 go and not the others?  Their pride. They're not as superstitious as the others.  They like the money.  Well. 10 times the money. then.",
+      "target_person": "Jahmay",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

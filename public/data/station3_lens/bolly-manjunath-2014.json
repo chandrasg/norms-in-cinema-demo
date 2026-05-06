@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "316846",
+    "title": "Manjunath",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/q98d9y6FHRsosMLiPoUq7B9KKPx.jpg",
+    "overview": "Shanmugam Manjunath, an IIM student, who was killed for his stand against corruption and fuel adulteration."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Academic Success",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3460_bolly",
+      "emotion": "shame",
+      "dialogue": "Look mom that guy..he's staring.. blank at me..he knows me.. and he's looking back at me..Just not bothered..it's so blatant Shameless! Bloody thieves! My boss?",
+      "target_person": "boss",
+      "target_gender": "male",
+      "cause_raw": "Ignoring or not acknowledging someone",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3461_bolly",
+      "emotion": "shame",
+      "dialogue": "Please.. I'm really sorry, madam..You should be! Oh.. you leave.. please leave.. your work will be done..Don't worry, please go..Uh.. I'll do the needful. Don't bother And you should have some shame, next time..Thank you! Good day..That's not funny He was actually..Anyway, I spoke to Zaki Ahmad.. the chargesheet has been filed",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "not fulfilling responsibilities",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1835_bolly",
+      "emotion": "pride",
+      "dialogue": "We're here to take care of you..If you don't mind.. can you please transfer him..Ma.. - in Bangalore or..No wait.. wait.... near me sir..Yes.. She's right..She's a mother after all.. my oh my..How did I not think of this before? You don't worry..Please sir, she does not mean what she's saying..I don't want a transfer..Running away isn't going to change anything.. at least not now..I know you feel that like other people, I also feel that you are the problem. But I know.. there is no problem with you..it is these people..Who are greedy.. they're weak.. and scared..You are the strong one..the only one who is speaking the truth without fear.... but after coming here I realized.... how no one can really hold a candle to you..I am proud to be your mother But....what can I do if I am a mother? I can't sleep in night thinking....something bad these people will do to you..If you still feel you do not want to talk to me..I will not blame you..Take care..Love.. Amma..More girls?",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "child's courage and honesty",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p1836_bolly",
+      "emotion": "pride",
+      "dialogue": "What did you get by doing this? Are you happy? My dad's proud of me now....people know him as my father..Do you think your children would be proud to have you as a father? I'll tell you what..You tell them to be like me, not like you..They'll be happy It's a crime in which a person whose duty was to check the petrol pumps....and to stop the irregularities being committed....has been put to death without provocation..I don't know how to say this.. but thank you all very much..It's OK.. I'm just doing my job..Manju was also just doing his job..The victim was unarmed when he was put to death in a planned way..The accused Golu Goyal, is convicted and sentenced to death....for the crime punishable under section 302.... read along with section 149 lPC....and the accused shall be hanged by the neck, till he is dead..The accused Devendra Agnihotri, Sanjeev Anand, Rajesh Mishra..Sanjay Sharma, Shiv Kumar alias Lallan, Vijay Verma and Jitesh Kumar....are convicted and sentenced to life imprisonment..Shanmugam sir.. congratulations!",
+      "target_person": "dad",
+      "target_gender": "male",
+      "cause_raw": "child's achievement",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

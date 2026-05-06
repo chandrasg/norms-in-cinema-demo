@@ -1,0 +1,110 @@
+{
+  "film": {
+    "id": "304760",
+    "title": "Virudhunagar Sandippu",
+    "year": "2011",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "",
+    "overview": "Film starring Chandru, Denna and KR.Vijaya"
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2003_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh yes, my belt and my pistol ...have begun to rust This  cap... It's supposed to be our crown But I wear It to cover my shame when I look at myself In the mirror  at home...l feel as If I'm naked, despite  wearing  this  uniform  That gaze of yours Isn't any different  from that mlrror , Vldyadhar",
+      "target_person": "policeman",
+      "target_gender": "male",
+      "cause_raw": "corruption and inefficiency",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2004_bolly",
+      "emotion": "shame",
+      "dialogue": "what did  I say to you? we don't swim  against  the tide  In our country Go and leave her at the airport . - Airport ...?You mean you've brought her here? - The poor girl 's waiting  outside  Don't you father and son have any shame? - Mom, It's okay, she'll stay In a hotel shut up! stay In a hotel! And you... - Yes?",
+      "target_person": "father and son",
+      "target_gender": "male",
+      "cause_raw": "bringing a girl home without proper arrangements",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2005_bolly",
+      "emotion": "shame",
+      "dialogue": "He, who attained  martyrdom, fighting  against  injustice  He gave a fitting  reply to the terror-tactics  of the Home Minister  I'm ashamed to say that we are ruled by dogs Are we to be mute spectators to this  terror? If Mr Patwardan...doesn't get justice , shyamrao Rane will  go on a fast unto death",
+      "target_person": "Government/Politicians",
+      "target_gender": "unclear",
+      "cause_raw": "Injustice and corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2006_bolly",
+      "emotion": "shame",
+      "dialogue": "I want to know the reason of your carelessness Mr Patwardan, It Is evident  that you were wronged Not only this  court but the entire  system Is ashamed for It If only my son tried  to do what your son did  But the past Is Irrevocable",
+      "target_person": "Mr. Patwardan",
+      "target_gender": "male",
+      "cause_raw": "Carelessness",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1060_bolly",
+      "emotion": "pride",
+      "dialogue": "Tony! Be gentle! Don't you know It  disturbs the gentleman? see? - wow! I'm so proud of you! - Thank you, thank you Nobody's  watching Dad then took  his  friends to the garage under some pretext or the other",
+      "target_person": "Tony",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1061_bolly",
+      "emotion": "pride",
+      "dialogue": "we kept  meeting each other  quite regularly...and before we knew It, we had fallen In love And... here we are. - well done, Amar I'm really proud of you. - Proud...? That's great! You always used to  complain that  this boy meddles In other people's  affairs And now you're proud? - How else would he meet Jenny?",
+      "target_person": "Amar",
+      "target_gender": "male",
+      "cause_raw": "falling in love",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1062_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm really proud of you. - Proud...? That's great! You always used to  complain that  this boy meddles In other people's  affairs And now you're proud? - How else would he meet Jenny? Brave boy. - I  think It was... Hindi! say It In  Hindi. - Okay I  think that because of the  liquor... Yes?",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "meeting Jenny",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

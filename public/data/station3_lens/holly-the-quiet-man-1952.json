@@ -1,0 +1,134 @@
+{
+  "film": {
+    "id": "3109",
+    "title": "The Quiet Man",
+    "year": "1952",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/u3B1hVKHE56yBRoxF3Nk9uxHdYN.jpg",
+    "overview": "An American man returns to the village of his birth in Ireland, where he finds love and conflict."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 3
+    },
+    "pride": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS635_holly",
+      "emotion": "shame",
+      "dialogue": "You sort of make a habit of it. This morning it was widow Tillane.  What's that?  That's true. It's ashamed you should be.  Hey, look, I'm not accusing Mary Kate. It's him.  Why, this very moment, let him deny it if he can.",
+      "target_person": "Him",
+      "target_gender": "male",
+      "cause_raw": "habit of causing trouble or distress",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WS636_holly",
+      "emotion": "shame",
+      "dialogue": "Morning, Mary Kate. Morning, children.  Don't sit there gawking. You're gonna put up your bonnet.  - I will do no such shameless thing. - You will.  I will not!  No bonnet, Mary Kate? What a pity.",
+      "target_person": "Mary Kate",
+      "target_gender": "female",
+      "cause_raw": "not wearing a bonnet",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS637_holly",
+      "emotion": "shame",
+      "dialogue": "I don't give... a hang about the money.  But he does! That's the whole point of it.  - Now will you go and ask him? - No. Why shame ourselves?  Shame? The shame's on you, not on me. Or on me too, if I married a coward.  Is that what you think of me?",
+      "target_person": "Unnamed Male",
+      "target_gender": "male",
+      "cause_raw": "cowardice",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS638_holly",
+      "emotion": "shame",
+      "dialogue": "But he does! That's the whole point of it.  - Now will you go and ask him? - No. Why shame ourselves?  Shame? The shame's on you, not on me. Or on me too, if I married a coward.  Is that what you think of me?  What else if you let him rob you out of my money?",
+      "target_person": "Unnamed Male",
+      "target_gender": "male",
+      "cause_raw": "cowardice and allowing theft",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS639_holly",
+      "emotion": "shame",
+      "dialogue": "Why?  The very question. \"Why\", says I. \"Because I love him\", says she.  \"I love him too much to go on livin' with a man I'm ashamed of\".  - What time was this? - Time for the Dublin train.  Saddle up my horse, will you, please.",
+      "target_person": "She",
+      "target_gender": "female",
+      "cause_raw": "being with a man she's ashamed of",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WS640_holly",
+      "emotion": "shame",
+      "dialogue": "Saddle up my horse, will you, please.  Saddle his horse?  I'll have no part in helpin' you to put more shame on her.  Saddle his horse... Dam da dam da, diddle de da... Well, we're off!  Well, we're off!",
+      "target_person": "her",
+      "target_gender": "female",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1296_holly",
+      "emotion": "pride",
+      "dialogue": "...and there was the field where Dan Tobin's bull chased you.  It was a lovely little house, Seaneen, and the roses!  Your father used to tease me about them, but he was that proud of them, too.  That's nothin' but a wee humble cottage.  That little place across the brook, that humble cottage. Who owns it now?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "for his roses",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1297_holly",
+      "emotion": "pride",
+      "dialogue": "In a town called Castlemaine  He was his father's only son  His mother's pride and joy  And dearly did his parents love  This wild colonial boy",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "her son being her pride and joy",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1298_holly",
+      "emotion": "pride",
+      "dialogue": "In a place called Castlemaine  He was his father's only son  His mother's pride and joy  And dearly did his parents love  This wild colonial boy",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "her son's existence and presumably his actions/character",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

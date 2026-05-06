@@ -1,0 +1,142 @@
+{
+  "film": {
+    "id": "303401",
+    "title": "Jeevan Dhaara",
+    "year": "1982",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6OEIrk6JQSjNPfXEf5xJgtYmjDg.jpg",
+    "overview": "Mr. Shrivastav abandons his family for a life of hermitage.  His family struggles to carry on financially in his absence, with two daughters: Sangeeta and Geeta forced to carry the burden of employment, while their brother Ashok gambles their earnings away."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 2
+    },
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2725_bolly",
+      "emotion": "shame",
+      "dialogue": "You have a mother to satisfy your hunger. You have a wife to satisfy your body. There is a limit to shamelessness! Sangeeta. If I refuse him, then he'll start going to other women.",
+      "target_person": "Sangeeta's husband",
+      "target_gender": "male",
+      "cause_raw": "Infidelity and disrespect towards women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2726_bolly",
+      "emotion": "shame",
+      "dialogue": "Speak to me! Come on! Geeta, tell us. - don't know, mother! Don't try to act. You will bring shame to us! You will spoil our name! Sangeeta will skin you alive, if she hears about it.",
+      "target_person": "Geeta",
+      "target_gender": "female",
+      "cause_raw": "hiding information/lying",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "s2727_bolly",
+      "emotion": "shame",
+      "dialogue": "No! What are you doing? If this was written in her fate, then she....would have never become a widow! I will not allow anyone to bring shame....to this family, as long as I am alive! Dear, just think what will the world say? I don't care about the world!",
+      "target_person": "widow",
+      "target_gender": "female",
+      "cause_raw": "being a widow",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2728_bolly",
+      "emotion": "shame",
+      "dialogue": "And she has to be operated! How much money did brother take, sir? It's a limit to shamelessness. I can't stay with such a shameless person. He is not a brother but my enemy! My enemy!",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "shamelessness and taking money",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2729_bolly",
+      "emotion": "shame",
+      "dialogue": "How much money did brother take, sir? It's a limit to shamelessness. I can't stay with such a shameless person. He is not a brother but my enemy! My enemy! What are you doing, dear? Why are you leaving the house?",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "shamelessness and betrayal",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2730_bolly",
+      "emotion": "shame",
+      "dialogue": "He is my cancer. It would have been better if I would....have died after giving birth to him. You weren't ashamed to lie about mother to take that money?! Behave like a human. Earn a living on your own. If you don't get a job, then start a business.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "lying and not earning a living",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1435_bolly",
+      "emotion": "pride",
+      "dialogue": "Mom, I'm going to the office. Dear.. - You don't worry, mom. I'll show her what I am. She is proud of her earnings! Hi, love! He is Mr. Roop Kumar.. - Hello. Oh yes! He works in your office.",
+      "target_person": "She",
+      "target_gender": "female",
+      "cause_raw": "her earnings",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1436_bolly",
+      "emotion": "pride",
+      "dialogue": "No! No! Did you think you behaved rightly with your father? Are you so proud of your money that you....thought it was an insult to pay your respects to your father?! You sent your father away, hungry and thirsty! Your life is useless!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "disrespect and lack of care",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1437_bolly",
+      "emotion": "pride",
+      "dialogue": "Sister-in-law! Congrats, sister-in-law! Big brother has started working! - Really? Now you will have a place of pride in this family! Yes, please! Transfer 10 lakhs, okay? Bye!",
+      "target_person": "sister-in-law",
+      "target_gender": "female",
+      "cause_raw": "husband's employment",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

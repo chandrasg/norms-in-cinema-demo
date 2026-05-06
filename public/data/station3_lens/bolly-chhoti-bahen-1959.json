@@ -1,0 +1,165 @@
+{
+  "film": {
+    "id": "562668",
+    "title": "Chhoti Bahen",
+    "year": "1959",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6vOOgzh1hE5AXj3iF4BsiZx6YOW.jpg",
+    "overview": "Rajendra makes a meager existence supporting his younger brother and sister and vows not to marry until they have settled. However, when his sister loses her sight, his grand plan is threatened."
+  },
+  "totals": {
+    "shame": 12,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 3
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 9,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s768_bolly",
+      "emotion": "shame",
+      "dialogue": "Father I've given it to my sister Today is Rakshabandhan Isn't it Squander, squander it's father's money Aren't you ashamed to pay Rs10 for an ordinary thread Father this's not a thread It's a sister's prayer How can you know it's value",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "squandering father's money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s769_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll go to him let him tell me It won't be of any use You can only  put him to shame Till a person becomes absolutely  shameless  He can't gobble  daughter's money",
+      "target_person": "person gobbling daughter's money",
+      "target_gender": "male",
+      "cause_raw": "misusing daughter's money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s770_bolly",
+      "emotion": "shame",
+      "dialogue": "It won't be of any use You can only  put him to shame Till a person becomes absolutely  shameless  He can't gobble  daughter's money Now I've a feeling  that Shekhar may not be able  to attend the examination",
+      "target_person": "Shekhar",
+      "target_gender": "male",
+      "cause_raw": "depending on daughter's money",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s771_bolly",
+      "emotion": "shame",
+      "dialogue": "Father, she's not a Brass Idol  but she's a Golden  Idol  And father...father I Love Sheela  Shameless  Aren't you ashamed to talk  like this with your father? Father, why should  I feel  ashamed to talk  truth?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "expressing love for a girl",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s772_bolly",
+      "emotion": "shame",
+      "dialogue": "And father...father I Love Sheela  Shameless  Aren't you ashamed to talk  like this with your father? Father, why should  I feel  ashamed to talk  truth? And you don't feel  ashamed even to tell lies",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "expressing love for a girl",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s773_bolly",
+      "emotion": "shame",
+      "dialogue": "Shameless  Aren't you ashamed to talk  like this with your father? Father, why should  I feel  ashamed to talk  truth? And you don't feel  ashamed even to tell lies It's different for me I'm a Businessman",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disrespecting and lying to father",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s774_bolly",
+      "emotion": "shame",
+      "dialogue": "Aren't you ashamed to talk  like this with your father? Father, why should  I feel  ashamed to talk  truth? And you don't feel  ashamed even to tell lies It's different for me I'm a Businessman Then, father, it's different for me also ! I too love her",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disrespecting father",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s775_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm not gone mad, but I'll become one day You've given a great title  for serving you...Let God bless  you with prosperity Aren't you ashamed to fight with your sister-in-law? She loves you like her own daughter You've forgotten, from which house she had come?",
+      "target_person": "character",
+      "target_gender": "female",
+      "cause_raw": "fighting with family members",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s776_bolly",
+      "emotion": "shame",
+      "dialogue": "Fell down or did you do it wantonly  Why're you lying sister-in-law? Meena are you calling  your sister-in-law as a Liar? shameless  Useless ! Will you rise your hands on a sister?",
+      "target_person": "Meena",
+      "target_gender": "female",
+      "cause_raw": "Accusing sister-in-law of lying and raising hand on her",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s777_bolly",
+      "emotion": "shame",
+      "dialogue": "Brother-in-law has gone away? What else  could  he do? He's not shameless  like me He thinks, I'm a rich man I've achieved great success Who's to tell him, what I've become?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "perceived failure",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s778_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh! God!...Oh! God! will you beat me Get out...Get out...Oh! God!...I'm dead! Shameless  creature! take away the articles ! Any information about Meena? Brother, don't worry! we'll find her in a day or two",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "behaving shamelessly",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s779_bolly",
+      "emotion": "shame",
+      "dialogue": "Fell down or did you throw it voluntarily ? Sister-in-law, why're are you lying? Are you calling  your sister-in-law a liar, Shameless  I don't have time for these useless  things, I'm going No, brother, this is a sister's prayer",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "disrespecting sister-in-law",
+      "theme_label": "Disrespect"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "620814",
+    "title": "Pranaam",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/115f1t03C35rSQmfOupJ9DdkcjG.jpg",
+    "overview": "A peon's son who is an aspiring IAS officer is compelled to change his path leading him to turn into a gangster."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1426_bolly",
+      "emotion": "shame",
+      "dialogue": "You-- Rascal! How dare you tease a girl in my college? You should be ashamed of yourself. I apologize on his behalf. If this happens again, let me know.",
+      "target_person": "teaser",
+      "target_gender": "male",
+      "cause_raw": "teasing a girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1427_bolly",
+      "emotion": "shame",
+      "dialogue": "That's enough, Dad. Enough. Shame on you! -Thakur Tejpratap Singh! -Shame on you! The papers have been leaked for the third year in a row.",
+      "target_person": "Thakur Tejpratap Singh",
+      "target_gender": "male",
+      "cause_raw": "corruption in education system",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s1428_bolly",
+      "emotion": "shame",
+      "dialogue": "Enough. Shame on you! -Thakur Tejpratap Singh! -Shame on you! The papers have been leaked for the third year in a row. These papers have been sold for about five lakh rupees.",
+      "target_person": "Thakur Tejpratap Singh",
+      "target_gender": "male",
+      "cause_raw": "corruption in education system",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p755_bolly",
+      "emotion": "pride",
+      "dialogue": "But no one wears saris these days. All right, I'll buy you miniskirts. Your in-laws will be very proud of you. Get me skirts. Okay, I'll gift all your saris to Manjiri for her wedding.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "wearing modern clothes",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p756_bolly",
+      "emotion": "pride",
+      "dialogue": "Only you Only you Only you Make us proud! We passed the exams, Uncle! Congratulations, my dear! Have some sweets.",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "passing exams",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p757_bolly",
+      "emotion": "pride",
+      "dialogue": "But Manjiri Shukla, a student of the same university has bagged the seventh rank in the IAS exams and made the university proud. Don't cry, Manjiri. If tears could wipe away misfortune...nobody in the world would be miserable.",
+      "target_person": "university",
+      "target_gender": "female",
+      "cause_raw": "Student's achievement in IAS exams",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

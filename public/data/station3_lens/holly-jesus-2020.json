@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "691777",
+    "title": "Jesus",
+    "year": "2020",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/pXuwPLFJr2LmpOOvyP6kHbQ0wux.jpg",
+    "overview": "From the bustling streets of Jerusalem to the raging Sea of Galilee, join Peter, Nicodemus, Mary Magdalene, and a multitude of others as they journey alongside the most famous person ever to walk the earth. Witness the most miraculous events in history as Jesus sets sail with fishermen, challenges the Pharisees, befriends the outcasts, and heals the hurting. The lives he touches will never be the same. Filmed in front of a live audience, Sight & Sound's spectacular original production has been experienced by over one million people live on stage."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1139_holly",
+      "emotion": "shame",
+      "dialogue": "and whoever would lose his life for My sake will save it.  What will it profit a man if he gains the whole earth and loses his own souI?  If any man is ashamed of Me and My teachings,  then the Son of Man will be ashamed of him  when He comes in His glory,",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being ashamed of religious teachings",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1140_holly",
+      "emotion": "shame",
+      "dialogue": "What will it profit a man if he gains the whole earth and loses his own souI?  If any man is ashamed of Me and My teachings,  then the Son of Man will be ashamed of him  when He comes in His glory,  and the glory of the Father and the holy angels.",
+      "target_person": "Any man",
+      "target_gender": "male",
+      "cause_raw": "being ashamed of religious teachings",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1141_holly",
+      "emotion": "shame",
+      "dialogue": "where everything the prophets wrote about the Son of Man will come true.  He will be handed over to the Gentiles.  They will mock Him, and treat Him shamefully and spit on Him.  He will be whipped and killed.  But on the third day, He will rise.",
+      "target_person": "Son of Man",
+      "target_gender": "male",
+      "cause_raw": "being mocked and treated shamefully",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1142_holly",
+      "emotion": "shame",
+      "dialogue": "But the tenants beat the slave and sent him back without a thing.  So he sent another slave. but the tenants beat him, too,  treated him shamefully and sent him back without a thing.  Then he sent a third slave.  But the tenants wounded him, too, and threw him out.",
+      "target_person": "slaves",
+      "target_gender": "male",
+      "cause_raw": "being beaten and treated poorly",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP2142_holly",
+      "emotion": "pride",
+      "dialogue": "And Jesus still lives today.  He is the greatest and most powerfuI influence in the world.  The proud statesmen of the past centuries have come and gone.  Rulers, scholars, scientists,  philosophers, and theologians have come and gone.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

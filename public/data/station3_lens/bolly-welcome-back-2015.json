@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "357563",
+    "title": "Welcome Back",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xnRIT3ggVcJxGWylKw85n6pteLp.jpg",
+    "overview": "A pair of reformed gangsters try to find a husband for their newly discovered sister, but complications arise due to mistaken identities."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4585_bolly",
+      "emotion": "shame",
+      "dialogue": "And I will humiliate them in a way they've never been humiliated before. Very good, uncle. Insult them so bad that even the ipod can't hide their shame. Come on, son. There. Take shots from different angles, uncle.",
+      "target_person": "unidentified characters",
+      "target_gender": "unclear",
+      "cause_raw": "humiliation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4586_bolly",
+      "emotion": "shame",
+      "dialogue": "He'll be happy? And listen, we'll sell these at the flea market. He's really shameless. Let him come. - But don't tell Pappu. - I won't.",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "dishonesty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s4587_bolly",
+      "emotion": "shame",
+      "dialogue": "You could've kissed her lips, but you kissed her cheek instead. This happened in the 70's. Shame on you. Bhai... you should've done as she did. Lip-to-lip, bhai.",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "not being bold in romantic advances",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4588_bolly",
+      "emotion": "shame",
+      "dialogue": "Ghunghroo... we're embarrassed too. I don't care. Go and hide your shameless faces. - Please..Why did you come here? I told you I'll deal with them. Sir... this is my home. So Ghunghroo's a paying-guest here?",
+      "target_person": "Ghunghroo",
+      "target_gender": "male",
+      "cause_raw": "causing embarrassment",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s4589_bolly",
+      "emotion": "shame",
+      "dialogue": "Listen... your anger is justified. He's such a cheapster. Bloody ignorant. I'm ashamed to say he's my friend. Rascal...What happened? He isn't fit to talk to.",
+      "target_person": "friend",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

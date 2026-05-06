@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "84327",
+    "title": "The Queen of Versailles",
+    "year": "2012",
+    "industry": "holly",
+    "country": "US|DK|GB|NL",
+    "poster_path": "/eFMRyapxD7XP5Boj6CLaDtQ1m3o.jpg",
+    "overview": "With the epic dimensions of a Shakespearean tragedy, The Queen of Versailles follows billionaires Jackie and David’s rags-to-riches story to uncover the innate virtues and flaws of their American dream. We open on the triumphant construction of the biggest house in America, a sprawling, 90,000-square-foot mansion inspired by Versailles. Since a booming time-share business built on the real-estate bubble is financing it, the economic crisis brings progress to a halt and seals the fate of its owners. We witness the impact of this turn of fortune over the next two years in a riveting film fraught with delusion, denial, and self-effacing humor."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS970_holly",
+      "emotion": "shame",
+      "dialogue": "time-share company in the world,  and this is the pinnacle of it.  It'd be a real shame, though, to actually lose it.  If they use every method they can  to try to get the building back,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "potential loss of property",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WP1809_holly",
+      "emotion": "pride",
+      "dialogue": "- No, I don't like chicken nuggets. - With all the sauces.  - Wow. - How beautiful.  We're proud to present a check for $25,000  to the Miss America Foundation.  Hey, did my stairs get shorter or are these girls--",
+      "target_person": "We",
+      "target_gender": "unclear",
+      "cause_raw": "presenting a check to the Miss America Foundation",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1810_holly",
+      "emotion": "pride",
+      "dialogue": "and it's kind of similar how my background parallels to her  'cause we kind of came from not very much,  but it's something that I'm very proud of.  I'm very proud of my background  growing up on a dairy farm in a small town in Indiana.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "their humble background",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP1811_holly",
+      "emotion": "pride",
+      "dialogue": "'cause we kind of came from not very much,  but it's something that I'm very proud of.  I'm very proud of my background  growing up on a dairy farm in a small town in Indiana.  And now I'm Miss America.",
+      "target_person": "Miss America",
+      "target_gender": "female",
+      "cause_raw": "her background and becoming Miss America",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1812_holly",
+      "emotion": "pride",
+      "dialogue": "to my mother and father.  My dad, he's looking down on it.  He would be so proud.  Whoo!  I've set up all of my sales departments",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "for setting up sales departments",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

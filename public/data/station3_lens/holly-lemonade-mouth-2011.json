@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "65218",
+    "title": "Lemonade Mouth",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/5Tbbxf38c16kbfezmXkPYS2tYRN.jpg",
+    "overview": "When five ragtag freshman first meet in detention, it seems they have nothing in common. But, through music, they form an unbreakable bond and discover they have the makings of the greatest high school garage band in history! In the face of incredible odds, Olivia, Stella, Wen, Mohini and Charlie find they can make a real difference when they learn to lean on each other and let go of everything holding back their dreams."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP200_holly",
+      "emotion": "pride",
+      "dialogue": "Mudslide Crush. They're mad we cut their show short.  - So? - So they're the cool guys.  The pride of Mesa High.  - And what are we? - We are rash-like, persistent.  Hmm.",
+      "target_person": "Mudslide Crush",
+      "target_gender": "unclear",
+      "cause_raw": "being the cool guys and pride of Mesa High",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP201_holly",
+      "emotion": "pride",
+      "dialogue": "I see everyone brought their official underworld badges.  - Yeah. - Yeah.  - We're subterranean and we're proud. - Ha, ha.  - Yeah. - Mm-hm.  Ew.",
+      "target_person": "subterranean characters",
+      "target_gender": "unclear",
+      "cause_raw": "being subterranean",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP202_holly",
+      "emotion": "pride",
+      "dialogue": "Because, ladies and gentlemen,  we do matter!  Be heard, be strong, be proud  I wanna make some noise  Stand up, come on, be loud",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP203_holly",
+      "emotion": "pride",
+      "dialogue": "You better run 'Cause we don't take no, no, no  Come on  Be heard, be strong, be proud  - I wanna make some noise - Stella, stop it!  - Stand up, come on, be loud - We're gonna raise our voice",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP204_holly",
+      "emotion": "pride",
+      "dialogue": "but we are one.  - Oh, ho, ho. - Everybody ready? Let's go!  Be heard, be strong, be proud  I wanna make some noise  Stand up, come on, be loud",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP205_holly",
+      "emotion": "pride",
+      "dialogue": "I'm sorry that I've been so distracted lately.  But, Stell,  I couldn't be any prouder of what I see.  Really?  - Thanks, Mom. - Hey, let's get out of here.",
+      "target_person": "Mom",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

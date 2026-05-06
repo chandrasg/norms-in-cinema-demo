@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "192675",
+    "title": "Eklavya: The Royal Guard",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8IdT65RInyPf5Bo5wkqxKMituwJ.jpg",
+    "overview": "As the kingdom of Devigarh comes apart at the seams, an aging bodyguard attempts to protect the Royal Family, as well as keep its darkest secrets from ever coming to light."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5221_bolly",
+      "emotion": "shame",
+      "dialogue": "- She should say sorry. - I'm sorry. I'm sorry, okay? Good you came, Harsh. Such a shame you couldn't be here when your mother really needed you. Anyway, it's too late now. Come on. Let's go.",
+      "target_person": "Harsh",
+      "target_gender": "male",
+      "cause_raw": "not being there for his mother when she needed him",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s5222_bolly",
+      "emotion": "shame",
+      "dialogue": "So submissive all these years. Head bowed. How he must've laughed. Laughed at my inadequacies. At my every shameful flaw. Even this, Jyoti! Eklavya is coming. B*****d!",
+      "target_person": "Jyoti",
+      "target_gender": "female",
+      "cause_raw": "Being submissive and inadequate",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s5223_bolly",
+      "emotion": "shame",
+      "dialogue": "Uday, how do I look? 'His Highness!' 'As you wish, Your Highness!' How can you call him 'Your Highness?' I'm ashamed to call him uncle. How long have you been calling him uncle? - 27 years. - 52 years!",
+      "target_person": "Uday",
+      "target_gender": "male",
+      "cause_raw": "not respecting family hierarchy",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p2939_bolly",
+      "emotion": "pride",
+      "dialogue": "Long live King Harshwardhan! I have returned your land for selfish reasons. I want to make my father proud. Today with all of you as my witness......I hereby acknowledge Eklavya as my father. Son.",
+      "target_person": "King Harshwardhan",
+      "target_gender": "male",
+      "cause_raw": "acknowledging Eklavya as his father",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "film": {
+    "id": "275931",
+    "title": "Jaali Note",
+    "year": "1960",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/c3q1EXu79nLgnHRqv9oj52y7fU5.jpg",
+    "overview": "High-minded and hardworking Inspector Dinesh Kumar (Dev Anand) is assigned to crack the case of a notorious band of counterfeiters. Risking life and limb in pursuit of the criminals, he goes undercover to infiltrate the gang and bring them to justice. Along the way, he finds romance with a beautiful journalist (Madhubala) and makes a shocking discovery that resonates with personal meaning."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 3
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2620_bolly",
+      "emotion": "shame",
+      "dialogue": "Take a look at the mirror. Don't give me your heart! Take a look at your face and feel  ashamed. Take a look at the mirror. Don't give me your heart!",
+      "target_person": "addressee",
+      "target_gender": "unclear",
+      "cause_raw": "physical appearance",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2621_bolly",
+      "emotion": "shame",
+      "dialogue": "Take a look at the mirror. Don't give me your heart! Take a look at your face and feel  ashamed. The heart belongs  to you! The sorrow of your love is so strange!..is so strange!",
+      "target_person": "character being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "physical appearance",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2622_bolly",
+      "emotion": "shame",
+      "dialogue": "Are you intoxicated? Come to your senses. Take a look at your face and feel  ashamed. The heart belongs  to you! You are a beautiful  flower  of the garden of life...a beautiful  flower  of the garden of life.",
+      "target_person": "addressee",
+      "target_gender": "unclear",
+      "cause_raw": "intoxication",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s2623_bolly",
+      "emotion": "shame",
+      "dialogue": "Take a look at the mirror. Don't give me your heart! Take a look at your face and feel  ashamed. The heart belongs  to you! Take a look at this?",
+      "target_person": "listener",
+      "target_gender": "unclear",
+      "cause_raw": "physical appearance",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2624_bolly",
+      "emotion": "shame",
+      "dialogue": "Renu darling , if you have hard everything then I won't hide it. I accept that I deal  in counterfeit money. Aren't you ashamed! You told  me such a big lie to make me fall in love with you. Is this what you call service to your nation?",
+      "target_person": "Renu's lover",
+      "target_gender": "male",
+      "cause_raw": "Dealing in counterfeit money and lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2625_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't be crazy, use your mind. This lakhs of rupees will benefit us all our life. Shame on the life that depends on such money. Renu, calmly  tell me. What do you want?",
+      "target_person": "Renu",
+      "target_gender": "female",
+      "cause_raw": "depending on ill-gotten money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "p1374_bolly",
+      "emotion": "pride",
+      "dialogue": "Arrest all of them. - Come on, downstairs. No! Dinesh. I am proud of you. Thank you, sir.",
+      "target_person": "Dinesh",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

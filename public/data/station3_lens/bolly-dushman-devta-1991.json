@@ -1,0 +1,121 @@
+{
+  "film": {
+    "id": "528100",
+    "title": "Dushman Devta",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/j1wGzl6n5IPyRZfzipn6uyQOm12.jpg",
+    "overview": "Shiva is an escaped convict who is looking for a suitable place to hide from the police. His adventures lead him to end up in a rural region which happens to be the main target of bandits and wild animals - with no one who can stop them from looting and killing the residents there. Shiva finds that he can take refuge there. His methods of solving the issues get him well respected by the residents who regard him as god without knowing that Shiva has an ulterior motive."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 3
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5156_bolly",
+      "emotion": "shame",
+      "dialogue": "You got time to come to the village. Raja sir, I went to Madhavpur. It's a matter of shame inspector, that the dacoits......come here very easily, kill people, loot their valuables......and escape very easily. Come on! Come on. After that, after everything gets over......then you get time to come over here.",
+      "target_person": "inspector",
+      "target_gender": "male",
+      "cause_raw": "incompetence in maintaining law and order",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s5157_bolly",
+      "emotion": "shame",
+      "dialogue": "And a lot of kids. Kids would be ours, and goats will be of villagers. Hey you goat-thief. Don't you get ashamed of stealing goats? Goats are coming but, shame comes or not is not a matter. Hey! Tell me whether you'll marry me or not?",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "stealing goats",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s5158_bolly",
+      "emotion": "shame",
+      "dialogue": "Kids would be ours, and goats will be of villagers. Hey you goat-thief. Don't you get ashamed of stealing goats? Goats are coming but, shame comes or not is not a matter. Hey! Tell me whether you'll marry me or not? No, no, no, marriage and that too with you.",
+      "target_person": "goat-thief",
+      "target_gender": "male",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s5159_bolly",
+      "emotion": "shame",
+      "dialogue": "If I report this in the police station. What name shall I mention over there? If his name comes on my lips, I start blushing with shame. If I report this in the police station. What name shall I mention over there?",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "reporting a personal matter to the police",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s5160_bolly",
+      "emotion": "shame",
+      "dialogue": "If I report this in the police station. What name shall I mention over there? If his name comes on my lips, I start blushing with shame. Oh dear, oh dear, just listen. In my love-house, in my love-house.",
+      "target_person": "character",
+      "target_gender": "female",
+      "cause_raw": "expressing love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s5161_bolly",
+      "emotion": "shame",
+      "dialogue": "First of all you come to the lake which is meant for women. Then you also steal their clothes. Don't you feel ashamed? - I feel a lot of shame. But it goes away after seeing you. You just wait, I will show you.",
+      "target_person": "male character",
+      "target_gender": "male",
+      "cause_raw": "invading women's privacy and stealing",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s5162_bolly",
+      "emotion": "shame",
+      "dialogue": "Get up. - Suraj is one of the men of the dacoits. No, no how can this be? - Don't say no, say yes old man. I feel ashamed that I thought of Suraj as my right hand. But he turned out to be a snake in disguise. Your son is a dacoit. - That is why he attacked Swami-ji.",
+      "target_person": "Suraj's father",
+      "target_gender": "male",
+      "cause_raw": "son's criminal activities",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p2899_bolly",
+      "emotion": "pride",
+      "dialogue": "And destroy them with your revenge. If you have to die then each one......must kill at least 10 of those jerks. So that your kids tomorrow will work on the fields with pride. It's better to die like a dog than to die like this. But what weapon do we have?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "revenge and future prosperity of kids",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

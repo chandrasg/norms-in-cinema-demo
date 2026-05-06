@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "101728",
+    "title": "Vijay",
+    "year": "1988",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/487Qj9UgxOiT8Jz7dcesuBx9pki.jpg",
+    "overview": "Vijay is a story about various characters that are bound by relationships of love and friendship. How they become foes and take up weapons against each other. When Arjun and Vicky meet, they are oblivious to the fact that they are cousin brothers."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2007_bolly",
+      "emotion": "shame",
+      "dialogue": "But on condition that I get to fight someone who is man enough Arjun, you are crossing your limits. - Your limits I know very well You are even ashamed to accept your own father Your eyes are mine Make me weep if you want",
+      "target_person": "Arjun",
+      "target_gender": "male",
+      "cause_raw": "Denying his own father",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2008_bolly",
+      "emotion": "shame",
+      "dialogue": "By this fire I swear...your dream hotel will come true All your life, you have walked with your head held high I will not let your head hang in shame With every drop of my blood, I shall repay every penny you owe In faith you shall find power",
+      "target_person": "debtor",
+      "target_gender": "unclear",
+      "cause_raw": "financial debt",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2009_bolly",
+      "emotion": "shame",
+      "dialogue": "In time, you might remember. Excuse me, Mr Bhardwaj Not the right thing to do, Arjun. I called in the police...and you say you have seen no one ... the ones who tried to kill you You know fully well. But you want to save him...because he happens to be my son. And I happen to be ashamed...to call him my son He would've been put paid. But Ajit came by He, that root cause. I don't know what to do",
+      "target_person": "Mr Bhardwaj's son",
+      "target_gender": "male",
+      "cause_raw": "criminal activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p1064_bolly",
+      "emotion": "pride",
+      "dialogue": "My aging father will have to live all alone. Do you not feel? His years of labour, all that he has built, might be ruined Don't you have a heart? - Having a heart doesn't mean...having to sell my pride The Managing directorship, or being Ajit's wife? Decide. Here and now I did it when I married you. - Marry me, you did",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "maintaining self-respect",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1065_bolly",
+      "emotion": "pride",
+      "dialogue": "Audacity How can Ajit stand up to you? Uncle, this is a conspiracy against you Ajit has been appointed to humiliate you What makes them, father and son, so proud? Just a strip of land? Uncle, time was when you ruled the roost Your enemies would opt out of projects that you took up",
+      "target_person": "Ajit",
+      "target_gender": "male",
+      "cause_raw": "owning land",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1066_bolly",
+      "emotion": "pride",
+      "dialogue": "This is just what I am doing What nonsense? Not nonsense. It's the truth. My father was a proud man You cornered him over a false claim, you strangled him He did not commit suicide. He was killed. And you are his murderer",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

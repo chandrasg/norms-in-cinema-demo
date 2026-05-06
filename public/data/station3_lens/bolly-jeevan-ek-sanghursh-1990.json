@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "305251",
+    "title": "Jeevan Ek Sanghursh",
+    "year": "1990",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/uTtM20E9dues80rlmqUJTnWxxax.jpg",
+    "overview": "Karan is a thief who is good at heart and tries to keep Rattan, a gangster, from causing trouble. Thereafter, his life changes when he meets his estranged family and falls in love with Madhu."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2731_bolly",
+      "emotion": "shame",
+      "dialogue": "He was paying ten times the money. -l won hundred from one rupee. You..You gambled? Aren't you ashamed? Mother, but you needed the money. I don't want your filthy money.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "gambling",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2732_bolly",
+      "emotion": "shame",
+      "dialogue": "Karan. Why did you come here? -Which brother can stop....himself on hearing that his sister is getting sacrificed? Aren't you ashamed to talk like this? I'm ashamed to think that my own....are ready to hand my sister to these demons. -Sulakshana. Who is he? He's talking to us so rudely.",
+      "target_person": "Karan's family",
+      "target_gender": "unclear",
+      "cause_raw": "willing to marry off their daughter to inappropriate suitors",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2733_bolly",
+      "emotion": "shame",
+      "dialogue": "Why did you come here? -Which brother can stop....himself on hearing that his sister is getting sacrificed? Aren't you ashamed to talk like this? I'm ashamed to think that my own....are ready to hand my sister to these demons. -Sulakshana. Who is he? He's talking to us so rudely. Maybe he doesn't know us.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "disrespecting family's decision",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p1438_bolly",
+      "emotion": "pride",
+      "dialogue": "I've left the crime the you hated so much. i've changed the life that you deemed wrong. Today you can say with pride that you've two sons, not one. You can say..Madhu, this..She's mother. Mother, I was going to come to you. To tell.. -What can you tell me?",
+      "target_person": "Madhu",
+      "target_gender": "male",
+      "cause_raw": "leaving crime and changing life",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

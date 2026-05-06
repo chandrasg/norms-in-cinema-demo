@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "504608",
+    "title": "Rocketman",
+    "year": "2019",
+    "industry": "holly",
+    "country": "GB|US",
+    "poster_path": "/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg",
+    "overview": "The story of Elton John's life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS683_holly",
+      "emotion": "shame",
+      "dialogue": "Yeah, but I started acting like a c**t in 1975.  I just forgot to stop.  I do feel ashamed.  Spent so long feeling resentful for things that just don't matter.  Maybe I should've tried to be more ordinary.",
+      "target_person": "Speaker",
+      "target_gender": "female",
+      "cause_raw": "acting inappropriately and holding onto resentment",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP1359_holly",
+      "emotion": "pride",
+      "dialogue": "Is it true you're worth 25 million pound?  Do you know, I don't actually know.  They're really proud of you. Mmm.  Yeah, we've even got some of your records.  Why don't you go and get the album? Grab us a pen.",
+      "target_person": "They",
+      "target_gender": "unclear",
+      "cause_raw": "for being worth 25 million pound",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1360_holly",
+      "emotion": "pride",
+      "dialogue": "Would you like a cup of tea?  Not got anything stronger?  You should be very proud.  I've watched you play many times, and your music is always so... personal and honest... and open.  and open.",
+      "target_person": "speaker 2",
+      "target_gender": "unclear",
+      "cause_raw": "creating personal and honest music",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

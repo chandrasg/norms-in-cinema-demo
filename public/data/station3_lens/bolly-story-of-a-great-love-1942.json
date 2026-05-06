@@ -1,0 +1,92 @@
+{
+  "film": {
+    "id": "240637",
+    "title": "Story of a Great Love",
+    "year": "1942",
+    "industry": "bolly",
+    "country": "MX",
+    "poster_path": "/4OTUeMpLTg9yNITITo6kUpYcbnF.jpg",
+    "overview": "Manuel leaves town leaving Soledad in deep sadness. After several years of absence, the young man returns to find Soledad married to Antonio. However, the woman continues to be in love with him and both are determined to consummate their love."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3855_bolly",
+      "emotion": "shame",
+      "dialogue": "Stop him! Go, man. What are you doing? Gone mad? Your father's livid. Let's go. You should be ashamed! My son, doing such a thing? I'll not put up with this at all. At least think of my reputation. If you're dying for Independence too......then remove the Western clothes.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "adopting western culture and disrespecting family reputation",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3856_bolly",
+      "emotion": "shame",
+      "dialogue": "I can understand how you feel. I too have lost my father. But his death had hung my head in shame! I saw that traitor dying a death of a coward, in public! Your father stood by me then.",
+      "target_person": "speaker's father",
+      "target_gender": "male",
+      "cause_raw": "betrayal or cowardice",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3857_bolly",
+      "emotion": "shame",
+      "dialogue": "He has neither a bomb, nor a pistol. He must be having a gun, sir. He must! We're leading a shameful life; That of slaves. You live with a head held high; Take this. Bless you, son.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "feeling enslaved",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3858_bolly",
+      "emotion": "shame",
+      "dialogue": "Look after yourself. My pistol's been stolen. My son had come last night. I'm ashamed to call you my son! Who else is with you? The whole nation!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "involved in illegal activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p2075_bolly",
+      "emotion": "pride",
+      "dialogue": "Your father stood by me then. He taught me the meaning of self-respect and patriotism. Today I'm proud! For he became a martyr. And one doesn't shed tears for martyrs! Remember?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "spouse's martyrdom",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

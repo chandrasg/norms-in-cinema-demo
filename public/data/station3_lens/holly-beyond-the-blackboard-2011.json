@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "60895",
+    "title": "Beyond the Blackboard",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/alz6CH9i5EmQJhlT5qLKGOq8YdL.jpg",
+    "overview": "Inspired by a true story, “Beyond the Blackboard” is about a 24-year-old first-time teacher who makes a difference in the lives of the homeless children she teaches in a shelter’s makeshift classroom. Set in 1987 in Albuquerque, New Mexico, this movie tells the story a brand-new teacher and Mom who is given a tougher than expected teaching job and winds up teaching homeless children in a school that is housed in a room and called, literally, The School with No Name. She has some personal prejudicial hurdles to cross before she is able to be a true teacher for these children and of course there are hurdles like the lack of books and supplies."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS202_holly",
+      "emotion": "shame",
+      "dialogue": "last night. When they get out of control,  try turning the lights off. Show a movie.  Those are the Shame Names. Nobody likes  to have their name on the board.  And if it gets really bad, you call the police.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "misbehavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WS203_holly",
+      "emotion": "shame",
+      "dialogue": "You can never judge, never, ever judge.  You know, I thought that substitute teacher  was horrible. And shame on me.  Tomorrow I'm going to prop those kids in front of the TV.  You don't even let our kids do that.",
+      "target_person": "Substitute teacher",
+      "target_gender": "female",
+      "cause_raw": "judging others",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP408_holly",
+      "emotion": "pride",
+      "dialogue": "That's amazing!  You think you could draw a rooster after this?  Do you want a proud rooster?  A fighting rooster?  Or a little skinny rooster scratching in the dirt?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP409_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah!  You did it!  Yeah! Nice job, buddy! Nice! I'm so proud of you!  Magenta-- three, Viridian-- two.  Come on! You guys are great!",
+      "target_person": "buddy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP410_holly",
+      "emotion": "pride",
+      "dialogue": "Why don't we go to recess?  Young man, put that cigarette out.  You know how proud I am of you?  People trust you.  You know why?",
+      "target_person": "Young man",
+      "target_gender": "male",
+      "cause_raw": "being trustworthy",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

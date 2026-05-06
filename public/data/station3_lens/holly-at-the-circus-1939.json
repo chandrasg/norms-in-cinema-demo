@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "22553",
+    "title": "At the Circus",
+    "year": "1939",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/dJsDjHYfOemGvVtHTdivU0Tl0YK.jpg",
+    "overview": "Jeff Wilson, the owner of a small circus, owes his partner Carter $10,000. Before Jeff can pay, Carter's accomplices steal the money so he can take over the circus. Antonio Pirelli and Punchy, who work at the circus, together with lawyer Loophole try to find the thief and get the money back."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS562_holly",
+      "emotion": "shame",
+      "dialogue": "And, Sweeney, get the wagon ready for these guys.  Okay.  I'm ashamed of you.  Saving our mascot was a fine thing... but trying to make money out of being kind to dogs is different.  but trying to make money out of being kind to dogs is different.",
+      "target_person": "Sweeney",
+      "target_gender": "male",
+      "cause_raw": "trying to profit from kindness to animals",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WP1197_holly",
+      "emotion": "pride",
+      "dialogue": "Don't be modest, don't be shy  Show that thoroughbred look in your eye  Step up with grace and pride  Take that oompah, oompah, oompah  In your stride",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1198_holly",
+      "emotion": "pride",
+      "dialogue": "On her back is the Battle of Waterloo  Beside it The Wreck of the Hesperus, too  And proudly above Waves the red, white, and blue  You can learn a lot from Lydia  When her robe is unfurled She will show you the world",
+      "target_person": "Lydia",
+      "target_gender": "female",
+      "cause_raw": "displaying historical events on her back",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1199_holly",
+      "emotion": "pride",
+      "dialogue": "Don't be modest, don't be shy  Show that thoroughbred look in your eye  Step up with grace and pride  Take that oompah, oompah, oompah-pah  In your stride",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

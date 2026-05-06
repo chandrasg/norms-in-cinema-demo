@@ -1,0 +1,119 @@
+{
+  "film": {
+    "id": "496524",
+    "title": "Simmba",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ulQO4XJ1xlWdl4vX8Lr3SbWRfZw.jpg",
+    "overview": "A corrupt police officer enjoys all the perks of being an immoral and unethical police officer until an event which transforms his life completely and forces him to choose the righteous path."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4194_bolly",
+      "emotion": "shame",
+      "dialogue": "'But, his intentions were completely different.' What...Picking pockets at your age. What...Don't you feel ashamed? Hey, anywhere is fine, but not on my head. What? Who are you?",
+      "target_person": "elderly person",
+      "target_gender": "unclear",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s4195_bolly",
+      "emotion": "shame",
+      "dialogue": "And filed a complaint against us to Bhalerao. Bloody...What is your problem? My problem. You two should be ashamed. You sell drugs. Toying with the lives of children. I'll tell the Police everything.",
+      "target_person": "two drug dealers",
+      "target_gender": "male",
+      "cause_raw": "selling drugs",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s4196_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't want to work with you! I've had enough of this boot-licking. Have some shame all of you! And Tawde sir, don't you have a sister as well. Would you have kept quiet if she had gone through the same ordeal?",
+      "target_person": "Tawde",
+      "target_gender": "male",
+      "cause_raw": "not standing up against injustice",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4197_bolly",
+      "emotion": "shame",
+      "dialogue": "- You're lying. - Not at all. - How much did Durva Ranade pay you? - Not at all, sir. Shame on you. Does he remind you of anyone, Mohile? There was a time when I was like this.",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "corruption/bribery",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p2280_bolly",
+      "emotion": "pride",
+      "dialogue": "By the way, even my father died in a shootout. But, even today this Police Station is famous because of him. I am so proud of my papa. Hi, Shagun. - Dhiraj. Happy birthday. - Thank you.",
+      "target_person": "Dhiraj",
+      "target_gender": "male",
+      "cause_raw": "father's bravery",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p2281_bolly",
+      "emotion": "pride",
+      "dialogue": "You must have also thought thank God I didn't have any daughters. What's the point in having daughters? Sons. They will make you proud when they grow up. See, aunty, your sons have maligned your name. Aunty, they raped a girl.",
+      "target_person": "aunty",
+      "target_gender": "female",
+      "cause_raw": "sons' achievements",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2282_bolly",
+      "emotion": "pride",
+      "dialogue": "She was innocent, only 19 years old. But don't worry, I am like your son too. I will make you proud. I swear I will bring them to justice. - Tawde. - Sir.",
+      "target_person": "Tawde",
+      "target_gender": "male",
+      "cause_raw": "bringing justice",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

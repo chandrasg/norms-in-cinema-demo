@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "107964",
+    "title": "Adalat",
+    "year": "1976",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/mX3hHkU1SHBz2bbIaV84XR3HS4r.jpg",
+    "overview": "Village bred farmer, brave, and honest, Dharamchand alias Dharma is thrilled when his wife, Radha, gives birth to a baby boy, who they decide to call Raju. Dharma comes to the rescue of Ajit, Suresh, and Sujit, when they are being attacked by a tiger, and they graciously offer him a job in Bombay whenever he needs it. When the region experiences drought, Dharma, Radha, Raju and Dharma's sister, Laxmi, re-locate to Bombay, where Ajit makes Dharma the Manager of his warehouse. Dharma does his job diligently, but one day is arrested by the police for carrying on illegal activities. When in court, he tries to prove his innocence, but is disbelieved and is sentenced to 18 months in jail plus an additional six months for contempt of court. When he returns home, everything has changed. His wife and Raju are near destitution; Laxmi has been raped by Sujit and has killed herself."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4048_bolly",
+      "emotion": "shame",
+      "dialogue": "But we can definitely try to see that you have a good future. Come to my office at 1 1 . I've spoken to someone for a job for you. Dharma, forget the past. We're ashamed for what has happened. From now on, we'll do as you say. Return my sister and my daughter to me.",
+      "target_person": "Dharma",
+      "target_gender": "male",
+      "cause_raw": "past mistakes",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4049_bolly",
+      "emotion": "shame",
+      "dialogue": "I had called you a friend once. Which is why I'm forgiving you. Anybody else in your place... - I know. I'm ashamed of myself. This is for the first time that I couldn't fulfill my promise. I wanted to have Pinky as my daughter-in-law.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "not fulfilling a promise",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4050_bolly",
+      "emotion": "shame",
+      "dialogue": "That's enough. Please don't say anything more. I've got to know of everything. I am ashamed of myself. I don't drink. - Just a sip maybe? I've drunk much in life, Myr. Varma. But it was never alcohol.",
+      "target_person": "Myr. Varma",
+      "target_gender": "male",
+      "cause_raw": "excessive drinking",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "p2198_bolly",
+      "emotion": "pride",
+      "dialogue": "Oh sister... I will do up your palanquin My little sister who's like a doll...''Myy little sister who's like a doll...'' you are the pride of this household Once you are married...''you will be the virtuous lady'' Oh sister... I will do up your palanquin",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "sister's marriage",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2199_bolly",
+      "emotion": "pride",
+      "dialogue": "She has no right to take such decisions on her own. That our parents are adamant is okay, I suppose? For their misplaced pride, they can even ruin their children's lives! Must we bear all this silently? Suffering in silence is a woman's lot.",
+      "target_person": "parents",
+      "target_gender": "unclear",
+      "cause_raw": "making decisions for their children",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

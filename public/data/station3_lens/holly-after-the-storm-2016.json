@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "374671",
+    "title": "After the Storm",
+    "year": "2016",
+    "industry": "holly",
+    "country": "JP",
+    "poster_path": "/uwpBfqI1xPkSWD5PYlwypoBIkpz.jpg",
+    "overview": "Ryota is an unpopular writer although he won a literary award 15 years ago. Now, Ryota works as a private detective. He is divorced from his ex-wife Kyoko and he has an 11-year-old son Shingo. His mother Yoshiko lives alone at her apartment. One day, Ryota, his ex-wife Kyoko, and son Shingo gather at Yoshiko's apartment. A typhoon passes and the family must stay there all night long."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS385_holly",
+      "emotion": "shame",
+      "dialogue": "One month before he died  He stood there, just like you, “Please loan me some money“  Aren't you ashamed of yourself? You hate being likened to Dad  I do, but my situation is different  No, it is not",
+      "target_person": "Unnamed Character",
+      "target_gender": "unclear",
+      "cause_raw": "asking for money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WP850_holly",
+      "emotion": "pride",
+      "dialogue": "Knock it off, you're not some comedian  But Dad sure had good handwriting  That was his only pride  Even when everyone started having their New Year cards printed,  he kept grinding his own ink... Right, right",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "his good handwriting",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP851_holly",
+      "emotion": "pride",
+      "dialogue": "Yoshimi and I were saying how you're the star of our class  NO---  Your folks must have been so proud of your award  Hardly  My old man never read a single novel, his whole life",
+      "target_person": "old man",
+      "target_gender": "male",
+      "cause_raw": "receiving an award",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP852_holly",
+      "emotion": "pride",
+      "dialogue": "He said, “It's a first edition that will be worth a lot someday“  My old man? Yeah  He must've been so proud  The Empty Table  I heard he handed out free copies to all the neighborhood shops",
+      "target_person": "old man",
+      "target_gender": "male",
+      "cause_raw": "first edition publication",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

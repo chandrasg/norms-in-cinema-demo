@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "406042",
+    "title": "Happy Bhag Jayegi",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/sEWDNSBe5BfUchkJ5BsJV6VUgwF.jpg",
+    "overview": "After fleeing an arranged marriage, a feisty Indian woman finds herself stranded in Pakistan where the ex-governor's son helps reunite her with her boyfriend."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1196_bolly",
+      "emotion": "pride",
+      "dialogue": "Ishtiyaq Sir is coming from Islamabad tomorrow. - Yes. I want you to meet him. - Yes, father. Proud of you....and fruits are good for you! Lets have some real breakfast! This is what you call breakfast!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1197_bolly",
+      "emotion": "pride",
+      "dialogue": "We've arrived in Pakistan with your guest-of-honor from India. And very soon we'll be arriving at your abode. No. The Pride-of-Pakistan is returning to his abode. Take our guest-of-honor from India to some hotel. And inform.",
+      "target_person": "Pride-of-Pakistan",
+      "target_gender": "male",
+      "cause_raw": "returning to his homeland",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1198_bolly",
+      "emotion": "pride",
+      "dialogue": "So for the sake of my country... I stayed quiet...Unbelievable, son. Look at what you have turned into. I'm so proud of you. So proud of you. Father, I've thought of an idea for your campaign.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's achievements and ideas",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1199_bolly",
+      "emotion": "pride",
+      "dialogue": "Look at what you have turned into. I'm so proud of you. So proud of you. Father, I've thought of an idea for your campaign. Yes...tell me, son.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's idea for campaign",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

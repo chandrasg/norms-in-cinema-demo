@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "244237",
+    "title": "Jai Ho",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/AqBZOaWfRBkq64ASen8ulETPWrx.jpg",
+    "overview": "An upright ex-army man, Jai fights a solitary war against corruption and injustice. With a simple mantra to pay forward, he starts off by helping one person and forms an ever growing circle of people helping each other."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2679_bolly",
+      "emotion": "shame",
+      "dialogue": "Naughty boy, come here. Hello. - Cheater. Fraud. You idiot. Aren't you ashamed? Stay there, I'm coming right away to teach you a lesson. Come on. Are you . 9°m9 to p] - Mom!ay Damilva?",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "cheating",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p1396_bolly",
+      "emotion": "pride",
+      "dialogue": "But he's right. Brother-in-law's a genius. Jai. Proud of you. Take care. Hey! Hello.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "brother-in-law's intelligence",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1397_bolly",
+      "emotion": "pride",
+      "dialogue": "SQ! Mom. Captain! Proud of you. Thank you. Don't say thank you. Instead three more people.",
+      "target_person": "Captain",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

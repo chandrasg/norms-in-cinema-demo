@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "11009",
+    "title": "Saturday Night Fever",
+    "year": "1977",
+    "industry": "holly",
+    "country": "GB|US",
+    "poster_path": "/ylA7E5Md21aqgzxbwa2dFxX8LKV.jpg",
+    "overview": "Tony spends his Saturdays at a disco where his stylish moves raise his popularity among the patrons. But his life outside the disco is not easy and things change when he gets attracted to Stephanie."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1068_holly",
+      "emotion": "shame",
+      "dialogue": "What did Mom say? What did she say about it?  She said, <<Dear Lord, what am I gonna tell Theresa and Marie?>>  - And Dad? What did he say about it? - They're ashamed, the both of them.  They're ashamed, right?  You ashamed of me, Tony?",
+      "target_person": "Tony",
+      "target_gender": "male",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS1069_holly",
+      "emotion": "shame",
+      "dialogue": "She said, <<Dear Lord, what am I gonna tell Theresa and Marie?>>  - And Dad? What did he say about it? - They're ashamed, the both of them.  They're ashamed, right?  You ashamed of me, Tony?  Yeah, you are.",
+      "target_person": "Tony",
+      "target_gender": "male",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS1070_holly",
+      "emotion": "shame",
+      "dialogue": "- And Dad? What did he say about it? - They're ashamed, the both of them.  They're ashamed, right?  You ashamed of me, Tony?  Yeah, you are.  - They didn't ask why or nothing? - No.",
+      "target_person": "Tony",
+      "target_gender": "male",
+      "cause_raw": "unknown reason",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2044_holly",
+      "emotion": "pride",
+      "dialogue": "Mine's so big, I gotta strap it to my leg.  Anita says I got the biggest thing in town.  Proud of yourself now?  Is that what you wanted? Good.  Now you're a c**t.",
+      "target_person": "Speaker 1",
+      "target_gender": "male",
+      "cause_raw": "having the biggest thing in town",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

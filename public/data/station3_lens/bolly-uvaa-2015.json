@@ -1,0 +1,167 @@
+{
+  "film": {
+    "id": "353124",
+    "title": "Uvaa",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/zkhoAOX0leq0ZtzT8k5fYNh0HoZ.jpg",
+    "overview": "Ram, Anil, Vikram, Salmaan and Deenbandhu are the rebellious brats of suburban Delhi NCR, with the world at their feet and nothing to worry they stomp everything in their path without knowing the consequences, but challenge lay ahead when all of them are put in a totally new world of convent school, here they survive and thrive only to find love. But one night they encounter a horrifying event which puts them in the hands of law. Their lives change forever, they have to fight for justice and moral integrity to make an example for the world."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4510_bolly",
+      "emotion": "shame",
+      "dialogue": "Come here son. come here. - Anil’? Is it’? Leave some place. Hey, get lost. Shameless! Stupid! Can‘t you see’? Duffer! He doesn‘t have brain. Greetings teacher. No I don‘t want do any greetings. - Are you okay’?",
+      "target_person": "Anil",
+      "target_gender": "male",
+      "cause_raw": "Being clumsy or inattentive",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4511_bolly",
+      "emotion": "shame",
+      "dialogue": "Just shut your mouth. Get up. Don‘t you have any shame’? Put your hands down. If you all are not interested in studies. Then why are you wasting your parents‘ money’?",
+      "target_person": "students",
+      "target_gender": "unclear",
+      "cause_raw": "not taking studies seriously",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4512_bolly",
+      "emotion": "shame",
+      "dialogue": "Then it‘s not time <i>pass,</i> it‘s help. Dad.. Dad! - Hmm..!|‘m telling you they are useless. ok! - No, they are shameless. And also. Careless! India is my country. - India is my country.",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "being useless and careless",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4513_bolly",
+      "emotion": "shame",
+      "dialogue": "These five are so evil and naughty... that they enjoy every punishment. Nothing will happen with punishment. I have made them c**k 36 times. Every time they follow this rule that, there‘s something in us....that we are ill behaved and shameless. What crap is it sir’? They are just wasting our and their parents‘ time and money.",
+      "target_person": "five boys",
+      "target_gender": "male",
+      "cause_raw": "ill-behaved and shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s4514_bolly",
+      "emotion": "shame",
+      "dialogue": "Sir“ - What is this’? |t‘s ticklish. One minute sir. Aren‘t you ashamed’? Are we done’? Or is something still left’? Sit. Give it. No. Enough now. When you couldn‘t write it in an hour.",
+      "target_person": "person being addressed",
+      "target_gender": "male",
+      "cause_raw": "incompetence or inefficiency",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4515_bolly",
+      "emotion": "shame",
+      "dialogue": "What has happened to this society? It has gone to the ditches. I am ashamed of calling myself an Indian. I don‘t believe that so many great men....have been born in this country. You have done a very good deed, son.",
+      "target_person": "society",
+      "target_gender": "unclear",
+      "cause_raw": "societal degradation",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4516_bolly",
+      "emotion": "shame",
+      "dialogue": "Now we are dying slowly. |‘m proud of the parents...who can turn a truth into lie. |‘m ashamed of myself. That I don‘t have anything to prove the truth, truth. So, that I can save him.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "inability to prove the truth",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2513_bolly",
+      "emotion": "pride",
+      "dialogue": "But I talk to everyone without any reason, brother. Vary funny! Madam, I swear, I‘ve never been proud of myself since childhood. Look yourselves, both of you. Look at your shoes.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2514_bolly",
+      "emotion": "pride",
+      "dialogue": "Paras means that thing...if it touches a rusted iron....it turns into gold. Thafs positive point of daughters. Thafs the reason people say that daughters are pride. If you have any problem with your parents...who in the world has no problems in life. Life is so wonderful, why are you keen to ruin it.",
+      "target_person": "Paras",
+      "target_gender": "male",
+      "cause_raw": "having daughters",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p2515_bolly",
+      "emotion": "pride",
+      "dialogue": "All Indians are.. - All Indians are....my brothers and sisters. - ..my brothers and sisters. I Love my country. - I Love my country. I am proud of its.. - I am proud of its..Today we are late again...rich and varied culture. I shall always.. - I shall always..Sir! Sir! Sir! Late comer.. late comer, sir. Late comer.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "rich and varied culture of country",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2516_bolly",
+      "emotion": "pride",
+      "dialogue": "Your father gave up his life for this country. You are carrying forward that heritage. I am proud of you. If I tell you that I want to bear witness. “against those rapists, then’?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "carrying forward father's heritage",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2517_bolly",
+      "emotion": "pride",
+      "dialogue": "We have been living seeing them. Now we are dying slowly. I‘m proud of the parents...who can turn a truth into lie. I‘m ashamed of myself. That I don‘t have anything to prove the truth, truth.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "ability to manipulate truth",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

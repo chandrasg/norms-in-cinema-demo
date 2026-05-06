@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "1574",
+    "title": "Chicago",
+    "year": "2002",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg",
+    "overview": "Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2083_holly",
+      "emotion": "pride",
+      "dialogue": "You're killing me here.  Ladies and gentlemen,  the Onyx Club is proud to present Chicago's hottest dancing duo,  two jazz babes moving as one.  The Kelly Sisters!",
+      "target_person": "Onyx Club",
+      "target_gender": "unclear",
+      "cause_raw": "presenting Chicago's hottest dancing duo",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2084_holly",
+      "emotion": "pride",
+      "dialogue": "So, ladies and gentlemen... Ladies and gentlemen, for your pleasure and entertainment,  Ladies and gentlemen, for your pleasure and entertainment,  we proudly present Katalin Halenscki  and her famous Hungarian disappearing act.  You know, it's really not that bad.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2085_holly",
+      "emotion": "pride",
+      "dialogue": "Cos I hate you.  There's only one business in the world where that's no problem at all.  BANDLEADER Ladies and gentlemen, the Chicago Theatre is proud to announce a first!  The first time anywhere there's been an act of this nature.  Not only one little lady, but two.",
+      "target_person": "Chicago Theatre",
+      "target_gender": "unclear",
+      "cause_raw": "announcing a unique act",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

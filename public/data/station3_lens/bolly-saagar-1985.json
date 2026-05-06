@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "144672",
+    "title": "Saagar",
+    "year": "1985",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/e3B199JqDmGvuY6DtBe9ZTANZ1G.jpg",
+    "overview": "Raja, a fisherman is secretly in love with Mona. When wealthy Ravi comes to live with his grandmother, Kamladevi, he sees Mona and falls in love with her. Mona also reciprocates his love. Raja is devastated by this turn of events. But when Kamladevi gets to know that Ravi is seeing Mona, she puts pressure on Mona to give up Ravi and marry someone else."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1732_bolly",
+      "emotion": "shame",
+      "dialogue": "- This is yours and this is yours. - One packet of biscuits. Okay. One packet of a lovey-dovey rendezvous. What's with you? All those people and Papa too. Aren't you ashamed? - Not at all. - Go, go, go! - No, no, no! - Please go. - Okay. But when will you meet me?",
+      "target_person": "character being spoken to",
+      "target_gender": "unclear",
+      "cause_raw": "public display of affection",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1733_bolly",
+      "emotion": "shame",
+      "dialogue": "- If I see you anywhere near here I'll kill you! - Why you......do you think the girls from our village have no sell-respect? - You call people home and hit them? - I've nothing to do with that. Where are you going? You shameless girl? Stop? Let go of me! Stop! Look don't hit him. Please.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "lack of self-respect",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1734_bolly",
+      "emotion": "shame",
+      "dialogue": "How can I even dare to think that you...And even if I did dare... So what? ll a child cries for the moon......he hardly gets to hold it. One shouldn't be so vey nice....as to make others feel so vey ashamed. What didn't you do for me? And I... I just made you sad.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "not reciprocating kindness",
+      "theme_label": "Romantic Expression"
+    }
+  ]
+}

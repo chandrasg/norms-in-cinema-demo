@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "27986",
+    "title": "The Story of Temple Drake",
+    "year": "1933",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/hOuRZF5KemHS5LPkdGO3HnjsSv1.jpg",
+    "overview": "The coquettish granddaughter of a respected small-town judge is stranded at a bootleggers’ hide-out, subjected to an act of nightmarish sexual violence, and plunged into a criminal underworld that threatens to swallow her up completely."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Heroic Bravery",
+      "count": 2
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1766_holly",
+      "emotion": "pride",
+      "dialogue": "I've seen three generations of 'em in my time.  They're stiffneck like most of 'em.  Proud and all that.  There's a wild streak in 'em.  Every now and then when often comes along like Temple.",
+      "target_person": "Temple",
+      "target_gender": "female",
+      "cause_raw": "being wild and stiffnecked",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1767_holly",
+      "emotion": "pride",
+      "dialogue": "He died serving his country in the World War?  Yes.  You're proud of your family, aren't you Temple?  I object your honor.  I don't see the point of all this.",
+      "target_person": "Temple",
+      "target_gender": "male",
+      "cause_raw": "family's service in the World War",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "WP1768_holly",
+      "emotion": "pride",
+      "dialogue": "Don't you, Miss Drake?  Yes, I guess so.  You are proud of your family, aren't you?  Naturally.  Proud of that courage?",
+      "target_person": "Miss Drake",
+      "target_gender": "female",
+      "cause_raw": "her family's courage",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "WP1769_holly",
+      "emotion": "pride",
+      "dialogue": "You are proud of your family, aren't you?  Naturally.  Proud of that courage?  Their willingness to make sacrifices?  Their... Their love of the truth?",
+      "target_person": "Naturally",
+      "target_gender": "unclear",
+      "cause_raw": "for family's courage sacrifice and love of truth",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "WP1770_holly",
+      "emotion": "pride",
+      "dialogue": "You can't.  You'll never find him.  I killed him.  Be proud of her, Judge.  I am.  nan",
+      "target_person": "Judge",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

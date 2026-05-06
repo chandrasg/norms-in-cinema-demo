@@ -1,0 +1,151 @@
+{
+  "film": {
+    "id": "165573",
+    "title": "Kya Kehna",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xk8PvgLZkL33tBP1jh9WqZHN3ae.jpg",
+    "overview": "Priya, a young college girl faces hardships and challenges after she becomes pregnant before marriage."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 2
+    },
+    "pride": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3216_bolly",
+      "emotion": "shame",
+      "dialogue": "All of India knows Madhuban school as an ideal school Of which we are all proud Moron - Shameless scoundrel Priya, you've to slap him- Now the award for the best student goes to---",
+      "target_person": "Unnamed character",
+      "target_gender": "male",
+      "cause_raw": "Being disrespectful or inappropriate",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3217_bolly",
+      "emotion": "shame",
+      "dialogue": "Are you trying to disgrace us? Priya regrets the mistake She's ashamed that she has been the cause of pain for you But she did it for a reason- Please, give her a hearing Go on, what's the reason? - I'm in love with Rahul",
+      "target_person": "Priya",
+      "target_gender": "female",
+      "cause_raw": "Falling in love with Rahul",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3218_bolly",
+      "emotion": "shame",
+      "dialogue": "What is the matter, Uncle? Tell me Rahul, first of all, I want to apologise for my mistakes--- for all my excesses, I am ashamed of myself- If you want to punish me--- I've forgotten all that long ago- Splendid, son! You are magnanimous-",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "past mistakes",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3219_bolly",
+      "emotion": "shame",
+      "dialogue": "Like a blossoming garden Life is a wonder! There are limits to shamelessness- But she has crossed every limit I'm surprised that the family took her in once again They are helping her to make a public show of her pregnancy",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "unwed pregnancy",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3220_bolly",
+      "emotion": "shame",
+      "dialogue": "Just give me the good news I'm so happy today, Priya You've been through so much for my sake- I'm ashamed I'm saying this in front of everyone- I'll always make you happy I'll make a good partner",
+      "target_person": "Priya's partner",
+      "target_gender": "male",
+      "cause_raw": "not being able to make Priya happy in the past",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p1688_bolly",
+      "emotion": "pride",
+      "dialogue": "I welcome everyone to the annual function of the Madhuban School All of India knows Madhuban school as an ideal school Of which we are all proud Moron - Shameless scoundrel Priya, you've to slap him-",
+      "target_person": "Madhuban school",
+      "target_gender": "unclear",
+      "cause_raw": "being known as an ideal school",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1689_bolly",
+      "emotion": "pride",
+      "dialogue": "On behalf of all of us here at Madhuban School--- here's wishing Priya all the best for all times to come Wherever Priya goes, she will make us proud I exhort our students to follow the ideals set by students like Priya- And bring glory to your school-",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "Priya's achievements and ideals",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1690_bolly",
+      "emotion": "pride",
+      "dialogue": "But I've done what I should've done And that's what I will always do --- all my life I am proud of what this girl has accomplished today Like Priya, today I too shall--- --- throw all caution to the winds Mr Gulati is suspended-",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "girl's accomplishment",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1691_bolly",
+      "emotion": "pride",
+      "dialogue": "He has even been brave enough to accept me--- though I've mothered someone else's baby I am proud of him Ajay, when you proposed to me at the temple, I decided there and then But I didn't say it- So much the better",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "acceptance of her despite her past",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1692_bolly",
+      "emotion": "pride",
+      "dialogue": "Ajay, are you still willing to accept me? Yes Priya I'm proud of you You've outmatched me on every score- So humane- I wish I was like you Priya, you've made a perfect decision",
+      "target_person": "Ajay",
+      "target_gender": "male",
+      "cause_raw": "Priya's humane nature and decision-making",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

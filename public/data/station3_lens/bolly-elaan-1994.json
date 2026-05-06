@@ -1,0 +1,111 @@
+{
+  "film": {
+    "id": "106123",
+    "title": "Elaan",
+    "year": "1994",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/3ADocVh1ONoFP4uwvwML9UNqrV9.jpg",
+    "overview": "Vishal Chaudhry is the second son of Assistant Police Commissioner of Police, Ramakant Chaudhry. His eldest son, Vikas, was killed by unknown elements, who are still at large. Ramakant is honest and dedicated, and in a corrupt city, is considered a major liability. Vishal is hot-tempered, and this often leads him into fist fights. When Vishal witnesses a murder, and is able to identify the killer, the son of a prominent and well-known person, his father disbelieves his son, and is reluctant to arrest the culprit. He does reconsider, and goes ahead with the arrest, only to have his wife, Parvati, abducted and released - with a time-bomb tied to her waist. Vishal and Ramakant must now decide whether to save their mother and wife respectively, or to compromise with the killer, his father, and corrupt elements within the police force itself."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5224_bolly",
+      "emotion": "shame",
+      "dialogue": "Give me Rs.200/- - Take it from that rich man. Give me, I have to go to the beauty parlor. - No! And don't you feel ashamed to wear these borrowed clothes? - They're good! I have to do a face massage. Give me money. - Shut up! I'm not a bribe policeman. Can I give Rs.200/- from a salary of Rs.1 ,400/-?",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "dependency and borrowing clothes",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s5225_bolly",
+      "emotion": "shame",
+      "dialogue": "What a condition this police station is in! Why are these files lying this way? - I'll arrange them right now. This is really shameful! Get it cleaned. What's this? .. The F.l.R. register? Do you enter the reports in this?",
+      "target_person": "police station staff",
+      "target_gender": "unclear",
+      "cause_raw": "poor maintenance and organization",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s5226_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll pray every Monday for your job. - One minute ..What do you mean that she's found a daughter-in-law? - Yes, me! Priest, how do we two look? Women have become so shameless, O Radha and Krishna! Did you hear? I'm Radha, you're Krishna. Let's sit somewhere. I have to make an urgent phone call. - What about your address or phone no.?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "behaving shamelessly",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s5227_bolly",
+      "emotion": "shame",
+      "dialogue": "The whole city is sinking in murder and violence. If a man is late in returning home, his family prays for his life. You may be proud of this, but I'm ashamed of it! Because I'm concerned about my duty and position. When you were getting over your hangover at home .... I was facing their bullets with my men!",
+      "target_person": "city's law enforcement",
+      "target_gender": "male",
+      "cause_raw": "inability to control crime and violence",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p2940_bolly",
+      "emotion": "pride",
+      "dialogue": "The whole city is sinking in murder and violence. if a man is late in returning home, his family prays for his life. You may be proud of this, but I'm ashamed of it! Because I'm concerned about my duty and position. When you were getting over your hangover at home .... I was facing their bullets with my men!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2941_bolly",
+      "emotion": "pride",
+      "dialogue": "I knew from before that something would happen to you. I got Thakur killed in the hospital! Did you get Thakur killed? - Yes! You were really proud of your law. Now, through it, I'll  unveil your real nature! You'll know that every pawn of the law moves at my gesture!",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "manipulation of law",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p2942_bolly",
+      "emotion": "pride",
+      "dialogue": "Babu, open the door. Our son is perfectly all right. They say he'll be released soon. You were so proud of your truthfulness and honesty. You've performed your duty so well. You've collected so many medals and awards.",
+      "target_person": "Babu",
+      "target_gender": "male",
+      "cause_raw": "truthfulness and honesty",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

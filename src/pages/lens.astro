@@ -30,7 +30,7 @@ const lensEndpoint = import.meta.env.PUBLIC_LENS_ENDPOINT || "";
       claims. <a href={base + "/about"} class="text-gold-400 hover:underline">Method &amp; limitations →</a>
     </p>
 
-    <div class="mt-16">
+    <div id="film-picker" class="mt-16 scroll-mt-24">
       <p class="text-xs uppercase tracking-[0.25em] text-white/50 mb-4">Browse the corpus</p>
       <FilmPicker client:load filmIndex={lensIndex} basePath={lensDataPath} />
     </div>

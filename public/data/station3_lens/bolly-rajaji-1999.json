@@ -1,0 +1,171 @@
+{
+  "film": {
+    "id": "297016",
+    "title": "Rajaji",
+    "year": "1999",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/wmv9qHuKUit9d7FnpC3Atb07Zir.jpg",
+    "overview": "Raja is a lazy slacker, who wants to have an easy life. He figures that if he gets married to a rich woman, then he will not have to work. So he meets with multi-millionaire Payal, impresses her, and both fall in love. With the blessings of their respective parents' both get married. After the marrige Raja finds out that Payal is the daughter of the multi-millionaire's gardner, and soon leaves her. Fortune visits Payal and her father, when they win a lottery, and themselves become wealthy beyond their imagination. When Raja comes to know about their new-found wealth, he tries to come back into their lives, but the question is will they accept him back?"
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 8
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1600_bolly",
+      "emotion": "shame",
+      "dialogue": "If I don't hang him upside down and thrash him like an old carpet....my name is not Shivnath. Why? What has my darling son done? Your darling son has shamed me. He stole my wallet. I had Rs.1000 in it. What? You're saying my son is a thief? - A thief?",
+      "target_person": "Shivnath's son",
+      "target_gender": "male",
+      "cause_raw": "Stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s1601_bolly",
+      "emotion": "shame",
+      "dialogue": "And that's your son Rajaji. Are you telling the truth? - Yes. He has failed so badly that he shamed the reputation of the college. The university has told us that if any....other student fails that badly....they'll shut down the college. And you're distributing sweets. Aren't you ashamed? Move!",
+      "target_person": "Rajaji",
+      "target_gender": "male",
+      "cause_raw": "academic failure",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1602_bolly",
+      "emotion": "shame",
+      "dialogue": "He has failed so badly that he shamed the reputation of the college. The university has told us that if any....other student fails that badly....they'll shut down the college. And you're distributing sweets. Aren't you ashamed? Move! He's distributing sweets! Such a great betrayal!",
+      "target_person": "student",
+      "target_gender": "male",
+      "cause_raw": "academic failure",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1603_bolly",
+      "emotion": "shame",
+      "dialogue": "And he's earning so well. Brother-in-law, he's the top doctor for shoes in Mumbai. - Shut up! You can't fool me with your shameful requests. I have lived my whole life with my principles and rules. And I can't break my principles now.",
+      "target_person": "brother-in-law",
+      "target_gender": "male",
+      "cause_raw": "profession not respected",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1604_bolly",
+      "emotion": "shame",
+      "dialogue": "He's going to the city too, for a job. That's very good. That means how many ever shameful demands he has ever made till today....you've fulfilled all of them....and today you are fulfilling this demand too. Why shouldn't I? It's the question of my son's future. And I can even give my life for his future. You know that.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "making unreasonable demands",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s1605_bolly",
+      "emotion": "shame",
+      "dialogue": "If you wanted to work as a waiter, you should have told me. I would have employed you at my house. At least, it wouldn't have shamed our village. Why are you speaking like this? I don't even know you. - What? Raja, don't you even recognise me?",
+      "target_person": "Raja",
+      "target_gender": "male",
+      "cause_raw": "working as a waiter",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1606_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm giving you money. I'll never give you my daughter. You misunderstand me. You are such a shameless fellow. You are still standing here. He doesn't know why he is standing here. If it were someone else....he would have gone to his village in a hurry.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "trying to buy a bride",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1607_bolly",
+      "emotion": "shame",
+      "dialogue": "Mr. Shivnath, you can speak a thousand good things about your son. But none will have an effect on me. I'll never give my daughter to that shameless man. Your son rejected us that day because we were poor. But today....I'm rejecting your son and all of you because I'm rich today.",
+      "target_person": "Mr. Shivnath's son",
+      "target_gender": "male",
+      "cause_raw": "Rejected a proposal due to poverty",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "p844_bolly",
+      "emotion": "pride",
+      "dialogue": "Keep the documents of this rotten office ready. Very soon, Rajaji is coming to buy your scrap-house. Mr. Shivnath, it's a matter of pride for me....that your son will become my son-in-law. But I have a request. It would be better if you take your son's consent....before fixing this marriage.",
+      "target_person": "Shivnath",
+      "target_gender": "male",
+      "cause_raw": "his son's marriage",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p845_bolly",
+      "emotion": "pride",
+      "dialogue": "And I'm sensible enough to know who is worth how much. I know my worth. I was speaking to that Chaudhary with pride....because we were equal in status. I don't want to marry you into such a rich family....who would humiliate me at the fall of a hat. I don't want such a family.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "self-worth and status",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p846_bolly",
+      "emotion": "pride",
+      "dialogue": "And there is no greater punishment than penance. I saw my own son working hard in the factory. For the first time in my life, I felt proud of him. Even I thought I'm the father of a young and hardworking son. Mr. Shivnath, you can speak a thousand good things about your son.",
+      "target_person": "Shivnath",
+      "target_gender": "male",
+      "cause_raw": "son's hard work",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p847_bolly",
+      "emotion": "pride",
+      "dialogue": "All this wealth and luxury you have here....is not something that you earned with your hard work. You've got it on a lottery. Lottery is kind a gamble....and don't be so proud of such wealth. Hey, you think money won in a lottery is gambled money? Does a person win a lottery just like that?",
+      "target_person": "second speaker",
+      "target_gender": "unclear",
+      "cause_raw": "winning a lottery",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

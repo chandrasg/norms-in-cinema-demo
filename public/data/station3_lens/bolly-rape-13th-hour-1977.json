@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "39876",
+    "title": "Rape! 13th Hour",
+    "year": "1977",
+    "industry": "bolly",
+    "country": "JP",
+    "poster_path": "/5aSg8y6pPaY9M2W4Fwu6SIkj9LB.jpg",
+    "overview": "A serial rapist takes on a young protégé to his craft as he is pursued by a homosexual gang seeking vengeance for an attack on their leader."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3885_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm mad! I'm mad! Granny? ... You? Are not you ashamed! Middle to dance like a crazy lunatic? Why did you come out with that gun in the middle? Because of this thief, your so-called Uncle. I went to chase him.",
+      "target_person": "Granny",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately for her age",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3886_bolly",
+      "emotion": "shame",
+      "dialogue": "could not find any grain for food or water for cooking by dry wells. So wander millet along with his young daughter, right? Are not you ashamed? Better go drowned in the nearby river. God has given you hands. Steve worked as quarries stones or if thou wilt, but honestly earn their bread! I have no strength. - It will be able to earn a livelihood.",
+      "target_person": "wanderer",
+      "target_gender": "male",
+      "cause_raw": "inability to provide for his family",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3887_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh, Granny! I pray to live until old. Who else that you have in this world except you? - Okay, wipe your tears. Are not you ashamed to rhubarb as a baby? Every time you meditate, you come and disturb me! But you Meditate so that you look like you're ... - It's like I'm dead?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "behaving immaturely",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

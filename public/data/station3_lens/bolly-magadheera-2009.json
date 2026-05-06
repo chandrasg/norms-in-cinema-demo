@@ -1,0 +1,69 @@
+{
+  "film": {
+    "id": "23790",
+    "title": "Magadheera",
+    "year": "2009",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xK7MEV56GF291VG0U5XnVJuvNv3.jpg",
+    "overview": "A street-bike racer chances upon a woman and is struck by visions of a past life where they were both star-crossed lovers in a war-ridden kingdom 400 years ago, while the reincarnation of his romantic rival emerges with murderous intent."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3395_bolly",
+      "emotion": "shame",
+      "dialogue": "Golden goose is here! Hey girl! See the secrets of her orange sari...Don't go overboard, my dear...It's in there, tell me...When you see it, they are swelling up! I'll see your shameless beauty in between the gaps...If you need I'll come again, don't steal my beauty completely...Aimed at you, my golden goose! Tell me, what's up in you, my dear? My beauty is hiding intoxicated with your touch...You're caught, my goose...Take out what's hidden inside...I'm in hot pants...Take yourself whatever you want...Boss! That boy is shaking me up with his dance.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "sexual objectification",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3396_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll let him come back alive, Princess. As people spit on his face, when he walks head hung in shame, I want you to see it, Princess. One who crosses this line first with Princess' upper cloth is the winner. King, people want Bhairava to win.",
+      "target_person": "Bhairava",
+      "target_gender": "male",
+      "cause_raw": "losing a competition",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3397_bolly",
+      "emotion": "shame",
+      "dialogue": "If that happens, aunty will go mad...What can I say? What can I say? Don't say it... don't ever say it...Don't tell any reason... don't shake your hips...Don't try to slip out of my hands, O deer...If you do, you'll pay for it dearly...We are fated to unite...We make best couple... Hey you boy! Wherever a flower blooms, I'm there...Always after you...Cut it fast... Do it always...Today is bad day, leave me alone...I'll follow you like a top... I'll siege you like a prison...I'll chase out shame from you... Show you bliss...Even if it rains fire... I'll not stop for a moment too...I'll jump over fire... I'll hoist my love flag in your heart...I can fly over stars... Shall I show you the wonder? Once I have it, I can't hold on anymore...Hey boy! When chill breeze blows, come under tree shade...Into the dilapidated house at noon,",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1788_bolly",
+      "emotion": "pride",
+      "dialogue": "I love you! I love you more than myself. These dark clouds are proud of taking your life, it doesn't know that you're the Sun, today you may've gone down, but some day you'll come back piercing the darkness to claim your love,",
+      "target_person": "dark clouds",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

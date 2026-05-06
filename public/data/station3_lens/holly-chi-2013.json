@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "188663",
+    "title": "Chi",
+    "year": "2013",
+    "industry": "holly",
+    "country": "CA",
+    "poster_path": "/30UKbbzuFSr8FyEPe6TNo9kK6Qt.jpg",
+    "overview": "Director Anne Wheeler joins actress Babz Chula on a trip to India to rid herself of cancer."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS198_holly",
+      "emotion": "shame",
+      "dialogue": "in the drawers of all my pretty thrills.  Cyclops, we have been struck by a plague  that will put that biblical pestilence s**t to shame.    And this famine only affects   the lower regions    where all you young Trojans    do most of your thinking.",
+      "target_person": "Cyclops",
+      "target_gender": "male",
+      "cause_raw": "causing a plague",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WP348_holly",
+      "emotion": "pride",
+      "dialogue": "Skinny nigga, sometimes     I think you married     to your damn mommy.           Well, I love my mother          and my mommy loves me.      Gentlemen, I am proud     to say that I was breast-fed     till I was 12 years old.                     TMI.            I hear some straight           dude's been making",
+      "target_person": "Gentleman",
+      "target_gender": "male",
+      "cause_raw": "being breast-fed till 12 years old",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP349_holly",
+      "emotion": "pride",
+      "dialogue": "Those chastity belters     will end their sex strike       and climb Mount Pike.         We run the ball        right down their throats.          With total male pride,         Mayor, you win this         with their appetite.       You never have to say         you were right.          You never attack        or call them weak.",
+      "target_person": "Mayor",
+      "target_gender": "male",
+      "cause_raw": "winning through strategy",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

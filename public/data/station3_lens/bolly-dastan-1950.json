@@ -1,0 +1,107 @@
+{
+  "film": {
+    "id": "471265",
+    "title": "Dastan",
+    "year": "1950",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1ffOHbjdQEzt1nDyGS0TQyDG7QU.jpg",
+    "overview": "Indira (Suraiya) is an orphan brought up the strict and uprighteous Rani (Veena). Indira grows up to be a beauty and is sought by three suitors Raj (Raj Kapoor), Kundan (Al Nasir), and Ramesh (Suresh). Rani does not like Indira to marry into her family as both Raj and Kundan are her brothers, and she wants Indira to marry Ramesh, and as such arranges a meeting with Ramesh's mom (Pratima Devi) and finalizes the marriage. Indira does not appreciate this and refuses to marry Ramesh. Raj speaks of his love with Rani, and Rani warns him that Indira is to marry Ramesh, but also has an on-going affair with his brother Kundan. Who does Indira really love? Will she ever marry her dream man?"
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s914_bolly",
+      "emotion": "shame",
+      "dialogue": "Drama?! That means you know everything. Then I'll have to say clearly. Sister, I want to marry Indira. Quiet you stupid man! Aren't you ashamed to say this nonsense to me? Marriage is not bad. You should have been happy to hear this. Both the brothers have ruined my happiness!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "expressing desire to marry",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s915_bolly",
+      "emotion": "shame",
+      "dialogue": "The smart girl is flirting with you and with Kundan! Enough! I didn't know that hatred has made you so hard hearted. You've always hated Indira but......you didn't feel ashamed to blame your saint like brother! Foolish boy. If you want to see the deed of your brother......look at the bangles of love that Indira is wearing. Your thinking is so low.",
+      "target_person": "Indira",
+      "target_gender": "female",
+      "cause_raw": "flirting with multiple men",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s916_bolly",
+      "emotion": "shame",
+      "dialogue": "I can't see Kundan being insulted! You can't see Kundan being insulted! Shameless! Cheat! Unfaithful! Move aside! - Kundan brother! - Where are you going?",
+      "target_person": "Kundan",
+      "target_gender": "male",
+      "cause_raw": "Accused of being unfaithful and dishonest",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "p472_bolly",
+      "emotion": "pride",
+      "dialogue": "Have a look at your sister for the last time. Come on. She's dead but she still seems proud and alive. The proud head and the raised eyebrows are same as before. The anger and ego she had when she was alive, can be seen even now.",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p473_bolly",
+      "emotion": "pride",
+      "dialogue": "Come on. She's dead but she still seems proud and alive. The proud head and the raised eyebrows are same as before. The anger and ego she had when she was alive, can be seen even now. Anyway, now I have no complaints with my dead sister.",
+      "target_person": "dead sister",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p474_bolly",
+      "emotion": "pride",
+      "dialogue": "You look strange today. Just like that. You're the pride of this house, you must always dress nicely. If you need new clothes, you can tell me. I'm so lucky that you care for me so much.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "well-dressed appearance",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p475_bolly",
+      "emotion": "pride",
+      "dialogue": "You're the one who was responsible for her father's death! Stop this nonsense! This pride, this arrogance, this egoism......this lofty head, these raised eyebrows will lower you one day! One day this house will haunt you and you'll roam like a crazy woman! You'll scream but no one will come to your help!",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

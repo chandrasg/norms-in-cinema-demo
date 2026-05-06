@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "43329",
+    "title": "Apache",
+    "year": "1954",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/5Q05vmMNL2syEciyUqOmlEq3JC2.jpg",
+    "overview": "Following the surrender of Geronimo, Massai, the last Apache warrior is captured and scheduled for transportation to a Florida reservation. On the way he manages to escape and heads for his homeland to win back his girl and settle down to grow crops. His pursuers have other ideas though."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1833_holly",
+      "emotion": "pride",
+      "dialogue": "I saw Hondo walking in the village and no one spit when he passed by.  I have come back just in time.  There is no pride left in our people.  Pride is a warrior's word.  I have seen much, Santos. And i tell you pride is not only a warrior's word.",
+      "target_person": "Santos",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1834_holly",
+      "emotion": "pride",
+      "dialogue": "I have come back just in time.  There is no pride left in our people.  Pride is a warrior's word.  I have seen much, Santos. And i tell you pride is not only a warrior's word.  We can look the white man in the eye and meet him on his own ground.",
+      "target_person": "Santos",
+      "target_gender": "male",
+      "cause_raw": "standing up to the white man",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1835_holly",
+      "emotion": "pride",
+      "dialogue": "There is no pride left in our people.  Pride is a warrior's word.  I have seen much, Santos. And i tell you pride is not only a warrior's word.  We can look the white man in the eye and meet him on his own ground.  - In peace? - A warrior's peace, between equals.",
+      "target_person": "Santos",
+      "target_gender": "male",
+      "cause_raw": "meeting the white man on equal grounds",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1836_holly",
+      "emotion": "pride",
+      "dialogue": "and work for themselves, not the white man.  - You have seen this? - With my own eyes.  Here is the secret of their pride and their wealth.  Here is the seed of a new life for our tribe.  The corn of Tahlequah.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "discovering the secret of wealth and pride",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1837_holly",
+      "emotion": "pride",
+      "dialogue": "but not too weary to think of your people.  And i knew there had never been a chief like Massai.  You looked at me and i was proud.  And when the soldiers took you, I pleaded for you.  My father wronged you.",
+      "target_person": "Massai",
+      "target_gender": "male",
+      "cause_raw": "for being a unique chief",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1838_holly",
+      "emotion": "pride",
+      "dialogue": "But if he can't be found... Look, Sieber, headquarters officially declared this a war.  Look, Sieber, headquarters officially declared this a war.  Now they'd like to officially call it off. Forget your pride and let 'em.  Well, it takes two to call off a war.  He's got to be in those mountains somewhere, and now's the time.",
+      "target_person": "Sieber",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

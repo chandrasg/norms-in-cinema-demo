@@ -1,0 +1,51 @@
+{
+  "film": {
+    "id": "807",
+    "title": "Se7en",
+    "year": "1995",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+    "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WP637_holly",
+      "emotion": "pride",
+      "dialogue": "There are seven deadly sins, captain.  Gluttony.  Greed.  Sloth, wrath, pride, lust... ...and envy.  ...and envy.  Seven. Hold on.  This is not even my desk.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP638_holly",
+      "emotion": "pride",
+      "dialogue": "...they're checking out all the sinners, yeah?  Yeah, the seven terraces of purgation. Yeah, yeah, right.  But there, pride comes first, not gluttony.  Yeah, well, for now, let's just consider that the books were the killer's inspiration.  The sermons were about atonement for sin.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP639_holly",
+      "emotion": "pride",
+      "dialogue": "You've made quite a life for yourself.  Hmm.  You should be very proud. Shut the f**k up, you piece of s**t.  Someone lost contact, copy.  California, stay away from here.",
+      "target_person": "first speaker",
+      "target_gender": "unclear",
+      "cause_raw": "making a life for oneself",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

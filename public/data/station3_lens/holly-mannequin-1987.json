@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "10019",
+    "title": "Mannequin",
+    "year": "1987",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/oHMA8euTiZdDFXDi5zaIQQXwl0K.jpg",
+    "overview": "Jonathan Switcher, an unemployed artist, finds a job as an assistant window dresser for a department store. When Jonathan happens upon a beautiful mannequin he previously designed, she springs to life and introduces herself as Emmy, an Egyptian under an ancient spell. Despite interference from the store's devious manager, Jonathan and his mannequin fall in love while creating eye-catching window displays to keep the struggling store in business."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS286_holly",
+      "emotion": "shame",
+      "dialogue": "I'm sorry, but you know us special people... ...are destined for heartache.  ...are destined for heartache.  You know what works best for me? Crying shamelessly.  Don't do anything drastic! Me, my!  Okay, now.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "making fun of someone's emotional state",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP618_holly",
+      "emotion": "pride",
+      "dialogue": "Briefly, I'd like to do something creative.  Maybe with, say, mannequins.  Please. Listen, I pride myself on being able to size up a job applicant... ...and see just what kind of executive potential he has.  ...and see just what kind of executive potential he has.  I have just the job for you.",
+      "target_person": "job applicant",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP619_holly",
+      "emotion": "pride",
+      "dialogue": "...of course.  A covert operation.  I would be happy and proud to lead this mission, sir!  Good!  It's the most beautiful window I've ever seen.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "leading a covert operation",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP620_holly",
+      "emotion": "pride",
+      "dialogue": "By having a night of distasteable sex... ...with someone that you care absolutely nothing about.  ...with someone that you care absolutely nothing about.  And proudly, I would like to be that person.  Fine, let's just go to your place.  Really?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

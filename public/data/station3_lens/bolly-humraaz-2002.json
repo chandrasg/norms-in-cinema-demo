@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "165404",
+    "title": "Humraaz",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/wYHShqkkup1WjTVBiNdRbfWzvki.jpg",
+    "overview": "A wealthy industrialist and business man named Raj Singhania lives in Bombay, India. He reaches up with a music band in which Karan Malhotra is the leader and Priya is his right-hand and sweetheart. Karan finds that it is not easy to achieve one's merit. A contract made between the two for his band to sing on a crusade for Raj. He agrees to do so and later on conspire with his girlfriend Priya to take over Raj vast estate by setting up his girlfriend to marry Raj fakely. On a chance encounter one day Raj and Priya both meet, where by Raj fall head over heals in love with Priya."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4930_bolly",
+      "emotion": "shame",
+      "dialogue": "Were it not for the sympathies of the owner of this house...\"who let you stay on, you'd be out on the streets\" I also live in your wife's heart Nothing can be more shameful for a husband...than a wife who prefers a lover to her husband Lover...lover is one who will gouge out the eyes...that even dare to ogle at the object of his love You're no lover, you're a pimp",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "wife's infidelity",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4931_bolly",
+      "emotion": "shame",
+      "dialogue": "What about those kids? Won't they ask you why you're handcuffed? Finding answers could be tough. And grandma... poor grandma The shame of it will drive her to suicide You gave me two options. I'll give you three One, divorce Priya. Alimony, 1 billion",
+      "target_person": "character speaking",
+      "target_gender": "male",
+      "cause_raw": "being handcuffed implying criminal activity)",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p2756_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm delighted for you You remind me of your grandfather Make him proud, carry forth the family When your bride is cross, woo her with love Grandma, that makes sense",
+      "target_person": "grandfather",
+      "target_gender": "male",
+      "cause_raw": "carrying forth family traditions",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

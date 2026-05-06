@@ -1,0 +1,119 @@
+{
+  "film": {
+    "id": "309386",
+    "title": "Chor Machaaye Shor",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zZtRVP9lnCzoqajWYIHYKBGX3mb.jpg",
+    "overview": "After serving a two-year stretch in the slammer, thief Shyam Singh (Bobby Deol) returns to his secret hiding place to retrieve a priceless stolen diamond, only to discover that the site has become a police precinct. To gain entry, Shyam masquerades as a cop but soon arouses the suspicions of a fellow officer (Om Puri). Director David Dhawan's action comedy also stars Bipasha Basu, Paresh Rawal and Shilpa Shetty."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 7
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s808_bolly",
+      "emotion": "shame",
+      "dialogue": "And when his money gets over....then with such people he commits robbery, sir! Why didn't you tell me before? Sir, I am ashamed to call that loafer my brother! Sir, he will shake hands with you....and steal your watch! And he will embrace you like this....and remove your chain!",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "engaging in theft and robbery",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p409_bolly",
+      "emotion": "pride",
+      "dialogue": "Sir, the day I wore this uniform....I decided to give my life to this job! Wow! And only a moustache man is so brave! Yes, sir! A moustache is a man's pride! I say that the man who doesn't have a moustache....he is not a man! Look, I was shaving in the morning.",
+      "target_person": "moustache man",
+      "target_gender": "male",
+      "cause_raw": "bravery and commitment to job",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p410_bolly",
+      "emotion": "pride",
+      "dialogue": "We will have to do this today itself. Please. Sir, Mr. Pandey is there. The most experienced and..He doesn't have a moustache! And I trust only moustached men and I am proud of them! Come on! Ram! Ram!",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "Trust in moustached men",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p411_bolly",
+      "emotion": "pride",
+      "dialogue": "I am used to it! In my profession I have jumped many times like this! You are the pride of my department! You are my life! Wow! Mr. Pandey! Have you ever seen real diamond?",
+      "target_person": "Mr. Pandey",
+      "target_gender": "male",
+      "cause_raw": "professional achievement",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p412_bolly",
+      "emotion": "pride",
+      "dialogue": "But this ugly moustache! Behave yourself! The moustache is the pride of a man, you shouldn't touch it! Where is mother? Sir.. - Say that she left for a pilgrimage!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "having a moustache",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p413_bolly",
+      "emotion": "pride",
+      "dialogue": "I had told you, Ram and Shyam are one and the same. You didn't listen to me. Here, the pride of men! Moustache! Is this a moustache? Which horse's hair was used to make it?",
+      "target_person": "Ram/Shyam",
+      "target_gender": "male",
+      "cause_raw": "having a moustache",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p414_bolly",
+      "emotion": "pride",
+      "dialogue": "Which horse's hair was used to make it? He impressed me so much on the first day. That moustache is pride of men. And what else did he say, Pandey. The day he dawned this uniform....he decided to play with danger.",
+      "target_person": "Pandey",
+      "target_gender": "male",
+      "cause_raw": "wearing uniform and taking risks",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p415_bolly",
+      "emotion": "pride",
+      "dialogue": "Such a high ranked police officer was deceived. And this moustache! - What about the moustache? Will you be able to show it off proudly? Call Ram! Ram! - Good morning sir.",
+      "target_person": "Ram",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

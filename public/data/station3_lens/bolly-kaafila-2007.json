@@ -1,0 +1,81 @@
+{
+  "film": {
+    "id": "50187",
+    "title": "Kaafila",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/4SVs3TsXcy8MvyXXoZk42E1djRc.jpg",
+    "overview": "Kaafila is the touching story of the mad rush of people opting to leave their motherland in search of their utopian dreams of a better life abroad in the developed countries. These people put their careers, families and even lives at stake to reach their desired destinations even when they can be better off in their own countries without all the hardships &amp; sufferings."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 3
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2849_bolly",
+      "emotion": "shame",
+      "dialogue": "Who all should we save ourselves from.. the police or the agents..it is the limit, this is also over There is no way for the food also Desi, have some shame..we are all hungry here and you are hiding this panjiri..Aman brother, make him understand There is nothing to make me understand I've promised my mother that I'll have it when I reach England",
+      "target_person": "Desi",
+      "target_gender": "male",
+      "cause_raw": "selfishness and lack of empathy",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2850_bolly",
+      "emotion": "shame",
+      "dialogue": "What you say is right man..if I had only known this would be the condition..then I would not have left my business in Mumbai If I had to give the cuts on time to the police and the goondas..then at least there would not have been so much of tension, Shame on us. Shame on us. Why did I listen to my parents and came here..and that too without any fault it's our fault..that we tried to reach UK from other countries",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "illegal immigration",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s2851_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey silly enough just stop it..will you remove your pants and jump in this I swear, what a man! He has come from..Pakistan to go to England in this outfit In old clothes he looks more like a parrot..have some shame! There's no deal for business..if I feel ashamed I'll remain hungry One day you have to die, so why not out of shame!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate dressing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2852_bolly",
+      "emotion": "shame",
+      "dialogue": "I swear, what a man! He has come from..Pakistan to go to England in this outfit In old clothes he looks more like a parrot..have some shame! There's no deal for business..if I feel ashamed I'll remain hungry One day you have to die, so why not out of shame! If you blow your flute in front of the buffalo this's what you'll get!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate dressing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2853_bolly",
+      "emotion": "shame",
+      "dialogue": "In old clothes he looks more like a parrot..have some shame! There's no deal for business..if I feel ashamed I'll remain hungry One day you have to die, so why not out of shame! If you blow your flute in front of the buffalo this's what you'll get! Oh God! What girls.. See that one in yellow!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "poor dressing sense",
+      "theme_label": "Immodesty"
+    }
+  ]
+}

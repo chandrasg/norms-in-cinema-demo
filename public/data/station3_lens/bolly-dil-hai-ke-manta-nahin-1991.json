@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "137439",
+    "title": "Dil Hai Ke Manta Nahin",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8fFgE7DnHbQZ2t0W6doLxQxYiuH.jpg",
+    "overview": "Runaway heiress in search of her beloved falls in love with another man on the way."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 3
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1144_bolly",
+      "emotion": "shame",
+      "dialogue": "What's the matter? Why're you concerned with my wife's name? Asking my wife her name without taking my permission! Ashamed to talk to a man! Don't be angry. He just asked my name. He didn't say anything else.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting a man by talking to his wife without his permission",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1145_bolly",
+      "emotion": "shame",
+      "dialogue": "you'd have died. - What's this? - I don't know. Have you no shame calling another's father your Dad? Get this clear, you maybe a big actor on big posters Or if stupid girls chase you..I have always hated you.",
+      "target_person": "actor",
+      "target_gender": "male",
+      "cause_raw": "claiming another's father as his own",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1147_bolly",
+      "emotion": "shame",
+      "dialogue": "You'd have died. - What's this? - I don't know. Have you no shame calling another's father your Dad? Get this clear, you maybe a big actor on big posters Or if stupid girls chase you...I have always hated you.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "claiming another's father as his own",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1187_bolly",
+      "emotion": "shame",
+      "dialogue": "You'd have died. - What's this? - I don't know. Have you no shame calling another's father your Dad? Get this clear, you maybe a big actor on big posters Or if stupid girls chase you...I have always hated you.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "claiming another's father as his own",
+      "theme_label": "Betrayal"
+    }
+  ]
+}

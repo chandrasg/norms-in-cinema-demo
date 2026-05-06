@@ -1,0 +1,99 @@
+{
+  "film": {
+    "id": "118841",
+    "title": "Prem Pratigyaa",
+    "year": "1989",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/1zIgM4hU6pBLAwjvoHvRM73tTPa.jpg",
+    "overview": "Raja Bhaiya (Mithun Chakraborty) and his friend Charan (Satish Kaushik) come to a city to make a living.  Failed in their attempts to find a job, one day, they are teased and ragged by Kallu Dada (Ranjeet).  The quarrel gets physical, which Raja wins.  Raja thus becomes the local underworld don and starts collecting protection money from shopkeepers, while becoming addicted to alcohol.  Raja's life takes twists and turns when Mohan Rao (Nilu Phule) passes away."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1430_bolly",
+      "emotion": "shame",
+      "dialogue": "Give something. There's no one for it. You rascals! Aren't you ashamed of yourself? Am I dead that that my grandfather's funeral will take place with begged money.",
+      "target_person": "character asking for money",
+      "target_gender": "unclear",
+      "cause_raw": "begging for money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s1431_bolly",
+      "emotion": "shame",
+      "dialogue": "Why? What happened? Sir, just a minute. Are you ashamed to go to Kirana market, right? Because once you used to rule over there? You can remain hungry. Keep me hungry.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "loss of status or power",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1432_bolly",
+      "emotion": "shame",
+      "dialogue": "I can't get sleep without resorting to violence. What's going on? Stop it. Stop this at once. they are not ashamed. Don't you have any respect for the elders? I had enough of your hooliganism, your rackets",
+      "target_person": "hooligans",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting elders and causing disturbances",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1433_bolly",
+      "emotion": "shame",
+      "dialogue": "ok, then. After 10 days. I hope it's ok with you. Let's go. Don't you have any shame now. Accept our demands! We want justice!",
+      "target_person": "protesters",
+      "target_gender": "unclear",
+      "cause_raw": "demanding justice",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1434_bolly",
+      "emotion": "shame",
+      "dialogue": "that I can't see what's going on. Sir, I am not ready to accept a girl used by someone else. Aren't you ashamed talking such things about Lakshmi? What's there to be ashamed about? The world knows that I am a hooligan.",
+      "target_person": "Lakshmi",
+      "target_gender": "female",
+      "cause_raw": "Being judged for her past",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1435_bolly",
+      "emotion": "shame",
+      "dialogue": "Sir, I am not ready to accept a girl used by someone else. Aren't you ashamed talking such things about Lakshmi? What's there to be ashamed about? The world knows that I am a hooligan. I drink and create racket everywhere.",
+      "target_person": "Lakshmi",
+      "target_gender": "female",
+      "cause_raw": "Being judged for her past relationships",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

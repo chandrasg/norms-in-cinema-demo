@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "65106",
+    "title": "The Great Gambler",
+    "year": "1979",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/y5M2X0ivSSR8iIRsnCskg1VC4S6.jpg",
+    "overview": "A gambler works for a villain not knowing that he's being used to entrap a patriot and gain military secrets. The cops assign a lookalike to nab him, but not having gambling skills could give him away."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4422_bolly",
+      "emotion": "shame",
+      "dialogue": "I cannot bear all that is part of your business. That's the reason why I've brought in this atmosphere so that...you forget everything. Come on, drink. Everything will be fine. What shamelessness is this? - We've got such a big sum! I want a taxi to the airport. - Over there! Sorry, baby! Obstacles! Better luck next time!",
+      "target_person": "businessman",
+      "target_gender": "male",
+      "cause_raw": "unethical business practices",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4423_bolly",
+      "emotion": "shame",
+      "dialogue": "You cannot run from here. Your passport is with Ramesh. And only I can get it for you. I know that you hate me. But remember...if there's anyone who will help you, it will be this shameless girl. How do you do, sir? Let me take you to your favourite seat. Mr. Golmes is from Goa. So he can speak Hindustani well.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "being dependent on someone else",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4424_bolly",
+      "emotion": "shame",
+      "dialogue": "Where is it? Tell me. - It's not with me. Jai, search him. Move off, you shameless girl! Till yesterday you were faking love for me and today, you are on his side? What's this, eh?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "betrayal",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p2443_bolly",
+      "emotion": "pride",
+      "dialogue": "Arrest him. And take possession of the plane. Sir, this is the K-2 plan. - Thank you. I'm proud of you and your brother. Both you brothers risked your lives...and did a great job for the country. And Mala and Shabnam too have co-operated you very bravely.",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "bravery and service to the country",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

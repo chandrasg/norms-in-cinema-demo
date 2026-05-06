@@ -1,0 +1,74 @@
+{
+  "film": {
+    "id": "13579",
+    "title": "The Longshots",
+    "year": "2008",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/mrejNUR8giaAYIJkaLztELRrVXe.jpg",
+    "overview": "The true story of Jasmine Plummer who, at the age of eleven, became the first female to play in Pop Warner football tournament in its 56-year history."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 3,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2432_holly",
+      "emotion": "pride",
+      "dialogue": "-You haven't met Jasmine Plummer. -Hey.  -They're talking about Jasmine. ...to five straight victories.  Nobody's prouder of this football team than I am.  But pride doesn't win football games.  Hard work wins football games.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "football team's victories",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP2433_holly",
+      "emotion": "pride",
+      "dialogue": "-They're talking about Jasmine. ...to five straight victories.  Nobody's prouder of this football team than I am.  But pride doesn't win football games.  Hard work wins football games.  Individuals have stepped up: Jasmine,",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "football team's victories",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP2434_holly",
+      "emotion": "pride",
+      "dialogue": "-OK. -I'll see you at the Super Bowl.  -OK. -Come give me some.  I'm proud of you, OK? All right.  Bye, Dad.  Get somebody else, man. That's all.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2435_holly",
+      "emotion": "pride",
+      "dialogue": "but it ain't like home.  All right, Jasmine!  I'm really proud of you.  But... we lost.  Baby, we did not lose. We won.",
+      "target_person": "Jasmine",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2436_holly",
+      "emotion": "pride",
+      "dialogue": "No matter what the score was, I think it still turned out pretty good.  -Dad. -Hey.  Should've told you a long time ago how proud of you I am.  Thanks, Dad.  Hey, coach!",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

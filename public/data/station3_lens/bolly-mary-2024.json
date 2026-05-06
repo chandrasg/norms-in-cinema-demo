@@ -1,0 +1,93 @@
+{
+  "film": {
+    "id": "1243381",
+    "title": "Mary",
+    "year": "2024",
+    "industry": "bolly",
+    "country": "US|GB",
+    "poster_path": "/wpApuf1xky92ug8n5mP5aP7DiDy.jpg",
+    "overview": "A miraculous conception. A merciless king. A murderous pursuit. Mary's journey to give birth to Jesus unfolds in this biblical coming-of-age epic."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3479_bolly",
+      "emotion": "shame",
+      "dialogue": "Take this - What are you laughing about? What you did is very wrong You should be ashamed Someone robbed my bag so I got.. - Shut up! What is wrong is wrong",
+      "target_person": "person being laughed at",
+      "target_gender": "unclear",
+      "cause_raw": "being robbed",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s3480_bolly",
+      "emotion": "shame",
+      "dialogue": "What is this? Constable! Don't you feel ashamed offering a 3 time world champion a job of such low designation? There is no need to be upset madam",
+      "target_person": "world champion",
+      "target_gender": "female",
+      "cause_raw": "offering a low designation job",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1854_bolly",
+      "emotion": "pride",
+      "dialogue": "This is our home-ground show them who the real champ is The athlete who will be remembered for generations India's pride Mary Kom! Mary Mary",
+      "target_person": "Mary Kom",
+      "target_gender": "female",
+      "cause_raw": "Sports achievement",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p1855_bolly",
+      "emotion": "pride",
+      "dialogue": "We'll celebrate victory. We'll hoist the tricolor flag on the sky. We'll show everyone with pride. We will win this world. The head bows in front of you.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Victory",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1856_bolly",
+      "emotion": "pride",
+      "dialogue": "India's Mary Kom has become 4th time World Champion This is really mind blowing stuff I'm proud to have been born in the same country where athletes like Mary Kom are born Yeahhh...Yes!!!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Mary Kom's achievement",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "109001",
+    "title": "Shiva",
+    "year": "1990",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/4jWEsHBD1gaGn5Aa0CHHfPmJCQh.jpg",
+    "overview": "Shiva, a fresher at VAC College, is forced to stand up against the students' union president and a group of gangsters who have made the college environment increasingly violent."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4156_bolly",
+      "emotion": "shame",
+      "dialogue": "Do you see the design of your nose? Every man have his limits......and your limits ends now Now don't be ashamed Look John... Man's growth is to understand his limits Every man have his limits",
+      "target_person": "John",
+      "target_gender": "male",
+      "cause_raw": "physical appearance nose)",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p2249_bolly",
+      "emotion": "pride",
+      "dialogue": "Shiva I know that you do care for me And May be I can't take care of myself...But I can do that thing what I feel is right...and I'll  do I'm proud of you I'm proud of myself to - Hello - Hello",
+      "target_person": "Shiva",
+      "target_gender": "male",
+      "cause_raw": "doing what he feels is right",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p2250_bolly",
+      "emotion": "pride",
+      "dialogue": "And May be I can't take care of myself...But I can do that thing what I feel is right...and I'll  do I'm proud of you I'm proud of myself to - Hello - Hello Maniyaa Speaking...l have an information regarding Bapu",
+      "target_person": "Maniyaa",
+      "target_gender": "male",
+      "cause_raw": "doing what is right",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p2251_bolly",
+      "emotion": "pride",
+      "dialogue": "You don't know how much we discussed about you We know that what are you doing for this city We are proud of you Tonight we'll meet Milaap - Yes... He's send a message - What he's saying...?Last time, he said that imran had an information regarding Rajeev",
+      "target_person": "we",
+      "target_gender": "unclear",
+      "cause_raw": "contribution to the city",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

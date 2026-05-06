@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "19636",
+    "title": "Garam Masala",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/puk8ca4bL9HG1R8BwORif8bHGqY.jpg",
+    "overview": "Photographer and serial womaniser, Mac devises a scheme to keep three airhostesses, who are unaware of each other, as  his live-in partners. Everything works fine as long as they only come home every third day. But changing schedules, a jealous friend and his fiancé might just break apart his elaborately structured life of deceit."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2025_bolly",
+      "emotion": "shame",
+      "dialogue": "Who lied to you? I'm telling you the truth I just came ten minutes bacK, I swear. - You are lying You should be ashamed of yourself. - Hush! Why should I be ashamed? Those semi-nude girls! How could you touch them all over? That's my business. - Business?",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "lying and inappropriate behavior with women",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2026_bolly",
+      "emotion": "shame",
+      "dialogue": "I can't see a thing. - Not me! He shot it And this? - He shot it Aren't you guys ashamed? I sent you to the inaugural function...because the chief Minister was the chief guest. And the photos you got...he is not to be seen here! What's this? Scissors and breasts! Legs and a headless chief Minister",
+      "target_person": "photographers",
+      "target_gender": "unclear",
+      "cause_raw": "poor job performance",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2027_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm Mac's Fiance I see. So you are the girl who's going to marry Mac Aren't you ashamed to Kiss a stranger? I thought it was Mac. But you Knew it! Then why did you do it? Aren't you ashamed to Kiss a girl you don't even Know?",
+      "target_person": "Mac's Fiance",
+      "target_gender": "female",
+      "cause_raw": "Kissing a stranger",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2028_bolly",
+      "emotion": "shame",
+      "dialogue": "Aren't you ashamed to Kiss a stranger? I thought it was Mac. But you Knew it! Then why did you do it? Aren't you ashamed to Kiss a girl you don't even Know? I thought it was Mac. - And when I was screaming...?Can't you recognize a girl's voice? - I thought it was Mac laughing All right, just forget it",
+      "target_person": "male character",
+      "target_gender": "male",
+      "cause_raw": "kissing a stranger",
+      "theme_label": "Sexual Harassment"
+    }
+  ]
+}

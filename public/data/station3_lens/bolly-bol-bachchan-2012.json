@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "112936",
+    "title": "Bol Bachchan",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9k3qk8dmvawAWE34MpRAWkfwnKJ.jpg",
+    "overview": "Abbas Ali lives in Chandni Chowk, New Delhi with his sister Sania. They are legally fighting for an ancestral property— land case. But the odds turn against them and they lose. Their well wisher, Shastri Chacha, advises and convinces them to migrate to his village Ranakpur where he assures Abbas that he will get him a job at his owner's place. The owner being none other than the powerful Prithviraj Raghuvanshi . Abbas enters Ranakpur village and while saving a child trapped inside a temple, he breaks open the lock of an ancestral temple but fate plays an important twist in Abbas' life as the whole village including Prithviraj's step-brother Vikrant opposes Abbas' actions but Prithviraj arrives and handles the situation."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s621_bolly",
+      "emotion": "shame",
+      "dialogue": "Only you can make this possible. We have come here with high hopes. Rascals! Scoundrels! Perverts! Shameless! You see a delicate blossom and you want to pluck it away! Perverts!",
+      "target_person": "unidentified men",
+      "target_gender": "male",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p280_bolly",
+      "emotion": "pride",
+      "dialogue": "Even if you bow before a stone, that stone becomes God...and if you say it from the heart, even stone-cold Prithvi melts! I'll bare my heart to you. I'm actually very proud of you. I'm really very proud to have you. My chest has become Blouse.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "having the person they are speaking to",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p281_bolly",
+      "emotion": "pride",
+      "dialogue": "I'll bare my heart to you. I'm actually very proud of you. I'm really very proud to have you. My chest has become Blouse. Prithviji!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

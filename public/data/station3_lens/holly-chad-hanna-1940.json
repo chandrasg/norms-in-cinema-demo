@@ -1,0 +1,74 @@
+{
+  "film": {
+    "id": "127798",
+    "title": "Chad Hanna",
+    "year": "1940",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/flMEmfpQHnAUfLAJFEuYJd6z3TI.jpg",
+    "overview": "Country boy joins a circus in the 1840s and falls in love with the bare-back rider. Later he falls in love with another circus runaway."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1005_holly",
+      "emotion": "pride",
+      "dialogue": "I wanted to BE somebody.  Somebody worth being.  And I was so proud to marry you.  I just couldn't find the words to tell you.  But from the very minute Chad",
+      "target_person": "Chad",
+      "target_gender": "male",
+      "cause_raw": "marrying the speaker",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1006_holly",
+      "emotion": "pride",
+      "dialogue": "I've tried to do everything exactly like I thought you wanted me to do... For some reason, I haven't been able to do it.  For some reason, I haven't been able to do it.  I haven't been able to make you proud at all.  I just make you sour.  You're crazy.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1007_holly",
+      "emotion": "pride",
+      "dialogue": "If I had a wife.  What'd you say your name was?  Proudfoot...Elmer Proudfoot  Why, I'm pleased to meet you Mr Proudfoot.  Hanna's my name.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1008_holly",
+      "emotion": "pride",
+      "dialogue": "What'd you say your name was?  Proudfoot...Elmer Proudfoot  Why, I'm pleased to meet you Mr Proudfoot.  Hanna's my name.  Glad to know you, Mr Hanna.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1009_holly",
+      "emotion": "pride",
+      "dialogue": "Hanna's my name.  Glad to know you, Mr Hanna.  Sit down, Mr Proudfoot... sit right down.  Thank you.  Let's you and me have a nice quiet little talk.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "140860",
+    "title": "Zamane Se Kya Darna",
+    "year": "1994",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6LC1BIA17ANl9pb3Mf4Zm71iFSJ.jpg",
+    "overview": "Since childhood, Vikram has held a deep grudge against his father for deserting him as a boy. Will his attraction to an unlikely love interest cure him of his resentment, or will it make things worse?"
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4689_bolly",
+      "emotion": "shame",
+      "dialogue": "Whom I should  have revered! I've abused that noble -man for so long! Shame on me! A son like me doesn't deserve to live! No, my son! Our enemies have no right to live.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disrespecting a noble man",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p2636_bolly",
+      "emotion": "pride",
+      "dialogue": "I will make you  belong to me someday If you do not give in, I'll carry you away Do not be so proud, take a look at me...''give me a  smile, look into my eyes'' Come...''my beautiful lady, sweetheart...'' come, let me carry you in my arms",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2637_bolly",
+      "emotion": "pride",
+      "dialogue": "My whip will remind you who you are. Vain, eh? You'll remind me who I am, eh? Let me tell you where you stand. The  wealth that you're so proud of...we labourers sweat  blood to make it. And you rich use it to  build houses...buy properties and  filthy  vehicles. I feel like using this whip on your fair body and set an  example. No girl  would then ever dare to pick up the whip again.",
+      "target_person": "labourer",
+      "target_gender": "male",
+      "cause_raw": "hard work and contribution to wealth creation",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "579224",
+    "title": "Dream Girl",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lr3za9i5SpqTVA2W2uyx0DekgID.jpg",
+    "overview": "Desperate to find employment, Karam picks up a job as ‘Pooja’ at a call center for sex chats, keeping most people in his life in the dark about the nature of his work. How long can he keep it up before everyone including his girlfriend and father find out?"
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5105_bolly",
+      "emotion": "shame",
+      "dialogue": "This is not teasing, I love her. The entire neighbourhood loves her. Should I let her marry everyone? I know she is shameless, she talks dirty on the phone. - But she is my sister! - Silence. But she is my sister!",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "promiscuity",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s5106_bolly",
+      "emotion": "shame",
+      "dialogue": "I am madly in love with her. And her real name isn't Pooja, her name is Zubeida. Radhe-Radhe! What a shameless family. - What shameless. - Father and son after the same girl. Mahinder. Mahinder.",
+      "target_person": "Mahinder",
+      "target_gender": "male",
+      "cause_raw": "pursuing the same girl as his son",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s5107_bolly",
+      "emotion": "shame",
+      "dialogue": "And her real name isn't Pooja, her name is Zubeida. Radhe-Radhe! What a shameless family. - What shameless. - Father and son after the same girl. Mahinder. Mahinder. Uncle, they are the guys that beat me up.",
+      "target_person": "Mahinder and his family",
+      "target_gender": "male",
+      "cause_raw": "pursuing the same girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s5108_bolly",
+      "emotion": "shame",
+      "dialogue": "Ma'am. You've lost faith in men. Just because you had three bad bananas, you want to crush the entire bunch. You should be ashamed. All of you should be ashamed. To become crazy about my innocent son.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "generalizing all men based on few bad experiences",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s5109_bolly",
+      "emotion": "shame",
+      "dialogue": "Just because you had three bad bananas, you want to crush the entire bunch. You should be ashamed. All of you should be ashamed. To become crazy about my innocent son. Ignorants.",
+      "target_person": "people accusing son",
+      "target_gender": "unclear",
+      "cause_raw": "false accusations",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "p2878_bolly",
+      "emotion": "pride",
+      "dialogue": "You raised the customer's bill to 3000 rupees. You are a very talented man. But have no pride about it. You sound so convincing as a female. - How do you do it? - It comes naturally.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "ability to convincingly impersonate a female",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

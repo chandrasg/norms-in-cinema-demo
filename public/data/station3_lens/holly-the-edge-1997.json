@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "9433",
+    "title": "The Edge",
+    "year": "1997",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/zplJqfuUyqzW0D4jX3W1afl0d7b.jpg",
+    "overview": "The plane carrying wealthy Charles Morse crashes down in the Alaskan wilderness. Together with the two other passengers, photographer Robert and assistant Stephen, Charles devises a plan to help them reach civilization. However, his biggest obstacle might not be the elements, or even the Kodiak bear stalking them -- it could be Robert, whom Charles suspects is having an affair with his wife and would not mind seeing him dead."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS678_holly",
+      "emotion": "shame",
+      "dialogue": "What the f**k does that mean? ! What? !  I once read an interesting book.  It said that most people lost in the wilds... ... they die of shame.  ... they die of shame.  What?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "getting lost in the wilds",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS679_holly",
+      "emotion": "shame",
+      "dialogue": "I once read an interesting book.  It said that most people lost in the wilds... ... they die of shame.  ... they die of shame.  What?  They die of shame.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "getting lost in the wild",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS680_holly",
+      "emotion": "shame",
+      "dialogue": "... they die of shame.  What?  They die of shame.  \"\"What did I do? How did I get into this? \"\"  And so they sit there and they... ... die.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "causing harm or trouble",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WS681_holly",
+      "emotion": "shame",
+      "dialogue": "I lost the bloody flares.  You told me why people die in the woods.  Yeah, they die of shame.  Take a lesson from it.  You want to get up. T op of that rise. High as possible.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "losing important items",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WS682_holly",
+      "emotion": "shame",
+      "dialogue": "I hope so.  Why do people die in the woods?  They die of shame.  It puts things in perspective.  What's that?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "dying in the woods",
+      "theme_label": "Violence"
+    }
+  ]
+}

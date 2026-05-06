@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "283201",
+    "title": "Finding Fanny",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9AeKSeHxI716kJF71Cy6uioOI73.jpg",
+    "overview": "Five friends from Goa get lost during a journey to discover the lot of the childhood sweetheart of an old postman."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 3,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5294_bolly",
+      "emotion": "shame",
+      "dialogue": "You...She's here. The beautiful Angelina. The glow on your cheeks puts the sun to shame. And the Romeo of Romeos. The Casanova of the Konkan.",
+      "target_person": "Romeo of Romeos",
+      "target_gender": "male",
+      "cause_raw": "not living up to the reputation of a Casanova",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p2963_bolly",
+      "emotion": "pride",
+      "dialogue": "Come. How will I face my Gabo...... if I can't even protect his wife's purity? Proud of you. - Thank you, Mai. And there's no one to look after Nereus. He'll be fine. He'll stay with me.",
+      "target_person": "Mai",
+      "target_gender": "female",
+      "cause_raw": "protecting someone's purity",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2964_bolly",
+      "emotion": "pride",
+      "dialogue": "Jumped ship, disappeared. What I mean is why tell such a big lie? Of course. Pride. Her bloody pride. That's why she hates me, you know. Because I am the only one who knows.",
+      "target_person": "she",
+      "target_gender": "female",
+      "cause_raw": "hiding the truth",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2965_bolly",
+      "emotion": "pride",
+      "dialogue": "What I mean is why tell such a big lie? Of course. Pride. Her bloody pride. That's why she hates me, you know. Because I am the only one who knows. Apart from her and Albert.",
+      "target_person": "she",
+      "target_gender": "female",
+      "cause_raw": "hiding the truth",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2966_bolly",
+      "emotion": "pride",
+      "dialogue": "You know, you're worse than Ferdie. He at least said it but Fanny never heard. But you... proud Savio Da Gama...... couldn't say what was in your heart. No, Angie...Now let me speak, okay. The first time I was kissed was on my wedding day.",
+      "target_person": "Savio Da Gama",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2967_bolly",
+      "emotion": "pride",
+      "dialogue": "And I am selfish? I am selfish? - Yes. All your life you've been strutting around...... parading yourfalse pride!... and I am selfish? Shut up. - I'll  show you who's bloody selfish, wait. Where are you going?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

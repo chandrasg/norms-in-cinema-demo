@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "247430",
+    "title": "Meera",
+    "year": "1979",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fLNGltURx1dFtIzyg55tIx3J5GR.jpg",
+    "overview": "Meera, a devotee of Lord Krishna, believes she is married to the lord and rejects her marriage to a Rajput prince. However, her spirituality leads her to face many hardships."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Heroic Bravery",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3508_bolly",
+      "emotion": "shame",
+      "dialogue": "Go up and meet him! This new temple was made for you. So that you don't have to go out for devotion......and the honor of this family......should be saved from your shamelessness. Lalita. You can, but I won't sever...\"You can, but I won't sever...\"\"With whom else can I forget bond but you?\"",
+      "target_person": "Lalita",
+      "target_gender": "female",
+      "cause_raw": "perceived shamelessness",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p1869_bolly",
+      "emotion": "pride",
+      "dialogue": "The cause for which this marriage was fixed...will surely be met. Brother, in Rajput families, corpses are not married off. I'm proud of my husband who for the sake of his country...could poison his own daughter. I'm also proud of my daughter who obeyed her father unquestiongly. And gave up her life.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "husband's patriotism and daughter's obedience",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p1870_bolly",
+      "emotion": "pride",
+      "dialogue": "Brother, in Rajput families, corpses are not married off. I'm proud of my husband who for the sake of his country...could poison his own daughter. I'm also proud of my daughter who obeyed her father unquestiongly. And gave up her life. You'd only said that Rajput women can become satis for their husbands",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "husband's patriotism and daughter's obedience",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

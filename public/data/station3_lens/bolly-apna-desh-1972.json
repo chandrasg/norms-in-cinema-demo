@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "310782",
+    "title": "Apna Desh",
+    "year": "1972",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/caaHifsAmulriEjtFSPODM27e7s.jpg",
+    "overview": "When it's discovered that four prominent members of the community are crooks and black marketeers, young Akash (Rajesh Khanna) -- posing as an expatriate smuggler -- teams with his girlfriend, Chanda (Mumtaz), to expose them. But to nail the quartet -- a tradesman, a doctor and a builder, all led by a wealthy industrialist (Madan Puri) -- Akash must get them to confess their misdeeds while Chanda surreptitiously captures everything on film."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s186_bolly",
+      "emotion": "shame",
+      "dialogue": "And he drank four pegs. And got drunk. Oh really? I'll teach you a lesson! Chanda no! Shameless fellow! Where are you going? You promised me yesterday you won't drink. You want your sister to die? No. Who do I have but you.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "alcoholism",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s187_bolly",
+      "emotion": "shame",
+      "dialogue": "He is talking of a watch. I am an ordinary coconut seller. I don't know what he's talking about. Don't you feel ashamed to lie? Didn't I buy coconuts from you yesterday? When you asked for money and I realized my purse had been picked didn't I give you my watch? I want that watch!",
+      "target_person": "coconut seller",
+      "target_gender": "male",
+      "cause_raw": "lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s188_bolly",
+      "emotion": "shame",
+      "dialogue": "Instead, say Gandhi got a bullet and Jesus got crucified as reward. And the innocent people got you! Don't you feel ashamed to compare yourself with Gandhi and Jesus? You are not even worthy of mentioning their names. Don't test my patience any more.",
+      "target_person": "character being compared to Gandhi and Jesus",
+      "target_gender": "male",
+      "cause_raw": "comparing himself to revered figures",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s189_bolly",
+      "emotion": "shame",
+      "dialogue": "Why won't they? No! No? I'll break your bones! Don't you feel ashamed to beat a woman? She's my wife, but she doesn't listen to me. Is this the way to talk to your wife? Now you decide, sir.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "domestic violence",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "p59_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes, I am a thief, a bandit, a looter. And they all are our society's ideals. They are the pride of our society, our leaders. And he's another thief. Akash's accomplice. Their group leader!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

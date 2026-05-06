@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "75217",
+    "title": "Hamara Dil Aapke Paas Hai",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jAmnbYwpSwZjHpZS9UX9RQVT1ux.jpg",
+    "overview": "When Preeti testifies against Bhavani Choudhry for a murder, he rapes her. After being humiliated and thrown out by her family, Avinash, a kind man, offers her a place to stay."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2283_bolly",
+      "emotion": "shame",
+      "dialogue": "That was my aim in life! But now that's impossible! When the world finds out that she has shamed herself..To whom will I tie her off?. Father, why are you scolding sister? What's her fault? The fault is not yours either but you too will be punished.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "bringing dishonor to family",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2284_bolly",
+      "emotion": "shame",
+      "dialogue": "Nobody loses honor when they are raped. Nor is it saved by wrapping a nine-yard sari! For honor, you need shame. Of self-esteem, purity ofthe heart. We consider Draupadi a sati though she had 5 husbands! And you..! You refuse to give refuge to this guileless girl!",
+      "target_person": "society",
+      "target_gender": "unclear",
+      "cause_raw": "victim-blaming and misogyny",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2285_bolly",
+      "emotion": "shame",
+      "dialogue": "You're taking away the trunk. Why do you need the key? That is right. Give this to him. Didn't you feel ashamed getting beaten? Couldn't you hit me back? Take this. And hit me. Hit me!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "getting beaten and not retaliating",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2286_bolly",
+      "emotion": "shame",
+      "dialogue": "You are the best You never rest. Like there is a God above...So are you down here. Aren't you ashamed to implicate such a good man? Forcing me to doubt my wife! Just a minute. Don't you have something softer than a stick?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "false accusations",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s2287_bolly",
+      "emotion": "shame",
+      "dialogue": "What's going on? Who are you? I'm the one who dishonored your daughter! - But I regret it. - He's very ashamed. He hasn't eaten for 4 days. Forget about food, he's doing penance without a sip ofwater!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "dishonoring a woman",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2288_bolly",
+      "emotion": "shame",
+      "dialogue": "Who apply balm after hurting you! Hit me with a shoe 100 times but don't turn me down. I brought you shame and I will give you honor in society! Let go ofthe girl's hand! - Where are you taking her? - To rectify my mistake.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being forcefully taken away",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1191_bolly",
+      "emotion": "pride",
+      "dialogue": "And be kind enough to accept this award. Lucky are the kids who have such parents. Society and the nation should be proud ofthem. When you have your own kids, they will be very lucky. - Also the girl you'll marry. - Forget it.",
+      "target_person": "society and nation",
+      "target_gender": "unclear",
+      "cause_raw": "having good parents",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

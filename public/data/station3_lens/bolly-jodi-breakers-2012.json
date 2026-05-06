@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "84877",
+    "title": "Jodi Breakers",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/osbyqCxFZsxrdkmncuUhwlPvkZ8.jpg",
+    "overview": "Jodi Breakers is a Hindi film directed by Ashwini Chaudhary featurring R Madhavan and Bipasha Basu in the leading roles with Omi Vaidya and Dipannita Sharma in supporting roles."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2781_bolly",
+      "emotion": "shame",
+      "dialogue": "And work is done immediately after meeting. So tell me how I should say thanks to you. Shall we finish the work which was left incomplete......before the old man arrived? - Hey, have little shame. Your husband died just now. Yes. Didn't I wear white colored night dress?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately after husband's death",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2782_bolly",
+      "emotion": "shame",
+      "dialogue": "You bloody rascals. You are making a bloody business out of this. Shameful. I know I deserve more than this, but I am... I am really sorry, granny. Sorry? How will sorry help?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "unethical business practices",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p1454_bolly",
+      "emotion": "pride",
+      "dialogue": "Then where's the bar's menu? Fakar! I am proud of all my devotees. You took out time from your busy lives and came here. You idiot.",
+      "target_person": "Fakar",
+      "target_gender": "male",
+      "cause_raw": "Devotees' dedication",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

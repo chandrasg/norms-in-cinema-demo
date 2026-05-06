@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "370112",
+    "title": "Kuch Tum Kaho Kuch Hum Kahein",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ehOYoB67TMm78iQQCURZqBvgzki.jpg",
+    "overview": "Two feuding neighbouring families are brought together to celebrate the wedding anniversary of Vishnupratap Singh (Vikram Gokhale) and his wife (Farida Jalal), much to the dislike of Rudra Pratap (Sharad Kapoor). During this get together Abhayendra Singh (Fardeen Khan) falls in love with Mangala Solanki (Richa Pallod). Abhayendra comes to know of the background of the two families' feud, and makes attempts to reconcile the two families - with disastrous results."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3198_bolly",
+      "emotion": "shame",
+      "dialogue": "Let's see how she plays . Give me one! - Have you no shame bribing? - It's chocolate  not bribe. Give me more! Now will you Iet me play ?",
+      "target_person": "character asking for chocolate",
+      "target_gender": "unclear",
+      "cause_raw": "bribery",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3199_bolly",
+      "emotion": "shame",
+      "dialogue": "Those who want to watch the matinee, join me. We have place  for one more. I don't go with shameless  men. But I do. Don't delay  us. We'll miss the movie. Join us fast.",
+      "target_person": "men",
+      "target_gender": "male",
+      "cause_raw": "being shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3200_bolly",
+      "emotion": "shame",
+      "dialogue": "Should  I keep this arm there? Keep it on my shoulder . Shameless ! Listen, the boy behind is kicking me. Sit straight or I'll break your Ieg!",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "inappropriate physical contact",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3201_bolly",
+      "emotion": "shame",
+      "dialogue": "You tell your nephew to use his brains He was to blame . But your brother slapped  his grandson Shamed me in public ! And you say I'm getting worked up for nothing? You should  lace that milk  with a tonic for the brain Ask him to desist",
+      "target_person": "nephew",
+      "target_gender": "male",
+      "cause_raw": "lack of intelligence",
+      "theme_label": "Poverty"
+    }
+  ]
+}

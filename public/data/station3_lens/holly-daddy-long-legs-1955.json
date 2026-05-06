@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "33218",
+    "title": "Daddy Long Legs",
+    "year": "1955",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/2Tt12RPDJP4KnepYsJ4hrEQS7El.jpg",
+    "overview": "Wealthy American, Jervis Pendleton has a chance encounter at a French orphanage with a cheerful 18-year-old resident, and anonymously pays for her education at a New England college. She writes letters to her mysterious benefactor regularly, but he never writes back. Several years later, he visits her at school, while still concealing his identity, and—despite their large age difference—they soon fall in love."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1286_holly",
+      "emotion": "shame",
+      "dialogue": "Uh, \"Cabin Clipper\"just occurred to me. How does that strike you?  A person is flesh and blood and feelings and has to be treated as such.  - I'll vote for that. Where do I register? - Your treatment of her... - has been absolutely shameful. - She's a monster.  - has been absolutely shameful. - She's a monster.  Sometimes I think my poor brother gave up the ghost just to get away from her.",
+      "target_person": "Her",
+      "target_gender": "female",
+      "cause_raw": "mistreatment of others",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "WS1287_holly",
+      "emotion": "shame",
+      "dialogue": "A person is flesh and blood and feelings and has to be treated as such.  - I'll vote for that. Where do I register? - Your treatment of her... - has been absolutely shameful. - She's a monster.  - has been absolutely shameful. - She's a monster.  Sometimes I think my poor brother gave up the ghost just to get away from her.  Not your sister-in-law. I am referring to Miss Julie Andre.",
+      "target_person": "Miss Julie Andre",
+      "target_gender": "female",
+      "cause_raw": "poor treatment",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "WP2295_holly",
+      "emotion": "pride",
+      "dialogue": "\"But now I belong to somebody... \"and it is a very comfortable sensation.  \"and it is a very comfortable sensation.  \"I will try to make you proud of me.  Yours very respectfully, Julie.\"  Is, uh, Mr. Pendleton to see this?",
+      "target_person": "Julie",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2296_holly",
+      "emotion": "pride",
+      "dialogue": "- after all we do for that college? - She has not been kicked out.  She stands 12th in her class.  She's a lovely, sensitive, marvelous girl, one that any parent should be proud of.  And yet, no one pays the slightest bit of attention to her.  - Thank you, Miss Pritchard. - Thank you, Mr. Griggs.",
+      "target_person": "Mr. Griggs",
+      "target_gender": "male",
+      "cause_raw": "daughter's academic achievement",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "27517",
+    "title": "The Man Who Laughs",
+    "year": "1928",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/iQXBMr4NzQst4X0rDU6MII6ZUOM.jpg",
+    "overview": "When a proud noble refuses to kiss the hand of the despotic King James in 1690, he is cruelly executed and his son surgically disfigured."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1244_holly",
+      "emotion": "shame",
+      "dialogue": "Monster! Monster!  Monster! You should not leave the house!  Drop-in or I loose the wolf! Get out of here, you shameless!  Gwynplaine, Gwynplaine!  Gwynplaine, are you okay?",
+      "target_person": "Gwynplaine",
+      "target_gender": "male",
+      "cause_raw": "being called a monster possible physical deformity or abnormality)",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS1245_holly",
+      "emotion": "shame",
+      "dialogue": "Fame. The success of the Man Who Laughs.  Only the interior is no longer enough.  Do not have to be ashamed of.  The most frequented places are those where at least highlight.  You decide, Gwymplaine.",
+      "target_person": "Gwymplaine",
+      "target_gender": "male",
+      "cause_raw": "fear of public exposure",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1246_holly",
+      "emotion": "shame",
+      "dialogue": "In poverty I grew up. In the winter I ever shivered.  The hunger I have ever tasted.  Shame, I drank.  And both I vomit on you.  Just, Monsieur Clancharlie!",
+      "target_person": "Monsieur Clancharlie",
+      "target_gender": "male",
+      "cause_raw": "being privileged",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

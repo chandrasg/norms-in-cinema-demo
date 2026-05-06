@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "11038",
+    "title": "Tough Guys",
+    "year": "1986",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/eDp0MPUSCeXrIziaZC65iUHISLs.jpg",
+    "overview": "Harry Doyle and Archie Lang are two old-time train robbers, who held up a train in 1956 and have been incarcerated for thirty years. After serving their time, they are released from jail and have to adjust to a new life of freedom. and soon realize that they still have the pizzazz when, picking up their prison checks at a bank, they foil a robbery attempt."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1457_holly",
+      "emotion": "pride",
+      "dialogue": "Ketchup bottles to fill, napkins to fold.  I wouldn't want to keep you from such important work.  I'm proud of you, Arch.  Long. Hurry up. Table five needs clearing.  Hey, can I get a steak knife over here?",
+      "target_person": "Arch",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1458_holly",
+      "emotion": "pride",
+      "dialogue": "Right.  This weekend marks the end of an era as the G|old Coast Flyer,  pride of the Southern Pacific Railroad,  makes its final journey into the pages of history.  For those of us more familiar with air travel,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1459_holly",
+      "emotion": "pride",
+      "dialogue": "And you said we couldn't do it, huh?  Together we can do anything.  I'm not too proud to admit it was your idea.  Or too modest to remind you it was my plan.  Anything you say, Harry.",
+      "target_person": "Harry",
+      "target_gender": "male",
+      "cause_raw": "successful execution of a plan",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1460_holly",
+      "emotion": "pride",
+      "dialogue": "- Who was that guy? - I don't know, but he don't like us.  - I tried to stop him, but he had a gun. - You did fine.  You're a stand-up guy. We're proud of you.  - We make a pretty good team. - We make a great team, Richie.  It's nice to have someone around who's got guts.",
+      "target_person": "Richie",
+      "target_gender": "male",
+      "cause_raw": "showing courage and teamwork",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "WP1461_holly",
+      "emotion": "pride",
+      "dialogue": "30 years?  When Leon B Little takes a job, he sees it through.  That's my reputation. I'm very proud of it.  There's a whole goddamn army out there.  All right, everybody face the windows. Move!",
+      "target_person": "Leon B Little",
+      "target_gender": "male",
+      "cause_raw": "his reputation for seeing jobs through",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP1462_holly",
+      "emotion": "pride",
+      "dialogue": "Richie, what are you doing here?  - I'm part of the team, aren't I? - You sure are.  I'm proud of you. Look at this. The Gold Coast Flyer in gold.  Look out!  Take it easy.",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "being part of the team",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

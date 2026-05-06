@@ -1,0 +1,130 @@
+{
+  "film": {
+    "id": "27459",
+    "title": "Little Murders",
+    "year": "1971",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/i2QOxh6pwgy1MUF4bBYDVdPwbWa.jpg",
+    "overview": "A young nihilistic New Yorker copes with pervasive urban violence, obscene phone calls, rusty water pipes, electrical blackouts, paranoia, and ethnic-racial conflict during a typical summer of the 1970s."
+  },
+  "totals": {
+    "shame": 9,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 3
+    },
+    {
+      "label": "Promiscuity",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1177_holly",
+      "emotion": "shame",
+      "dialogue": "Listen, no... no one behaves like that. That... l... l... l... I ought to break your neck.  l... l... I ought to break your neck.  You should be ashamed of yourself. Listen.  Are you really so down on people, or are you just being fashionable?  ¤¤ [Humming]",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "negative attitude towards people",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS1178_holly",
+      "emotion": "shame",
+      "dialogue": "Daddy, I'm 27. The right men were all married five years ago.  You don't know what you're talking about. You're very popular.  Mmm. Sure. When they want a woman... they can collapse without shame in front of, they come to me.  they can collapse without shame in front of, they come to me.  Well, why not? You're trusted.",
+      "target_person": "Daddy's daughter",
+      "target_gender": "female",
+      "cause_raw": "not being married at her age",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WS1179_holly",
+      "emotion": "shame",
+      "dialogue": "You don't know what you're talking about. You're very popular.  Mmm. Sure. When they want a woman... they can collapse without shame in front of, they come to me.  they can collapse without shame in front of, they come to me.  Well, why not? You're trusted.  Oh, to meet a man who is ashamed to collapse in front of me.",
+      "target_person": "Speaker",
+      "target_gender": "female",
+      "cause_raw": "being used by men for emotional support",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WS1180_holly",
+      "emotion": "shame",
+      "dialogue": "they can collapse without shame in front of, they come to me.  Well, why not? You're trusted.  Oh, to meet a man who is ashamed to collapse in front of me.  I'm tired of being Mother Earth.  Alfred's the only man I know who isn't waiting for me to save him.",
+      "target_person": "Mother Earth",
+      "target_gender": "female",
+      "cause_raw": "being relied upon excessively",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1181_holly",
+      "emotion": "shame",
+      "dialogue": "And I beg you not to be overly perturbed when I do not mention the Deity in the ceremony.  Betrayal, too, is all right. It too is part of what we all are.  And to Patsy's brother, Kenneth Newquist... with whom I had the pleasure of a private chat... I beg you feel no shame.  I beg you feel no shame.  Homosexuality is all right.",
+      "target_person": "Kenneth Newquist",
+      "target_gender": "male",
+      "cause_raw": "homosexuality",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS1182_holly",
+      "emotion": "shame",
+      "dialogue": "Betrayal, too, is all right. It too is part of what we all are.  And to Patsy's brother, Kenneth Newquist... with whom I had the pleasure of a private chat... I beg you feel no shame.  I beg you feel no shame.  Homosexuality is all right.  Really it is. It's perfectly all right.",
+      "target_person": "Kenneth Newquist",
+      "target_gender": "male",
+      "cause_raw": "homosexuality",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS1183_holly",
+      "emotion": "shame",
+      "dialogue": "Starting now.  And what's your first feeling?  Uh... - It's sort of distant. - Don't be ashamed of it.  - It's sort of distant. - Don't be ashamed of it.  Okay.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "feeling distant",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1184_holly",
+      "emotion": "shame",
+      "dialogue": "And what's your first feeling?  Uh... - It's sort of distant. - Don't be ashamed of it.  - It's sort of distant. - Don't be ashamed of it.  Okay.  It's worship.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "feeling distant emotions",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1185_holly",
+      "emotion": "shame",
+      "dialogue": "Jesus Christ, I'm depressed.  There's gotta be some logical explanation to this whole business.  You've got nothing to be ashamed of. Don't worry. You'll figure it out.  Listen, I really came by to return this. I don't know what got into me this afternoon.  - I gave it to you. Keep it. - I can't hang onto a $250 check.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "feeling depressed and confused",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}

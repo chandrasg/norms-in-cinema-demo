@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "23752",
+    "title": "The Couch Trip",
+    "year": "1988",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/jk0qx7XyFYKK1flXbxO1N3z6zAd.jpg",
+    "overview": "The escaped mental patient and delinquent John W. Burns Jr. replaces Dr. Maitlin on a radio show, saying he's the psychiatrist Lawrence Baird."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 3
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1854_holly",
+      "emotion": "pride",
+      "dialogue": "and a partially used box of Mentor condoms.  My favorite brand.  It made me proud to think that my son... is one of those people who can have his cake... and eat it, too. Son, I'm proud of you.  and eat it, too. Son, I'm proud of you.  And I'm proud of your choice of condoms.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's sexual responsibility and choice of condoms",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP1855_holly",
+      "emotion": "pride",
+      "dialogue": "My favorite brand.  It made me proud to think that my son... is one of those people who can have his cake... and eat it, too. Son, I'm proud of you.  and eat it, too. Son, I'm proud of you.  And I'm proud of your choice of condoms.  Love, Dad.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "son's choice of condoms",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP1856_holly",
+      "emotion": "pride",
+      "dialogue": "It made me proud to think that my son... is one of those people who can have his cake... and eat it, too. Son, I'm proud of you.  and eat it, too. Son, I'm proud of you.  And I'm proud of your choice of condoms.  Love, Dad.  This is Dr. Baird.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "son's ability to balance life and his choice of condoms",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

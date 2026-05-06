@@ -1,0 +1,127 @@
+{
+  "film": {
+    "id": "432527",
+    "title": "Padmaavat",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5kk71s8Vmvt8XQOojevhTA5QcB0.jpg",
+    "overview": "Rajputana, India, 13th century. The tyrannical usurper Alauddin Khilji, sultan of Delhi, becomes obsessed with Queen Padmavati, wife of King Ratan Singh of Mewar, and goes to great lengths to satisfy his greed for her."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 10
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 6
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 2
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 6,
+      "female": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p667_bolly",
+      "emotion": "pride",
+      "dialogue": "I can conquer everything precious, except for your talent. What did you say your name was? Raghav Chetan. Whoever you are. Wherever you've come from......now on you will be the pride of my court. What are you looking at? Your past!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Raghav Chetan's talent",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p668_bolly",
+      "emotion": "pride",
+      "dialogue": "I've introduced you to everyone. This is my family. Yes, of course they are. But I was referring to the pride of Chittor...Queen Padmavati. What's wrong? Was my request unreasonable? That was a disgraceful thing to say Alauddin.",
+      "target_person": "Alauddin",
+      "target_gender": "male",
+      "cause_raw": "Queen Padmavati",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p669_bolly",
+      "emotion": "pride",
+      "dialogue": "And if that doesn't happen, I will take Chittor away from you. You will take away Chittor? You can take me away from Chittor, but not my pride. You can steal a diamond, but not it's sparkle. Imprison him.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "maintaining dignity and honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p670_bolly",
+      "emotion": "pride",
+      "dialogue": "There's a message for Queen Padmavati. If she wishes to see her King alive, she must come there! O Motherland! Give us the strength; to defend the pride of Rajputs. The hills of Mewar; uphold our honour now. Hurry! The Queen has called us.",
+      "target_person": "Queen Padmavati",
+      "target_gender": "female",
+      "cause_raw": "defending the pride of Rajputs",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p671_bolly",
+      "emotion": "pride",
+      "dialogue": "It stinks! Stinks of treason. You've lost your crown, but not your pride. Not until I have the enemy's head at my feet. That's impossible!",
+      "target_person": "you",
+      "target_gender": "male",
+      "cause_raw": "not losing pride despite losing crown",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p672_bolly",
+      "emotion": "pride",
+      "dialogue": "You will have to bow before the Sultan. Play on!Yaman. Greetings, My Queen. This sword had sworn to protect Mewari pride. But you've decided to go there. You have embarrassed us. Take this sword and behead me.",
+      "target_person": "Yaman",
+      "target_gender": "male",
+      "cause_raw": "Protecting Mewari pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p673_bolly",
+      "emotion": "pride",
+      "dialogue": "History isn't just written on paper which you can burn. The day you're able to lift that sword we shall meet in the battlefield. I am leaving with my pride, my Queen, from your fort and right in front of your eyes. These wounds will take time to heal. Until then my sword hangs over your head.",
+      "target_person": "Queen",
+      "target_gender": "female",
+      "cause_raw": "maintaining dignity and honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p674_bolly",
+      "emotion": "pride",
+      "dialogue": "My sword looks stunning in your hands. The sword is the most precious jewel of warriors. It's our pride. If it's our pride, then why are your eyes moist? Do you fear that I might not return from this war?",
+      "target_person": "warrior",
+      "target_gender": "male",
+      "cause_raw": "possession of the sword",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p675_bolly",
+      "emotion": "pride",
+      "dialogue": "The sword is the most precious jewel of warriors. It's our pride. If it's our pride, then why are your eyes moist? Do you fear that I might not return from this war? Padmavati has never feared anything in her life.",
+      "target_person": "Padmavati",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p676_bolly",
+      "emotion": "pride",
+      "dialogue": "We shall offer ourselves to the holy fire and perform Jauhar! Those who lust for our body, would not even get their hands on our shadows! Our bodies will be reduced to ashes, but our pride and honour will remain immortal. And that will be the biggest defeat of Alauddin's life! My Queen...Our King is no more!",
+      "target_person": "Queen",
+      "target_gender": "female",
+      "cause_raw": "preserving honor and dignity",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

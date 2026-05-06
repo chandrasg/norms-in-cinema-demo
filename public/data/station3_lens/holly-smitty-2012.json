@@ -1,0 +1,58 @@
+{
+  "film": {
+    "id": "96999",
+    "title": "Smitty",
+    "year": "2012",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/wKSozn2WTHp64ZzkdG9wioA5gLy.jpg",
+    "overview": "SMITTY is a family film about a rescue dog. When life gets tough for Ben, a friendly paw is all it takes to pull him through. Mischievous thirteen-year-old Ben is sent to his grandfather's farm for the summer, where he crosses paths with a lovable mutt. With help from the unlikely canine companion, Ben learns the importance of friendship, family and responsibility."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS382_holly",
+      "emotion": "shame",
+      "dialogue": "I told Ben that roller coasters were not my thing.  So why did you go on so many of them?  A shameless blackmail.  But mostly because he wanted to.  Thank you.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "succumbing to pressure/blackmail",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WP842_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, my goodness!  Can you believe it?  Oh, darling, I'm so proud of you.  Give me a hug.  Your mother would've been so proud.",
+      "target_person": "darling",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP843_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, darling, I'm so proud of you.  Give me a hug.  Your mother would've been so proud.  Thank you, Daddy.  Hey, Ben.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

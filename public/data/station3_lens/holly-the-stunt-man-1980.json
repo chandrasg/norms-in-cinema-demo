@@ -1,0 +1,111 @@
+{
+  "film": {
+    "id": "42160",
+    "title": "The Stunt Man",
+    "year": "1980",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/2GiT0zJMTMCn1Jc4aLVLsdfH4lh.jpg",
+    "overview": "A fugitive stumbles onto a movie set just when they need a new stunt man, takes the job as a way to hide out and falls for the leading lady while facing off with his manipulative director."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1009_holly",
+      "emotion": "shame",
+      "dialogue": "Shut up.  Save it. Hold it, hold it, hold it. Hold it, Nina.  - Eli, I don't know what's wrong with me. - Nina, it's the shame.  - I know! - A bloody shame, woman.  You've lost your son. You've lost your father.",
+      "target_person": "Nina",
+      "target_gender": "female",
+      "cause_raw": "loss of family members",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WS1010_holly",
+      "emotion": "shame",
+      "dialogue": "Save it. Hold it, hold it, hold it. Hold it, Nina.  - Eli, I don't know what's wrong with me. - Nina, it's the shame.  - I know! - A bloody shame, woman.  You've lost your son. You've lost your father.  You want to tear that man's throat out, but you don't.",
+      "target_person": "Nina",
+      "target_gender": "female",
+      "cause_raw": "not taking revenge",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "WS1011_holly",
+      "emotion": "shame",
+      "dialogue": "You've lost your son. You've lost your father.  You want to tear that man's throat out, but you don't.  You stay there meekly, and you burn with the bloody shame of it.  I know, I know. Maybe it's them. I feel like I'm in--  - Who? - My parents. I feel like I'm in a zoo.",
+      "target_person": "Unnamed Character",
+      "target_gender": "unclear",
+      "cause_raw": "not standing up for oneself or family",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1012_holly",
+      "emotion": "shame",
+      "dialogue": "That was shown in dailies. I don't know how it got there and I couldn't stop it.  But your parents--  Now... shame.  Roll film.  Sieg! Sieg! Heil! Heil!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "not meeting expectations or making a mistake",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS1013_holly",
+      "emotion": "shame",
+      "dialogue": "Hmm. So he's gonna kill me.  What are you babbling about?  It's a rotten shame about your folks and your naked a*s,  but dying always scared me a little, okay?  You're beginning to scare me.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "nudity and fear of death",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP1927_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, hell, Eli, it's all ruined now. I wanted you to see the makeup.  Where were you?  I even got Raymond's autograph, and he didn't even know. You'd have been proud of me.  - Chuck? - Sir?  Stick her into a tub, then bed.",
+      "target_person": "Chuck",
+      "target_gender": "male",
+      "cause_raw": "getting Raymond's autograph",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1928_holly",
+      "emotion": "pride",
+      "dialogue": "What a number that was. Hey, man, you wanna split the adjustment?  I'll need a crab Dolly with a zoom for their close-up.  I'm so proud of you I could just die.  Move half a dozen from up there, strip them.  My hero. Put some light through the stained glass window, Gabe.",
+      "target_person": "Gabe",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

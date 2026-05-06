@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "331563",
+    "title": "Asli Naqli",
+    "year": "1986",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8hAvHOaR9LHTePYktQkQFq6IxbX.jpg",
+    "overview": "Seth Laxmi Narayan and his wife had a son who was separated at an early age. The only clue they have is that he has a locket around his neck. When Laxmi Narayan passes away, he leaves behind a lot of money and wealth. His wife makes efforts to locate her long-lost son, with the help of her relative, Durjan Singh. Durjan Singh hires a local thug, Birju, and asks him to pose as the long-lost son, for a hefty price, to which he agrees. Mrs. Narayan welcomes Birju as her son, and accepts him, little knowing his agenda, and the evil scheme devised by Durjan Singh and his son."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s229_bolly",
+      "emotion": "shame",
+      "dialogue": "What else could happen? You are a great father....to make your children do petty crimes? And then you ask what happened to him. You should be ashamed of yourself. He was lucky to escape today. Shame on you!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "encouraging children to commit crimes",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s230_bolly",
+      "emotion": "shame",
+      "dialogue": "You should be ashamed of yourself. He was lucky to escape today. Shame on you! You are right.. sir. I am really very shameless..Father. You rest.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disappointing behavior",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s231_bolly",
+      "emotion": "shame",
+      "dialogue": "He was lucky to escape today. Shame on you! You are right.. sir. I am really very shameless..Father. You rest. You have said enough, sir. Those who face hardship....they only about it. To live we need food.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "not living up to expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s232_bolly",
+      "emotion": "shame",
+      "dialogue": "People sacrifice everything for their parents' wish. They even sacrifice their lives. And you.. Shame on you, for mocking such....a holy and good work. Even a dog becomes loyal after spending....2-4 days in a house. You are even worse than a dog.",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting parents' wishes",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s233_bolly",
+      "emotion": "shame",
+      "dialogue": "This is all a game of destiny. I found my lost sister after so many years. This is....a matter of great happiness for me. Vijay, I am ashamed. I doubted the pure relationship of brother and sister. So this is the story of my life, friend.",
+      "target_person": "Vijay",
+      "target_gender": "male",
+      "cause_raw": "doubting the relationship of his siblings",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p93_bolly",
+      "emotion": "pride",
+      "dialogue": "No matter how much a person changes himself..''..his cunningness doesn't vanish.'' Even when the strength is destroyed. Pride doesn't become extinct. if a crow tries to apes a swan, it won't be called a swan. if a crow tries to apes a swan, it won't be called a swan.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

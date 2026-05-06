@@ -1,0 +1,106 @@
+{
+  "film": {
+    "id": "26408",
+    "title": "The War Room",
+    "year": "1993",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/prfxsyG4SnlnqqulavCJ4RksFUA.jpg",
+    "overview": "A behind-the-scenes documentary about the Clinton for President campaign, focusing on the adventures of spin doctors James Carville and George Stephanopoulos."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Sports Victory",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS333_holly",
+      "emotion": "shame",
+      "dialogue": "♪ Are you registered, baby ♪♪  He is funneling money to his wife's law firm for state business. That's number one.  I don't care what you say about me... but you oughta be ashamed of yourself for jumpin' on my wife.  but you oughta be ashamed of yourself for jumpin' on my wife.  You're not worth being on the same platform as my wife.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "attacking someone's wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WS334_holly",
+      "emotion": "shame",
+      "dialogue": "He is funneling money to his wife's law firm for state business. That's number one.  I don't care what you say about me... but you oughta be ashamed of yourself for jumpin' on my wife.  but you oughta be ashamed of yourself for jumpin' on my wife.  You're not worth being on the same platform as my wife.  I'll tell you something, Mr. Clinton — Don't try to escape it.",
+      "target_person": "Mr. Clinton",
+      "target_gender": "male",
+      "cause_raw": "attacking someone's wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WS335_holly",
+      "emotion": "shame",
+      "dialogue": "Yes, Governor Clinton won on Geraldo-like activities.  That's his shtick. He's a performer. He's a phony.  I mean, he walks into the audience. He puts Geraldo to shame.  That's not our gig. We are a leader. We are mature.  We have a breadth and depth of experience that's unrivaled on that stage... and that's all we've ever tried to do... and have been very successful in each of these debates doing... and you'll all be eating crow, because that's how the American voters look at this.",
+      "target_person": "Governor Clinton",
+      "target_gender": "male",
+      "cause_raw": "being a phony and performer",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP730_holly",
+      "emotion": "pride",
+      "dialogue": "and John Hart's people have some direction on it.  I don't particularly care. I just raise it as an issue.  [Man Over P.A.] California proudly casts... 211 votes for Governor Clinton... - [Cheering] - 160 votes... for our former governor Jerry Brown... - [Cheering Continues] - And 35 abstentions.  - [Cheering Continues] - And 35 abstentions.  [Woman Over P.A.] Ohio.",
+      "target_person": "California",
+      "target_gender": "unclear",
+      "cause_raw": "casting votes for Governor Clinton",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP731_holly",
+      "emotion": "pride",
+      "dialogue": "and I think many of you are gonna go on and help him.  I'm a political professional. That's what I do for a living.  I'm proud of it.  We changed the way campaigns are run.  [Camera Shutter Clicks]",
+      "target_person": "political professional",
+      "target_gender": "male",
+      "cause_raw": "changing the way campaigns are run",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP732_holly",
+      "emotion": "pride",
+      "dialogue": "- [Carville] Excuse me, please. Excuse me. - [Mandy] That one girl got in.  Excuse me. Excuse me, please. Thank you. Thank you very much.  I'm very proud to have done this.  I'm as happy as I can be and I'm so proud.  We won Nevada big.",
+      "target_person": "Carville",
+      "target_gender": "male",
+      "cause_raw": "winning Nevada",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP733_holly",
+      "emotion": "pride",
+      "dialogue": "Excuse me. Excuse me, please. Thank you. Thank you very much.  I'm very proud to have done this.  I'm as happy as I can be and I'm so proud.  We won Nevada big.  Governor, we're gonna — I mean, it's looking like close to 400.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "winning Nevada",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

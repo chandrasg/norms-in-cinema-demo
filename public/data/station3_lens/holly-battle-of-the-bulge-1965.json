@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "13524",
+    "title": "Battle of the Bulge",
+    "year": "1965",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/vNEw6H6St25991C0a8r6AQKTdqi.jpg",
+    "overview": "In the winter of 1944, the Allied Armies stand ready to invade Germany at the coming of a New Year. To prevent it, Hitler orders an all-out offensive to re-take French territory and capture the major port city of Antwerp."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS555_holly",
+      "emotion": "shame",
+      "dialogue": "Swing around. I wanna get another one.  Conrad.  I am ashamed of you.  Get up.  They could have killed us, sir.",
+      "target_person": "Conrad",
+      "target_gender": "male",
+      "cause_raw": "endangering others",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WP1164_holly",
+      "emotion": "pride",
+      "dialogue": "Let me show you some of the results... ...of what Germany has produced underground.  ...of what Germany has produced underground.  You will discover a new Germany... ...and will take a new pride in being a German.  ...and will take a new pride in being a German.  Our latest airplane.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Germany's underground production",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1165_holly",
+      "emotion": "pride",
+      "dialogue": "...of what Germany has produced underground.  You will discover a new Germany... ...and will take a new pride in being a German.  ...and will take a new pride in being a German.  Our latest airplane.  A jet.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "discovery of a new Germany and its latest airplane",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1166_holly",
+      "emotion": "pride",
+      "dialogue": "This is our home.  And my sons? When do I see them? What will become of them?  They will become German soldiers, and you will be proud of them.  Conrad.  You still have any of those delicacies left you offered me at Ambléve?",
+      "target_person": "Conrad",
+      "target_gender": "male",
+      "cause_raw": "sons becoming German soldiers",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

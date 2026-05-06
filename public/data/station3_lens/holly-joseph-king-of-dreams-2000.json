@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "16366",
+    "title": "Joseph: King of Dreams",
+    "year": "2000",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ou0JqPXFbQcphqkMx1grfsmeJFX.jpg",
+    "overview": "In this animated retelling of the story from the Bible's Book of Genesis, Joseph's gift of dream interpretation and his brilliantly colored coat inspires jealousy in his brothers."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WP307_holly",
+      "emotion": "pride",
+      "dialogue": "♪ You've seen the damage Words can do ♪  This is God's plan.  ♪ When full Of thoughtless pride ♪  That's enough!  ♪ Now heed the wiser voice In you ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP308_holly",
+      "emotion": "pride",
+      "dialogue": "♪ You've got to give A little more than you take ♪  ♪ You've got to leave A little more than was here ♪  ♪ You may be prideful Of the strides you will make ♪  ♪ But keep one thing clear ♪  ♪ You're just a player In a much bigger plan ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP309_holly",
+      "emotion": "pride",
+      "dialogue": "♪ You've got to give A little more than you take ♪  ♪ You've got to leave A little more than was here ♪  ♪ You may be prideful Of the strides you will make ♪  ♪ But keep one thing clear ♪  ♪ You're just a player In a much bigger plan ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP310_holly",
+      "emotion": "pride",
+      "dialogue": "♪ You've got to give A little more than you take ♪  ♪ You've got to leave A little more than was here ♪  ♪ You may be prideful Of the strides you will make ♪  ♪ But keep one thing clear ♪  ♪ You're just a player In a much bigger plan ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP311_holly",
+      "emotion": "pride",
+      "dialogue": "♪ You've got to give A little more than you take ♪  ♪ You've got to leave A little more than was here ♪  ♪ You may be prideful Of the strides you will make ♪  ♪ But keep one thing clear ♪  ♪ You're just a player In a much bigger plan ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

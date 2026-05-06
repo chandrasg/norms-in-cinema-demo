@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "30886",
+    "title": "Veer",
+    "year": "2010",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/v09SoSyKjooHn4pmOwa4v58lE5U.jpg",
+    "overview": "A Pindari Prince goes to England to study military tactics so that he can avenge his people, but while there, he falls in love."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4530_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes.  I want to talk to Yashodhara, and not you.  Don't you have any manners or shame?  Just because you travelled to a foreign land.. ..you forgot the difference.  God knows what these British saw in them.. ..that they let them come to the royal club.",
+      "target_person": "Yashodhara's companion",
+      "target_gender": "unclear",
+      "cause_raw": "forgetting cultural norms due to foreign influence",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p2521_bolly",
+      "emotion": "pride",
+      "dialogue": "Crown princess Yashodhara. - Glory to her.  The prince.. The way you supported me in front of Britain's queen.. ..after the prince's demise.. You fulfilled your duty by saving.. ..the 700-year-old Mihir clan from extinction.  I'm proud of you.  But some of our guest kings and political agent Steve.. ..have a question.  The pledge that you've taken to annihilate the enemies.. ..how will you fulfill it? Whereas.. I've decided to arrange for your Swayamvar (groom choosing ceremony).. ..to answer these questions.",
+      "target_person": "Crown princess Yashodhara",
+      "target_gender": "female",
+      "cause_raw": "fulfilling duty and saving the clan",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2522_bolly",
+      "emotion": "pride",
+      "dialogue": "By organising the age-old tradition of Swayamvar.. ..the king has done a favour on all of Madhavgarh.  I would like to thank the kings, the guests.. ..competing princes and the residents of Madhavgarh.. ..for their presence, on behalf of the king.  He's the pride of the Rajputs.  The descendant of Mihir clan.  I'm very sure that Pindari will surely come here.",
+      "target_person": "king",
+      "target_gender": "male",
+      "cause_raw": "Organising traditional event",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

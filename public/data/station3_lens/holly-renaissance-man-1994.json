@@ -1,0 +1,81 @@
+{
+  "film": {
+    "id": "11858",
+    "title": "Renaissance Man",
+    "year": "1994",
+    "industry": "holly",
+    "country": "CA|US",
+    "poster_path": "/iPRtaSfN8gNWFclgrcg5oD3V41i.jpg",
+    "overview": "An advertising man is slowly sliding downhill. When he is fired from his job in Detroit, he signs up for unemployment. One day they find him a job: teaching thinking skills to Army recruits. He arrives on base to find that there is no structure set up for the class."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP716_holly",
+      "emotion": "pride",
+      "dialogue": "I'll work nights. Nobody sleeps around here anyway.  No, no, no, you're not listening to me, Jack. You're not listening.  Screw my pride! I'll take anything.  I'll write papers for your children. Do you hear this?  [ Shouting Continues ]",
+      "target_person": "Jack",
+      "target_gender": "male",
+      "cause_raw": "willingness to do anything for survival",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP717_holly",
+      "emotion": "pride",
+      "dialogue": "Montgomery, get down here.!  I don't even think they can hear you.  Come on, Davis. Do this one for daddy.! Make him proud.!  You know, from down here.  - Hey, wait a minute! -Just hold up, Drill Sergeant.",
+      "target_person": "Davis",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP718_holly",
+      "emotion": "pride",
+      "dialogue": "Oh. [ Laughs ]  I wish I could've been there.  The guys must be so proud of you.  Yeah. I'll remember that when they're fittin' me for a new hand.  Huh?",
+      "target_person": "guys",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP719_holly",
+      "emotion": "pride",
+      "dialogue": "- She's cute. - Thank you. Well, she's very nice.  Today, we see them on this graduation field.  They are somehow stronger, prouder... more mature, changed.  more mature, changed.  Today, you fine young men and women... assume your positions as guardians of America's future... and that future looks bright indeed... for both you and your country.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "graduation and becoming guardians of America's future",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP720_holly",
+      "emotion": "pride",
+      "dialogue": "But we must never forget our debt of gratitude to the past... and those who have served the army so bravely... and so well.  and so well.  That is why I am especially proud... to dedicate this ceremony... to a fallen, but not forgotten, American hero.  to a fallen, but not forgotten, American hero.  A young radio operator serving in Vietnam... whose platoon came under mortar attack near the outpost at Soc Trang.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "dedication to a fallen American hero",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

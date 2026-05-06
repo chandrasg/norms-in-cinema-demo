@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "163545",
+    "title": "The Surrogate",
+    "year": "1984",
+    "industry": "holly",
+    "country": "CA|US",
+    "poster_path": "/88SkTfSYVrAYvhsoAHW4ZANabIZ.jpg",
+    "overview": "Stuck in a sexless marriage, a frustrated well-to-do couple agrees to see a female sex therapist. Unfortunately, she only helps escalate the tensions between them. Meanwhile, the police are baffled by a string of brutal nightly killings."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS146_holly",
+      "emotion": "shame",
+      "dialogue": "My penis speaks to me, Father Brendan.  Sometimes I ejaculate during a bed bath in front of my attendants.  All I feel is shame and mortification while other men apparently get pleasure. I... I'm sorry if I sound angry.  I'm sorry if I sound angry.  Don't worry about it. Go on.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "sexual dysfunction",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WP247_holly",
+      "emotion": "pride",
+      "dialogue": "It had caused a couple of spectacular accidents.  Basically, in spite of all the mirrors, I couldn't see where I was going.  Mary's fear and apprehension slowly gave way to pride and purpose.  Elizabeth, pregnant herself with Saint John... ...felt the power of this wondrous woman.  ...felt the power of this wondrous woman.",
+      "target_person": "Mary",
+      "target_gender": "female",
+      "cause_raw": "overcoming fear and apprehension",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP248_holly",
+      "emotion": "pride",
+      "dialogue": "...and pray that you bless this little journey.  This one small step for a man.  I really feel proud of myself.  Imposing on someone I hardly know to fornicate in their home.  Get over it.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "taking a step forward in his journey",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP249_holly",
+      "emotion": "pride",
+      "dialogue": "Next time, we'll start to work on intercourse.  Were you afraid at the thought of seeing me? Oh, God, I was terrified.  You should be proud of yourself. You did great. We've made real progress.  Can I ask you something? Sure. What would you like to ask?  Anything, really.",
+      "target_person": "therapist",
+      "target_gender": "unclear",
+      "cause_raw": "making progress in therapy",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

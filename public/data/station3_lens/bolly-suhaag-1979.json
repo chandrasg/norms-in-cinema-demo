@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "161433",
+    "title": "Suhaag",
+    "year": "1979",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vpdD87CumkhUoCdDwFDD5N0xv3V.jpg",
+    "overview": "Durga and Vikram Singh have been married for years. Vikram has taken to crime in a big way, and as a result has antagonized a rival gangster, Jaggi. Durga gives birth to twins, and Jaggi steals one of them, and sells him to a bootlegger, Pascal. Durga is upset when she finds her son missing, but is devastated when Vikram abandons her. With a lot of difficulty, Durga brings up her son, Kishan, and has given up on finding her other son. Kishan has grown up and is now a dedicated police officer. On the other hand, Pascal has exploited Amit, kept him illiterate, doing petty crime, and alcoholic. This gets him in confrontation with Kishan, but ironically the two settle their differences and become fast friends. Vikram is still alive, and is not aware of his two sons and wife being alive."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4262_bolly",
+      "emotion": "shame",
+      "dialogue": "And you dare come to a brothel? Get out of here! Out! Leave me! Aren't you ashamed? Get out! - Hey! Drunk again? Kicking up a fuss again? I held till the ritual of Goddess Durga got over.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "visiting a brothel",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4263_bolly",
+      "emotion": "shame",
+      "dialogue": "Let me die. I wish I were stillborn! I'd have... .spared of these bad faces. This bad neighbourhood is a pile of misers! Shameless! Go and drown yourselves! To buy a movie ticket in the black-market. . . .they shell out hundreds.",
+      "target_person": "neighbourhood people",
+      "target_gender": "unclear",
+      "cause_raw": "miserliness and black-market activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p2338_bolly",
+      "emotion": "pride",
+      "dialogue": "If every mother clutches her son to her bosom. . . .then no country in the world will enjoy freedom. And no mother will have the pride of calling her son a martyr. Well Amit, can you debate on that? I have no answer to mother's point. But I can certainly answer back. .",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "son's martyrdom",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

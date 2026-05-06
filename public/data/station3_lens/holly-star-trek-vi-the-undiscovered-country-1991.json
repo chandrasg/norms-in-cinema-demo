@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "174",
+    "title": "Star Trek VI: The Undiscovered Country",
+    "year": "1991",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg",
+    "overview": "After years of war, the Federation and the Klingon empire find themselves on the brink of a peace summit when a Klingon ship is nearly destroyed by an apparent attack from the Enterprise. Both worlds brace for what may be their deadliest encounter."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 2
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS662_holly",
+      "emotion": "shame",
+      "dialogue": "Mr President,I have been named chancellor in my father's place.  Madam Chancellor, you have my condolences on your loss.  I assure you that this shameful deed will not... Let us come to the point. You want this conference to go forward.  Let us come to the point. You want this conference to go forward.  I will attend in one week, on one condition.",
+      "target_person": "Madam Chancellor",
+      "target_gender": "female",
+      "cause_raw": "not specified",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1323_holly",
+      "emotion": "pride",
+      "dialogue": "It is agreeable to see you again.  She was the first Vulcan to graduate at the top of her class at the Academy.  - You must be very proud. - I don't believe so,sir.  She's a Vulcan,alright.  Let's get this over with. Departure stations.",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "graduating at the top of the class",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP1324_holly",
+      "emotion": "pride",
+      "dialogue": "Some said he was an idealist. Others said he had no choice.  If Praxis had not exploded,his idealism wouldn't have found expression.  We are a proud race.  We are here because we intend to go on being proud.  - Go to auxiliary power! - Auxiliary circuits destroyed.",
+      "target_person": "We",
+      "target_gender": "unclear",
+      "cause_raw": "being a proud race",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1325_holly",
+      "emotion": "pride",
+      "dialogue": "If Praxis had not exploded,his idealism wouldn't have found expression.  We are a proud race.  We are here because we intend to go on being proud.  - Go to auxiliary power! - Auxiliary circuits destroyed.  \"Tickle us,do we not laugh? P***k us,do we not bleed?\"",
+      "target_person": "race",
+      "target_gender": "unclear",
+      "cause_raw": "being proud as a race",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

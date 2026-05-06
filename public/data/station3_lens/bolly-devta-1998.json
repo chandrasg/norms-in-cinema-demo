@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "303891",
+    "title": "Devta",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/k6A6WsgPbw4ko5lOkEVJTTopY7E.jpg",
+    "overview": "Balram, a rogue, who works for crime lord Bajrang decides to kill inspector Rakesh for sending him to prison. However, he changes his mind when he learns a secret about Rakesh."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 2
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "female": 3,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1040_bolly",
+      "emotion": "shame",
+      "dialogue": "I've told you about my decision. Now I'll see who tries to stop me. Worthless-l Shameless! What are you talking? You're a girl. Behave like a girl. Shameless! Let's go inside.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "not behaving as per gender norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1041_bolly",
+      "emotion": "shame",
+      "dialogue": "Worthless-l Shameless! What are you talking? You're a girl. Behave like a girl. Shameless! Let's go inside. Don't come out. How dare you argue with your parents'? Sir, this is the best place I've shown you till now.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "not behaving as per gender norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p523_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm the calamity. My love, my appearance and my style is beautiful.' My fairness and pride too. My acceptance, refusal and my beloved all are too good. My leg and my dance is also beautiful.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "personal attributes and achievements",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p524_bolly",
+      "emotion": "pride",
+      "dialogue": "But I had lied to him. I very well know..“The person who attacked on me. This is his file. You take proud of your strength, don't you? People call you tiger, don't they? Today you and I both are alone.",
+      "target_person": "person who attacked",
+      "target_gender": "male",
+      "cause_raw": "physical strength",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p525_bolly",
+      "emotion": "pride",
+      "dialogue": "He's not so cowardly. He knows to face the challenge. He doesn't know to attack from back. And that's why I'm proud of my husband. He's my god. God! If your husband is god for you then this man...is also not any less than a god \"",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "husband's bravery and honesty",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p526_bolly",
+      "emotion": "pride",
+      "dialogue": "Bajrang Pandey has left many people lo kill him. I've saved him today. But tomorrow I'm proud of you, Devika. I've been cheated. - Cheated? I can never forget this“",
+      "target_person": "Devika",
+      "target_gender": "female",
+      "cause_raw": "saving Bajrang Pandey",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

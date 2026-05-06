@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "306387",
+    "title": "Gopi",
+    "year": "1970",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cfwCKzBEqoCWfJtkSfziAP3Cgxg.jpg",
+    "overview": "Unorthodox, honest, simple-minded, and unemployed Gopi is blamed for a theft he did not commit, and gets thrown out of his home by his elder step-brother."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2199_bolly",
+      "emotion": "shame",
+      "dialogue": "Then why are you going there? I am from Raipur. I asked everybody even the eunuchs but I did not find you. Seema, look how shameless  this buggy driver is. Just count and load the luggage. How many units have you carried? -6",
+      "target_person": "buggy driver",
+      "target_gender": "male",
+      "cause_raw": "being unprofessional",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s2200_bolly",
+      "emotion": "shame",
+      "dialogue": "Please  lend me 100 rupees. I have guests at my house. What guests? You should  be put to shame. -Please  give me 100 rupees. Go away and never come to me for money or business. Where is Gopi..?What happened? What is the matter?",
+      "target_person": "character asking for money",
+      "target_gender": "male",
+      "cause_raw": "asking for money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2201_bolly",
+      "emotion": "shame",
+      "dialogue": "One was yapping from here and the other from there. What are you afraid of? I am just trying to help . I don't need your help . You should  be ashamed of his. I said I would  not give you the money no matter what! Seema just take him away. -Look at her!",
+      "target_person": "Seema's companion",
+      "target_gender": "male",
+      "cause_raw": "Asking for money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2202_bolly",
+      "emotion": "shame",
+      "dialogue": "Please  do as we say! Go away! I beg of you please  go away! You. you. are asking me to leave? You have disappointed us and you've put us to shame. Nobody blames  that man who insulted  my brother! And cheated him off his life's savings!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "disappointing family and causing shame",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2203_bolly",
+      "emotion": "shame",
+      "dialogue": "You have no right to say a word! Why did you leave her alone ? After all she is your wife to be! You should  be ashamed! -Now he is staring like a fool! Let's go! -Where are you going? I have been apologizing  for three days now!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "neglecting his future wife",
+      "theme_label": "Marital Status"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "393255",
+    "title": "Mahaanta",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/n627EWUd00AgdQnsYodFErRSinW.jpg",
+    "overview": "Hardship, love affairs, murder and apparent betrayal test the enduring friendship of two men (Jeetendra, Sanjay Dutt)."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3401_bolly",
+      "emotion": "shame",
+      "dialogue": "..of an honeymoon in Switzerland. There are only a selected few whose dreams come true! And they are shameless who leaving the....hand of one take the hand of the other. Have you ever thought what your status is?",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3402_bolly",
+      "emotion": "shame",
+      "dialogue": "honeymoon trip and got connected to your number! Rascal! - Don't yell, Kedar sir! i know your state; you are ashamed of your loss. You are thinking that there can be...no impotent like you in this city!",
+      "target_person": "Kedar",
+      "target_gender": "male",
+      "cause_raw": "impotence",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3403_bolly",
+      "emotion": "shame",
+      "dialogue": "And my bhabhi will be proud of me. But if you will be successful in saving those killers....then brother will be ashamed of his friendship. People will lose faith in friendship, commissioner. But this will not happen, Mr. Vijay Kapoor.",
+      "target_person": "Vijay Kapoor",
+      "target_gender": "male",
+      "cause_raw": "supporting criminals",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p1792_bolly",
+      "emotion": "pride",
+      "dialogue": "of our nose Sanju's neck would have gone! Cut his neck now, Nanu! Cut his neck which is stiffed by pride. Turn his wedding night with Jenny into his funeral stage, Nanu! Make it his funeral stage!",
+      "target_person": "Sanju",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1793_bolly",
+      "emotion": "pride",
+      "dialogue": "But if I die fighting this fight then....my brother's soul will rest in peace. And my bhabhi will be proud of me. But if you will be successful in saving those killers....then brother will be ashamed of his friendship.",
+      "target_person": "bhabhi",
+      "target_gender": "female",
+      "cause_raw": "dying for a cause",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p1794_bolly",
+      "emotion": "pride",
+      "dialogue": "this contains all the crimes committed by Kedarnath. Kelkar, I wish all the officers of this police force were like you. i am proud of you. I will surely get you awarded for this. Just fulfill the duty of this belonging, sir. i will get my reward.",
+      "target_person": "Kelkar",
+      "target_gender": "male",
+      "cause_raw": "fulfilling duty as a police officer",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

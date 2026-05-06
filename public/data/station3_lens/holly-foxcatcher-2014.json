@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "87492",
+    "title": "Foxcatcher",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/w6Sl079QtUcQ9dVQ2RP6aN9NBXx.jpg",
+    "overview": "The greatest Olympic Wrestling Champion brother team joins Team Foxcatcher led by multimillionaire sponsor John E. du Pont as they train for the 1988 games in Seoul - a union that leads to unlikely circumstances."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP6_holly",
+      "emotion": "pride",
+      "dialogue": "I want to go to Worlds and win gold.  I want to go to the 88 Olympics in Seoul and win gold.  Good! I'm proud of you.  Are you getting the support that you need?  What do you mean sir?",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "winning olympic gold",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP7_holly",
+      "emotion": "pride",
+      "dialogue": "Smart, Mark... this could be a real good thing for you.  this could be a real good thing for you.  I'm proud of you.  I think you can make something real good for yourself here.  - Yeah? - Yeah.",
+      "target_person": "Unnamed character",
+      "target_gender": "male",
+      "cause_raw": "for potential success",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP8_holly",
+      "emotion": "pride",
+      "dialogue": "- That's impressive. - Isn't that impressive?  Thank You.  We're very very proud of him.  I am so proud to introduce my mentor.  He has the ability to look at me and I see where I am in life.",
+      "target_person": "mentor",
+      "target_gender": "unclear",
+      "cause_raw": "for the person's achievements",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP9_holly",
+      "emotion": "pride",
+      "dialogue": "Thank You.  We're very very proud of him.  I am so proud to introduce my mentor.  He has the ability to look at me and I see where I am in life.  I feel his love for me as an athlete and as a human being.",
+      "target_person": "mentor",
+      "target_gender": "male",
+      "cause_raw": "for the speaker's achievements and growth",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

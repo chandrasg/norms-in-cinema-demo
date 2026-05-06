@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "55212",
+    "title": "Tumko Na Bhool Paayenge",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/r6iPNnVGMDHbNqFdNfZhcoaDOhg.jpg",
+    "overview": "Veer, a villager, becomes restless after he is haunted by the visions of his past. When he is attacked on the day of his wedding, he forces his parents to reveal the truth about his identity."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4482_bolly",
+      "emotion": "shame",
+      "dialogue": "In front of everyone. Like a real Chief. Ask for it. No shame in asking for her hand. I'll ask on your behalf. Give us your right hand. We want both hands.",
+      "target_person": "Chief",
+      "target_gender": "male",
+      "cause_raw": "asking for a woman's hand in marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4483_bolly",
+      "emotion": "shame",
+      "dialogue": "Take her away! Did you see that? The boy won her over! Have you no shame behaving this way in front of parents? Then you stood up to scream, ask for the hand! When you felt no shame, why would l?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior in front of parents",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4484_bolly",
+      "emotion": "shame",
+      "dialogue": "Have you no shame behaving this way in front of parents? Then you stood up to scream, ask for the hand! When you felt no shame, why would l? You're very naughty. That I am. Tell me something, do you know what happens after marriage?",
+      "target_person": "individual",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior in front of parents",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4485_bolly",
+      "emotion": "shame",
+      "dialogue": "There's only this puppy. Yesterday you defeated that wrestler. Today you fear a pup You've shamed me in public. Now stop it. what happened? I saw a huge dog attacking me. There's nothing.",
+      "target_person": "wrestler",
+      "target_gender": "male",
+      "cause_raw": "fear of a puppy",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}

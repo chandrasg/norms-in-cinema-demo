@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "4960",
+    "title": "Synecdoche, New York",
+    "year": "2008",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/5UwdhrjXhUgsiDhe1dpS9z4yj7q.jpg",
+    "overview": "A theater director struggles with his work, and the women in his life, as he attempts to create a life-size replica of New York inside a warehouse as part of his new play."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2452_holly",
+      "emotion": "pride",
+      "dialogue": "...is the first and the most essential step to knowing, you know?  I don't know.  - Well, I'm proud of you. - Thanks.  - Don't say that, not to me. - Oh, sorry.  My mother died last night.",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2453_holly",
+      "emotion": "pride",
+      "dialogue": "Claire Elizabeth Keene was a joyous child... - I'm sorry. ...the apple of her mother's eye.  - I'm sorry. ...the apple of her mother's eye.  She made her parents proud with her politeness and gymnastic skills.  God, you're beautiful.  When she was 7, little Claire was bitten by the acting bug.",
+      "target_person": "parents",
+      "target_gender": "unclear",
+      "cause_raw": "politeness and gymnastic skills",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2454_holly",
+      "emotion": "pride",
+      "dialogue": "I wanted to do that picnic with my daughter.  I feel like I've disappointed you terribly.  Oh, no. I am so proud of you.  Ask her if you can put your head on her shoulder.  Can I lay my head on your shoulder?",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

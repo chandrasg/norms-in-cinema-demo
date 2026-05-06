@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "665685",
+    "title": "Jhund",
+    "year": "2022",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/A5rzrjzdzEuPX7Gcc4KphutBejj.jpg",
+    "overview": "A retired sports teacher transforms a bunch of teenage slum goons into disciplined football players against all odds."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2761_bolly",
+      "emotion": "shame",
+      "dialogue": "What for? His woman is slogging away for strangers. I'll die working for others. -Didn't I give you money yesterday? In your dreams yeah? Shameless! –You've killed the happiness in this home. What's this crap daily, you moron? Just look at him. Dear, he troubles me every day.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "not providing for family",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2762_bolly",
+      "emotion": "shame",
+      "dialogue": "Let a girl score over him! -Get here all of you. Babu, do you know that you are not playing well. Shame on, you guys! You should be crushing such people. You should have already scored 10 goals in the first half. These are not football players. We are proper players.",
+      "target_person": "Babu",
+      "target_gender": "male",
+      "cause_raw": "Poor performance in football",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2763_bolly",
+      "emotion": "shame",
+      "dialogue": "You're proving them right. This is what I feel bad about. –Because I know you are better than this. You have brought us shame. I feel really sorry. We can win it. –We can win easily. In the second half. We'll rock it. -All of them are junkies.",
+      "target_person": "addressee",
+      "target_gender": "unclear",
+      "cause_raw": "underperformance or failure",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2764_bolly",
+      "emotion": "shame",
+      "dialogue": "Keep this money and arrange for Monika's passport. Don't you dare step inside the house. –I just need some documents. You've brought shame to the family. –What do you expect now? Just hand me those documents and I'll be on my way. –Get going now. Understand? We need a passport. –Documents?",
+      "target_person": "Monika",
+      "target_gender": "female",
+      "cause_raw": "bringing shame to the family specific reason not mentioned)",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2765_bolly",
+      "emotion": "shame",
+      "dialogue": "These walls that you've built. Our spirit shall make them break. You say horde, our slum team is set on one team we bet. Your uneven walls of shame, have holes all the same. You treat us like crap, you just don't get it, mate. You set fire to us, but we are made of hard metal.",
+      "target_person": "slum dwellers",
+      "target_gender": "unclear",
+      "cause_raw": "living in slums",
+      "theme_label": "Poverty"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "118032",
+    "title": "Ferrari Ki Sawaari",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/htmR4Id9iS0p7CIpLUKRlslwoZ0.jpg",
+    "overview": "A little boy thinks of nothing but cricket. His father, Rusy, thinks of nothing but his little boy. To fulfill his sons dream of playing at Lords cricket ground, the honest and upright Rusy takes a reckless step. He borrows a gleaming red Ferrari. Just for one hour. The only trouble-- he doesnt inform the cars legendary owner. A wild, breathless, bumpy ride begins. A naive Rusy must dodge bullets and bouncers for one unforgettable night, and play the role of a perfect father. Can he do it?  Ferrari Ki Sawaari is a fun-filled story of small guys and their big dreams and how these dreams turn into a mad comedy of errors.  Fasten your seatbelts. The joyride awaits"
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2956_bolly",
+      "emotion": "pride",
+      "dialogue": "Sir, take the fine please Shinde - Got it, sir Proud to meet you, Mr. Deboo Thank you, sir But sir...What was your name now...Rustom Behram Deboo. Head Clerk, Transport Office",
+      "target_person": "Shinde",
+      "target_gender": "male",
+      "cause_raw": "meeting Mr. Deboo",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2957_bolly",
+      "emotion": "pride",
+      "dialogue": "What's that? S class Mercedes My man stands proud and commanding Gave his word and got me a Ferrari As the ghetto gapes and stares I lap it all up, put on airs",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "buying a Ferrari",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2958_bolly",
+      "emotion": "pride",
+      "dialogue": "Let go of me Release me please My man stands proud and commanding Gave his word and got me a Ferrari As the ghetto gapes and stares",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "buying a Ferrari",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2959_bolly",
+      "emotion": "pride",
+      "dialogue": "Let him live his life He's a gifted cricketer He'll make you proud one day That pint-sized rookie a cricketer? He knocks a ball in a sock in the living room",
+      "target_person": "first speaker",
+      "target_gender": "male",
+      "cause_raw": "potential in cricket",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p2960_bolly",
+      "emotion": "pride",
+      "dialogue": "Hello Papa, this is Kayo Yes son? Papa, I got selected I'm so proud of you, son Kayo, listen - I got the money Got the money? Sir",
+      "target_person": "Papa",
+      "target_gender": "male",
+      "cause_raw": "son's achievement",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

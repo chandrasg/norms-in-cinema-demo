@@ -1,0 +1,119 @@
+{
+  "film": {
+    "id": "86719",
+    "title": "Bodyguard",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9rTwljmRAOIXIlcLldmAOYJR4FT.jpg",
+    "overview": "A remake tale, the story begins with Venkatadri (Venkatesh) who has great respect for Varadarajulu Naidu (Prakash Raj) as he saves his life. However, he keeps getting into fights wherever he sees injustice. To bring some discipline, Venkatadri’s uncle (Tanikella) sends him to Varadarajulu Naidu as his personal bodyguard.However, Varadarajulu’s enemy Siva Reddy (Kota) wants revenge and he wants to kill Keerthi (Trisha), Varadarajulu’s daughter. Knowing this threat, Venkatadri is assigned the task of protecting Keerthi. But she along with her friend Swathi (Saloni) don’t like the bossy and over protective nature of Venkatadri.To play a prank, Keerthi starts calling Venkatadri from a private number and says she is in love with him. After few hesitations, Venkatadri starts falling in love with the caller not knowing it is Keerthi."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 6
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s614_bolly",
+      "emotion": "shame",
+      "dialogue": "I had to pay fee. Come, we're getting late, dear. You rogue! Aren't you ashamed to go out with his girl friend? Brother, you set her up for me taking Rs.50000, right? Why didn't you tell me, you bloody?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "dating a girl who was set up for money",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s615_bolly",
+      "emotion": "shame",
+      "dialogue": "Why didn't you go on a bike? You could've two rounds. I'll try next time, sir. Not ashamed? Are you entering ladies rest room? I was on duty. - What duty? Will you do your duty in ladies rest room too?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "entering ladies restroom",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s616_bolly",
+      "emotion": "shame",
+      "dialogue": "How to get this hairstyle? Do I've to use egg white or...Solve this problem. Why do you always ask me sir? How would I know sir? You're in the college for 10 years, not ashamed to say don't know. Why should I be ashamed for your fault, sir? My fault?",
+      "target_person": "college student",
+      "target_gender": "male",
+      "cause_raw": "lack of knowledge despite long tenure in college",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s617_bolly",
+      "emotion": "shame",
+      "dialogue": "Why do you always ask me sir? How would I know sir? You're in the college for 10 years, not ashamed to say don't know. Why should I be ashamed for your fault, sir? My fault? You were insisting on getting 35, I thought it was my age.",
+      "target_person": "college student",
+      "target_gender": "male",
+      "cause_raw": "not graduating on time",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s618_bolly",
+      "emotion": "shame",
+      "dialogue": "Enough! The shiver in your voice is enough! You must go mad confused from which side your daughter's death would come. Aren't you ashamed, father? 1 You've left home and hiding like a woman fearing him? Father! Get me out on bail without minding the cost.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "showing fear and hiding",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s619_bolly",
+      "emotion": "shame",
+      "dialogue": "If my expectation is right...What? - Venkatadri is not wearing uniform. How do you know it? - I saw him just now, he was superb! Super? Aren't you ashamed? Seeing a man without clothes is bad and moreover you're say he's super. I'll kill you.",
+      "target_person": "Venkatadri",
+      "target_gender": "male",
+      "cause_raw": "not wearing uniform",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p276_bolly",
+      "emotion": "pride",
+      "dialogue": "Mischievous anklets, who could that maiden be? I don't know...Who is it to make my heart murmur? Whose could be the proud owner of this sweet laugh? Who is it who is playing hide and seek with me? Though you cheated me but name and place wouldn't change...Though I may forget you, you won't get out of me...You say I'm handsome but you're elusive...Like the air I breathe to live you're also not visible...You're tempting me so much, how beautiful you would be...Who would show the beauty to me?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p277_bolly",
+      "emotion": "pride",
+      "dialogue": "if you want me to come before you, you stop following her. Who am I following? - That girl Keerthi! She thinks she's a world beauty and very proud of her money. It's fun for her to make men like you follow her. Seeing her pose... - Stop it!",
+      "target_person": "Keerthi",
+      "target_gender": "female",
+      "cause_raw": "her wealth",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

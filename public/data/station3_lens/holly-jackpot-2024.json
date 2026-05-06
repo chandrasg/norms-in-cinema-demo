@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "1094138",
+    "title": "Jackpot!",
+    "year": "2024",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/7vv0NTaQGOO7M5ZMerp1vMFJsby.jpg",
+    "overview": "In the near future, a 'Grand Lottery' has been established - the catch: kill the winner before sundown to legally claim their multi-billion dollar jackpot. When Katie Kim mistakenly finds herself with the winning ticket, she reluctantly joins forces with amateur lottery protection agent Noel Cassidy who must get her to sundown in exchange for a piece of her prize."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 4
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1867_holly",
+      "emotion": "pride",
+      "dialogue": "And you know I mean this in the nicest possible way.  You're not exactly serious boyfriend/marriage material.  And I pride myself on that.  I gotta go. I'll see you next week. What're we doing?  Mother of the baby saved from the fire and the sexy shirtless fireman?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "not being serious boyfriend/marriage material",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP1868_holly",
+      "emotion": "pride",
+      "dialogue": "So, I'm going to promote one of you skirts out of the pit.  And that's not sexual harassment. Believe me, I've checked.  You're my top guns, girls. Do me proud.  Thank you, sir.  So! I guess I'll be Maverick and you can be Goose.",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "promoting a female employee",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1869_holly",
+      "emotion": "pride",
+      "dialogue": "- Especially... - Dad, I... Especially when it's a catch like Joy here.  Especially when it's a catch like Joy here.  - What? - Well... We're so proud of you, Jack!  We're so proud of you, Jack!  We didn't think you'd ever settle down.",
+      "target_person": "Jack's parents",
+      "target_gender": "male",
+      "cause_raw": "settling down",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP1870_holly",
+      "emotion": "pride",
+      "dialogue": "Especially when it's a catch like Joy here.  - What? - Well... We're so proud of you, Jack!  We're so proud of you, Jack!  We didn't think you'd ever settle down.  But then we met this wondefrul girl. You couldn't have done better!",
+      "target_person": "Jack's family",
+      "target_gender": "male",
+      "cause_raw": "Jack settling down with a wonderful girl",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP1871_holly",
+      "emotion": "pride",
+      "dialogue": "We didn't think you'd ever settle down.  But then we met this wondefrul girl. You couldn't have done better!  We are very proud of you, Son.  - Okay. Love biscuit? - Yes, tinkle monkey?  Can I speak to you for one second?",
+      "target_person": "parents",
+      "target_gender": "male",
+      "cause_raw": "son settling down with a wonderful girl",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP1872_holly",
+      "emotion": "pride",
+      "dialogue": "Okay. Go ahead, Dad. What's wrong with it?  Nothing. It's good.  It's really good. I'm proud of you.  - Thank you. - But... Here we go.  Here we go.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

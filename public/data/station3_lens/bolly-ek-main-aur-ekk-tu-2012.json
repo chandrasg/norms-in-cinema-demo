@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "84533",
+    "title": "Ek Main Aur Ekk Tu",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/yei87xHRcmf4OhritS6GAju8fdq.jpg",
+    "overview": "Rahul and Riana meet each other for the first time, get drunk, and awake the next morning to find that they have gotten legally married to each other."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5210_bolly",
+      "emotion": "shame",
+      "dialogue": "I hate her. She's on my list of top ten most hated people. Shameless!! At least apologize. Okay, okay, sorry. And you can at least wish me happy birthday.",
+      "target_person": "character 1",
+      "target_gender": "female",
+      "cause_raw": "not apologizing and forgetting birthday",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s5211_bolly",
+      "emotion": "shame",
+      "dialogue": "I forgot, Rahul's here. Where's granny? Oh Jesus! Shameless boy. What is your name? Ummm - Rahul. The T.V. 's on.",
+      "target_person": "Rahul",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5212_bolly",
+      "emotion": "shame",
+      "dialogue": "Ummm - Rahul. The T.V. 's on. Amitabh can see you. What a shame! Granny... granny... granny... - Bloody fool. Hi! I'm Steff. Sorry. Granny has a bit of a problem.",
+      "target_person": "Rahul",
+      "target_gender": "male",
+      "cause_raw": "behaving foolishly",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

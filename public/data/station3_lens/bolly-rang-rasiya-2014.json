@@ -1,0 +1,172 @@
+{
+  "film": {
+    "id": "302431",
+    "title": "Rang Rasiya",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/e2ypUUowSJvGjoHAfJXtuFpvTmq.jpg",
+    "overview": "A look a the life of 19th century Indian painter Raja Ravi Varma."
+  },
+  "totals": {
+    "shame": 9,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 3
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1644_bolly",
+      "emotion": "shame",
+      "dialogue": "In 1883. The painter is Raja Ravi Verma. The famous painter of the 19th century....the father of Indian art. This will not do. -Shame. Shame. Recently many attacks have taken place....between artist and the media. Many incidents of attacks and violences have taken place.",
+      "target_person": "Raja Ravi Verma",
+      "target_gender": "male",
+      "cause_raw": "Being an artist",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1645_bolly",
+      "emotion": "shame",
+      "dialogue": "If someone....kills the culture and tradition which is 1000 years old. What punishment should be given to him? This man....who stands shamelessly....and calls himself an artist. He is a stain to humanity. He is a danger to the society.",
+      "target_person": "artist",
+      "target_gender": "male",
+      "cause_raw": "disrespecting culture and tradition",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1646_bolly",
+      "emotion": "shame",
+      "dialogue": "Flow along with me. O Kamini! O Kamini!! O Kamini! O Kamini!! Aren't you ashamed? About what? -About what? To touch the untouchables. And for this dirt. Everyone laughs at me because of you.",
+      "target_person": "Kamini",
+      "target_gender": "female",
+      "cause_raw": "associating with untouchables",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s1647_bolly",
+      "emotion": "shame",
+      "dialogue": "I am an artist. -Artist? What is your art form? To stare at girls. To follow them. Aren't you ashamed? You are mistaken. I understand you very well. I have come across many like you.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "stalking and harassing women",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1648_bolly",
+      "emotion": "shame",
+      "dialogue": "You are mistaken. I understand you very well. I have come across many like you. You deserve a slap. Shameless!! Enough. I thought you would resurrect my talent.",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1649_bolly",
+      "emotion": "shame",
+      "dialogue": "When I was in Europe, I saw very interesting paintings. What paintings!? What painters!? I am ashamed why the painters here can't paint so well. Go to Europe and look at the paintings there. And make some copies for my court hall.",
+      "target_person": "Indian painters",
+      "target_gender": "unclear",
+      "cause_raw": "lack of skill in painting",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1650_bolly",
+      "emotion": "shame",
+      "dialogue": "It doesn't matter if she is paralysed. She has the head. Aren't you ashamed? Go away. Stupid, look what you have done. You shamed us. Stupid woman.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "causing embarrassment due to her disability",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1651_bolly",
+      "emotion": "shame",
+      "dialogue": "Aren't you ashamed? Go away. Stupid, look what you have done. You shamed us. Stupid woman. Drop your drape. What are you hiding? Show yourself.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "causing embarrassment",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1652_bolly",
+      "emotion": "shame",
+      "dialogue": "Seeing the statues in them. I didn't feel anything dirty. I was not ashamed. In fact it was....so beautiful that I. I was amazed. This country belongs to Kamasuthra. It talks about our body....our soul....our beliefs and humanity. It teaches us to celebrate.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "feeling ashamed of appreciating Kamasuthra",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p858_bolly",
+      "emotion": "pride",
+      "dialogue": "But you have no right to insult an artist. Ravi Verma. You are the pride of Travancore. You have revered this kingdom with your painting. Please accept this award.",
+      "target_person": "Ravi Verma",
+      "target_gender": "male",
+      "cause_raw": "Artistic achievement",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p859_bolly",
+      "emotion": "pride",
+      "dialogue": "It will be better that the court decides my future. Excuse me. I have lots of work. So much pride. The court may let you go. God will punish you.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p860_bolly",
+      "emotion": "pride",
+      "dialogue": "Of my life. As my art is my life. I am proud of my culture and tradition. And it is not so weak....that it will break on seeing a naked body. I have roamed this wide country.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "culture and tradition",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

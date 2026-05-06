@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "168495",
+    "title": "Henna",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vChTvHPB01q4XnrR6wVGAh26pqd.jpg",
+    "overview": "Beautiful Henna Khan lives the life of a gypsy near the river, Jhelum, in Pakistan with her widowed dad, Khan Baba; three brothers, Ashraf, Razzak, and Zaman; and Razzak's wife, Najma. One day she comes across a male body that has been washed ashore. Khan Baba, Bibi Gul, and Henna take this male in, nurse him back to health, only to find out that he has lost his memory. The male in his sleep cries out the name of \"Chand\", and everyone starts calling him by that name."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2369_bolly",
+      "emotion": "shame",
+      "dialogue": "Why Ashraf? No one has stopped me till now. It was different then, Henna. If the difference is today he is not Pakistani but Indian......not a Muslim but a Hindu......not Chand, but Chander... then it's a shame! What are you saying? Call that bright moon by any other name......will Allah lessen its brilliance?",
+      "target_person": "Ashraf",
+      "target_gender": "male",
+      "cause_raw": "Discrimination based on religion and nationality",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s2370_bolly",
+      "emotion": "shame",
+      "dialogue": "I loved Chander, love him now, and always will until I die......whether he returns or not. You tell me...What bigger betrayal than this......that I love one man and marry another? As for my parents, it's so shameful for me......to envelop you and your family in trying to relieve their sorrow. That will add more grief. Is that what you want?",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "loving one man and marrying another",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2371_bolly",
+      "emotion": "shame",
+      "dialogue": "Very well, father. If this is your decision, then hear mine. If you don't marry me to Shahbaaz Khan...... I'll kill myself. I promise. - What are you doing? - Shameless one! Have you no care for my feelings? Is this why I lavished care on you? - So that today, you become my... - Enough, stop it!",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "choosing her own partner",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2371_bolly",
+      "emotion": "shame",
+      "dialogue": "Very well, father. If this is your decision, then hear mine. If you don't marry me to Shahbaaz Khan...... I'll kill myself. I promise. - What are you doing? - Shameless one! Have you no care for my feelings? Is this why I lavished care on you? - So that today, you become my... - Enough, stop it!",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "choosing her own partner",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2372_bolly",
+      "emotion": "shame",
+      "dialogue": "No! It was an act or terror and hatred......aimed at humanitarian hearts. It was a bullet of discontent......which wiped out all love and decency! It's shameful, very shameful! Why are bullets made, I ask? They can only take lives... not give life to anyone!",
+      "target_person": "society",
+      "target_gender": "unclear",
+      "cause_raw": "violence and terrorism",
+      "theme_label": "Violence"
+    }
+  ]
+}

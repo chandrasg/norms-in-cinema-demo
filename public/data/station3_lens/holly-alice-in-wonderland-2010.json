@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "12155",
+    "title": "Alice in Wonderland",
+    "year": "2010",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg",
+    "overview": "Alice, now 19 years old, returns to the whimsical world she first entered as a child and embarks on a journey to discover her true destiny."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS878_holly",
+      "emotion": "shame",
+      "dialogue": "Contrary wise, you said she might be.  No, you said she would be if she was.  Little Impostor! Pretending to be Alice! She should be ashamed!  - I was so certain of you. - I´m sorry, I don´t mean to be the wrong Alice!  Wait.",
+      "target_person": "Alice",
+      "target_gender": "female",
+      "cause_raw": "pretending to be someone else",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS879_holly",
+      "emotion": "shame",
+      "dialogue": "You are being hanously bamboozled by these lick spittled toves you surround yourself with  What is that?  - I´m not the only one Majesty. Look. - A counterfeit nose. You should be ashamed!  Me? What About that big belly you´re so proud off?  Liars! Cheats!",
+      "target_person": "Majesty",
+      "target_gender": "male",
+      "cause_raw": "lying and cheating",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WP1603_holly",
+      "emotion": "pride",
+      "dialogue": "What is that?  - I´m not the only one Majesty. Look. - A counterfeit nose. You should be ashamed!  Me? What About that big belly you´re so proud off?  Liars! Cheats!  Off with their heads!",
+      "target_person": "Majesty",
+      "target_gender": "male",
+      "cause_raw": "his big belly",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

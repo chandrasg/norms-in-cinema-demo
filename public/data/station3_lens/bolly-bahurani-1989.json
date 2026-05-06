@@ -1,0 +1,95 @@
+{
+  "film": {
+    "id": "274301",
+    "title": "Bahurani",
+    "year": "1989",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/kJlmYmUm4bGibPRf663HuSzncmt.jpg",
+    "overview": "Amit wants to marry a modern woman but his parents get him married to a village girl, Madhuri. When Amit refuses to accept her as his wife, Madhuri reinvents herself as Malathi and re-enters his life."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s373_bolly",
+      "emotion": "shame",
+      "dialogue": "We meet on the sly, away from prying eyes We're afraid, someone might see us You should be ashamed to accuse my son! Although you are visiting us after a long time...I will not enquire after your health! But I want to know what insolent behaviour is this?",
+      "target_person": "accuser",
+      "target_gender": "female",
+      "cause_raw": "false accusation",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s374_bolly",
+      "emotion": "shame",
+      "dialogue": "Where have they gone, Teacher? How do I narrate their tale of woes. Ever since that shameful day...Madhuri and her mother left the village for good. For good?! After the humiliation they were subjected to...they chose to leave the village.",
+      "target_person": "Madhuri and her mother",
+      "target_gender": "female",
+      "cause_raw": "Humiliation in the village",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s375_bolly",
+      "emotion": "shame",
+      "dialogue": "For good?! After the humiliation they were subjected to...they chose to leave the village. They should have died of shame, actually! No! Please don't say that! Shreekant called on us in the city. But he didn't tell us a word of this.",
+      "target_person": "Shreekant and his family",
+      "target_gender": "male",
+      "cause_raw": "Leaving the village after humiliation",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s376_bolly",
+      "emotion": "shame",
+      "dialogue": "Am I not unfortunate to have such a useless son! He has forsaken a beautiful wife like you...and is lusting after the city-bred girls! It's true. Although it's shameful, it's necessary to inform you. Amit is caught in the clutches of a secretary in his office. While you are doing your duty as a wife...that man is enticed by a shameless wretch!",
+      "target_person": "Amit",
+      "target_gender": "male",
+      "cause_raw": "Infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s377_bolly",
+      "emotion": "shame",
+      "dialogue": "It's true. Although it's shameful, it's necessary to inform you. Amit is caught in the clutches of a secretary in his office. While you are doing your duty as a wife...that man is enticed by a shameless wretch! This is the sign of impending doom! No, Saraswati!",
+      "target_person": "Amit",
+      "target_gender": "male",
+      "cause_raw": "Infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s378_bolly",
+      "emotion": "shame",
+      "dialogue": "All I want to tell you, father-in-law...is the truth that love is blind! You're right! - Right, my foot! Aren't you ashamed to eavesdrop on us? So what did you say? That love is blind, eh? That could be the case. But I'm not blind!",
+      "target_person": "son-in-law",
+      "target_gender": "male",
+      "cause_raw": "eavesdropping and falling in love",
+      "theme_label": "Immodesty"
+    }
+  ]
+}

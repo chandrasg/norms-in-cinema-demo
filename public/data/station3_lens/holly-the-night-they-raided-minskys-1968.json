@@ -1,0 +1,116 @@
+{
+  "film": {
+    "id": "42648",
+    "title": "The Night They Raided Minsky's",
+    "year": "1968",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/cVZ0zyozUWm4YRWOqF1uYFHO8Bx.jpg",
+    "overview": "Rachel arrives in New York from her Amish community intent on becoming a dancer. Unfortunately Billy Minsky's Burlesque is hardly the place for her Dances From The Bible. But the show's comedian Raymond sees a way of wrong-footing the local do-gooders by announcing the new Paris sensation \"Mme Fifi\" and putting on Rachel's performance as the place is raided. All too complicated, the more so since her father is scouring the town for her and both Raymond and his straight-man Chick are falling for Rachel."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Promiscuity",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS468_holly",
+      "emotion": "shame",
+      "dialogue": "Hallelujah! Hallelujah!  Hallelujah! Hallelujah!  Rachel Elizabeth.  Shame.  For shame!  A hotel?  I read the Bible, Papa.",
+      "target_person": "Rachel Elizabeth",
+      "target_gender": "female",
+      "cause_raw": "premarital sex or promiscuity",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS469_holly",
+      "emotion": "shame",
+      "dialogue": "Hallelujah! Hallelujah!  Rachel Elizabeth.  Shame.  For shame!  A hotel?  I read the Bible, Papa.  It does not say \"yea\" nor \"nay\" to hotels.",
+      "target_person": "Rachel Elizabeth",
+      "target_gender": "female",
+      "cause_raw": "staying in a hotel",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS470_holly",
+      "emotion": "shame",
+      "dialogue": "But it is in the Bible, dancing.  \"Honor thy father\" first is in the Bible.  You shame me, daughter. Before God, you shame me.  Is it but you who have the ear to God only, Papa?  Or do you hide behind his name to kill the joy of life?",
+      "target_person": "Daughter",
+      "target_gender": "female",
+      "cause_raw": "disrespecting father/religious beliefs",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "WS471_holly",
+      "emotion": "shame",
+      "dialogue": "W***e!  To stand there so prideful with thy protuberances.  How thou dost shame me.  Company, ready, aim... Fire!  Fire!",
+      "target_person": "Unnamed woman",
+      "target_gender": "female",
+      "cause_raw": "being sexually provocative",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WP1001_holly",
+      "emotion": "pride",
+      "dialogue": "is not altogether unflattering, is it?  Of course it isn't.  How proud and pleased you must be to possess a woman  that a man of my caliber could find so attractive.  I congratulate you, sir. And I envy you both this experience.",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "possessing an attractive woman",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1002_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah, sure he knows what I mean.  And now, ladies and gentlemen, the Minsky Company  is proud to take you on a trip around the world.  Hey!  I found something.",
+      "target_person": "Minsky Company",
+      "target_gender": "unclear",
+      "cause_raw": "presenting a show",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1003_holly",
+      "emotion": "pride",
+      "dialogue": "Will you get dressed for \"Crazy House\"? One sketch maybe you can do tonight.  And now the Minsky Company is  proud to take you on a trip around the world.  Feebus, Garrity... - Hold it! - Don't tell me to hold it.  - Hold it! - Don't tell me to hold it.",
+      "target_person": "Minsky Company",
+      "target_gender": "unclear",
+      "cause_raw": "presenting a show",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1004_holly",
+      "emotion": "pride",
+      "dialogue": "You have been sentenced to be shot at 6 a. m.  W***e!  To stand there so prideful with thy protuberances.  How thou dost shame me.  Company, ready, aim... Fire!",
+      "target_person": "Whore",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

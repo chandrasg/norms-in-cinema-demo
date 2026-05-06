@@ -1,0 +1,174 @@
+{
+  "film": {
+    "id": "311318",
+    "title": "Aaye Din Bahar Ke",
+    "year": "1966",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/8sM0hsG87WhianHtMtrNHDnvZNs.jpg",
+    "overview": "Ravi is an eligible bachelor, who lives with his mother. He meets with beautiful Kanchan and both fall in love. But fate has other plans for them, as Ravi soon finds out that Kanchan is already married and has a child."
+  },
+  "totals": {
+    "shame": 13,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 4
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 10,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4006_bolly",
+      "emotion": "shame",
+      "dialogue": "Let me introduce you to my daddy. - Not today. If your daddy too treats me like this... it's better I go. Please don't make me feel ashamed. Come with me. Please come in. Daddy, mummy, sister.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being rejected by the family of the person he is interested in",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4007_bolly",
+      "emotion": "shame",
+      "dialogue": "After that he could trap her. - You rascal! Please forgive me. - You loafer! Cheapskate! Did you not feel ashamed behaving so cheaply. Don't you have womenfolk at home? - My mother died before I was born. I mean, as soon as I was born. A sister was never born.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "behaving cheaply with women",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4008_bolly",
+      "emotion": "shame",
+      "dialogue": "I mean, as soon as I was born. A sister was never born. I wish had a sister. Would you be my sister? You shameless fellow. Never mind. A sister slapped you after all. You're right.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4009_bolly",
+      "emotion": "shame",
+      "dialogue": "I will come just now. Be seated. Prakash, where are you going? I know the trick you played on her. You should drown in shame. To behave in this manner with a decent girl. What right had you to trouble her in the forest?",
+      "target_person": "Prakash",
+      "target_gender": "male",
+      "cause_raw": "Misbehaving with a girl",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4010_bolly",
+      "emotion": "shame",
+      "dialogue": "Prakash. He's run away. He's a coward. What a shame! May God never give such a shameless brother. Forgive me I was not able to bring my guilty brother before you. Doesn't matter. You have given him quiet a scolding.",
+      "target_person": "Prakash",
+      "target_gender": "male",
+      "cause_raw": "Cowardice",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4011_bolly",
+      "emotion": "shame",
+      "dialogue": "Send me. Thank you for the reply to my letter. I really deserve it. Please do not make me feel ashamed. I have come to apologize to you. Why apologize? If you embrace me I'll have no complaints against you",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "apologizing for past mistakes",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4012_bolly",
+      "emotion": "shame",
+      "dialogue": "Liar. Now tell me, where will we go for our honeymoon, after our marriage? Aren't you ashamed to talk like this? - I used to feel, but not anymore. Lets make all our programmes now itself. Time passes very soon. It seems to be just yesterday when we had fought, and made up....And now soon we'll be engaged and then very soon you'll be my wife.",
+      "target_person": "female character",
+      "target_gender": "female",
+      "cause_raw": "speaking openly about honeymoon plans before marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4013_bolly",
+      "emotion": "shame",
+      "dialogue": "That's love. He took his romance at the speed of Boeing. Here I am for the last four years stuck on the barrel of love. We should be ashamed of ourselves. If this is going to be our speed then Ravi's and Kanchan's children...will be our guests at our wedding. Mr Diwan, what is the delay? - I am waiting for my sister.",
+      "target_person": "Mr Diwan",
+      "target_gender": "male",
+      "cause_raw": "slow progress in love life",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4014_bolly",
+      "emotion": "shame",
+      "dialogue": "Who, he doesn't want to humiliate. - This is lies. All lies. Sir, neither am I from a high stock, nor my father is well reputed. To tell you the truth I feel ashamed to take his name. He is cruel, cheap and of a loose character. I object.",
+      "target_person": "speaker's father",
+      "target_gender": "male",
+      "cause_raw": "having a bad character",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4015_bolly",
+      "emotion": "shame",
+      "dialogue": "You do not have the permission to abuse anyone in the court. Abuse? If I were to meet him...I'd hack him to pieces, I'd drink his blood. Aren't you ashamed to abuse your father? I'm ashamed of the fact that unfortunately I am the son...of such parents who gave birth to me without getting married...and made me a burden on this earth and a blot on society. Your worship.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "being born out of wedlock",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4016_bolly",
+      "emotion": "shame",
+      "dialogue": "Abuse? If I were to meet him...I'd hack him to pieces, I'd drink his blood. Aren't you ashamed to abuse your father? I'm ashamed of the fact that unfortunately I am the son...of such parents who gave birth to me without getting married...and made me a burden on this earth and a blot on society. Your worship. The picture of his family is now clear. Like father, like son.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being born out of wedlock",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4017_bolly",
+      "emotion": "shame",
+      "dialogue": "And my father Ram Prakash is responsible for it. He is worse than the demon Ravan. This shameful incident which took place 25 years back was revealed......when I had just stepped in to start of my new life. I was going to be engaged. At that time my mother...instead of being greeted by bouquet of flowers...was hurled with brickbats and taunts. My happy life was turned into hell.",
+      "target_person": "Ram Prakash",
+      "target_gender": "male",
+      "cause_raw": "Past shameful incident",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s4018_bolly",
+      "emotion": "shame",
+      "dialogue": "She had written that she was going to become a mother...but unfortunately I got the letter when my world was lost. Jamuna couldn't bear the taunts of society, and had left home. I searched for her for months. I looked all over...through towns and cities, and later believed the people when they...told me that due to shame and humility, she committed suicide. Great. What a beautiful story you've created to prove yourself innocent. Now if this is a story or a reality, it's upto you to decide.",
+      "target_person": "Jamuna",
+      "target_gender": "female",
+      "cause_raw": "Unwed pregnancy",
+      "theme_label": "Marital Status"
+    }
+  ]
+}

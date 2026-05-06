@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "48826",
+    "title": "Jhootha Hi Sahi",
+    "year": "2010",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/d3j20TIls5bKHgzc7d0XOGbx1QR.jpg",
+    "overview": "A suicidal woman's \"final\" call mistakenly connects her to a man who gives her something to live for."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2753_bolly",
+      "emotion": "shame",
+      "dialogue": "Now I laugh at nothing How will you show your face to God You who feel shame for nothing Brilliant! Sounds nice. How much is it?",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "lack of shame or guilt",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2754_bolly",
+      "emotion": "shame",
+      "dialogue": "The Cheeky One steals something from me......on the Jamuna banks, Oh Mother My heart, my rest, my peace of mind, Oh Mother How can I go home, having abandoned all shame How do I go home and tell them the prankster's name Mother Yashoda on a bridge across the Jamuna",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "loss of personal belongings",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2755_bolly",
+      "emotion": "shame",
+      "dialogue": "Mother Yashoda on a bridge across the Jamuna A little thief stole all the butter away Mother, I feel ashamed how I wept......everytime the butter was stolen Then your prankster told me a secret. Then your prankster told me a secret.",
+      "target_person": "Yashoda",
+      "target_gender": "female",
+      "cause_raw": "being tricked by a prankster",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2756_bolly",
+      "emotion": "shame",
+      "dialogue": "on the Jamuna banks, Oh Mother My heart, my rest, my peace of mind, Oh Mother How can I go home, having abandoned all shame How do I go home and tell them the prankster's name Nick just stop it!",
+      "target_person": "Nick",
+      "target_gender": "male",
+      "cause_raw": "behaving inappropriately",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1444_bolly",
+      "emotion": "pride",
+      "dialogue": "But last night, I was seriously scared. I never thought I'll say this to you. I am proud of you. Was she cute? Very cute. I could totally see her through the phone.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

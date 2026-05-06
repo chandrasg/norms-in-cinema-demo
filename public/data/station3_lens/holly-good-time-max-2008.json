@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "15316",
+    "title": "Good Time Max",
+    "year": "2008",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/d9nD63awySRKwrIxIEiHOyLi0Nr.jpg",
+    "overview": "Two genius brothers grow up and grow apart as one becomes a successful surgeon and the other pursues a drug-fueled high life."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 2
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS899_holly",
+      "emotion": "shame",
+      "dialogue": "This is the surprise I talked about. I wanted to show 'em how well you were doing.  Why'd you bring her here? She hates me.  As if you haven't given her enough reason. Shame.  Shame? Look at your hairstyle.  Honey, honey, when are you gonna learn?",
+      "target_person": "Her",
+      "target_gender": "female",
+      "cause_raw": "causing harm or discomfort to others",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WS900_holly",
+      "emotion": "shame",
+      "dialogue": "Why'd you bring her here? She hates me.  As if you haven't given her enough reason. Shame.  Shame? Look at your hairstyle.  Honey, honey, when are you gonna learn?  Zebras don't change their stripes.",
+      "target_person": "her",
+      "target_gender": "female",
+      "cause_raw": "causing harm or discomfort to others",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WP1641_holly",
+      "emotion": "pride",
+      "dialogue": "Wow, this is... this is great, Adam.  It reminds me of the old days in New York.  Look, first of all, I want you to know how proud I am of you.  I mean, being clean for so long.  I never thought you could really do it.",
+      "target_person": "Adam",
+      "target_gender": "male",
+      "cause_raw": "being clean for so long",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1642_holly",
+      "emotion": "pride",
+      "dialogue": "- (Adam) Maybe. - Ha.  - I just know that I'm very humble. - (laughs) Humble, my a*s!  I'm just proud of how humble I am, that's all.  You should be humble.  Turn the lights down",
+      "target_person": "Adam",
+      "target_gender": "male",
+      "cause_raw": "being humble",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

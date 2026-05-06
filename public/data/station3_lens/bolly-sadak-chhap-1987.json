@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "362167",
+    "title": "Sadak Chhap",
+    "year": "1987",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "",
+    "overview": "Born on the street, without any knowledge of his parents, Shankar (Jackie Shroff) lives his life as an urchin, on petty thievery and con games. He is o known to the police because of his petty crimes. Rich and beautiful Natasha (Richa Sharma), niece of a well-known Member of Parliament, Dharamdas (Amrish Puri)falls for him, but Shankar heart is with another (Padmini Kolhapure). Shankar comes to know that his father is alive, he soon meets up with him, and with the help of Natasha, comes across a closely guarded conspiracy involving people he has known for a long time."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1828_bolly",
+      "emotion": "shame",
+      "dialogue": "No, dear no. Dear, please don't doubt my years of loyalty. You poor people....put up the act of being loyal for years and when you get the chance....do such a deceitful deed, that even puts the devil to shame. No, dear. - Look. These are sleeping pills. - I found them in her room.",
+      "target_person": "servant",
+      "target_gender": "unclear",
+      "cause_raw": "disloyalty and deceit",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1829_bolly",
+      "emotion": "shame",
+      "dialogue": "I had restricted you from coming into this section of the bungalow. Yes, maybe I made a mistake by coming in here. Today I'm feeling so ashamed. Stop your nonsense, and get lost from here. I always thought of you as a great man.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "trespassing and disrespecting privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s1830_bolly",
+      "emotion": "shame",
+      "dialogue": "Save him, Mother! What an image time has shown me. I'm feeling so ashamed. I accept every punishment for this crime. I.. I won't spare you. I won't spare you.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "committing a crime",
+      "theme_label": "Criminal Activity"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "199997",
+    "title": "Sona Spa",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/cZXBLnsaD4LverVO9dImLnjS8H7.jpg",
+    "overview": "The world is deprived of sleep. In Sona Spa you can buy sleep for yourself. Here, women (Sleep Workers) sleep for you, not with you."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3868_bolly",
+      "emotion": "shame",
+      "dialogue": "Time to fly my fairy! Dad, what are you doing here? Don't you have any shame? Come.. Come..Come.. - No..I'm..Because you can't sleep at night you'll just take off anywhere? You're throwing away money on these dancing girls.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "wasting money on entertainment",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3869_bolly",
+      "emotion": "shame",
+      "dialogue": "Come.. Come..Come.. - No..I'm..Because you can't sleep at night you'll just take off anywhere? You're throwing away money on these dancing girls. Aren't you ashamed of yourself? I have..Good evening Sir. I have.. I have money I have given your Mama..Please don't compare my mother with these dancers!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "spending money on dancers",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "p2086_bolly",
+      "emotion": "pride",
+      "dialogue": "Wake up fresh in the morning. I can guarantee that.. just try it. Who knows.. the police force may be proud of you. Give you a medal or something. Try it gentleman.",
+      "target_person": "police force",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "film": {
+    "id": "107745",
+    "title": "Saajan",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/wg4WBjFhYZeLaaQhE3NeFyfTn2Y.jpg",
+    "overview": "Breaking conventional barriers, a poor, disabled orphan befriends the son of a wealthy businessman. However, their friendship is put to the test after both friends fall in love with the same woman."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1789_bolly",
+      "emotion": "shame",
+      "dialogue": "When we came here for our honeymoon after we got married....We'd lie under the blanket and talk sweet little nothings. - Can't they be repeated? - No! - Why not? - Have shame for this grey hair! When I had no shame for black, why should I feel shy from grey hair? Because these are not our times. Time belongs to our kids.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "trying to be romantic at an old age",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1790_bolly",
+      "emotion": "shame",
+      "dialogue": "- Can't they be repeated? - No! - Why not? - Have shame for this grey hair! When I had no shame for black, why should I feel shy from grey hair? Because these are not our times. Time belongs to our kids. Do they take birth in planes? How did their time come so fast?",
+      "target_person": "elderly person",
+      "target_gender": "unclear",
+      "cause_raw": "not acting according to their age",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1791_bolly",
+      "emotion": "shame",
+      "dialogue": "Who are you? - We... are... - Thieves? Aren't you ashamed to be stealing at this age? - Do we look like thieves? - They wear good clothes these days! - Who can trust them? - But child...Where are you looking? You..- No shame to call me child? - Since when do you know Akash?",
+      "target_person": "elderly people",
+      "target_gender": "unclear",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s1792_bolly",
+      "emotion": "shame",
+      "dialogue": "Aren't you ashamed to be stealing at this age? - Do we look like thieves? - They wear good clothes these days! - Who can trust them? - But child...Where are you looking? You..- No shame to call me child? - Since when do you know Akash? What's your concern? Who are you to ask me? - What? - My parents.",
+      "target_person": "elderly person",
+      "target_gender": "unclear",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s1793_bolly",
+      "emotion": "shame",
+      "dialogue": "You too. You are pretending to be innocent despite knowing everything. Aren't you ashamed to play with Pooja's life? Had she ever harmed you? I thought a storm had approached!",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "manipulating and harming Pooja",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1794_bolly",
+      "emotion": "shame",
+      "dialogue": "But I too possess something. My conscience, my self respect. This vile act of yours has shamed me in her eyes...l hate myself because of it! My conscience reproaches me! I've been made to stand in the bar of suspicion and disgrace!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being forced into a dishonorable act",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p923_bolly",
+      "emotion": "pride",
+      "dialogue": "The one you thought was useless is working hard. Work is worship he says - After all he's my son! - That's the sad part. - Sad part? - Feel proud of him! I know him well! He must have found a girl to go around with! - That must be his work! - Why do you scare me?",
+      "target_person": "first speaker",
+      "target_gender": "male",
+      "cause_raw": "son's hard work",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p924_bolly",
+      "emotion": "pride",
+      "dialogue": "Pooja loves Sagar and Aman is Sagar. And I am just...You...proved to be very courageous! I am proud of you son! How did you come here? I've brought Pooja.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "courage",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "31945",
+    "title": "The Sicilian",
+    "year": "1987",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/3zjrYyAtTs0uxX1a4hhDR3Ir5Rz.jpg",
+    "overview": "Egocentric bandit Salvatore Giuliano fights the Church, the Mafia, and the landed gentry while leading a populist movement for Sicilian independence."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1924_holly",
+      "emotion": "pride",
+      "dialogue": "- Adonis says you must go up. - Join the angels.  - Yes, Passatempo and Terranova. - Don't worry.  - I will visityou down here. - I am very proud of you.  Because I said no to Don Masino? Maybe one day I'll say yes.  - To your brother. - Over my dead body.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1925_holly",
+      "emotion": "pride",
+      "dialogue": "We'll know soon enough ... won't we?  I am here in Rome as a Sicilian, -  - proudly following the career of your young friend. He has style.  But as minister I am humiliated when he ridicules my police.  As a conservative I'm terrified when he buys land for the peasants.",
+      "target_person": "Sicilian",
+      "target_gender": "male",
+      "cause_raw": "following the career of his young friend",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1926_holly",
+      "emotion": "pride",
+      "dialogue": "l hope so, father, for I have sinned.  I have killed a man.  Worse. He suffers from pride.  - A priest must defend himself too. - I want to confess in the mountains.  - There we will all be ... - Closer to God.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

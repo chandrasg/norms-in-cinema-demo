@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "60387",
+    "title": "Operation Mad Ball",
+    "year": "1957",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/dZKL7oB3NVY94YWN9F3gk55VIH7.jpg",
+    "overview": "In this wacky military spoof, Lemmon plays a terminally bored Army private waging a war of wits as he tries to throw a party under the nose of his obnoxious commanding officer."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS961_holly",
+      "emotion": "shame",
+      "dialogue": "I heard he's being nominated or something.  Well, it's a funny world, Widow. Anything can happen. Poor Berryman.  Yes, it's a rotten shame, ain't it? If a guy and a dame are in love,  what difference does it make if she's an officer? The war's over, ain't it?  What I don't understand is, how a guy falls for a nurse in the first place.",
+      "target_person": "Berryman",
+      "target_gender": "male",
+      "cause_raw": "falling in love with a nurse who is an officer",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WP1789_holly",
+      "emotion": "pride",
+      "dialogue": "I can remember the day we hit the beach. What a day that was.  I was the first one out of the LST. Brought in all my men without a casualty.  You ought to be very proud, Captain.  You rumba, Lieutenant?  Well, if you don't mind, it's so stuffy in there.",
+      "target_person": "Captain",
+      "target_gender": "male",
+      "cause_raw": "bringing in all his men without a casualty",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1790_holly",
+      "emotion": "pride",
+      "dialogue": "- Good evening. - Good evening, Captain.  - Paul, remember? - Yes. Paul.  Well, Wisconsin would be proud of you, Lieutenant.  - You certainly like your cow juice. - Yes.  You can't get anywhere in politics in Wisconsin unless you like your milk.",
+      "target_person": "Captain",
+      "target_gender": "male",
+      "cause_raw": "liking milk",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1791_holly",
+      "emotion": "pride",
+      "dialogue": "The General's a very big man.  Yes, sir. The Colonel's right here.  - I'm proud of you, men. - For you, sir.  I'm right there, sir.  Thank you, soldier. Colonel Rousch speaking.",
+      "target_person": "Colonel Rousch",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

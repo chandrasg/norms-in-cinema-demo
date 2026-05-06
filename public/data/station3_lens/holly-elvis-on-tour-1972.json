@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "42482",
+    "title": "Elvis on Tour",
+    "year": "1972",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/hXxKJuQnkwFtWvOX161ppbaiaC2.jpg",
+    "overview": "This documentary captures Elvis Presley on his 1972 American tour and includes rehearsals, interviews, archival television appearances and backstage moments. With Elvis at his most flamboyant, the film features well-known hits and cover songs showcasing his country, gospel and rhythm-and-blues influences."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1655_holly",
+      "emotion": "pride",
+      "dialogue": "Worried about the way things might have been  A big wheel keeps on turnin'  Proud Mary keeps on burnin', Rollin' on a river  Rollin' on a river  I cleaned a lot of plates in Memphis",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1656_holly",
+      "emotion": "pride",
+      "dialogue": "Till I hitched a ride on this river boat queen  Big wheels keep on turnin'  Proud Mary keeps on burnin', Rollin' rollin', rollin' on a river  ELVIS: Bring it, baby.  If you come down to the river",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1657_holly",
+      "emotion": "pride",
+      "dialogue": "People along the river are happy to give  I said a big wheel keeps on turnin'  Proud Mary keeps on burnin', rollin', rollin'  Rollin' on a river  Sing it.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1658_holly",
+      "emotion": "pride",
+      "dialogue": "Just tired of being my wife  She took my one ray of sunshine  She took my pride and my joy  She took my reason for living  She took my small baby boy",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

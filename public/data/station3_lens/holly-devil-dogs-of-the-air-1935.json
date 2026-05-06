@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "94811",
+    "title": "Devil Dogs of the Air",
+    "year": "1935",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/2GUBiYl8ZQjzEr5PUkQSz9bgeJ9.jpg",
+    "overview": "Two Marine pilots vie for romance and glory."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Patriotism",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS852_holly",
+      "emotion": "shame",
+      "dialogue": "Got word from your son, Charlie.  He says he can't write for quite a while.  But he knows that his ma and pa will know that... ...he will act so that they can know there will be no shame brought on his lodge... ...and to tell his sisters to take good care of his horses... ...and to keep on with their schoolwork.  ...and to keep on with their schoolwork.  At this rate, I'll be here all night.",
+      "target_person": "Charlie",
+      "target_gender": "male",
+      "cause_raw": "not fulfilling familial responsibilities",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP1562_holly",
+      "emotion": "pride",
+      "dialogue": "My brother's name was Joe. He served with you at Midway.  Oh, Big Joe Malotke. Good guy.  Sorry. If you're half as good a man as your brother... ...I'll be proud to have you in my command, lieutenant.  ...I'll be proud to have you in my command, lieutenant.  Thank you, sir.",
+      "target_person": "commander",
+      "target_gender": "male",
+      "cause_raw": "having lieutenant in his command",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1563_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, Big Joe Malotke. Good guy.  Sorry. If you're half as good a man as your brother... ...I'll be proud to have you in my command, lieutenant.  ...I'll be proud to have you in my command, lieutenant.  Thank you, sir.  Give me a rundown on each man, job by job.",
+      "target_person": "Big Joe Malotke",
+      "target_gender": "male",
+      "cause_raw": "being as good as his brother",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP1564_holly",
+      "emotion": "pride",
+      "dialogue": "They realize some of us will have to fight... ...for the rest of us from here on in.  ...for the rest of us from here on in.  I'm a professional soldier... ...and I don't mind saying that I'm kind of proud of it.  ...and I don't mind saying that I'm kind of proud of it.  Well, I hope Griff didn't think I was including him in that remark.",
+      "target_person": "professional soldier",
+      "target_gender": "male",
+      "cause_raw": "being a professional soldier",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "WP1565_holly",
+      "emotion": "pride",
+      "dialogue": "...for the rest of us from here on in.  I'm a professional soldier... ...and I don't mind saying that I'm kind of proud of it.  ...and I don't mind saying that I'm kind of proud of it.  Well, I hope Griff didn't think I was including him in that remark.  I know you weren't, because if I thought you were... ...I'd knock you for a series of slow rolls.",
+      "target_person": "professional soldier",
+      "target_gender": "male",
+      "cause_raw": "being a professional soldier",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

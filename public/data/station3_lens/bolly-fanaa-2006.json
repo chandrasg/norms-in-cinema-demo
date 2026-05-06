@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "8453",
+    "title": "Fanaa",
+    "year": "2006",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/4A17fF6K6WAvv4Ces0CgpMZRee4.jpg",
+    "overview": "Zooni Ali Beg is a blind Kashmiri girl who travels without her parents for the first time with a dance troupe to Delhi to perform in a ceremony for independence day. On her journey, she meets Rehan Khan, a casanova and tour guide who flirts with her. Although her friends warn Zooni about him, she cannot resist falling in love with him and he takes her on a private tour of New Delhi. But there is more to Rehan than meets the eye and Zooni will have to make a heartbreaking decision."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5272_bolly",
+      "emotion": "shame",
+      "dialogue": "Killer, girl, a real killer. He's simply obnoxious! He looks ok, so I thought he must be a nice guy....but he called me a stupid girl.. so..And forget all his sweet talk.... the way he looks at women,its shameful! And he told me he doesn't believe in God, can you imagine that? Look even the crows are cawing. it's a sign.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespectful behavior towards women and atheism",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s5273_bolly",
+      "emotion": "shame",
+      "dialogue": "Look, just see. Look, just see. Never again will the winds be this shameless. Never again will our steps falter so blameless. Never again will the winds be this shameless.",
+      "target_person": "winds",
+      "target_gender": "unclear",
+      "cause_raw": "being unpredictable and causing chaos",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5274_bolly",
+      "emotion": "shame",
+      "dialogue": "Never again will the winds be this shameless. Never again will our steps falter so blameless. Never again will the winds be this shameless. Never again will our steps falter so blameless. This rain is not so straight, it has a twist.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s5275_bolly",
+      "emotion": "shame",
+      "dialogue": "Promised her marriage? Was that all a part of your mission? That was my weakness. I was not free to love. I am deeply sorry and ashamed about my selfish love. And you've come back to repeat that mistake? My mission is not complete yet. After this storm, it will be.",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "breaking a promise of marriage",
+      "theme_label": "Negligence"
+    }
+  ]
+}

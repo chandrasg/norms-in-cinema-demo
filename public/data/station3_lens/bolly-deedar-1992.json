@@ -1,0 +1,93 @@
+{
+  "film": {
+    "id": "161437",
+    "title": "Deedar",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/AqoebimNASvlpwqzAzc3KB7kx8G.jpg",
+    "overview": "Anand Malhotra, the only son of a very wealthy industrialist, Kailanshnath Malhotra is in love with the only daughter of a widowed schoolteacher, Gayetri Saxena, whose name is Sapna Saxena. His mom and dad find out about his romance, and decide to get him married to her. On the day of the engagement, Gayetri and Sapna lock their door and spend the week elsewhere. Kailashnath and his wife are outraged by this humiliation and swear never to marry their son to Sapna. Anand is perplexed at this, and attempts to find from Gayetri, as to her refusal, but Gayetri refuses to tell him anything. Anand knows that Sapna loves him, and is determined to find out why their marriage is not possible. Little does he know that by doing so, he could be challenging Gayetri's widowhood, as well as putting his dad and his business in jeopardy."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s956_bolly",
+      "emotion": "shame",
+      "dialogue": "But you.. - Uncle, isn't it possible that they too have gone to make some arrangements. I'll go to the market..Because of you I had to face this disgrace today. For the first time in life....my head hung in shame in front of so many people. Only because of you. I had forgotten that relations should always be done between equals.",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "Disgrace due to relative's actions",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s957_bolly",
+      "emotion": "shame",
+      "dialogue": "Saxena is not for sale like your conscience. You're such a sordid person that if you smell profit....not only the mother earth....you will sell your own mother even. Shame on you! Mr. Sabarwal, this is Arjun Saxena speaking. I've collected all those evidences from which you will know....that Malhotra is the real culprit responsible for that plane crash.",
+      "target_person": "Mr. Sabarwal",
+      "target_gender": "male",
+      "cause_raw": "Greed and lack of integrity",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s958_bolly",
+      "emotion": "shame",
+      "dialogue": "I know why these questions are being asked to me. Who has poisoned you mind....who has instigated you.. I understand it very well. Mr. Malhotra.. you..Don't you feel ashamed of accusing your father in a packed court? That too for this two penny worth of girl who is playing a drama of love with you! Kailashnath, mind you, if you even speak a single word against my daughter.",
+      "target_person": "Mr. Malhotra",
+      "target_gender": "male",
+      "cause_raw": "accusing his father",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p490_bolly",
+      "emotion": "pride",
+      "dialogue": "Gayatri, ask him to go away from here. His sweat stinks of Kailashnath's filthy blood. Mr. Saxena, I'm proud of my parents....and the blood which is flowing in my veins, ....of the education that they have given me. Who are you to accuse my daddy of such a filthy and odious accusation? Who am I? Don't ask me....but go and ask your father who Arjun Saxena is.",
+      "target_person": "Arjun Saxena",
+      "target_gender": "male",
+      "cause_raw": "parents' upbringing and education",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p491_bolly",
+      "emotion": "pride",
+      "dialogue": "Mom, please forgive me. I spoke all nonsense in anger. No daughter, I'm proud of you. I closed the doors on Anand's parents....stopped you from meeting him....but you didn't complain even. It's our fate against which we've complaints.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "enduring hardships without complaint",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

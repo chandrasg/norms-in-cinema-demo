@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "794417",
+    "title": "Khiladi",
+    "year": "2022",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/b278wiv7XDKbi8yjrHVYfd0542S.jpg",
+    "overview": "Mohan Gandhi is a wanted criminal who’s serving time for a crime he might or might not have committed. With large sums of money, lies and deceit involved, who is he really?"
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3047_bolly",
+      "emotion": "shame",
+      "dialogue": "But they don't listen to me. Now they should be punished for their deeds. Raj, aren't you ashamed? Elder brother is a police officer. And the younger brother is behind bars. You don't care for your brother's respect at all!",
+      "target_person": "Raj",
+      "target_gender": "male",
+      "cause_raw": "Disrespecting his elder brother's position and reputation",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3048_bolly",
+      "emotion": "shame",
+      "dialogue": "When did I say that you are to blame. Actually, I am the one who should be blamed......because I have given you so much liberty Aren't you ashamed calling yourself innocent? I say why did you need to support......these two rogues, scoundrel We didn't know when these two came there pretending to be girls.",
+      "target_person": "character being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "supporting wrong people",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3049_bolly",
+      "emotion": "shame",
+      "dialogue": "And you two, You rascal, what were you saying? What will you gain by passing with a first class! You should be ashamed. Use the scholarship money by studying well and make your life. Yes.",
+      "target_person": "two individuals",
+      "target_gender": "male",
+      "cause_raw": "not utilizing scholarship money properly",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3050_bolly",
+      "emotion": "shame",
+      "dialogue": "Are you injured seriously? Uncle. We are ashamed of for what we have done. Dear, I won't get my daughter back......but never play this kind of jokes with anyone......with which one's life will be destroyed or loss the life. Sir, I have come here to say that......these were the three guys who came with the victim.",
+      "target_person": "three guys",
+      "target_gender": "male",
+      "cause_raw": "playing a harmful joke",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1593_bolly",
+      "emotion": "pride",
+      "dialogue": "Sit down. Sit down. Wowl You've spread flowers on my path! I'm proud of all of you Well done. So this is the first day of college. Along with the old students, I can see some new faces too.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "students' welcoming gesture",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

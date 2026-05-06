@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "304913",
+    "title": "Amanush",
+    "year": "1975",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gzqoKb5sHJQqRl8dlyLxviqnAXi.jpg",
+    "overview": "Madhusudan Chaudhary lives in a small fishing village in West Bengal, India, along with his wealthy but aging paternal uncle, who trusts him and lets him handle their estate and business. Madhusudan is in love with Dr. Anand's sister, Rekha, and everyone expects them to get married soon. Madhusudan's vices are drinking and having a good time, and this is what is held against him when a woman named Champa confides in Rekha that he had been intimate with her and as a result got her pregnant. Rekha confronts Madhusudan, but he denies everything, however, Rekha disbelieves him. Angry, he goes in search of Champa, only to find out that she is not to be found anywhere in the village."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s37_bolly",
+      "emotion": "shame",
+      "dialogue": "Come on... make him drink it. He wanted money! What a shame! We lost such a big contract. You are such a worthless fellow. But what can I do, Sir?",
+      "target_person": "employee",
+      "target_gender": "male",
+      "cause_raw": "incompetence in securing a business contract",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s38_bolly",
+      "emotion": "shame",
+      "dialogue": "But believe me, I couldn't wink an eye last night. But why have you come to me? I'm really ashamed, Mr. Bhuvan. Since I bagged the contract......my friends wanted to celebrate the occasion. And I couldn't resist.",
+      "target_person": "Mr. Bhuvan",
+      "target_gender": "male",
+      "cause_raw": "succumbing to peer pressure",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s39_bolly",
+      "emotion": "shame",
+      "dialogue": "And I couldn't resist. So I indulged in drinks. You did that and because of you......I was put to shame before Mr. Maheem. Please forgive me. But I promise that henceforth......this won't happen. You'll drink again and forget everything again.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "drinking habit",
+      "theme_label": "Alcoholism"
+    }
+  ]
+}

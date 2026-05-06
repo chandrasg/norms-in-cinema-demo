@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "15031",
+    "title": "The Breaks",
+    "year": "1999",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/teNV6wHnhFQApC7F2HjixWfdffx.jpg",
+    "overview": "Derrick, a racially-confused Irishman raised in the hood by a black family is having the worst day ever. Determined to prove to his fed-up mother and would-be girlfriend that he's not a screw-up, he sets out to do one thing right (get some milk) and even that proves to be a challenge! Hilarious encounters with racist red-neck cops, local gangsters and 'flamboyant' pawn shop owners ensue, and along the way Derek shows that he can actually do things for others and maybe even get his own life together."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS778_holly",
+      "emotion": "shame",
+      "dialogue": "Holy s**t, dude.  Well, I must say, I'm very disappointed in you boys, m'kay?  You should be ashamed of yourselves.  And I've already called in your mothers... - You called my mom? - That's right.  - You called my mom? - That's right.",
+      "target_person": "Boys",
+      "target_gender": "male",
+      "cause_raw": "disappointing behavior",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS779_holly",
+      "emotion": "shame",
+      "dialogue": "With all their hockey hullabaloo  And that b***h Anne Murray, too  Blame Canada! Shame on Canada!  For  The smut we must stop The trash we must bash",
+      "target_person": "Canada",
+      "target_gender": "unclear",
+      "cause_raw": "being blamed for societal problems",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP1469_holly",
+      "emotion": "pride",
+      "dialogue": "- Stick 'em up! - Big Gay Al says  - \"Do ask, do tell\" - Skittles  Yes, he's super and he's proud to be gay  Okay?  Everything is super when you're gay",
+      "target_person": "Big Gay Al",
+      "target_gender": "male",
+      "cause_raw": "being gay",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1470_holly",
+      "emotion": "pride",
+      "dialogue": "But I will find strength  No, Mole. Hang on.  I will find pride within  We'll get you home.  Because although I die",
+      "target_person": "Mole",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

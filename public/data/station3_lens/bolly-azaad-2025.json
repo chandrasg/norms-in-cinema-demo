@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "1379877",
+    "title": "Azaad",
+    "year": "2025",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/yWFpiJcUJfXRbm3om48kNJ0MU7A.jpg",
+    "overview": "In 1920s India, a young stable boy bonds with a spirited horse. Amid rebellion and tyranny, his quest to ride the majestic animal becomes a journey of courage, awakening him to the country's fight for freedom."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s279_bolly",
+      "emotion": "shame",
+      "dialogue": "This wait is too much! - He must be busy at work In the meantime, please have dinner. - Dinner? The host is still not here, and you will have us eat unashamedly? Put that back. Aren't you ashamed? You call us home and you insult us? Had we known, we'd never enter a house where we aren't entertained by the host",
+      "target_person": "guests",
+      "target_gender": "unclear",
+      "cause_raw": "not being entertained by the host",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s280_bolly",
+      "emotion": "shame",
+      "dialogue": "In the meantime, please have dinner. - Dinner? The host is still not here, and you will have us eat unashamedly? Put that back. Aren't you ashamed? You call us home and you insult us? Had we known, we'd never enter a house where we aren't entertained by the host How can you say that? If not Ramesh, I'm here for you",
+      "target_person": "guests",
+      "target_gender": "unclear",
+      "cause_raw": "not being properly hosted",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s281_bolly",
+      "emotion": "shame",
+      "dialogue": "What insolence is this? Talk like a gentleman I'm here to teach you gentlemanliness, you cur Aren't you ashamed to bring a poor girl to disgrace? Rekha, here's your culprit. Punish him at will, kill him Blind him, that he may never look upon another girl",
+      "target_person": "culprit",
+      "target_gender": "male",
+      "cause_raw": "disrespecting a woman",
+      "theme_label": "Disrespect"
+    }
+  ]
+}

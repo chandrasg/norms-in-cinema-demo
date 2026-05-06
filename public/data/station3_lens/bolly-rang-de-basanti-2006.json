@@ -1,0 +1,142 @@
+{
+  "film": {
+    "id": "7913",
+    "title": "Rang De Basanti",
+    "year": "2006",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/f1bF8CHzEu621bPSIg6XiUNAabh.jpg",
+    "overview": "After a group of friends graduate from Delhi University, they listlessly haunt their old campus, until a British filmmaker casts them in a film she's making about freedom fighters under British rule. Although the group is largely apolitical, the tragic death of a friend owing to local government corruption awakens their patriotism. Inspired by the freedom fighters they represent in the film, the friends collectively decide to avenge the killing."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 9
+  },
+  "themes": [
+    {
+      "label": "Patriotism",
+      "count": 7
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 7
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1660_bolly",
+      "emotion": "shame",
+      "dialogue": "Dad, you know I don't drink. Good-for-nothings.. WhaTever, They're my friends. Friends! They feel  no shame standing in front of....yourfather with alcohol   on their breath. Why can't you get friends in your own community? Why do you make friends with people  who corrupt you, disgrace your religion ..This has nothing to do with religion , Father.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "associating with friends from different communities and perceived bad habits",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1661_bolly",
+      "emotion": "shame",
+      "dialogue": "Dad, you know I don't drink. <i>Good-for-nothings... Whatever, they're my friends.</i> Friends! They feel no shame standing in front of......yourfather with alcohol on their breath. Why can't you get friends in your own community? Why do you make friends with people who corrupt you, disgrace your religion...This has nothing to do with religion, Father.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "associating with friends from different communities and perceived bad habits",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p866_bolly",
+      "emotion": "pride",
+      "dialogue": "Raise your hand and say VANDE MATRAM! VANDE MaTram! Speak  loudly, VANDE MATRAM! Vande MATRAM.  Loudly and  proudly, VANDE MATRAM! Vande MATRAM VANDE MATRAM! Vande MaTram..I have dedicated my life to the freedom of this nation. I have dedicated my life to the freedom of this nation.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "dedication to the nation's freedom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p867_bolly",
+      "emotion": "pride",
+      "dialogue": "You get to wear sexy jackets..And the women.. women love men in uniforms. Sure I love being a  pilot. Sure it's cool. But I  also feel proud of my country, and I can give my life for it. Proud of what?..this country's  exploding  population?..or  unemployment.. or corruption? Which of these are you   really proud of?",
+      "target_person": "pilot",
+      "target_gender": "male",
+      "cause_raw": "serving the country",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p868_bolly",
+      "emotion": "pride",
+      "dialogue": "Sure I love being a  pilot. Sure it's cool. But I  also feel proud of my country, and I can give my life for it. Proud of what?..this country's  exploding  population?..or  unemployment.. or corruption? Which of these are you   really proud of? No country's perfect Karan. We've got to make it better.",
+      "target_person": "pilot",
+      "target_gender": "male",
+      "cause_raw": "love for country",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p869_bolly",
+      "emotion": "pride",
+      "dialogue": "But I  also feel proud of my country, and I can give my life for it. Proud of what?..this country's  exploding  population?..or  unemployment.. or corruption? Which of these are you   really proud of? No country's perfect Karan. We've got to make it better. Right.",
+      "target_person": "I",
+      "target_gender": "male",
+      "cause_raw": "patriotism",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p870_bolly",
+      "emotion": "pride",
+      "dialogue": "Raise your hand and say VANDE MATRAM! VANDE Matram! Speak loudly, VANDE MATRAM! Vande MATRAM. Loudly and proudly, VANDE MATRAM! Vande MATRAM VANDE MATRAM! Vande Matram... I have dedicated my life to the freedom of this nation.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "dedication to the nation's freedom",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p871_bolly",
+      "emotion": "pride",
+      "dialogue": "You get to wear sexy jackets...And the women... women love men in uniforms. Sure I love being a pilot. Sure it's cool. But I also feel proud of my country, and I can give my life for it. Proud of what?...this country's exploding population?...or unemployment... or corruption? Which of these are you really proud of?",
+      "target_person": "pilot",
+      "target_gender": "male",
+      "cause_raw": "serving the country",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p872_bolly",
+      "emotion": "pride",
+      "dialogue": "Sure I love being a pilot. Sure it's cool. But I also feel proud of my country, and I can give my life for it. Proud of what?...this country's exploding population?...or unemployment... or corruption? Which of these are you really proud of? No country's perfect Karan. We've got to make it better.",
+      "target_person": "pilot",
+      "target_gender": "male",
+      "cause_raw": "love for country",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p873_bolly",
+      "emotion": "pride",
+      "dialogue": "But I also feel proud of my country, and I can give my life for it. Proud of what?...this country's exploding population?...or unemployment... or corruption? Which of these are you really proud of? No country's perfect Karan. We've got to make it better. Right.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "country",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p874_bolly",
+      "emotion": "pride",
+      "dialogue": "UTv The bugle sounds, the enemy wakes. The battle is upon us. And in our hearts, we feel the swell, of pride and steel and valour. For we will play the game of blood, if dark clouds shroud our land. Because this day, we walk with death, and laugh at its pale spectre.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "bravery and valor",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

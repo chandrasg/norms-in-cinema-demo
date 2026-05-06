@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "457714",
+    "title": "Dillagi",
+    "year": "1999",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/A9uVeT4605jLKHDUL4Z3kE79Can.jpg",
+    "overview": "Two brothers -- Ranvir and Rajvir along with their parents move to Mumbai. They endure numerous hardships, but their will to survive prevails and they succeed. Soon, their parents pass away, leaving young Rajvir in the care of Ranvir. Now wealthy beyond any means, Ranvir runs the business and Rajvir lives recklessly. When Rajvir falls in love, Ranvir arranges his marriage, but to his dismay finds out that he has arranged his brother to marry the girl he loves."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1199_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey, who are you?! Where are you off to?!... Wait! What are you doing there?! Get in!... Come on! Shameless! Where did you go?! Answer! I went for a dance. - How do we know that?!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "going out without informing",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1200_bolly",
+      "emotion": "shame",
+      "dialogue": "What do I explain? What's left to explain? We used to be so proud of you. You have shamed us. We were so happy. We had come to ask you about your marriage.",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "Disappointing family",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p627_bolly",
+      "emotion": "pride",
+      "dialogue": "Father, please explain to mother. What do I explain? What's left to explain? We used to be so proud of you. You have shamed us. We were so happy.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

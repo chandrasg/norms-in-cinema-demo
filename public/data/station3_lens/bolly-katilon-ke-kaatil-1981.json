@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "303424",
+    "title": "Katilon Ke Kaatil",
+    "year": "1981",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/cbdEgwDNnXcPCzvDmozbmuAp0eE.jpg",
+    "overview": "A weather widow spends her life searching for her two missing sons to bestoy her fortune on.  When she finally finds two young men, are they who they seem?"
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1558_bolly",
+      "emotion": "pride",
+      "dialogue": "Michael, Black Cobra here. Black Cora, I have the chariot and i'm coming to you, yes, ok. Wonderful, Michael. i'm proud of you. i'm proud. Michael, what happened? Oh my God! No! - Doctor sir.",
+      "target_person": "Black Cobra",
+      "target_gender": "male",
+      "cause_raw": "Michael's accomplishment",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1559_bolly",
+      "emotion": "pride",
+      "dialogue": "There's no place for weak ways over here. These are the ways of a lover. it'll tear your heart. it'll bring the face of a proud person on its feet. Tell him that that might be someone else. Then what are you?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1560_bolly",
+      "emotion": "pride",
+      "dialogue": "She is sitting with the lamps of life in the wind. The lamps of life. Then too, why are men so proud about their power? Then too, why are men so proud about their power? its women, who have defeated death.",
+      "target_person": "men",
+      "target_gender": "male",
+      "cause_raw": "power",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1561_bolly",
+      "emotion": "pride",
+      "dialogue": "The lamps of life. Then too, why are men so proud about their power? Then too, why are men so proud about their power? its women, who have defeated death. its women. its women.",
+      "target_person": "men",
+      "target_gender": "male",
+      "cause_raw": "power",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1562_bolly",
+      "emotion": "pride",
+      "dialogue": "That is what we got today, yakbayak, suddenly. Yakbayak, yakbayak, suddenly we meet someone. I was very proud of my young heart till yesterday. Till yesterday this love was a secret for my heart. What did I get by loosing my heart in this love?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1563_bolly",
+      "emotion": "pride",
+      "dialogue": "Michawl, Michawl, are you all right? I am all right, I am all right. I am proud of you my boys. You have broken Black Cobras right hand. Now the path is clear. Come this side. Come on.",
+      "target_person": "Michawl",
+      "target_gender": "male",
+      "cause_raw": "defeating enemies",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "39348",
+    "title": "Sacco and Vanzetti",
+    "year": "2006",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/pVabCuut678cpgLbsutj9qmVVwg.jpg",
+    "overview": "SACCO AND VANZETTI is an 80-minute-long documentary that tells the story of Nicola Sacco and Bartolomeo Vanzetti, two Italian immigrant anarchists who were accused of a murder in 1920, and executed in Boston in 1927 after a notoriously prejudiced trial. It is the first major documentary film about this landmark story."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS254_holly",
+      "emotion": "shame",
+      "dialogue": "- I do not see well at that distance. - How far would you say it is?  - Objection! - I'd say it's less than 15 meters!  Do you want us to believe... Young lady, tell us the truth... there's no shame in using eyeglasses.  there's no shame in using eyeglasses.  It's true that when I'm at work... I use eyeglasses all the time.",
+      "target_person": "Young lady",
+      "target_gender": "female",
+      "cause_raw": "not admitting to using eyeglasses",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS255_holly",
+      "emotion": "shame",
+      "dialogue": "- Objection! - I'd say it's less than 15 meters!  Do you want us to believe... Young lady, tell us the truth... there's no shame in using eyeglasses.  there's no shame in using eyeglasses.  It's true that when I'm at work... I use eyeglasses all the time.  I use eyeglasses all the time.",
+      "target_person": "Young lady",
+      "target_gender": "female",
+      "cause_raw": "not admitting to using eyeglasses",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS256_holly",
+      "emotion": "shame",
+      "dialogue": "Dante... Come here. Come to your father.  Come here. Come to your father.  What's wrong? Are you ashamed of me?  Are you ashamed of your father?  Because they say that I'm a thief and a killer?",
+      "target_person": "Dante",
+      "target_gender": "male",
+      "cause_raw": "ashamed of father's criminal activities",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS257_holly",
+      "emotion": "shame",
+      "dialogue": "Come here. Come to your father.  What's wrong? Are you ashamed of me?  Are you ashamed of your father?  Because they say that I'm a thief and a killer?  Get out of here. Go now! Now!",
+      "target_person": "Child",
+      "target_gender": "male",
+      "cause_raw": "having a criminal parent",
+      "theme_label": "Criminal Activity"
+    }
+  ]
+}

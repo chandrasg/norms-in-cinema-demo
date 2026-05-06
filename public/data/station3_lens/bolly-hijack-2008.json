@@ -1,0 +1,117 @@
+{
+  "film": {
+    "id": "26229",
+    "title": "Hijack",
+    "year": "2008",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/st3qds7lR8E7I97zAFsMqzMbJya.jpg",
+    "overview": "Hijack is an action thriller. The film revolves around Vikram Madan (Shiney Ahuja) who is a ground maintenance officer at the Chandigarh airport. His social life is limited to one friend, Rajeev, who is the Security Chief of the same airport. As luck would have it, the flight in which Vikram’s daughter was traveling to Amritsar from Delhi, is hijacked."
+  },
+  "totals": {
+    "shame": 9,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 5
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 9
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2415_bolly",
+      "emotion": "shame",
+      "dialogue": "This is about bringing our people back home.  Alive.  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!",
+      "target_person": "Home Minister",
+      "target_gender": "male",
+      "cause_raw": "Inability to bring people back home",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2416_bolly",
+      "emotion": "shame",
+      "dialogue": "Alive.  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!",
+      "target_person": "Home Minister",
+      "target_gender": "male",
+      "cause_raw": "poor performance or decision making",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2417_bolly",
+      "emotion": "shame",
+      "dialogue": "Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!",
+      "target_person": "Home Minister",
+      "target_gender": "male",
+      "cause_raw": "Poor performance or decisions",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2418_bolly",
+      "emotion": "shame",
+      "dialogue": "Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!",
+      "target_person": "Home Minister",
+      "target_gender": "male",
+      "cause_raw": "Poor performance or decisions",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2419_bolly",
+      "emotion": "shame",
+      "dialogue": "Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!",
+      "target_person": "Home Minister",
+      "target_gender": "male",
+      "cause_raw": "Incompetence or corruption",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2420_bolly",
+      "emotion": "shame",
+      "dialogue": "Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!",
+      "target_person": "Home Minister",
+      "target_gender": "male",
+      "cause_raw": "poor governance",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2421_bolly",
+      "emotion": "shame",
+      "dialogue": "Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!",
+      "target_person": "Home Minister",
+      "target_gender": "male",
+      "cause_raw": "Incompetence or corruption",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2422_bolly",
+      "emotion": "shame",
+      "dialogue": "Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - And you can see that the public is getting.. ..out of hand. What the public wants to know is that, is one.. ..terrorist more important than 192 passengers?",
+      "target_person": "Home Minister",
+      "target_gender": "male",
+      "cause_raw": "Inability to handle a crisis situation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2423_bolly",
+      "emotion": "shame",
+      "dialogue": "Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - Shame! Shame!  Home Minister! - And you can see that the public is getting.. ..out of hand. What the public wants to know is that, is one.. ..terrorist more important than 192 passengers?  The life of these passengers are.. It will be sensible if we agree to their terms.. ..by looking at the situation.",
+      "target_person": "Home Minister",
+      "target_gender": "male",
+      "cause_raw": "inability to handle a crisis situation",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}

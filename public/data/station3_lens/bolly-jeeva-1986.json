@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "473052",
+    "title": "Jeeva",
+    "year": "1986",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cY1v5AVKlF0s11KxBSERENiK6DW.jpg",
+    "overview": "The plot revolves around Jeevan Thakur's fight against the local cunning money lender Lala & his ally Inspector Dushant Singh with revenge for killing his parents."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2722_bolly",
+      "emotion": "shame",
+      "dialogue": "This boy is flirting with me. You scoundrel, you dare flirt with the girl! Aren't you ashamed of flirting with the girl? You scoundrel, don't you have any shame? Are you drunk early in the morning?",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "flirting",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2723_bolly",
+      "emotion": "shame",
+      "dialogue": "You scoundrel, you dare flirt with the girl! Aren't you ashamed of flirting with the girl? You scoundrel, don't you have any shame? Are you drunk early in the morning? Aren't you ashamed?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "flirting inappropriately",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2724_bolly",
+      "emotion": "shame",
+      "dialogue": "You scoundrel, don't you have any shame? Are you drunk early in the morning? Aren't you ashamed? Beat him! Beat him! Beat him! Beat him up!",
+      "target_person": "unidentified man",
+      "target_gender": "male",
+      "cause_raw": "drinking alcohol early in the morning",
+      "theme_label": "Alcoholism"
+    }
+  ]
+}

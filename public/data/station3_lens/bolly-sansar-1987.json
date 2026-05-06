@@ -1,0 +1,105 @@
+{
+  "film": {
+    "id": "258697",
+    "title": "Sansar",
+    "year": "1987",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/o5OFJIUy7TatVr5LnFRCsGNgol3.jpg",
+    "overview": "Uma, the eldest daughter-in-law, strives hard to bring her estranged family together and keep her home intact."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4715_bolly",
+      "emotion": "shame",
+      "dialogue": "Peter Fernandes. - What? There's nothing to be shocked about. When shamelessness crosses its limit, this is what happens. Rajni, the boy is Christian. No he's an indian.",
+      "target_person": "Peter Fernandes",
+      "target_gender": "male",
+      "cause_raw": "Inter-religious relationship",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s4716_bolly",
+      "emotion": "shame",
+      "dialogue": "You didn't let your father eat the food. You will neither let us live happily nor let us die properly. You have become shameless by the daily taunts. But why are you spoiling our dignity in the colony. Useless. Why were you born?",
+      "target_person": "child",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting parents",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4717_bolly",
+      "emotion": "shame",
+      "dialogue": "The women of this house have full freedom! And look at you! You doubted our daughter for such a small thing! Shame on you! Shame on you! Gangu-bai! - You keep quiet! This is the man who doubted you!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "doubting his daughter",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p2656_bolly",
+      "emotion": "pride",
+      "dialogue": "That's why I told the office people to retire me. But you lost your 5 years of service. When I lost the pride which I saved for 53 years. When I lost the son whom I nurtured for 33 years. Then it doesn't matter if you lose a job of 5 years.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "loss of pride and son",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2657_bolly",
+      "emotion": "pride",
+      "dialogue": "And for that you went to that house to be insulted. My respect would be on you and Rajni living together. I will be happy, and also proud. These are your divorce papers, Sign on them. What are you saying, father?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "children's marital reconciliation",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2658_bolly",
+      "emotion": "pride",
+      "dialogue": "Here is the legal proof! Please, keep this with yourself. My dear relative, I am really proud of myself. That what I had said that day on your doorstep. I have done it.",
+      "target_person": "relative",
+      "target_gender": "unclear",
+      "cause_raw": "personal achievement",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

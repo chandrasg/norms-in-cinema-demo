@@ -1,0 +1,81 @@
+{
+  "film": {
+    "id": "273111",
+    "title": "Alam Ara",
+    "year": "1931",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vSKx8fldyR3wftbqzRqSN9qQ1Ev.jpg",
+    "overview": "A period fantasy that told of the ageing king of Kamarpur, and his two rival queens, Navbahar and Dilbahar, and their rivalry when a fakir predicts that Navbahar will bear the king's heir. Dilbahar unsuccessfully tries to seduce the army chief Adil (Vithal) and vengefully destroys his family, leaving his daughter Alam Ara (Zubeida) to be raised by nomads. Eventually, Alam Ara's nomad friends invade the palace, expose Dilbahar's schemes, release Adil from the dungeon and she marries the prince of the realm."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4_bolly",
+      "emotion": "shame",
+      "dialogue": "Your Majesty, if a girl child would have been a curse....why would have God blessed His messengers with daughters? You know how much the Prophet loved his daughter. And..l don't care Qazi Sahab (Holy Man). The royal palace won't be stained. I cannot bow down in shame. I shall have her killed....if she delivers a girl child yet again. By any means, save me and my innocent child. Do not lose hope Your Highness. God will surely protect you.",
+      "target_person": "queen",
+      "target_gender": "female",
+      "cause_raw": "giving birth to a girl child",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s5_bolly",
+      "emotion": "shame",
+      "dialogue": "Say it. Say it Prince. Say it son. What's the shame in studies? Say it. Bismillah..Your Majesty, Prince is too young now. He will surely understand slowly with time.",
+      "target_person": "Prince",
+      "target_gender": "male",
+      "cause_raw": "Poor academic performance",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p3_bolly",
+      "emotion": "pride",
+      "dialogue": "These are your days to love Whatever happens, you be hale and hearty. You are the beauty's pride. You are a beautiful gesture. You are the secret of love.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p4_bolly",
+      "emotion": "pride",
+      "dialogue": "Voice of my heart. Secret of love. A beautiful gesture. Beauty's pride. You are the beauty's pride. You are a beautiful gesture. Love you with all my heart",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p5_bolly",
+      "emotion": "pride",
+      "dialogue": "Secret of love. A beautiful gesture. Beauty's pride. You are the beauty's pride. You are a beautiful gesture. Love you with all my heart Love you with all my soul.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

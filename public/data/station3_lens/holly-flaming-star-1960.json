@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "18639",
+    "title": "Flaming Star",
+    "year": "1960",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/5OoB7NErxql4RfEimGIcSHCE3Ve.jpg",
+    "overview": "Sam Burton's second wife is a Kiowa, and their son is therefore born mixed-race. When a struggle starts between the whites and the native Kiowas, the Burton family is split between loyalties."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1062_holly",
+      "emotion": "shame",
+      "dialogue": "Didn't you think so, Pacer?  If trouble starts, who'll hit us first, your folks or Ma's?  Shame on you, Clint. It's more likely neither will bother us.  That ain't been my experience about people in the middle.  Maybe it's the new chief.",
+      "target_person": "Clint",
+      "target_gender": "male",
+      "cause_raw": "causing trouble and conflict",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WP2020_holly",
+      "emotion": "pride",
+      "dialogue": "Supper was great, Mrs. Burton. Will and me always say... in cooking, no one would guess you were different from... well, our ma or anybody else.  well, our ma or anybody else.  I'm really proud you liked it, Tom. Just a little more cake?  No, ma'am.  - What have we here? - From me.",
+      "target_person": "Mrs. Burton",
+      "target_gender": "female",
+      "cause_raw": "her cooking being appreciated",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2021_holly",
+      "emotion": "pride",
+      "dialogue": "They take a man for what he ought to be, not what he is.  - I ain't blaming you. - I know. You're a good boy.  I've always been proud of you. Do what you must do... with my blessings. No matter where you go, whatever happens.  with my blessings. No matter where you go, whatever happens.  Goodbye, son.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's character and actions",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

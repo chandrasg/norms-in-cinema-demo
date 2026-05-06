@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "271164",
+    "title": "The Song",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/aC8oNmIDByUWnTrkUQddJcvV34T.jpg",
+    "overview": "Aspiring singer-songwriter Jed King struggles to catch a break and escape the long shadow of his father, a country music legend. After reluctantly accepting a gig at a local vineyard harvest festival, Jed is love-struck by the vineyard owner’s daughter, Rose, and a romance quickly blooms. Soon after their wedding, Jed writes Rose “The Song,” which becomes a breakout hit. Thrust into a life of stardom and a world of temptation in the form of fellow performer Shelby Bale, Jed’s life and marriage begin to fall apart."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1519_holly",
+      "emotion": "shame",
+      "dialogue": "Don't leave!  [NARRATOR] A man who commits adultery has no sense.  His shame will never be wiped away.  But... And do you, David...[NARRATOR]The one who confessesand renounces sin finds mercy.  To love and to cherish for better or for worse",
+      "target_person": "David",
+      "target_gender": "male",
+      "cause_raw": "committing adultery",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WS1520_holly",
+      "emotion": "shame",
+      "dialogue": "They're going up in flames   Let yourself do what you want    without an ounce of shame    'Cause when the morning sun comes    you'll have to say goodbye",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "doing what one wants without shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP2658_holly",
+      "emotion": "pride",
+      "dialogue": "Good night, Ray.  [JED] I wish my dad could be here to see all this.  [ROSE] He'd be proud of you.  I'm proud of you.  Thank you.",
+      "target_person": "Rose",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2659_holly",
+      "emotion": "pride",
+      "dialogue": "[JED] I wish my dad could be here to see all this.  [ROSE] He'd be proud of you.  I'm proud of you.  Thank you.  So now what?",
+      "target_person": "Rose",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

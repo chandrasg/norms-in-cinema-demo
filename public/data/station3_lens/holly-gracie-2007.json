@@ -1,0 +1,50 @@
+{
+  "film": {
+    "id": "15568",
+    "title": "Gracie",
+    "year": "2007",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/gPmRGO7iwVRWNd0n5ePWLfSHeuH.jpg",
+    "overview": "A teenager faces an uphill battle when she fights to give women the opportunity to play competitive soccer."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2342_holly",
+      "emotion": "pride",
+      "dialogue": "Congratulations.  Thanks, Mr. C.  We're all proud of you, son.  I couldn't let this evening pass... without saying a few words about a boy who is not here.  without saying a few words about a boy who is not here.",
+      "target_person": "Mr. C",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2343_holly",
+      "emotion": "pride",
+      "dialogue": "and he loved this game.  He loved this place.  More than anything... he wanted to beat Kingston and make our town proud.  he wanted to beat Kingston and make our town proud.  Never saw that win.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2344_holly",
+      "emotion": "pride",
+      "dialogue": "He loved this place.  More than anything... he wanted to beat Kingston and make our town proud.  he wanted to beat Kingston and make our town proud.  Never saw that win.  But don't be sad for him.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

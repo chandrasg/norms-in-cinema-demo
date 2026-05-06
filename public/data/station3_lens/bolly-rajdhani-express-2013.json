@@ -1,0 +1,125 @@
+{
+  "film": {
+    "id": "150009",
+    "title": "Rajdhani Express",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/eqBaH92kA4x4TW4qp5Ik8wTroX9.jpg",
+    "overview": "An eclectic group of passengers travelling from Delhi to Mumbai aboard the Rajdhani Express has to deal with an unexpected situation."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 3
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1586_bolly",
+      "emotion": "shame",
+      "dialogue": "ooooKkkk. Tlhheeeeyyyn dddoonn'tt eeeevvveeeenn fffeeeeeeeel aaasssslhhaaarmmeeeeddd. :ook. Brother, shame and pride are two sides of the same coin. When they don't have any pride, why will they feel ashamed? Still, what is this? Damn.",
+      "target_person": "people being referred to",
+      "target_gender": "unclear",
+      "cause_raw": "lack of pride and shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1587_bolly",
+      "emotion": "shame",
+      "dialogue": ":ook. Brother, shame and pride are two sides of the same coin. When they don't have any pride, why will they feel ashamed? Still, what is this? Damn. it's their income-tax return.",
+      "target_person": "character being spoken about",
+      "target_gender": "unclear",
+      "cause_raw": "lack of pride and integrity",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s1588_bolly",
+      "emotion": "shame",
+      "dialogue": "Mister, you are not my class. W***e and class. No, brother. These days there is no shame. it's better to be shameless. You never felt ashamed to steal stories from others?",
+      "target_person": "Mister",
+      "target_gender": "male",
+      "cause_raw": "plagiarism",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1589_bolly",
+      "emotion": "shame",
+      "dialogue": "W***e and class. No, brother. These days there is no shame. it's better to be shameless. You never felt ashamed to steal stories from others? Why?",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "plagiarism",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1590_bolly",
+      "emotion": "shame",
+      "dialogue": "No, brother. These days there is no shame. it's better to be shameless. You never felt ashamed to steal stories from others? Why? If the producer asks, I will have to give.",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "plagiarism",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1591_bolly",
+      "emotion": "shame",
+      "dialogue": "You told me about the home minister's parents. How will you visit the shrine? But you don't feel ashamed. How will you visit the shrine? But you don't feel ashamed.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting someone's parents",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1592_bolly",
+      "emotion": "shame",
+      "dialogue": "But you don't feel ashamed. How will you visit the shrine? But you don't feel ashamed. Where are the home minister's parents? look there are so many passengers in the train.",
+      "target_person": "home minister",
+      "target_gender": "male",
+      "cause_raw": "not fulfilling his duties",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p838_bolly",
+      "emotion": "pride",
+      "dialogue": "ooooKkkk. they don't feel even feel ashamed. look. Brother, shame and pride are two sides of the same coin. When they don't have any pride, why will they feel ashamed? Still, what is this? Damn.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p839_bolly",
+      "emotion": "pride",
+      "dialogue": ":ook. Brother, shame and pride are two sides of the same coin. When they don't have any pride, why will they feel ashamed? Still, what is this? Damn. It's their income-tax return.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

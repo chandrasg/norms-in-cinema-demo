@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "273886",
+    "title": "Holiday",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8aPPza9BHumJYl0KAABmOdFbUjm.jpg",
+    "overview": "Virat Bakshi, an Indian army soldier on vacation stumbles upon a terror plot to rip Mumbai apart with a series of bomb blasts and must hunt down the sleeper cell of the terror organisation before it's too late."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2434_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you standing here quietly like a fool? Let's go, Saiba. - Look, ma'am, you..Let's go. Let's go. Let's go. Aren't you ashamed of eve-teasing? Let's go. Let's go. - I'll break your jaw! Let's go. - If I see you here again, I'll kill you!",
+      "target_person": "Saiba",
+      "target_gender": "male",
+      "cause_raw": "eve-teasing",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2435_bolly",
+      "emotion": "shame",
+      "dialogue": "“Just blame the night.” “Tonight. - Let's just give into the feeling.” “Blame the night.” “Let's be shameless.” “Blame the night.” “Let's do something daft.” “Blame the night.”",
+      "target_person": "individuals",
+      "target_gender": "unclear",
+      "cause_raw": "giving into reckless behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2436_bolly",
+      "emotion": "shame",
+      "dialogue": "“Blame the night.” “Blame it on the night.” “Do whatever you want to do in this crazy mood..”“Don't be ashamed.” “lfl pass out, don't blame me. “So just skip the modesty, let's love.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s2437_bolly",
+      "emotion": "shame",
+      "dialogue": "“Just blame the night.” “Tonight. - Let's just give into the feeling.” “Blame the night.” “Let's be shameless.” “Blame the night.” “Let's do something daft.” “Blame the night.”",
+      "target_person": "individuals",
+      "target_gender": "unclear",
+      "cause_raw": "giving into reckless behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2438_bolly",
+      "emotion": "shame",
+      "dialogue": "“Blame the night!” “Tonight. - Let's just give into the feeling.” “Blame the night.” “Let's be shameless.” “Blame the night.” “Let's do something daft.” “Blame the night.”",
+      "target_person": "Night",
+      "target_gender": "unclear",
+      "cause_raw": "being a scapegoat for reckless behavior",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2439_bolly",
+      "emotion": "shame",
+      "dialogue": "In every field, if you work sincerely, you get promoted. But only in army and police..You get retirement. And that's a shame. Hi, Virat. - Hi. Even/things ready.",
+      "target_person": "army and police personnel",
+      "target_gender": "unclear",
+      "cause_raw": "forced retirement",
+      "theme_label": "Betrayal"
+    }
+  ]
+}

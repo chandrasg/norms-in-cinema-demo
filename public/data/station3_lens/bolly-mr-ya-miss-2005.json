@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "168025",
+    "title": "Mr Ya Miss",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/eIO43xUoa7kwRwPHq5GA34h2Om9.jpg",
+    "overview": "When a womanizer is accidentally struck dead by one of his many girlfriends, he is given a second chance - he is reincarnated as a WOMAN. This isn't a second chance, this is a punishment!"
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 6
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "female": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3636_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you saying? - Tell her. Why are you scared? Tell her. - Madam, this saloon is for men. So what! Will your scissors be ashamed of cutting a woman's hair? Come on. Cut it. Was your hair trapped in some machine?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "breaking gender norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p1932_bolly",
+      "emotion": "pride",
+      "dialogue": "You won't get anything. Just get lost! You won't get your clothes! - How can I go like this? You betrayed me! - Sanjana...I'm proud to be a woman. Every man needs me. No one else has got more style than me.",
+      "target_person": "Sanjana",
+      "target_gender": "female",
+      "cause_raw": "being a woman",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1933_bolly",
+      "emotion": "pride",
+      "dialogue": "No one else has got more style than me. There is nothing more intoxicating than me... understand! I'm proud to be a woman. Every man needs me. No one else has got more style than me.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being a woman",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1934_bolly",
+      "emotion": "pride",
+      "dialogue": "Very, very sorry for what I did. I'm sorry. I'm proud to be a woman. The need of every man. I'm proud to be a woman. The need of every man. No one has graces like me. There is no intoxication like me. Understood.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being a woman",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1935_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm sorry. I'm proud to be a woman. The need of every man. I'm proud to be a woman. The need of every man. No one has graces like me. There is no intoxication like me. Understood. I'm proud to be a woman. The need of every man.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "being a woman",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1936_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm proud to be a woman. The need of every man. No one has graces like me. There is no intoxication like me. Understood. I'm proud to be a woman. The need of every man. No one has graces like me. There is no intoxication like me. Understood. History is there because of me. I'm in the history.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "her own attributes and contribution to history",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1937_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm not less than any one. The whole world kisses my feet. What else do I tell you? I'm proud to be a woman. The need of every man. I'm the biggest favorite war. If I want a flying kite then I'm with you.",
+      "target_person": "character",
+      "target_gender": "female",
+      "cause_raw": "being a woman",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

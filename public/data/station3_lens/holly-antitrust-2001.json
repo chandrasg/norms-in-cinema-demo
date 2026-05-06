@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "9989",
+    "title": "Antitrust",
+    "year": "2001",
+    "industry": "holly",
+    "country": "CA|US",
+    "poster_path": "/9PXyfcJe53A9qFkcj5dkTJwIWoS.jpg",
+    "overview": "A computer programmer's dream job at a hot Portland-based firm turns nightmarish when he discovers his boss has a secret and ruthless means of dispatching anti-trust problems."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS279_holly",
+      "emotion": "shame",
+      "dialogue": "- Did you download code San Jose. - Oh s**t.  I'll do it.  - Shame we can't just walk in the front door. - Yeah, wouldn't Bob love that.  Ooh!  Jesus",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "not completing a task",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP605_holly",
+      "emotion": "pride",
+      "dialogue": "And thank you.  You have achieved a miraculous thing  I'm so proud of you  Forgive me of my method's but  when you got off courses, we had to motivate you to keep working on SYNAPSE",
+      "target_person": "Unknown",
+      "target_gender": "unclear",
+      "cause_raw": "achieving a miraculous thing",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP606_holly",
+      "emotion": "pride",
+      "dialogue": "If you think for second I won't send you back where you came from.  Hey Gary I want you to see this  Are you still proud of me?  You guys know where you need to be.. Go, go, go!!  Rany, Danny come on lets get out of here Come on, Let's go, let's go.",
+      "target_person": "Gary",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

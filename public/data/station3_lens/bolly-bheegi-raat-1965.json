@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "627655",
+    "title": "Bheegi Raat",
+    "year": "1965",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zWZ1Y47L7IMK50USDYXhbihbFgM.jpg",
+    "overview": "A struggling artist accidentally kills a man on a \"wet night.\" Unbeknownst to him, a wealthy witness falls for his sister. Their love blossoms, but the hidden truth of the murder threatens to unravel everything, forcing them to confront a dark past that could shatter their future."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s561_bolly",
+      "emotion": "shame",
+      "dialogue": "Look at yourself first! You are living with a maidservant. It is you who ought to be ashamed. Scoundrel! - Oh God! - I'll kill you if you say that again.",
+      "target_person": "character living with a maidservant",
+      "target_gender": "male",
+      "cause_raw": "living with a maidservant",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p243_bolly",
+      "emotion": "pride",
+      "dialogue": "I understand. - Society, Mr. Anand, society. What if I say that I don't care for your society? Then you must go and stay in such a society...where it is a matter of pride to live with a girl without marriage. I can sue you for defamation. You are threatening?",
+      "target_person": "Mr. Anand",
+      "target_gender": "male",
+      "cause_raw": "living with a girl without marriage",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p244_bolly",
+      "emotion": "pride",
+      "dialogue": "And our friendship has been exemplary in Nanital. Today nobody must be as happy as me to see him settle down again. Friends, I take great pride in announcing Ms Neelima's...- engagement to... - Mr. Ajay. Believe me, I'm very happy about this. And I presume that you all will also share my happiness.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "friend's engagement",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

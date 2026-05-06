@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "630593",
+    "title": "Sitapur Ki Geeta",
+    "year": "1987",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/uqTTuuOgCx1zO6tVvMJL6UEJATB.jpg",
+    "overview": "A poor widowed farmer, Dharma Singh, raises two children, a boy (Karan) and a girl (Geeta) on his own in a town called Rampur, and would like his son to grow up to be a police officer. Alas, that was not to be so, for heavy torrential rains strikes their region, separating the entire family, leaving Dharma wounded, and the two children ending up in a town called Sitapur. Geeta decides to work so that her brother can study. Her brother re-locates to Bombay city, and subsequently studies well, and becomes a Police Inspector. He is assigned his first major assignment to get rid of bandits near Sitapur, which he accepts, little knowing that the very people he is expected to get rid of are his very own sister, who is now a former jailbird, a notorious bandit who calls herself \"Maut\", and at odds with another bandit known as Daku Dharma Singh, who is none other than her father. Will Karan be able to fulfill his duties or will he end up joining his family in a life of crime."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4208_bolly",
+      "emotion": "shame",
+      "dialogue": "Help! Why are you running away, you dogs? Ramu is still alive! Until I am here, nothing can happen to Geeta. Shame on you! Let's go home. Come. It hurts a lot? - That's okay.",
+      "target_person": "Ramu's opponents",
+      "target_gender": "male",
+      "cause_raw": "cowardice",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p2295_bolly",
+      "emotion": "pride",
+      "dialogue": "Maybe, but her idol can wear only one crown. The crowns of our family adorn the idols of temples of 40 villages. There seems to be less devotion and more richness and pride in this action. What small people like you call One who makes the most of wealth, money, land, property, estate...is considered the greatest devotee of Mother.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "wealth and property",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2296_bolly",
+      "emotion": "pride",
+      "dialogue": "what punishment should I give you? The punishment one brave person gives another. Naive girl, there is more pride in your talks than bravery. This is not pride, it is the power of memories, the fire of vengeance. Girl, don't forget with the movement of my one finger, you could be dead. My name is Geeta, Dharma.",
+      "target_person": "Geeta",
+      "target_gender": "female",
+      "cause_raw": "power of memories and fire of vengeance",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p2297_bolly",
+      "emotion": "pride",
+      "dialogue": "That is why I have transferred him to Sitapur. Yes Sitapur. Bandits are terrorizing the people there. I am sure you will make the department proud even there. Uttam, did you keep everything in the car? Stay near the car, I am coming. Take. Nowadays, you never stay long in the village.",
+      "target_person": "department",
+      "target_gender": "unclear",
+      "cause_raw": "handling difficult situations",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p2298_bolly",
+      "emotion": "pride",
+      "dialogue": "You shattered my dream of meeting my sister...when you turned a thief and bandit. The dreams I had! That when I go to the village in my uniform...my sister will be so pleased. She will proudly tell the village I am The brother who she reared for so many years has grown so big today. And I would fill my sister's",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "brother's professional achievement",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

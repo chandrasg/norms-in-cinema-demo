@@ -1,0 +1,58 @@
+{
+  "film": {
+    "id": "75352",
+    "title": "Abhimaan",
+    "year": "1973",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/w0PDRsh1f9G6NVvoixzYNmTnpvv.jpg",
+    "overview": "A popular singer encourages his wife to sing, but tensions mount between the pair when his career begins to falter and her own musical career and popularity surpasses his own."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4040_bolly",
+      "emotion": "shame",
+      "dialogue": "Aunty come inside. Freshen up a bit first. No, I won't even touch the water of this house. I just came to say that...... as much as I was proud of him once, I'm ashamed of him as much now. Can a human being stoop so low? Ask him to go and see...... the plight of such a delicate girl. She'd better die rather then live like this.",
+      "target_person": "unidentified male",
+      "target_gender": "male",
+      "cause_raw": "causing harm to a delicate girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p2193_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes Chitra, all of us are alone. We are to blame ourselves for this loneliness. We create it with our false pride and ego. Now I like my loneliness. - You like it! - Yes.",
+      "target_person": "<NA",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2194_bolly",
+      "emotion": "pride",
+      "dialogue": "Aunty come inside. Freshen up a bit first. No, I won't even touch the water of this house. I just came to say that...... as much as I was proud of him once, I'm ashamed of him as much now. Can a human being stoop so low? Ask him to go and see...... the plight of such a delicate girl. She'd better die rather then live like this.",
+      "target_person": "Aunty",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

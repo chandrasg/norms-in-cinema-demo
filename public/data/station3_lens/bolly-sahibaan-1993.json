@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "532160",
+    "title": "Sahibaan",
+    "year": "1993",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/4QglmGdplX7YLVc6dJ935gUDJR8.jpg",
+    "overview": "Sahibaan, a village girl, is in love with Gopi, a labourer. She rejects a marriage proposal from Vijay, who is a womaniser. Now Vijay tries to get rid of Gopi in order to marry Sahibaan."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1844_bolly",
+      "emotion": "shame",
+      "dialogue": "But she's gone to fetch water. Rubbish! She was beating up the children! Shameless girl! She's all of 18, but still rides on her father! Don't you dare say anything about my daughter! And why do you play with her?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately for her age",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1845_bolly",
+      "emotion": "shame",
+      "dialogue": "I can't aptly describe her lips; they're like petals of a rose These drowsy eyes... they're filled with intoxicating wine These <i>locks</i> of hair strewn on her face...\"put even the clouds to shame\" A youthful body, brimming with passion You kill at your age... and provoke the savage in me",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "objectification and sexualization",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1846_bolly",
+      "emotion": "shame",
+      "dialogue": "Let's go, Gopi. I won't be sorry if I <i>shoot</i> this chap, this very moment! I'm dying of shame to see my sister drenched with a stranger! Had you no sense of propriety and respect for my status? Are you sick, attending to a sick man?",
+      "target_person": "Gopi's sister",
+      "target_gender": "female",
+      "cause_raw": "Helping a stranger",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p958_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm glad to find my wife using her tongue. But I'm sorry, she is using it against her husband! I raise my voice not against my husband, it's against the man...who never sheds his false pride! A man who always sees the ugly side of a picture. Calm down, sister-in-law.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "standing against husband's false pride",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

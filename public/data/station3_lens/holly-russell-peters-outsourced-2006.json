@@ -1,0 +1,99 @@
+{
+  "film": {
+    "id": "23077",
+    "title": "Russell Peters: Outsourced",
+    "year": "2006",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/2uIS6bXgFlzUUdCsDX7jMVw3zBK.jpg",
+    "overview": "Russell’s last DVD and CD, Outsourced, was taped before a sold out audience at the Warfield Theatre in San Francisco, and gives viewers and listeners an excellent overview of Russell’s comedic genius."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Cultural Identity",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS898_holly",
+      "emotion": "shame",
+      "dialogue": "Immigrant parents like their children to be stupid.  Yes, do anything.  When family comes, then you shame.  You can pretend to Baja, but When family comes, it is.  Filipinos me I guess.",
+      "target_person": "Baja",
+      "target_gender": "unclear",
+      "cause_raw": "pretending to be someone else",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP1635_holly",
+      "emotion": "pride",
+      "dialogue": "People do not know, say that the Chinese speak Chinese.  Which is stupid, because China does not exist.  Like when my pride and ask,''Russell, how to say Hi to India?''  Indian does not exist, I do not know what you ask.  Well'', smart.''",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1636_holly",
+      "emotion": "pride",
+      "dialogue": "Who's your buddy? -''Son of God.''  I like to socialize with him.  Latins are generally proud people.  Do something Spanish confused by them, is alarming.  As you must know how to say.",
+      "target_person": "Latins",
+      "target_gender": "unclear",
+      "cause_raw": "being a Latin",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1637_holly",
+      "emotion": "pride",
+      "dialogue": "One type of meksièkog County of LA-ju, played by gangsters.  ''To talk to you, but, idiot?''  Acting crazy, tense, are... Even Jesus we pride... ''Race, to talk?''  ''Race, to talk?''  ''What did I do?''",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1638_holly",
+      "emotion": "pride",
+      "dialogue": "Eric and Maureen.  And with his brother Julio.  I have Indian name, I proudly wore it.  I do not have it, that I have, I would proudly wear.  What's your name, sir India?",
+      "target_person": "Eric",
+      "target_gender": "male",
+      "cause_raw": "having an Indian name",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "WP1639_holly",
+      "emotion": "pride",
+      "dialogue": "And with his brother Julio.  I have Indian name, I proudly wore it.  I do not have it, that I have, I would proudly wear.  What's your name, sir India?  Anita?",
+      "target_person": "Julio",
+      "target_gender": "male",
+      "cause_raw": "having an Indian name",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "WP1640_holly",
+      "emotion": "pride",
+      "dialogue": "From New York''.'' -''OK, let's go have a drink.''  It hurts your ear.  White, OK to be proud of themselves.  That's not bad.  Sometimes zanesete, and love crosses and put the pointed hats.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

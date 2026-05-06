@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "493623",
+    "title": "Hichki",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/awN7MPVHcubWEqfo7T5jidx3xYY.jpg",
+    "overview": "Hichki presents a positive and inspiring story about a woman who turns her biggest weakness into her biggest strength."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Academic Success",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2413_bolly",
+      "emotion": "shame",
+      "dialogue": "She's a normal girl, Prabhakar. Normal! With those tics?! She's constantly ashamed of these noises. She's ashamed? Or are you?! Have you forgotten, why we separated?",
+      "target_person": "Prabhakar",
+      "target_gender": "male",
+      "cause_raw": "feeling ashamed of his daughter's tics",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2414_bolly",
+      "emotion": "shame",
+      "dialogue": "Normal! With those tics?! She's constantly ashamed of these noises. She's ashamed? Or are you?! Have you forgotten, why we separated? Look... Naina is still my daughter.",
+      "target_person": "Naina",
+      "target_gender": "female",
+      "cause_raw": "having tics",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p1255_bolly",
+      "emotion": "pride",
+      "dialogue": "But sir, what they did requires planning, foresight, intelligence. Sir, I believe if we can find a way to channelize this energy correctly, they can make St. Notker's proud one day... I assure you sir. It's a fool's dream Ms. Mathur. They don't belong here. They never did and never will.",
+      "target_person": "Ms. Mathur",
+      "target_gender": "female",
+      "cause_raw": "potential of students",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p1256_bolly",
+      "emotion": "pride",
+      "dialogue": "Right sir? Sir. Ms. Mathur, you'll be happy to know...that St. Notker's pride and project have been blown to pieces......and your brilliant class is responsible for it. You were right, you know, there are no bad students, only hopeless ones.",
+      "target_person": "Ms. Mathur",
+      "target_gender": "female",
+      "cause_raw": "students' achievement",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p1257_bolly",
+      "emotion": "pride",
+      "dialogue": "I saw those kids......what you did for them, I could never do that for you. You stood by them. I'm proud of you! Sir. What are you thinking? Too bad.",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "supporting and standing by kids",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

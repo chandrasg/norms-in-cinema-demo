@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "35751",
+    "title": "Seeta and Geeta",
+    "year": "1972",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/f2tl8IoE8uMvJe6ICTU7Nk07dKn.jpg",
+    "overview": "Long-suffering heiress Seeta is treated worse than a servant by her abusive money-grubbing aunt. Meanwhile, her long-lost twin sister Geeta grows up to be a gutsy street performer. One day, the girls unintentionally swap places."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1945_bolly",
+      "emotion": "shame",
+      "dialogue": "Give it soon and what about this sari? I'll go in my room and take it out. -Why there? Take it out here! Stop this act of a chastity, shameless girl!! Take it out and go and cook the food! Aunty, how can I... -What do you mean?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "not adhering to modesty norms",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1946_bolly",
+      "emotion": "shame",
+      "dialogue": "Why did you play? Alright, come with me! Come on, bet your money! Bet on your cards! Talk to me, aren't you ashamed to dupe a child? I've not duped him, he has lost that money in gambling. It's as good as duping, come on, give his money back!",
+      "target_person": "gambler",
+      "target_gender": "male",
+      "cause_raw": "duping a child",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1947_bolly",
+      "emotion": "shame",
+      "dialogue": "Just get up so that I can get you back into senses! What is wrong with you? Have you gone mad? How dare you? Shameless!...Am I shameless? - Oh! My hand!! I'll thrash you, get out! Why are you screaming like this?",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1948_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm not going to have alcohol, this Raghu lives down the street...he has a wife and four children...so how can a family man go and have alcohol? I'm going to tell Pascal to stop giving him credit or liquor. Stop making such noises, shameless man! Everyone seems to be drinking, I'll go and fix everyone right! This is the only flaw he has, he has to drink everyday!",
+      "target_person": "Raghu",
+      "target_gender": "male",
+      "cause_raw": "alcoholism",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s1949_bolly",
+      "emotion": "shame",
+      "dialogue": "No Seeta, won't you listen to me? Grandmother?! - Go up to your room! If you have some shame left in you then wear my bangles! What are you doing, this is not an ox's back! But she whipped you thinking you are an ox!",
+      "target_person": "Seeta",
+      "target_gender": "female",
+      "cause_raw": "Disobedience/Defiance",
+      "theme_label": "Betrayal"
+    }
+  ]
+}

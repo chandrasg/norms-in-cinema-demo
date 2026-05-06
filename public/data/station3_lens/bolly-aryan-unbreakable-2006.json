@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "83895",
+    "title": "Aryan: Unbreakable",
+    "year": "2006",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1Lrr0mjENawcb3xvJC6WOctnlN5.jpg",
+    "overview": "Aryan is the college champion in boxing. He is training under Ranveer Singh in order to achieve his dream: winning the national championship. His girlfriend Neha supports him unconditionally and he relies heavily upon her. However, after his life turns unexpectedly into another direction, he gives up boxing and marries instead. He becomes a father and takes up a job as a sports commentator. Despite this, he is not happy.  When Ranveer Singh offers him a chance to get back into the ring, Aryan accepts. However, his wife leaves him and he start his journey to reattain is dream and his love."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s227_bolly",
+      "emotion": "shame",
+      "dialogue": "Am I not right? What are you saying, sir? Are you angry with me? Aryan, what you did inside the ring before the girl showed up...made me feel ashamed of myself Before an ordinary boxer, you had lost your confidence, your focus, everything Dammit! That bout should've ended in the third round itself",
+      "target_person": "Aryan",
+      "target_gender": "male",
+      "cause_raw": "lack of confidence and focus in boxing",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s228_bolly",
+      "emotion": "shame",
+      "dialogue": "it's Ma's. She would've wanted you to wear it Good evening, Mrs Braganza. - No room in your house, eh? Do whatever you want to in your house. Shameless Bloody loafer! How dare he! it's a beautiful day",
+      "target_person": "Mrs. Braganza",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior in public",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p89_bolly",
+      "emotion": "pride",
+      "dialogue": "Without you, my heart is so helpless I worship you for no want,  I consider you god, you are my pride O my beautiful sweetheart, take my heart I want nothing else in return, just give me your heart",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "love for someone",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

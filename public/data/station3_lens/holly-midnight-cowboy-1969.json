@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "3116",
+    "title": "Midnight Cowboy",
+    "year": "1969",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ckklq45UxUkwgHve9xItXqXr06r.jpg",
+    "overview": "Joe Buck is a wide-eyed hustler from Texas hoping to score big with wealthy New York City women; he finds a companion in Enrico \"Ratso\" Rizzo, an ailing swindler with a bum leg and a quixotic fantasy of escaping to Florida."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS714_holly",
+      "emotion": "shame",
+      "dialogue": "You're not looking for the Statue of Liberty at all.  No, ma'am, I ain't.  Why, you ought to be ashamed of yourself.  Come on, Baby. Do it for mama.  Come on, Baby. Mama's tired.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "lying or deceiving",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WS715_holly",
+      "emotion": "shame",
+      "dialogue": "Preparing for this brief moment of glory at halftime.  A basic training as rigorous as the star football players themselves.  Long hours of precision choreography that would put the Rockettes to shame.  Musical arrangements, rehearsals, costume fittings.  A production in Hollywood's finest tradition.",
+      "target_person": "Rockettes",
+      "target_gender": "female",
+      "cause_raw": "not being as rigorous in choreography",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WP1403_holly",
+      "emotion": "pride",
+      "dialogue": "Remington shotgun for only $72.47.  You look real nice, loverboy. Real nice.  Make your old grandma proud.  You're gonna be the best-looking cowboy in the whole parade.  You'll be the best-looking one there.",
+      "target_person": "grandma",
+      "target_gender": "female",
+      "cause_raw": "grandson looking nice",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1404_holly",
+      "emotion": "pride",
+      "dialogue": "My ideal is Gary Cooper, but he's dead.  Thank you. And, ma'am, what is your ideal in a man?  A man who takes pride in his appearance.  Kindly consideration, first.  Tall. Definitely tall.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

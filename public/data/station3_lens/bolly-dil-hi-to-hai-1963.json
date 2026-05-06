@@ -1,0 +1,78 @@
+{
+  "film": {
+    "id": "410844",
+    "title": "Dil Hi To Hai",
+    "year": "1963",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/z90n62PnsHeLNtDFCKEyCgeUmKZ.jpg",
+    "overview": "Children are exchanged by greedy aunt and uncle in childhood and they live undeserved lives."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 3
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1153_bolly",
+      "emotion": "shame",
+      "dialogue": "idiot! - Okay, bye idiot? Son of a gun! Whatever your Dad says...You are a shameless a*s Shameless You're the shameless fellow! You're the a*s",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "disrespectful behavior",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1154_bolly",
+      "emotion": "shame",
+      "dialogue": "idiot? Son of a gun! Whatever your Dad says...You are a shameless a*s Shameless You're the shameless fellow! You're the a*s You are insolent. Who are you? - Who are you?",
+      "target_person": "Character 1",
+      "target_gender": "male",
+      "cause_raw": "Insulting and disrespecting others",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1155_bolly",
+      "emotion": "shame",
+      "dialogue": "Whatever your Dad says...You are a shameless a*s Shameless You're the shameless fellow! You're the a*s You are insolent. Who are you? - Who are you? Khan Bahadur speaking",
+      "target_person": "Dad's son",
+      "target_gender": "male",
+      "cause_raw": "Disrespectful behavior",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1156_bolly",
+      "emotion": "shame",
+      "dialogue": "Congratulations! - Thanks, but Jamila isn't agreeing She's naive, she's a baby. - She isn't. She's in love With one Chand, some singer. - What a shame, we'll let that pass Hear me out. To get on with the affair...she wants to take music lessons from Chand. If Chand enters...I'm finished! - lndeed! Khan Bahadur is quite a fat lamb. You can draw your conclusions",
+      "target_person": "Jamila",
+      "target_gender": "female",
+      "cause_raw": "Being in love with a singer",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1157_bolly",
+      "emotion": "shame",
+      "dialogue": "Tell me. - Be seated Have pity on this unfortunate fellow. Yusuf says that you love Chand What a shame! Yusuf loves you dearly. Even if he is a downright scoundrel...you should have showered roses on his love. You ought to appreciate Showering flowers on a grave is mark of appreciation too. I'm doing that",
+      "target_person": "Chand",
+      "target_gender": "female",
+      "cause_raw": "Not reciprocating Yusuf's love",
+      "theme_label": "Romantic Expression"
+    }
+  ]
+}

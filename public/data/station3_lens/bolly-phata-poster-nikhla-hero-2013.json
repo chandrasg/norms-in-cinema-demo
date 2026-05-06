@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "222430",
+    "title": "Phata Poster Nikhla Hero",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/rDcViuwRwb4wIlH2yHcUo3Hi0CR.jpg",
+    "overview": "Vishwas, the son of a widow, wants to be an actor despite his mother's wish that he become a police inspector. However, his life takes a turn when he is is mistaken for an inspector while dressed for a photo shoot and gets entangled with a criminal gang."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1350_bolly",
+      "emotion": "shame",
+      "dialogue": "Ghorpade. - Yes, sir. You here? - I work second shift here, sir. Aren't you ashamed? - I am, sir. Well done, Vishwas. Well done. Napoleon sir will be very pleased with you.",
+      "target_person": "Ghorpade",
+      "target_gender": "male",
+      "cause_raw": "working a second shift",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1351_bolly",
+      "emotion": "shame",
+      "dialogue": "We'll have to settle for one of them. The heart's brazen. Doesn't know a thing about shame. It's full of fun and attitude. Can't do without flirting.",
+      "target_person": "heart",
+      "target_gender": "unclear",
+      "cause_raw": "flirting and lack of shame",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1352_bolly",
+      "emotion": "shame",
+      "dialogue": "It's full of fun and attitude. Can't do without flirting. The heart's brazen. Doesn't know a thing about shame. It's full of fun and attitude. Can't do without flirting. Hey, Mr. DJ, let nothing stop you.",
+      "target_person": "Mr. DJ",
+      "target_gender": "male",
+      "cause_raw": "Flirting",
+      "theme_label": "Sexual Harassment"
+    }
+  ]
+}

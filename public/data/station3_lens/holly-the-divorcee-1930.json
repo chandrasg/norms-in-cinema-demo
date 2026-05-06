@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "80708",
+    "title": "The Divorcee",
+    "year": "1930",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/zzu6IW9ilkUt6L4DL9SoNnwtAfy.jpg",
+    "overview": "When a woman discovers that her husband has been unfaithful, she decides to pay him back in kind."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1201_holly",
+      "emotion": "shame",
+      "dialogue": "- Excuse me, Bill. - Okay.  - You ready, Jerry? - Just about.  You know, it's a darn shame I've got to get on that train tonight, isn't it?  Yes, Janice and I will both miss you.  Oh, now see here, Jerry.",
+      "target_person": "Jerry",
+      "target_gender": "male",
+      "cause_raw": "not being sincere or showing genuine feelings",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2189_holly",
+      "emotion": "pride",
+      "dialogue": "Let's not talk anymore about it.  And I thought your heart was breaking like mine.  But instead, you tell me your man's pride can't stand the gaffe.  - Now, wait a minute, Jerry. Listen... - No, I don't want to listen.  I'm glad I discovered there's more than one man in the world",
+      "target_person": "Jerry",
+      "target_gender": "male",
+      "cause_raw": "discovering there's more than one man in the world",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2190_holly",
+      "emotion": "pride",
+      "dialogue": "Well, my dear, I'm gonna find out how they do it.  So look for me in the future where the prim roses grow  and pack your man's pride with the rest.  And from now on, you're the only man in the world that my door is closed to.  That is all.",
+      "target_person": "my dear",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2191_holly",
+      "emotion": "pride",
+      "dialogue": "And besides, you said that we... I know I said I'd set you free.  I know I said I'd set you free.  When you told me, my pride revolted at holding you against your will.  But now that I've had time to think it over, I have no pride, Paul.  Maybe our marriage hasn't meant much,",
+      "target_person": "Paul",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2192_holly",
+      "emotion": "pride",
+      "dialogue": "I know I said I'd set you free.  When you told me, my pride revolted at holding you against your will.  But now that I've had time to think it over, I have no pride, Paul.  Maybe our marriage hasn't meant much,  but there's nothing at all without it.",
+      "target_person": "Paul",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

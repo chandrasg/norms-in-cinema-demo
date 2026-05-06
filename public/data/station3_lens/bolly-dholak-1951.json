@@ -1,0 +1,101 @@
+{
+  "film": {
+    "id": "630725",
+    "title": "Dholak",
+    "year": "1951",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xgbikmQ2VakKy8eH4XxkhGOrskj.jpg",
+    "overview": "Roop K. Shorey’s romantic drama. Manohar (Ajit) gets a job as a music teacher in a college. But on one condition – he has to be married in order to do it. Also starring Meena Shorey. In Hindi/subs."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1095_bolly",
+      "emotion": "shame",
+      "dialogue": "Through these letters which the postman gave me by mistake. And you must have read them as old habits die hard. Shameless. I want to give you good news. How many have called? - All of them I guess. Read.",
+      "target_person": "character reading letters",
+      "target_gender": "unclear",
+      "cause_raw": "invasion of privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s1096_bolly",
+      "emotion": "shame",
+      "dialogue": "I see. That's why you must have said that we're married. I knew that something's fishy. - It's no big deal. Don't you have any shame? You can either have shame or the job. I'll not stay here even for a minute. - Think about your parents.",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "lying about marital status for job",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "s1097_bolly",
+      "emotion": "shame",
+      "dialogue": "I knew that something's fishy. - It's no big deal. Don't you have any shame? You can either have shame or the job. I'll not stay here even for a minute. - Think about your parents. What about the landlord's loan?",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "not fulfilling responsibilities",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1098_bolly",
+      "emotion": "shame",
+      "dialogue": "For the baby and the expectant mother. Oh. Shameless. Today I'll kill you. I haven't done anything. I swear. I'm innocent. You first made the excuse of marriage. And now this.",
+      "target_person": "expectant mother",
+      "target_gender": "female",
+      "cause_raw": "premarital pregnancy",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1099_bolly",
+      "emotion": "shame",
+      "dialogue": "Till then good luck, Mr. and Mrs. Manohar. Now what? Disgrace. Shame. And jail. Our parents will be heartbroken. What do we do now, Manohar?",
+      "target_person": "Mr. and Mrs. Manohar",
+      "target_gender": "unclear",
+      "cause_raw": "illegal activities leading to jail",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p558_bolly",
+      "emotion": "pride",
+      "dialogue": "“Yesterday I saw a girl walking at Mall Road.” “Yesterday I saw a girl walking at Mall Road.” “She was walking proudly...”“She was walking proudly and her hanky fell.” “It picked it up for her and the girl smiled.” “Let's have a blast. Let's have a blast.”",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

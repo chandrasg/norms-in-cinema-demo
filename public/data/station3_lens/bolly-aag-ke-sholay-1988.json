@@ -1,0 +1,120 @@
+{
+  "film": {
+    "id": "618990",
+    "title": "Aag Ke Sholay",
+    "year": "1988",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ael2F735yDeilULt6qeCjd7LIjr.jpg",
+    "overview": "Aag Ke Sholay (English translation - Flames of Fire) is 1988 Hindi Language Movie directed by S. R. Pratap, starring Hemant Birje, Gulshan Grover, Vijeta Pandit, Sumeet Saigal, Sripada and Rashmi Inder."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 3
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3931_bolly",
+      "emotion": "shame",
+      "dialogue": "Go on your own way. Now I will always walk on the way of your love, darling. You are very shameless. In only one meeting you have fallen in love. Love always happen in one meeting.",
+      "target_person": "character 2",
+      "target_gender": "female",
+      "cause_raw": "falling in love quickly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3932_bolly",
+      "emotion": "shame",
+      "dialogue": "Guest. So you are a guest. I am landlord's nephew. But don't you feel ashamed to enter a girl's room like this? Sorry. Sorry. Sorry.",
+      "target_person": "landlord's nephew",
+      "target_gender": "male",
+      "cause_raw": "invading a girl's privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s3933_bolly",
+      "emotion": "shame",
+      "dialogue": "Now I am relieved. Oh Kallu. - Who's that? Fatikchand you. Rascal, don't you feel ashamed to tease my sister. What? Your sister. - Chamia, are you his sister? Yes, Kallu. - Did you listen?",
+      "target_person": "Fatikchand",
+      "target_gender": "male",
+      "cause_raw": "Teasing a girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3934_bolly",
+      "emotion": "shame",
+      "dialogue": "Keep her down. Down. Very good. She is your sister, and you are taking her. Don't you feel ashamed? Uncle Kans, an uncle like you is been killed by a nephew only. The murderer of my parents, I won't leave you alive today.",
+      "target_person": "Kans",
+      "target_gender": "male",
+      "cause_raw": "mistreating his sister",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p2130_bolly",
+      "emotion": "pride",
+      "dialogue": "Now wear a Ghaghara choli and dance. No one in my family ever shook their legs. In your family no one danced, and....in my family no one forgives. It is a question of our pride. Landlord. - Yes my nightingale. Your pride is our pride. We both know how to dance.",
+      "target_person": "landlord",
+      "target_gender": "male",
+      "cause_raw": "uphold family honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2131_bolly",
+      "emotion": "pride",
+      "dialogue": "In your family no one danced, and....in my family no one forgives. It is a question of our pride. Landlord. - Yes my nightingale. Your pride is our pride. We both know how to dance. Yes landlord, we won't let your pride down. Why Ganga? - Yes Geeta. Come.",
+      "target_person": "landlord",
+      "target_gender": "male",
+      "cause_raw": "maintaining family reputation",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2132_bolly",
+      "emotion": "pride",
+      "dialogue": "Landlord. - Yes my nightingale. Your pride is our pride. We both know how to dance. Yes landlord, we won't let your pride down. Why Ganga? - Yes Geeta. Come. Let's go.",
+      "target_person": "landlord",
+      "target_gender": "male",
+      "cause_raw": "dance performance",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2133_bolly",
+      "emotion": "pride",
+      "dialogue": "One is Geeta and the other is Ganga. They both are our enemies. Bring them to us. That's it. It's against Shankar's pride to bring girls, kidnapping them. Tell me some job suitable to my manhood. You'll have to do this work, my fellow.",
+      "target_person": "Shankar",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

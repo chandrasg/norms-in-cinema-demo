@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "21625",
+    "title": "Gulaal",
+    "year": "2009",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2FT2A8qh3nbqqCLgpkXhPBCVW42.jpg",
+    "overview": "A law student witnesses the struggles of the Rajputs, deception, homicide and crime after being elected as General Secretary of his college."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2250_bolly",
+      "emotion": "shame",
+      "dialogue": "My heart goes berserk..The taste of forbidden fruit seems delicious  on my tongue. My heart goes berserk..Bana, Ransa is here. I fear being shamed in this world ..''I fear being shamed in this world ..'' I fear the society in this world . Will someone blow  cold  on this body in heat?",
+      "target_person": "Ransa",
+      "target_gender": "male",
+      "cause_raw": "Fear of societal judgement",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2251_bolly",
+      "emotion": "shame",
+      "dialogue": "Now, feathers are ruffled , there's furore. Now, feathers are ruffled , there's furore. This heart is screaming out for more..I've been shamed in the market square. My dress has been stained with a tear. My heart thuds louder and louder through the night....just like democracy, trying to speak....with its mouth shut tight.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "being publicly humiliated",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p1160_bolly",
+      "emotion": "pride",
+      "dialogue": "Its begun, it's a  flood a thousand heads smell  blood. It's time for the  battle cry. For the  glory and the pride, give limb or life or step aside. It's time to let arrows  fly. He that  would die if needed, and kill unheeded....is the most powerful..It's begun, it's a  flood a thousand heads smell  blood.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1161_bolly",
+      "emotion": "pride",
+      "dialogue": "It's time to let arrows  fly. He that  would die if needed, and kill unheeded....is the most powerful..It's begun, it's a  flood a thousand heads smell  blood. It's time for the  battle cry..''For the  glory and the pride give limb or life or step aside. It's time to let arrows  fly. Well begun is  half the  battle won.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1162_bolly",
+      "emotion": "pride",
+      "dialogue": "Its begun, it's a  flood a thousand heads smell  blood. It's time for the  battle cry. For the  glory and the pride, give limb or life or step aside. It's time to let arrows  fly. Well begun is  half the  battle won.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1163_bolly",
+      "emotion": "pride",
+      "dialogue": "But  Dileep Singh has to win. The poet who imagines that life is love and peace..Deny that poet's song..These  muscles stirred, these veins   swollen..Stoke them in fire. It's begun, it's a  flood.. -  Dileep Singh! A thousand heads   smelling  blood, it's time for the  battle cry..For the  glory and the pride, give limb, life, step aside..Its time to let arrows  fly..''Well begun is  half the  battle won.'' Well begun is  half the  battle won. Well begun is  half the  battle won.",
+      "target_person": "Dileep Singh",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

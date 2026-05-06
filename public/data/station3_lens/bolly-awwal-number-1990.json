@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "159645",
+    "title": "Awwal Number",
+    "year": "1990",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/mh5SmoFFu7hnFKEXJLWxWR5CkkY.jpg",
+    "overview": "India has lost two of the three one day internationals against Australia, and have lost all hope of winning the three-test series, mostly due to the dismal performance of the arrogant Cricket Captain, Ranvir Singh alias Ronny, who is also the brother of the Chair of the Cricket Selection Committee. This Committee decides to have a new-comer named Sunny in place of Ronny, which leaves an embittered Ronny, swearing to kill Sunny at any cost. The third match is being planned in the Wankhede Stadium in Bombay, and a group of terrorists announces that they will blow the stadium up with the estimated 50,000 spectators, unless and until the Indian army withdraws it's peace-keeping force in the region. The Chair of the Selection Committee takes control as the Director General of Police; launches an investigation; and does arrest the culprits, who have been employed with the Stadium for many years..."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s271_bolly",
+      "emotion": "shame",
+      "dialogue": "Two swimming costumes. One for you. One for me Put it on, and come to the sea Shameless! How come? - People will stare at me People? What people? No one's around but us",
+      "target_person": "female character",
+      "target_gender": "female",
+      "cause_raw": "wearing a swimsuit in public",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s272_bolly",
+      "emotion": "shame",
+      "dialogue": "How come? - People will stare at me People? What people? No one's around but us Won't you be ashamed to watch me change? Go behind that rock and change. I'll stand guard Hurry! Someone might come by",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "changing clothes in public",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p108_bolly",
+      "emotion": "pride",
+      "dialogue": "Pack the team with non-players, and it'd make no difference I'm no Ronnie unless I steamroll the opposition Arrogant. Proud. Conceited. - Thus I am the superstar Vain. Over-confident. Hot-air balloon. - Saw how I was mobbed? Because I'm Ronnie",
+      "target_person": "Ronnie",
+      "target_gender": "male",
+      "cause_raw": "being a superstar and popular",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p109_bolly",
+      "emotion": "pride",
+      "dialogue": "Naughty boy! I love my Grandpa. - As I love my Ma And we're proud of you Anyone selling dresses here? Can I talk to Kondy? - He isn't here",
+      "target_person": "Grandpa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

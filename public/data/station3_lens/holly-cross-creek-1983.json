@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "115332",
+    "title": "Cross Creek",
+    "year": "1983",
+    "industry": "holly",
+    "country": "GB|US",
+    "poster_path": "/klil5YyD3GunFzEIYBbwLRjsVUb.jpg",
+    "overview": "In the 1930s, Marjorie Kinnan Rawlings moves to Florida's backwaters to write in peace. She feels bothered by affectionate men, editors and confused neighbors, but soon she connects and writes The Yearling, a classic of American literature."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1966_holly",
+      "emotion": "pride",
+      "dialogue": "but the grove had been long untended.  And as I had filed for divorce,  I was too proud to accept any money from Charles.  I hear tell you lookin' for a girl.  Take me.",
+      "target_person": "Speaker",
+      "target_gender": "female",
+      "cause_raw": "not accepting money after divorce",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1967_holly",
+      "emotion": "pride",
+      "dialogue": "My Ma says we're gonna have  a pound party next Saturday.  She'd be most proud if you'd come.  I'd be delighted to.  What is a pound party?",
+      "target_person": "Ma",
+      "target_gender": "female",
+      "cause_raw": "hosting a pound party",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1968_holly",
+      "emotion": "pride",
+      "dialogue": "before sundown, ribs and all.  Won't we have a lovely barbecue?  Do it proud.  This Miss Marjorie's work time,  you have to be goin'.",
+      "target_person": "Miss Marjorie",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

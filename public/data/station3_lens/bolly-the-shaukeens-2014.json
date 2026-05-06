@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "297019",
+    "title": "The Shaukeens",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/hAAzlXKdYtheXSVrWQKTQ6Dy0oR.jpg",
+    "overview": "Three friends in their 60s try to do everything that they couldn't do in their younger days - before death arrives."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4434_bolly",
+      "emotion": "shame",
+      "dialogue": "You've been doing dirty things behind the bush.....and blaming me of being ill-mannered. Do you see that? Such shameless kids these days. Stop all this. Or I'll have you thrown out of the park. Hey old man..Gentleman. Gentleman.",
+      "target_person": "kids",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior in public",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4435_bolly",
+      "emotion": "shame",
+      "dialogue": "Why not? I am a man too, a pervert. And shameless, like you two. I am a contender too. My bro..hold it like this and zoom in.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being perverted",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4436_bolly",
+      "emotion": "shame",
+      "dialogue": "Movie's so boring, let's have sex. How cute puppy, want to have sex? You two should be ashamed. One is married..and the other. It's futile to talk to you.",
+      "target_person": "two characters",
+      "target_gender": "unclear",
+      "cause_raw": "infidelity and inappropriate sexual advances",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s4437_bolly",
+      "emotion": "shame",
+      "dialogue": "Think about sex. And make faces. You should be ashamed. I feel their faces should be blackened.....make them sit on a donkey, and..What city are you from? - Delhi. What Delhi? Forget Delhi?",
+      "target_person": "character from Delhi",
+      "target_gender": "male",
+      "cause_raw": "thinking about sex",
+      "theme_label": "Promiscuity"
+    }
+  ]
+}

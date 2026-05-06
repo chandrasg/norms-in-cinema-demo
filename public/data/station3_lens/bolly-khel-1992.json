@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "227957",
+    "title": "Khel",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/cUFdWhQ6AO8V9fzLKZLI0UbVKF7.jpg",
+    "overview": "A trio of cons, tired of small jobs, get together to con a rich, widowed woman, desperately seeking her long-lost grandchild and sole heir. The trio obtain jobs at her estate and set off their plan."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1588_bolly",
+      "emotion": "pride",
+      "dialogue": "How could I have arranged five lakh rupees! I will give you the five lakh of rupees! No! Please don't try to rob me of my self-respect and pride! If you ever attempt it again, I will never meet you again! I am leaving. Don't you try and stop me!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "self-reliance",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1589_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm unsure if I will be able to safeguard my father's principles! Why couldn't you? You are already safeguarding it! Your father would have been proud of you, had he been alive! You need a job, and I need an honest person like you! Henceforth, you shall work for me! I am taking you along!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "safeguarding father's principles",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1590_bolly",
+      "emotion": "pride",
+      "dialogue": "- Grandma! - No, I'm not just a grandma or a madam! I am your confidante too! Rrun is a very decent boy. I am proud of your choice! I've lived a lonely life for years. When I got back my granddaughter......I felt my motherly feelings rejuvenated.",
+      "target_person": "grandma",
+      "target_gender": "female",
+      "cause_raw": "granddaughter's choice of partner",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

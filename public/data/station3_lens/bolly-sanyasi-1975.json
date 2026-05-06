@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "118347",
+    "title": "Sanyasi",
+    "year": "1975",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/brW8eh0k04YNxuTGDwYKdewf44b.jpg",
+    "overview": "Renukadevi is widowed and the mother of a son named Ram. Her husband had indulged in all possible vices, and passed away unexpectedly. Her father-in-law, Rai, does not want Ram to repeat his father's mistakes, and teaches him all the positive values of the Hindu religion, in particular the contents of the Holy Book \"Geeta\". As a result, Ram refrains from all known vices, is an expert in yogic exercises, decides to live the life of a celibate, and refuses to marry anyone. When Rai passes away, Renuka asks Ram to fulfill his grandfather's last wishes, one of which was to get married. She even arranges his introduction to Aarti, an attractive young woman. But Ram is convinced that marriage is not for him."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1902_bolly",
+      "emotion": "shame",
+      "dialogue": "Stand up and then talk to me. Now say, talk about what? What 2 young people talk about when they're alone. - You're shameless. - What? Okay, I'll drink the milk you get, keep the glass and go. Good night! Now leave.",
+      "target_person": "young person",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1903_bolly",
+      "emotion": "shame",
+      "dialogue": "Everything is good, but I have bad luck. Come. Shame on such profits! Mother it is unfair that one family had 400 acres of land. Nowadays there is equality everywhere.",
+      "target_person": "person with bad luck",
+      "target_gender": "unclear",
+      "cause_raw": "inequality and bad luck",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1904_bolly",
+      "emotion": "shame",
+      "dialogue": "Hail the small master! You're giving away 400 acres of land......can't you give 4 inches of your heart? Aren't you ashamed to say that so loudly? You want me to talk slowly? I've have explained to you so many times.",
+      "target_person": "small master",
+      "target_gender": "male",
+      "cause_raw": "lack of empathy",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1905_bolly",
+      "emotion": "shame",
+      "dialogue": "This my cute maiden, do you like her? - If I approve of her? - I shall gladly send her with you......as an offering of flowers made to God. Aren't you ashamed to take God's name? But I'm Ram's father! - What did you say? - I recollected a similar incident.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "objectification",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1004_bolly",
+      "emotion": "pride",
+      "dialogue": "These evil men hatched a conspiracy One is an evil uncle, the other, a wicked brother But the Lord will shatter their pride You reap as you sow Gurudev, what is this I am seeing!",
+      "target_person": "Gurudev",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

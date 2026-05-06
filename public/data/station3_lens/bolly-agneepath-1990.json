@@ -1,0 +1,120 @@
+{
+  "film": {
+    "id": "37403",
+    "title": "Agneepath",
+    "year": "1990",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/kKCWrcIi6pAXNvPnC1LWtV4hB8u.jpg",
+    "overview": "A young boy's father is lynched before his eyes; fifteen years later he returns home for revenge."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 4
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 6,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4067_bolly",
+      "emotion": "shame",
+      "dialogue": "You told my wife not to give me money......Not to give me money, for a drink! Is it your money?! Don't.- Aren't you ashamed, you lout?! if you are so enraged,...... you may strike me on the other cheek too. Will you have your wife do menial jobs for a living?",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "dependency on wife for money and alcoholism",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4068_bolly",
+      "emotion": "shame",
+      "dialogue": "You've destroyed many young lives. And now, you're dragging the children into sin. You should be ashamed ofyourself. -Why must I be ashamed? Brothels are the creation of men. They push helpless women into prostitution.",
+      "target_person": "person being addressed",
+      "target_gender": "male",
+      "cause_raw": "pushing children and women into prostitution",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4069_bolly",
+      "emotion": "shame",
+      "dialogue": "He must have gone to Chandabai's brothel. Where's the schoolmaster?! - Come on... Iet's take a look. Where's the bloody preacher? - But I'm telling you... he won't...!Look at him, now. - What a shameless fellow! Sleeping with a prostitute! - What a shame! We respected him. And this is what he turns out to be!",
+      "target_person": "schoolmaster",
+      "target_gender": "male",
+      "cause_raw": "sleeping with a prostitute",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4070_bolly",
+      "emotion": "shame",
+      "dialogue": "Where's the schoolmaster?! - Come on... let's take a look. Where's the bloody preacher? - But I'm telling you... he won't...!Look at him, now. - What a shameless fellow! Sleeping with a prostitute! - What a shame! We respected him. And this is what he turns out to be! Get up, you hypocrite! -Drag that shameless fellow out!",
+      "target_person": "schoolmaster",
+      "target_gender": "male",
+      "cause_raw": "sleeping with a prostitute",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4071_bolly",
+      "emotion": "shame",
+      "dialogue": "Sleeping with a prostitute! - What a shame! We respected him. And this is what he turns out to be! Get up, you hypocrite! -Drag that shameless fellow out! Burn the master's house. Father... -Vijay...Father...This is the path through fire.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "sleeping with a prostitute",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4072_bolly",
+      "emotion": "shame",
+      "dialogue": "And President Venkataraman was also from the South. Wearing a pant-suit doesn't make anyone a forward-minded individual. And I'm not ashamed to wear a traditional dress. Do you take me for a fool...... because I sell coconuts for a living? Do you take me for a fool? Do you think I'm lying?",
+      "target_person": "Coconut seller",
+      "target_gender": "male",
+      "cause_raw": "Being perceived as less intelligent due to his occupation",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4073_bolly",
+      "emotion": "shame",
+      "dialogue": "Have I leR anything undone to educate you? Go on tell me. Have you lacked anything as far as education is concerned? And I see you walking shamelessly holding his hands. No.. please tell me whatever you want. No! - She's not at fault.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "dating or having a relationship without parental consent",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p2205_bolly",
+      "emotion": "pride",
+      "dialogue": "Take a good look at their faces. They are not afraid of happenstance. They will be proud should it happen. Go and tell them ...... that Commissioner Gaitonde is ready to face death. The schoolmaster.",
+      "target_person": "Commissioner Gaitonde",
+      "target_gender": "male",
+      "cause_raw": "facing death bravely",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

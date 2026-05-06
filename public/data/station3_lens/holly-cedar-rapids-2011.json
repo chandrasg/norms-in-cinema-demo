@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "52067",
+    "title": "Cedar Rapids",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/udHprtPPfDHdcR1ijoY24mt9OB1.jpg",
+    "overview": "A naive Midwesterner insurance salesman travels to a big-city convention in an effort to save the jobs of his co-workers."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS902_holly",
+      "emotion": "shame",
+      "dialogue": "in the Tiffany Suite,  and we engaged in a filthy act  of which I am totally ashamed.  I let Orin inside of me,  where he tainted the most sacred and special part of me.",
+      "target_person": "Orin",
+      "target_gender": "male",
+      "cause_raw": "engaging in a sexual act the speaker regrets",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WP1650_holly",
+      "emotion": "pride",
+      "dialogue": "Four years!  How do you it, Roger?  So proud of you, Roggie. Mmm... Hey, Roger.  Hey, Roger.  Tim Lippe! I didn't even see you there.",
+      "target_person": "Roger",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1651_holly",
+      "emotion": "pride",
+      "dialogue": "Look, I might be a lot of things,  but a poacher ain't one of them.  And I'm proud of that.  You saw this petition?  Yeah, I saw it. I didn't sign it.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "not being a poacher",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1652_holly",
+      "emotion": "pride",
+      "dialogue": "What are you talking about?  This is a no go.  This is a no go.  I'm proud of you, Tim.  That was the right thing to do.  Lippe, you freaking goofy b*****d.",
+      "target_person": "Tim",
+      "target_gender": "male",
+      "cause_raw": "doing the right thing",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

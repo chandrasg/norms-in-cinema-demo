@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "10071",
+    "title": "The Brothers Solomon",
+    "year": "2007",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/63u2QZZZIaME05TSv3tLKpibII1.jpg",
+    "overview": "A pair of well-meaning, but socially inept brothers try to find their perfect mates in order to provide their dying father with a grandchild."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1309_holly",
+      "emotion": "shame",
+      "dialogue": "Yup.  And Dad knows that.  We got nothing to be ashamed of.  Hands in.  What should we do on this one?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2360_holly",
+      "emotion": "pride",
+      "dialogue": "Devastating news, actually.  I just want you boys to know how much I love you...  ... and how proud I am of you both.  Please come as soon as you possibly can.  Oh, my God.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "love for her boys",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP2361_holly",
+      "emotion": "pride",
+      "dialogue": "He's definitely looking at this situation right now as being half alive.  Yes, he seemed very upbeat for a man slipping into a coma.  He told me how very proud he was of both of you... ...of his work for the government... ...of the story of meeting your mother, and of her tragic death.  ...of the story of meeting your mother, and of her tragic death.  He told you all that?",
+      "target_person": "man slipping into a coma",
+      "target_gender": "male",
+      "cause_raw": "his children and his work for the government",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP2362_holly",
+      "emotion": "pride",
+      "dialogue": "Good, I hope you don't die!  John!  Dean?  I am so proud of you.  Thanks, Pop.  Isn't he great?  Dean.",
+      "target_person": "Pop",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2363_holly",
+      "emotion": "pride",
+      "dialogue": "We used every lesson you ever taught us to help get him for you.  He's a Solomon. We even named him after you.  I'm so proud of you boys.  You did good.  Hands in.",
+      "target_person": "boys",
+      "target_gender": "male",
+      "cause_raw": "for using lessons taught and naming a child after the speaker",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

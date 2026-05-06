@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "46623",
+    "title": "Cimarron",
+    "year": "1960",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/9xPw8iIAWymvNBG0D7kSt45M9c2.jpg",
+    "overview": "The epic story of a family involved in the Oklahoma Land Rush of April 22, 1889."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS707_holly",
+      "emotion": "shame",
+      "dialogue": "If you disgrace me, make a laughingstock of me... What's she to you?  What's she to you?  - Proceed. - And that, Your Honor... the integrity of our fair city... is threatened... sullied by this shameless evil... flaunting in our faces.  flaunting in our faces.  This woman, a viper lurking in our midst... a sinister menace to public decency.",
+      "target_person": "Unnamed Woman",
+      "target_gender": "female",
+      "cause_raw": "public indecency",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS708_holly",
+      "emotion": "shame",
+      "dialogue": "I've studied enough geology, and they need new engineers out there.  You're not fooling me for one moment, young man. It's Ruby.  Well... Why, I should think you'd be ashamed of yourself... mooning around with an Indian hired girl.  mooning around with an Indian hired girl.  Ruby isn't an Indian hired girl. She's the daughter of an Osage chief.",
+      "target_person": "Ruby",
+      "target_gender": "female",
+      "cause_raw": "being romantically involved with someone of a different race",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WP1399_holly",
+      "emotion": "pride",
+      "dialogue": "Don't you worry about it, sugar. Doctor Valien'll be right over.  Darling. I'm so grateful it isn't worse.  The whole town's so proud of what you've done... getting rid of those bandits and outlaws.  getting rid of those bandits and outlaws.  Just think, all that money.",
+      "target_person": "whole town",
+      "target_gender": "unclear",
+      "cause_raw": "getting rid of bandits and outlaws",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1400_holly",
+      "emotion": "pride",
+      "dialogue": "The state bankers will be very pleased to see you in Congress, Mrs. Cravat.  Thank you.  We're proud of a woman who has done what you have done... alone.  alone.  I feel as you have always felt.",
+      "target_person": "Mrs. Cravat",
+      "target_gender": "female",
+      "cause_raw": "achieving something significant alone",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

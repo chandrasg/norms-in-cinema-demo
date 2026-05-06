@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "161218",
+    "title": "Yeh Hai Jalwa",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/mkyJsWJYfd1CBwU8ugGzhOQzVvA.jpg",
+    "overview": "Raju, a businessman who had been orphaned as a child finds out that he is the illegitimate son of a wealthy business owner; he goes to London to connect with his father, and there meets Sonia, whom he believes may be the love of his life."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2610_bolly",
+      "emotion": "pride",
+      "dialogue": "No news? - The new cricket team London-based Rajesh Purushottam Mittal is businessman of the year Indians and people of Indian origin all over the world take pride...in the fact that an Indian has bagged England's most prestigious award Rajesh Mittal will be presented the award on the 20th of this month Ma... do you see? Papa is alive",
+      "target_person": "Indians and people of Indian origin all over the world",
+      "target_gender": "male",
+      "cause_raw": "Indian winning prestigious award",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p2611_bolly",
+      "emotion": "pride",
+      "dialogue": "Daddy, come up on stage Daddy... grandfather...?Fortunate is a man who sees his son overtake him up the ladders of success A fortunate father, I am and I'm proud of my son Rajesh More than my son, I'm proud that an Indian who has won this award A woman is behind my success. At my every step what inspired me...\"was her love, her companionship... none other than my wife Smita Mittal\"",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's success",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2612_bolly",
+      "emotion": "pride",
+      "dialogue": "Daddy... grandfather...?Fortunate is a man who sees his son overtake him up the ladders of success A fortunate father, I am and I'm proud of my son Rajesh More than my son, I'm proud that an Indian who has won this award A woman is behind my success. At my every step what inspired me...\"was her love, her companionship... none other than my wife Smita Mittal\" I'm very fortunate to have Smita for my wife",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's success",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

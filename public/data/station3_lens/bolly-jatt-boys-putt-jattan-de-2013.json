@@ -1,0 +1,129 @@
+{
+  "film": {
+    "id": "215775",
+    "title": "Jatt Boys Putt Jattan De",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vSRF7Tqs6fazyfQn7WutjLGpVxL.jpg",
+    "overview": "The Movie story is based on A Generation Gap. This Movie tries to break the gap, keeping the old and new generation intact with there emotions and with there roots. City life and rural life intact. This movie is not revolving around Jatt Story / Revenge. This movie kept the cast away. The movie sured Jatts are not the only cast who are farmers and these Jatts have one dialogue in common, if they don't speak with each other, they don't either fight with each other. In the movie they have sured old culture songs and also new today generation songs"
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2700_bolly",
+      "emotion": "shame",
+      "dialogue": "No, sir. - Then why are you standing? Then we'll sit down. Don't you feel ashamed? Yourteacher is standing and you'resitting. Then we'll stand up. You keep sitting and standing before me.",
+      "target_person": "students",
+      "target_gender": "unclear",
+      "cause_raw": "disrespect towards teacher",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2701_bolly",
+      "emotion": "shame",
+      "dialogue": "The one who wants it should be courageous....you can get a mansion by taking a loan....and find a girl over the phone in less than a minute. I think you are sated today that you are doing such things. You are playing pranks with you professor....don't you hav eany shame in you? - I do. Then? - I don't feel it. Why would you feel any shame?",
+      "target_person": "student",
+      "target_gender": "male",
+      "cause_raw": "disrespecting professor",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2702_bolly",
+      "emotion": "shame",
+      "dialogue": "You are playing pranks with you professor....don't you have any shame in you? - I do. Then? - I don't feel it. Why would you feel any shame? I'm hereto feel it. You've been in the same class since three years.",
+      "target_person": "student",
+      "target_gender": "unclear",
+      "cause_raw": "not taking studies seriously",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2703_bolly",
+      "emotion": "shame",
+      "dialogue": "Please spare me, ma'am. I'll be ruined if anyone sees me here. Don't you have any shame? Where were you for so many days? When I came to know that you've come to college....I went looking for you but you were gone again.",
+      "target_person": "character 1",
+      "target_gender": "female",
+      "cause_raw": "avoiding character 2",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1430_bolly",
+      "emotion": "pride",
+      "dialogue": "You forget your mother after going to college. Can that ever be possible, my darling mother? This is why i'm so proud of my son. isn't there a difference between your city and our village? I'll  have to agree on one thing, father.- What?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's respect towards mother",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1431_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm true to my word. Don't consider it to bean empty threat. Anyone who threatens my pride..''..never comes back to this world.'' Hearing my war call, people have gathered around. It's either me or him, today.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "defending pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1432_bolly",
+      "emotion": "pride",
+      "dialogue": "What was all that if you didn't love me? Seerat, I did all that to teach Sanwal a lesson. It was just for the sake of pride and nothing else. That's why i never crossed the boundary of friendship. And you know that very well.",
+      "target_person": "Seerat",
+      "target_gender": "female",
+      "cause_raw": "teaching Sanwal a lesson",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1433_bolly",
+      "emotion": "pride",
+      "dialogue": "Hello? - Wake up, Waris, my dear. Who is it? The one who holds his pride high, your brotherJolly Don. Yes, tell me. Your buddy and his girl..The one who was yours earlier then she became his....and soon she will be mine.",
+      "target_person": "Jolly Don",
+      "target_gender": "male",
+      "cause_raw": "winning over a girl",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

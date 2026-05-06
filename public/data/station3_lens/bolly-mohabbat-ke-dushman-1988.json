@@ -1,0 +1,116 @@
+{
+  "film": {
+    "id": "310735",
+    "title": "Mohabbat Ke Dushman",
+    "year": "1988",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/g9UnjAMbEPj6HB8vGvR0CI3DW3j.jpg",
+    "overview": "Rehmat Khan (Raaj Kumar) is the wise leader of a tribe of frontiersmen. After the malevolent leader of a neighboring tribe (Amrish Puri) kidnaps the beautiful Shama (Hema Malini), the woman escapes and seeks refuge in Khan's camp. When Khan falls for her, their love threatens to spark a bloody tribal war in this drama from Prakash Mehra. The Kalyanji-Anandji soundtrack features \"Allah Kare Maula Kare\" and \"Bahut Kat Chuka Hai.\""
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3580_bolly",
+      "emotion": "shame",
+      "dialogue": "You wanted to be Rehmat's mistress, right? He didn't accept you. But I'm not like that wretched Rehmat Khan. Imbecile! Shame on the mother who gave birth to you. Labbaq, this courtesan has crossed her limit. Shame on your manhood. Fear God.",
+      "target_person": "courtesan",
+      "target_gender": "female",
+      "cause_raw": "being rejected by a man and crossing societal boundaries",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3581_bolly",
+      "emotion": "shame",
+      "dialogue": "Imbecile! Shame on the mother who gave birth to you. Labbaq, this courtesan has crossed her limit. Shame on your manhood. Fear God. On the day of judgement the angels of sins and merits......will hold you accountable for each day of your life. Labbaq...I understand what Shama Jaan said.",
+      "target_person": "Labbaq",
+      "target_gender": "male",
+      "cause_raw": "Disrespectful behavior",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3582_bolly",
+      "emotion": "shame",
+      "dialogue": "You children have done an amazing job. Children? What did you say? Aren't you ashamed of calling us children? What else can I say at this age? God willing, if I get back my youth......then we can change the relationship, too.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being called a child",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3583_bolly",
+      "emotion": "shame",
+      "dialogue": "Rehmat Khan brags about his principles. And he's out to marry Reshma who is of his daughter's age? Shame on him. Labaah, if I would've done this......people would've said, Wow, Shahbaaz Khan. Wow. Got to hand it to you for your principles.",
+      "target_person": "Rehmat Khan",
+      "target_gender": "male",
+      "cause_raw": "marrying a girl of his daughter's age",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1900_bolly",
+      "emotion": "pride",
+      "dialogue": "But what's my crime, madam? Your crime. Your crime is that you've tried to eye your master's pride......despite being an ordinary servant. You've dared to ask for the hand......of the woman you're supposed to serve in the future. What? How dare you?",
+      "target_person": "master",
+      "target_gender": "male",
+      "cause_raw": "servant's audacity to ask for his daughter's hand",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1901_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't do this for God's sake. Otherwise, Mr. Khan will be disgraced. How can someone whose love is being reduced to dust......think about someone else's pride? Just think about it. When there was no one......to protect you after Bhai Abbu's death......Mr. Khan not only gave you refuge but love as well. He gave your respect.",
+      "target_person": "Mr. Khan",
+      "target_gender": "male",
+      "cause_raw": "providing refuge and love",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1902_bolly",
+      "emotion": "pride",
+      "dialogue": "And listen, if we had abducted the girl earlier......we would've abducted just an ordinary girl. But now we'll abduct Rehmat Khan's soontobe wife. The pride of that family. Isn't it? Yes. Labbah, tell our men to spread a trap all around......and present that Reshma before me at any cost.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

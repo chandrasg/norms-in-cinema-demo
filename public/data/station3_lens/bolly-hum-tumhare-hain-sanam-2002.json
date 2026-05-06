@@ -1,0 +1,95 @@
+{
+  "film": {
+    "id": "90634",
+    "title": "Hum Tumhare Hain Sanam",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/46IXH3NtlWv2i7IeFigT5yb5T5.jpg",
+    "overview": "Radha and Suraj have been friends since childhood. Gopal has been in love with Radha ever since they spent a few years together as kids. Years later, Gopal's guardian proposes to Radha a marriage with Gopal, and she accepts."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2502_bolly",
+      "emotion": "shame",
+      "dialogue": "Wait. What are you doing?  I am changing. - You are removing your shirt .. ..in someone else's house in front of someone else's wife.  Aren't you ashamed? Shameless!  Don't dare to remove your shirt in front of someone.  Thinks himself to be a wrestler.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior in front of a woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2503_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't you know omelets are made of eggs?  Why do you have to talk to other's wives?  And aren't you ashamed?  But you had told me before.. Here talk. Continue talking.  I am sorry, I disturbed you. Go on.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "talking to other's wives",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2504_bolly",
+      "emotion": "shame",
+      "dialogue": "I got the money but there's no love in our relationship.  I experienced happiness only in your arms.  Aren't you ashamed to talk like that?  Who are you? - Who am I?  I am a husband. Husband.. Who works the whole day but doesn't know where his wife is.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2505_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you up to? What? What are you doing? - I'm trying this shirt. Aren't you ashamed to strip before another man's wife? lll-mannered man! Don't you dare take off your shirt before anyone else again!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "stripping in front of another man's wife",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2506_bolly",
+      "emotion": "shame",
+      "dialogue": "Of eggs! - idiot! We make omelets only out of eggs! You talk to other people's wives! Aren't you ashamed to be talking to people like this? But you told me, didn't you? Go ahead and talk... I'm sorry I disturbed you.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "talking to other people's wives",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2507_bolly",
+      "emotion": "shame",
+      "dialogue": "Truth is that I have got only money from my husband, not any happiness. You are the one in whose arms I have found happiness. Aren't you ashamed to be talking such rubbish here? Who are you? - I...?A husband who slogs all day without knowing where his wife is! I'm not like him to have a nice time with other people's wives!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    }
+  ]
+}

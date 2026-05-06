@@ -1,0 +1,97 @@
+{
+  "film": {
+    "id": "93519",
+    "title": "Karan Arjun",
+    "year": "1995",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/uYhjsC9gCKhxiG2enkCJgdLOXjB.jpg",
+    "overview": "Karan and Arjun reincarnate in the different parts of the country. But the faith of their previous mother brings them together in order to avenge their death."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2990_bolly",
+      "emotion": "shame",
+      "dialogue": "- But... - If you become adamant...Then not you, but your corpse will leave for the city! - Apologize? - Yes dear. I am ashamed of my deeds. I fixed your marriage in the wrong family. The man who can threaten to kill his friend...He is capable of anything.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "fixing marriage in a wrong family",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2992_bolly",
+      "emotion": "shame",
+      "dialogue": "But... If you become adamant...Then not you, but your corpse will leave for the city! Apologise? Yes dear. I am ashamed of my deeds. I fixed your marriage in the wrong family. The man who can threaten to kill his friend...He is capable of anything.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "wrong decision making",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1535_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't cry son. Our son will grow into a big man. Even God will feel proud of him. All thanks to Pestonbhai. I work in his Riding Club and eke out a living.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's future growth and success",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1536_bolly",
+      "emotion": "pride",
+      "dialogue": "Arrest him! We are Thakurs by birth. Pride and anger courses through our veins along with blood. Whenever our women step in the quicksand of disrepute...We have them buried alive in the walls of our homes! But the love of my son holds me back.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "maintaining family honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1539_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't cry son. Our son will grow into a big man. Even God will feel proud of him. All thanks to Pestonbhai. I work in his Riding Club and eke out a living.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's future achievements",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1540_bolly",
+      "emotion": "pride",
+      "dialogue": "Arrest him! We are Thakurs by birth. Pride and anger courses through our veins along with blood. Whenever our women step in the quicksand of disrepute...We have them buried alive in the walls of our homes! But the love of my son holds me back.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "maintaining family honor",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

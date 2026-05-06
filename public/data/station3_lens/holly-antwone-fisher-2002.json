@@ -1,0 +1,128 @@
+{
+  "film": {
+    "id": "13435",
+    "title": "Antwone Fisher",
+    "year": "2002",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/j9lCK1aFXqMO3hzhGiqCNU8coIX.jpg",
+    "overview": "A sailor prone to violent outbursts is sent to a naval psychiatrist for help. Refusing at first to open up, the young man eventually breaks down and reveals a horrific childhood. Through the guidance of his doctor, he confronts his painful past and begins a quest to find the family he never knew."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 3,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1088_holly",
+      "emotion": "shame",
+      "dialogue": "- Did he beat you? - No, sir.  I think he pitied me.  And I liked him for it, but I was ashamed of him.  What about Mrs. Tate?  What about her?",
+      "target_person": "him",
+      "target_gender": "male",
+      "cause_raw": "being pitied",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS1089_holly",
+      "emotion": "shame",
+      "dialogue": "So, why- why are you seein' a psychiatrist?  My life before the navy was kind of complicated.  - I was feelin' ashamed. - Of what?  Of bein' unwanted.  And, uh... I didn't have no parents.",
+      "target_person": "Unidentified character",
+      "target_gender": "male",
+      "cause_raw": "feeling unwanted and parentless",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1090_holly",
+      "emotion": "shame",
+      "dialogue": "Until one day, a young man came into my office and into my life... and he blew up that little secret... right in my face.  and he blew up that little secret... right in my face.  And he put me to shame in a way I never thought possible.  Because of you, Antwone, I'm a better doctor... and I'm learning to be a better husband.  and I'm learning to be a better husband.",
+      "target_person": "Doctor",
+      "target_gender": "male",
+      "cause_raw": "professional incompetence",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "WP2072_holly",
+      "emotion": "pride",
+      "dialogue": "- Celebrate! - ♪♪ - Reverend Tate—  He didn't like Dwight at all.  He said he had too much pride.  So he tried to beat it out of him.  Sometimes he would even try to beat him to death.",
+      "target_person": "Reverend Tate",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2073_holly",
+      "emotion": "pride",
+      "dialogue": "Was Mrs. Tate ever—|  - Was she ever nice to you? - Yeah, there were times.  Sometimes she would tell her friends that... we were good kids and that she was proud of us- Chummy times.  we were good kids and that she was proud of us- Chummy times.  - Chummy times? - Yeah.",
+      "target_person": "Mrs. Tate",
+      "target_gender": "female",
+      "cause_raw": "for being good kids",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP2074_holly",
+      "emotion": "pride",
+      "dialogue": "- Was she ever nice to you? - Yeah, there were times.  Sometimes she would tell her friends that... we were good kids and that she was proud of us- Chummy times.  we were good kids and that she was proud of us- Chummy times.  - Chummy times? - Yeah.  I got to where I can tell what kind of day it was gonna be... by the scent in the air when I awoke.",
+      "target_person": "She",
+      "target_gender": "female",
+      "cause_raw": "for her kids being good",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2075_holly",
+      "emotion": "pride",
+      "dialogue": "Yes, you are, Antwone. You're good.  I'm hearing nothin' but good things from your C. O.  Hear that you're gettin' along very well with your shipmates. I'm proud of you.  - Thank you, sir. - Have you thought anymore about finding your family?  I don't know. For what?",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "Antwone's good behavior and getting along with shipmates",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2076_holly",
+      "emotion": "pride",
+      "dialogue": "Well, I just think that there's really nothing more important than that, Antwone.  What are you tryin' to say, sir?  That I'm proud of you, that I think you've come a long way.  Okay. You said that. What's wrong?  There's nothin' wrong.",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "Antwone's personal growth",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

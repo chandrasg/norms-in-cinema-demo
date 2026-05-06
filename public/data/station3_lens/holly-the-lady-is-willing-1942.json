@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "52846",
+    "title": "The Lady Is Willing",
+    "year": "1942",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/2yBgpaecq3Sstv2a3RmNsS4k9FS.jpg",
+    "overview": "Bold, eccentric Broadway performer Elizabeth Madden befuddles her handlers by coming home with a baby she picked up on the street. She wants to keep the baby but has to find a husband to make adoption viable. She offers her new obstetrician Dr. McBain help with his research on rabbits in exchange for marriage - and he accepts. The marriage of convenience turns into a marriage of real love until Dr. McBain's ex-wife comes looking for money."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS944_holly",
+      "emotion": "shame",
+      "dialogue": "Uh, that was... One of the small personal disasters that interrupted your work?  One of the small personal disasters that interrupted your work?  Shame on you for forgetting!  Ain't nobody coming fresh into this house without first she's toted over the doorstep!  Oh, Mary Lou, don't be so sentimental.",
+      "target_person": "Mary Lou",
+      "target_gender": "female",
+      "cause_raw": "forgetting personal disasters",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP1761_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, yes. Very funny.  Uh, Doctor McBain, did you say? That's right.  Not Doctor Corey T McBain? Yes. Liza... I'm very proud to attend the baby of such a well-known colleague.  I'm very proud to attend the baby of such a well-known colleague.  A slight temperature, restlessness at night, a cold coming on. Wouldn't you say, Doctor?",
+      "target_person": "Doctor McBain",
+      "target_gender": "male",
+      "cause_raw": "being a well-known colleague",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1762_holly",
+      "emotion": "pride",
+      "dialogue": "Uh, Doctor McBain, did you say? That's right.  Not Doctor Corey T McBain? Yes. Liza... I'm very proud to attend the baby of such a well-known colleague.  I'm very proud to attend the baby of such a well-known colleague.  A slight temperature, restlessness at night, a cold coming on. Wouldn't you say, Doctor?  It wouldn't be ethical for me to give an opinion.",
+      "target_person": "Doctor McBain",
+      "target_gender": "male",
+      "cause_raw": "being a well-known colleague",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

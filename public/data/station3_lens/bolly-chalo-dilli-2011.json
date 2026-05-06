@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "63468",
+    "title": "Chalo Dilli",
+    "year": "2011",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9IAHOSZpWxyHbK40WmUFJq2Bwuh.jpg",
+    "overview": "Mihika, an investment banker, misses her flight to Delhi and meets Manu Gupta, a very talkative man. In order to reach Delhi on time, she must tag along with him on a road trip and put up with his antics."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s702_bolly",
+      "emotion": "shame",
+      "dialogue": "Vibha could make the witches look kind! You don't know her. Aren't you ashamed? You are mocking your wife publicly. I am mocking my own wife and not his.",
+      "target_person": "Vibha's husband",
+      "target_gender": "male",
+      "cause_raw": "disrespecting his wife publicly",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s703_bolly",
+      "emotion": "shame",
+      "dialogue": "The riots have ended a long time ago. You civilians really are..We fight the enemies at the border.....and you fight amongst yourselves. You civilians should be ashamed. You don't have any sense. Let's go.",
+      "target_person": "civilians",
+      "target_gender": "unclear",
+      "cause_raw": "fighting amongst themselves",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s704_bolly",
+      "emotion": "shame",
+      "dialogue": "How sure? 100 percent. You are a shameless woman. There's a guest at Home who has come for the first time.....and you didn't even ask her for water. She has grown lazy.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "not fulfilling expected hospitality norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p360_bolly",
+      "emotion": "pride",
+      "dialogue": "It's quite high. - High and safe. Isn't that so, Dharampal? This vehicle has the pride of a king, isn't that true? Rules over the roads There goes a tiny tempo..And there goes that ant sized scooter",
+      "target_person": "Dharampal",
+      "target_gender": "male",
+      "cause_raw": "owning a large vehicle",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

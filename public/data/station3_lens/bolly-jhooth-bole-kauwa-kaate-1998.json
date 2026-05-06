@@ -1,0 +1,136 @@
+{
+  "film": {
+    "id": "166234",
+    "title": "Jhooth Bole Kauwa Kaate",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/vk7sYgPmN4e9kdMDlcncHKoizzs.jpg",
+    "overview": "Abhyankar is an orthodox head of his family, a retired police officer, he has values which he wants his family to also uphold. As a result of his values, his daughter is unable to be forthright and is unable to introduce the young man she loves. She concocts a scheme whereby her father would approve of her lover. What results is quite hilarious."
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2745_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey, you! Come out. I say, out! Aren't you ashamed of stealing chocolates early in the morning? You ought to be ashamed! The thief is accusing the police?",
+      "target_person": "thief",
+      "target_gender": "unclear",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s2746_bolly",
+      "emotion": "shame",
+      "dialogue": "I say, out! Aren't you ashamed of stealing chocolates early in the morning? You ought to be ashamed! The thief is accusing the police? You steal, and I should be ashamed?!",
+      "target_person": "child",
+      "target_gender": "unclear",
+      "cause_raw": "stealing chocolates",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s2747_bolly",
+      "emotion": "shame",
+      "dialogue": "You ought to be ashamed! The thief is accusing the police? You steal, and I should be ashamed?! Yes! I asked for a chocolate twice but you didn't even bother to look!",
+      "target_person": "police",
+      "target_gender": "unclear",
+      "cause_raw": "neglecting a request",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2748_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh? So, you're a burden on your elder brother? No, I'm not! Father has left us quite a lot of money. What a shame! Despite being a healthy, young man, you live off your father's wealth? A young man works and stands on his feet, but you...Why have you stood up?",
+      "target_person": "younger brother",
+      "target_gender": "male",
+      "cause_raw": "living off father's wealth instead of working",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2749_bolly",
+      "emotion": "shame",
+      "dialogue": "A big burden has been relieved of my shoulders. I feared, you were in England, so you'd fall for a girl there. Father! I swear by you, I have not done anything......which will put you and me to shame. This is what I expect of you, son. I've chosen a girl for you here.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "falling for a foreign girl",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2750_bolly",
+      "emotion": "shame",
+      "dialogue": "I know it! You knew each other from before! But I want to hear you say it! What a shame! Even you were a part of this wretched conspiracy? What a shame! Your older brother's death was God's wish. I tolerated it!",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "betrayal and conspiracy",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2751_bolly",
+      "emotion": "shame",
+      "dialogue": "But I want to hear you say it! What a shame! Even you were a part of this wretched conspiracy? What a shame! Your older brother's death was God's wish. I tolerated it! I had imbibed within you certain principles & culture, and......raised you.",
+      "target_person": "younger brother",
+      "target_gender": "male",
+      "cause_raw": "betrayal and conspiracy",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2752_bolly",
+      "emotion": "shame",
+      "dialogue": "Folly?! Staying in a girl's room......for an entire night disguised as a girl. Shameless man! Do you call this as folly?! - This is not true! - Sister-in-law! - This is not true! - Please rest inside!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "staying in a girl's room disguised as a girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1443_bolly",
+      "emotion": "pride",
+      "dialogue": "Of course, I've passed my M.A. With a first class. I've also earned a little name in sports and music. I can also proudly call myself, a man of character. Father has left behind a house a car and money worth millions. I also have a godlike brother and sister-in-law at home.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "personal achievements and family wealth",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

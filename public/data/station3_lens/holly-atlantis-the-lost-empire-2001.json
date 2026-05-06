@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "10865",
+    "title": "Atlantis: The Lost Empire",
+    "year": "2001",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/rdCyK9hgoA2vYrLtVFpDc3KWBaC.jpg",
+    "overview": "A young linguist named Milo Thatch joins an intrepid group of explorers to find the mysterious lost continent of Atlantis."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS984_holly",
+      "emotion": "shame",
+      "dialogue": "Tired, Mr. Thatch?  Hyah!  Aw, that's a darn shame... because I'm just getting warmed up.  because I'm just getting warmed up.  Aah!",
+      "target_person": "Mr. Thatch",
+      "target_gender": "male",
+      "cause_raw": "being physically weak or tired",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP1845_holly",
+      "emotion": "pride",
+      "dialogue": "- Mr. Whitmore. - Rourke.  It's time.  - Bye, Mr. Whitmore! - Make us proud, boy!  Rig ship for dive!  Aye, sir! Rig ship for dive.",
+      "target_person": "Mr. Whitmore",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1846_holly",
+      "emotion": "pride",
+      "dialogue": "to open up that second garage after all.  And, Vinny, you can start a whole chain of flower shops.  I'm sure your family's going to be very proud.  But that's what it's all about, right?  Money.",
+      "target_person": "Vinny",
+      "target_gender": "male",
+      "cause_raw": "starting a chain of flower shops",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1847_holly",
+      "emotion": "pride",
+      "dialogue": "We're this close to our biggest payday ever... and you pick now of all times to grow a conscience.  and you pick now of all times to grow a conscience.  We've done a lot of things we're not proud of... robbing graves, plundering tombs... double parking... but nobody got hurt.  but nobody got hurt.  Well, maybe somebody got hurt... but nobody we knew.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

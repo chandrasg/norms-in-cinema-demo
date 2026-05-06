@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "331560",
+    "title": "Bewafai",
+    "year": "1985",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/dPKs4cL9WKDgb373tIwLEflE3Fe.jpg",
+    "overview": "Asha's jealousy gets the better of her when she finds out that the man she loves, Ashok, is showering attention to Vinny, a woman Asha beats up later, and Renu, a woman who has a cognitive disorder."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s532_bolly",
+      "emotion": "shame",
+      "dialogue": "We studied in the same college . He is my...Friend? He's my slave . - What...?Yes. What can he offer you? I can make him work for you Tell me, will you be mine? - Aren't you ashamed to say that? When a girl  and a stranger meet in a secluded  place ...between the two of them where comes privacy and shame? Let go!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being with a man in a secluded place",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s533_bolly",
+      "emotion": "shame",
+      "dialogue": "He's my slave . - What...?Yes. What can he offer you? I can make him work for you Tell me, will you be mine? - Aren't you ashamed to say that? When a girl  and a stranger meet in a secluded  place ...between the two of them where comes privacy and shame? Let go! Please  let me go!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being in a secluded place with a stranger",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p233_bolly",
+      "emotion": "pride",
+      "dialogue": "He's my enemy too But he's very  clever  Unless his pride is shattered, man thinks he's the cat's whiskers If you don't trust me, send your man  along But this  should be just between us",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

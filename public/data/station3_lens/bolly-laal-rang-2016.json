@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "393423",
+    "title": "Laal Rang",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5koaZYQ0s63c7wlX6k75qS9QCpF.jpg",
+    "overview": "The lives and friendship of two men involved in blood theft and trading are affected by greed, girlfriends, cops and an unexpected death."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3243_bolly",
+      "emotion": "shame",
+      "dialogue": "Fine. Give me money. Such a grown up boy. Don't you feel ashamed to ask money from your father! I was getting you a good government job! Two peons in one family.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "financial dependence on parents",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3244_bolly",
+      "emotion": "shame",
+      "dialogue": "You're bleeding. What are you two up to? What filthy business is going on here! Get out you shameless girl! Get lost from here Shameless.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "engaging in inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3245_bolly",
+      "emotion": "shame",
+      "dialogue": "What filthy business is going on here! Get out you shameless girl! Get lost from here Shameless. A blood donation camp is in process here, not a blue film! - Sorry, sir. - Don't be seen here again.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior in public",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1712_bolly",
+      "emotion": "pride",
+      "dialogue": "And you also fell in love Lad, you became a man now. Just keep guiding me this way brother.. One day, this kid will make you proud. But I fear one thing What is that?",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "guidance leading to success",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p1713_bolly",
+      "emotion": "pride",
+      "dialogue": "He has got high connections. You will be fine.. hasn't Gajraj told you so..- Now will you tell the SP or should I? - No, I’ll go. On the way to make me proud? Harnam said you have made a deal with the SP. What option did I have brother?",
+      "target_person": "Harnam",
+      "target_gender": "male",
+      "cause_raw": "making a deal with the SP",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

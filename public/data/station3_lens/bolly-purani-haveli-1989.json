@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "98126",
+    "title": "Purani Haveli",
+    "year": "1989",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vs0GKtl9cuyAwhZ1KhpHF4NhmX5.jpg",
+    "overview": "After the passing away of her parents, Anita Kumar now lives with her paternal uncle, Kumar; his wife, Seema; and Seema's brother, Vikram. The family's business is taken over by Kumar, who uses some money to buy an old mansion deep in the countryside of Rana. Seema would like Anita to marry her brother, but Anita has already given her heart to Sunil, who runs a photo studio and is poor. This does not go over well with the Kumars, and they forbid her to see Sunil anymore. Then, when Kumar goes to take possession of the mansion, Anita's friends Shobha and Anand ask her if they can visit the mansion and also invite Sunil secretly. They also invite several other friends, including Sunil's assistant Manghu and travel via a bus. What the group does not know that is the mansion holds an evil secret, and that beneath the mansion, locked in a dungeon by its very own biological father, lies a monster, evil beyond imagination--and its primary diet is human meat!!"
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1485_bolly",
+      "emotion": "shame",
+      "dialogue": "This hatred will cost you dearly The price of this hatred will be Sunil's life That cheap photographer wants to shame our family? I won't stand for it But you can stand for paying thugs to kill a poor man?",
+      "target_person": "Sunil",
+      "target_gender": "male",
+      "cause_raw": "being a low-income photographer",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1486_bolly",
+      "emotion": "shame",
+      "dialogue": "You'll go there, even if we have to drag you What's going on? This s**t has shamed our family What's Sunil got that Vikram hasn't? Seema is right. Vikram's a really great guy",
+      "target_person": "Seema",
+      "target_gender": "female",
+      "cause_raw": "Choosing a partner not approved by family",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1487_bolly",
+      "emotion": "shame",
+      "dialogue": "I guess... It must be love Shut up! Go away. Aren't you ashamed? Come on, darling, what's to be ashamed of? You're mine anyway",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love in public",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1488_bolly",
+      "emotion": "shame",
+      "dialogue": "Shut up! Go away. Aren't you ashamed? Come on, darling, what's to be ashamed of? You're mine anyway Why do we have to wait until we're married?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "premarital intimacy",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1489_bolly",
+      "emotion": "shame",
+      "dialogue": "My child. The chief spared your life Wow! A kind- hearted bandit See, Damar Singh...The Chief shamed you in front of the villagers Don't worry, Ranga He won't be Chief much longer",
+      "target_person": "Damar Singh",
+      "target_gender": "male",
+      "cause_raw": "Being spared by the chief",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

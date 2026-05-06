@@ -1,0 +1,111 @@
+{
+  "film": {
+    "id": "410306",
+    "title": "Aya Sawan Jhoom Ke",
+    "year": "1969",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/A22KSstkkVyxi0exrhQr6llqmQW.jpg",
+    "overview": "Wealthy Jaishankar meets and falls in love with Aarti, successfully woos her and agrees to meet with her dad to discuss their marriage. On the way there he ironically runs over him, killing him instantly. Guilt-ridden, he attempts to make amends to look after Aarti, her brother, Pappu, and sister, Mala, but conceals the fact that he was responsible for their father's death. Things get worse after Aarti not only discovers the truth, but also witnesses him getting intimate with a cabaret dancer, Rita. Then Jaishankar is first disowned by his father after the family find out that he had sired a son from Rita, and then subsequently arrested by the Police for killing Rita."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s273_bolly",
+      "emotion": "shame",
+      "dialogue": "You shouldn't be upset with your brother -OK, Mother Tie the Rakhi here -First give me a currency Where is Rajesh? -Do you feel ashamed to call him your......brother-in-law? -Of course. Because he is not on time. Aren't you a foreign returned man? Then why are you still...mcontinuing with the century old rituals A gentleman never forgets the rituals of his motherland",
+      "target_person": "Rajesh",
+      "target_gender": "male",
+      "cause_raw": "not respecting traditional rituals",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s274_bolly",
+      "emotion": "shame",
+      "dialogue": "But if I shout, it will cause a disaster Leave me. -No I am not going to leave you Aren't you ashamed to embrace a girl this way in broad daylight? Who are you to interfere? Darling, spread your love on me I must appreciate your manliness. Your face is like Devanand",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate public behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s275_bolly",
+      "emotion": "shame",
+      "dialogue": "We both can make a good match. It's nice to meet you. Your beard is also so nice. Let me touch it. Aren't you ashamed to play this way with a girl? Don't go away my love, as I can't enjoy without you The weather is so nice and still i can't enjoy it.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior with a girl",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s276_bolly",
+      "emotion": "shame",
+      "dialogue": "He might have some problem -What problem can he have? What would he say, even after coming here? He would have felt ashamed to know the hatred you've for him This hatred will not calm down even after my death Your father's death has made you sentimental.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "hatred towards him",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s277_bolly",
+      "emotion": "shame",
+      "dialogue": "Tell that you fall in love hundred times I regarded you as an honest lady But you turned out to be lowly Good that my friend informed me <i>&</i> I came to know your true......nature. Shame on both of you Don't take his words seriously. lam still with you. He just could not bear to see me happy so he came to spoil things",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "dishonesty in love",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s278_bolly",
+      "emotion": "shame",
+      "dialogue": "You have always regarded Jai as your brother. Please save him. I regret that I considered a wrong person to be my brother Now I feel ashamed to call him my brother. I hate him now. What are you doing? Throw away his photo Don't trouble my sister anymore. Take care of my father.",
+      "target_person": "Jai",
+      "target_gender": "male",
+      "cause_raw": "Betrayal",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p110_bolly",
+      "emotion": "pride",
+      "dialogue": "To protect his sister's husband, he put his life into risk. You are a great mother, who gave birth to a son like him. You should feel proud that Jai is your brother. Who committed the murder then? -I did -That can't be true This is true. I decieved you and father and myself too.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "son's bravery and sacrifice",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

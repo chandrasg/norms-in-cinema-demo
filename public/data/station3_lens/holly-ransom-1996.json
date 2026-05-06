@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "3595",
+    "title": "Ransom",
+    "year": "1996",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/4nmOA5ZOY2VlHzwSlKY03sF2JUz.jpg",
+    "overview": "When a rich man's son is kidnapped, he cooperates with the police at first but then tries a unique tactic against the criminals."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1244_holly",
+      "emotion": "pride",
+      "dialogue": "- Yeah. - Mullen, you're a fool!  Stupid a*s!  I'm proud of you!  A pair of armed bandits held 'em up last night.  Police say a pair of gun-toting crooks went into the Korean church at Murray Street... in Flushing last night and announced a robbery.",
+      "target_person": "Mullen",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1245_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah. Well, I'm surprised to see you up and about so quick.  - Uh, uh, Fatima, this is, uh, Jimmy Shaker. - Hi.  I'm very proud to meet you.  - Very proud. - Thanks.  How's the, uh, kid doin'?",
+      "target_person": "Jimmy Shaker",
+      "target_gender": "male",
+      "cause_raw": "meeting Fatima",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1246_holly",
+      "emotion": "pride",
+      "dialogue": "- Uh, uh, Fatima, this is, uh, Jimmy Shaker. - Hi.  I'm very proud to meet you.  - Very proud. - Thanks.  How's the, uh, kid doin'?  Oh, he's fine, you know, all things considered.",
+      "target_person": "Jimmy Shaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1247_holly",
+      "emotion": "pride",
+      "dialogue": "- Nice to meet you. - Yeah? You too.  - How you doin', Mr Mullen? Good to meet you. - Hey.  Just wanna shake your hand, boss. You made us proud.  - Well, you know, just doin' the job. - Yeah.  What do you think of this guy, Mr Mullen?",
+      "target_person": "Mr Mullen",
+      "target_gender": "male",
+      "cause_raw": "doing his job",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

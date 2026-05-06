@@ -1,0 +1,111 @@
+{
+  "film": {
+    "id": "499179",
+    "title": "Saathi",
+    "year": "1968",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gQG7ZwS4JKl6SynrqO9UXSRrnMc.jpg",
+    "overview": "Dr. Ravi returns from abroad and takes up position as Chief Surgeon in a hospital. He then meets with Nurse Shanti, who lives an impoverished lifestyle with her ailing mother, and decides to perform surgery, but she passes away, and a guilt-ridden Ravi marries Shanti much to the chagrin of his mentor, Kaka, who had hoped that he would marry his daughter, Rajni. The couple then travel to Kashmir for their honey-moon, and then settle down to a harmonious relationship. Hoping to travel even more, their plans are interrupted by the hospital's head doctor, who wants Ravi to focus on cancer research. The couple drop all travel plans and immerse themselves in research so much so that Shanti herself becomes ill."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Patriotism",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1817_bolly",
+      "emotion": "shame",
+      "dialogue": "Because of me your daughter's life too has been turned to a hell! Yes. I could never forget Shanti. I could never be a husband to Rajni. I'm so ashamed to face you, Rajni and also myself. You're here! You've high fever. How come you're here? What happened, Daddy?",
+      "target_person": "character speaking",
+      "target_gender": "male",
+      "cause_raw": "not being a good husband",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1818_bolly",
+      "emotion": "shame",
+      "dialogue": "Not at all... I'll fulfill your every wish. Think it over. - What for? If I can't fulfill your wish, while I'm going away...then it's a shame on me! I promise not to disappoint you. If a doctor and a nurse marry they can always be happy.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "not fulfilling someone's wish",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p927_bolly",
+      "emotion": "pride",
+      "dialogue": "It's as though then sun has risen in my house tonight, who is he? Dr. Ravi, meet your colleagues. We're very proud that a doctor of your caliber has agreed to join us. And I'm proud that I can serve my countrymen with you all. Well said, doctor!",
+      "target_person": "Dr. Ravi",
+      "target_gender": "male",
+      "cause_raw": "serving his countrymen",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p928_bolly",
+      "emotion": "pride",
+      "dialogue": "Dr. Ravi, meet your colleagues. We're very proud that a doctor of your caliber has agreed to join us. And I'm proud that I can serve my countrymen with you all. Well said, doctor! I've got a letter from home again. - I'll read it to you when I'm free.",
+      "target_person": "Dr. Ravi",
+      "target_gender": "male",
+      "cause_raw": "serving countrymen",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p929_bolly",
+      "emotion": "pride",
+      "dialogue": "Congratulations. The honor given to you by the Vienna Academy for your research...is bestowed on very few doctors in this world. Dr. Ravi should he very proud of his achievement. No. My achievement is incomplete. My aim is still far off.",
+      "target_person": "Dr. Ravi",
+      "target_gender": "male",
+      "cause_raw": "receiving honor from Vienna Academy for research",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p930_bolly",
+      "emotion": "pride",
+      "dialogue": "It will only make you sadder. - No, Sharda. It's the cure for all my sorrows ...the salve for my every wound. My peace of mind...For what I lost... I do not grieve. I'm proud for what I had once. Read, for God's sake! I heard bangles tinkle near my ear. And once again a day dawned",
+      "target_person": "Sharda",
+      "target_gender": "female",
+      "cause_raw": "having something valuable in the past",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p931_bolly",
+      "emotion": "pride",
+      "dialogue": "My heart was heavy with guilt. There's only one way to be rid of it. Returning your happiness to you! Bravo! I'm very proud of you, dear. Here you are, Shanti. Cherish him. Your husband... your home. Bless me, Daddy.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "returning happiness to family",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

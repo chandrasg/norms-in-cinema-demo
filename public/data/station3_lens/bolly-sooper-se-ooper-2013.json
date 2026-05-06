@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "241165",
+    "title": "Sooper Se Ooper",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/35b8k3SxmDGV45VQtww9Ha3PJX4.jpg",
+    "overview": "A city guy goes to rural Rajasthan to look for his uncle."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4233_bolly",
+      "emotion": "shame",
+      "dialogue": "Buttocks? - Yes. Buttocks. Your behind. Remove it. There is no coyness in behavior. People have become shameless. Or else everyone in the world is naked. What? Are you waiting for the right time?",
+      "target_person": "people",
+      "target_gender": "unclear",
+      "cause_raw": "indecent exposure",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s4234_bolly",
+      "emotion": "shame",
+      "dialogue": "If you are lying... - Let him go ahead and lie. Let him lie. Hey... - We will make him reach there. To Thakur. If you have shame......do go ahead and put your thumb impression... - No, no, don't do that. Even I am standing here. Hey, hey, don't be scared. Don't be scared. Put the impression. Come on.",
+      "target_person": "character being forced to lie",
+      "target_gender": "male",
+      "cause_raw": "being forced to lie",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p2314_bolly",
+      "emotion": "pride",
+      "dialogue": "See, uncle Bhairav. - Yes, dear. One minute. Where is the speaker and the curtains? Where is everything? What...Presenting to you the pride of Rajasthan. And the future actress. Gul, Gule, Gulistan. Gulabo aka Gul.",
+      "target_person": "uncle Bhairav",
+      "target_gender": "male",
+      "cause_raw": "future actress",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

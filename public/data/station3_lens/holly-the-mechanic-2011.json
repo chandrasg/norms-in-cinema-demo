@@ -1,0 +1,95 @@
+{
+  "film": {
+    "id": "27582",
+    "title": "The Mechanic",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US|DE",
+    "poster_path": "/i8IcT4oBKL793qyo91P1RnhroiQ.jpg",
+    "overview": "Arthur Bishop is a 'mechanic' - an elite assassin with a strict code requiring professional perfection and total detachment. One of an elite group of assassins, Bishop may be the best in the business - with a unique talent for cleanly eliminating targets. When Harry McKenna, his close friend and mentor, is murdered, Harry's son comes to him with vengeance in his heart and a desire to learn Bishop's trade, signaling the birth of a deadly partnership."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 4
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1659_holly",
+      "emotion": "pride",
+      "dialogue": "Every one of them served their country.  I guess I could still enlist.  You know, make him proud.  I'm f*****g with you.  I don't know if you have a picture of him,",
+      "target_person": "him",
+      "target_gender": "male",
+      "cause_raw": "serving the country",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "WP1660_holly",
+      "emotion": "pride",
+      "dialogue": "That's the sitting area, the fireplace.  - Chillaxing room. - Heh-heh.  This is the place I'm most proud of, right here.  Who's this guy?  That is 14th century Buddha.",
+      "target_person": "Speaker 1",
+      "target_gender": "male",
+      "cause_raw": "his house or specific room in the house",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2624_holly",
+      "emotion": "pride",
+      "dialogue": "I guess I could still enlist.  I guess I could still enlist.  You know, make him proud.  You know, make him proud.  I'm f*****g with you.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2625_holly",
+      "emotion": "pride",
+      "dialogue": "I guess I could still enlist.  You know, make him proud.  You know, make him proud.  I'm f*****g with you.  I don't know if you have a picture of him... ...but I thought maybe you'd,you know......but I thought maybe you'd,you know......want one.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2626_holly",
+      "emotion": "pride",
+      "dialogue": "That's the sitting area, the fireplace.  Chillaxing room.  This is the place I'm most proud of, right here.  This is the place I'm most proud of, right here.  This is the place I'm most proud of, right here.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "their place/home",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2627_holly",
+      "emotion": "pride",
+      "dialogue": "Chillaxing room.  This is the place I'm most proud of, right here.  This is the place I'm most proud of, right here.  This is the place I'm most proud of, right here.  Who's this guy?",
+      "target_person": "Speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "their chillaxing room",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2628_holly",
+      "emotion": "pride",
+      "dialogue": "This is the place I'm most proud of, right here.  This is the place I'm most proud of, right here.  This is the place I'm most proud of, right here.  Who's this guy?  That is 14th century Buddha.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "the place they are showing",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

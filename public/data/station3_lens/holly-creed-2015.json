@@ -1,0 +1,119 @@
+{
+  "film": {
+    "id": "312221",
+    "title": "Creed",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+    "overview": "The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 3
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS187_holly",
+      "emotion": "shame",
+      "dialogue": "I mean, weren't Apollo and Rocky like best friends?  It feels like you're trying to tap into whatever it is he left behind.  I don't think that's anything to be ashamed of, you know?  What are you afraid of?  Uh, what are you afraid of?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "trying to live up to a friend's legacy",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WP331_holly",
+      "emotion": "pride",
+      "dialogue": "Did they hire your assistant?  Thank you.  Very proud of you.  Superfight Two with Rocky Balboa, the challenger  and, of course, Apollo Creed, the world champion.",
+      "target_person": "Apollo Creed",
+      "target_gender": "male",
+      "cause_raw": "being the world champion",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP332_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah.  Hey, champ.  All right, Donnie. I'm proud of you.  That's gonna bring him luck.  You never been in front of this many people before, right?",
+      "target_person": "Donnie",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP333_holly",
+      "emotion": "pride",
+      "dialogue": "and what you take back with you.  You know what that is?  Pride. And knowing that you did your best.  And you're doing it for yourself.  Not for me, not your father's memory, but for you.",
+      "target_person": "you",
+      "target_gender": "unclear",
+      "cause_raw": "doing their best for themselves",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP334_holly",
+      "emotion": "pride",
+      "dialogue": "You go and get it, chum.  You the future of this division.  You wear that name with pride.  Respect.  Congratulations, Adonis, on a sensational effort.",
+      "target_person": "Adonis",
+      "target_gender": "male",
+      "cause_raw": "for his sensational effort",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "WP335_holly",
+      "emotion": "pride",
+      "dialogue": "I just wanna thank my mom. She's at home. I love you.  Even though I know she's mad at me for doing this.  Hopefully I made her proud.  You almost gave me a heart attack but I'm proud of you.  I got my family right here.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "making family proud",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP336_holly",
+      "emotion": "pride",
+      "dialogue": "Even though I know she's mad at me for doing this.  Hopefully I made her proud.  You almost gave me a heart attack but I'm proud of you.  I got my family right here.  Without them, none of this would've been possible.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "making someone proud by doing something risky",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP337_holly",
+      "emotion": "pride",
+      "dialogue": "I'll just tell him that I love him  and I know he didn't leave me on purpose.  And I'm proud to be a Creed.  Thanks, Adonis, and congratulations on a sensational performance. Jim.  Creed! Creed! Creed!",
+      "target_person": "Adonis",
+      "target_gender": "male",
+      "cause_raw": "being a Creed",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

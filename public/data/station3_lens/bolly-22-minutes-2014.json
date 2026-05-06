@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "271234",
+    "title": "22 Minutes",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "RU",
+    "poster_path": "/1z4xRxy5OGAciooLNHmqVtQlonh.jpg",
+    "overview": "22 minutes got Russian marine to free a hijacked oil tanker far from shore."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3880_bolly",
+      "emotion": "shame",
+      "dialogue": "And have yourself checked, too! Why must I have myself checked? Out to recover money from me! The shameless man that I am! Looks like I'll owe the telephone  department a fortune in this process! German! My wife's beaten me up and said...All lines on this route are busy. Please dial after a couple of months!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being beaten by wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3881_bolly",
+      "emotion": "shame",
+      "dialogue": "Or because they don't agree with each other. But you're the only man deserting your wife,......because you're not getting the ''feel'' ! You ought to be ashamed of yourself! Marriage isn't just about taking the vows. It's a sacred union that ties you in wedlock for many births!",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "deserting wife for lack of 'feel'",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p2091_bolly",
+      "emotion": "pride",
+      "dialogue": "He gave the guy a sound thrashing! He's my son, after all! - I'm proud of you, my son! - And what for, dad? You thrashed the man who teased your wife! I'm glad you have realized what your wife's respect means...Had he teased a street-walker there  instead of Megha......I'd still have beaten him as much.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son defending wife's honor",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

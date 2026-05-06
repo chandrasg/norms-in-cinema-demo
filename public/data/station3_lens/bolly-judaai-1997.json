@@ -1,0 +1,106 @@
+{
+  "film": {
+    "id": "108368",
+    "title": "Judaai",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/74DpCTKpItTBcgJyISO3wLEmAMo.jpg",
+    "overview": "In order to attain wealth and a luxurious life, a greedy wife sells her husband to a rich woman. However she realizes that with a luxurious life, she has to pay a heavy price for this decision."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2610_bolly",
+      "emotion": "shame",
+      "dialogue": "He's my contractor. He has come here on your invitation. He's trying to bribe me. - Bribe? Aren't you ashamed? - I'm only giving him a gift. What's wrong in accepting a gift? If I accept his gift today......l will have to accept his contaminated cement too.",
+      "target_person": "contractor",
+      "target_gender": "male",
+      "cause_raw": "attempting to bribe",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2611_bolly",
+      "emotion": "shame",
+      "dialogue": "wedding anniversary! ...that today is your because I remembered. I've rushed home, say you've remembered ? Aren't you ashamed to all this while anyway? Where have you been at the club. I was playing cards",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "forgetting wedding anniversary",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2612_bolly",
+      "emotion": "shame",
+      "dialogue": "Just slice me apart! Cut me into two pieces! You can have one portion each! of yourself! You ought to be ashamed Are you saying that to me? to you, Kajal! Yes! I'm saying this",
+      "target_person": "Kajal",
+      "target_gender": "female",
+      "cause_raw": "causing conflict",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s2613_bolly",
+      "emotion": "shame",
+      "dialogue": "that much in this life. ...I'll be happy achieving Sign these documents, Kajal. - You ought to be ashamed! - Give it another thought...Go ahead and sign the papers, dear. of countless deprived people. You will at least get the blessings Where are you going?",
+      "target_person": "Kajal",
+      "target_gender": "female",
+      "cause_raw": "being forced to sign documents",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p1365_bolly",
+      "emotion": "pride",
+      "dialogue": "Because this bungalow belongs to me....not because you're poor. Not because you don't have a car or a bungalow. But for having lied like this and insulting your husband, his pride! One's house is, after all, one's own, even if it is small. You must consider your house to be your heaven!",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "wife's insult and lie",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1366_bolly",
+      "emotion": "pride",
+      "dialogue": "on the party, haven't you? You've spent a lot of money around 7 or 8 lakhs. Yes... I must've spent She's turned out to be a magician! I'm proud of my daughter today. brought all the happiness... it appears as if she has on the gathering! ...and let it loose",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "daughter's accomplishment",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

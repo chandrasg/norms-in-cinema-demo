@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "218836",
+    "title": "Planes: Fire & Rescue",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/pOmteFeBDI9FJOPTDvYJYFeAtdp.jpg",
+    "overview": "When world-famous air racer Dusty learns that his engine is damaged and he may never race again, he must shift gears and is launched into the world of aerial firefighting. Dusty joins forces with veteran fire and rescue helicopter Blade Ranger and his team, a bunch of all-terrain vehicles known as The Smokejumpers. Together, the fearless team battles a massive wildfire, and Dusty learns what it takes to become a true hero."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP963_holly",
+      "emotion": "pride",
+      "dialogue": "Take it easy out there!  You can do it, Dusty.  We're proud of you, pal!  Good luck!  There's a time",
+      "target_person": "Dusty's friends",
+      "target_gender": "unclear",
+      "cause_raw": "Dusty's bravery or effort",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "WP964_holly",
+      "emotion": "pride",
+      "dialogue": "Okay, Niblet, time to hit the festival!  Sir, yes, sir.  Hey, you think the deep fried corn cob on a stick guy... Dusty, we're all so proud of you.  Dusty, we're all so proud of you.  Thanks, Mayday.",
+      "target_person": "Mayday",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP965_holly",
+      "emotion": "pride",
+      "dialogue": "Sir, yes, sir.  Hey, you think the deep fried corn cob on a stick guy... Dusty, we're all so proud of you.  Dusty, we're all so proud of you.  Thanks, Mayday.  What you did for me, for all of us,",
+      "target_person": "Mayday",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP966_holly",
+      "emotion": "pride",
+      "dialogue": "turn your attention to the skies  for today's featured aerial presentation.  The Propwash Junction Corn Fest is proud to present  the Piston Peak Air Attack team  and our very own world champion racer",
+      "target_person": "Propwash Junction Corn Fest",
+      "target_gender": "unclear",
+      "cause_raw": "presenting the Piston Peak Air Attack team and their own world champion racer",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

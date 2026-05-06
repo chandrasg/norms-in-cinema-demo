@@ -1,0 +1,115 @@
+{
+  "film": {
+    "id": "413543",
+    "title": "Dear Zindagi",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/oUg0N2isgZ5rrxdXnsemcKolfKZ.jpg",
+    "overview": "Kaira, a young girl, faces problems in her relationships. She meets Dr Jehangir, who helps her resolve her issues with her parents and get a new perspective on life, which leads to her following her passion and an improvement in her love life."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s945_bolly",
+      "emotion": "shame",
+      "dialogue": "This could be the turning point in my life <i>Are you my fault</i> <i>Or your own mistake</i> <i>Shamed heart</i> <i>Please tell me so</i> <i>What do we gain now</i> <i>What do we lose now</i>",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "self-blame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s946_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>Please tell me so</i> <i>What do we gain now</i> <i>What do we lose now</i> <i>Shamed heart</i> <i>Crying is no use</i> <i>Oh hurting heart</i> <i>Oh Dying heart</i>",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "emotional pain",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s947_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>Or maybe all I need is</i> a <i>good stylist</i> Crazy! Very scary word Because here we still believe that...a problem of the mind is something to be ashamed of If you have a problem with your body, that's normal...you can tell everyone...'hey I'm in hospital...with a kidney failure...lung infection, jaundice' But if it's a problem of the mind...then the whole family goes silent...hush hush hush...as if the mind is not even a part of the body",
+      "target_person": "person with mental health issues",
+      "target_gender": "unclear",
+      "cause_raw": "mental health stigma",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s948_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't laugh just yet...the joke begins now Here in Goa, my parents used to tell everyone...that I'm a gynecologist, not a psychologist Which means the doctor's own family is ashamed...to admit that their son is a therapist, dealing with problems of the mind Imagine my plight...many of my pregnant relatives landed up at the clinic for a free check up...and you know what, I delivered a few babies too...for the extra pocket money No, I'm just kidding",
+      "target_person": "therapist",
+      "target_gender": "male",
+      "cause_raw": "profession not being socially accepted",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s949_bolly",
+      "emotion": "shame",
+      "dialogue": "L-low could you both leave me and go'? And the only reason you took me back was because I failed the 2nd grade...yes, I failed the 2nd grade! Shame Shame! Dumb Kaira failed the second grade! Such an embarrassment for you...that you left everything and came back to India?",
+      "target_person": "Kaira",
+      "target_gender": "female",
+      "cause_raw": "Failing in academics",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p483_bolly",
+      "emotion": "pride",
+      "dialogue": "Speech! Speech! No speech, just shut up! It was beautiful my darling So proud of you Beautiful film Really? Very impressed",
+      "target_person": "my darling",
+      "target_gender": "female",
+      "cause_raw": "making a beautiful film",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p484_bolly",
+      "emotion": "pride",
+      "dialogue": "People who make music with the camera don't need musicians I wrote a song for you, want to listen? Just kidding I'm proud of you You gave Kaira her first break right? Yes She could not have done this without you",
+      "target_person": "Kaira",
+      "target_gender": "female",
+      "cause_raw": "getting her first break",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

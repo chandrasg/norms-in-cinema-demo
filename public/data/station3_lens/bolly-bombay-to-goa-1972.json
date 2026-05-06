@@ -1,0 +1,133 @@
+{
+  "film": {
+    "id": "64864",
+    "title": "Bombay to Goa",
+    "year": "1972",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vbwZBOBVYrnIlTZgmNmYSCrIR2c.jpg",
+    "overview": "Mala, an aspiring Bollywood actress, witnesses a murder and boards a Goa-bound bus to escape the killer. On the journey, she meets exciting people from different cultures and a young man who will not leave her side."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 3
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 3
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s630_bolly",
+      "emotion": "shame",
+      "dialogue": "Great! Your legs are dangling in your grave yet you peeping Tom! By God! What are you saying? - Sit quietly and think of God! Have shame. - You too have some. Where are you going? -Where does this bus go to? The bus will go where it has to But where do you want to go?",
+      "target_person": "elderly man",
+      "target_gender": "male",
+      "cause_raw": "behaving inappropriately for his age",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s631_bolly",
+      "emotion": "shame",
+      "dialogue": "Bus...? - Yes boss! MP Travels. No problem. Come with me. What is it baby? - Look there. Shameless girl! Powdering herface in the bus! Mother...l mean sister. it's very bad to powder your face.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "applying makeup in public",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s632_bolly",
+      "emotion": "shame",
+      "dialogue": "Do one thing. We're going shopping. Ask the cashier for 2000 bucks. Have you forgotten? The cashier has taken the day off. What a shame! And tomorrow is Sunday. The shops will be shut. We'll have to wait. -Why? I'll pay it. - Good.",
+      "target_person": "cashier",
+      "target_gender": "unclear",
+      "cause_raw": "not being available for work",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s633_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you screaming? I'm crying hearing the news of my death, not screaming. Look at this! A living example of shamelessness! These are my pictures. Why must you scream? These are not pictures. You've slapped me on my face.",
+      "target_person": "character in pictures",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s634_bolly",
+      "emotion": "shame",
+      "dialogue": "The pictures you think are dirty have some value for the world. There is art and talent in it. Shamelessness is never art. The family you'll get married into is very cultured and reputed. They won't see these pictures from the art point of view.",
+      "target_person": "character being spoken to",
+      "target_gender": "female",
+      "cause_raw": "posing for inappropriate pictures",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s635_bolly",
+      "emotion": "shame",
+      "dialogue": "Send in two teas. Get up dear. - No, please sit. I'm not shameless like you. Let's go, wife. What will you have? - Three full meals. Why is his face tied up?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s636_bolly",
+      "emotion": "shame",
+      "dialogue": "Vey good! How nice! Gangsters carry away our daughters and these men are watching them! Aren't you ashamed? Wear these bangles! Here, wear these! Today's men are eunuchs, not men!",
+      "target_person": "men",
+      "target_gender": "male",
+      "cause_raw": "not protecting their daughters",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p284_bolly",
+      "emotion": "pride",
+      "dialogue": "You took undue advantage of my love and decency. You should be happy that I'm bringing pride to your family. if you wanted to bring pride to our family...You could have burnt this house! Flames would rise! Why did you have to play with my honour!",
+      "target_person": "speaker 2",
+      "target_gender": "male",
+      "cause_raw": "bringing pride to family",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p285_bolly",
+      "emotion": "pride",
+      "dialogue": "You should be happy that I'm bringing pride to your family. if you wanted to bring pride to our family...You could have burnt this house! Flames would rise! Why did you have to play with my honour! What's wrong in this? - What's le_?",
+      "target_person": "first speaker",
+      "target_gender": "male",
+      "cause_raw": "bringing pride to family",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

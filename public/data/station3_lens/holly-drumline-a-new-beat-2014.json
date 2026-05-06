@@ -1,0 +1,51 @@
+{
+  "film": {
+    "id": "299513",
+    "title": "Drumline: A New Beat",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/bK4bMXT4xQoJRytBqSQS3FJmFBS.jpg",
+    "overview": "A girl from New York attends a college in Atlanta to join their once-famous marching band."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WP569_holly",
+      "emotion": "pride",
+      "dialogue": "♪I was paralyzed by those pair of lies♪  ♪but those pair of eyes brought me right back, back, back♪  ♪to you I gave up my pride for you♪  ♪by my side I just want you however I can♪  You're right, I was still angry at you.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP570_holly",
+      "emotion": "pride",
+      "dialogue": "That's what I'm talking about!  Shoutout to A&T ladies and gentlemen.  Victorious.  Can alumni be proud right now?  Be proud.  You should be.  Hey, yo, A&T is back.",
+      "target_person": "alumni",
+      "target_gender": "unclear",
+      "cause_raw": "A&T's victory",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP571_holly",
+      "emotion": "pride",
+      "dialogue": "Shoutout to A&T ladies and gentlemen.  Victorious.  Can alumni be proud right now?  Be proud.  You should be.  Hey, yo, A&T is back.  Not bad section leader.",
+      "target_person": "alumni",
+      "target_gender": "unclear",
+      "cause_raw": "A&T's victory",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "404391",
+    "title": "Inteqam",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/16ieZ04ExJYe5YDP9xjWKNMDvL0.jpg",
+    "overview": "Vijay Kumar Singh lives in a big apartment building with his parents. He and his three male friends are thrilled and intrigued by the arrival of a new family in their neighborhood, especially by a young and attractive Shoma Kapoor. To add to this, she also gets admitted in the same college as they, and all four males attempt to romance her in their own way - and each one believes that he has succeeded. Rumours abound, and Shoma's mom comes to know about them, resulting in Shoma having a open..."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2564_bolly",
+      "emotion": "shame",
+      "dialogue": "If my money is not my hard earned money....then where has he raised palaces with his hard earned money? He just drives a taxi. I am ashamed to think that the younger brother....of such a renowned lawyer is a taxi driver. But brother, I am proud that I am a taxi driver. We taxi drivers take all our passengers to their destination.",
+      "target_person": "younger brother",
+      "target_gender": "male",
+      "cause_raw": "being a taxi driver",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2565_bolly",
+      "emotion": "shame",
+      "dialogue": "After killing my kin....you are enjoying in your house, Dinanath? Till I do not turn your happiness into sorrow....I will burn in the fire of the oath that I took....on the pyres of my father, mother and sister. Look, I am very much ashamed for what I have done. I...please forgive me. I should forgive you? - Yes.",
+      "target_person": "Dinanath",
+      "target_gender": "male",
+      "cause_raw": "causing harm to others",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s2566_bolly",
+      "emotion": "shame",
+      "dialogue": "Please do not try to find any similarity between....your sister's face and this courtesan's face. You will see the face today and tomorrow you will see....this same face being staked in some market. You will feel ashamed then. It will be better to keep this veil between this brother and sister. And...not happiness but consider this to be....a sister's helplessness.",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "being compared to a courtesan",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2567_bolly",
+      "emotion": "shame",
+      "dialogue": "If you stay alive I will be your wife. And if anything happens to you I will remain as your widow. When I am there if your husband comes to any harm....and if you have to live a life of a widow....then shame on this brother. Vijay, my friend, you don't know. Vicky, I have heard everything.",
+      "target_person": "Vijay's wife",
+      "target_gender": "female",
+      "cause_raw": "potential widowhood",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p1334_bolly",
+      "emotion": "pride",
+      "dialogue": "He just drives a taxi. I am ashamed to think that the younger brother....of such a renowned lawyer is a taxi driver. But brother, I am proud that I am a taxi driver. We taxi drivers take all our passengers to their destination. We do not leave them astray like you do.",
+      "target_person": "younger brother",
+      "target_gender": "male",
+      "cause_raw": "being a responsible taxi driver",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1335_bolly",
+      "emotion": "pride",
+      "dialogue": "Wipe your perspiration. Don't fear! I will not give you such an easy death. This is the same tongue, isn't it which you are so proud of? My dumb sister was saying something else....in the court but you were trying to....frame a different meaning to it. In a short while the police will come and ask you..You will then realize how difficult it is for a dumb person....to convey what they want to say.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1336_bolly",
+      "emotion": "pride",
+      "dialogue": "After killing him either I will be hanged or will be sentenced....to life imprisonment. That is why stop thinking of getting married to me....and get married to someone else. I would not have been only happy but I would have also been proud....of our love if you would have told me that even after....life imprisonment I would wait for you all my life. And...and if you are hanged then with the support of your name....I would spend all my life as a widow. Chandni, I have made this decision after a lot of thought.",
+      "target_person": "Chandni",
+      "target_gender": "female",
+      "cause_raw": "lover's commitment",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "film": {
+    "id": "673366",
+    "title": "Chori Chori",
+    "year": "1972",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2ATg1bVX0ilund4afp9UPsXpPBP.jpg",
+    "overview": "Made in 1972"
+  },
+  "totals": {
+    "shame": 13,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 8
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s811_bolly",
+      "emotion": "shame",
+      "dialogue": "But each time I open my eyes and find we're eating grams. Putting me down as if you brought a big dowry! Aren't you ashamed to be lying? Named yourself, Bhagwan! You bought this auto with my dowry.",
+      "target_person": "Bhagwan",
+      "target_gender": "male",
+      "cause_raw": "lying and not providing well",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s812_bolly",
+      "emotion": "shame",
+      "dialogue": "where should I look for you? I've found her! - Come home with me. - Shameless! She saved me the bother by doing my job. My hand was hurting. She's a girl or I'd have crushed her like an ant!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "physical violence",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s813_bolly",
+      "emotion": "shame",
+      "dialogue": "We've got just one room. I won't live with you. - Then stay outside. - Have you no shame? I have more shame than you. But my hands are tied. He gives rooms only to couples.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "pretending to be a couple for accommodation",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s814_bolly",
+      "emotion": "shame",
+      "dialogue": "I won't live with you. - Then stay outside. - Have you no shame? I have more shame than you. But my hands are tied. He gives rooms only to couples. And if you're married, you only get one room.",
+      "target_person": "couple",
+      "target_gender": "unclear",
+      "cause_raw": "pretending to be married for accommodation",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s815_bolly",
+      "emotion": "shame",
+      "dialogue": "Mohanlal's daughter before you. Then Rai Bahadur's niece Now he's after you. Have you no shame accusing an innocent man? it's my life. I'll do as I please. You're nobody to advise me.",
+      "target_person": "accuser",
+      "target_gender": "female",
+      "cause_raw": "false accusations",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s816_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't mess with me. I'll send you to jail! You'll send me to jail! I'll show you! Have you no shame? Is this what your parents taught you? Do you see... they're fighting again.",
+      "target_person": "person being threatened",
+      "target_gender": "unclear",
+      "cause_raw": "aggressive behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s817_bolly",
+      "emotion": "shame",
+      "dialogue": "- I'm not your wife! - You will be somebody's! God help him! Have you no shame addressing other's fathers as Daddy? You will be my Dad in some time. - Any news of baby? - No!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior and lack of respect",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s818_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm not my father's daughter if I don't throw her out! Why are you screaming? What happened? Did you feel no shame? - We are decent people! - What nonsense? Where is Sagar?",
+      "target_person": "unknown woman",
+      "target_gender": "female",
+      "cause_raw": "unknown reason",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s819_bolly",
+      "emotion": "shame",
+      "dialogue": "- We are decent people! - What nonsense? Where is Sagar? That's what I want to know where is your shameful blot? - Husband left the wife in one night? - Shut up. Have you no shame?",
+      "target_person": "Sagar",
+      "target_gender": "male",
+      "cause_raw": "abandoning his wife",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s820_bolly",
+      "emotion": "shame",
+      "dialogue": "That's what I want to know where is your shameful blot? - Husband left the wife in one night? - Shut up. Have you no shame? Sagar must have gone out. He'll set everything right. What will he do? Check it The bike, clothes are missing.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "abandoned by husband",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s821_bolly",
+      "emotion": "shame",
+      "dialogue": "Thank you so much. Look at her face and compare it with her deeds. Acts innocent. Shameless hussy! Get out! Out! Get out! If I had my way, I'd poison you!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "immoral behavior",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s822_bolly",
+      "emotion": "shame",
+      "dialogue": "If I had my way, I'd poison you! Don't show your face around these parts! Drown yourself if you have any shame! Who..? My daughter Kammo! How are you dear?",
+      "target_person": "Kammo",
+      "target_gender": "female",
+      "cause_raw": "unknown actions leading to shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s823_bolly",
+      "emotion": "shame",
+      "dialogue": "I went to get money for the marriage I left a note under your pillow. Did you read it? Don't you have eyes? Apologise if you have shame! I won't! If this weren't your father's house, I'd break your pretty nose!",
+      "target_person": "character 2",
+      "target_gender": "female",
+      "cause_raw": "not reading the note",
+      "theme_label": "Poverty"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "64743",
+    "title": "Chalti Ka Naam Gaadi",
+    "year": "1958",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/eQ0OSwVY46YoPaY3dBYijufZTmB.jpg",
+    "overview": "Three woman-hating brothers face changes in their respective lifestyles when two of them fall in love."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4721_bolly",
+      "emotion": "shame",
+      "dialogue": "- However, I like it. - But I don't approve of......you joking around with an ordinary mechanic in public! I didn't know you were so petty-minded! And I didn't know you were so shameless! Who are you to say such things?! Your future husband!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "interacting with a lower class man",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4722_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes?! Come on! - Hey, leave me! - I won't! Shameless boy! You hold a girl's hand in front of me?! - Decided? - Yes. - Happy? - Yes, I am.",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "inappropriate public behavior with a girl",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p2660_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm sure he will have all the qualities that I dislike. He may not have them either. All rich people possess airs and false pride. - But you don't. - Well said! Explain to your friend. I'll go and have a digestive pill.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

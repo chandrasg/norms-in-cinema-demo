@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "117369",
+    "title": "Arjun: The Warrior Prince",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/bbyNAeBppsHUE0ki5BgikCdb6s.jpg",
+    "overview": "Legend knows him as an archer of unwavering focus, the soldier who fought a battle in his own heart before taking up arms against his enemy. This is the untold story of Arjun, hero of the Mahabharata. A precocious talent plunged from boyhood and innocence into a murky world of deceit and betrayal, coming of age to become the most powerful warrior of his time. From the dusty plains of Hastinapur to the icy peaks of the Himalayas, Arjun: The Warrior Prince is the story of a man discovering what it takes to be a hero."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s211_bolly",
+      "emotion": "shame",
+      "dialogue": "Use your arrow to shoot the goldfish succeed and you win the maiden's hand Apologies! Shame! Shame! Is there no one brave enough? Will the goldfish live on? Will the beautiful Draupadi's garland...... dry and wither away?",
+      "target_person": "Draupadi's suitors",
+      "target_gender": "male",
+      "cause_raw": "lack of bravery",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s212_bolly",
+      "emotion": "shame",
+      "dialogue": "Speak to me Arjun! What can I say? I'm ashamed. Your shame won't wipe out ...... my humiliation. I'm more guilty in this than Dushashan ...I did not protect you.",
+      "target_person": "Arjun",
+      "target_gender": "male",
+      "cause_raw": "not protecting a female character",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s213_bolly",
+      "emotion": "shame",
+      "dialogue": "What can I say? I'm ashamed. Your shame won't wipe out ...... my humiliation. I'm more guilty in this than Dushashan ...I did not protect you. Don't say that, Arjun",
+      "target_person": "Arjun",
+      "target_gender": "male",
+      "cause_raw": "not protecting someone",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}

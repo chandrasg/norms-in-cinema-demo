@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "376659",
+    "title": "Bad Moms",
+    "year": "2016",
+    "industry": "holly",
+    "country": "US|CN",
+    "poster_path": "/u9q10ljhkLj0tNCjlVqe3DCjoU4.jpg",
+    "overview": "When three overworked and under-appreciated moms are pushed beyond their limits, they ditch their conventional responsibilities for a jolt of long overdue freedom, fun, and comedic self-indulgence."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 3,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1577_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, my God. I am so relieved.  Thank you. Oh, my God.  Baby, I'm so proud of you!  Oh, I'm so excited. Oh, my God.  This is gonna look so awesome on my college applications.",
+      "target_person": "Baby",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1578_holly",
+      "emotion": "pride",
+      "dialogue": "I am the president of the PTA,  but most importantly,  I am the proud mommy to two beautiful daughters,  Blaire and Gandhi.  Now, I called this emergency PTA meeting",
+      "target_person": "mommy",
+      "target_gender": "female",
+      "cause_raw": "having two beautiful daughters",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1579_holly",
+      "emotion": "pride",
+      "dialogue": "who are actually decent and kind  and somehow you've done that.  And you should be really proud.  You're a f*****' great mom.  On, oh... Oh, my. I'm so sorry.",
+      "target_person": "speaker 1",
+      "target_gender": "female",
+      "cause_raw": "being a great mom",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1580_holly",
+      "emotion": "pride",
+      "dialogue": "You said you weren't gonna cook for us anymore,  so I taught myself how to cook.  Oh, honey, I'm so proud of you! Get in here. I love you.  I love you. Okay, okay, all right, all right.  Okay, okay, okay, okay, okay, okay.-",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "learning to cook",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1581_holly",
+      "emotion": "pride",
+      "dialogue": "It is a miracle.  It's the wife that she is and the mother that she is,  and I'm really proud of just her.  Mom. Yeah.  She's so good, like a mom. She's so good.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "wife being a good mother",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

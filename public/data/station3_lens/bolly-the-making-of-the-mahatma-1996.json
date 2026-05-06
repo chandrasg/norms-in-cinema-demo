@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "334694",
+    "title": "The Making of the Mahatma",
+    "year": "1996",
+    "industry": "bolly",
+    "country": "ZA|IN",
+    "poster_path": "/b03e7MYEKWclwgXkf2V1CjAmeuZ.jpg",
+    "overview": "The struggles of Mohandas Gandhi in South Africa."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3449_bolly",
+      "emotion": "shame",
+      "dialogue": "Get out of my house this very minute! - Leave me! What are you doing? What are you doing? Have you no shame? You are pushing me out in this condition? Where am I to go? And just because I'm your wife, I have to put up with your nonsense?",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "being mistreated by her husband",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p1817_bolly",
+      "emotion": "pride",
+      "dialogue": "They didn't lose heart when their leader was in prison They went on regardless You can be proud of your followers. - Yes, I am Yet, you despise us. - No, no, I don't. I assure you I have studied law in England just like yourself",
+      "target_person": "leader",
+      "target_gender": "male",
+      "cause_raw": "followers' resilience",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1818_bolly",
+      "emotion": "pride",
+      "dialogue": "God's true saint is he who holds others' woes to be his own No pride has he he speaks ill of none He holds all alike in honour",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

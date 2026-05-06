@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "11854",
+    "title": "Kuch Kuch Hota Hai",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+    "overview": "Per her mother's last wish, an 8 year old girl sets out to reunite her father with his college best friend who was in love with him."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3194_bolly",
+      "emotion": "shame",
+      "dialogue": "Ms. Anjali! What?... What? The British flag in india... ? I'll sort him out. Almeida...You have no shame? You've hoisted the British flag. I love England. My father was an English tailor.",
+      "target_person": "Almeida",
+      "target_gender": "male",
+      "cause_raw": "Displaying allegiance to a foreign country",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1676_bolly",
+      "emotion": "pride",
+      "dialogue": "Everyone is going to write home, in front of me. Here pass these on. Anjali, come on write a letterto your mom...lf you were here, you'd be proud of Anjali being your daughter. Because she's so nice. She has to be, her name's Anjali after all.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Anjali's good behavior",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1677_bolly",
+      "emotion": "pride",
+      "dialogue": "No, your Anjali. - My Anjali...She played basketball? Tell me, what kind of a girl was she in college? She was the life and pride our college. Everyone came to herwith their problems. Well, nothings changed.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "being a problem solver",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

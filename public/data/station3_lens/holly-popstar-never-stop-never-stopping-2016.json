@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "341012",
+    "title": "Popstar: Never Stop Never Stopping",
+    "year": "2016",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/jBZeZZNjYBUU21zFvBnin5n62bv.jpg",
+    "overview": "When his new album fails to sell records, pop/rap superstar Conner4real goes into a major tailspin and watches his celebrity high life begin to collapse. He'll try anything to bounce back, anything except reuniting with his old rap group The Style Boyz."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS851_holly",
+      "emotion": "shame",
+      "dialogue": "What? No! No...! But, I mean, all right, look, may be time  But, I mean, all right, look, may be time  for some vocal lessons, you know? No shame in that.  Yeah, or you know who would sound better on it.  Clay Aiken.",
+      "target_person": "Unnamed",
+      "target_gender": "unclear",
+      "cause_raw": "poor singing skills",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1560_holly",
+      "emotion": "pride",
+      "dialogue": "♪ Is how infrequently I mention all of my successes ♪  ♪ I pooh-pooh it when girls say that I should model ♪  ♪ My belly's full from all the pride I swallow ♪  ♪ I've got it all, and I'm getting more ♪  - Adam Levine's hologram! - ♪ But I never fall ♪",
+      "target_person": "Adam Levine's hologram",
+      "target_gender": "male",
+      "cause_raw": "his successes and achievements",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1561_holly",
+      "emotion": "pride",
+      "dialogue": "No. You.  No. No, man.  This is your thing, and I'm hella proud of you, man.  And... f**k, man, I just... - I want to just say I'm sorry. - Conner, just, I... like, I love that you're doing this right now,  like, I love that you're doing this right now,",
+      "target_person": "Conner",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

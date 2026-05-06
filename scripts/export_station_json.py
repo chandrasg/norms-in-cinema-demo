@@ -539,9 +539,11 @@ def pick_theme_examples(dialogues: list[dict], theme_id: str, n: int = 5, delta:
 # Station 3 — The Lens (per-film breakdowns)
 # =========================================================================
 
-def build_station3(dialogues: list[dict], top_n: int = 50) -> list[dict]:
-    """Build per-film JSON for top N most-popular films with both shame and pride coverage.
-    Also writes a lens_index.json with the slug list."""
+def build_station3(dialogues: list[dict], min_dialogues: int = 3) -> list[dict]:
+    """Build per-film JSON for every film with >= min_dialogues extracted lines.
+    Also writes lens_index.json with the slug list. The Atlas FilmSearch
+    deep-links every clickable card into Lens, so we need detail files for
+    every searchable film — not a curated top-50."""
     by_film = defaultdict(list)
     for r in dialogues:
         if r["film_matched"] != "1":
@@ -559,8 +561,13 @@ def build_station3(dialogues: list[dict], top_n: int = 50) -> list[dict]:
         scored.append((score, fid, rows))
     scored.sort(reverse=True)
 
+    # Emit detail JSON for ALL films with >= min_dialogues. Atlas FilmSearch
+    # links into Lens for any film a user clicks, so we need files for the
+    # full searchable index — not just a curated top-50.
     written = []
-    for _, fid, rows in scored[:top_n]:
+    for _, fid, rows in scored:
+        if len(rows) < min_dialogues:
+            continue
         first = rows[0]
         themes = Counter()
         gender_emo = defaultdict(lambda: Counter())
@@ -865,7 +872,7 @@ def main():
     print(f"  films in index: {len(s2['films_index'])}")
 
     print("Building Station 3 (Lens)...")
-    s3_films = build_station3(dialogues, top_n=50)
+    s3_films = build_station3(dialogues, min_dialogues=3)
     print(f"  per-film files written: {len(s3_films)}")
 
     print("Building Station 4 (Studio)...")

@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "302309",
+    "title": "Baaghi",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/yMUwKZ5BumGVWk0UTkNE8LX8Oc6.jpg",
+    "overview": "Growing up in Mumbai, Surya is in awe of a powerful local gangster and helps out his gang. Soon, he enters into a life of crime where there is no turning back."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s291_bolly",
+      "emotion": "shame",
+      "dialogue": "Getting friendly with strangers in strange places...What use acting unfriendly? He's the local goon If not a friend, must you make enemies with him? Relationships should be such that one is never ashamed to speak of Namaskar (Greetings) Namaskar. I am Raja",
+      "target_person": "Raja",
+      "target_gender": "male",
+      "cause_raw": "Being friendly with a local goon",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s292_bolly",
+      "emotion": "shame",
+      "dialogue": "Wbat's your enmity? How has he barmed you? He has made you shameless! You defend a hoodlum like him before your father? You have started accosting me! He has spoilt my son!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "defending a hoodlum",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s293_bolly",
+      "emotion": "shame",
+      "dialogue": "Rani, open the door And give me my clothes Don't you come out like that, you shameless fellow Get dressed and come out. Fast Breakfast before you leave",
+      "target_person": "Rani's partner",
+      "target_gender": "male",
+      "cause_raw": "indecent exposure",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s294_bolly",
+      "emotion": "shame",
+      "dialogue": "Got it. But where will you go? If you elope with that wastrel...you'll end up in a brothel! - Shut up! Don't curse my love! My love is pure. Not a word more! Wbat kind of a father are you? I'm ashamed to call you my father! Drown in shame if you will, yet I'll remain your father. Get it? Now go to your room quietly. Else, I'll give you a tight slap!",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "eloping with a man her father disapproves of",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s295_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't curse my love! My love is pure. Not a word more! Wbat kind of a father are you? I'm ashamed to call you my father! Drown in shame if you will, yet I'll remain your father. Get it? Now go to your room quietly. Else, I'll give you a tight slap! Wbat's new about that? But I'm not going to live in this hell for long",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "disobeying father's orders",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p127_bolly",
+      "emotion": "pride",
+      "dialogue": "A manager, or a pimp? Okay, tell him I'll see him in the evening For what are you so proud of your beauty? Life only last four days This is just a river that rises, then falls down",
+      "target_person": "manager/pimp",
+      "target_gender": "male",
+      "cause_raw": "beauty",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

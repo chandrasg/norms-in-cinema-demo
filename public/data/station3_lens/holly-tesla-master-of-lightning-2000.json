@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "56419",
+    "title": "Tesla: Master of Lightning",
+    "year": "2000",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/2qZ6mdzdutQmz289KB4dBZLz2W2.jpg",
+    "overview": "This program recounts the life of scientist, inventor, and visionary Nikola Tesla, often remembered as more of an eccentric cult figure than an electrical engineering genius. Many of his achievements are still attributed to contemporaries Thomas Edison and Guglielmo Marconi. Tesla's surprising inventions are revealed in his autobiographical and scientific writings, supplemented by rare photographs and re-creations."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS384_holly",
+      "emotion": "shame",
+      "dialogue": "Rejected by traditional science, Tesla's interest again turned to the esoteric.  His intellect seemed to embrace a lot of different areas quite easily.  What he lacked were the social skills. And that's an enormous shame  because it interfered with his ability to use that genius to be practical.  Though nearly a recluse, he would occasionally attend dinner parties",
+      "target_person": "Tesla",
+      "target_gender": "male",
+      "cause_raw": "lack of social skills",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP844_holly",
+      "emotion": "pride",
+      "dialogue": "He was a foreigner,  an immigrant who arrived in America with only his dreams.  A proud and sometimes arrogant man,  he worked and locked horns with some of the most powerful people of his day.  Thomas Edison, who resented his ideas",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "his achievements and resilience as an immigrant",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP845_holly",
+      "emotion": "pride",
+      "dialogue": "So Tesla had had enough by that time  and he picked up his hat and walked out.  Tesla paid dearly for his pride.  I lived through a year of bitter tears and hard labor  digging ditches for Edison's underground cables.",
+      "target_person": "Tesla",
+      "target_gender": "male",
+      "cause_raw": "standing up for himself",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP846_holly",
+      "emotion": "pride",
+      "dialogue": "In all my troubles  I did not neglect to become a real American citizen  making me a proud and happy man.  During the late 1880s Edison began a negative media campaign  to discredit the alternating current system of electricity",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "becoming a real American citizen",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP847_holly",
+      "emotion": "pride",
+      "dialogue": "But I have no desire to be remembered as the inventor of a purely destructive device.  I prefer to be remembered as the inventor who abolished war.  That will be my highest pride.  In the summer of 1899 Tesla moved to Colorado Springs, Colorado  to conduct a series of secret experiments.",
+      "target_person": "Tesla",
+      "target_gender": "male",
+      "cause_raw": "abolishing war",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

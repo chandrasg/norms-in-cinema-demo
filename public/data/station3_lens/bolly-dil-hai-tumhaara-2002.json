@@ -1,0 +1,133 @@
+{
+  "film": {
+    "id": "175614",
+    "title": "Dil Hai Tumhaara",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6TYSsz5wo6a5knHcvisELJZcwe7.jpg",
+    "overview": "Hiding her husband's affair from the world after his death, Sarita raises his love child alongside their daughter. When the girls grow up and fall in love with the same man, Sarita is forced to deal with her biases."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1148_bolly",
+      "emotion": "shame",
+      "dialogue": "Your eyes grant to me your love! Once we have each other I was ashamed ...and struck dumb. So my act you! Every moment you expect.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "expressing love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1149_bolly",
+      "emotion": "shame",
+      "dialogue": "How to get a job there? There is no place on earth Shalu where it can not find a job! - Shalu ...Yes, Mom. Industries Cana ... shame! Our expectations! Mr. Ropchand Kopchand?",
+      "target_person": "Shalu",
+      "target_gender": "female",
+      "cause_raw": "not being able to find a job",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1150_bolly",
+      "emotion": "shame",
+      "dialogue": "First, get out! - Making a mistake. Hear me, you will regret it. Rupchand ... Kopchand ashamed ...!Our expectations. Relax. Calm down! Beaten them!",
+      "target_person": "Rupchand and Kopchand",
+      "target_gender": "male",
+      "cause_raw": "not meeting expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1151_bolly",
+      "emotion": "shame",
+      "dialogue": "Come into my arms! You love me. Say it even if it is a shame ...Say it even if they zamayva ...And if I do not think you ...please say it again! You love me! When I see my heart raztuptyava of strange longing.",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1152_bolly",
+      "emotion": "shame",
+      "dialogue": "Wednesday is! - Mr Rupchand, later! Ashamed as if I am a stranger. Do not you like the gift? I liked exotic f. - But more than you! You know when you fell on you? When we went to Delhi.",
+      "target_person": "Mr Rupchand",
+      "target_gender": "male",
+      "cause_raw": "not appreciating the gift",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p575_bolly",
+      "emotion": "pride",
+      "dialogue": "Now I believe I Dev Cana, right? And I have not done your empty promises? I am proud of everything that is done for you today. I assure you that we both together will deliver on our promises!",
+      "target_person": "I Dev Cana",
+      "target_gender": "male",
+      "cause_raw": "fulfilling promises",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p576_bolly",
+      "emotion": "pride",
+      "dialogue": "and very genuine. hired celebrity which gave many of our town. Our country is proud. Seem to be obsessed by it. Thank you for choosing me for the advertising face!",
+      "target_person": "celebrity",
+      "target_gender": "unclear",
+      "cause_raw": "chosen as the face of advertising",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p577_bolly",
+      "emotion": "pride",
+      "dialogue": "Do you love what words can not explain it. Never stray from me, baby. Say it even if you are very proud to admit it. And when I say stunned. And if I do not think you",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p578_bolly",
+      "emotion": "pride",
+      "dialogue": "Well that Samir told me everything! Otherwise you would not forgive him! You are very expensive and we deserve all the happiness in the world! You did the right thing, Nimish! Proud of you!",
+      "target_person": "Nimish",
+      "target_gender": "male",
+      "cause_raw": "doing the right thing",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

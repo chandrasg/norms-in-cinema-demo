@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "142033",
+    "title": "Looking for Black Orpheus",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "FR",
+    "poster_path": "/xl7dtxRfMqEtnfQY6J8OgPl1eLh.jpg",
+    "overview": "Documentary about Marcel Camus' 1959 film Black Orpheus, its cultural and musical roots, and its resonance in Brazil today."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s868_bolly",
+      "emotion": "shame",
+      "dialogue": "When there is talk of carrying a burden..  have you ever worn a turban?  Shall I say something? You are a very bad actor.   You will put impostors to shame.  I recognised you the moment I saw you.  welcome to your favorite program 'Aapki Guzarish'.",
+      "target_person": "character being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "poor acting skills",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s869_bolly",
+      "emotion": "shame",
+      "dialogue": "Even after all this, you will not throw me out.   Because I am very valuable for you.  You talk of my honor, but I have not come across..  a more shameless man than you.   Leave my hand!   Leave my hand!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "dishonoring a woman",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p428_bolly",
+      "emotion": "pride",
+      "dialogue": "Not here.   Beloved.  At least write once a month. Make our village proud  Bring glory to our country. - I will, father  My respects. - Bless you",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's future achievements",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p429_bolly",
+      "emotion": "pride",
+      "dialogue": "You will tell me that. Come.  You will go disguised as dacoits and I, as a policeman.   I am proud of your love.. ..and will always be. - Radha!   Long separation.. Of four days.  Have the dacoits gone? Take me away from here. Please.",
+      "target_person": "policeman",
+      "target_gender": "male",
+      "cause_raw": "love",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p430_bolly",
+      "emotion": "pride",
+      "dialogue": "So you tell me, you, who knows everything..  you, who makes her own life..  what do you think? What should I do?  If I don't sign these papers, I will be considered cruel.  And if I do, I'll crush the pride with which I am living.  No Meera, I know Amir. He cannot kill anyone.  Know what my dream is? That I behead that murderer..  who snatched my everything from me..  my husband, my love, my freedom.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "maintaining self-respect",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p431_bolly",
+      "emotion": "pride",
+      "dialogue": "Let me go, mother-in-law. It's a matter of someone's life.  Don't even think of going out. - She surely will.  Taking pride in your husband, don't forget your humanity.  Remember, even you could be on this side of the fence some day.   Now move aside, and let her leave.",
+      "target_person": "mother-in-law",
+      "target_gender": "female",
+      "cause_raw": "husband's actions",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

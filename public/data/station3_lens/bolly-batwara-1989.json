@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "304082",
+    "title": "Batwara",
+    "year": "1989",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cx0EIAglUKPMHN1HaBQj7Y7aKJg.jpg",
+    "overview": "Amidst the fall of princely states in post-independence India, the friendship between Vikram, who comes from an aristocratic family, and a peasant is tested. Vikram turns vengeful after his brother is killed in a peasant colony."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s460_bolly",
+      "emotion": "shame",
+      "dialogue": "He said, Brother, the police force needs you. Join the police. So, I took up the job. -Aren't you ashamed of.....yourself to take up a job at the enemy's place? What's the enmity about? His brother had beaten up Lakhan.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "working for the perceived enemy",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s461_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you saying? Don't forget that Roop sister in law was present over there. I've also come to know that you've done this shameful act.....earlier too. I have the eye witness of the murder of that unborn child. By the way, landlord, they are just..Yes, Hanumant Singh.",
+      "target_person": "Roop's brother-in-law",
+      "target_gender": "male",
+      "cause_raw": "committing murder",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p206_bolly",
+      "emotion": "pride",
+      "dialogue": "By the way sir, If you would address me....as Landlord Hanumant Singh, I would've felt better. Oh! So you're proud to be a landlord than an inspector? Just like that Thakur sir. Well..you can think so.",
+      "target_person": "Hanumant Singh",
+      "target_gender": "male",
+      "cause_raw": "being a landlord",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p207_bolly",
+      "emotion": "pride",
+      "dialogue": "Hey, get a cup of tea for sir. Hanumant Singh,..you've reached this position from being a constable. ls this something less to be proud of? You're bigger than me on the basis of position. By the way, how's your wound caused by that bullet?",
+      "target_person": "Hanumant Singh",
+      "target_gender": "male",
+      "cause_raw": "professional advancement",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

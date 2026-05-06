@@ -1,0 +1,108 @@
+{
+  "film": {
+    "id": "325555",
+    "title": "Loafer",
+    "year": "1996",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/C9PWC4xMNYgWfGRXG8veM8dBzZ.jpg",
+    "overview": "Ravi, an unemployed man who constantly gets into fights, is framed for the murder of a gangster. With no support from his family, he must now fight to prove his innocence."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3339_bolly",
+      "emotion": "shame",
+      "dialogue": "You?! What are you doing here? - I've landed from up above. - Landed from up above?! Aren't you ashamed to...How was I to know that I'd meet a celestial beauty after the fall‘? Hats off, O Lord...! You've been generous indeed! Will you leave or do I have to scream and call people of the locality over'?",
+      "target_person": "female character",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3340_bolly",
+      "emotion": "shame",
+      "dialogue": "Be a good boy and do this for me. Go on...Mr. Mathur...You?! You're here again?! I had landed, the other day. But I've been sent across today. - Mom has sent some yogurt... - It was the bathroom then......it's the bedroom now! Why aren't you ashamed? The bathroom is okay. But why should I feel ashamed in the bedroom? And how am I to blame anyway? Whenever I set my eyes on you......l just can't tear my gaze away.",
+      "target_person": "Mr. Mathur",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior and invasion of privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s3341_bolly",
+      "emotion": "shame",
+      "dialogue": "I had landed, the other day. But I've been sent across today. - Mom has sent some yogurt... - It was the bathroom then......it's the bedroom now! Why aren't you ashamed? The bathroom is okay. But why should I feel ashamed in the bedroom? And how am I to blame anyway? Whenever I set my eyes on you......l just can't tear my gaze away. Why should you be so beautiful?",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior and comments",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3342_bolly",
+      "emotion": "shame",
+      "dialogue": "Shut up! Do I look like a thief? What if someone hears you'? So'? You've seen everything already! What happens to my honor now'? - Don't you feel any shame? - I do...But how can I be blamed? When I set my eyes on you, I just can't tear my gaze away! I see! But what if someone catches us in here?",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "being accused of theft and inappropriate behavior",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s3343_bolly",
+      "emotion": "shame",
+      "dialogue": "But there's something that can't stop biting me. Even after all the girls leave for their houses......what are you up to, in there? You ought to be ashamed of yourself......for cutting vegetables like the women-folk at home! Why can't you find a job that pays you something? Isn't this a job I'm doing?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "not having a job and doing household chores",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3344_bolly",
+      "emotion": "shame",
+      "dialogue": "Are there others here to vote, too'? I've come alone, for the time-being. Perhaps the youngsters will be shamed into action with my show of bravery. Let me have the ballot-paper, Sir. impotent fools!",
+      "target_person": "youngsters",
+      "target_gender": "unclear",
+      "cause_raw": "lack of political participation",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3345_bolly",
+      "emotion": "shame",
+      "dialogue": "You've married a scavenger, have you'? Who was that?! Aren't you ashamed to speak of caste in a progressive society? She eats the same bread that you consume. She has the same water that you drink!",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "marrying a woman of lower caste",
+      "theme_label": "Marital Status"
+    }
+  ]
+}

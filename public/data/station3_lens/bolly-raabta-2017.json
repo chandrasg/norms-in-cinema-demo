@@ -1,0 +1,97 @@
+{
+  "film": {
+    "id": "456562",
+    "title": "Raabta",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ovdpOhdgYqhDmy3uYGhNN16CKzQ.jpg",
+    "overview": "An inseparable couple Saira and Shiva find themselves in a complicated situation when a stranger claims to be her reincarnated lover from their previous lifetime, hellbent on destroying their relationship and winning her back."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1532_bolly",
+      "emotion": "shame",
+      "dialogue": "It's all your fault. Really, I mean.. who's scared of water? I can't even drown myself in shame. Thanks. Om..So what if I am a wimp..I am also hot.",
+      "target_person": "Om",
+      "target_gender": "male",
+      "cause_raw": "fear of water",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1533_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you doing! Where did it go? I feel ashamed. - Why? Back in that life, you had killed a tiger. That too without a weapon.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "not living up to past bravery",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p816_bolly",
+      "emotion": "pride",
+      "dialogue": "You are sc**wed. Shiv, for the first time, you've met your match. Shiv Kakkar, I am proud of your choice. I am proud of your choice. Look at yourself, Mr. Proud. You're 30 and still without a girl.",
+      "target_person": "Shiv Kakkar",
+      "target_gender": "male",
+      "cause_raw": "choosing a worthy opponent",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p817_bolly",
+      "emotion": "pride",
+      "dialogue": "Shiv, for the first time, you've met your match. Shiv Kakkar, I am proud of your choice. I am proud of your choice. Look at yourself, Mr. Proud. You're 30 and still without a girl. Get out of the closet and accept that you are gay.",
+      "target_person": "Shiv Kakkar",
+      "target_gender": "male",
+      "cause_raw": "Accepting his sexuality",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p818_bolly",
+      "emotion": "pride",
+      "dialogue": "Shiv Kakkar, I am proud of your choice. I am proud of your choice. Look at yourself, Mr. Proud. You're 30 and still without a girl. Get out of the closet and accept that you are gay. Hey Shiv... what do you mean? - Forget it.",
+      "target_person": "Shiv Kakkar",
+      "target_gender": "male",
+      "cause_raw": "Accepting his sexuality",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p819_bolly",
+      "emotion": "pride",
+      "dialogue": "100 paths, 100 wrong ones. Then the wrong one it is. When in the jungle, protect your life, Not your pride. I'm sharper than the dagger. Watch your step. What's your intention?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

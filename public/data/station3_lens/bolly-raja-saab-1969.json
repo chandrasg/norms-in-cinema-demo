@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "316660",
+    "title": "Raja Saab",
+    "year": "1969",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9fMxK0VLEuy3T5xOPT9NDDxzpy2.jpg",
+    "overview": "Orphan Rajoo has always dreamed of becoming a wealthy prince -- but when he finally gets a chance to live out this dream, he must make a difficult choice between love and the realization of his long-held fantasy. As an adult, he works for a grateful prince who offers Rajoo the chance to impersonate him; in order to pull off the deception, however, Rajoo must insult the princess, whom he has fallen in love with."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1553_bolly",
+      "emotion": "shame",
+      "dialogue": "Let God be merciful, uncle, I am Pratap Singh here. Let God be merciful. I came to know....about your return from Tokyo. And Poonam told me....that you wrote her a letter from Tokyo to Singapore. And the letter that she wrote to me as an answer....if she'd written it to you, you'd die of shame. I know, son. But the two of you never met each other.",
+      "target_person": "Pratap Singh",
+      "target_gender": "male",
+      "cause_raw": "Writing inappropriate letters",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1554_bolly",
+      "emotion": "shame",
+      "dialogue": "Please go away. No! Not liquor, the elixir of gods! I haven't seen an insolent or shameless man than you. But all this was done by his Majesty's ADC. I had told you not to pay attention to anything he says.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "insolence and shamelessness",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1555_bolly",
+      "emotion": "shame",
+      "dialogue": "I am calling you.- But why? Who are you? - Why do you want to know? Will you come with me? - Aren't you ashamed? You must be having a daughter of my age. And he has come to take me away.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate advances towards a young woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p830_bolly",
+      "emotion": "pride",
+      "dialogue": "But they are fake. Poonam, there....is no need of any falsehood in this house. The base of this house has been put on love and truth. And these things are the pride of this house. And beauty. Do you remember, Poonam?",
+      "target_person": "Poonam",
+      "target_gender": "female",
+      "cause_raw": "maintaining truth and love in the house",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

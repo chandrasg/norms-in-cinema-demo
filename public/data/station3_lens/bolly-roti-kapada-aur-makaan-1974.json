@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "125292",
+    "title": "Roti Kapada Aur Makaan",
+    "year": "1974",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2mBjPJVJFIzHteIF5iU7orTaFs1.jpg",
+    "overview": "After his father's retirement, the onus is on Bharat to look after his Delhi-based family. He has two younger college-going brothers, Deepak and Vijay, and a sister of marriage age, Radha. Bharat is a graduate, but is unable to secure any employment, much to the frustration of his girlfriend, Sheetal. Vijay takes step to secure his own future, by turning to crime, which is strongly opposed by Bharat, and as a result Vijay leaves the house. Mohan is Sheetal's boss, and finds her very attractive. When he proposes marriage, she accepts, and soon both are married. This leaves Bharat devastated, unable to deal with life, and unable to afford the basic needs of Roti (food), Kapada (clothing), and Makaan (shelter), he must now decide to carry on honestly, or otherwise"
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1708_bolly",
+      "emotion": "shame",
+      "dialogue": "By having the vice-chancellor surrounded by students?! By setting the University building on fire?! Shame on a brother like you! Die of starvation, if need be. That won't matter. But as long as you live, be a good citizen.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "not being a good citizen",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1709_bolly",
+      "emotion": "shame",
+      "dialogue": "Champa's future father-in-law has written that......if he isn't paid the money within a month......he shouldn't be blamed for anything. To hell with such an alliance! Wasn't he ashamed to write such a letter? Brother, neither will Champa continue with her college......nor do I need a degree. We'll manage by doing manual labor.",
+      "target_person": "Champa's future father-in-law",
+      "target_gender": "male",
+      "cause_raw": "demanding dowry",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p894_bolly",
+      "emotion": "pride",
+      "dialogue": "Praise the Lord. Constable! He's the Sardar! He's the one! Know what, brother? Our Guru, Sri Gobind Singh once said...Each of my men shall fight 125,000 and do me proud! There were only three in my share. If I am hanged to death after killing three demons, so be it.",
+      "target_person": "Sardar",
+      "target_gender": "male",
+      "cause_raw": "fighting and killing enemies",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p895_bolly",
+      "emotion": "pride",
+      "dialogue": "Brother has gone! A police officer should be like you are. I am proud of you. By the way, I am also not an enemy of the country. I've got to reach brother anyhow.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being a good police officer",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

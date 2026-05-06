@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "166231",
+    "title": "Refugee",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gr8xmJPVUzNRpoIijXco6FMUjbK.jpg",
+    "overview": "The films tells the story of an un-named Indian Muslim, who helps illegal refugees from both India and Pakistan to cross the border through the Great Rann of Kutch. The film is attributed to have been inspired by the short story \"Love Across the Salt Desert\" by Keki N. Daruwalla."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1666_bolly",
+      "emotion": "shame",
+      "dialogue": "But I behold the beauty You have created In this face... In those eyes I said, I'm ashamed For what I've done Now what are you staring at? Strange",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "self-shaming for past actions",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1667_bolly",
+      "emotion": "shame",
+      "dialogue": "Her dignity isn't for sale. Get it? I understand, sir. - Then go back to your duty You are going to bring us to shame! I beg your pardon for what My soldier has done My child, do not think you're alone. We won't let anything happen to you",
+      "target_person": "soldier",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1668_bolly",
+      "emotion": "shame",
+      "dialogue": "Scoundrel! Is this the way you repay the debt of your mother's milk? Go away from here! Go in shame! From this day, for us you're dead! Come on, Jaan Mohammad",
+      "target_person": "Jaan Mohammad",
+      "target_gender": "male",
+      "cause_raw": "Betrayal or disloyalty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1669_bolly",
+      "emotion": "shame",
+      "dialogue": "If you can't give him this much, keep standing...and turn your village over to the terrorists So that generations later, they might say...here once stood the village, that the villagers sold out And in the shame, the village was buried If you have any love for the soil  of this village...where your ancestors lie buried, drop your arms And come with me",
+      "target_person": "villagers",
+      "target_gender": "unclear",
+      "cause_raw": "surrendering their village to terrorists",
+      "theme_label": "Betrayal"
+    }
+  ]
+}

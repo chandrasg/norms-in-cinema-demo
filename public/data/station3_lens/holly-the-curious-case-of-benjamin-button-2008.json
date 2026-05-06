@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "4922",
+    "title": "The Curious Case of Benjamin Button",
+    "year": "2008",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+    "overview": "Born under unusual circumstances, Benjamin Button springs into being as an elderly man in a New Orleans nursing home and ages in reverse. Twelve years after his birth, he meets Daisy, a child who flits in and out of his life as she grows up to be a dancer. Though he has all sorts of unusual adventures over the course of his life, it is his relationship with Daisy, and the hope that they will come together at the right time, that drives Benjamin forward."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1382_holly",
+      "emotion": "shame",
+      "dialogue": "Now you get back to bed, little lady.  You're too young to be wandering around in the night on your own.  And you ought to be ashamed of yourself.  You are a different child.  A man-child.",
+      "target_person": "Little lady",
+      "target_gender": "female",
+      "cause_raw": "wandering around at night alone",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS1383_holly",
+      "emotion": "shame",
+      "dialogue": "We employed 10 times the number of people.  We were operating around the clock.  Damn shame.  The war has been kind to the button industry.  You know,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "war profiteering",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WP2469_holly",
+      "emotion": "pride",
+      "dialogue": "I hope you feel things you never felt before.  I hope you meet people with a different point of view.  I hope you live a life you're proud of.  And if you find that you're not, I hope you have the strength  - to start all over again. - \"...start all over again.\"",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

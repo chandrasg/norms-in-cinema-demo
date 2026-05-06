@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "230437",
+    "title": "Phool Aur Kaante",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/lNxSSYUK2RZtTo9rKCyzVq1twzM.jpg",
+    "overview": "Ajay, the son of criminal leader Nageshwar, leads a peaceful family life. However, when the rivals kidnap Ajay's son, Nageshwar forces him to join the life of crime to rescue his child."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1393_bolly",
+      "emotion": "shame",
+      "dialogue": "This is a college, not a nook for boys and girls to meet And unless we're strict...''Look! What a savage! Sitting out in the open! Tell him, someone!'' Shameless! Walks into the ladies' and then sits with the door open Where the hell is eveybody? Damn you guys! What happened Ms Baltiwala? - Look! That one's perching",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior in public",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1394_bolly",
+      "emotion": "shame",
+      "dialogue": "She's the one I told you about! - Let me take a look She lives in the hostel - I don't need a roadside Romeo Romeo's ogling! And you make me jog? Aren't you ashamed? Who, me...? - No, she Who, me...? - No, the one beside you",
+      "target_person": "Romeo",
+      "target_gender": "male",
+      "cause_raw": "Ogling at women",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1395_bolly",
+      "emotion": "shame",
+      "dialogue": "And you come in at six, 2 hours late? Can't move your butt? Daddy, I'm going. - Shut up! Stay put You can share a drink with your father. Are you ashamed to face your principal? Why are you late? - I can't leave before the closing You can't, can you? l, Tiwari, am the one who summoned you",
+      "target_person": "Tiwari",
+      "target_gender": "male",
+      "cause_raw": "Lack of punctuality and disrespect",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1396_bolly",
+      "emotion": "shame",
+      "dialogue": "You get him, on condition So you intend to blackmail me? The man I reared for 20 years...turns out to be a snake in the grass? Shame on you! I may have betrayed my keeper. But you don't even spare your blood If your stoy outs, evey son will pray for death...rather than be fathered by the likes of you",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "betrayal and blackmail",
+      "theme_label": "Financial Desperation"
+    }
+  ]
+}

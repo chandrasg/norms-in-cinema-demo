@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "3063",
+    "title": "Duck Soup",
+    "year": "1933",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+    "overview": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS652_holly",
+      "emotion": "shame",
+      "dialogue": "She did.  What'd you say to her?  You ought to be ashamed of yourself.  Where'd you hear that story?  You told it to me.",
+      "target_person": "Unnamed Character",
+      "target_gender": "unclear",
+      "cause_raw": "spreading rumors or false stories",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS653_holly",
+      "emotion": "shame",
+      "dialogue": "It's a long story. I can't tell it to you over the phone.  Oh, it's that kind of a story.  You ought to be ashamed of yourself.  I'll be right over.  He'll be right over.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "undisclosed shameful act",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP1308_holly",
+      "emotion": "pride",
+      "dialogue": "Then it's too late?  Not if His Excellency will listen to reason.  I am prepared to pocket my pride and forget about the whole matter if he is.  Ambassador, that's wonderful of you,  but I'm afraid His Excellency won't hear of it.",
+      "target_person": "Ambassador",
+      "target_gender": "male",
+      "cause_raw": "willingness to forget about the matter",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

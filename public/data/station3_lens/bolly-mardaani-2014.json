@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "287767",
+    "title": "Mardaani",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fD1zfYXgMbDkgIt9ZrHfte6mWHE.jpg",
+    "overview": "A Mumbai police officer's search for a missing teenage girl leads her to the depraved world of child trafficking. What follows is a cat-and-mouse game between the officer and a ruthless mafia kingpin."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3477_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh! I have been blabbering like a fool. The list will obviously begin with you, Sir. And shame on me if you have to tell me your list. Hey, Jennifer! Come here, baby. Come here. Take Sir...Oh ! Good choice, Sir. Hey, Julia Roberts! Darling, baby, come here.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "not knowing the preferences of the guest",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p1850_bolly",
+      "emotion": "pride",
+      "dialogue": "But he keeps no name or office for more than six months. We haven't heard of him ever. He takes pride in that. He always boasts that he will never get arrested. lsn't there a way of reaching him?",
+      "target_person": "he",
+      "target_gender": "male",
+      "cause_raw": "evading arrest",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1851_bolly",
+      "emotion": "pride",
+      "dialogue": "ln India, if 50 people take the law in their hands......and kill someone, then it's not called a murder. It's called 'Public outrage'. From right now, never again will I let you crush my pride You can have my body slain but you can't have my soul tied From right now, never again will I let you crush my pride",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "maintaining self-respect and dignity",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1852_bolly",
+      "emotion": "pride",
+      "dialogue": "From right now, never again will I let you crush my pride You can have my body slain but you can't have my soul tied From right now, never again will I let you crush my pride You can have my body slain but you can't have my soul tied Touch my heart and I promise you will mean the world to me",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "self-respect and dignity",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

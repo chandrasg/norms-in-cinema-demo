@@ -1,0 +1,173 @@
+{
+  "film": {
+    "id": "305899",
+    "title": "Sapoot",
+    "year": "1996",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8ray62qezaV4G5sdMrGBR93l5i1.jpg",
+    "overview": "Singhania big hearten Don who does not like to trade in drugs and other illegal business which does not go well with his rivals Dhaneshwar and Tejeshwar.Singhania's older son Raj is taking care of his business,While is younger son Prem is a Casanova.Dhaneshwar is killed by Singhania when he attacks on Raj.Kantiilal and Samsher trusted aide of Singhania's betray him and he gets killed by them and Tejeshwar."
+  },
+  "totals": {
+    "shame": 9,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 3
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 3
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1906_bolly",
+      "emotion": "shame",
+      "dialogue": ". . he goes alone. Why, Brother? You shut uP. Don't you feel ashamed? You are still smiling. Everyone makes fun of you. Yet you keeP laughing. Hey, donkey, stoP this.",
+      "target_person": "Unnamed Male",
+      "target_gender": "male",
+      "cause_raw": "Being made fun of and not reacting",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1907_bolly",
+      "emotion": "shame",
+      "dialogue": "Height should match mine. And when she smiles, it should feel like lotuses are blooming. And when she gets angry, the fireballs should be ashamed. And when she looks at me, it should feel like. . . .thousands of arrows have Pierced my heart.",
+      "target_person": "Ideal woman",
+      "target_gender": "female",
+      "cause_raw": "Not meeting the ideal beauty standards",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1908_bolly",
+      "emotion": "shame",
+      "dialogue": "Where brown sugar business is being carried out oPenly. After coming out from the club, college girls. . . .and boys move around so shamelessly. . . .that the resPectable PeoPle living nearby. . Their life has become miserable.",
+      "target_person": "college girls and boys",
+      "target_gender": "unclear",
+      "cause_raw": "behaving indecently in public",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1909_bolly",
+      "emotion": "shame",
+      "dialogue": "Their life has become miserable. Singhania sir, I had even raised my voice against this club. But it is a matter of great shame that. . . . neither is the Police doing anything. . . . nor is the ruling Party.",
+      "target_person": "Police and ruling party",
+      "target_gender": "unclear",
+      "cause_raw": "Inaction and negligence",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1910_bolly",
+      "emotion": "shame",
+      "dialogue": "Tell me what haPPened? She caught my hand. She kissed me. She hugged me. What? She is a very shameless girl. Then what did you do? I gave her one tight slaP. I slaPPed her hard. Good. PeoPle who act like that should be slaPPed. - Exactly.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1911_bolly",
+      "emotion": "shame",
+      "dialogue": "Listen. Were you donning the guise of resPectability that day? Or is it against your PrinciPles to belong to any one? Shameless, not only do the girls like you show their body. . I'll say the remaining. I not only show. . . . my body, but sell it too. Isn't it?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "selling her body",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s1912_bolly",
+      "emotion": "shame",
+      "dialogue": ". . my body, but sell it too. Isn't it? And if I do that then not me, but you. . . .and your dePartment should be ashamed. One rich man's sPoilt son suddenly uPon wearing a uniform. . . .started giving a lecture on resPectability and shame.",
+      "target_person": "police officer",
+      "target_gender": "male",
+      "cause_raw": "corruption and misuse of power",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s1913_bolly",
+      "emotion": "shame",
+      "dialogue": ". .and your dePartment should be ashamed. One rich man's sPoilt son suddenly uPon wearing a uniform. . . .started giving a lecture on resPectability and shame. You must have seen the Poor, not Poverty. I will show you what Poverty is.",
+      "target_person": "police department",
+      "target_gender": "unclear",
+      "cause_raw": "lack of understanding and empathy towards poverty",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1914_bolly",
+      "emotion": "shame",
+      "dialogue": "I will not let you go. Statue! You all should be ashamed. Your sister's life is in danger there. And here, you are all fighting.",
+      "target_person": "characters in the scene",
+      "target_gender": "unclear",
+      "cause_raw": "fighting while their sister is in danger",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p1005_bolly",
+      "emotion": "pride",
+      "dialogue": ". .family will be in the shadow of death. . It is okay with me. I am Proud of my son's choice. Any girl who I would have brought as a daughter-in-law to this house. . I swear on God, she would not have been nicer than you.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's choice of spouse",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1006_bolly",
+      "emotion": "pride",
+      "dialogue": ". .a Poor, indePendent, orPhan boy your life Partner. By doing this, you have done your duty of being my daughter. I am Proud of you. I will meet the boy right away. Sister-in-law! Congratulations.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "choosing a life partner independently",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1007_bolly",
+      "emotion": "pride",
+      "dialogue": "Where has that brave son of Singhania gone? The one who used to finish his enemies in one attack. Because of whom his father would feel Pride. You are not the one. You can't be him. You have no right to call yourself Singhania's son.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "bravery and strength",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

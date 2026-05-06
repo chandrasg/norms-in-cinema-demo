@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "274302",
+    "title": "Bepanaah",
+    "year": "1985",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/oVWaPMAO9C8ARxlfItAYk4DnyAC.jpg",
+    "overview": "In this crime story, lawyer Bhavna and her ex-lover, police officer Ravi, go after the local mafia. When Bhavna's son is kidnapped, the only person she can turn to for help is Bajrang, a mafia kingpin's son who knows her secret. The stakes grow even higher when Ravi is ordered to arrest Bajrang."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 3
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s486_bolly",
+      "emotion": "shame",
+      "dialogue": "He was carried away by idealism and rebelled against me. And forgot that the man he was rebelling against was his own father. Dayashankar, I'm terribly ashamed of myself. I lost my son and got a grandson. But what did you get?",
+      "target_person": "Dayashankar",
+      "target_gender": "male",
+      "cause_raw": "rebelling against his father",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s487_bolly",
+      "emotion": "shame",
+      "dialogue": "So matters have gone this far? Mrs Malhotra, if you know that girl, then I think,...you just meet her. If that girl has any shame she'll go away from your life. I think if a girl is ready to become a married man's keep,...then she is shameless. But there's no harm in meeting her.",
+      "target_person": "Mrs Malhotra's acquaintance",
+      "target_gender": "female",
+      "cause_raw": "being involved with a married man",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s488_bolly",
+      "emotion": "shame",
+      "dialogue": "Mrs Malhotra, if you know that girl, then I think,...you just meet her. If that girl has any shame she'll go away from your life. I think if a girl is ready to become a married man's keep,...then she is shameless. But there's no harm in meeting her. If you don't want to meet her, give me her address,...l'll try to make her see sense.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being involved with a married man",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s489_bolly",
+      "emotion": "shame",
+      "dialogue": "At heart I'm still innocent and naive. My world revolved around my father,...and my mother. You have no shame. You are just wandering around. Why are you silent now? Why are you chasing that Basanti? Speak up.",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "aimlessness and pursuing a woman",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s490_bolly",
+      "emotion": "shame",
+      "dialogue": "Wait, I'll teach you a nice lesson. I won't spare you today. These days boys aren't ashamed to talk about their own marriage. We got Babua engaged and there is such a storm. I think for the marriage there will be a downpour.",
+      "target_person": "Babua",
+      "target_gender": "male",
+      "cause_raw": "talking about his own marriage",
+      "theme_label": "Marital Status"
+    }
+  ]
+}

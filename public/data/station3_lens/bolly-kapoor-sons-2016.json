@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "374173",
+    "title": "Kapoor & Sons",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/oPdcOInH8TqR5udDTDPiDuLSN90.jpg",
+    "overview": "Returning home to visit their ill grandfather, two estranged brothers must confront their unresolved rivalry while their parents’ marriage frays."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2978_bolly",
+      "emotion": "shame",
+      "dialogue": "What happened to the advance you were supposed to get? It's still bloody stuck! It'll come... Just taking time...But don't worry... I'll talk to Shashi...How can you keep asking your younger brother for money?! Have some shame! What's shameful about it! We're both his sons! Yes, except he takes care of all the expenses!",
+      "target_person": "elder son",
+      "target_gender": "male",
+      "cause_raw": "financial dependency on younger brother",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2979_bolly",
+      "emotion": "shame",
+      "dialogue": "It's still bloody stuck! It'll come... Just taking time...But don't worry... I'll talk to Shashi...How can you keep asking your younger brother for money?! Have some shame! What's shameful about it! We're both his sons! Yes, except he takes care of all the expenses! And where does Dad stay? He doesn't take care of that!",
+      "target_person": "elder son",
+      "target_gender": "male",
+      "cause_raw": "financial dependency on younger brother",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2980_bolly",
+      "emotion": "shame",
+      "dialogue": "This is your girlfriend?! This! Disgusting! Do you feel no shame?! When did these lies start? Did you think about us even once?! About Dadu, about Dad...Think about Dad?!",
+      "target_person": "boyfriend",
+      "target_gender": "male",
+      "cause_raw": "dating a girl deemed unacceptable",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p1529_bolly",
+      "emotion": "pride",
+      "dialogue": "Do you know why I'm always taking up new things?! I wanted to prove myself! I wanted to do something to make you feel proud! And today, you've snatched that from me! I'm sorry...I should never have given him your story...Mom, this isn't about the goddamn story!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "proving himself",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

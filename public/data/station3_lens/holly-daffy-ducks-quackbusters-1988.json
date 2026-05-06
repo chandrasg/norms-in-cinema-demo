@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "23521",
+    "title": "Daffy Duck's Quackbusters",
+    "year": "1988",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/d9s1aOsnXfeSOlzYuX6VVmORrFo.jpg",
+    "overview": "In this feature-length film combining footage from classic Warner Brothers cartoon shorts with newly animated bridging sequences, Daffy Duck, after having induced laughter in an ailing millionaire and forestalled the millionaire's death for a time (as chronicled in Daffy Dilly (1948), is the beneficiary for the deceased millionaire's assets. But the millionaire's will clearly stipulates that Daffy must use the money for the common good, by providing a service, and should Daffy think of pursuing selfish aims, the millionaire's ghost will \"repossess\" his millions by making them disappear from Earthly existence. Under the pretense of community service, Daffy opens an exorcism agency and employs Porky Pig, Sylvester Cat, and Bugs Bunny to track and eliminate ghosts, ghouls, and other monsters, while Daffy secretly schemes to use his learned \"ghost-busting\" talents to rid himself of the millionaire's nagging spirit."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 3
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS915_holly",
+      "emotion": "shame",
+      "dialogue": "Sylvester.  Most outrageous exhibition of wanton cowardice.  Tsk, tsk, tsk. Shameful.  Yeah, shameful.  Sylvester, now, where have you been?",
+      "target_person": "Sylvester",
+      "target_gender": "male",
+      "cause_raw": "cowardice",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS916_holly",
+      "emotion": "shame",
+      "dialogue": "Most outrageous exhibition of wanton cowardice.  Tsk, tsk, tsk. Shameful.  Yeah, shameful.  Sylvester, now, where have you been?  What's gotten into you?",
+      "target_person": "Sylvester",
+      "target_gender": "male",
+      "cause_raw": "cowardice",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS917_holly",
+      "emotion": "shame",
+      "dialogue": "What now?  Brother, the things I have to put up with with this idiotic cat.  It's just a little teeny harmless spider, you shameless craven, you.  Now, come on. I'm sleepy.  I'll just ring for the night clerk.",
+      "target_person": "cat",
+      "target_gender": "unclear",
+      "cause_raw": "cowardice",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}

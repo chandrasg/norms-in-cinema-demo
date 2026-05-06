@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "347949",
+    "title": "Bandhan Kuchchey Dhaagon Ka",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/dAWP9V3nMZLxSdlLvW50kABPypX.jpg",
+    "overview": "Prem Kapoor is a businessman who lives in a small town with his wife, Bhavna, who is a Judge, and two children, Sunil and Babli. One Sunday, he gets a visitor by the name of Prakash Dutt, who has brought a letter from a woman named Sneh who lives in Bombay, has known Prem for the last seven years, and wants to urgently meet with him. Prem departs for Bombay, meets with Sneh and finds out that he is the father of a seven year old boy, Bittu, who is Sneh's son, as a result of intimacy shared between them over seven years ago. Sneh has been diagnosed with cancer and is not expected to live long, she wants Bittu to be taken care of, and Prem agrees to do so. He takes Bittu home with him, while Sneh goes to America for treatment. It is here that Prem will be confronted by Bhavna on one hand, his children on the other, and a blackmailer who wants a huge sum of money to keep the truth about Sneh and Prem's affair from Bhavna and the children."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s399_bolly",
+      "emotion": "shame",
+      "dialogue": "This is the cost effective plan . - What? You want me to sing a song? - Yes. 'Dear, aren't you ashamed?' 'You have such a pretty wife, . . . . . . . . yet you flirt ?'",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "flirting despite being married",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p177_bolly",
+      "emotion": "pride",
+      "dialogue": "I had no right to give birth to him, . . . . . . when I  couldn't even bring him up. My pride and stubbornness have all   fallen. Bittu hasn't come as yet? He'll soon be here.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p178_bolly",
+      "emotion": "pride",
+      "dialogue": "I'd even accept her as my rival. But by hiding it from me, . . . . . . you destroyed my faith and pride. How can I  believe that, . . . . . .you don't have another woman in your life?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "faithfulness in relationship",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p179_bolly",
+      "emotion": "pride",
+      "dialogue": "Today is my case's hearing. - So? - Rukmini has become mad. Out of  false pride and ego she now wants divorce. She doesn't  realize that my house will break.  Please don't accept this divorce.",
+      "target_person": "Rukmini",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

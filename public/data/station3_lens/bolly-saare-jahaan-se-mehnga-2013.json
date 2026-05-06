@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "247472",
+    "title": "Saare Jahaan Se Mehnga",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/gEqSOypPdbcpNkY3S7I17XKGWCc.jpg",
+    "overview": "A satire on inflation-hit middle-class Indian family from a small city in North India. The story revolves around our protagonist who is struggling to survive in this spiraling inflation and how he comes up with a solution to battle it, only to find himself in an even bigger mess due to their innocence and naivety."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1795_bolly",
+      "emotion": "shame",
+      "dialogue": "I am doing a job, aren't I? - Hah! Everyone knows what you do. I feel ashamed to tell the people what my son does. So why don't you die of shame. I won't die now. I won't die until I've seen my grandson.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disapproved job",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1796_bolly",
+      "emotion": "shame",
+      "dialogue": "Everyone knows what you do. I feel ashamed to tell the people what my son does. So why don't you die of shame. I won't die now. I won't die until I've seen my grandson. You expand the bull's family.. - Tell him to quite...nobody is concerned about my family. - Hush. Let it be. Enough.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disapproved profession",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1797_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm 18 years old. No one can force me. Suman, come home. - No. Why? Don't you feel ashamed? You're humiliating your parents in front of everyone. As per the law, they can get married if they want to.",
+      "target_person": "Suman",
+      "target_gender": "female",
+      "cause_raw": "Going against parents' wishes",
+      "theme_label": "Betrayal"
+    }
+  ]
+}

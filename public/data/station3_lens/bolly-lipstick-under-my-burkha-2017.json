@@ -1,0 +1,205 @@
+{
+  "film": {
+    "id": "418235",
+    "title": "Lipstick Under My Burkha",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg",
+    "overview": "Four ordinary women, inflicted by silly societal norms, have to steal, lie, cheat and hide in order to lead the lives that they rightfully deserve."
+  },
+  "totals": {
+    "shame": 16,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 3
+    },
+    {
+      "label": "Promiscuity",
+      "count": 3
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 13,
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3323_bolly",
+      "emotion": "shame",
+      "dialogue": "Go on! Get me married against my will. Go on! Shameless wretch! Even if gifted a diamond you'll still choose the piece of coal.",
+      "target_person": "person being forced to marry",
+      "target_gender": "female",
+      "cause_raw": "forced marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3324_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>Love me again</i> <i>I'm faint with yearning Cure me with your love</i> Rehana! Have you no shame? Such obscenity! Go to your room. Move the camera, mister or I'll slap you.",
+      "target_person": "Rehana",
+      "target_gender": "female",
+      "cause_raw": "Displaying affection publicly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3325_bolly",
+      "emotion": "shame",
+      "dialogue": "Will dancing get you good grades? Your father has worked hard to put you into college. Not so you can shame us! Concentrate on your studies. Shameless girl!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "not focusing on studies and dancing instead",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3326_bolly",
+      "emotion": "shame",
+      "dialogue": "Your father has worked hard to put you into college. Not so you can shame us! Concentrate on your studies. Shameless girl! The rent is due. The salary transfer from Saudi...Oh, come on! Don't interfere in money matters.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "not focusing on studies",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3327_bolly",
+      "emotion": "shame",
+      "dialogue": "Jeans are my right! My right! There's no end to rules in a girl's life. Don't sing, don't dance you'll shame us. Don't walk like that, people will stare. Keep your eyes down, what will people say‘!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "breaking traditional norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3328_bolly",
+      "emotion": "shame",
+      "dialogue": "You bought it from a shop‘! Of course not! Got it from the clinic. I thought you've been shameless buying condoms instead of groceries! How could I do such a thing‘!",
+      "target_person": "character buying condoms",
+      "target_gender": "male",
+      "cause_raw": "buying condoms",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3329_bolly",
+      "emotion": "shame",
+      "dialogue": "Hattie! - Thanks! Come, come. <i>Senseless love</i> <i>Shameless love</i> Namrata, about the audition...Pout! I'm sorry! - Ms. Ripped Jeans! What are you drinking?",
+      "target_person": "Namrata",
+      "target_gender": "female",
+      "cause_raw": "not conforming to traditional behavior",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3330_bolly",
+      "emotion": "shame",
+      "dialogue": "Father... no, they didn't arrest me. Go home. I'll explain once I'm home. Where are you running off to‘! Shameless girl! Disgracing the family. Locked up inside the police station. What were you protesting against?",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "protesting and getting arrested",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3331_bolly",
+      "emotion": "shame",
+      "dialogue": "You are disowning our identity and heritage. Embarrassed by the very burkha that earns us our daily bread‘! You're ashamed of wearing a burkha! I'm ashamed you are my daughter. - Start looking for a groom for her. - Yes.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "rejecting cultural/religious attire",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3332_bolly",
+      "emotion": "shame",
+      "dialogue": "Embarrassed by the very burkha that earns us our daily bread‘! You're ashamed of wearing a burkha! I'm ashamed you are my daughter. - Start looking for a groom for her. - Yes. No need to study further.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "not conforming to traditional clothing norms and prioritizing education over marriage",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s3333_bolly",
+      "emotion": "shame",
+      "dialogue": "Just because you've earned a few cents‘! To talk to you, I have to meet your mistress! Shameless! You're the one who's shameless. Seeing another woman... no job, no salary.",
+      "target_person": "second speaker",
+      "target_gender": "male",
+      "cause_raw": "being jobless and dependent on a woman",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3334_bolly",
+      "emotion": "shame",
+      "dialogue": "To talk to you, I have to meet your mistress! Shameless! You're the one who's shameless. Seeing another woman... no job, no salary. You don't care about your family.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "neglecting family responsibilities",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3335_bolly",
+      "emotion": "shame",
+      "dialogue": "Give it to me. - Come outside! Behave yourself...What's all this‘! You should be ashamed of yourself, auntie! So much for her piety! Auntie, you've sullied the family name.",
+      "target_person": "auntie",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3336_bolly",
+      "emotion": "shame",
+      "dialogue": "You should be ashamed of yourself, auntie! So much for her piety! Auntie, you've sullied the family name. Shame on you! Look at this. What is this‘! Lewd books, indecent clothes.",
+      "target_person": "Auntie",
+      "target_gender": "female",
+      "cause_raw": "Indecent behavior and possession of inappropriate items",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3337_bolly",
+      "emotion": "shame",
+      "dialogue": "A 55-year old widow! Making dirty phone calls to a young boy. Disgusting! - The old woman has no shame. We look up to her as a mother. And see what she's been doing.",
+      "target_person": "55-year old widow",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior with a young boy",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3338_bolly",
+      "emotion": "shame",
+      "dialogue": "And see what she's been doing. Getting horny at this age! Shameful! What will you teach our kids‘! What did auntie do‘! - Nothing.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "sexual desire at an older age",
+      "theme_label": "Promiscuity"
+    }
+  ]
+}

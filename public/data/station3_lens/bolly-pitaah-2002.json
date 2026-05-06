@@ -1,0 +1,138 @@
+{
+  "film": {
+    "id": "311469",
+    "title": "Pitaah",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cg3GAKWQ8EjkdItuRqdACO1OpZh.jpg",
+    "overview": "A man seeks justice against two men who raped his young daughter."
+  },
+  "totals": {
+    "shame": 9,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 7,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1397_bolly",
+      "emotion": "shame",
+      "dialogue": "How old  are you? - 21 years And you? - 23 years, uncle  Aren't you ashamed to be drinking beer? Let them drink, Father. - Shut up, you good for nothing Hey Ayodhya, do you want to give the Thakurs a bad name?",
+      "target_person": "Ayodhya",
+      "target_gender": "male",
+      "cause_raw": "drinking alcohol",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s1398_bolly",
+      "emotion": "shame",
+      "dialogue": "And they say the country has won its freedom You must tell them, Thakur. The trees in this village ...''the animals  and these men... they're all your slaves , Thakur!'' What a shame! Bhima took some rice that was thrown, for his daughter For that, he gets punished like this?",
+      "target_person": "Bhima",
+      "target_gender": "male",
+      "cause_raw": "taking rice without permission",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s1399_bolly",
+      "emotion": "shame",
+      "dialogue": "Their clandestine  meetings at the river wasn't going to escape notice The Thakur got to know You wretch! Shameless  girl  You're going to bring the Thakurs to disgrace! I'll break your legs if you ever go there again",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "having clandestine meetings with a man",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1400_bolly",
+      "emotion": "shame",
+      "dialogue": "Close  on her heels  came the Thakur and his thugs Come on! You bring us to shame? Master! One last chance, please ! I'll send him away to the city Forgive him, please ! - If he lives, that is",
+      "target_person": "Thakur and his thugs",
+      "target_gender": "male",
+      "cause_raw": "causing trouble and dishonor",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s1401_bolly",
+      "emotion": "shame",
+      "dialogue": "What else ? Just relax  I'll report no concrete evidence found. But what to do about that doctor? You ought to be ashamed, lawyer! You want to buy me out for such scum? The beasts rape a nine-year old  girl! And you want to bribe me with 100,000? Look! For two days they haven't moved from the hospital. No food, no water",
+      "target_person": "lawyer",
+      "target_gender": "male",
+      "cause_raw": "trying to bribe and defend criminals",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s1402_bolly",
+      "emotion": "shame",
+      "dialogue": "Go yourself  Mr Lawyer, leave Have you made yourselves  so shameless ? - Okay doctor, not 100,000. 150,000 150,000? The price for the rape of a nine-year old ? Do you know...what she's going through? She'll be lucky to live Another seizure",
+      "target_person": "lawyer",
+      "target_gender": "male",
+      "cause_raw": "trying to negotiate a price for a crime",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s1403_bolly",
+      "emotion": "shame",
+      "dialogue": "You hear her cries? Are you hearing? The terror is still tormenting her Thrice she has broken her stitches. And you want to buy me for 150,000? How shameless  Not a cent less than 500,000 500,000...? - Not a cent less",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "commodification of women",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1404_bolly",
+      "emotion": "shame",
+      "dialogue": "You sold  yourself  for some money? Sold  your profession? Sold  out all of us? Shame! You're scum One thing more, don't you tell your wife and kids how you made this money They'll spit at you, in the face",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "selling out for money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s1405_bolly",
+      "emotion": "shame",
+      "dialogue": "They'll spit at you, in the face Go now... not here Don't you dare touch my Muniya! Get out, you shameless  b*****d Spit Saw the court? - Yes",
+      "target_person": "Unnamed Male Character",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards Muniya",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

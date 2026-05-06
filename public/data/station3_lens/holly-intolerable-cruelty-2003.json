@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "11775",
+    "title": "Intolerable Cruelty",
+    "year": "2003",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/7K8hDwOWsZv0MluyrB8nWlhJOgB.jpg",
+    "overview": "A revenge-seeking gold digger marries a womanizing Beverly Hills lawyer with the intention of making a killing in the divorce."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1167_holly",
+      "emotion": "shame",
+      "dialogue": "Marylin.  How nice of you to... Marylin?  Marylin?  Shame on you.  Marylin.  What a lovely surprise.  Marylin, what a pl... - Who the hell are you? - Hello, Miles.",
+      "target_person": "Marylin",
+      "target_gender": "female",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS1168_holly",
+      "emotion": "shame",
+      "dialogue": "Well, today Miles Massey is here to tell you... that love need cause us no fear.  that love need cause us no fear.  Love need cause us no shame.  Love is... good.  good.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS1169_holly",
+      "emotion": "shame",
+      "dialogue": "Do you think he's eating enough? Marylin!  This woman has humbled,  shamed and disgraced the entire firm.  - Yes, Herb. - Counselor... this firm deals in power.  this firm deals in power.",
+      "target_person": "Marylin",
+      "target_gender": "female",
+      "cause_raw": "disgracing the firm",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP2164_holly",
+      "emotion": "pride",
+      "dialogue": "But how could I trust you, Miles, after all this?  See, that's exactly right. The point is... You wounded me first, Marylin.  I'm not proud of what I've done, but God knows, I did trust you once.  If you couldjust... just give us another chance.  Well, if you'll pardon me here, but I think my client is well beyond the point of considering... How could I ever trust you again? I mean, really trust you, Miles?",
+      "target_person": "Miles",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

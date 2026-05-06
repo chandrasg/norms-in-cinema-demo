@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "303374",
+    "title": "Ek Bar Mooskura Do",
+    "year": "1972",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/qF5fh9fxgzp345AvXrBHq9fMrVu.jpg",
+    "overview": "1972 Bollywood drama from director Ram Mukherjee."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5183_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh, that reminds me of a poem. 'Formality is the sign of decency.' 'Those who don't be formal are shameless.' Stop your nonsense and answer my question. Who's that girl?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "not following formalities",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p2917_bolly",
+      "emotion": "pride",
+      "dialogue": "And if you want a millionaire for Mala....then I'll become a millionaire too. This is what I wish. I want you to be a rich man. I want you to be recognized in the society....so that I'd feel proud of....handing over my daughter to you. And I can even be your help. What are you thinking?",
+      "target_person": "Mala's father",
+      "target_gender": "male",
+      "cause_raw": "daughter marrying a rich man",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2918_bolly",
+      "emotion": "pride",
+      "dialogue": "Music lover Mr. Kumar has come to see you. Oh! You make the arrangements....for his refreshments. - Okay. It's really a matter of proud that India's famous singer....is at my home today. Who? Dilip. Everybody knows me with the name Mr. Kumar.",
+      "target_person": "Mr. Kumar",
+      "target_gender": "male",
+      "cause_raw": "Being a famous singer",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

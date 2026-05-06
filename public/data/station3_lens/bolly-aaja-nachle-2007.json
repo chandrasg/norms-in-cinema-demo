@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "14159",
+    "title": "Aaja Nachle",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xru51i8vXJrowpjz7z6ZsCYakPD.jpg",
+    "overview": "Dia is a divorced mom living in New York and must go back to India after she receives news that her guru is on his death bed. When she arrives she finds he is gone and has left her the responsibility of saving and reviving the Ajanta Theater where she used to dance. The problem is that the political officers want it torn down and turned into a shopping mall. The storyline follows Dia and her challenge to stand up for what she believes in and fight the cause to the end, while trying to win back the love and support of the people of the town whom she walked out on ten years prior."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2138_bolly",
+      "emotion": "pride",
+      "dialogue": "Thank you very much. That you have come to Ajanta. And raised the pride of your own Ajanta Theater. For that millions of congratulations. Applause.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "raising the pride of Ajanta Theater",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2139_bolly",
+      "emotion": "pride",
+      "dialogue": "that's what happened, and your son Tabrez helped you. no.. no.. I didn't, why would I come between them? you were brother, should have taking care of the family pride. people who harm them were there own. then? then what they did?",
+      "target_person": "Tabrez",
+      "target_gender": "male",
+      "cause_raw": "taking care of family pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2140_bolly",
+      "emotion": "pride",
+      "dialogue": "Mr. Farooq had bought him in Rs. 5,000,000. what !! the mall he wants to build that's for his pride and business. they don't want to start Ajanta again. he and his man are encouraging people again Diya Didi.",
+      "target_person": "Mr. Farooq",
+      "target_gender": "male",
+      "cause_raw": "business success",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

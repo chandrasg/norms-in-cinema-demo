@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "172662",
+    "title": "Himalay Ki Godmein",
+    "year": "1965",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2QWqkTJFxcIZvigfG2VWpcRO3y1.jpg",
+    "overview": "Sunil Mehra has successfully completed his medical studies and is now a qualified doctor, who can now practice medicine anywhere in India. He chooses to do so in a small and remote Himalayan village without any doctor or any medical facilities. His doctor fiancee, Neeta, decides to accompany him, but is appalled at the lack of facilities, and leaves. Dr. Mehra must now decide to continue his work there or re-locate."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2424_bolly",
+      "emotion": "shame",
+      "dialogue": "Haria! If this is the case then let us have a fight! Ramu! What is going on! Aren't you all ashamed to raise your hands on a guest! He disrespected Gogar sage. <i>Hair-a“ Hair-a, son.</i>",
+      "target_person": "Haria",
+      "target_gender": "male",
+      "cause_raw": "Disrespecting a guest",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2425_bolly",
+      "emotion": "shame",
+      "dialogue": "You're totally all right! My sweetheart, all my pain disappeared as soon I saw you. It is such a shame! That to see her son she has to take the support of a lie. Mom, so you had sent false news?",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "lying to meet her son",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "p1261_bolly",
+      "emotion": "pride",
+      "dialogue": "should come to know that you are my son. Father, I am not going to do anything to humiliate you. In fact, I will always try to make you proud of me. - This is fine. But where you are going, I am trying since a long time to nab the dacoits of that place.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not humiliating father and making him proud",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

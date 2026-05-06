@@ -1,0 +1,65 @@
+{
+  "film": {
+    "id": "26454",
+    "title": "Deliver Us from Eva",
+    "year": "2003",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/mkCC7wOJ0C1gfEt44ca25x8xTdL.jpg",
+    "overview": "Eva Dandridge has been in charge of her younger sisters ever since their parents died many years ago. She is a very uptight young woman who constantly meddles in the affairs of her sisters and their significant others. Her brothers-in-law, who are tired of Eva interfering in their lives, decide to set her up with someone so she can leave them alone. They end up paying Ray, the local \"playboy,\" $5,000 to date her. The plan goes by smoothly, but trouble comes when Ray actually falls in love with Eva."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 3,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2260_holly",
+      "emotion": "pride",
+      "dialogue": "No, no, tell it, please. Ormandy, go.  Thank you, Eva. Honey, he dropped his pants,  and he whipped it out all proud.  And I said, \"Oh, no. Where's the rest of it?\"  Ya have to put man in place sometime, ya hear that?",
+      "target_person": "Ormandy",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2261_holly",
+      "emotion": "pride",
+      "dialogue": "- He's gotta sleep with her. That's what you gotta do. - Yeah, that's it.  Look, I would love to have another shot with her, all right?  My pride was hurt. But I'm sure it's out of the question.  What, you don't like women? Watch yourself now.  - You have to have sex with her. - I don't think that's the answer.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2262_holly",
+      "emotion": "pride",
+      "dialogue": "So if it doesn't kill you, it makes you build a bridge.  Yeah. Yeah. That's good. I like that. I'm gonna use that.  You should be proud of yourself.  No. I'm proud of my sisters.  What about you, Eva? I know all that devotion cost you.",
+      "target_person": "Eva",
+      "target_gender": "female",
+      "cause_raw": "devotion to her sisters",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP2263_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah. Yeah. That's good. I like that. I'm gonna use that.  You should be proud of yourself.  No. I'm proud of my sisters.  What about you, Eva? I know all that devotion cost you.  It did.",
+      "target_person": "Eva",
+      "target_gender": "female",
+      "cause_raw": "devotion to her sisters",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

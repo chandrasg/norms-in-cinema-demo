@@ -1,0 +1,95 @@
+{
+  "film": {
+    "id": "378200",
+    "title": "The Perfect Match",
+    "year": "2016",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/sAiF9gKhb3gPbnp9g5nNhrfTqpL.jpg",
+    "overview": "Charlie is a charming playboy who doesn't believe in serious relationships. His best friends bet him that if he sticks to one woman for one month, he's bound to get attached. Charlie denies this yet accepts the seemingly easy challenge, until he cross paths with the beautiful and mysterious Eva. They may agree to a casual affair, but eventually Charlie is questioning whether he may actually want more."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 7
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP442_holly",
+      "emotion": "pride",
+      "dialogue": "My sperm count's higher than Robert Downey Jr.'s net worth!  Bam!  You must be very proud.  I am very proud.  I got the Michael Phelps of sperm.",
+      "target_person": "Speaker 1",
+      "target_gender": "male",
+      "cause_raw": "high sperm count",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP443_holly",
+      "emotion": "pride",
+      "dialogue": "Bam!  You must be very proud.  I am very proud.  I got the Michael Phelps of sperm.  They got little gold medals around their little sperm necks.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "having high-quality sperm",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP444_holly",
+      "emotion": "pride",
+      "dialogue": "but I'm grateful for you.  Aw, Charlie.  I am so proud of you.  That'll be $300. No, seriously.  I think you'll feel better if you pay for it.",
+      "target_person": "Charlie",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP445_holly",
+      "emotion": "pride",
+      "dialogue": "- \"One time.\" - One time in college!  Look at him. Look at him.  His parents would be so proud of all of this.  Charlie, I love this. Where'd you shoot it?  I shot that one in... I know they are proud. I mean, we're proud.",
+      "target_person": "Charlie",
+      "target_gender": "male",
+      "cause_raw": "for his photography or accomplishment",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP446_holly",
+      "emotion": "pride",
+      "dialogue": "His parents would be so proud of all of this.  Charlie, I love this. Where'd you shoot it?  I shot that one in... I know they are proud. I mean, we're proud.  I know they are proud. I mean, we're proud.  You know, it took him a lot to get here.",
+      "target_person": "Charlie",
+      "target_gender": "male",
+      "cause_raw": "achieving something significant not explicitly mentioned)",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP447_holly",
+      "emotion": "pride",
+      "dialogue": "Charlie, I love this. Where'd you shoot it?  I shot that one in... I know they are proud. I mean, we're proud.  I know they are proud. I mean, we're proud.  You know, it took him a lot to get here.  Real talk, this is impressive for a first gallery.",
+      "target_person": "Charlie",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP448_holly",
+      "emotion": "pride",
+      "dialogue": "It's the least I could do for you.  Consider it done.  Congrats, my brother. I'm really proud of you.  Remember one thing, man. Stay black.  I don't know what else I would do, but thank you.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

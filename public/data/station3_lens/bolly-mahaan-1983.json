@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "206459",
+    "title": "Mahaan",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2iDA23Hblro3nJuRHo69Xfj0UdR.jpg",
+    "overview": "A lawyer goes into hiding after being falsely accused of committing a crime, while his wife gives birth to twins. Years later, fate reunites the family under difficult circumstances.  Amitabh Bachchan in his only triple role as father with twin sons."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3400_bolly",
+      "emotion": "shame",
+      "dialogue": "Give me 3000 rupees. We will produce another play. The unveiling of Draupadi. You shameless bugger. I will not give you a single rupee. Get out of my house. Go drown yourself in a fistful of water. Maaa... - What happened my son?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "asking for money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "p1789_bolly",
+      "emotion": "pride",
+      "dialogue": "Rai Saheb has asked for a reply to his grand daughter's proposal. Oh! I'd forgotten all about it. My dear, my child, I'm so proud of you! Oh! Change of scene? This means it is a conspiracy. My son, you are talking of 3000 rupees, I will give you one lac.",
+      "target_person": "Rai Saheb",
+      "target_gender": "male",
+      "cause_raw": "grand daughter's proposal",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1790_bolly",
+      "emotion": "pride",
+      "dialogue": "All of us will get together and form a fiance union. We will stand on a raised platform and raise our voices against such proud and arrogant girls. We will burn their pride in ashes. Say fiances union, zindabad!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1791_bolly",
+      "emotion": "pride",
+      "dialogue": "We will stand on a raised platform and raise our voices against such proud and arrogant girls. We will burn their pride in ashes. Say fiances union, zindabad! Ramdeen!",
+      "target_person": "fiances union",
+      "target_gender": "male",
+      "cause_raw": "standing against proud and arrogant girls",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

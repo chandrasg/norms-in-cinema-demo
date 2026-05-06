@@ -1,0 +1,139 @@
+{
+  "film": {
+    "id": "360814",
+    "title": "Dangal",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1CoKNi3XVyijPCvy0usDbSWEXAg.jpg",
+    "overview": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 9
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 3
+    },
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2,
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s896_bolly",
+      "emotion": "shame",
+      "dialogue": "Mahavir Singh has gone mad. Not mad, he's become shameless. He's getting the girls to Wear shorts and fight boys. Since you all started Wrestling, your Walk has become very manly.",
+      "target_person": "Mahavir Singh and his daughters",
+      "target_gender": "unclear",
+      "cause_raw": "making girls wear shorts and wrestle",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p457_bolly",
+      "emotion": "pride",
+      "dialogue": "but to the entire district of Bhivvani. And we are sure that, she will make our tovvn proud in the National Sub-Juniors, too. Leave? For two months? ls your daughter getting married?",
+      "target_person": "entire district of Bhivvani",
+      "target_gender": "female",
+      "cause_raw": "Sports achievement",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p458_bolly",
+      "emotion": "pride",
+      "dialogue": "She's playing well. If you support her today, then one day, she will make the nation proud. Look, Mahavir Singh-ji, vve get this much funding for sports.",
+      "target_person": "Mahavir Singh",
+      "target_gender": "male",
+      "cause_raw": "future potential of making the nation proud through sports",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p459_bolly",
+      "emotion": "pride",
+      "dialogue": "In order to prepare them, he made them wrestle boys. Took the taunts and abuses of the entire village, just so that one day they would make the country proud. Look, sir. Look.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "daughters' wrestling achievement",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p460_bolly",
+      "emotion": "pride",
+      "dialogue": "A grand opening ceremony to the 2010 Commonwealth Games! Host nation, India, displaying her ancient culture. A proud moment indeed! And here comes the Indian contingent! A huge welcome for them.",
+      "target_person": "narrator",
+      "target_gender": "unclear",
+      "cause_raw": "Hosting international event",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p461_bolly",
+      "emotion": "pride",
+      "dialogue": "India's Geeta Kurnari Phogat, has proven her critics wrong. A proud moment for Geeta's father, Mahavir Singh Phogat! So far India has vvon, five gold, 13 silver and seven bronze medals.",
+      "target_person": "Mahavir Singh Phogat",
+      "target_gender": "male",
+      "cause_raw": "Daughter's sports achievement",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p462_bolly",
+      "emotion": "pride",
+      "dialogue": "Let's find out Whether Geeta's finals is against the Australian, or the Scottish Wrestler. I'm very proud of Geeta. She followed my strategy to the T. The result is in front of you.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "daughter's sports achievement",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p463_bolly",
+      "emotion": "pride",
+      "dialogue": "Hello, Mr. Shamim. Congratulations, Mahavir-ji! Geeta fought very well. All of Balali is proud. And these girls insisted, on watching Geetafs match in the stadium, or they Won't eat.",
+      "target_person": "Mr. Shamim",
+      "target_gender": "male",
+      "cause_raw": "Geeta's wrestling match",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p464_bolly",
+      "emotion": "pride",
+      "dialogue": "Who would have thought that a girl from a small village in India, is capable of leaving her mark on the who/e world! Well done, Geeta! A proud moment for India indeed! Champion! Where's papa? I don't know.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "Geeta's achievement",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p465_bolly",
+      "emotion": "pride",
+      "dialogue": "And finally uncle uttered those golden words, that we had been pining to hear for the past 10 years. I'm proud of you!",
+      "target_person": "uncle",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

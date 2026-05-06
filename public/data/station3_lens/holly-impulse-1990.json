@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "37131",
+    "title": "Impulse",
+    "year": "1990",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/heZvs7qR8z9XCPpFsQrAKHAx4xC.jpg",
+    "overview": "A Los Angeles vice cop, caught between her undercover role as a sex worker and her personal relationships, is thrown into a web of murder and deceit."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2166_holly",
+      "emotion": "pride",
+      "dialogue": "in the State Science Decathlon?  Dad.  What, can't be proud of my own daughter?  I didn't even know she was in a state science thing.  - It's not a big deal. - She's just nervous",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "daughter's participation in State Science Decathlon",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2167_holly",
+      "emotion": "pride",
+      "dialogue": "Now, I know you're all ready to cheer on the Warriors,  but before tip-off,  I am so proud to present the Science Club... Do you know where Townes is?  Do you know where Townes is?  ...First place trophy from the State Science Decathlon.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "presenting the first place trophy from the State Science Decathlon",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2471_holly",
+      "emotion": "pride",
+      "dialogue": "in the State Science Decathlon?  Dad.  What, can't be proud of my own daughter?  I didn't even know she was in a state science thing.  - It's not a big deal. - She's just nervous",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "daughter's participation in State Science Decathlon",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2472_holly",
+      "emotion": "pride",
+      "dialogue": "Now, I know you're all ready to cheer on the Warriors,  but before tip-off,  I am so proud to present the Science Club... Do you know where Townes is?  Do you know where Townes is?  ...First place trophy from the State Science Decathlon.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "presenting the first place trophy from the State Science Decathlon",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

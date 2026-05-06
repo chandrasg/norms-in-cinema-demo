@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "11321",
+    "title": "Seven Pounds",
+    "year": "2008",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/85zUipgVy2QbvAJ6djZXYaGckMv.jpg",
+    "overview": "An IRS agent with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2466_holly",
+      "emotion": "pride",
+      "dialogue": "Whatever you need, just ask me.  I need a name. Someone in the system.  Someone having a really hard time... ...that needs help, but may be too proud to ask for a handout.  ...that needs help, but may be too proud to ask for a handout.  What are you doing?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2467_holly",
+      "emotion": "pride",
+      "dialogue": "I need a name. Someone in the system.  Someone having a really hard time... ...that needs help, but may be too proud to ask for a handout.  ...that needs help, but may be too proud to ask for a handout.  What are you doing?  I'm helping.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2468_holly",
+      "emotion": "pride",
+      "dialogue": "...he donated the right part of his liver to this woman.  Her name is Holly.  I'm proud of you kids. Very proud.  Good job. Good job.  - Ezra. - Yeah.",
+      "target_person": "Ezra",
+      "target_gender": "male",
+      "cause_raw": "donating part of his liver",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

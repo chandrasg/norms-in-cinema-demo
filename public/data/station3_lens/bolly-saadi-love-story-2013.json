@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "156990",
+    "title": "Saadi Love Story",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zCLDaVKxnNlmRe4hUM2q6Vy93hL.jpg",
+    "overview": "A romantic awaits her Prince Charming."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1727_bolly",
+      "emotion": "shame",
+      "dialogue": "Of course it is mine. This girl is lying in broad daylight. Don't you feel ashamed? Don't you feel ashamed lying? Just a minute, brother. Did your note have any identity mark in it?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1728_bolly",
+      "emotion": "shame",
+      "dialogue": "This girl is lying in broad daylight. Don't you feel ashamed? Don't you feel ashamed lying? Just a minute, brother. Did your note have any identity mark in it? y es, of course. Gandhi's photo is on it.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1729_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't play cricket. you don't play cricket? Aren't you ashamed to trouble an innocent girl? y ou are mistaken. It is not so. Hear me out. What is wrong with you?",
+      "target_person": "character who doesn't play cricket",
+      "target_gender": "unclear",
+      "cause_raw": "not playing cricket",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1730_bolly",
+      "emotion": "shame",
+      "dialogue": "Rascals, why don't you tell me which one of you is the real Rajveer? They are causing unnecessary mess in our life. Aren't you ashamed of being freeloaders? I wonder from where have these scoundrels come. Sonam, listen to me.",
+      "target_person": "Rajveer",
+      "target_gender": "male",
+      "cause_raw": "being a freeloader",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1731_bolly",
+      "emotion": "shame",
+      "dialogue": "I know where the money came from. you know? - y es. Last night when I went to grandpa's room..Shame on you. Weren't Rs. 30 lakhs enough....that you have come here to get some more? No, I had come to keep them back. It is like my own house.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "stealing money",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p910_bolly",
+      "emotion": "pride",
+      "dialogue": "Huh? I love you. Love you ! Oh, my! So proud of you, sister Gurleen. How romantic! What happened next? What else could have happened?",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "sister's romantic achievement",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

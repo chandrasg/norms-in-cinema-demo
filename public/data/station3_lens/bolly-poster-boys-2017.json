@@ -1,0 +1,105 @@
+{
+  "film": {
+    "id": "471894",
+    "title": "Poster Boys",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN|US",
+    "poster_path": "/9W6b9i49sww8RSR7DlJpaiqSEV9.jpg",
+    "overview": "Life of three men comes in trouble when their photos appear on advertisement for sterilization."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1421_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you getting so furious? Arjun, what have you done? Didn't you feel ashamed at all? Will you tell me what I did? - Listen...What's wrong, boss? Is sister-in-law not coming?",
+      "target_person": "Arjun",
+      "target_gender": "male",
+      "cause_raw": "unknown wrongdoing",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1422_bolly",
+      "emotion": "shame",
+      "dialogue": "Ohh brother what's...\"A true lover... never do what you did.\" Arjun, what have done? Didn't you feel ashamed at all? What happened? Why did you park the car in front ofthe bus?",
+      "target_person": "Arjun",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1423_bolly",
+      "emotion": "shame",
+      "dialogue": "Chaudhan/ sir, my baby's pregnant too. What? See that, brother...before the wedding. - Yes, I can see...Didn't you feel ashamed? No. You could've at least waited until you two got married. - I was going to...Boys these days...I wonder what's wrong with them?",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "premarital pregnancy",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1424_bolly",
+      "emotion": "shame",
+      "dialogue": "Brother...But Chaudhan/ sir, even/one must know that we're men too. We didn't get any operation done...Are you going to ruin some girl's reputation......just to prove that you're a man? Aren't you ashamed? Go home...And that Chokan, he asked us to come back after 10-12 days. Let's wait until then, and we'll see after that.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "trying to prove masculinity by ruining a girl's reputation",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1425_bolly",
+      "emotion": "shame",
+      "dialogue": "In this battle for respect, we'll face embarrassment. But, he who loses respect for oneself...Will have no self-esteem. In this crowd of shameless people, we've made up our mind......even if we've to strip down to our last piece of cloth......but, we must save our reputation. Chaudhan/ sir, fantastic...!Amazing...Take care...Come, brother...Brother is here.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "losing self-respect",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p749_bolly",
+      "emotion": "pride",
+      "dialogue": "Real manhood is about......giving women equal rights as men. Raising your voice against the cruelty on you. And I am proud that there are three men like them in our state......who raised their voice against the cruelty against them. And shoot the government. I apologize to them again. - No, sir...no...And also announce Rupees 2 Lacs to each person as compensation.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "standing up against cruelty and advocating for women's rights",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "21461",
+    "title": "Lage Raho Munna Bhai",
+    "year": "2006",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lgSn1tXDstMXSHJYkSibKkHqW8y.jpg",
+    "overview": "Lovable goon Munna falls for a morning radio host by the name of Jahnvi, who also runs an elders' home which an unscrupulous builder seeks to attain. In order to gain Jahnvi’s attention, he cheats his way to winning a Mahatma Gandhi radio quiz. When Jahnvi consequently expresses interest in Munna, he and his best friend Circuit attempt to keep up the facade."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3269_bolly",
+      "emotion": "shame",
+      "dialogue": "he taught all humans the essence of humanity. For 3 days, I've cleaned his mess. I know he won't change. Bapu says, 'Don't lose faith'. One day, his own shame will stop him. Sorry. . .! Three cheers for Gandhi-ing!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "not maintaining cleanliness",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s3270_bolly",
+      "emotion": "shame",
+      "dialogue": "That pension is your right, sir! We'll get it out of him! What should I do, son? Shame him. Show the world how corrupt he is. I have an idea. Greetings. . .",
+      "target_person": "corrupt individual",
+      "target_gender": "male",
+      "cause_raw": "corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p1724_bolly",
+      "emotion": "pride",
+      "dialogue": "Hey Circuit! - Yeah, Bro! Why are you looking that way? Bapu is here. Speak the truth and live with pride, son. Bapu, don't wander around. The last train's gone. Now we'll have to take a cab.",
+      "target_person": "Circuit",
+      "target_gender": "male",
+      "cause_raw": "living truthfully",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p1725_bolly",
+      "emotion": "pride",
+      "dialogue": "I'll get the house back? - I promise. Jhanvi won't leave me, will she? She'll always stay proudly by your side. You seem confident. Tell me what to do. Ask for forgiveness.",
+      "target_person": "Jhanvi",
+      "target_gender": "female",
+      "cause_raw": "staying by partner's side",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p1726_bolly",
+      "emotion": "pride",
+      "dialogue": "They thought they'd change him But look who really changed! Mr. D'Souza is a proud father. His son bought another taxi. . . with his own savings. Sunny and Simran have been married 5 years.",
+      "target_person": "Mr. D'Souza",
+      "target_gender": "male",
+      "cause_raw": "son's financial independence",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

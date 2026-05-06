@@ -1,0 +1,168 @@
+{
+  "film": {
+    "id": "307786",
+    "title": "Pratiggya",
+    "year": "1975",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/k4WXXlibMOC7HoOAmnMQ52B86X1.jpg",
+    "overview": "A truck driver learns from his foster mother about the murder of his parents at the hands of a bandit and sets out to avenge them."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 4
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1451_bolly",
+      "emotion": "shame",
+      "dialogue": "I see. Now, I understand. You are a fugitive convict. You want to join the dacoits. • You are well-built, do you feel ashamed. to earn bread with hard work? It seems your days are numbered.",
+      "target_person": "fugitive convict",
+      "target_gender": "male",
+      "cause_raw": "criminal activities and laziness",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1452_bolly",
+      "emotion": "shame",
+      "dialogue": "I see, so intoxication of liquor has vanished in the morning? Didn’t you say that you’l • strip me in public?! Shame.. shame.. shame.. shame. You talk so dirty even being a • girl. - I am talking dirty?! Were the dacoits any less to rob honour of women..in this village, that police has also come to help them?!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "inappropriate language and behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1453_bolly",
+      "emotion": "shame",
+      "dialogue": "“Now he doesn’t want to leave from the heart “Oh Mother, what shall I do?” “Shameless doesn’t care for shame at all.” “I move around shying. “Foreigner came to land, from land to my village.j",
+      "target_person": "foreigner",
+      "target_gender": "male",
+      "cause_raw": "not respecting local customs",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1454_bolly",
+      "emotion": "shame",
+      "dialogue": "“Now he doesn’t want to leave from the heart “Oh Mother, what shall I do?” “Shameless doesn’t care for shame at all.” “I move around shying. “Foreigner came to land.”",
+      "target_person": "foreigner",
+      "target_gender": "male",
+      "cause_raw": "not respecting local customs",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1455_bolly",
+      "emotion": "shame",
+      "dialogue": "“Now I fear, sweetheart would hold my hands “Oh, Mother, what shall I do?’i “Shameless doesn’t care for shame at all.” “I move around shying. “Foreigner came to land.”",
+      "target_person": "sweetheart",
+      "target_gender": "female",
+      "cause_raw": "shameless behavior",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1456_bolly",
+      "emotion": "shame",
+      "dialogue": "“My heart longs and doesn’t find solace.” “Oh, Mother, what shall I do?’i “Shameless doesn’t care for shame at all.” “I move around shying. “Foreigner came to land, to village, to lane, to housej",
+      "target_person": "character in song",
+      "target_gender": "unclear",
+      "cause_raw": "shameless behavior",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1457_bolly",
+      "emotion": "shame",
+      "dialogue": "Radha, my child . How come Radha my child remembered her uncle today? I am ashamed for the deeds of • my father’s elder brother Malti is my friend. She is your daughter’s age. She is my daughter’s age. But, you are my daughter",
+      "target_person": "Radha's uncle",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1458_bolly",
+      "emotion": "shame",
+      "dialogue": "A stranger there was in my country...\"who moved to my village, my lane...\"\"my house and then...\"\"and then into my heart\" He won't leave my heart now... what am I to do? He won't think of my modesty, the shameless man...\"I feel so shy\" A stranger there was in my country...\"who moved to my village, my lane...\"\"from the lane to my house and then into my heart he walked\" He won't leave my heart now; what am I to do?",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "falling in love with a stranger",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1459_bolly",
+      "emotion": "shame",
+      "dialogue": "I suffer at heart... I know no peace What am I to do? He won't let me be, the shameless man...\"I feel so very shy\" A traveler in my country, my village, my lane, my house...\"and my heart\" I'm right here in front of you, darling!",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "being pursued relentlessly by a man",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1460_bolly",
+      "emotion": "shame",
+      "dialogue": "So much the better! You won't have to take the trouble of telling him! He'll understand everything. Get lost! Shameless creature! Radha! Is what Raju told me, true?",
+      "target_person": "Raju",
+      "target_gender": "male",
+      "cause_raw": "Lying or deceit",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p765_bolly",
+      "emotion": "pride",
+      "dialogue": "Radha? - She is Bharat Thakur’s niece. Young, beautiful. She is so proud of her beauty .that she flies in the air, sir Save me. ‘Let go of me! Let go!’ ‘Mother! You fool!1",
+      "target_person": "Radha",
+      "target_gender": "female",
+      "cause_raw": "her beauty",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p766_bolly",
+      "emotion": "pride",
+      "dialogue": "Noble idea, sir. But if you're determined enough...set the cursed Radha straight. - Radha? Bharat Thakur's niece. She's young and beautiful. She's so proud of her looks that she hardly walks the earth. Let me go! All right! I'll publicly strip her in the marketplace tomorrow!",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

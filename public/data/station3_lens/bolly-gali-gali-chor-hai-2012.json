@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "84879",
+    "title": "Gali Gali Chor Hai",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/3PjM4g5bdl2mkN08E7Ed0WrEzgM.jpg",
+    "overview": "Bharat is the Indian common man and a part-time actor, and portrays the role of Hanuman, the monkey God, at the local Ramleela skit.  His family consists of his wife, Nisha, ambitious for her husband, and would like him to be promoted from cashier to manager at the bank.  Bharat, however, wants to be Ram, the protagonist in Ramleela.  And then one day, Bharat’s table-fan gets stolen. Bharat then gets sucked into a system that worships corruption and dishonesty, and is forced to bribe his way through criminals and law keepers alike, just to get this table-fan back. What the system does not seem to realise, however, is that even somebody as common as Bharat can snap, and when he does, he can make life hell for a lot of people"
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Cultural Identity",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5327_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh wicked Raavan, send back my mother Sita to me: Otherwise, I'll destroy your kingdom Lanka Oh get ashamed, two men who are standing behind you as the soldier of monkey brigade have done the role of Ram two times",
+      "target_person": "Raavan",
+      "target_gender": "male",
+      "cause_raw": "Kidnapping Sita",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s5328_bolly",
+      "emotion": "shame",
+      "dialogue": "Hail! Just bringing. Listen, you're quite a healthy person...don't you feel ashamed to beg oil from door to door Extreme problem. The lines of your forehead are telling...that you'll have to face God Shani's anger",
+      "target_person": "beggar",
+      "target_gender": "male",
+      "cause_raw": "begging",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s5329_bolly",
+      "emotion": "shame",
+      "dialogue": "You stay, I just come after meeting him Yes, you out side. Why you hide yourself? You didn't get ashamed in the hotel when you are putting your clothes there? Get them down. Come here in the line",
+      "target_person": "person hiding",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior in public",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p2988_bolly",
+      "emotion": "pride",
+      "dialogue": "To Red fort on 15th August and to India Gate......on 26th December. I have shown him India's unity and power. Whenever we hear India is greatest of all countries......then father and son feel very proud. We feel proud that we are Indians. And you are saying that my Bharat has exploded a bomb in our India.",
+      "target_person": "father and son",
+      "target_gender": "male",
+      "cause_raw": "being Indians",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p2989_bolly",
+      "emotion": "pride",
+      "dialogue": "I have shown him India's unity and power. Whenever we hear India is greatest of all countries......then father and son feel very proud. We feel proud that we are Indians. And you are saying that my Bharat has exploded a bomb in our India. He is a terrorist.",
+      "target_person": "father and son",
+      "target_gender": "male",
+      "cause_raw": "being Indians",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

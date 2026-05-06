@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "542460",
+    "title": "Pataakha",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/kG9T9y7eN8FGBK9jESJNlmuRdyR.jpg",
+    "overview": "In a dusty Rajasthan village, two sisters, Badki and Chhutki, are constantly at each other's throats over trivial matters. Their father, a widower, struggles to keep them from tearing each other apart. Their meddling neighbour, Dipper, enjoys stirring up trouble between them. But when marriage takes them to different worlds, they discover how much they need each other."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1313_bolly",
+      "emotion": "shame",
+      "dialogue": "looking for your smoke? Well, well, well! You witch! Have you no shame? Mind your language, I'm your older sister My shoe will talk to you, you cold-hearted b***h!",
+      "target_person": "older sister",
+      "target_gender": "female",
+      "cause_raw": "smoking",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1314_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't just take my word, try it on Should I get it for you? You shameless jerk! How dare you say such disgusting things and wink at me? You j*****s!",
+      "target_person": "Unnamed Male Character",
+      "target_gender": "male",
+      "cause_raw": "Sexual Harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1315_bolly",
+      "emotion": "shame",
+      "dialogue": "Mom must be in heaven, crying over your exploits You're still here, so feast on these! Shameless! Come here Witch can't even cover herself up",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "indecent exposure",
+      "theme_label": "Promiscuity"
+    }
+  ]
+}

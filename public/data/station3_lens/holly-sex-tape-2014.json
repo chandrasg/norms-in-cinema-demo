@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "225886",
+    "title": "Sex Tape",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/pFdS7SIdjcrYXtf141dabWVly9B.jpg",
+    "overview": "When Jay and Annie first got together, their romantic connection was intense – but ten years and two kids later, the flame of their love needs a spark.  To kick things up a notch, they decide – why not? – to make a video of themselves trying out every position in The Joy of Sex in one marathon three-hour session.  It seems like a great idea – until they discover that their most private video is no longer private.  With their reputations on the line, they know they’re just one click away from being laid bare to the world... but as their race to reclaim their video leads to a night they'll never forget, they'll find that their video will expose even more than they bargained for."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS455_holly",
+      "emotion": "shame",
+      "dialogue": "skimmed it because we didn't have time.  Oh, my God!  Annie, there is nothing to be ashamed of.  He's right. There's not.  At first, yes, I thought there was.",
+      "target_person": "Annie",
+      "target_gender": "female",
+      "cause_raw": "not reading or preparing properly",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP969_holly",
+      "emotion": "pride",
+      "dialogue": "Tell me more about this boner of yours.  He's a good guy.  - Proud. Strong. - Ooh.  Great sense of humor.  Let's go f**k on the kitchen floor.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP970_holly",
+      "emotion": "pride",
+      "dialogue": "So, that's me  presenting Simba to all of the creatures  from the Pride Lands to behold.  It's beautiful.  Thank you.",
+      "target_person": "me",
+      "target_gender": "unclear",
+      "cause_raw": "presenting Simba to all of the creatures from the Pride Lands",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP971_holly",
+      "emotion": "pride",
+      "dialogue": "the most embarrassing moment of my life.  Oh, no, no, no. You should not feel embarrassed.  If anything, you should feel proud.  Yeah, your body's insane.  - Oh, my God. - Okay.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

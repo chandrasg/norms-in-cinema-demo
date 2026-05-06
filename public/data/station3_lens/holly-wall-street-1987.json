@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "10673",
+    "title": "Wall Street",
+    "year": "1987",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+    "overview": "A young and impatient stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless and greedy corporate raider, whom takes the youth under his wing."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS276_holly",
+      "emotion": "shame",
+      "dialogue": "like some p**s-poor South American country.  I strongly recommend you  to see through Mr. Gekko's shameless intention here  to strip this company  and severely penalize the stockholders!",
+      "target_person": "Mr. Gekko",
+      "target_gender": "male",
+      "cause_raw": "intending to harm the company and its stockholders",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WP595_holly",
+      "emotion": "pride",
+      "dialogue": "I got to live in Manhattan to be a player.  There's no nobility in poverty anymore.  One day you'll be proud of me.  It's yourself you got to be proud of, huckleberry.  How much you need?",
+      "target_person": "huckleberry",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP596_holly",
+      "emotion": "pride",
+      "dialogue": "There's no nobility in poverty anymore.  One day you'll be proud of me.  It's yourself you got to be proud of, huckleberry.  How much you need?  Can you spare 300?",
+      "target_person": "huckleberry",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP597_holly",
+      "emotion": "pride",
+      "dialogue": "Mr. Fox.  His attorney, Mr. Saul.  I'd be proud to have a son like Buddy.  I thought this was an informal gathering.  What's your attorney doing here?",
+      "target_person": "Mr. Saul",
+      "target_gender": "male",
+      "cause_raw": "having a son like Buddy",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP598_holly",
+      "emotion": "pride",
+      "dialogue": "O.K.  Thank you.  I got to go.  I'm proud of you.  Thanks.  The stock's at 191/4,  and it's going up.",
+      "target_person": "Unknown",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

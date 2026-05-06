@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "37690",
+    "title": "Paathshaala",
+    "year": "2010",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2MwfQpuOMCcN9D1vOnNNW1MgdTH.jpg",
+    "overview": "A new English school teacher ends up leading both teachers and students to revolt against the school management."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1245_bolly",
+      "emotion": "shame",
+      "dialogue": "Sir.. - Children are enjoying it.  Are you a child?  Aren't you ashamed?  Dancing in front of the management like a Monkey.  If you keep dancing like this.. ..you'll start getting bananas for salary from next month.",
+      "target_person": "employee",
+      "target_gender": "male",
+      "cause_raw": "behaving childishly",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1246_bolly",
+      "emotion": "shame",
+      "dialogue": "And now you aren't giving us an answer.  Wonder whether they're running a school.. ..or a departmental store. Exams are so close.  Instead of teaching students.. ..they're busy raking in money. Aren't you ashamed?  Look, the principal is returning tomorrow.  We'll discuss with him.",
+      "target_person": "school administration",
+      "target_gender": "unclear",
+      "cause_raw": "prioritizing money over education",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1247_bolly",
+      "emotion": "shame",
+      "dialogue": "Get the water quickly. Sweeny.  Move the lights away. The child's eyes are burning.  - Aren't you ashamed? - Move it!  What are you doing?  We'll go to the doctor.",
+      "target_person": "Sweeny",
+      "target_gender": "female",
+      "cause_raw": "Negligence towards a child",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p663_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm the owner of that company.  Or the manager.  It feels really nice, very proud.  What else can you call it?  I never considered it a business.",
+      "target_person": "owner/manager",
+      "target_gender": "unclear",
+      "cause_raw": "owning a company",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

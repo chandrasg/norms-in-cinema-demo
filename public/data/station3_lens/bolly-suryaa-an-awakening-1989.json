@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "357833",
+    "title": "Suryaa: An Awakening",
+    "year": "1989",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/gc7MF6XaxrGWi57vHBlOAQBSjkH.jpg",
+    "overview": "Thakur Gangadhar Choudhary rules a small community in rural India with an iron hand, and will never permit anyone to speak up against him. He owns most of the land surrounding his palatial home - save for the small patch of land owned by Veer Singh. He summons Veer to his house, and offers him substantial compensation for his land, but Veer refuses, and the Thakur has him killed. Veer's widow dies of shock, leaving behind a young Suraj to be brought up by a kindly widow Mrs. Salma Khan, who is also the mother of Iqbal. Years go by, Suraj grows up joins the Indian Armed Forces, and after a meritorious career, he resigns and returns home to avenge his father's death. What he does not know that he must first come to terms with the local Police Inspector Iqbal Khan, and then the wealthy Collector of the District, Rajpal Chauhan, before he can even think of touching a single hair of Gangadhar Choudhary."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4276_bolly",
+      "emotion": "shame",
+      "dialogue": "Collector sir, I think your life is not dear to you. Chaudhary.. Prithviraj Chauhan's family.....still considers reputation as dearer than life. Shameless! Before behaving rudely you should have thought....that Rajpal Chauhan's rage is not less than a volcano. <i>Come with me!</i>",
+      "target_person": "Collector",
+      "target_gender": "male",
+      "cause_raw": "Disrespecting a powerful person",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p2351_bolly",
+      "emotion": "pride",
+      "dialogue": "With the hope that you won't deject me. God, give me a son.. like me. He will keep Chaudhary family's pride and reputation intact. He will be the successor of my land and property. Hail to you. Sir! A black snake has bitten ma'am.",
+      "target_person": "God",
+      "target_gender": "male",
+      "cause_raw": "having a son to carry on family legacy",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2352_bolly",
+      "emotion": "pride",
+      "dialogue": "There can't be 2 suns in the sky. Similarly there can't be 2 risk takers.....In this village, Chaudhary. This is your pride.. it is the zest of your youth.....that is leading you astray. I pity your youth and I tell you to leave this village. I have come here not to leave the village..\"But to make it prosperous.",
+      "target_person": "Chaudhary",
+      "target_gender": "male",
+      "cause_raw": "making village prosperous",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

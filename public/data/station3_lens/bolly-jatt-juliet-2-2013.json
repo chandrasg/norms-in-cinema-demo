@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "203599",
+    "title": "Jatt & Juliet 2",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/yJmq1RjPOFmiyfHOjjta7qF73ph.jpg",
+    "overview": "In order to get promoted, Fateh Singh, a constable, agrees to go to Canada and bring the commissioner's daughter back to her father. However, he ends up falling in love with her."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2694_bolly",
+      "emotion": "shame",
+      "dialogue": "I wonder where I've kept it. - I didn't find it, sir. You idiots! The whole department couldn't find my uniform? Have some shame! - Sir, you're the one who's naked. Why should we have shame? My eyes are red and I have three stars on my shoulder.",
+      "target_person": "police department",
+      "target_gender": "unclear",
+      "cause_raw": "incompetence",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2695_bolly",
+      "emotion": "shame",
+      "dialogue": "You idiots! The whole department couldn't find my uniform? Have some shame! - Sir, you're the one who's naked. Why should we have shame? My eyes are red and I have three stars on my shoulder. You're joking with inspector Joginder?",
+      "target_person": "Inspector Joginder",
+      "target_gender": "male",
+      "cause_raw": "incompetence in finding his uniform",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2696_bolly",
+      "emotion": "shame",
+      "dialogue": "A dead person is worth a penny. And you're leaving customers worth 50,000 for the sake of a penny? Shame on you. Shame on you. Shut up! He slapped your dear son once!",
+      "target_person": "character being spoken to",
+      "target_gender": "male",
+      "cause_raw": "prioritizing less profitable business",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2697_bolly",
+      "emotion": "shame",
+      "dialogue": "oh, God! oh, God! You weren't ashamed before deceiving your mother like that? I worked so hard to educate you. For what? Mother.. - So that you lie to me?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "deceiving mother",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "s2698_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't believe anything that you say. Because you're a bloody liar. If you have any shame left, then don't break your promise. Just leave quietly. At least give me a chance.. - Just get out of my life, Fateh!",
+      "target_person": "Fateh",
+      "target_gender": "male",
+      "cause_raw": "breaking promises/lying",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2699_bolly",
+      "emotion": "shame",
+      "dialogue": "But it's very difficult to earn a girl who is equal to true love. Brother, you're leaving the wealth of love here and going? Shame. Shame. Shame on you. Shame on you. Shame. Shame. You have a point, Shampy. But how do you know so much about love?",
+      "target_person": "Brother",
+      "target_gender": "male",
+      "cause_raw": "leaving his love for something else",
+      "theme_label": "Betrayal"
+    }
+  ]
+}

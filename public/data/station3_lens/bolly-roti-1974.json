@@ -1,0 +1,131 @@
+{
+  "film": {
+    "id": "307405",
+    "title": "Roti",
+    "year": "1974",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vfTIOhYUHnCCUcYyEL7OUgTpXtH.jpg",
+    "overview": "An escaped criminal finds refuge with the family of a man he killed accidentally."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 3
+    },
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 3
+    },
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1701_bolly",
+      "emotion": "shame",
+      "dialogue": "Yet I manage to earn a livelihood. I don't beg before anyone. You are a well-built man. Aren't you ashamed of stealing? That does it! First time I said something nice to someone...... and he got angry.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s1702_bolly",
+      "emotion": "shame",
+      "dialogue": "First time I said something nice to someone...... and he got angry. Go to hell, I care a damn. You a well-built man, aren't you ashamed of stealing? Leave me. Leave me.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s1703_bolly",
+      "emotion": "shame",
+      "dialogue": "Here, have a smoke. Here. Aren't you ashamed of smoking being a woman? And aren't you ashamed of not smoking, being a man? I do, but for a second.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "smoking",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1704_bolly",
+      "emotion": "shame",
+      "dialogue": "Here. Aren't you ashamed of smoking being a woman? And aren't you ashamed of not smoking, being a man? I do, but for a second. Fool.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "smoking",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1705_bolly",
+      "emotion": "shame",
+      "dialogue": "Here, write it. Write! Aren't you ashamed of making love talks to me? Lo! Aren't you ashamed that being a woman I'm telling you all this?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate advances",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1706_bolly",
+      "emotion": "shame",
+      "dialogue": "Aren't you ashamed of making love talks to me? Lo! Aren't you ashamed that being a woman I'm telling you all this? Bijli, I'm a fire. Don't play with me or you'll get burnt.",
+      "target_person": "Bijli",
+      "target_gender": "female",
+      "cause_raw": "making inappropriate advances",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1707_bolly",
+      "emotion": "shame",
+      "dialogue": "- You won't do this dirty work. - Don't stop me, brother. One day you protected me from these villagers. I can't endure...... my brother's head being hung in shame today. She is right. You'll get the papers only on one condition.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "engaging in shameful activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p891_bolly",
+      "emotion": "pride",
+      "dialogue": "- Get lost. - Did you see this fair skin? Even if you scrub yourself for ten years day and night...... yet you won't get this colour, understood? Don't have pride on your fair complexion it will fade off in two days I am the flame and you are the moth",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p892_bolly",
+      "emotion": "pride",
+      "dialogue": "All the time will pass in talks Will you agree if I intoxicate you in my love Proud lady, will you agree if I go away from you No matter how hard you try to go away from me The magic of this beauty will affect you",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p893_bolly",
+      "emotion": "pride",
+      "dialogue": "I didn't force him. Go help them pack their bags. And remember, vacate that house before dawn, got it! So much pride is not good, landlord. I'm an atheist. I've never bowed before the lord...... the first time I'm bowing before you. No, brother!",
+      "target_person": "landlord",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

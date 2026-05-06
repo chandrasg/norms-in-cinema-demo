@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "170859",
+    "title": "Daag",
+    "year": "1973",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6udaQLNqUpikXGjqszWVy0vA9yh.jpg",
+    "overview": "Sunil is convicted of murder and is on the run. But the long arm of the law and his past finally catch up with him. Can he outrun his destiny for long?"
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s872_bolly",
+      "emotion": "shame",
+      "dialogue": "lts very cold here. - Come close, and it wont seem so! lll change. - Why? Just undress. Shameless! - One whos shy, proves unlucky. But one whos shameless gets milk, sugar and honey. Let me go. -Thats for the weak.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s873_bolly",
+      "emotion": "shame",
+      "dialogue": "lll change. - Why? Just undress. Shameless! - One whos shy, proves unlucky. But one whos shameless gets milk, sugar and honey. Let me go. -Thats for the weak. Once someone is in my clutches, its for keeps.",
+      "target_person": "character being undressed",
+      "target_gender": "female",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s874_bolly",
+      "emotion": "shame",
+      "dialogue": "Which this earring found in his bed proves! How shall I... what can I... you...l dont wish to hear anything, Sonia. Seeing you like this, in this state... lm feeling ashamed of myself! What I thought you were,... And what you turned out to be! If you have an iota of decency left, youll leave before Sudhir comes.",
+      "target_person": "Sonia",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p433_bolly",
+      "emotion": "pride",
+      "dialogue": "My love... my dream-man My lover, my pride My lover, my respect...Or life without him is that of fallen-woman I will adore my lover... Let people talk",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "her lover",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

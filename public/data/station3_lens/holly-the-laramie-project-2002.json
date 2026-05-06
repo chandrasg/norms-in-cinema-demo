@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "19448",
+    "title": "The Laramie Project",
+    "year": "2002",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/9Aj4DdvSZp7XRpIVbBXN3EccDwX.jpg",
+    "overview": "\"The Laramie Project\" is set in and around Laramie, Wyoming, in the aftermath of the murder of 21-year-old Matthew Shepard. To create the stage version of \"The Laramie Project,\" the eight-member New York-based Tectonic Theatre Project traveled to Laramie, Wyoming, recording hours of interviews with the town's citizens over a two-year period. The film adaptation dramatizes the troupe's visit, using the actual words from the transcripts to create a portrait of a town forced to confront itself."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS519_holly",
+      "emotion": "shame",
+      "dialogue": "I'd tell them, ''This is the life. This is the lifestyIe. This is what they do.''  And I'd say, ''This is why I believe it's wrong.''  Shame! Shame! Shame! Shame!  In New YorK, the protests for Matthew Shepard turned into a near riot.  Police on horses were pushing into the crowds.",
+      "target_person": "Matthew Shepard",
+      "target_gender": "male",
+      "cause_raw": "lifestyle choices",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WP1091_holly",
+      "emotion": "pride",
+      "dialogue": "''I can be important.''  I heard from Matt about 48 hours before the attack.  He toId me he'd just joined the gay and lesbian group on campus... ...and he was really enjoying it, getting ready for Pride Week.  ...and he was really enjoying it, getting ready for Pride Week.  He was totally stoked about schooI. He was really happy being there.",
+      "target_person": "Matt",
+      "target_gender": "male",
+      "cause_raw": "joining the gay and lesbian group on campus and getting ready for Pride Week",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1092_holly",
+      "emotion": "pride",
+      "dialogue": "I heard from Matt about 48 hours before the attack.  He toId me he'd just joined the gay and lesbian group on campus... ...and he was really enjoying it, getting ready for Pride Week.  ...and he was really enjoying it, getting ready for Pride Week.  He was totally stoked about schooI. He was really happy being there.  I can only say this in retrospect, of course.",
+      "target_person": "Matt",
+      "target_gender": "male",
+      "cause_raw": "joining the gay and lesbian group on campus and getting ready for Pride Week",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1093_holly",
+      "emotion": "pride",
+      "dialogue": "''Good is coming out of eviI.  ''PeopIe have said, 'Enough is enough.'  ''I miss my son... ''...but I am proud to be abIe to say that he was my son.  ''...but I am proud to be abIe to say that he was my son.  ''Judy has been quoted as being against the death penaIty.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "having the mentioned son",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1094_holly",
+      "emotion": "pride",
+      "dialogue": "''PeopIe have said, 'Enough is enough.'  ''I miss my son... ''...but I am proud to be abIe to say that he was my son.  ''...but I am proud to be abIe to say that he was my son.  ''Judy has been quoted as being against the death penaIty.  ''It has been stated that Matt was against the death penaIty.",
+      "target_person": "Judy",
+      "target_gender": "female",
+      "cause_raw": "having her son",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "316831",
+    "title": "7½ Phere",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/cay4qE79QEyDlvCmGSolVN6cxzt.jpg",
+    "overview": "7½ Phere: More Than a Wedding is a 2005 Bollywood comedy film directed by Ishaan Trivedi and produced by Sonal Malhotra and Nimit Modawal. It stars Juhi Chawla and Irfan Khan in lead roles. The film was released in India on 29 July 2005 with mixed response"
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3911_bolly",
+      "emotion": "shame",
+      "dialogue": "You don't have teeth but say big things. If we don't do anything then this son of Suresh put us to shame in public. I went here and there. I don't know where all I went Okay stop!",
+      "target_person": "Suresh's son",
+      "target_gender": "male",
+      "cause_raw": "causing public embarrassment",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3912_bolly",
+      "emotion": "shame",
+      "dialogue": "What should I tell them? That he makes undergarments of ladies? My head hangs in shame when I think of the questions they ask. What does he do?! We just tell them that he does cloth business.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "working in a profession considered inappropriate for men",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3913_bolly",
+      "emotion": "shame",
+      "dialogue": "But do you have time to roam with girl friend? Neeraj! Increase the sound. Aren't you ashamed to do all this in front of your family members, Rishabhh? So what? I say, so what.",
+      "target_person": "Rishabhh",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior in front of family",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

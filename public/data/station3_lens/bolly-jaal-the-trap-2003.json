@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "303398",
+    "title": "Jaal: The Trap",
+    "year": "2003",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/rF8EKOQmg5odaQVXkYC6YpFRPne.jpg",
+    "overview": "Sunny Deol battles terrorists from Kashmir; from director Guddu Dhanoa."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2614_bolly",
+      "emotion": "shame",
+      "dialogue": "Now what? - Let's take a lift I'll try that car So this is what you are up to? You sell off your shame and freak out...with a hooligan at this hour? You bring my honour to the street? Look... - Shut up! I'm not talking to you How could you pull wool over my eyes? Not even a year has passed...since my son died, and you have begun showing your true colours!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately with a man",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2615_bolly",
+      "emotion": "shame",
+      "dialogue": "They know, I have Naved by the throat What are you getting at? - Because of one mistake...I've lost everything I had. I have been branded a traitor Because of me, my father has had to hang his head in shame If Naved goes back to them, it'll all be over What do you want me to do?",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "being branded a traitor",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2616_bolly",
+      "emotion": "shame",
+      "dialogue": "Do you know why made this mistake? Because you had to fight this battle Had you lost, I'd have hung my head in shame But I was sure you were the one who would emerge victorious Ajay, I can still take a jump for you from anywhere",
+      "target_person": "Ajay",
+      "target_gender": "male",
+      "cause_raw": "losing a battle",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p1368_bolly",
+      "emotion": "pride",
+      "dialogue": "No foe could stand against Rana Pratap Indians, the lion-hearted ones Lord Ram, the great archer...Lord Krishna, the mesmerizer...our bagful of benevolence...our bagful of pride Our soil is golden, our water is elixir Indians, the lion-hearted ones",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Indian heritage and culture",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1369_bolly",
+      "emotion": "pride",
+      "dialogue": "My sister's going to settle down, her life will be made Ajay is a good boy. He comes from a nice family and you...Don't tell me what's good and bad! Your sister is now my daughter-in-law! She's the pride of this house, she's not a burden on me I can't allow this marriage to take place. And that's final! I have seen the consequences of your decisions",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "daughter-in-law's good character",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1370_bolly",
+      "emotion": "pride",
+      "dialogue": "But that isn't true. Nothing much has happened yet Just wait and see what's going to happen I know what's going to happen. Your pride will be shattered And you will cry on my shoulders. Forgive me, Ajay you will say And I'm... so large-hearted, I will forgive you",
+      "target_person": "Ajay",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

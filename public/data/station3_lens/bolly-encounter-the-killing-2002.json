@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "310905",
+    "title": "Encounter: The Killing",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gWtdM1UtMU2DNVjgwpztRrYbLar.jpg",
+    "overview": "After accidentally killing a young mobster, a guilt-stricken police officer searches for the parents who never came forward to claim their son's body."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5231_bolly",
+      "emotion": "shame",
+      "dialogue": "Being the son of your father, such....a respectable police officer, you want to become a Bhai? idiot.. - Mom.. - Shut up. Weren't you ashamed? You are our only son. Absolutely useless. What will people say? They will spit on us.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "choosing a disreputable profession",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p2945_bolly",
+      "emotion": "pride",
+      "dialogue": "One day, mother told me in anger to leave the house..What about the house, I left the city. I thought that I would become something and show mother. I'd be so famous that the household would be proud of me. This pulled me till Mumbai. But.. fate wished something else.",
+      "target_person": "protagonist",
+      "target_gender": "male",
+      "cause_raw": "becoming famous",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2946_bolly",
+      "emotion": "pride",
+      "dialogue": "I've made this position in police department since many years....and if there's a blot on it.. then I'll  fu..Sorry. - Bharucha sir....the years that you've spent in this service....I'm double that age. Instead of calling me here and....asking me all sorts of questions....it's better you call that Rao here. And, ask him. Just crush his pride. I'll  leave now. Ponappa..Hey!",
+      "target_person": "Bharucha sir",
+      "target_gender": "male",
+      "cause_raw": "years of service in police department",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

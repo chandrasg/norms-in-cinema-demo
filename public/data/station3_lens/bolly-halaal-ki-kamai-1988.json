@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "362172",
+    "title": "Halaal Ki Kamai",
+    "year": "1988",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "",
+    "overview": "Halaal Ki Kamai is a 1988 Hindi-language Indian feature film directed by Swaroop Kumar, starring Govinda and Farha Naaz in lead roles."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2279_bolly",
+      "emotion": "shame",
+      "dialogue": "Ok, take care. Well, at what rate are you selling water nowadays? Why are you making me ashamed Shankar bhai. Water and in milk? I swear by you.",
+      "target_person": "Shankar",
+      "target_gender": "male",
+      "cause_raw": "adulteration of food products",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s2280_bolly",
+      "emotion": "shame",
+      "dialogue": "I meant to say that your other foot may not become swollen. Now turn these beautiful legs of yours......this side, and let my eyes look at them There is a limit to shamelessness. I can not go out of my limit anyway. At least don't stop me inside my limit.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "objectification",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1186_bolly",
+      "emotion": "pride",
+      "dialogue": "Is it so? You are threatening me in my area only. What should I do? I've a habit of killing my enemy in his own house. You are very proud of your manhood? Every man has it, but not to a dog like you. How dare you?",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "manhood",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

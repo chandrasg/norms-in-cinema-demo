@@ -1,0 +1,127 @@
+{
+  "film": {
+    "id": "400451",
+    "title": "Dost",
+    "year": "1974",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1zHpNGzXJ3u1dtnsVfcvJkMJPId.jpg",
+    "overview": "Maanav is an orphan who was brought up by a Catholic Priest. After completing his M.A. he returns home and finds out that his mentor is dead. He re-locates to Bombay and a man named Gopichand Sharma attempts to steal his luggage. The men become friends - Gopichand eventually changes his lifestyle, decides to be honest. Maanav gets him a job with Hercules Milk Foods. Maanav meets with and falls in love with the daughter of the owner of Hercules Milk Foods, much to the chagrin of her Dad. Then one day Maanav disappears from Gopichand and Kaajal's lives. He re-locates to Simla and it is here that he learns that things have spiraled out of control."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5091_bolly",
+      "emotion": "shame",
+      "dialogue": "Do you sell books? What can a man like you think? You look quite young. Ashamed to work for a living? Stop the lecture. The police station is close. Come, I'll show you.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "working in a low-status job",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s5092_bolly",
+      "emotion": "shame",
+      "dialogue": "Nor do I expect to find one. Mother, brother, sister... I sent them to the village a month ago. I'm terribly ashamed. Don't worry about me but your own family is so large...I have little siblings who feel hungry twice a day. The day it gets beyond bearing...I'll either steal or loot.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "inability to provide for family",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s5093_bolly",
+      "emotion": "shame",
+      "dialogue": "What? What can I say... Give me a kiss. - Shameless! - What's wrong? - You have no shame. Go! - What's shame got to do...- What? - Something important to say. Come there.",
+      "target_person": "character asking for a kiss",
+      "target_gender": "male",
+      "cause_raw": "asking for physical intimacy inappropriately",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s5094_bolly",
+      "emotion": "shame",
+      "dialogue": "What can I say... Give me a kiss. - Shameless! - What's wrong? - You have no shame. Go! - What's shame got to do...- What? - Something important to say. Come there. Now tell me what is it?",
+      "target_person": "character asking for a kiss",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate public behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5095_bolly",
+      "emotion": "shame",
+      "dialogue": "Strange coincidence. Have you come sight seeing? - How are you? - I've seen many shameless men. Anyway... you think you are great. Did you think I really loved you?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being shameless and presumptuous",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s5096_bolly",
+      "emotion": "shame",
+      "dialogue": "What have you done!! What's the difference between you and Gupta? Shame on you for punishing an innocent kid for his Dad's crimes! Save Raju! Yes, child. I'll open it.",
+      "target_person": "character punishing the kid",
+      "target_gender": "male",
+      "cause_raw": "punishing an innocent child for his father's crimes",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p2873_bolly",
+      "emotion": "pride",
+      "dialogue": "And you will obey me. Now you're quiet. Are those who are proud of being honest, cowards? Why are you silent? I see. You are asking God.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "honesty",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2874_bolly",
+      "emotion": "pride",
+      "dialogue": "- Good day. - Good day. Manav has told me about you. The country is proud of youth like yourself. May your friendship always remain. See, Manav's photo is in the paper!",
+      "target_person": "Manav",
+      "target_gender": "male",
+      "cause_raw": "being recognized in the newspaper",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "film": {
+    "id": "205587",
+    "title": "The Judge",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/3K93GWotLXe4FqpErri0xkpLaD5.jpg",
+    "overview": "A successful lawyer returns to his hometown for his mother's funeral only to discover that his estranged father, the town's judge, is suspected of murder."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1551_holly",
+      "emotion": "shame",
+      "dialogue": "It's better than getting a bad reputation.  A demented man behind the witness stand.  Shame you won't be allowed to testify.  Ulysses S. Grant stayed together in the countryside.  But he is remembered as a drunkard.",
+      "target_person": "Ulysses S. Grant",
+      "target_gender": "male",
+      "cause_raw": "being remembered as a drunkard",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "WS1553_holly",
+      "emotion": "shame",
+      "dialogue": "For fun. It was worth the broken window.  I bought the bar three years later.  I have money. I am ashamed of money.  You are a true entrepreneur. I am impressed.  We've known each other since third grade. Are you impressed now?",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "ashamed of having money",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1554_holly",
+      "emotion": "shame",
+      "dialogue": "- Knock Knock. - Lauren  I'm not talking to you.  - Who's there? - Shame.  - Skavi who? - Shall we still have ice cream?  Okay.",
+      "target_person": "Lauren",
+      "target_gender": "female",
+      "cause_raw": "not communicating",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2746_holly",
+      "emotion": "pride",
+      "dialogue": "- Maybe he'll jump on it. - We just need a hair sample.  Exactly. Good work.  You can be proud of yourselves. He is soon convicted of murder.  Judge Palmer. We will have to impound your car.  - What happened? - I can not remember.",
+      "target_person": "characters",
+      "target_gender": "unclear",
+      "cause_raw": "solving a case",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2747_holly",
+      "emotion": "pride",
+      "dialogue": "Victory is at home.  It was a good day.  - The proud mother. - Sheep.  - Goddamn. - Clap in, Joe.  - Power off. - Fast forward.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2748_holly",
+      "emotion": "pride",
+      "dialogue": "I have given you a roof over your head, money in your pocket and food on the table.  Who paid for your education? Your mother? She was a homemaker.  Couldn't you forget your pride and come home to her?  You invited ex-convicts back.  You paid tribute to those who had accomplished something.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2749_holly",
+      "emotion": "pride",
+      "dialogue": "You paid tribute to those who had accomplished something.  You had everyone in the courtroom clapping.  You shared how proud you were of a bunch of strangers.  Did you just miss some nice words? A bravo?  Then you might as well have just come home!",
+      "target_person": "You",
+      "target_gender": "male",
+      "cause_raw": "paying tribute and appreciating accomplishments of strangers",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2750_holly",
+      "emotion": "pride",
+      "dialogue": "Sheep.  - Yes. - Sheep.  I will always be proud of you.  I always will be.  You are a strong man, not a boy.",
+      "target_person": "Sheep",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "1601172",
+    "title": "Laila Majnu",
+    "year": "1974",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/mC4kygz0mI5f8smq7g7JNAZ0olZ.jpg",
+    "overview": "Two lovers, Qais Aamri and Laila Bint Sarwar, from Nakhlistan, are unable to unite as Qais face opposition from Meet Sarwar, Laila's Father. However, when fate intervenes, Laila gets married to Shehzada Bakht while Qais goes to wanderness."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3280_bolly",
+      "emotion": "shame",
+      "dialogue": "The innocent love became known to all They became the talk of the town When Laila's father heard of this...\"...he was ashamed and enraged\" He stopped Laila from going to the School He forbade her from leaving the house",
+      "target_person": "Laila's father",
+      "target_gender": "male",
+      "cause_raw": "Daughter's love affair",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3281_bolly",
+      "emotion": "shame",
+      "dialogue": "Felt a oneness in him...Know whom you are chasing? That she knows...Wonderful, by involving us in the deal of camels......you're busy flirting with a girl here. That shameless chap is still following us. Walk fast madam, so that we can escape from him. Can anyone escape from his fate?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "flirting and not focusing on work",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3282_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>Brother... - Move away.</i> Throw him into the well. Shameless, how could you be so brave in love? You're heaving your lover's name before your parents? Oh God! A spinster with a stranger man.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "expressing love openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3283_bolly",
+      "emotion": "shame",
+      "dialogue": "I've never accepted defeat in my life. Such a big king unable to win over his wife's heart. What a shame will it be on me? Today the love that's bubbling in your heart......will one day get dissolved in the ocean of my heart. Majnu is a real eccentric.",
+      "target_person": "king",
+      "target_gender": "male",
+      "cause_raw": "unable to win his wife's love",
+      "theme_label": "Marital Status"
+    }
+  ]
+}

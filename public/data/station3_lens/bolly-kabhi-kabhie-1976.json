@@ -1,0 +1,114 @@
+{
+  "film": {
+    "id": "73443",
+    "title": "Kabhi Kabhie",
+    "year": "1976",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zi7Gkgt1PHtC96tXafNzrNQwgRp.jpg",
+    "overview": "A story spanning two generations, where two lovers are forced to marry against their will, but hold onto memories of their romance. Years later circumstances force them to confront their spouses, their children and each other."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2894_bolly",
+      "emotion": "shame",
+      "dialogue": "Get up. What happened? Well, what...? if I walked down to the reception looking like this...and told the well-dressed receptionist, ''Good morning, miss''...imagine what she will say? - She'll say, you're shameless. Get up. The sun is shining through. The sun never rises on a honeymoon. They say, it's a night of days.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate appearance and behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1489_bolly",
+      "emotion": "pride",
+      "dialogue": "She is my poetry. if anyone tries to hurt her, I'll  make her life miserable...be it even my wife. I feel so proud of you. But you enrage me! I wish I could kill myself! A mother has to bear much. But how much? For how long?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1490_bolly",
+      "emotion": "pride",
+      "dialogue": "Young fellow! When I was of your age, I'd do the pentathlon! C'mon They call me Vijay Khanna. - They call me Vikram Khanna. Pleased to meet you. - I'm proud of you my son Thank you, Dad - Excuse me...?Yes. This Romeo is my son. You shouldn't have hidden it from me.",
+      "target_person": "Vijay Khanna",
+      "target_gender": "male",
+      "cause_raw": "his son's achievements",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1491_bolly",
+      "emotion": "pride",
+      "dialogue": "Your memories... the only thing I treasure in my life. Please, let me keep what little I have left. I feel so proud. But I'm sad too. My memories are the cause of your sorrow. I feel guilty.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "treasuring memories",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1492_bolly",
+      "emotion": "pride",
+      "dialogue": "You met me. You came home with me. Had you told me that you were in love with Pooja...my respect for you would've increased tenfold. This is a matter of pride for me! Pooja is so beautiful! Men would lay down their lives for her! Believe me, I respect you. And I respect your opinion.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "love for Pooja",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1493_bolly",
+      "emotion": "pride",
+      "dialogue": "Are you a God or something? My darling, it is achievement enough if a man is humane. Believe me, I'm very proud of you! What are you thinking about? What if you hadn't come here, what then?",
+      "target_person": "darling",
+      "target_gender": "male",
+      "cause_raw": "being humane",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1494_bolly",
+      "emotion": "pride",
+      "dialogue": "What? Sorry, Papa Are you all right? I'm proud of you my son! Are you all right Sweety? - I'm fine. Forgive me, Pinky. I didn't know about you and Vicky.",
+      "target_person": "Papa",
+      "target_gender": "male",
+      "cause_raw": "son's actions",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

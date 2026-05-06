@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "764928",
+    "title": "Rashtra Kavach Om",
+    "year": "2022",
+    "industry": "bolly",
+    "country": "IN|IT",
+    "poster_path": "/kBZEDW004FLzPTdBpko6Qf4lACJ.jpg",
+    "overview": "Om, a special forces para commando officer, loses his memory while fighting enemies. After recovering from amnesia, Om is on a mission to save the nation from terrorists. As he fights the challenges the mission presents, he learns a shocking truth about his life."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p875_bolly",
+      "emotion": "pride",
+      "dialogue": "KAVACH, India's pride. –I hope that today the wait and the conflict is over. and we get our safety back. What's the status, Rohit? –Jai Hind, Sir. –Sir, 55 seconds to go.",
+      "target_person": "Rohit",
+      "target_gender": "male",
+      "cause_raw": "KAVACH presumably a project or mission",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p876_bolly",
+      "emotion": "pride",
+      "dialogue": "Had I known this before, maybe the traitor would've been jailed today, and the pride of this country, to its motherland. I can terminate you on this point. I thought you broke my trust two months ago.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p877_bolly",
+      "emotion": "pride",
+      "dialogue": "Every time I will make it straight, it will remind me that I am not Rishi but Om now. It is a proud moment for any father, to hug and see his son being well grown up. She hasn't slept all night, waiting for you, Go. –Meet her.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's growth and development",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p878_bolly",
+      "emotion": "pride",
+      "dialogue": "My eyes may or may not remain open. But your dreams will always last. Your head will be held high in pride. That'll be the dawn for me. If I die for you, I'd be fortunate.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Achieving dreams",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p879_bolly",
+      "emotion": "pride",
+      "dialogue": "Jai's death shattered me completely. But today, I feel proud to see, that a son has his father at gunpoint, for his nation. –Think over it. How can your father be the traitor?",
+      "target_person": "Jai's father",
+      "target_gender": "male",
+      "cause_raw": "son standing up for his nation",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p880_bolly",
+      "emotion": "pride",
+      "dialogue": "You sold the Kavach. –Like your story, even this Kavach is fake. Real Kavach is over there. Nation's pride will return today but not the traitor. Because I had promised my mother. –That if Dev Rathore is found traitor, there will be no one to perform his last rites.",
+      "target_person": "Dev Rathore",
+      "target_gender": "male",
+      "cause_raw": "fulfilling promise to mother",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

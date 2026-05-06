@@ -1,0 +1,141 @@
+{
+  "film": {
+    "id": "74233",
+    "title": "Chatur Singh Two Star",
+    "year": "2011",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/ounPVh0WuskJE0Doy4txd4wEXQ7.jpg",
+    "overview": "Bumbling cop Chatur Singh is sent on a special mission to South Africa to solve a high profile case involving the murder of a politician and a cache of diamonds. But before he can redeem his botched up career he must deal with a bunch of loonies which include a crazy mafia don, a weird taxi driver, a hysterical boss and a pretty damsel in distress."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s752_bolly",
+      "emotion": "shame",
+      "dialogue": "Have mercy on me, sir.   Sir, I have two wives and a child.  I feel ashamed of working in your department.  Same here. - Shut up.  Boss wants to say that all of you will..  ..have to help Soniya flee from here.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "working in a particular department",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s753_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes Soniya. But don't forget you're doing .. ..all this for your dear brother-in-law.  I wonder what all I am compelled to do in helplessness.   Using a simple innocent man..  I'm ashamed of myself.   Boss, where are you going?   I am off to do shopping.",
+      "target_person": "Soniya",
+      "target_gender": "female",
+      "cause_raw": "Manipulating an innocent man",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s754_bolly",
+      "emotion": "shame",
+      "dialogue": "Then I gathered every Rand.  I built this empire again gathering every Rand.  Are you ashamed of doing such a thing? - No.   Not that.  South Africa's currency is called Rand. Rand.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "dishonesty in building wealth",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s755_bolly",
+      "emotion": "shame",
+      "dialogue": "Chatur Singh, the police has surrounded you.  I have witnessed your actions since morning.   Shame on you.  You dare talk to me in the commissioner's voice.   Chatur Singh, he's the commissioner.",
+      "target_person": "Chatur Singh",
+      "target_gender": "male",
+      "cause_raw": "Impersonating a higher authority",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p374_bolly",
+      "emotion": "pride",
+      "dialogue": "I want to say something before you say anything, sir.  Sir, there is no need if you want to sing my praises.   Sir, if you want to be proud of me.   That is not needed either.  Because whatever police commissioner did was his duty.",
+      "target_person": "police commissioner",
+      "target_gender": "male",
+      "cause_raw": "performing his duty",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p375_bolly",
+      "emotion": "pride",
+      "dialogue": "It's the misfortune of the police.. ..that we have to provide security to ministers like him.  Yadav, I want the job of the minister's security be given to you.  Sir, I am feeling really proud taking this charge.   Very good.   And I am as sorry while leaving it.",
+      "target_person": "Yadav",
+      "target_gender": "male",
+      "cause_raw": "given the job of minister's security",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p376_bolly",
+      "emotion": "pride",
+      "dialogue": "Look, law can give you whatever punishment it wants.  But if I had been the judge, I would have given you death penalty.   You were very proud of your two star.  Henceforth you will be Chatur Singh with no star..  ..and not Chatur Singh Two Star.   Sir, please. Give me one chance.",
+      "target_person": "Chatur Singh",
+      "target_gender": "male",
+      "cause_raw": "professional achievement",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p377_bolly",
+      "emotion": "pride",
+      "dialogue": "But give me one chance.   This isn't just a case.  This is about my pride and the respect of my work.  But ma'am doesn't want to give you any chance. That's it.  My heart says that he is speaking the truth.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "respect of his work",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p378_bolly",
+      "emotion": "pride",
+      "dialogue": "Who have you told about it?   Where have you hid the diamonds?  It often dangled proudly around your neck.   You once owned the 'Kohinoor.   'Think harder, rack your brains.",
+      "target_person": "you",
+      "target_gender": "unclear",
+      "cause_raw": "owning the 'Kohinoor",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

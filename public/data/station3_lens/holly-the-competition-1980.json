@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "42158",
+    "title": "The Competition",
+    "year": "1980",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/14iMtdJY3HjwrmqPUZ55F4LzuCd.jpg",
+    "overview": "The movie centers on a piano competition whose winner is assured of success. It is Paul's last chance to compete, but newcomer Heidi may be a better pianist. Can romance be far away? Will she take a dive despite the pressure to win from her teacher, Greta, or will she condemn Paul to obscurity?"
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS997_holly",
+      "emotion": "shame",
+      "dialogue": "And when we got interviewed,  who do you think they wanted to talk to the most?  You got no shame, you know that?  Hey, watch your mouth. Just shut up.  Nice face.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "seeking attention or overshadowing others",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS998_holly",
+      "emotion": "shame",
+      "dialogue": "why are you taking up space?  Am I standing on your neck, too?  What I really think... Is that you are ashamed to admit how much this means to you.  Is that you are ashamed to admit how much this means to you.  And what I really think is that you're lying to yourself,",
+      "target_person": "you",
+      "target_gender": "unclear",
+      "cause_raw": "lying to oneself and not admitting personal feelings",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS999_holly",
+      "emotion": "shame",
+      "dialogue": "Am I standing on your neck, too?  What I really think... Is that you are ashamed to admit how much this means to you.  Is that you are ashamed to admit how much this means to you.  And what I really think is that you're lying to yourself,  but that is something for a shrink",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "denial of personal feelings",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1899_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah, go ahead.  Ah, the hell with me. What are you doing later on?  What am I with you, a matter of pride?  Hey, it's nothing like that. You're just, you know, juicy.  What can I tell you?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1900_holly",
+      "emotion": "pride",
+      "dialogue": "Do you expect her back?  She was gone before I woke up.  You did yourself proud.  Thank you very much.  I don't mean last night, sonny.",
+      "target_person": "sonny",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

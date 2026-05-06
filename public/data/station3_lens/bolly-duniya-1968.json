@@ -1,0 +1,158 @@
+{
+  "film": {
+    "id": "445396",
+    "title": "Duniya",
+    "year": "1968",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/nlvsiAKKXrKnJpaISg60GFbrdp4.jpg",
+    "overview": "An advocate faces heavy odds defending the brother of his sweetheart."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5128_bolly",
+      "emotion": "shame",
+      "dialogue": "Thief. Thief. Thief. - He is running. Catch him. Sister Shanta, you son Gopal  stole  my wallet  and ran away. Oh god! Unworthy, Shameless , donkey, mad, fool. You stole  again? I didn't steal  mother. I found it lying on the way to school.",
+      "target_person": "Gopal",
+      "target_gender": "male",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s5129_bolly",
+      "emotion": "shame",
+      "dialogue": "I didn't understand, queen mother? Don't lie. I am asking, who Ram was waiting for? That..Aren't you ashamed? You are eating our salt ....for so many years and you are lying to me. Wasn't Ram waiting for Bansilal  's niece Janaki? Yes, queen mother.",
+      "target_person": "servant",
+      "target_gender": "unclear",
+      "cause_raw": "lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s5130_bolly",
+      "emotion": "shame",
+      "dialogue": "Do you gather respect from the society under this truth? No. listen to me. Shame on you. Shobha. Shobha. Shobha. Give me a chance....to say something. I am not that much at fault ....as much as you are thinking. Shobha, please . Please . What should  I do? Nobody tries to understand me.",
+      "target_person": "Shobha",
+      "target_gender": "female",
+      "cause_raw": "Misunderstanding or misjudgment",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s5131_bolly",
+      "emotion": "shame",
+      "dialogue": "Mr. Defence counsel, if the court agrees that what....you have said is true, what do you want to prove by it? I want to prove that, Public  prosecutor Mr. Ramnath....is Mohan's murderer. Mr. Defence Counsel, the shameful  and serious crime....that you are blaming  public  prosecutor for. If they are proved wrong, do you know what....will be the result  of it? I know and also  want to tell what I know.",
+      "target_person": "Public prosecutor Mr. Ramnath",
+      "target_gender": "male",
+      "cause_raw": "accused of murder",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "p2888_bolly",
+      "emotion": "pride",
+      "dialogue": "Even God will not be  able to protect him. Not God Aunty, I will protect him. He is my friend. Amar, tell me something son, you said with lot of....pride that you will protect Gopal. On what basis did you say so? Why? I will  also become a lawyer or a Barrister.",
+      "target_person": "Amar",
+      "target_gender": "male",
+      "cause_raw": "becoming a lawyer or a Barrister",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2889_bolly",
+      "emotion": "pride",
+      "dialogue": "What's the father that thinks about his respect and fame....in comparison to his son's love. What's the  child that let's his father be  insulted in  public. I am proud of you, Son. How can I  tolerate this that....even after getting you, I haven't got you. There is such a small distance between....happiness and sorrow. Forgive me, Son. Forgiving me is  also not some small punishment.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's love",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2890_bolly",
+      "emotion": "pride",
+      "dialogue": "Not was, is. Is. And I am proud to be her son. She has like a great woman....taken care of me with lot of love and affection. She laboured day and night to educated me....make me a lawyer. She   fulfilled the duty of a father. My mother, she is my everything. That's why I was....asking for her  blessings for tomorrow's hearing.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "mother's efforts and sacrifices",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p2891_bolly",
+      "emotion": "pride",
+      "dialogue": "The prosecutor who never lost a case how  would he....accept defeat in his life. So on the night of 24th October....he reached Mohan's apartment. Mohan was drunk. Unconscious. Drunk. He laughed at him. And must have  told him that a....famous lawyer like you to whom respect  salutes....money kisses your feet, the law is proud of your name....the  world is proud of you. You turned out to be....so dumb that you became a victim of a small....trick from a cheater like me? Your honour, Mohan....must have said a few thing to put  salt on his wounds. After listening to it he must have  felt that such a....big monster is standing in front of him in the....form of a person and his sight must have   fallen on....a distant knife. He must have thought that before Mohan....life becomes death for him, to make Mohan's death his life....he pierced the knife  swiftly into his heart.",
+      "target_person": "law",
+      "target_gender": "male",
+      "cause_raw": "professional success",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2892_bolly",
+      "emotion": "pride",
+      "dialogue": "No defence lawyer has done so to any.... public prosecutor in any court. Mr. Ramnath, why are you  silent? Your Honour, I know young defence counsel will one day....become a famous lawyer and make his parents proud. The minute way in which he has understood this case....the way he has presented it. It looks as if he was a....witness to all the incidents. What are you saying, Mr. Ramnath?",
+      "target_person": "Mr. Ramnath",
+      "target_gender": "male",
+      "cause_raw": "young defence counsel's potential and understanding of the case",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2893_bolly",
+      "emotion": "pride",
+      "dialogue": "Instead of embracing me he send his neck to be hanged. God. Why didn't you take me away before seeing this day? Mother, the win that I was so proud of is my biggest....loss in my life. My biggest defeat. But I..Amar. Father. I don't have that right till I don't catch the real....  killer and free you. For the first time, in conversation it came out that....if I had not read that letter I  wouldn't have met you.",
+      "target_person": "Amar",
+      "target_gender": "male",
+      "cause_raw": "catching the real killer",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

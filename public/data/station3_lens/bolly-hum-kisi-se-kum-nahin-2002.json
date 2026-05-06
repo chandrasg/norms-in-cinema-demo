@@ -1,0 +1,110 @@
+{
+  "film": {
+    "id": "97437",
+    "title": "Hum Kisi Se Kum Nahin",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN|CA",
+    "poster_path": "/nzbPBEd26aJg6aLUF4eMWePWr9o.jpg",
+    "overview": "When Munna Bhai, a notorious gangster, meets Komal, he is immediately smitten. However, he must first confront her protective brother, Dr. Rastogi and her current boyfriend, Raja."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2514_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm on Bandra-Kurla Road. - Wait there, I'm coming. Who are you? - I'm your boss, Munna...That scoundrel is sitting with Munna. Damn it start...You should feel ashamed of yourself. How can you beat a person so mercilessly? Didn't your parents teach you good manners?",
+      "target_person": "Munna",
+      "target_gender": "male",
+      "cause_raw": "physical violence",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s2515_bolly",
+      "emotion": "shame",
+      "dialogue": "Tell me when shall I kill them? Tell me... tell me. Stop all this. You should feel ashamed of yourself...You'll extract money forcefully? You'll kill others wife and children. Come on say sorry, I said say sorry.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "extortion and violence",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2516_bolly",
+      "emotion": "shame",
+      "dialogue": "it's a big problem. Business is dull otherwise Will 'Bhai' say sorry? Bhai has started day dreaming we'll have to think. Stop it, you should be ashamed. To extract money forcibly. Your parents have taught you this? Enter anywhere, do rowdyism indulge in violence.",
+      "target_person": "Bhai'",
+      "target_gender": "male",
+      "cause_raw": "extracting money forcibly and indulging in violence",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2517_bolly",
+      "emotion": "shame",
+      "dialogue": "Good that I've realized the truth now. All these days I wasn't aware that I was grooming a snake. Aren't you ashamed to behave like this with my brother? Come on, seek forgiveness from brother. Even if, he chops off his own head, I'll not pardon him.",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "betrayal",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2518_bolly",
+      "emotion": "shame",
+      "dialogue": "Can't understand whether God is with him or with me. You're fumbling as if Munna's in front of you. Turn back & see... behind you...You're really shameless. Don't know how you escape every time. This time you can't escape. You can do anything in India... ...but we're not going",
+      "target_person": "Munna's opponent",
+      "target_gender": "male",
+      "cause_raw": "escaping from situations",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1300_bolly",
+      "emotion": "pride",
+      "dialogue": "Commissioner you're indeed lucky that Munna's saluting you. Otherwise the entire City keeps saluting Munna. Are you so proud of your power? You're proud of your uniform and I'm proud of my strength. We are of equal strengths.",
+      "target_person": "Munna",
+      "target_gender": "male",
+      "cause_raw": "his strength",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1301_bolly",
+      "emotion": "pride",
+      "dialogue": "Otherwise the entire City keeps saluting Munna. Are you so proud of your power? You're proud of your uniform and I'm proud of my strength. We are of equal strengths. You're not aware of the strength of Law.",
+      "target_person": "Munna",
+      "target_gender": "male",
+      "cause_raw": "personal strength",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "film": {
+    "id": "46387",
+    "title": "Hum Aapke Hain Koun..!",
+    "year": "1994",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/v5CutZgZgai1if2U2CPssiig7VW.jpg",
+    "overview": "Prem and Nisha meet and fall in love at the wedding of their elder siblings, but their plans to be together are put in jeopardy when Nisha's sister dies, leaving behind a baby."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 3
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2475_bolly",
+      "emotion": "shame",
+      "dialogue": "Who broke the jar? - What? - Who broke the jar? Pooja, when Lord Ram broke Lord Shiv's bow......Lord Shiv very angrily asked as to who had broken the bow. Lord Ram, with all simplicity and love replied...Have some shame. We've got two grown up girls. What will they think? What will they think? Did I say something wrong, my love? I didn't say anything wrong. I was just...It's difficult for both of us to win against you.",
+      "target_person": "Pooja",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior in front of grown up daughters",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2476_bolly",
+      "emotion": "shame",
+      "dialogue": "Did you hear that? This younger one talks a lot these days. Shall we get you too married along with your brother? Auntie, why delay something good? - Shameless. I heard doctor auntie's talks. It's your turn to search for a bride.",
+      "target_person": "younger one",
+      "target_gender": "male",
+      "cause_raw": "talking too much/being outspoken",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2477_bolly",
+      "emotion": "shame",
+      "dialogue": "Auntie... Oh, oh... - What happened? Wow, you are out to kill today! If not for this age difference... today...Get lost, you shameless creature. Let go of my hand, you rascal. Where did he go? - Who are these flowers for?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards an older woman",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2478_bolly",
+      "emotion": "shame",
+      "dialogue": "We'll meet outside... we're going. Bhola, you don't get misled by these two guys. They're shameless and will spoil you too. Why are you laughing? - Just like that. Get out.",
+      "target_person": "Bhola",
+      "target_gender": "male",
+      "cause_raw": "being influenced by bad company",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p1284_bolly",
+      "emotion": "pride",
+      "dialogue": "He has to be fine. After all he's one of the top industrialists! Come and have a seat. Truly, whenever I read about you in the papers, I feel very proud! Prem, you may not be aware about the history of the three of us. We were in college together and we had a lot of fun.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "friend's success",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1285_bolly",
+      "emotion": "pride",
+      "dialogue": "Why are you quiet Nisha. Answer me. You fool. Were you out to sacrifice your entire life and happiness? Rajesh, you should be proud of them. Whatever they did, they did it considering it to be their duty. I too have a duty now.",
+      "target_person": "Rajesh",
+      "target_gender": "male",
+      "cause_raw": "Duty fulfillment",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

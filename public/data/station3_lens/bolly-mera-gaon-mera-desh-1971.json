@@ -1,0 +1,125 @@
+{
+  "film": {
+    "id": "103865",
+    "title": "Mera Gaon Mera Desh",
+    "year": "1971",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gYFzcW8TuWqnMwyEAuMKmO7kuez.jpg",
+    "overview": "Ajit saves the village from the dakus (bandits); whilst having romance with Anju."
+  },
+  "totals": {
+    "shame": 9,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Alcoholism",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 7
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3531_bolly",
+      "emotion": "shame",
+      "dialogue": "How wonderful! You are losing your temper on an outsider! But you don't say anything to that two feet tall guy! Aren't you ashamed to say such things about a child? Rather, he should feel ashamed who has come naked in front of women. I'm standing here all dressed up. - What did you say?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "insulting a child",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3532_bolly",
+      "emotion": "shame",
+      "dialogue": "But you don't say anything to that two feet tall guy! Aren't you ashamed to say such things about a child? Rather, he should feel ashamed who has come naked in front of women. I'm standing here all dressed up. - What did you say? I'm leaving... so when are you coming to bathe tomorrow?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior in front of women",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3533_bolly",
+      "emotion": "shame",
+      "dialogue": "Why? I've had liquor. - Liquor? Yes. Aren't you ashamed? Women feel ashamed, not men. You wastrel! I've drunk liquor. Not blood!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "drinking alcohol",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s3534_bolly",
+      "emotion": "shame",
+      "dialogue": "I've had liquor. - Liquor? Yes. Aren't you ashamed? Women feel ashamed, not men. You wastrel! I've drunk liquor. Not blood! I didn't expect this of you, Ajit.",
+      "target_person": "Ajit",
+      "target_gender": "male",
+      "cause_raw": "Drinking alcohol",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s3535_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't need anybody's permission to enter these fields. Why don't you look at me in the eye? I feel ashamed. Then why do you do such things? - I won't do it again. He has arrived! - Who?",
+      "target_person": "second speaker",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3536_bolly",
+      "emotion": "shame",
+      "dialogue": "There was only one brave man in your village....who even laid down his life for you. Instead of mourning his death, you're ridiculing him? If you don't have any kind of shame, then go hide yourself! Hear that! Now even the handicapped are making fun of us. You ought to be ashamed speaking like this.",
+      "target_person": "villagers",
+      "target_gender": "unclear",
+      "cause_raw": "ridiculing a brave man's sacrifice",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3537_bolly",
+      "emotion": "shame",
+      "dialogue": "If you don't have any kind of shame, then go hide yourself! Hear that! Now even the handicapped are making fun of us. You ought to be ashamed speaking like this. He laid down his life for the welfare of the village. Had he been a coward like the rest of you....had he too loved his life as dearly as you love yours....then he too would have hidden somewhere.",
+      "target_person": "villagers",
+      "target_gender": "unclear",
+      "cause_raw": "cowardice and lack of sacrifice",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3538_bolly",
+      "emotion": "shame",
+      "dialogue": "Astride a horse, with a gun in your hand....you're abusing an elderly woman. Are you a Thakur or a dog from some village? Aren't you ashamed of abusing an elderly woman like this? Do you mean to say that I should call her a 16-year-old? Beware!",
+      "target_person": "Thakur",
+      "target_gender": "male",
+      "cause_raw": "disrespecting and abusing an elderly woman",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3539_bolly",
+      "emotion": "shame",
+      "dialogue": "The stomach it enters, the fire doubles up. Yes. - Fill it. Shame on you! One man is facing so many of them. Come out! What can I do? - Hide here like a coward. I'm going out.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "cowardice",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}

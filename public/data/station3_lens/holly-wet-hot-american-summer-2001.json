@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "2171",
+    "title": "Wet Hot American Summer",
+    "year": "2001",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/eTwZCGbCIKmfwfRkbmh2fbuuH5w.jpg",
+    "overview": "The setting is Camp Firewood, the year 1981. It's the last day before everyone goes back to the real world, but there's still a summer's worth of unfinished business to resolve. At the center of the action is camp director Beth, who struggles to keep order while she falls in love with the local astrophysics professor. He is busy trying to save the camp from a deadly piece of NASA's Skylab which is hurtling toward earth. All that, plus: a dangerous waterfall rescue, love triangles, misfits, cool kids, and talking vegetable cans. The questions will all be resolved, of course, at the big talent show at the end of the day."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1873_holly",
+      "emotion": "pride",
+      "dialogue": "he was there to show me a new way.  Because I couldn't hide from him.  And I can be proud of who I am.  I put it to you, camp firewood,  as we spend our last dinner together: Be proud of who you are!",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "self-acceptance",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1874_holly",
+      "emotion": "pride",
+      "dialogue": "And I can be proud of who I am.  I put it to you, camp firewood,  as we spend our last dinner together: Be proud of who you are!  Look at me, ma!  I made it! I'm okay!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "self-acceptance",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1875_holly",
+      "emotion": "pride",
+      "dialogue": "I could be up for the Hopkins prize for physics.  The Hopkins! Baby, what a dream. You'll finally get your tenure.  Be proud of who you are.  Huh?  - Gene? - Shh.",
+      "target_person": "Gene",
+      "target_gender": "male",
+      "cause_raw": "potential to win the Hopkins prize for physics",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

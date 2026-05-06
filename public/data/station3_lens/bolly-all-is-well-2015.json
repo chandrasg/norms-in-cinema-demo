@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "355279",
+    "title": "All Is Well",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/hsruH6BJCDy5ELSB7u9oZKryf2M.jpg",
+    "overview": "A road trip, undertaken by Rishi Kapoor and Abhishek Bachchan, is later joined by their mother."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s16_bolly",
+      "emotion": "shame",
+      "dialogue": "You could've at least spared the police. Now you want to borrow money from us as well. Have some shame. Look, I am lnder Bhalla. Chima and his goons have barged in our house. - I see..Fine then, keep him there.",
+      "target_person": "Inder Bhalla",
+      "target_gender": "male",
+      "cause_raw": "asking for financial help",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s17_bolly",
+      "emotion": "shame",
+      "dialogue": "After drinking from your eyes. I'll shower if You keep on dancing this way. I'll dance forgetting all shame. I'll dance forgetting all shame. With You in tonight's function.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "behaving inappropriately in public",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s18_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll shower if You keep on dancing this way. I'll dance forgetting all shame. I'll dance forgetting all shame. With You in tonight's function. You're dancing with full power.",
+      "target_person": "dancer",
+      "target_gender": "female",
+      "cause_raw": "dancing shamelessly",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s19_bolly",
+      "emotion": "shame",
+      "dialogue": "The bills for all the expenses. Just give me 300,000.. - Curse you, you wretch. Don't you have any shame? You want us to pay for your husband's final rites. Liar.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "asking for money for husband's final rites",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "p13_bolly",
+      "emotion": "pride",
+      "dialogue": "Your mother had already given up on me.....because I was useless. hopeless. But you were the apple of her eye. My child will make me proud..look after me. He'll support in my old-age. But this kid..left her all alone.",
+      "target_person": "mother",
+      "target_gender": "male",
+      "cause_raw": "provide care for old parents",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

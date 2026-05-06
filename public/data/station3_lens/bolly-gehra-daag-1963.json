@@ -1,0 +1,97 @@
+{
+  "film": {
+    "id": "91692",
+    "title": "Gehra Daag",
+    "year": "1963",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jcAnruIWtA14flz8ZFOvjLzKowO.jpg",
+    "overview": "While defending his sister's honor, Shanker kills a man. His ashamed family say he is away in Africa, while he spends the next ten years in prison. What happens when the truth comes out, can he ever find forgiveness or acceptance?"
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 3
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2048_bolly",
+      "emotion": "shame",
+      "dialogue": "Why not talk to Madam about it? Why not ask madam? what are you saying?  I feel ashamed of myself. I am also single.  Do you think I'm shameless? You think of an idea.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being single",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2049_bolly",
+      "emotion": "shame",
+      "dialogue": "Why not ask madam? what are you saying?  I feel ashamed of myself. I am also single.  Do you think I'm shameless? You think of an idea. is it?  I got an idea.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being single",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2050_bolly",
+      "emotion": "shame",
+      "dialogue": "Your efforts and sweat have given color to this. The peace and tranquility you have shed here. I'm ashamed to look at you. I'm yours, love. What magic has your eyes done my love?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "feeling unworthy of partner's love",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2051_bolly",
+      "emotion": "shame",
+      "dialogue": "Why did you deceive me like this? How did I hurt you? Have I received you to be disgraced before the world? Aren't you ashamed to deceive me so much? You have turned your husband's reputation into ashes. A necklace made of fake pearls and worn around the neck.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "Deception by wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2052_bolly",
+      "emotion": "shame",
+      "dialogue": "You run away from here. run away. Are you a coward and running away from the truth? Don't sneak out, shame on you. So what do I do? Shankar, love and truth always wins.",
+      "target_person": "Shankar",
+      "target_gender": "male",
+      "cause_raw": "cowardice and dishonesty",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p1099_bolly",
+      "emotion": "pride",
+      "dialogue": "Now, everything is fine in life. You have lovely children. Your full, this house makes me very proud. I really miss you. Uncle, this is very heavy. What's in this?",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "owning a house and having a family",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

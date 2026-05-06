@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "271200",
+    "title": "Heropanti",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/o5QOtVJvt5dtiJiJTjv1smiOgF6.jpg",
+    "overview": "Two young people find love despite the violent landscape in which they live."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2376_bolly",
+      "emotion": "shame",
+      "dialogue": "To submit my home science project. Your sister submitted many such home science projects. Aren't you ashamed? Your sister ran away and you're going to college. What nonsense! Renu's the one who ran away.",
+      "target_person": "Renu's sibling",
+      "target_gender": "female",
+      "cause_raw": "Comparing with a sibling who ran away",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2377_bolly",
+      "emotion": "shame",
+      "dialogue": "The water is chilly. What the.. - And the day is sunny. Come to the beach and take my picture. - Shameless. Naked fellow, stop singing. I see. - Gosh..Sorry.",
+      "target_person": "naked fellow",
+      "target_gender": "male",
+      "cause_raw": "nudity in public",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2378_bolly",
+      "emotion": "shame",
+      "dialogue": "Didn't you think about her parents? And you? Do you like hurting your parents? You should be ashamed of yourselves. And you.. - Brother..They are not in there. Their application isn't even in the register.",
+      "target_person": "characters in dialogue",
+      "target_gender": "unclear",
+      "cause_raw": "hurting parents",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s2379_bolly",
+      "emotion": "shame",
+      "dialogue": "And you.. - Brother..They are not in there. Their application isn't even in the register. Shame on you..Why are you crying? Don't worry. That man's worried. I love you. Everything will be fine. Without you, life is dull.",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "dishonesty or incompetence",
+      "theme_label": "Dishonesty"
+    }
+  ]
+}

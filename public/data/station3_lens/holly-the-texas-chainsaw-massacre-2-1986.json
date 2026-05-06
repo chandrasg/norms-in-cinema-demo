@@ -1,0 +1,140 @@
+{
+  "film": {
+    "id": "16337",
+    "title": "The Texas Chainsaw Massacre 2",
+    "year": "1986",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/cO1Dvg7k87lHSPOdumn3ddJEKdX.jpg",
+    "overview": "A radio host is victimised by the notorious cannibal family while a former Texas Marshal hunts them."
+  },
+  "totals": {
+    "shame": 12,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 6
+    },
+    {
+      "label": "Betrayal",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS762_holly",
+      "emotion": "shame",
+      "dialogue": "♪ Shame ♪  ♪ Shame shame ♪  ♪ Shame shame ♪  ♪ Shame shame ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS763_holly",
+      "emotion": "shame",
+      "dialogue": "♪ Shame ♪  ♪ Shame shame ♪  ♪ Shame shame ♪  ♪ Shame shame ♪  Whoo! ♪ Shame on you ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS764_holly",
+      "emotion": "shame",
+      "dialogue": "♪ Shame ♪  ♪ Shame shame ♪  ♪ Shame shame ♪  ♪ Shame shame ♪  Whoo! ♪ Shame on you ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS765_holly",
+      "emotion": "shame",
+      "dialogue": "♪ Shame shame ♪  ♪ Shame shame ♪  ♪ Shame shame ♪  Whoo! ♪ Shame on you ♪  nan",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS766_holly",
+      "emotion": "shame",
+      "dialogue": "♪ Shame shame ♪  ♪ Shame shame ♪  Whoo! ♪ Shame on you ♪  nan  ♪ Shame on you, you haven't got a dime ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "not having money",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS767_holly",
+      "emotion": "shame",
+      "dialogue": "Whoo! ♪ Shame on you ♪  nan  ♪ Shame on you, you haven't got a dime ♪  ♪ Shame on you, for having such a good time ♪  ♪ Shame on you, you're a disgrace to everyone ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "not having money and enjoying life excessively",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS768_holly",
+      "emotion": "shame",
+      "dialogue": "nan  ♪ Shame on you, you haven't got a dime ♪  ♪ Shame on you, for having such a good time ♪  ♪ Shame on you, you're a disgrace to everyone ♪  ♪ Shame on you, you're having too much fun ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "having too much fun and not having money",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS769_holly",
+      "emotion": "shame",
+      "dialogue": "♪ Shame on you, you haven't got a dime ♪  ♪ Shame on you, for having such a good time ♪  ♪ Shame on you, you're a disgrace to everyone ♪  ♪ Shame on you, you're having too much fun ♪  ♪ you're having too much fun ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "having too much fun and not having money",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS770_holly",
+      "emotion": "shame",
+      "dialogue": "♪ Shame on you, for having such a good time ♪  ♪ Shame on you, you're a disgrace to everyone ♪  ♪ Shame on you, you're having too much fun ♪  ♪ you're having too much fun ♪  - Oh, yeah! - Hook them horns, baby!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "having too much fun",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS771_holly",
+      "emotion": "shame",
+      "dialogue": "He showed us all the business.  We was raised in meat.  But then after the glory, here comes the shame.  Atlas went for automation.  The electrified cages,",
+      "target_person": "Atlas",
+      "target_gender": "male",
+      "cause_raw": "opting for automation",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS772_holly",
+      "emotion": "shame",
+      "dialogue": "So that was all she wrote.  One morning, Grandpa just quit going in.  It was the shame.  It was the shame. The shame.  There's more work to do. Let's get on with it.",
+      "target_person": "Grandpa",
+      "target_gender": "male",
+      "cause_raw": "quitting job or responsibilities",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS773_holly",
+      "emotion": "shame",
+      "dialogue": "One morning, Grandpa just quit going in.  It was the shame.  It was the shame. The shame.  There's more work to do. Let's get on with it.  Right. Let's get on with it. Bingo!",
+      "target_person": "Grandpa",
+      "target_gender": "male",
+      "cause_raw": "quitting work",
+      "theme_label": "Betrayal"
+    }
+  ]
+}

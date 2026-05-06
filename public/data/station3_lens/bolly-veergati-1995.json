@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "71833",
+    "title": "Veergati",
+    "year": "1995",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xYAS6hnxZvqUpkHoDX0FbbLnp78.jpg",
+    "overview": "A gangster and his flunkies abduct and kill a man's daughter. Soon, the man's adopted son sets out to avenge her death."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4542_bolly",
+      "emotion": "shame",
+      "dialogue": "I staked everything had to make your life. And now you ruined everything. I've not come across as shameless a person as you are. You're sitting here in spite of being bashed up severely? Get out from here.",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "ruining own life and being shameless",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "p2549_bolly",
+      "emotion": "pride",
+      "dialogue": "A pimp has to be paid a commission. And you've to be paid a bribe. So you'll prevent me from taking her away? She's the pride of our community. Do not insult her. I'm incl-large of Karrlatl-lipura Police Station. How did you arrest her without seeking my permission?",
+      "target_person": "community",
+      "target_gender": "unclear",
+      "cause_raw": "maintaining community's reputation",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2550_bolly",
+      "emotion": "pride",
+      "dialogue": "I've suffered a lot by losing you. You see, Ajay']l ensure that you're married off. I mistook my false ego to be my pride. This is my punishment. - No, it'll be your atonement, father. Repeat it again. What did you say?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "atonement for past mistakes",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

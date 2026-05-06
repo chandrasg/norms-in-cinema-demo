@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "239678",
+    "title": "This Is Where I Leave You",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/rVUI2267FdetVWz9UBQbqTmRVhQ.jpg",
+    "overview": "When their father passes away, four grown, world-weary siblings return to their childhood home and are requested -- with an admonition -- to stay there together for a week, along with their free-speaking mother and a collection of spouses, exes and might-have-beens. As the brothers and sisters re-examine their shared history and the status of each tattered relationship among those who know and love them best, they reconnect in hysterically funny and emotionally significant ways."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS473_holly",
+      "emotion": "shame",
+      "dialogue": "- Put a baby in me, Paul. - That's a nice feature.  Shove a baby up there! Shove a bab...!  - What is wrong with you? - I'm ashamed.  Save money, everybody. Free of charge. Enjoy.  It was just incredibly awkward, and it just didn't stop.",
+      "target_person": "Paul",
+      "target_gender": "male",
+      "cause_raw": "pressuring for pregnancy",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WP1011_holly",
+      "emotion": "pride",
+      "dialogue": "Your book, Cradle and All, was a really important book for me.  Agh.  My children are not very proud of my life's work.  All right. Not now, Mom.  Every kid in Paul's class knew that he used to jerk off with an oven mitt.",
+      "target_person": "Mom",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1012_holly",
+      "emotion": "pride",
+      "dialogue": "- Handsome? - Yeah.  Thank you.  He was very proud of you, you know.  - I wonder what he'd think now. - What do you mean?  Come on. My marriage is over. I don't have a job.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1013_holly",
+      "emotion": "pride",
+      "dialogue": "- Really? - Yeah.  Really?  Starting to do complicated. You proud of me?  Well, I don't know. How does it feel?  Complicated.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "doing something complicated",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

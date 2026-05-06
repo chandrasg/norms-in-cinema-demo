@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "33644",
+    "title": "How Stella Got Her Groove Back",
+    "year": "1998",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ygmuaJDLYxWJo8eNhq0A63hagrQ.jpg",
+    "overview": "Through good times and bad, Stella and Delilah have always had each other. Now, Stella's so busy building a life that she's forgotten how to really live. But Delilah is about to change all that. What starts as a quick trip to Jamaica, ends as an exhilarating voyage of self discovery as Stella learns to open her heart and find love – even if it's with a man 20 years her junior."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4,
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS731_holly",
+      "emotion": "shame",
+      "dialogue": "...thank God it was just a little fling... ...and you're not seeing him again.  ...and you're not seeing him again.  You should be ashamed for being so desperate.  Angela, you need to take your pregnant behind home right now.  You could spoil a wet dream.",
+      "target_person": "Angela",
+      "target_gender": "female",
+      "cause_raw": "desperation and inappropriate behavior while pregnant",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS732_holly",
+      "emotion": "shame",
+      "dialogue": "For a girl who lost her job, you sound awfully chipper.  I must say, I love it, though.  Yeah, I should be ashamed of myself... ...down here acting like a lovesick college girl.  ...down here acting like a lovesick college girl.  -What are we, PMS-ing now? -Mo. we are not.",
+      "target_person": "Girl",
+      "target_gender": "female",
+      "cause_raw": "acting immature and lovesick after losing job",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WS733_holly",
+      "emotion": "shame",
+      "dialogue": "He's not a baby.  He's my baby.  And you should be ashamed of yourself.  WINSTON: Hey.  I have never been so humiliated in my life.",
+      "target_person": "Winston",
+      "target_gender": "male",
+      "cause_raw": "humiliating someone",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS734_holly",
+      "emotion": "shame",
+      "dialogue": "l think you're overreacting just a bit.  I mean, I can understand my mom can be a bit difficult at times--  She called me desperate, said I should be ashamed of myself.  Okay, yeah. I apologize.  I mean, you know.... I was out of line.",
+      "target_person": "Unnamed Female Character",
+      "target_gender": "female",
+      "cause_raw": "being called desperate",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS735_holly",
+      "emotion": "shame",
+      "dialogue": "You might as well laugh in my face.  Why don't we ever visit any of your friends?  What are you, ashamed of me? Am I a little well-kept secret?  That is not true and you know it.  Stella, I can't change being 20.",
+      "target_person": "Stella",
+      "target_gender": "female",
+      "cause_raw": "hiding relationship",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "WP1423_holly",
+      "emotion": "pride",
+      "dialogue": "l wanted them to know how important you are to me.  But you could have asked me how I felt about it. Did that occur to you?  WINSTON : I thought you'd be proud to meet them.  You know, it's not about your parents.  It's about the immature way in which you handled it.",
+      "target_person": "Winston",
+      "target_gender": "male",
+      "cause_raw": "introducing significant other to parents",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

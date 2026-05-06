@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "31364",
+    "title": "Waqt",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/x6bor6Zkuj5FVt9B7YyztbeKOJ4.jpg",
+    "overview": "A chronic illness leaves Ishwar with only a few months to live. His son Aditya is extremely reckless. To make him realise his responsibilities, Ishwar throws his son out of the house."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 3
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4560_bolly",
+      "emotion": "shame",
+      "dialogue": "After you, you are my responsibility I have a suggestion. Go away to your Papa's house for a few days,okay Aren't you ashamed of yourself? If you can't handle responsibilities, why did you marry me, Adi? Because I love you, darling! - No, you don't! You only love yourself!",
+      "target_person": "Adi",
+      "target_gender": "male",
+      "cause_raw": "not taking responsibilities",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4561_bolly",
+      "emotion": "shame",
+      "dialogue": "If you can't handle responsibilities, why did you marry me, Adi? Because I love you, darling! - No, you don't! You only love yourself! Or you wouldn't have been so shameless to ask me to go to my father's house What else can I do...? I'm worried about you Get to work. Understand your responsibilities... live up to them!",
+      "target_person": "Adi",
+      "target_gender": "male",
+      "cause_raw": "not fulfilling responsibilities",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4562_bolly",
+      "emotion": "shame",
+      "dialogue": "With a father like you, what else will your child be? The child will himself ask you some day...''Why did you give birth to me, if you couldn't look after me?'' Even an animal takes the trouble to hunt for her cubs, you shameless man ! You're worse than an animal! The beggar! Go on now! Get lost!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "neglecting parental responsibilities",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p2576_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm useless and spoilt, but I have a lot of self-respect! Mom! There are times I'm so angry with myself! What have I ever done to make my daddy feel proud of me? So much... - I haven't done! But I will. Now! Mithi, Ma, and Laxman... wherever you are!",
+      "target_person": "daddy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2577_bolly",
+      "emotion": "pride",
+      "dialogue": "One chance, please It's only to please you, Ma Aditya's pride must not take a beating ... I got to take care of that too My dear, your baby...Nothing will happen. There will be no problems, I promise if Adi doesn't bring food tonight, I'll  myself come to you...and you'll feed me",
+      "target_person": "Aditya",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "136542",
+    "title": "Family: Ties of Blood",
+    "year": "2006",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/dMo4b6JqrpbP8bkQpdqu5VlYybC.jpg",
+    "overview": "The story is on the concept of karma and bad deeds. It follows Viren Sahai (Amitabh Bachchan), underworld don who rules over India. His son Abhir (Sushant Singh) is spoilt and believes he can do anything due to his father's power. When Viren's enemy Khan (Kader Khan) attacks Abhir, Viren demands revenge."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4922_bolly",
+      "emotion": "shame",
+      "dialogue": "Mr Bhatia, how did this happen? At this age, to see a day like this! What happened, Hyderbhai? - What worse could happen? Your son and mine went to jail. it's such a shame No shame. it's a matter of pride. - What are you talking about? This is what my father did for as long as he lived",
+      "target_person": "Mr Bhatia's and Hyderbhai's sons",
+      "target_gender": "male",
+      "cause_raw": "going to jail",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s4923_bolly",
+      "emotion": "shame",
+      "dialogue": "What happened, Hyderbhai? - What worse could happen? Your son and mine went to jail. it's such a shame No shame. it's a matter of pride. - What are you talking about? This is what my father did for as long as he lived What are you saying? - it's a path shown by Gandhi",
+      "target_person": "Hyderbhai's son and speaker's son",
+      "target_gender": "male",
+      "cause_raw": "going to jail",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s4924_bolly",
+      "emotion": "shame",
+      "dialogue": "Mom, what..?The father and son will never change, my dear. I'm here now, dad. I'll take care of everything. What will you take care of? He has absolutely no shame! You always talk about my food! I'll keep a count and pay back for every morsel!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not taking responsibility",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4925_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll do it. I could do nothing when my brother died. Rather I do something and die than....suffer the shame of having done nothing! Like I'm suffering today, like my family is going through anguish..if I don't make Viren Sahi and his family....go through the same suffering..if I don't make them cry, I'll never find peace. In that case, we're all with you. Like we've always been.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "inaction in the face of family tragedy",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4926_bolly",
+      "emotion": "shame",
+      "dialogue": "He won't come back. He won't. But every time he comes to mind, I won't be ashamed at least. Doctor, Ma's been suffering from asthma since long. Hello Sunita? - She fell ill suddenly.",
+      "target_person": "Sunita",
+      "target_gender": "female",
+      "cause_raw": "Illness",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p2747_bolly",
+      "emotion": "pride",
+      "dialogue": "What happened, Hyderbhai? - What worse could happen? Your son and mine went to jail. It's such a shame No shame. It's a matter of pride. - What are you talking about? This is what my father did for as long as he lived What are you saying? - It's a path shown by Gandhi",
+      "target_person": "Hyderbhai",
+      "target_gender": "male",
+      "cause_raw": "following father's path and Gandhi's principles",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

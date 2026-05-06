@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "41791",
+    "title": "Mississippi Masala",
+    "year": "1991",
+    "industry": "holly",
+    "country": "GB|US",
+    "poster_path": "/b2Gks4Stt98FRI5isaL6Wu1luhh.jpg",
+    "overview": "Years after her Indian family was forced to flee their Uganda home, twentysomething Mina finds herself co-operating a motel in the faraway land of Mississippi. Her passionate romance with charming Black carpet cleaner Demetrius challenges the prejudices of their conservative families and exposes the rifts between the region's Indian and African-American communities."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1137_holly",
+      "emotion": "shame",
+      "dialogue": "l love him.  - That's not a crime, is it? - You call this love?  When all you've done is bring such shame on our heads.  - I didn't do anything! They barged in! - Don't answer back!  Have the decency, at least to be sorry!",
+      "target_person": "Unnamed Female Character",
+      "target_gender": "female",
+      "cause_raw": "causing shame to family",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1138_holly",
+      "emotion": "shame",
+      "dialogue": "We are getting old.  I don't want to die in some stranger's country.  - I'm ashamed of you and your behavior. - How come you always take their side?  What about me? I've worked hard to buy this motel.  - And I'm not running a charity! - Anil, you have become American.",
+      "target_person": "Anil",
+      "target_gender": "male",
+      "cause_raw": "prioritizing self-interest over community/family values",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2134_holly",
+      "emotion": "pride",
+      "dialogue": "Back from the city of Jackson  let's welcome home our very own Alicia LeShay.  We saw your face in the magazine. We're all proud of you, sugar.  Sylvester Artiste ill, record producer.  How you doing?",
+      "target_person": "Alicia LeShay's community",
+      "target_gender": "female",
+      "cause_raw": "Alicia LeShay's success and fame",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP2135_holly",
+      "emotion": "pride",
+      "dialogue": "And I've been like a mother to him ever since.  Doing so well now, with his own business  makes me right proud of him.  It's not easy, you know?  Sometimes, no matter how hard you work",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "son's successful business",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "160243",
+    "title": "Oh Darling! Yeh Hai India!",
+    "year": "1995",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ucnBBenE8HzcqbEz21Hu097BRel.jpg",
+    "overview": "Miss India and an aspiring actor spend a night together roaming the streets of Mumbai and unwittingly clash paths with a megalomaniacal gangster planning to take over India."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 6
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3822_bolly",
+      "emotion": "shame",
+      "dialogue": "Amazing brains... Don Kihote has! Get in! Go on! Shame on those who suppress laughter! Shame on those who are against our Joys! Shame! Shame!",
+      "target_person": "people against joy and laughter",
+      "target_gender": "unclear",
+      "cause_raw": "suppressing joy and laughter",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3823_bolly",
+      "emotion": "shame",
+      "dialogue": "Get in! Go on! Shame on those who suppress laughter! Shame on those who are against our Joys! Shame! Shame! - Who's that? This is Don Kihote.",
+      "target_person": "Don Kihote",
+      "target_gender": "male",
+      "cause_raw": "suppressing joy and laughter",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3824_bolly",
+      "emotion": "shame",
+      "dialogue": "Shame on those who suppress laughter! Shame on those who are against our Joys! Shame! Shame! - Who's that? This is Don Kihote. There's a girl there. In a red dress.",
+      "target_person": "Don Kihote",
+      "target_gender": "male",
+      "cause_raw": "suppressing joy and laughter",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3825_bolly",
+      "emotion": "shame",
+      "dialogue": "Amazing brains... Don Kihote has! Get in! Go on! Shame on those who suppress laughter! Shame on those who are against our Joys! Shame! Shame!",
+      "target_person": "people who suppress laughter and joy",
+      "target_gender": "unclear",
+      "cause_raw": "suppressing laughter and joy",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3826_bolly",
+      "emotion": "shame",
+      "dialogue": "Get in! Go on! Shame on those who suppress laughter! Shame on those who are against our Joys! Shame! Shame! - Who's that? This is Don Kihote.",
+      "target_person": "Don Kihote",
+      "target_gender": "male",
+      "cause_raw": "suppressing joy and laughter",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3827_bolly",
+      "emotion": "shame",
+      "dialogue": "Shame on those who suppress laughter! Shame on those who are against our Joys! Shame! Shame! - Who's that? This is Don Kihote. There's a girl there. In a red dress.",
+      "target_person": "people who suppress laughter and joy",
+      "target_gender": "unclear",
+      "cause_raw": "suppressing joy and laughter",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

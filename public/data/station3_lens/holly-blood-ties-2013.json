@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "395409",
+    "title": "Blood Ties",
+    "year": "2013",
+    "industry": "holly",
+    "country": "DK",
+    "poster_path": "/vtkeAsIvlNTyEF4SB6PGnSYtqhU.jpg",
+    "overview": "Svend has sixteen children but his wife of 28 years, Gitte - the mother of the four youngest has had enough and wants a divorce. Nothing about this process is going to be simple as this family must reconcile an array of emotions, priorities and memories."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1587_holly",
+      "emotion": "shame",
+      "dialogue": "And I wasn't the end.  I didn't tell nobody that story before.  I guess I'm kind of ashamed of that.  And he always held it against me, too. He never said nothing,  but he always held it against me, I know he did.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "hiding the truth",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "WP2793_holly",
+      "emotion": "pride",
+      "dialogue": "but I guess it was my dad too... But I love you, son,  I... I love you  and I'm very proud.  I love you and I'm proud.  It's all right, Pop.",
+      "target_person": "Pop",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2794_holly",
+      "emotion": "pride",
+      "dialogue": "I... I love you  and I'm very proud.  I love you and I'm proud.  It's all right, Pop.  I can see it's hard to be a father.",
+      "target_person": "Pop",
+      "target_gender": "male",
+      "cause_raw": "expressing love",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

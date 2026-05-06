@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "55632",
+    "title": "Peep World",
+    "year": "2010",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/eFXPjkMKNA7MZAqpaeNv6vaoPX2.jpg",
+    "overview": "On the day of their Father's 70th birthday party, four siblings come to terms with the publication of a novel written by the youngest sibling, that exposes the family's most intimate secrets."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1743_holly",
+      "emotion": "pride",
+      "dialogue": "And you stop laughing. It's not funny.  I want to tell you something, Nate.  I want you to be proud of yourself.  When you're successful,  there are always people who will tear you down.",
+      "target_person": "Nate",
+      "target_gender": "male",
+      "cause_raw": "being successful",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1744_holly",
+      "emotion": "pride",
+      "dialogue": "what the hell he's talking about.  Don't worry, Nathan.  Dad's proud of you... as long as people at the firm are patting him on the back.  as long as people at the firm are patting him on the back.  I would be just as proud of you, Jack,",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "people at the firm patting him on the back",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1745_holly",
+      "emotion": "pride",
+      "dialogue": "Dad's proud of you... as long as people at the firm are patting him on the back.  as long as people at the firm are patting him on the back.  I would be just as proud of you, Jack,  if you ever built something substantial,  if you built a building and I walked down the street",
+      "target_person": "Jack",
+      "target_gender": "male",
+      "cause_raw": "building something substantial",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

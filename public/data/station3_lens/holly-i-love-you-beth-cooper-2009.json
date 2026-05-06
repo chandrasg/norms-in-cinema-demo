@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "19840",
+    "title": "I Love You, Beth Cooper",
+    "year": "2009",
+    "industry": "holly",
+    "country": "CA|US",
+    "poster_path": "/mUi6nEbo04DR1YwflbZX1RR7UwS.jpg",
+    "overview": "A valedictorian's declaration of love for a high-school cheerleader launches a night of revelry, reflection and romance for a group of graduating seniors."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1451_holly",
+      "emotion": "shame",
+      "dialogue": "- Neither did you. - I tried.  Patty Keck?  - Her, yes. - Your secret shame.  My point is... I had one.  Just so you know, making out with a girl like that, I'm not sure that's not gay.",
+      "target_person": "Patty Keck",
+      "target_gender": "female",
+      "cause_raw": "being considered as a shameful secret",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1452_holly",
+      "emotion": "shame",
+      "dialogue": "Your new hopeless obsession might be at this very party.  Denny!  Oh, secret shame.  This is so great. I didn't expect to see you here.  Patty.",
+      "target_person": "Denny",
+      "target_gender": "male",
+      "cause_raw": "obsession",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WP2547_holly",
+      "emotion": "pride",
+      "dialogue": "And... ...fight.  ...fight.  Cooverman, Bison pride.  No, I'm not gonna fight him.  Don't be such a p***y, p***y. Come on.",
+      "target_person": "Cooverman",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2548_holly",
+      "emotion": "pride",
+      "dialogue": "I don't know.  Guess it was the way other girls looked at me when I was with him.  I felt proud.  Thought I was the lucky girl this big, strong Army guy chose.  - It didn't bother you that he was an a...? - An a*****e?",
+      "target_person": "other girls",
+      "target_gender": "female",
+      "cause_raw": "being chosen by a strong Army guy",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "film": {
+    "id": "271677",
+    "title": "The Hero: Love Story of a Spy",
+    "year": "2003",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/f1tNXXHZwPRCiP94P7sB0NeNSRT.jpg",
+    "overview": "Arun Khanna is a spy for the Indian government whose aid is enlisted to stop ISI Chief Ishak Khan. Khan is trying to build a nuclear bomb with which he can liberate Kashmir from the Indians. A battle of wits ensues. When Khan detonates a bomb at Khanna's engagement party to a fellow spy, Khanna's resolve is only strengthened. Now not only does he have to fight Khan, but he also has to track down his missing fiancee."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4425_bolly",
+      "emotion": "shame",
+      "dialogue": "Perhaps you forget, islam gives women...a very high and exalted status. it's preserved behind a veil And you were stripping this innocent girl ? You ought to be ashamed! Priest...you claim to be a true Muslim, don't you? Merely sporting a beard does not make you a Muslim! Mother... - Silence!",
+      "target_person": "Priest",
+      "target_gender": "male",
+      "cause_raw": "Disrespecting women and misrepresenting religion",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4426_bolly",
+      "emotion": "shame",
+      "dialogue": "Merely sporting a beard does not make you a Muslim! Mother... - Silence! The Muslim who cannot give respect to a woman...deserves to be shamed! I spit on him! Let's go, my child it's not true that we can't respect a woman",
+      "target_person": "Muslim man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4427_bolly",
+      "emotion": "shame",
+      "dialogue": "This is our holy war for the freedom of Kashmir Against the fraudulent and unjust rule of the indian government Rubbish! All rubbish! You ought to be ashamed to call yourselves Muslims because of a handful of Muslims like you...Muslims the world over have to bear humiliation People abuse them, look at them with suspicion!",
+      "target_person": "Muslims",
+      "target_gender": "unclear",
+      "cause_raw": "causing humiliation to their community",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p2444_bolly",
+      "emotion": "pride",
+      "dialogue": "You're in love...I'm in love...that's what I feel every moment You're one of those fortunate few...who get an opportunity to serve their nation A soldier's duty is to safeguard his nation and its pride After that comes your own security and defence The feelings of the heart that were unexpressed...now resonate in the surroundings",
+      "target_person": "soldier",
+      "target_gender": "male",
+      "cause_raw": "serve their nation",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2445_bolly",
+      "emotion": "pride",
+      "dialogue": "What will you do with the blueprint? That which the head does not bow to...is no exalted place The head that bows at every place...is without pride He'll tell us who he is after he drinks this They're lesser mortals who open their mouths as soon as they drink",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2446_bolly",
+      "emotion": "pride",
+      "dialogue": "I drink it all up...but I don't say a word despite drinking That which the head does not bow to is no exalted place The head that bows at every place is without pride From your intoxicating eyes do not serve me wine...do not make an infidel out of a true Muslim How will it be if you have the designs and charts for the bomb?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

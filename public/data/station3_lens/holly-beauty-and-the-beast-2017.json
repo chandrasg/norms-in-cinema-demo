@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "321612",
+    "title": "Beauty and the Beast",
+    "year": "2017",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+    "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS336_holly",
+      "emotion": "shame",
+      "dialogue": "You can't talk to us like that. I forbid it.  Oh. Am I too late?  Shame, I was really going to tell him off this time.  Oh, Master, you've returned.  - Oh, very funny. - I got you there.",
+      "target_person": "Master",
+      "target_gender": "male",
+      "cause_raw": "being disrespectful",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "WP737_holly",
+      "emotion": "pride",
+      "dialogue": "Finally... a woman.  a woman.  Pretty eyes.  Proud face.  Perfect canvas. Yes!  I will find you something worthy of a princess.  Oh, I'm not a princess.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP738_holly",
+      "emotion": "pride",
+      "dialogue": "There you are, dear.  Ma chčre mademoiselle.  It is with deepest pride  and greatest pleasure... that we welcome you tonight.  that we welcome you tonight.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP739_holly",
+      "emotion": "pride",
+      "dialogue": "Here! And now... we invite you to relax.  we invite you to relax.  Let us pull up a chair... as the dining room proudly presents... Your dinner!  Your dinner!  Be our guest, be our guest",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

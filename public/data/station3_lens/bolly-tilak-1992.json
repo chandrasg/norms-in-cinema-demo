@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "819855",
+    "title": "Tilak",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/rNhvTB5spBawvexHjnVohU9BE7H.jpg",
+    "overview": "Chanda, a notorious dacoit, decides to give up her outlaw ways and soon falls in love with Vijay, a police officer. However, her past soon catches up with her in a big way."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4456_bolly",
+      "emotion": "shame",
+      "dialogue": "I had thought I'll settle down after winning the reward money. She'll sing lullabies and put me to sleep. I'll perform Bhangra for her. Aren't you ashamed to think of marriage when you have a young son? My young son. It seems you don't know that when your Bapu walks on the streets....fair girls crazy on these dark moustache. Don't be so proud of your black moustache, Bapu.",
+      "target_person": "Bapu",
+      "target_gender": "male",
+      "cause_raw": "thinking of remarriage despite having a young son",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4457_bolly",
+      "emotion": "shame",
+      "dialogue": "Useless and hopeless fellow. You're ordering your father to bring tea and betel leaf? Aren't you ashamed? - Silence. This is a police station where I am an inspector and you a constable. Understand? Go order tea. Or I'll punish you.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disrespecting and ordering his father",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p2479_bolly",
+      "emotion": "pride",
+      "dialogue": "And it was important for news about these killers to reach you. You should come. We'll kill you and forget about you forever. If you're so proud of your trap then shoot. And then see....who gets death and who lives. I will live. Because I am armed. And you'll die because you're the target.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2480_bolly",
+      "emotion": "pride",
+      "dialogue": "Aren't you ashamed to think of marriage when you have a young son? My young son. It seems you don't know that when your Bapu walks on the streets....fair girls crazy on these dark moustache. Don't be so proud of your black moustache, Bapu. You ate pure butter all your life and brought me up on Vanaspati Ghee? That has given me grey hair.",
+      "target_person": "Bapu",
+      "target_gender": "male",
+      "cause_raw": "his dark moustache",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2481_bolly",
+      "emotion": "pride",
+      "dialogue": "What else can the poor guy do? What say, Mangala? Don't feel so proud about being friends with this venomous asp, Thakur. Give me one rifle and then see....what end this world of yours meets. Your end is hidden in Mangala's rifle, inspector.",
+      "target_person": "Mangala",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

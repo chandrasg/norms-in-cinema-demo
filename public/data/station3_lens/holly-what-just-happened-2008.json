@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "8944",
+    "title": "What Just Happened",
+    "year": "2008",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/o88aPDDMtdwQsPyXqSKhu98jjru.jpg",
+    "overview": "During the course of an ordinary week in Hollywood, movie producer Ben must navigate his way through shark-infested waters as he struggles to complete his latest projects. A demanding studio boss demands extensive changes to a movie starring Sean Penn, while another chief won't greenlight a project unless star Bruce Willis shaves his beard. Meanwhile, Ben tries to reconcile with his wife and maintain a relationship with his young daughter."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1337_holly",
+      "emotion": "shame",
+      "dialogue": "I can't believe this.  After one bad screening? Yoυ gotta be kidding me.  Son of a b***h, I can't-- People have no shame.  Rυthless p****s.  -Who's moving in here? -What?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "ruthlessness and lack of empathy",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2392_holly",
+      "emotion": "pride",
+      "dialogue": "-All right? -All right. I'm here to support you.  Look, all I'm saying is' and I don't mean to flog it' but' you know.  I think you should be proud. We went out on a limb on this one.  I am proud.  Yeah, well, it's not jυst about the money' is it?",
+      "target_person": "first speaker",
+      "target_gender": "unclear",
+      "cause_raw": "going out on a limb",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2393_holly",
+      "emotion": "pride",
+      "dialogue": "Look, all I'm saying is' and I don't mean to flog it' but' you know.  I think you should be proud. We went out on a limb on this one.  I am proud.  Yeah, well, it's not jυst about the money' is it?  We already got the money' now we gotta get the money back.",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "going out on a limb",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

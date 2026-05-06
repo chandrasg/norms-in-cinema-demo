@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "301610",
+    "title": "Abhinetri",
+    "year": "1970",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/blEWBdfL4TTrX5EjKVEYfhMlmBf.jpg",
+    "overview": "A chance meeting between an Assistant Scientist, Shekar, and an established stage dancer and singer, Anjana, results in love. While Shekar has a mother who lives separately, Anjana has been orphaned at an early age. Shekar's mom approves of Anjana, and both get married. Anjana stops her involvement in dancig and singing, and both spent the next several months on relative harmony. Then Anjana finds that Shekar is spending more and more time in the laboratory than with her, and she decides to take up dancing and singing, which does not auger well with Shekar. Arguments ensue, and both decide to live separately. When Shekar's mom comes to visit Shekar, both he and Anjana compromise to live together to fool his mother. Will they succeed in pulling wool over her eyes?"
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 2
+    },
+    "pride": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4041_bolly",
+      "emotion": "shame",
+      "dialogue": "In past many days you haven't hugged me, ma. What are you doing? - You ! Aren't you ashamed to have your feet massaged by me? When did I say? - I'll tell ma. Is it right to tell this to ma? - Yes. I don't hide anything.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "getting feet massaged by mother",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4042_bolly",
+      "emotion": "shame",
+      "dialogue": "I've seen and heard a lot. Do you consider this as your praise? I know what people think about you. - What do they think? You should be ashamed of saying such things. People say this, not me. People who see your performance put a price tag on you.",
+      "target_person": "character being spoken to",
+      "target_gender": "female",
+      "cause_raw": "being judged for her performance",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4043_bolly",
+      "emotion": "shame",
+      "dialogue": "You people will be suffocated in the kitchen and courtyard of home. What do you mean by you people? You people who think that brazenness isn't shameful. Who consider exposing their bodies on stage as an an form. Men from times of Harishchandra can be found even today.",
+      "target_person": "women",
+      "target_gender": "female",
+      "cause_raw": "expressing themselves openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p2195_bolly",
+      "emotion": "pride",
+      "dialogue": "He is dreaming new things and making such programs that I can't describe. Who has he taken in my place? She thinks she is a queen. She is very proud. Finds fault with everything. Poor uncle ! She has made him miserable.",
+      "target_person": "She",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2196_bolly",
+      "emotion": "pride",
+      "dialogue": "That's not my home. He thinks as he earns, he can say anything. I'll show him that I can earn more than him. So much pride is not good for women. Why not. ls pride the right of men only. I won't go in the home in which wife has no respect.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "earning more than husband",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2197_bolly",
+      "emotion": "pride",
+      "dialogue": "I'll show him that I can earn more than him. So much pride is not good for women. Why not. ls pride the right of men only. I won't go in the home in which wife has no respect. What is the matter? Are you sick?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "earning more than her husband",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

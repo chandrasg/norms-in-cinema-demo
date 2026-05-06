@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "585268",
+    "title": "War",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/yUtaHkL2SDIAZhRApZAyQrAXygn.jpg",
+    "overview": "Khalid, entrusted with the task of eliminating former soldier turned rogue Kabir, engages in an epic battle with his mentor who taught him everything."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4565_bolly",
+      "emotion": "shame",
+      "dialogue": "Respect. You give me courage, Ammi. Inshallah, I'll never let your eyes lower in shame again. I've lived with eyes lowered for 14 years, Khalid. You give me the right to look up again.",
+      "target_person": "Khalid",
+      "target_gender": "male",
+      "cause_raw": "causing shame to his mother",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s4566_bolly",
+      "emotion": "shame",
+      "dialogue": "Let's move to the Desi beat Forget all your inhibitions Remember to get tipsy Forget all your shame Remember to dance No one will be spared today Everyone will dance the night away",
+      "target_person": "everyone",
+      "target_gender": "unclear",
+      "cause_raw": "not dancing or enjoying",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p2580_bolly",
+      "emotion": "pride",
+      "dialogue": "You proved the blood in your veins is not your father's......but your mother's. I was wrong. And I haven't been so proud of being wrong till now. Just promise me something......you'll make sure your partner stands on your right! Promise.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "proving speaker wrong",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2581_bolly",
+      "emotion": "pride",
+      "dialogue": "Next time. Next time. Next time. I'm proud of you, Khalid. Khalid. Who's the team-leader? Who do you think?",
+      "target_person": "Khalid",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

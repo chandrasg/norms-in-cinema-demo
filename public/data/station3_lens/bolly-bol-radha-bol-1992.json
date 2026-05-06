@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "168489",
+    "title": "Bol Radha Bol",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/z67ucNu2Yq8fjUzkeLFaKU69JmL.jpg",
+    "overview": "Kishan Malhotra finds his life turned upside down, when he returns home one day to find that his place has been taken over by a look-alike imposter."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s622_bolly",
+      "emotion": "shame",
+      "dialogue": "I've signed. I'll leave now. I'll go feed the poor else heart attack might come true. Be ashamed. Why do you waste time on dreaming for Radha? When will you handle your responsibilities? - Leave it, sister-in-law. - No. There is a limit.",
+      "target_person": "character dreaming for Radha",
+      "target_gender": "male",
+      "cause_raw": "not taking responsibilities",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s623_bolly",
+      "emotion": "shame",
+      "dialogue": "But you left me with blindness! - Look here, not there. - Where? You shameless, you scold me! What sins you committed in the dark to make me blind? Unfortunately! My girl friend's name is Bijlee. (light)",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being blind",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s624_bolly",
+      "emotion": "shame",
+      "dialogue": "What he is doing in the village etc. They made the mistake and blame me. We are at fault! Be ashamed of yourself. There is a limit to lies. Tulsi aunty is right. We are always fooled by her.",
+      "target_person": "Tulsi aunty",
+      "target_gender": "female",
+      "cause_raw": "lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s625_bolly",
+      "emotion": "shame",
+      "dialogue": "If I am really run over, I will die. Who was that? Can't you see? Are you blind? Don't you feel ashamed that despite being sighted......you dash against a blind man and call him blind? Humanity does not exist anymore. What are you waiting for? Help the poor man up.",
+      "target_person": "sighted person",
+      "target_gender": "unclear",
+      "cause_raw": "lack of empathy and carelessness",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s626_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you waiting for? Help the poor man up. How can I? I am myself blind. What a shameless man! He has such huge eyes and calls himself blind. Such a man should be thrashed!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "pretending to be blind",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "film": {
+    "id": "25867",
+    "title": "De Dana Dan",
+    "year": "2009",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/htOpALyz5x1Ee7YuZpaRCPEwEuX.jpg",
+    "overview": "Two down on their luck men try to kidnap a wealthy businesswoman's dog to demand a hefty ransom from her.  But things go haywire when the dog goes missing."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s936_bolly",
+      "emotion": "shame",
+      "dialogue": "I think, we Indians should get together.. and, hold a demonstration against her. And, stop going to her mall. I didn't feel any shame, I danced so vigorously. Heera speaking.' - Hello. Yes, Suri, I'm leaving now.",
+      "target_person": "Heera",
+      "target_gender": "female",
+      "cause_raw": "dancing vigorously",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s937_bolly",
+      "emotion": "shame",
+      "dialogue": "But he hasn't arrived. He hasn't arrived. He's our relative. Aren't you ashamed....your relative is such a rascal? You will have to inform me as soon as he arrives. I've been looking for him for the past one year.",
+      "target_person": "relative",
+      "target_gender": "unclear",
+      "cause_raw": "bad behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s938_bolly",
+      "emotion": "shame",
+      "dialogue": "I want to die. I want to die. You've defamed the entire family by calling this cheap girl here. Aren't you ashamed of doing such cheap things? What shall I do? Shall I wait or leave? Get lost, or else I'll throw you out of the window.",
+      "target_person": "speaker's family member",
+      "target_gender": "male",
+      "cause_raw": "associating with a woman considered 'cheap'",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s939_bolly",
+      "emotion": "shame",
+      "dialogue": "Quiet. Forgive me. I feel ashamed to say that, he's my brother-in-law. I apologise to you. I'll give you Rs. 5 lakh more. For the sake of my family's honour.",
+      "target_person": "brother-in-law",
+      "target_gender": "male",
+      "cause_raw": "dishonoring the family",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s940_bolly",
+      "emotion": "shame",
+      "dialogue": "You're right, she's pregnant.....that's why they can't get married. You know all about it. What can we do? We can offer her some money.....make a deal with her.. - Scoundrel, aren't you ashamed. Scoundrel, your son is engaged with such a woman. What happened? What happened?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "getting a woman pregnant before marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s941_bolly",
+      "emotion": "shame",
+      "dialogue": "I've heard that voice before? Don't try to be a detective. Give me the money. Aren't you ashamed of doing these things? Does your mother know you're doing these things? My mother is no more, give me the money.",
+      "target_person": "character asking for money",
+      "target_gender": "male",
+      "cause_raw": "engaging in dishonest activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p481_bolly",
+      "emotion": "pride",
+      "dialogue": "If anyone finds out about this.....we won't be able to face anyone. They should know his true colours. Look“ - He's the pride of your family. The honour of the Lambas. Please, calm down.",
+      "target_person": "Lambas",
+      "target_gender": "male",
+      "cause_raw": "family honor",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

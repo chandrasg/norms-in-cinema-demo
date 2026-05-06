@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "94365",
+    "title": "The Human Centipede 3 (Final Sequence)",
+    "year": "2015",
+    "industry": "holly",
+    "country": "NL|US",
+    "poster_path": "/xUk5AGcGvybPBvvMqrDPbAFAknD.jpg",
+    "overview": "Taking inspiration from The Human Centipede films, the warden of a notorious and troubled prison looks to create a 500-person human centipede as a solution to his problems."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1566_holly",
+      "emotion": "shame",
+      "dialogue": "of the glorious United States of America.  The greatest nation on earth.  And you are not ashamed to smoke  communistic cigars from Cuba?  I'm only a German American from Schweinfurt.",
+      "target_person": "German American from Schweinfurt",
+      "target_gender": "male",
+      "cause_raw": "smoking Cuban cigars",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS1567_holly",
+      "emotion": "shame",
+      "dialogue": "communistic cigars from Cuba?  I'm only a German American from Schweinfurt.  But I feel... deeply ashamed for you, sir!  I apologize.  The heat... is driving me crazy.",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "smoking Cuban cigars",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WP2776_holly",
+      "emotion": "pride",
+      "dialogue": "Our glorious nation  will be the example to the world again.  A proud, safe nation  with hardly any crime.  Your idea, Sir William,",
+      "target_person": "Sir William",
+      "target_gender": "male",
+      "cause_raw": "making nation proud and safe",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "271542",
+    "title": "Khullam Khulla Pyaar Karen",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/6PqrPB2BrPPolZ6VDxB0fs3X33q.jpg",
+    "overview": "Two enemy underworld Dons put their differences aside and marry their children, but a case of mistaken identity foils the plan."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 3
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3110_bolly",
+      "emotion": "shame",
+      "dialogue": "Daddy was talking against you. Mummy, I have brought crutches for you. You can walk, even jump now. Shameless! The mother who reared you in her lap if she cannot walk today, you brought her crutch es? I'll carry my mother on my shoulders and take her on a pilgrimage.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not taking proper care of his mother",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3111_bolly",
+      "emotion": "shame",
+      "dialogue": "She may be your fiancee, but she will marry me. Sir, you leave. - Good day. Look...hey! shameless! Get up. It has not been confirmed yet that you are Govardhan's son. I know I am on waiting list, but I'll capture the compartment one day.",
+      "target_person": "Govardhan's son",
+      "target_gender": "male",
+      "cause_raw": "illegitimate birth",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3112_bolly",
+      "emotion": "shame",
+      "dialogue": "Daddy, that dramatist... - Get out of here! Why didn't you die when you were born? Get out! You shameless fellow! - Mummygth at dramatist was over there. Let em see who comes to hit me now. God, now I realise what you said.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "associating with a dramatist",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3113_bolly",
+      "emotion": "shame",
+      "dialogue": "I hit target! - Know who the funeral items were for? You fired the shots? Shameless! You want to kill your father and take his place? What are you saying, mummy? - You sinner! who? . You!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "attempting to harm/kill his father",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1614_bolly",
+      "emotion": "pride",
+      "dialogue": "Wear the ring on my finger Better do what I say, or I will create a scene here Don't be proud over a short lived youth lam telling you the truth, fire cannot burn with water No, I have never come across such pride before",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1615_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't be proud over a short lived youth lam telling you the truth, fire cannot burn with water No, I have never come across such pride before Wear the ring on my finger I will get a bridal attire for you",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

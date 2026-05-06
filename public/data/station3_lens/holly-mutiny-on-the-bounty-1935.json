@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "12311",
+    "title": "Mutiny on the Bounty",
+    "year": "1935",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/GD98ozz6F6tSu8BWGulpseEKhv.jpg",
+    "overview": "Fletcher Christian successfully leads a revolt against the ruthless Captain Bligh on the HMS Bounty. However, Bligh returns one year later, hell bent on revenge."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 2
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS487_holly",
+      "emotion": "shame",
+      "dialogue": "He's dead?  No, no, he's not dead. We set him adrift with some of the crew.  You shame me by coming here.  You shame me!  King George will send many ships with many guns... ...to punish us for what you have done.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "causing trouble and endangering others",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WS488_holly",
+      "emotion": "shame",
+      "dialogue": "No, no, he's not dead. We set him adrift with some of the crew.  You shame me by coming here.  You shame me!  King George will send many ships with many guns... ...to punish us for what you have done.  ...to punish us for what you have done.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "causing harm and potential danger to others",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WP1047_holly",
+      "emotion": "pride",
+      "dialogue": "Firstly, our journey will be shortened,  which I know is a consideration that cannot distress you.  And secondly, upon its successful conclusion... not one of you, in later years, will look back without a surge of pride.  not one of you, in later years, will look back without a surge of pride.  We shall go with the winds to Jamaica by way of Cape Horn.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "successful journey",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1048_holly",
+      "emotion": "pride",
+      "dialogue": "which I know is a consideration that cannot distress you.  And secondly, upon its successful conclusion... not one of you, in later years, will look back without a surge of pride.  not one of you, in later years, will look back without a surge of pride.  We shall go with the winds to Jamaica by way of Cape Horn.  You'll kill us all.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "successful conclusion of a journey",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

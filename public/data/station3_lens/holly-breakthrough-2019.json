@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "514439",
+    "title": "Breakthrough",
+    "year": "2019",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/lUd2FNC8cMCcHyRMNZtVC48p3xH.jpg",
+    "overview": "Tragedy strikes when a woman named Joyce's son falls through the ice on a frozen lake and is trapped underwater for over 15 minutes. After being rushed to the hospital, the 14-year-old boy continues to fight for his life as Joyce, her husband and their pastor stay by his bedside and pray for a miracle."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP933_holly",
+      "emotion": "pride",
+      "dialogue": "Okay!  Hey, babe!  You'll be proud of me. I'm jogging off that--  John Smith fell through a frozen lake!  Wait, what?",
+      "target_person": "John Smith",
+      "target_gender": "male",
+      "cause_raw": "jogging off weight",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP934_holly",
+      "emotion": "pride",
+      "dialogue": "I can't wait to see you  shoot those baskets and run up and down the court again.  You are my pride and joy, John.  Do you hear your mother?  And I love you to the moon.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "John's basketball skills",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP935_holly",
+      "emotion": "pride",
+      "dialogue": "I am a broken,  desperate,  woman full of pride.  But I get it.  I have to let him go.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "letting go of someone",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

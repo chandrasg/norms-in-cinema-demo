@@ -1,0 +1,101 @@
+{
+  "film": {
+    "id": "84337",
+    "title": "Me and My Gal",
+    "year": "1932",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/pAPxl1vECf3hmyX1W4juWd2Fzil.jpg",
+    "overview": "Jaunty young policeman Danny Dolan falls in love with waterfront cafe waitress Helen Riley."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS66_holly",
+      "emotion": "shame",
+      "dialogue": "It just seems to me the act isn't getting anywhere.  - If you didn't have me around your neck... - Listen to me.  You ought to be ashamed, talking to me like that.  Didn't we make a deal once? Well, didn't we?  You go through medical school and pay me back with interest.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "disrespect and ungratefulness",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "WS67_holly",
+      "emotion": "shame",
+      "dialogue": "...I really didn't mean it. I was playing you for a sap.  I wanted to fix it so you'd give me a chance to try out with you.  And all that sob stuff about me being ashamed of myself... ...that was just a bid for sympathy. I wasn't ashamed.  ...that was just a bid for sympathy. I wasn't ashamed.  I thought I was being pretty cute.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "manipulation and dishonesty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WS68_holly",
+      "emotion": "shame",
+      "dialogue": "I wanted to fix it so you'd give me a chance to try out with you.  And all that sob stuff about me being ashamed of myself... ...that was just a bid for sympathy. I wasn't ashamed.  ...that was just a bid for sympathy. I wasn't ashamed.  I thought I was being pretty cute.  I'm ashamed now though.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "manipulation and dishonesty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WS69_holly",
+      "emotion": "shame",
+      "dialogue": "...that was just a bid for sympathy. I wasn't ashamed.  I thought I was being pretty cute.  I'm ashamed now though.  And this time, when I say I'm a heel... ...well, I'm not kidding.  ...well, I'm not kidding.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "seeking sympathy through deception",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS70_holly",
+      "emotion": "shame",
+      "dialogue": "You'll have to learn how to do it, so please don't poo poo it.  'Cause we got this little dance, it's gonna rise to fame.  It's sure to put most any other dance to shame.  The Turkey Trot, the Bunny Hug, the Tickly Toe,  will be forgotten when we start to go.",
+      "target_person": "Turkey Trot Bunny Hug Tickly Toe",
+      "target_gender": "unclear",
+      "cause_raw": "being outdated dances",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WP110_holly",
+      "emotion": "pride",
+      "dialogue": "- See what I mean? - I see what you mean. Go on, Lily.  - Say, you know, I was... - Pardon me.  This doll shoppe is my joy and pride.  That is no folderal.  The people come from far and wide",
+      "target_person": "Lily",
+      "target_gender": "female",
+      "cause_raw": "owning a doll shoppe",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "236399",
+    "title": "Flowers in the Attic",
+    "year": "2014",
+    "industry": "holly",
+    "country": "CA",
+    "poster_path": "/owzDkkxL2DogC2mq1fgIvrlDcux.jpg",
+    "overview": "After the sudden death of their father, four children face cruel treatment from their ruthless grandmother."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS281_holly",
+      "emotion": "shame",
+      "dialogue": "But that was before.  \"Life is full of surprises,\" my mother used to say.  And greed and fear and shame, as I soon learned.  And hopelessness.  (CREAKING)",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS282_holly",
+      "emotion": "shame",
+      "dialogue": "Even hunting.  That only made my mother more jealous.  And she took every opportunity she could... To torment me and shame me... And she succeeded.  And she succeeded.  Over the years, my father became more and more busy... With work, and I became... More withdrawn and lonely.",
+      "target_person": "Protagonist",
+      "target_gender": "female",
+      "cause_raw": "mother's jealousy and torment",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS283_holly",
+      "emotion": "shame",
+      "dialogue": "We had everything ahead of us.  But someday, we'd see mom again.  And we'd look her straight in the eye... The children she once loved... And all our shame and hopelessness... Would become hers.  Would become hers.  \"U?\"",
+      "target_person": "Mom",
+      "target_gender": "female",
+      "cause_raw": "abandoning her children",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WP613_holly",
+      "emotion": "pride",
+      "dialogue": "It's okay.  It's just a willow switching.  My pride hurts worse than my back.  But why?  Why did grandmother say those things about daddy?",
+      "target_person": "grandmother",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP614_holly",
+      "emotion": "pride",
+      "dialogue": "I am going to cut off your precious hair... Down to the scalp.  Down to the scalp.  Maybe then you won't feel so much pride... When you look in the mirror.  When you look in the mirror.  (GASPS)",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP615_holly",
+      "emotion": "pride",
+      "dialogue": "Come on!  Come on. Do it.  (SNICKERING)  Beautiful, prideful... And weak!  And weak!  Just like your mother.  That's not true.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

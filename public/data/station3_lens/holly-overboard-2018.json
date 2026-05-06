@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "454619",
+    "title": "Overboard",
+    "year": "2018",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/41Rzkgo9y7n6BNGD6O8j0LVs8Yu.jpg",
+    "overview": "A spoiled, wealthy yacht owner is thrown overboard and becomes the target of revenge from his mistreated employee."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1218_holly",
+      "emotion": "shame",
+      "dialogue": "No, I just... I need to tell you somethin'. Here, sit down.  What is it?  Annie, I've done... I've done something that, um... I'm ashamed of. And I just... - I already know. - You do?  - I already know. - You do?  - What... What do you know? - You work nights at the fertiliser plant.",
+      "target_person": "Annie",
+      "target_gender": "female",
+      "cause_raw": "working nights at the fertiliser plant",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS1219_holly",
+      "emotion": "shame",
+      "dialogue": "- I already know. - You do?  - What... What do you know? - You work nights at the fertiliser plant.  You don't have to be ashamed because you shovel fish guts.  I'm proud of you no matter what you do.  - Is that it? - Uh, well, that's one of the things, but I... No. Not really.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "working a low-status job",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2210_holly",
+      "emotion": "pride",
+      "dialogue": "And poof! The kid puked up the fry  and they named you Burger Boy employee of the month.  It was great. They put your picture above the cash register and... I was really proud of you. I mean it.  I was really proud of you. I mean it.  You can be quite charming when you wanna be.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being named Burger Boy employee of the month",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2211_holly",
+      "emotion": "pride",
+      "dialogue": "and they named you Burger Boy employee of the month.  It was great. They put your picture above the cash register and... I was really proud of you. I mean it.  I was really proud of you. I mean it.  You can be quite charming when you wanna be.  Ah. You just caught me on a bad day.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being named Burger Boy employee of the month",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2212_holly",
+      "emotion": "pride",
+      "dialogue": "- What... What do you know? - You work nights at the fertiliser plant.  You don't have to be ashamed because you shovel fish guts.  I'm proud of you no matter what you do.  - Is that it? - Uh, well, that's one of the things, but I... No. Not really.  No. Not really.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "working at the fertiliser plant",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

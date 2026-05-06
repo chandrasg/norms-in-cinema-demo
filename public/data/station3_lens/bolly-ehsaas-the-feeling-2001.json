@@ -1,0 +1,154 @@
+{
+  "film": {
+    "id": "294088",
+    "title": "Ehsaas: The Feeling",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zSYkW77tMgpxFNaWHpwZiUvdjfT.jpg",
+    "overview": ""
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 3
+    },
+    {
+      "label": "Sports Victory",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    },
+    "pride": {
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5178_bolly",
+      "emotion": "shame",
+      "dialogue": "Sit in one place. Ravi, Rohan will be back. I'll skin him! Just ten days to go for the race. This shameless boy..Every day he's back by five. It's only 5:15. He's only 15 minutes late. School was over at 3 o'clock today.",
+      "target_person": "Ravi",
+      "target_gender": "male",
+      "cause_raw": "Not adhering to set time rules",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s5179_bolly",
+      "emotion": "shame",
+      "dialogue": "Maybe he's gone to a friend's place? Sit down, don't worry. He'll come. Open the door. Must be that shameless fellow. Ravi. - Sayba. Peter? You.. here..?Ravi, Rohan isn't to blame.",
+      "target_person": "Ravi",
+      "target_gender": "male",
+      "cause_raw": "Intruding into someone's house",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s5180_bolly",
+      "emotion": "shame",
+      "dialogue": "Careful! How many times should I tell you? Fool. I'll surely kill you. Rohan! Are you laughing Shamelessly after such misbehavior? I'm so happy, Hitler won't force me to train morning and evening. I've disgraced him.",
+      "target_person": "Rohan",
+      "target_gender": "male",
+      "cause_raw": "misbehavior and disobedience",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5181_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm so happy, Hitler won't force me to train morning and evening. I've disgraced him. You ought to be ashamed. Calm down, Ravi! What had to happen has happened. Don't take it to heart.",
+      "target_person": "Ravi",
+      "target_gender": "male",
+      "cause_raw": "Not meeting expectations in training",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s5182_bolly",
+      "emotion": "shame",
+      "dialogue": "If he strikes Rohan ever again, I'm taking Rohan away with me. I've never seen a father hating his son so much. He should be ashamed to call himself a father. Enough. Mr. Ravi, I apologies on Antara's behalf.",
+      "target_person": "Rohan's father",
+      "target_gender": "male",
+      "cause_raw": "Hating his own son",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p2911_bolly",
+      "emotion": "pride",
+      "dialogue": "Didn't you notice? When we went there....how Rohan ran away from Ravi and rushed to us? Did you see Ravi's face then? We had no right to go there and hurt Ravi's pride. We could have given him the gift tomorrow. And did we necessarily have to carry such an expensive cake?",
+      "target_person": "Ravi",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2912_bolly",
+      "emotion": "pride",
+      "dialogue": "But he isn't clever. I wasn't either. But come to sports, athletics....not only in this city, there's no athlete....in the country who can better Rohan. And I'm proud to say that....he has inherited it from me, from his father. I know you must be amazed to hear all this. Very few know of my past.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's athletic achievements",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2913_bolly",
+      "emotion": "pride",
+      "dialogue": "Papa, I'm sorry, I lost. No son, you just won life's race I am proud of you. I am proud of you. Papa, are you cross with me?",
+      "target_person": "Papa",
+      "target_gender": "male",
+      "cause_raw": "son's life lesson",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2914_bolly",
+      "emotion": "pride",
+      "dialogue": "No son, you just won life's race I am proud of you. I am proud of you. Papa, are you cross with me? No son!",
+      "target_person": "Papa",
+      "target_gender": "male",
+      "cause_raw": "son's achievement",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2915_bolly",
+      "emotion": "pride",
+      "dialogue": "You just won the biggest race. You won life's race. I am proud of you. You love me don't you? - I'm proud of you. Uncle, Rohan is very afraid.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "winning a race",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p2916_bolly",
+      "emotion": "pride",
+      "dialogue": "You won life's race. I am proud of you. You love me don't you? - I'm proud of you. Uncle, Rohan is very afraid. I'm sorry son. I'm sorry.",
+      "target_person": "first speaker",
+      "target_gender": "male",
+      "cause_raw": "winning life's race",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

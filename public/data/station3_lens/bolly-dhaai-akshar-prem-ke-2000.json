@@ -1,0 +1,123 @@
+{
+  "film": {
+    "id": "211277",
+    "title": "Dhaai Akshar Prem Ke",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/gabkUhs9jgF88XuIcn2ySre5HqM.jpg",
+    "overview": "Karan Khanna is an orphan and a captain in the Rajputana Armed Forces. He's madly in love with beautiful model Nisha, with whom he plans to tie the knot during his next leave."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 8
+    },
+    {
+      "label": "Immodesty",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1042_bolly",
+      "emotion": "shame",
+      "dialogue": "What they say is true. At this age, it happens In walks a stranger, and becomes dearer than life itself...and he convinces me that I was made for him It is a strange passion, mixed with shame I am tongue-tied There is a strange longing in the heart",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "falling in love at an older age",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1043_bolly",
+      "emotion": "shame",
+      "dialogue": "The magic of the moment enthralls me What have I found, what have I lost? How do I tell you? I am ashamed Read it in my eyes The word is Prem (Prem = Love)",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1044_bolly",
+      "emotion": "shame",
+      "dialogue": "Someone from somewhere comes stealing...\"and writes it all on my heart\" The word Prem A bit oi pining, some anxiety, some shamefacedness... that's being in love To die tor that desire that's being in love No one knows how and why everyone is madly in love",
+      "target_person": "character in love",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1045_bolly",
+      "emotion": "shame",
+      "dialogue": "The magic of the moment enthralls me What have I found, what have I lost? How do I tell you? I am ashamed Read it in my eyes The word is Prem (Prem = Love)",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1046_bolly",
+      "emotion": "shame",
+      "dialogue": "Wherever she goes, she will carry a fragrance And the third? - The third...The third is going to be my pet. Like Monica and Sweety You've p****d on his shirt! You shameless fellow! That's a good omen. You'll surely have daughters Your shirt is soiled. Go and change",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "urinating in public",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1047_bolly",
+      "emotion": "shame",
+      "dialogue": "What they say is true. At this age, it happens In walks a stranger, and becomes dearer than life itself...and he convinces me that I was made for him It is a strange passion, mixed with shame I am tongue-tied There is a strange longing in the heart",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "falling in love at an older age",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1048_bolly",
+      "emotion": "shame",
+      "dialogue": "The magic of the moment enthralls me What have I found, what have I lost? How do I tell you? I am ashamed Read it in my eyes The word is Prem (Prem = Love)",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1049_bolly",
+      "emotion": "shame",
+      "dialogue": "Someone from somewhere comes stealing...\"and writes it all on my heart\" The word Prem A bit of pining, some anxiety, some shamefacedness... that's being in love To die for that desire ...that's being in love No one knows how and why everyone is madly in love",
+      "target_person": "character in love",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1050_bolly",
+      "emotion": "shame",
+      "dialogue": "The magic of the moment enthralls me What have I found, what have I lost? How do I tell you? I am ashamed Read it in my eyes The word is Prem (Prem = Love)",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1051_bolly",
+      "emotion": "shame",
+      "dialogue": "Wherever she goes, she will carry a fragrance And the third? - The third...The third is going to be my pet. Like Monica and Sweety You've p****d on his shirt! You shameless fellow! That's a good omen. You'll surely have daughters Your shirt is soiled. Go and change",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "urinating in public",
+      "theme_label": "Immodesty"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "102632",
+    "title": "Rowdy Rathore",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ytdp64MDSpONpm932nQcMTD95IF.jpg",
+    "overview": "A small-time thug comes across a young girl who claims him to be her father, following which he realizes he has a lookalike who's being hunted by goons."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1711_bolly",
+      "emotion": "shame",
+      "dialogue": "Paro's upstairs. My girlfriend . What did you just do? Aren't you ashamed? I tried to stop my hands. But they didn't listen. You always  lose control  where you should  be behaving yourself .",
+      "target_person": "character who touched Paro",
+      "target_gender": "male",
+      "cause_raw": "inappropriate physical contact",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p899_bolly",
+      "emotion": "pride",
+      "dialogue": "Look, what's wrong with my husband. - Don't worry. I am there. Take a look. Pride in her eyes and money in her pocket. Pride in her eyes and money in her pocket. She has a naughty attitude and a  colorful coat.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p900_bolly",
+      "emotion": "pride",
+      "dialogue": "Take a look. Pride in her eyes and money in her pocket. Pride in her eyes and money in her pocket. She has a naughty attitude and a  colorful coat. Looks innocent but intentions are  wild.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p901_bolly",
+      "emotion": "pride",
+      "dialogue": "Look at this coward. Look at him shivering at the sight of his death. The other day he was saying  proudly..''I am not scared of death''. It's easy to say, but when the time comes..Come on. Come on! Whoever thought that I am scared....never saw  daylight again.",
+      "target_person": "coward",
+      "target_gender": "male",
+      "cause_raw": "bravado in face of death",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

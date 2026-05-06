@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "18395",
+    "title": "Exit to Eden",
+    "year": "1994",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/dUtpplO9K03uYCA71Vqj9ZRkVyA.jpg",
+    "overview": "Photographer Elliot Slater has inadvertently snapped the only existing photos of elusive jewel thief Omar. When Elliot leaves for a private vacation on an S&M island, he is followed by Omar, Omar's partner, Nina, and undercover police officers Fred and Sheila. Unaware of the number of people chasing him, Elliot enjoys his stay at the resort, and finds himself falling in love with head dominatrix Lisa."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS301_holly",
+      "emotion": "shame",
+      "dialogue": "A popular fantasy, especially among women.  No commitment. No wishing the guy calls the next 'day.  No shame or guilt. It wasnt your fault. You were se'duce'd.  An'd you 'di'dnt even know his name.  Now, if you'll follow me.",
+      "target_person": "Unnamed Woman",
+      "target_gender": "female",
+      "cause_raw": "having casual sex without commitment",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS302_holly",
+      "emotion": "shame",
+      "dialogue": "An'd this is another of E'dens fantasies.  Enjoying the pleasure of total submissiveness to voice 'dominance.  An'd being titillate'd by comman'd is nothing to be ashame'd of.  Here we show the secretary 'dominating the boss... ...as one of the most common comman'd fantasies.  ...as one of the most common comman'd fantasies.",
+      "target_person": "E'den",
+      "target_gender": "female",
+      "cause_raw": "enjoying submissive fantasies",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS303_holly",
+      "emotion": "shame",
+      "dialogue": "-Lou'der. I cant hear you. -I cant.  -Why? -I 'dont know.  -Are you ashame'd of it? -Yes.  Its all right, Elliot. You can say it. You can like it.  Youre allowe'd here. Do you like it?",
+      "target_person": "Elliot",
+      "target_gender": "male",
+      "cause_raw": "feeling ashamed of liking something",
+      "theme_label": "Shamelessness"
+    }
+  ]
+}

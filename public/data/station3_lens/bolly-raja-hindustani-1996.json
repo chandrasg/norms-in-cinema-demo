@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "21566",
+    "title": "Raja Hindustani",
+    "year": "1996",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/m4Uy3dHYmnYgvZ0U2xK5alazBFR.jpg",
+    "overview": "Raja, a taxi driver, falls in love with Aarti, a rich girl, and marries her against her parents' wishes. Later, her stepmother tries to create a rift betweenthe couple."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1580_bolly",
+      "emotion": "shame",
+      "dialogue": "Should I tell them the reality about you? That a taxi-driver has become the son-in-law of this big family? You' re a shameless man. You might not even be feeling ashamed about it. But hear this carefully. We decent people are tired......of being embarrassed because of you.",
+      "target_person": "son-in-law",
+      "target_gender": "male",
+      "cause_raw": "low socio-economic status",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1581_bolly",
+      "emotion": "shame",
+      "dialogue": "That a taxi-driver has become the son-in-law of this big family? You' re a shameless man. You might not even be feeling ashamed about it. But hear this carefully. We decent people are tired......of being embarrassed because of you. Now don't embarrass us any more.",
+      "target_person": "taxi-driver",
+      "target_gender": "male",
+      "cause_raw": "marrying into a higher social class",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1582_bolly",
+      "emotion": "shame",
+      "dialogue": "All of them are embarrassed of me. Do you know why? Because an ordinary person, a taxi-driver......has become the son-in-law of such an affluent family. And by accepting this illiterate, naive and uncultured person......everybody's heads are hanging in shame. Poor souls! They' re afflicted with a false sense of pride!",
+      "target_person": "taxi-driver",
+      "target_gender": "male",
+      "cause_raw": "marrying into a higher social class",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p836_bolly",
+      "emotion": "pride",
+      "dialogue": "And by accepting this illiterate, naive and uncultured person......everybody's heads are hanging in shame. Poor souls! They' re afflicted with a false sense of pride! You too are embarrassed of me! - Me? - Yes.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

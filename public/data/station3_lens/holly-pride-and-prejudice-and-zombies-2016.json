@@ -1,0 +1,130 @@
+{
+  "film": {
+    "id": "58431",
+    "title": "Pride and Prejudice and Zombies",
+    "year": "2016",
+    "industry": "holly",
+    "country": "GB|US",
+    "poster_path": "/jsJlOhVHiz1xXr36616EI8tJ4b2.jpg",
+    "overview": "A zombie outbreak has fallen upon the land in this reimagining of Jane Austen's classic tale of the tangled relationships between lovers from different social classes in 19th century England. Feisty heroine Elizabeth Bennet is a master of martial arts and weaponry and the handsome Mr. Darcy is a fierce zombie killer, yet the epitome of upper class prejudice. As the zombie outbreak intensifies, they must swallow their pride and join forces on the blood-soaked battlefield in order to conquer the undead once and for all."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 9
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 5,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS204_holly",
+      "emotion": "shame",
+      "dialogue": "You've said quite enough, madam.  I fully comprehend your feelings  and now I have only to be ashamed of what my own have been.  Please forgive me, and accept my best wishes for your health and happiness.  Hello. Good afternoon. Wonderful to be back.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "not understanding feelings",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP416_holly",
+      "emotion": "pride",
+      "dialogue": "Mr. Darcy is therefore a very ill-looking man.  Girls, you will knock the house down!  Never have I encountered a man so consumed by his own pride!  One cannot wonder that so very fine a young man  with family, fortune, and everything in his favor",
+      "target_person": "Mr. Darcy",
+      "target_gender": "male",
+      "cause_raw": "his family and fortune",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP417_holly",
+      "emotion": "pride",
+      "dialogue": "should think highly of himself.  If I may so express it,  he has a right to be proud.  I could easily forgive his pride,  if he had not mortified mine.",
+      "target_person": "he",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP418_holly",
+      "emotion": "pride",
+      "dialogue": "If I may so express it,  he has a right to be proud.  I could easily forgive his pride,  if he had not mortified mine.  Pride is a very common failing, I believe.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP419_holly",
+      "emotion": "pride",
+      "dialogue": "I could easily forgive his pride,  if he had not mortified mine.  Pride is a very common failing, I believe.  Vanity and pride are different things,  though the words are often used synonymously.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP420_holly",
+      "emotion": "pride",
+      "dialogue": "if he had not mortified mine.  Pride is a very common failing, I believe.  Vanity and pride are different things,  though the words are often used synonymously.  A person may be proud without being vain.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP421_holly",
+      "emotion": "pride",
+      "dialogue": "Vanity and pride are different things,  though the words are often used synonymously.  A person may be proud without being vain.  Pride relates more to our opinion of ourselves,  and vanity to what we would have others think of us.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP422_holly",
+      "emotion": "pride",
+      "dialogue": "though the words are often used synonymously.  A person may be proud without being vain.  Pride relates more to our opinion of ourselves,  and vanity to what we would have others think of us.  A letter for Miss Jane Bennet.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP423_holly",
+      "emotion": "pride",
+      "dialogue": "Darcy ignored his wishes and gave my living to another man.  What could have induced him to behave so cruelly?  Pride.  He thought me too low to be worth his consideration.  I loved his father dearly, so, I can never expose Darcy",
+      "target_person": "Darcy",
+      "target_gender": "male",
+      "cause_raw": "considering himself superior",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP424_holly",
+      "emotion": "pride",
+      "dialogue": "\"or the look or the words which laid the foundation.  \"I was in the middle before I knew I had began.  \"What a proud fool I was.  \"I have faced the harsh truth,  \"that I can never hope to win your love in this life,",
+      "target_person": "\"I",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

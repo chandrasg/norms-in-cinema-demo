@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "263828",
+    "title": "Youngistaan",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/89mWkdOnrXeq2V9B8piLYad3s9s.jpg",
+    "overview": "Abhimanyu Kaul - a young, independent, Games Developer, living in Japan and the love of his life, Anwita Chauhan - a bubbly, passionate and full of life, summer intern. Their happy and content life faces the test of time, when blood ties and the pressure of being born into the first family of India tears a young Abhimanyu between his love for Anwita and a promise made to his dying father, the Prime Minister of India. Being a public figure, by reluctantly accepting to represent the governing party, much against his own wishes and at the cost of his private life, is a double-edged sword that Abhimanyu must walk on."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4657_bolly",
+      "emotion": "shame",
+      "dialogue": "What else can you expect from a 28-year-old boy? So what, madam? I too stay with my girlfriend. Abhimanyu Kaul.. - Shame on you! Shame on you! The situation there will be a little heated up, sir. Be careful.",
+      "target_person": "Abhimanyu Kaul",
+      "target_gender": "male",
+      "cause_raw": "Living with girlfriend without marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4658_bolly",
+      "emotion": "shame",
+      "dialogue": "Where's Anvi? At home. Bring her out. Bring that shameless out. Bring her out. Bring that shameless out. Bring her out. Bring that insolent out.",
+      "target_person": "Anvi",
+      "target_gender": "female",
+      "cause_raw": "Being labeled as shameless and insolent",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s4659_bolly",
+      "emotion": "shame",
+      "dialogue": "At home. Bring her out. Bring that shameless out. Bring her out. Bring that shameless out. Bring her out. Bring that insolent out. Driver, be careful.",
+      "target_person": "unidentified woman",
+      "target_gender": "female",
+      "cause_raw": "being labeled as shameless and insolent",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s4660_bolly",
+      "emotion": "shame",
+      "dialogue": "Bring her out. Bring that insolent out. Driver, be careful. Bring her out. Bring that insolent out. Stop this shamelessness. Anvi..It's okay. Don't take so much stress. Go to Japan for a few days.",
+      "target_person": "Anvi",
+      "target_gender": "female",
+      "cause_raw": "behaving insolently",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p2618_bolly",
+      "emotion": "pride",
+      "dialogue": "I become the Deputy Prime Minister. Who's next? It makes me very proud that I've been asked to invite.....a 28-year-old man representing a 3000-year-old civilization. To address this esteemed gathering of nations. Please welcome, the Honorable Prime Minister of India..Mr. Abhimanyu Kaul.",
+      "target_person": "Deputy Prime Minister",
+      "target_gender": "male",
+      "cause_raw": "Representing ancient civilization",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

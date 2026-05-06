@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "122800",
+    "title": "Freelancers",
+    "year": "2012",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/qCvA4Cw7lsYGR5fatVcoPEIYolU.jpg",
+    "overview": "The son of a slain NYPD officer joins the force, where he falls in with his father's former partner and a team of rogue cops. His new boss, Sarcone, will see if he has what it takes to be rogue through many trials and tribulations of loyalty, trust and respect. When the truth about his father's death is revealed revenge takes him over and he won't stop until justice has been truly served."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS842_holly",
+      "emotion": "shame",
+      "dialogue": "You're questioning me? Huh? You little s**t.  I always made my decision with my head, not my heart.  I got to where I am in this world by taking advantage of people's trust, and I'm not ashamed of that.  I have a question for you. Are your boys loyal to you?  - Absolutely. - Yeah?",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "taking advantage of people's trust",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WS843_holly",
+      "emotion": "shame",
+      "dialogue": "but the facts are what they are. He made a deal with an ADA.  We're talking serious jail time for everybody, including me.  Everybody was gonna be shamed and disgraced in the papers, the whole nine yards.  And the word came down on Monday morning. It had to get done.  Why you?",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "making a deal with an ADA leading to potential jail time for others",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "WP1542_holly",
+      "emotion": "pride",
+      "dialogue": "- Hey you. - Hey. What's up?  Congratulations, Ôæüíáò.  I'm very proud of you.  But it's been years.  Why did you invite me?",
+      "target_person": "Ôæüíáò",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1543_holly",
+      "emotion": "pride",
+      "dialogue": "I want you to come down to a playground where I coach some kids in the PAL team.  - They would love it, you know? - Uh-huh.  You'd get a chance to meet some proud young black men,  not like the ones you know.  What's up, Ëïõñïý? Got some new s**t.",
+      "target_person": "young black men",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

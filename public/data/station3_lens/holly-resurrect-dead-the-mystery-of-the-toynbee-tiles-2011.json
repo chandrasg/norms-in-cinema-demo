@@ -1,0 +1,56 @@
+{
+  "film": {
+    "id": "54358",
+    "title": "Resurrect Dead: The Mystery of the Toynbee Tiles",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/hEY9BVAEDXWZHrq1C1LlfDngteS.jpg",
+    "overview": "An urban mystery unfurls as one man pieces together the surreal meaning of hundreds of cryptic tiled messages that have been appearing in city streets across the U.S. and South America."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Academic Success",
+      "count": 3
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2765_holly",
+      "emotion": "pride",
+      "dialogue": "\"that run along the Delaware River  \"north of Center City.  \"He sounded blue collar, proud of his education,  \"certain of his information,  \"but not confident of his presentation to me",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "his education",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP2766_holly",
+      "emotion": "pride",
+      "dialogue": "She brought everybody from our class over and was like,  \"Look how good this kid is, he's gonna be great,\"  and she was like, \"You should really be proud of him.\"  It just seemed like she just always had one kid  that was, like, her favorite.",
+      "target_person": "teacher",
+      "target_gender": "female",
+      "cause_raw": "student's potential for greatness",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP2767_holly",
+      "emotion": "pride",
+      "dialogue": "as James Morasco except for one time  when he refers to himself as Severino Verna.  \"He sounded blue collar, proud of his education,  certain of his information.\"  Sevy is very intelligent.",
+      "target_person": "James Morasco",
+      "target_gender": "male",
+      "cause_raw": "his education",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

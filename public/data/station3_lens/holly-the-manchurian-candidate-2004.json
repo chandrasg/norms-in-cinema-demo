@@ -1,0 +1,142 @@
+{
+  "film": {
+    "id": "14462",
+    "title": "The Manchurian Candidate",
+    "year": "2004",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/4xEWtEbKK2EXMZ8UPff8hDCSiVW.jpg",
+    "overview": "Years after his squad was ambushed during the Gulf War, Major Ben Marco finds himself having terrible nightmares. He begins to doubt that his fellow squad-mate Sergeant Raymond Shaw, now a vice-presidential candidate, is the hero he remembers him being. As Marco's doubts deepen, Shaw's political power grows, and, when Marco finds a mysterious implant embedded in his back, the memory of what really happened begins to return."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "male": 4,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS650_holly",
+      "emotion": "shame",
+      "dialogue": "Excuse me, when have I ever attacked Senator Jordan, despite... Despite what?  Despite what?  Despite the shameful way his daughter toyed with you  that summer at the shore.  You chased her away, Mother, let's not have any illusions about... She wasn't in your league, but if that's the way you choose to remember it... You destroyed any possibility of us ever... Honey, you are oversimplifying things a little bit, but it's okay.",
+      "target_person": "Mother",
+      "target_gender": "female",
+      "cause_raw": "belittling and shaming her child's past relationship",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS651_holly",
+      "emotion": "shame",
+      "dialogue": "who believes that human beings are essentially good  and that our power is somehow, I don't know,  shameful or evil or never to be used.  Make no mistake, the American people are terrified.  They know something's coming. They can feel it.",
+      "target_person": "American people",
+      "target_gender": "unclear",
+      "cause_raw": "fear of power and change",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1225_holly",
+      "emotion": "shame",
+      "dialogue": "Excuse me, when have I ever attacked Senator Jordan, despite... Despite what?  Despite what?  Despite the shameful way his daughter toyed with you  that summer at the shore.  You chased her away, Mother, let's not have any illusions about... She wasn't in your league,",
+      "target_person": "Senator Jordan's daughter",
+      "target_gender": "female",
+      "cause_raw": "toying with someone's emotions",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WS1226_holly",
+      "emotion": "shame",
+      "dialogue": "who believes that human beings are essentially good  and that our power is somehow, I don't know,  shameful or evil or never to be used.  Make no mistake, the American people are terrified.  They know something's coming. They can feel it.",
+      "target_person": "American people",
+      "target_gender": "unclear",
+      "cause_raw": "fear of power and change",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP1305_holly",
+      "emotion": "pride",
+      "dialogue": "Won the Medal.  Been... Been the hero.  Well, sir, I'm just... I'm just proud that I was there.  Thank you.  Thank you very much.",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "being a hero",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "WP1306_holly",
+      "emotion": "pride",
+      "dialogue": "- Leona, good evening. - Thank you, Ellie.  Well, they're gonna have to make their own decisions.  I am proud...  ... to offer into nomination  the name of the next vice president of these United States:",
+      "target_person": "Leona",
+      "target_gender": "female",
+      "cause_raw": "nominating the next vice president",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1307_holly",
+      "emotion": "pride",
+      "dialogue": "Of course. Jocelyn, good to see you again.  - Mark. - Eleanor.  Raymond, your granddad would be so goddamn proud of you.  Thank you, Mr. Whiting.  Raymond, this is J.B. Johnston, from Manchurian Global.",
+      "target_person": "Mr. Whiting",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2226_holly",
+      "emotion": "pride",
+      "dialogue": "Won the Medal.  Been... Been the hero.  Well, sir, I'm just... I'm just proud that I was there.  Thank you.  Thank you very much.",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "being present at an important event",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2227_holly",
+      "emotion": "pride",
+      "dialogue": "-Leona, good evening. -Thank you, Ellie.  Well, they're gonna have to make their own decisions.  I am proud  to offer into nomination  the name of the next Vice President of these United States,",
+      "target_person": "Leona",
+      "target_gender": "female",
+      "cause_raw": "nominating the next Vice President",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2228_holly",
+      "emotion": "pride",
+      "dialogue": "Of course. Jocelyn, good to see you again.  --Mark -Eleanor.  Raymond, your granddad would be so goddamn proud of you.  Thank you, Mr Whiting.  Raymond, this is J.B. Johnston, from Manchurian Global.",
+      "target_person": "Mr Whiting",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

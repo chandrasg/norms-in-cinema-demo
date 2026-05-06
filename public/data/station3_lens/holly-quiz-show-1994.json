@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "11450",
+    "title": "Quiz Show",
+    "year": "1994",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/yoGJo1h3Hl2exXPVcG9UXWDENtX.jpg",
+    "overview": "Herbert Stempel's transformation into an unexpected television personality unfolds as he secures victory on the cherished American game show, 'Twenty-One.' However, when the show introduces the highly skilled contestant Charles Van Doren to replace Stempel, it compels Stempel to let out his frustrations and call out the show as rigged. Lawyer Richard Goodwin steps in and attempts to uncover the orchestrated deception behind the scenes."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS311_holly",
+      "emotion": "shame",
+      "dialogue": "You know what my father used to tell me? \"Work hard and you'll get ahead.\"  Was that honest? Look at Geritol.  \"Geritol cures tired blood.\" And I'm the one who's supposed to be ashamed.  You never said that you were getting the answers.  Let them believe whatever they want. What do I care?",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "dishonesty and deception",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WP685_holly",
+      "emotion": "pride",
+      "dialogue": "- It's nothin' but organized theft. - No, property.  - What? - \"Property is theft,\" I believe.  That's the locus classicus from Proudhon.  I warned you.  - Oh, great, another one. - Ace bets five.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP686_holly",
+      "emotion": "pride",
+      "dialogue": "- I do. - Who helped you write that statement?  - Did you know you'd been fired by NBC? - No, I didn't know.  - What do you have to say to the young people? - Are you proud of your son?  - I've always been proud of Charlie. - Proud of what he did?  The most important thing now is for Charlie to get back to his teaching.",
+      "target_person": "Charlie's parent",
+      "target_gender": "male",
+      "cause_raw": "Charlie's actions specific reason not given)",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP687_holly",
+      "emotion": "pride",
+      "dialogue": "- Did you know you'd been fired by NBC? - No, I didn't know.  - What do you have to say to the young people? - Are you proud of your son?  - I've always been proud of Charlie. - Proud of what he did?  The most important thing now is for Charlie to get back to his teaching.  Did you know Columbia trustees are meeting right now?",
+      "target_person": "Charlie's parent",
+      "target_gender": "unclear",
+      "cause_raw": "Charlie's achievements",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

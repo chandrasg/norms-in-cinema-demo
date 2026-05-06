@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "22795",
+    "title": "Doing Time on Maple Drive",
+    "year": "1992",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/3SuMq6qrDqVr3ltF94z9UjB8iPP.jpg",
+    "overview": "Yale scholar Matt Carter introduces his wealthy fiancée, Allison, to his family, and initially everything goes smoothly. However, it isn't long before Allison learns that Matt has lied to her about his relatives to mask their failures and dysfunctions. His brother, Tim, flunked out of school and developed a drinking problem, and Matt struggles to keep his own troubling secret from his less than tolerant parents."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Alcoholism",
+      "count": 2
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1448_holly",
+      "emotion": "shame",
+      "dialogue": "You have a son who drinks himself... - into a stupor every night. - Oh, God, Tom.  - into a stupor every night. - Oh, God, Tom.  You've got a daughter who's ashamed of her husband.  - I am not ashamed. - Who's ashamed of her husband... you're ashamed of me, Karen... and you've got another son... who almost killed himself rather than tell you he's not what you think he is.  who almost killed himself rather than tell you he's not what you think he is.",
+      "target_person": "Tom",
+      "target_gender": "male",
+      "cause_raw": "alcoholism and not meeting family expectations",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "WS1449_holly",
+      "emotion": "shame",
+      "dialogue": "- into a stupor every night. - Oh, God, Tom.  You've got a daughter who's ashamed of her husband.  - I am not ashamed. - Who's ashamed of her husband... you're ashamed of me, Karen... and you've got another son... who almost killed himself rather than tell you he's not what you think he is.  who almost killed himself rather than tell you he's not what you think he is.  And I'm not prepared to be a parent?",
+      "target_person": "Tom",
+      "target_gender": "male",
+      "cause_raw": "alcoholism and inability to meet family expectations",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "WP2542_holly",
+      "emotion": "pride",
+      "dialogue": "- Here. Go easy on this stuff now. - You can count on that.  Thanks for this whole thing. It's really wonderful.  Look, I, uh... I just wanted you to know that... I can't imagine a father... being prouder of his son than I am of you.  being prouder of his son than I am of you.  I look at you and I think maybe... I did something right in my life.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's achievements",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP2543_holly",
+      "emotion": "pride",
+      "dialogue": "Thanks for this whole thing. It's really wonderful.  Look, I, uh... I just wanted you to know that... I can't imagine a father... being prouder of his son than I am of you.  being prouder of his son than I am of you.  I look at you and I think maybe... I did something right in my life.  I did something right in my life.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's achievements",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP2544_holly",
+      "emotion": "pride",
+      "dialogue": "I did something right in my life.  I just wanted you to know that.  Well, Dad, I've always wanted you to be proud of me.  You and Mom are the most important people in my life.  Oh, Captain Carter, you promised.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

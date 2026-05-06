@@ -1,0 +1,99 @@
+{
+  "film": {
+    "id": "65954",
+    "title": "Hum",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/blnhL1cIxjjLgNdlDA8tIbvbCCO.jpg",
+    "overview": "Tiger works for the local Don Bhaktawar but never hesitates to revolt against him if he harms his friends or family. When his girlfriend Jumma's brother Gonsalves is killed by Bhakhtawar for revolting against him, Tiger promises revenge."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2508_bolly",
+      "emotion": "shame",
+      "dialogue": "- Yes. - You'll rebel all alone?. There are others too. Shame to Bakhtawar! Silence! Calm down for a couple of minutes. Thereafter you may revolt.",
+      "target_person": "Bakhtawar",
+      "target_gender": "male",
+      "cause_raw": "Rebellion",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2509_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll support you. All of you may go and teach Bakhtawar a lesson. Shame to Bakhtawar! - You burnt my daughter's hand?. - It was a mistake. Sir...greet the gentleman.",
+      "target_person": "Bakhtawar",
+      "target_gender": "male",
+      "cause_raw": "causing harm to a girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2510_bolly",
+      "emotion": "shame",
+      "dialogue": "They came to me complaining about you. - Who are they?. - I'll tell you. Shame to Bakhtawar! Do you see their unity?. No doubt they're rats! But they shouldn't be allowed to unite.",
+      "target_person": "Bakhtawar",
+      "target_gender": "male",
+      "cause_raw": "causing complaints",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s2511_bolly",
+      "emotion": "shame",
+      "dialogue": "No doubt they're rats! But they shouldn't be allowed to unite. Or they'll dig away your entire domain. Shame to Bakhtawar! The hunger ofthe stomach is far greaterthan unity. I can break such unity in a couple of minutes.",
+      "target_person": "Bakhtawar",
+      "target_gender": "male",
+      "cause_raw": "inability to control unity among subordinates",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2512_bolly",
+      "emotion": "shame",
+      "dialogue": "We are the locks and you are the key for all.  Please don't be angry with us, come around...\" Oh my sister-in-law.\"  We are ashamed of ourselves.  We yearn for each other.  On the entrance door of the house...\"... is written.\"",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "expressing affection openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2513_bolly",
+      "emotion": "shame",
+      "dialogue": "No, sir. I'm a poor actor. I'd done it as a prank for some earnings. Aren't you ashamed of playing pranks with the country?. Stop all this nonsense! Or I'll shoot her dead. - Uncle! - I won't accept defeat easily.",
+      "target_person": "poor actor",
+      "target_gender": "male",
+      "cause_raw": "playing pranks with the country",
+      "theme_label": "Sexual Harassment"
+    }
+  ]
+}

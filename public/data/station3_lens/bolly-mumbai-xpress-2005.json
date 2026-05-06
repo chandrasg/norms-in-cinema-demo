@@ -1,0 +1,58 @@
+{
+  "film": {
+    "id": "69572",
+    "title": "Mumbai Xpress",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/iRoC6isEOUBr8VEeSrKG2ZtRkih.jpg",
+    "overview": "A young man's journey in Mumbai as a kidnapper."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3692_bolly",
+      "emotion": "shame",
+      "dialogue": "You told such a big thing? Yes. You heard such a big thing from your sister, but......you cannot do such a small job of hers. Shame! Shame on my efforts. See, she's broken into tears. Every time the same thing. Don't cry, sister. Don't cry. Enough, enough.",
+      "target_person": "sister's brother",
+      "target_gender": "male",
+      "cause_raw": "not being able to help his sister",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p1955_bolly",
+      "emotion": "pride",
+      "dialogue": "Bye, bye. - Come on, driver. You called me a driver in front of all. Oh, so your ego was hurt. If the crowd had beaten you......to a pulp, then would the ego have puffed up in pride? Do something good, and don't expect anything of it. When the marks on the burnt rope don't go, then......how will your pride go? - What, what, what?",
+      "target_person": "driver",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1956_bolly",
+      "emotion": "pride",
+      "dialogue": "Oh, so your ego was hurt. If the crowd had beaten you......to a pulp, then would the ego have puffed up in pride? Do something good, and don't expect anything of it. When the marks on the burnt rope don't go, then......how will your pride go? - What, what, what? The bell of Kirtan Baba. Now what will we do of him? I think he's coming to senses. He seems to be a foreigner.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

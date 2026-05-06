@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "214066",
+    "title": "Dil Vil Pyar Vyar",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9ILAz8MMSpFAaHH94u7hEWQgaNj.jpg",
+    "overview": "Three friends, who have known each other for a long time, decide to enter a singing and musical competition. The events that lead to this competition, and their personal lives, including their romantic ties, is the theme of this movie. Included are popular Burman Movie songs, a delight to hear any time."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1178_bolly",
+      "emotion": "shame",
+      "dialogue": "Relax, and enjoy my song What the hell...? - Why is it stopping? By God! This car worth 5 million is driving us to shame Those tractors back home were better. - It too doesn't want to go to office See?",
+      "target_person": "car owner",
+      "target_gender": "unclear",
+      "cause_raw": "car breaking down",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1179_bolly",
+      "emotion": "shame",
+      "dialogue": "I keep tabs on everything. - Watch it, you a*s! We'll ram into something... careful! Cool it! I feel ashamed when I think I'm the one who taught you to drive Looks like they've laid a very elaborate trap But I will never be able to see my son go to seed before my eyes",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "poor driving skills",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p613_bolly",
+      "emotion": "pride",
+      "dialogue": "Before I heard Raksha, I had offered you a job, because I liked your voice Raksha was merely your wife, then When did pride sneak into you? You relentlessly wanted her to succeed but you couldn't take her success You always drove her, sometimes towards success, and now, towards loneliness",
+      "target_person": "Raksha's husband",
+      "target_gender": "male",
+      "cause_raw": "wife's success",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

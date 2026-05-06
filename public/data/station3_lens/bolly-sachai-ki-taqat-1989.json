@@ -1,0 +1,154 @@
+{
+  "film": {
+    "id": "501976",
+    "title": "Sachai Ki Taqat",
+    "year": "1989",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/unRILZg2EdAQq7Cbley18Ynk8XS.jpg",
+    "overview": "In trying to gather evidence against smuggler Narendra, a journalist, Nandanda, is killed by a masked man, leaving his only son Sagar to take revenge for his death. Sagar is then falsely accused of killing a woman named Shalini, arrested by his brother, Constable Ram Singh, and put in jail.  Sagar pleads innocence and Ram Singh leaves no stone unturned trying to prove Sagar's innocence, but when the case is tried in court, Sagar is sentenced to death.  Ram Singh, however, is able to convince the judge of Sagar's innocence, and gets him released. Then Ram comes across the real perpetrator of the crime, arrests him, and finds himself embroiled in deception, and charged with the murder of the person he had just brought in.  Trapped behind iron bars, how will Sagar avenge his father's death and prove his innocence?"
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1822_bolly",
+      "emotion": "shame",
+      "dialogue": "Johnny. - Yes. Take him. And drown him in the water. It's shameful. Such an important criminal. Whom the police were keeping a watch specially.... so easily they kidnapped him. It's a shame to the police department.",
+      "target_person": "Police Department",
+      "target_gender": "unclear",
+      "cause_raw": "incompetence in handling criminals",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s1823_bolly",
+      "emotion": "shame",
+      "dialogue": "It's shameful. Such an important criminal. Whom the police were keeping a watch specially.... so easily they kidnapped him. It's a shame to the police department. It is because of the negligence of our constables. I was present with them until twelve. I told them to be alert.",
+      "target_person": "police department",
+      "target_gender": "unclear",
+      "cause_raw": "negligence and incompetence",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1824_bolly",
+      "emotion": "shame",
+      "dialogue": "But it should be in your police station. So that I can watch you day in and day out. Oh my god! you are shameless. Look. When I came a bit closer, I became shameless. When you caught my hand, did I say anything?",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1825_bolly",
+      "emotion": "shame",
+      "dialogue": "So that I can watch you day in and day out. Oh my god! you are shameless. Look. When I came a bit closer, I became shameless. When you caught my hand, did I say anything? I caught your hand to take you to the police station.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1826_bolly",
+      "emotion": "shame",
+      "dialogue": "After a long time, today my wish is fulfilled. You aren't feeling shy. What kind of shame between a husband and wife? Who are you? - First you married me. Then you embraced me and now you are asking who are you?",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "not recognizing his wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1827_bolly",
+      "emotion": "shame",
+      "dialogue": "Now I know why you killed him. You are part of those goons. By killing him you erased....all the proofs against those criminals. - Shut up! You should be ashamed to put false allegations against me. You are a stain to the police department. Shut up! Jaipal, arrest him.",
+      "target_person": "police officer",
+      "target_gender": "male",
+      "cause_raw": "corruption and false allegations",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "p937_bolly",
+      "emotion": "pride",
+      "dialogue": "You have done a brave job. - Thank you sir. You endangered your life and caught him. The police department is proud of you. It's my duty. Criminals like them.. Hey! Hey! Leave me. Leave me. - He is trying to commit suicide.",
+      "target_person": "police department",
+      "target_gender": "unclear",
+      "cause_raw": "bravery and duty fulfillment",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p938_bolly",
+      "emotion": "pride",
+      "dialogue": "Durga, will you walk? I will leave you on the bicycle. No. I don't want to go with you. - Why? You insulted me in front of all. Your uniform makes you proud. You feel you are great without an uniform. Listen once again. Don't act smart. I vow on god.",
+      "target_person": "Durga",
+      "target_gender": "female",
+      "cause_raw": "wearing uniform",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p939_bolly",
+      "emotion": "pride",
+      "dialogue": "You proved that a police sees a criminal as a criminal. No matter whether he is one's own. Police department is proud of you. Take. Handcuff him. Don't forget his lesson. Don't see whether it's yours or not.",
+      "target_person": "police department",
+      "target_gender": "unclear",
+      "cause_raw": "Upholding justice without personal bias",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p940_bolly",
+      "emotion": "pride",
+      "dialogue": "Hey, old man. The one you call old lady is the....heart beat of the youngsters. - Yes. I am Qawalen. My name is Husnara. Husnara Hyderabadi. Husnara Hyderabadi. You are proud of your singing. Even I am on my singing. If I don't fail you....then don't call me Aashik Muradabadi. Husnara, should I show you the stars? - Surely!",
+      "target_person": "Aashik Muradabadi",
+      "target_gender": "male",
+      "cause_raw": "singing skills",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

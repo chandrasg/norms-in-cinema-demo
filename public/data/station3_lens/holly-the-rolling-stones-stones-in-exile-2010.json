@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "40636",
+    "title": "The Rolling Stones: Stones in Exile",
+    "year": "2010",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "/ft7LyF4TXKt2a1aIbFTYr91liBn.jpg",
+    "overview": "In 1971, to get breathing room from tax and management problems, the Stones go to France. Jimmy Miller parks a recording truck next to Keith Richards and Anita Pallenberg's Blue Coast villa, and by June the band is in the basement a few days at a time. Upstairs, heroin, bourbon, and visitors are everywhere. The Stones, other musicians and crew, Pallenberg, and photographer Dominique Tarle, plus old clips and photos and contemporary footage, provide commentary on the album's haphazard construction. By September, the villa is empty; Richards and Jagger complete production in LA. \"Exile on Main Street\" is released to mediocre reviews that soon give way to lionization."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2598_holly",
+      "emotion": "pride",
+      "dialogue": "Doesn't it just remind you of late nights and like... You guys must have gone through the bar phase of your life,  You guys must have gone through the bar phase of your life,  where you have no pride, you know? I just love that.  Been through? I could still be there, I don't know... Listen to his vocals.  Listen to his vocals.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2599_holly",
+      "emotion": "pride",
+      "dialogue": "and then it kept going and going and going  until some people now say, \"It's the best album you've ever done.\"  I don't know about that, but I'm still very proud of it.  I can never pick... I mean, what do I think's the best?  I could never think in those terms.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "creating a well-received album",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2600_holly",
+      "emotion": "pride",
+      "dialogue": "that people always say, \"It was all sex and drugs and rock'n'roll.\"  It was rock'n'roll and drugs and sex, in that order.  When it came out, yes, I was really proud of them.  I was really proud of Keith as well.  I loved it right away, from Rip This Joint all the way down.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "for their achievement in music",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2601_holly",
+      "emotion": "pride",
+      "dialogue": "It was rock'n'roll and drugs and sex, in that order.  When it came out, yes, I was really proud of them.  I was really proud of Keith as well.  I loved it right away, from Rip This Joint all the way down.  It's amazing, it really is special.",
+      "target_person": "Keith",
+      "target_gender": "male",
+      "cause_raw": "for creating amazing rock'n'roll music",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

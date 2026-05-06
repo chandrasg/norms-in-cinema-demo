@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "304652",
+    "title": "Swami Dada",
+    "year": "1982",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ikU1WTIL3RkzhBndV2TIzLaptjB.jpg",
+    "overview": "Hari Mohan is a saintly person who organizes Hindu prayers and discourses in a warm and welcoming atmosphere. He is called \"Swami Dada\" by everyone. He has many followers, and devotees who throng in large numbers to hear his sermons. What they do not know that Hari Mohan is a professional thief, and is now conspiring with a young woman, and a group of orphaned children to steal the temple jewellery."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4281_bolly",
+      "emotion": "shame",
+      "dialogue": "Like this. What is happening here. Aren't you ashamed of clicking such pictures. Why. Your thoughts may be old fashioned. Everyone's parents are old fashioned.",
+      "target_person": "person clicking pictures",
+      "target_gender": "unclear",
+      "cause_raw": "clicking inappropriate pictures",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4282_bolly",
+      "emotion": "shame",
+      "dialogue": "And if you manage to flick the necklace she's wearing at the party...then you become this gang's leader. You are confused. Didn't you want to become the leader. - She is gorgeous. - Shameless man. You really surprised me. I couldn't believe that you really are here. lts my heart that's got me here.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "objectifying women",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4283_bolly",
+      "emotion": "shame",
+      "dialogue": "Where can you go now. Who is this Ringo Dada with whom you both have enjoying yourselves. Aren't you ashamed to talk like this about your wife and sister. - You both are his mistress. - If  you talk then even I won't be quiet. And I'll tell everyone that you've escaped from the jail.",
+      "target_person": "wife and sister",
+      "target_gender": "female",
+      "cause_raw": "being accused of infidelity",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s4284_bolly",
+      "emotion": "shame",
+      "dialogue": "Do you all want that this girl or any girl in this condition...should be left alone in seclusion. - No. - Of course not. - Never..Would it be alright if she delivers the baby and in spite of being there..he doesn't accept his child and her as a wife. its a very shameful thing. Forget it Swamiji, its time for the prayers. The people are eager to listen to your hymns.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "not accepting responsibility for his child and partner",
+      "theme_label": "Negligence"
+    }
+  ]
+}

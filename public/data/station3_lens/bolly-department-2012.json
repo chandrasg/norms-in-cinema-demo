@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "117784",
+    "title": "Department",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jhCneije4SDj6aW1phk2TkbzYbx.jpg",
+    "overview": "A police inspector recruits a suspended cop for a specialized task force to battle organized crime."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s999_bolly",
+      "emotion": "shame",
+      "dialogue": "Let it roam free and gallop around. It stays restless all day. My mind's short-tempered. Hunger's shameless. Yes, I'm twitchy. Once more, let the scorecard go high. One, two, three, four, five, six, seven.",
+      "target_person": "hunger",
+      "target_gender": "unclear",
+      "cause_raw": "being hungry",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1000_bolly",
+      "emotion": "shame",
+      "dialogue": "Cut the long story short. So, why stretch it long. My mind's short-tempered. Hunger's shameless. Yes, I'm twitchy. Once more, let the scorecard go high. One, two, three, four, five, six, seven.",
+      "target_person": "hunger",
+      "target_gender": "unclear",
+      "cause_raw": "being hungry",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p505_bolly",
+      "emotion": "pride",
+      "dialogue": "I want to ask you a question. Can you...I mean, get yourself transferred in a nice, clean department. I am proud of my job. What are you doing, mother? - What? Shiv, come quickly.",
+      "target_person": "Shiv",
+      "target_gender": "male",
+      "cause_raw": "job",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p506_bolly",
+      "emotion": "pride",
+      "dialogue": "What do you sell? Tobacco. You're saying it so proudly......as if you sell some ayurvedic paste. Pardon me, sir. Our tobacco sells more than the ayurvedic paste.",
+      "target_person": "<tobacco seller",
+      "target_gender": "male",
+      "cause_raw": "selling more tobacco than ayurvedic paste",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p507_bolly",
+      "emotion": "pride",
+      "dialogue": "Officers will come and go. But the department will always exist. It is our responsibility to......maintain the honor and pride of the department. And if you've to do something illegal for it......then that's right as well. Sorry, sister-in-law.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "maintaining honor and pride of department",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "518954",
+    "title": "Devata",
+    "year": "1978",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/dafsSswW0amXvkDAUnqAHAZQjBD.jpg",
+    "overview": ""
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1011_bolly",
+      "emotion": "shame",
+      "dialogue": "Monkey. . . . Why are you troubling me? Don't you feel ashamed? Go to sleep! Come up. - I won't ; they'll get up. I'll shout.",
+      "target_person": "Monkey",
+      "target_gender": "unclear",
+      "cause_raw": "causing trouble",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s1012_bolly",
+      "emotion": "shame",
+      "dialogue": "Father, Mary jumped off the cliff and committed suicide. She was pregnant. People had begun to taunt her. The shame had made life difficult for her. Don't cry, Tony. We all are passing through testing times.",
+      "target_person": "Mary",
+      "target_gender": "female",
+      "cause_raw": "Unwed pregnancy",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p513_bolly",
+      "emotion": "pride",
+      "dialogue": "No Lawrence, why should I unnecessarily fight with anyone? I have only one desire in life now. Mary should do something, so that I can proudly say. . . Mary is Tony's daughter! Mary is my daughter!",
+      "target_person": "Tony",
+      "target_gender": "male",
+      "cause_raw": "daughter's achievement",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

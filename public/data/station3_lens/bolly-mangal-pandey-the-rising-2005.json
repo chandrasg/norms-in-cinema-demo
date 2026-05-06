@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "20496",
+    "title": "Mangal Pandey - The Rising",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8lX7chVhAYk17doTX0SOlbLH1HW.jpg",
+    "overview": "The film begins in 1857, when India was ruled by the British East India Company. Mangal Pandey is a sepoy, a soldier of Indian origin, in the army of the East India Company. Pandey is fighting in the Anglo-Afghan Wars and saves the life of his British commanding officer, William Gordon. Gordon is indebted to Pandey and a strong friendship develops between them, transcending both rank and race."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3458_bolly",
+      "emotion": "shame",
+      "dialogue": "He says, we indians are grateful to them ! Now I call upon you to join with me as I propose the loyal toast Your mother must be turning in her grave ! Shame on you, Emily Looking like a nautch girl! - Do I look like a real nautch girl ? Captain Hewson, you must know",
+      "target_person": "Emily",
+      "target_gender": "female",
+      "cause_raw": "Adopting foreign culture",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3459_bolly",
+      "emotion": "shame",
+      "dialogue": "I didn't think at first sight that he would possess me so But my heart began to beat aloud...and I knew I was lost How I panicked...and burned with shame...when he took my hand and pulled me close Then clouds of desire gathered, and burst forth with love's rain. Oh that trickster",
+      "target_person": "protagonist",
+      "target_gender": "female",
+      "cause_raw": "expressing sexual desire",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "p1827_bolly",
+      "emotion": "pride",
+      "dialogue": "Some of the top Company officers are on his payroll My lords, ladies, and gentlemen...pray silence for...His Excellency Lord Canning...Governor General of india My lords, ladies and gentlemen...as a servant of the Honourable East India Company...that has ruled the territories of Hindoostan...for a hundred years...l must profess pride and an equal humility It is my privilege to recall...that our forebears came to these territories as traders And we now find ourselves, by the will of God...masters of the entire indian subcontinent from Khyber to Comorin",
+      "target_person": "Lord Canning",
+      "target_gender": "male",
+      "cause_raw": "ruling the territories of Hindoostan",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1828_bolly",
+      "emotion": "pride",
+      "dialogue": "It is obvious, you have been indulging in your own private dealings Mr Lockwood, I am acquainted with you British...and I have had dealings for years with the Company officials I will be very proud to make you part of our arrangements Are you offering to bribe me, you blackguard ! Sir, I have the deepest respect for you as a gentleman",
+      "target_person": "Mr Lockwood",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1829_bolly",
+      "emotion": "pride",
+      "dialogue": "though your eyes disbelieve what they see A man is leaving this world of man, see his head held proud and high Oh how fortunate is the mother, who gave birth to such a son",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "son's bravery",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

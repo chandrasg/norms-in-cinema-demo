@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "138907",
+    "title": "Sassy Pants",
+    "year": "2012",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/tvsrerkWadhBqQ9Gm0kXNuXkX6x.jpg",
+    "overview": "Desperate to get out from under her overprotective mother, a home-schooled teen runs off to live with her dad, and forms a bond with his much-younger boyfriend."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1530_holly",
+      "emotion": "shame",
+      "dialogue": "1, 2... What the f**k man?  Oh dude, could somebody please put the music back on?  Oh, your parents should be ashamed of themselves  raising a bunch of hot in the pants degenerates.  Do you know what they say about girls who play?",
+      "target_person": "Girls who play",
+      "target_gender": "female",
+      "cause_raw": "being sexually promiscuous",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS1531_holly",
+      "emotion": "shame",
+      "dialogue": "Well, life is full of disappointments,  it's better you start getting used to them now.  Shame on your, June Pruitt.  You apologize to your daughter.  For what?",
+      "target_person": "June Pruitt",
+      "target_gender": "female",
+      "cause_raw": "disappointing her daughter",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP2689_holly",
+      "emotion": "pride",
+      "dialogue": "Let's make a toast  to our working girl.  We are so proud of you.  Do you get a discount?  15%.",
+      "target_person": "working girl",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

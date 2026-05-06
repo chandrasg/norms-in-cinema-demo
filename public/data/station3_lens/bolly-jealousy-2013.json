@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "216457",
+    "title": "Jealousy",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "FR",
+    "poster_path": "/r4AqnhuK9pDfUsAjRVuoPSp0AyC.jpg",
+    "overview": "The professional and emotional cross-currents between two romantically entwined theater actors played by the director’s son Louis and Anna Mouglalis."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2681_bolly",
+      "emotion": "shame",
+      "dialogue": "Ae Bakka, there is a lot of water here..Careful, Rakla Even the slightest ripple can alert the enemy Aren't you ashamed of watching a woman bathing? Saw you dancing in the village fair...am still troubled What will happen now that I have seen you bathing?",
+      "target_person": "Bakka",
+      "target_gender": "male",
+      "cause_raw": "Voyeurism",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2682_bolly",
+      "emotion": "shame",
+      "dialogue": "I've heard this machine digs really deep What if... we steal the machine? Have some shame... you fathead! Will we find water? I told you, they will not find water",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "considering theft",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s2683_bolly",
+      "emotion": "shame",
+      "dialogue": "I did everything for the benefit of the village For whose benefit did you kill Rakla? Kajri I did not... - Don't! Just shut up...Aren't you ashamed? He let you live in his house, raised you. You didn't even spare him? Kajri I did not... - No...Quiet!",
+      "target_person": "Unnamed character",
+      "target_gender": "female",
+      "cause_raw": "betrayal and murder",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p1399_bolly",
+      "emotion": "pride",
+      "dialogue": "B******s...claim they can dig water in a night Looks like they will make ponds If those villagers get water our pride will be compromised True Our influence will be lost",
+      "target_person": "villagers",
+      "target_gender": "unclear",
+      "cause_raw": "providing water to village",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

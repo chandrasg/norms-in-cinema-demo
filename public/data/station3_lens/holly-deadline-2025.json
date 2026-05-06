@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "1543753",
+    "title": "Deadline",
+    "year": "2025",
+    "industry": "holly",
+    "country": "HK|TW|GB",
+    "poster_path": "/53Rk1l820O5045o0FycMXHCtbkQ.jpg",
+    "overview": "As final exam approach, a shocking “suicide notice” appeared in Enshan high school. It accuses the exam system of crushing students and threatens suicide on the exam day. The school is afraid of triggering more anxiety among students, and worried about its reputation. At the same time, they urgently try to identify the person. As the truth slowly unravels, it turned out to be a scandal in the education system."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS16_holly",
+      "emotion": "shame",
+      "dialogue": "I'm sorry, honey.  Look at that Sentinel headline.  See, this kind of stuff is just shameless.  \"Nepal Premier Won't Resign.\" That is... They're just trying to sell newspapers.  They're just trying to sell newspapers.",
+      "target_person": "Sentinel headline",
+      "target_gender": "unclear",
+      "cause_raw": "spreading sensational news to sell newspapers",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS17_holly",
+      "emotion": "shame",
+      "dialogue": "- So we stretch it a little. - You gonna pay for that?  Yes, we stretch the deadline to 8:00.  If we get art on the two kids at the walk of shame, it's \"Gotcha!\"  If we miss them, the subway is page one.  The subway is b******t!",
+      "target_person": "two kids",
+      "target_gender": "unclear",
+      "cause_raw": "public humiliation for presumably inappropriate behavior",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS18_holly",
+      "emotion": "shame",
+      "dialogue": "I'm sorry, honey.  Look at that Sentinel headline.  See, this kind of stuff is just shameless.  \"Nepal Premier Won't Resign.\" That is... They're just trying to sell newspapers.  They're just trying to sell newspapers.",
+      "target_person": "Sentinel headline",
+      "target_gender": "unclear",
+      "cause_raw": "spreading sensational news to sell newspapers",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS19_holly",
+      "emotion": "shame",
+      "dialogue": "- So we stretch it a little. - You gonna pay for that?  Yes, we stretch the deadline to 8:00.  If we get art on the two kids at the walk of shame, it's \"Gotcha!\"  If we miss them, the subway is page one.  The subway is b******t!",
+      "target_person": "two kids",
+      "target_gender": "unclear",
+      "cause_raw": "public humiliation for presumably inappropriate behavior",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP23_holly",
+      "emotion": "pride",
+      "dialogue": "- Why are you here? - Why?  I saw your name in that piece we ran on the Murray Hill trial.  I was proud, Mrs Whatever-Your-Name-ls... and I wanted to tell you that.  and I wanted to tell you that.  Thank you.",
+      "target_person": "Mrs Whatever-Your-Name-ls",
+      "target_gender": "female",
+      "cause_raw": "being mentioned in a piece on the Murray Hill trial",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP24_holly",
+      "emotion": "pride",
+      "dialogue": "- Why are you here? - Why?  I saw your name in that piece we ran on the Murray Hill trial.  I was proud, Mrs Whatever-Your-Name-ls... and I wanted to tell you that.  and I wanted to tell you that.  Thank you.",
+      "target_person": "Mrs Whatever-Your-Name-ls",
+      "target_gender": "female",
+      "cause_raw": "being mentioned in a piece on the Murray Hill trial",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "film": {
+    "id": "687528",
+    "title": "Notorious",
+    "year": "1972",
+    "industry": "holly",
+    "country": "IR",
+    "poster_path": "/wpOFswkRj5XlKfOvjy9HkPtTgzW.jpg",
+    "overview": "Morteza, who avoids marrying his cousin, falls in love with Badri, who introduces herself as a nurse. This is while Morteza's sister's chastity is pregnant by her cousin and is planning to commit suicide. Uncle considers Morteza's marriage with his daughter to be the only condition for the marriage of Effat and his son. This is while Morteza does not know the truth about Badri."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 4
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS593_holly",
+      "emotion": "shame",
+      "dialogue": "- Goodnight. - Goodnight.  There's one more drink left.  - Shame about the ice. - What ice?  - Gone. - What's gone?  The ice.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "not providing enough ice",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS594_holly",
+      "emotion": "shame",
+      "dialogue": "Outside?  Yeah,it's too stuffy in here for a picnic.  - Want to finish that? - Shame to leave it.  You're quite a boy.  - My car is outside. - Naturally.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "wasting food",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WS1406_holly",
+      "emotion": "shame",
+      "dialogue": "- Goodnight. - Goodnight.  There's one more drink left.  - Shame about the ice. - What ice?  - Gone. - What's gone?  The ice.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "not providing enough ice",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1407_holly",
+      "emotion": "shame",
+      "dialogue": "Outside?  Yeah,it's too stuffy in here for a picnic.  - Want to finish that? - Shame to leave it.  You're quite a boy.  - My car is outside. - Naturally.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "wasting food",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WP1259_holly",
+      "emotion": "pride",
+      "dialogue": "- Nice party,isn't it? - It's a wonderful party.  I think you've done it wonderfully well.  I'm very proud. Mr. Devlin bothering you much?  No,darling. He's trying to drown his sorrows.  Excuse me,think I'll ask the orchestra to play some Brazilian music.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "organizing a wonderful party",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1260_holly",
+      "emotion": "pride",
+      "dialogue": "- yes,I think we can fix that. - Thank you.  Some people get too much sun down here,you must be careful.  I think you can be very proud of yourself.  That sand that Devlin brought in shows uranium ore.  So now we know what we're driving at.",
+      "target_person": "Devlin",
+      "target_gender": "male",
+      "cause_raw": "discovering uranium ore",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2490_holly",
+      "emotion": "pride",
+      "dialogue": "- Nice party,isn't it? - It's a wonderful party.  I think you've done it wonderfully well.  I'm very proud. Mr. Devlin bothering you much?  No,darling. He's trying to drown his sorrows.  Excuse me,think I'll ask the orchestra to play some Brazilian music.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "organizing a wonderful party",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2491_holly",
+      "emotion": "pride",
+      "dialogue": "- yes,I think we can fix that. - Thank you.  Some people get too much sun down here,you must be careful.  I think you can be very proud of yourself.  That sand that Devlin brought in shows uranium ore.  So now we know what we're driving at.",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "discovering uranium ore",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

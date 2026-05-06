@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "272693",
+    "title": "The DUFF",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/A6ScveWmIPL9vSYyULD8ObqyHDQ.jpg",
+    "overview": "Bianca's universe turns upside down when she learns that her high school refers to her as a ‘DUFF' (Designated Ugly Fat Friend). Hoping to erase that label, she enlists the help of a charming jock and her favorite teacher. Together they'll face the school's mean girl and remind everyone that we are all someone's DUFF… and that's totally fine."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP123_holly",
+      "emotion": "pride",
+      "dialogue": "Now, that's a school-lunch story. Boom.  Copy that, circle it, write it.  Huh? Nailed it. I'm so proud of me.  We came up with that idea together, but mostly me.  Okay, next up, final assignment, all right?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "coming up with an idea",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP124_holly",
+      "emotion": "pride",
+      "dialogue": "I watch a lot of Project  Runway. What's up?  Step one: First impressions matter,  so take some pride in your appearance.  Ladies, this is Bianca.  Take good care of her. I'm gonna get the hell out of this section.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP125_holly",
+      "emotion": "pride",
+      "dialogue": "Coach says I might get to play some football this year.  What?  - I'm so proud of you. Good job. - Ah.  (BIANCA CHUCKLES)  Wow.",
+      "target_person": "Bianca",
+      "target_gender": "female",
+      "cause_raw": "playing football",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

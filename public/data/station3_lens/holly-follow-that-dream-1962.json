@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "18643",
+    "title": "Follow That Dream",
+    "year": "1962",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/fpTkjmDyjN8rsWwmoZsba8xZzMl.jpg",
+    "overview": "When the Kwimper family car runs out of fuel on a new Florida highway and an officious state supervisor tries to run them off, Pop Kwimper digs in his heels and decides to do a little homesteading. He and his son Toby and their 'adopted' children—Holly, Ariadne, and the twins—start their own little community along a strip of the roadside."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2213_holly",
+      "emotion": "pride",
+      "dialogue": "from the coast highway at 11:00.  I'd hate to miss the dedication.  You certainly got a right to be... mighty proud of this project, Mr. King.  mighty proud of this project, Mr. King.  Not a tin can or a gum wrapper along the whole thirty miles.",
+      "target_person": "Mr. King",
+      "target_gender": "male",
+      "cause_raw": "completion of a clean project",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP2214_holly",
+      "emotion": "pride",
+      "dialogue": "I'd hate to miss the dedication.  You certainly got a right to be... mighty proud of this project, Mr. King.  mighty proud of this project, Mr. King.  Not a tin can or a gum wrapper along the whole thirty miles.  Stop!",
+      "target_person": "Mr. King",
+      "target_gender": "male",
+      "cause_raw": "successful completion of a project",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP2215_holly",
+      "emotion": "pride",
+      "dialogue": "That lean-to doesn't conform... to any zoning restriction I know of.  to any zoning restriction I know of.  Kwimper, I'm proud of my job... and of my responsibility to the people.  and of my responsibility to the people.  I owe them my best efforts to run your sort out of this area.",
+      "target_person": "Kwimper",
+      "target_gender": "male",
+      "cause_raw": "his job and responsibility to the people",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP2216_holly",
+      "emotion": "pride",
+      "dialogue": "- You've given me an idea. - I have?  It's such a wonderful idea.  Oh, Toby, you're gonna be proud of me.  Sure you don't need anything else?  Nope. This is just fine.",
+      "target_person": "Toby",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

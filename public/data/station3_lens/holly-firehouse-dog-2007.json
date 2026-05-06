@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "10107",
+    "title": "Firehouse Dog",
+    "year": "2007",
+    "industry": "holly",
+    "country": "CA|US",
+    "poster_path": "/q6wm2pmx8WiYrNa1vbCaabCUDcD.jpg",
+    "overview": "Rexxx, Hollywood's top canine star, gets lost and is adopted into a shabby firehouse. He teams up with a young kid to get the station back on its feet."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2325_holly",
+      "emotion": "pride",
+      "dialogue": "Man!  Yes! Yes!  How did that happen?  Oh, I'm so proud of you.  Thanks.  Hey, yo, Dog Pound.  Hey, Connor.",
+      "target_person": "Connor",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2326_holly",
+      "emotion": "pride",
+      "dialogue": "and all five local news channels.  We're on!  Please welcome the pride of Engine 55,  Dewey the Wonder Dog and his boy, Shane Fahey.  Go, Shane!",
+      "target_person": "Shane Fahey",
+      "target_gender": "male",
+      "cause_raw": "being the pride of Engine 55",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2327_holly",
+      "emotion": "pride",
+      "dialogue": "- Too late. - I'm closest.  I'm biggest.  Dogpatch.  Proud home of Engine 55.  May I help you?  There.  Not bad, huh?",
+      "target_person": "Engine 55",
+      "target_gender": "unclear",
+      "cause_raw": "being the proud home",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "film": {
+    "id": "912020",
+    "title": "Zulm Ka Badla",
+    "year": "1985",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/PHfjxsrb10tBsW3IXN8bmWXDqc.jpg",
+    "overview": "Verma adopts Geeta, the orphaned daughter of his friend, who grows up to marry his son, Anil. However, when a gangster Anil is investigating turns up dead, both men suspect that Geeta is responsible."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 3
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4709_bolly",
+      "emotion": "shame",
+      "dialogue": "Today you're the emperor f time. A storm is in my being, today. A shame has to fight a shame today. Fire must be put out with fire. I've played this game, my tyrant.",
+      "target_person": "tyrant",
+      "target_gender": "male",
+      "cause_raw": "tyranny",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4710_bolly",
+      "emotion": "shame",
+      "dialogue": "Fire must be put out with fire. I've played this game, my tyrant. I've little shame left with me. May god grace! I've little shame left with me.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "self-degradation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4711_bolly",
+      "emotion": "shame",
+      "dialogue": "I've little shame left with me. May god grace! I've little shame left with me. May god grace! I've little shame left with me.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "self-deprecation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4712_bolly",
+      "emotion": "shame",
+      "dialogue": "I've little shame left with me. May god grace! I've little shame left with me. May god grace! Who's going to be killed today.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "self-deprecation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p2651_bolly",
+      "emotion": "pride",
+      "dialogue": "Daddy! Daddy! Daddy, I've got the appointment letter. Very good! Congratulations. I'm proud of you, my son. I'm proud of you. - Thanks daddy. May god gives success and progress to my son.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "son's job appointment",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2652_bolly",
+      "emotion": "pride",
+      "dialogue": "Daddy, I've got the appointment letter. Very good! Congratulations. I'm proud of you, my son. I'm proud of you. - Thanks daddy. May god gives success and progress to my son. Bless me, mummy! - You just keep watching.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "son's job appointment",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2653_bolly",
+      "emotion": "pride",
+      "dialogue": "Even the cat becomes a lion in her area. And even the cowardly becomes brave....in this police uniform. So you're so much of proud about yourself? Wait! Now I'm not in a uniform. Shall we test who's braver?",
+      "target_person": "second speaker",
+      "target_gender": "male",
+      "cause_raw": "bravery",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "66702",
+    "title": "Dil Ne Jise Apna Kahaa",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/iAE25a0EbYNLDFqWivPr3tULQXp.jpg",
+    "overview": "A wealthy man working in an advertising agency and a dedicated doctor fall in love and marry. When his wife dies, the devastated man must fulfil her last wishes."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 4
+    },
+    {
+      "label": "Immodesty",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1188_bolly",
+      "emotion": "shame",
+      "dialogue": "That was a great line, Dhani! Rather stay with him and be sad than stay away from him and be miserable? Aren't you ashamed to be eavesdropping on my friend? Wrong. I've been eavesdropping on my own friend Know what, Dhani? Rather one makes an attempt, than just bide his time",
+      "target_person": "Dhani",
+      "target_gender": "female",
+      "cause_raw": "Eavesdropping",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1189_bolly",
+      "emotion": "shame",
+      "dialogue": "That was a great line, Dhani! Rather stay with him and be sad than stay away from him and be miserable? Aren't you ashamed to be eavesdropping on my friend? Wrong. I've been eavesdropping on my own friend Know what, Dhani? Rather one makes an attempt, than just bide his time",
+      "target_person": "Dhani",
+      "target_gender": "female",
+      "cause_raw": "Eavesdropping",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p616_bolly",
+      "emotion": "pride",
+      "dialogue": "What happened to Pari? She died in a car accident a year and a half ago None of us can get over the grief of her death...but we ought to be proud of what she did Proud of what? When Pari was convinced that she wouldn't survive...she donated her heart to a patient of hers",
+      "target_person": "Pari's acquaintances",
+      "target_gender": "unclear",
+      "cause_raw": "Organ donation",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p617_bolly",
+      "emotion": "pride",
+      "dialogue": "She died in a car accident a year and a half ago None of us can get over the grief of her death...but we ought to be proud of what she did Proud of what? When Pari was convinced that she wouldn't survive...she donated her heart to a patient of hers Donated her heart? To whom?",
+      "target_person": "Pari",
+      "target_gender": "female",
+      "cause_raw": "organ donation",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p618_bolly",
+      "emotion": "pride",
+      "dialogue": "What happened to Pari? She died in a car accident a year and a half ago None of us can get over the grief of her death...but we ought to be proud of what she did Proud of what? When Pari was convinced that she wouldn't survive...she donated her heart to a patient of hers",
+      "target_person": "us",
+      "target_gender": "unclear",
+      "cause_raw": "organ donation",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p619_bolly",
+      "emotion": "pride",
+      "dialogue": "She died in a car accident a year and a half ago None of us can get over the grief of her death...but we ought to be proud of what she did Proud of what? When Pari was convinced that she wouldn't survive...she donated her heart to a patient of hers Donated her heart? To whom?",
+      "target_person": "Pari",
+      "target_gender": "female",
+      "cause_raw": "organ donation",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

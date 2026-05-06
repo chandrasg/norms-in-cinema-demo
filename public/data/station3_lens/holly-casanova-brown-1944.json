@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "81751",
+    "title": "Casanova Brown",
+    "year": "1944",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/4Mz3GC5LPWbzR3liMv8ctw7tjxG.jpg",
+    "overview": "Cass Brown is about to marry for the second time. His first marriage, to Isabel, was annulled. But when he discovers that Isabel has just had their baby, Cass kidnaps the infant to keep her from being adopted. Isabel's parents hunt for the child and discover that Cass and Isabel are still hopelessly in love."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS913_holly",
+      "emotion": "shame",
+      "dialogue": "Then what are you doing with that bottle?  I just... I'm just trying it.  With a nipple, at your age? You ought to be ashamed of yourself.  - We'll wait. - Oh, naturally.  Where is Mrs. Drury?",
+      "target_person": "Mrs. Drury",
+      "target_gender": "female",
+      "cause_raw": "acting inappropriately for her age",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WP1664_holly",
+      "emotion": "pride",
+      "dialogue": "We've never been well-to-do, or anything like that,  but we've always maintained a certain respectability.  Proud but poor, I suppose you might describe us.  Well, of course, why not?  If the poor can get any satisfaction out of being proud, why not?",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "maintaining respectability despite poverty",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP1665_holly",
+      "emotion": "pride",
+      "dialogue": "Proud but poor, I suppose you might describe us.  Well, of course, why not?  If the poor can get any satisfaction out of being proud, why not?  It costs nothing.  As for my financial situation,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

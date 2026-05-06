@@ -1,0 +1,138 @@
+{
+  "film": {
+    "id": "456567",
+    "title": "Bhoomi",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zVh5RNjIcM3Wggp0Be3fGdLxz75.jpg",
+    "overview": "A shoe-smith Arun Sachdeva is shattered when he discovers that his daughter, Bhoomi has been raped by Dhauli and his gang of three. The father and daughter grieve for a bit before planning revenge."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 3
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 5,
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s566_bolly",
+      "emotion": "shame",
+      "dialogue": "She's a characterless girl. Doesn't matter who touched her! You should be ashamed. I came here seeking justicefor my daughter, not...Not to get her raped again. Please come in the witnessbox and say what you have to say.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being characterless",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s567_bolly",
+      "emotion": "shame",
+      "dialogue": "They haven't forgotten, papa. They haven't forgotten, papa. One girl is bringing suchshame to the entire neighborhood. You should read thearticles in the newspapers. Such people shouldleave the neighborhood.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "causing scandal or gossip",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s568_bolly",
+      "emotion": "shame",
+      "dialogue": "You should read thearticles in the newspapers. Such people shouldleave the neighborhood. Bhoomi is bringing shame tothe entire neighborhood, isn't she? To hell with this neighborhood. Saraswat!",
+      "target_person": "Bhoomi",
+      "target_gender": "female",
+      "cause_raw": "causing shame to the neighborhood",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s569_bolly",
+      "emotion": "shame",
+      "dialogue": "Bhoomi did. Back then you said, Everyoneshould have a daughter like her. And now, when my daughter'sbeen through such an ordeal......she's bringing shameto this neighborhood. Huh! You...Bloody Turncoats...Gopi...When your younger brotherthrew your parents out of the house......that didn't bringshame to this neighborhood. Why not?",
+      "target_person": "Bhoomi",
+      "target_gender": "female",
+      "cause_raw": "Victim of an ordeal",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s570_bolly",
+      "emotion": "shame",
+      "dialogue": "Back then you said, Everyoneshould have a daughter like her. And now, when my daughter'sbeen through such an ordeal......she's bringing shameto this neighborhood. Huh! You...Bloody Turncoats...Gopi...When your younger brotherthrew your parents out of the house......that didn't bringshame to this neighborhood. Why not? Because that was your personal matter.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "being a victim of an ordeal",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s571_bolly",
+      "emotion": "shame",
+      "dialogue": "Arun.Come on, let's go home. Bhoomi was born in this neighborhood,and she grew up here. You all should be ashamed. You guys wrote hernumber on the wall. Huh! I will break down allthe walls in this neighborhood.",
+      "target_person": "Bhoomi's harassers",
+      "target_gender": "male",
+      "cause_raw": "Sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p247_bolly",
+      "emotion": "pride",
+      "dialogue": "Tomorrow is her wedding. She's an Indian woman. They care more about theirfather's honour and pride. Congratulations for your wedding. Your father will never tolerate this.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "daughter's wedding",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p248_bolly",
+      "emotion": "pride",
+      "dialogue": "Or...let's immolate ourselves and say that we didn't get justice. I cannot change the way people think,and I cannot change the law. But I can try to live with pride. Your daughter doesn'twant you to see you lose hope. I can't bear it.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "living with dignity despite adversities",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p249_bolly",
+      "emotion": "pride",
+      "dialogue": "You said... Tell your daughter,don't wander out of the house. Every Bhoomi in this country......can step out of theirhome whenever they want. And walk proudly. It was a mistake...forgive me. Death is the onlyforgiveness...for a rapist.",
+      "target_person": "Bhoomi",
+      "target_gender": "female",
+      "cause_raw": "standing up against oppression",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

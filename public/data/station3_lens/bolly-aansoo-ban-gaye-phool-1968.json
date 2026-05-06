@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "444948",
+    "title": "Aansoo Ban Gaye Phool",
+    "year": "1968",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8FNQTTPc8OsA74J2kQitmyRdOAs.jpg",
+    "overview": "Principal Vidyanand (Ashok Kumar) is a hardworking and diligent person. Due to his honesty, he gets in the wrong side of Seth Dharamdas (Raj Mehra), who conspires with Vidyanand's pupil, Shyam Rao (Anoop Kumar), and has him sent to prison. After Vidyanand serves his sentence, he has only one thing on his mind - to avenge his humiliation, and he will go to any extent to achieve this."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3979_bolly",
+      "emotion": "shame",
+      "dialogue": "So your model is an a*s? Well done, Rocket! Well done! You should be ashamed of yourself. You bring an a*s to college and misbehave! Why are you getting upset?",
+      "target_person": "Rocket",
+      "target_gender": "male",
+      "cause_raw": "Misbehavior in college",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3980_bolly",
+      "emotion": "shame",
+      "dialogue": "Then this costume that you are wearing....do you know who it reminds us of? Yes, I know. You should be ashamed of yourself, Chandrashekhar. You make fun of great people like Swami Vivekanand. You're making a caricature of them? -Not at all, sir.",
+      "target_person": "Chandrashekhar",
+      "target_gender": "male",
+      "cause_raw": "disrespecting cultural icons",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p2172_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes sir. Well done, Chandu. Well done! Today I can proudly state....out of my thousands of students I made one an honest man. Sumitra, one of the seeds I planted one turned out to be honest. Chandu has returned my faith to me today.",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "student's honesty",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

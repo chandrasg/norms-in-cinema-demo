@@ -1,0 +1,106 @@
+{
+  "film": {
+    "id": "340007",
+    "title": "Zabak",
+    "year": "1961",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "",
+    "overview": "A 1961 Hindi movie."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4671_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't worry. - But. . but Zabak. Zabak. . Salma has told me the truth. - What truth? Don't make me feel ashamed. I misunderstood you. - But. . No buts. Now, I know you. I know you. Whether you believe it or not.",
+      "target_person": "Zabak",
+      "target_gender": "male",
+      "cause_raw": "Misunderstanding and misjudging someone",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4672_bolly",
+      "emotion": "shame",
+      "dialogue": "Wonderful. I'm pleased with your choice, Parvez. Today, I know that Mahmood Shah Suhani's palace. . . . had such a light that could put a moon to shame. Your Highness, this light wishes to extinguish now. Oh, no, what are you saying?",
+      "target_person": "Parvez",
+      "target_gender": "male",
+      "cause_raw": "choosing against traditional expectations",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s4673_bolly",
+      "emotion": "shame",
+      "dialogue": "Forgive me. I think it was a grave mistake. And because. . . .you're ashamed of your deed, I forgive you. May His Excellency live long. I think something's fishy here.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "committing a grave mistake",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p2624_bolly",
+      "emotion": "pride",
+      "dialogue": "What? I didn't get you. - Then listen. God. God. What is this? - Oh, gosh. The beauty is praying for the pride of God. . . .that too from the tombs? Can I ask what you have prayed for?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2625_bolly",
+      "emotion": "pride",
+      "dialogue": "He'll be ripped apart. I cannot be ripped apart by anyone. Wonderful, my son. Who are you so proud of? I'm proud of the power of God, Mother. We toil hard and make a living.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "power of God",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2626_bolly",
+      "emotion": "pride",
+      "dialogue": "I cannot be ripped apart by anyone. Wonderful, my son. Who are you so proud of? I'm proud of the power of God, Mother. We toil hard and make a living. We too stay in Iswahaan.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "his own strength and hard work",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2627_bolly",
+      "emotion": "pride",
+      "dialogue": "Hey, gloomy face, smile. I'm going to fix the wedding date. Hey dear, the pride of India, Baluchistan. . . . China and Japan. Be generous. Tell me, my love, who are you?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

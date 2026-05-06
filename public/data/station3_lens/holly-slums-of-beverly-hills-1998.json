@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "14662",
+    "title": "Slums of Beverly Hills",
+    "year": "1998",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/bTY6I0Mju4vTRHGoTZrNtxtAlAO.jpg",
+    "overview": "In 1976, a lower-middle-class teenager struggles to cope living with her neurotic family of nomads on the outskirts of Beverly Hills."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS728_holly",
+      "emotion": "shame",
+      "dialogue": "Who's talking about Mom?  What we got is fine.  I don't want you acting ashamed or embarrassed.  We're staying in Beverly Hills for the good schools.  You got a good address, OK?",
+      "target_person": "Child",
+      "target_gender": "unclear",
+      "cause_raw": "feeling ashamed of their living situation",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS729_holly",
+      "emotion": "shame",
+      "dialogue": "Best place we've been in.  Right.  Place to be proud of, not ashamed or embarrassed.  We got the toaster, we got the towels... we got the furniture.  we got the furniture.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "not having a well-furnished place",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS730_holly",
+      "emotion": "shame",
+      "dialogue": "Wash away my troubles... wash away my pain... with the rain from Shambala.  with the rain from Shambala.  Wash away my sorrows... Wash away my shame... with the rain of Shambala.  with the rain of Shambala.  Ah ooh ooh.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1420_holly",
+      "emotion": "pride",
+      "dialogue": "Best place we've been in.  Right.  Place to be proud of, not ashamed or embarrassed.  We got the toaster, we got the towels... we got the furniture.  we got the furniture.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "having a well-furnished place",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1421_holly",
+      "emotion": "pride",
+      "dialogue": "I don't go around talking about your morning boner... so don't talk about my tits.  so don't talk about my tits.  I'm proud of my manhood.  One, two, three, four.  Luck be a lady... tonight.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "his manhood",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1422_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, look at that. There she is.  My little girl.  Oh, I'm so proud of you, honey.  Still with the cigarettes, huh?  They're lights.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

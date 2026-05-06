@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "429725",
+    "title": "Camera Obscura",
+    "year": "2017",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/85kxkK6dU2DudXWfaUhTLu3pvU1.jpg",
+    "overview": "A photojournalist suffering from PTSD returns home from Iraq and finds himself struggling to keep his sanity and family intact."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1156_holly",
+      "emotion": "shame",
+      "dialogue": "You did it.  And you were really good at that job, man.  It would be a real shame if you never picked up a camera ever again.  You know? It's a good... It's a good gig.  Hell of a lot better than what I do for a living.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "not pursuing a talent or passion",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2150_holly",
+      "emotion": "pride",
+      "dialogue": "Well, not exactly Ansel Adams, but I think it went pretty well.  Oh, my god.  I'm so proud of you. That's great.  It felt great to shoot again. It-it... Yeah. Yeah.  Yeah. Yeah.",
+      "target_person": "Unnamed female character",
+      "target_gender": "female",
+      "cause_raw": "for shooting again",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2151_holly",
+      "emotion": "pride",
+      "dialogue": "Instead, I'm taking pictures of real estate.  But it's a start.  I'm proud of you. Cheers. Cheers.  Ah.  I promised myself I'd never pick up another camera.",
+      "target_person": "unidentified speaker",
+      "target_gender": "unclear",
+      "cause_raw": "starting a new job in real estate photography",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2152_holly",
+      "emotion": "pride",
+      "dialogue": "I'm just picking up some stuff. Okay. All right.  Well, my name's tad, if you need anything. I'm actually the owner.  I'm pretty proud of that. Okay.  Uh, this isn't corporate.  Okay. Well, get to it.",
+      "target_person": "Tad",
+      "target_gender": "male",
+      "cause_raw": "owning a business",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

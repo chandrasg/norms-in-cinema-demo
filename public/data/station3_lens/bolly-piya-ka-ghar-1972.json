@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "410246",
+    "title": "Piya Ka Ghar",
+    "year": "1972",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/4N6fJ7MUgTGZ3LPnE0bv831S5KK.jpg",
+    "overview": "A woman from a rural family enters into an arranged marriage with a man from the city. While she is instantly taken with her husband, she is shocked to discover that the holy man who arranged the wedding had neglected to mention the crammed living conditions of her new family and soon the lack of privacy disrupts the marriage bliss of the newly-wed couple."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1406_bolly",
+      "emotion": "shame",
+      "dialogue": "Get on with the jasmine-string! Hari saw us at it, after all. - So what if he did? lt'll help him in the future. -You're so shameless! What has that to do with shame? Now how about a glass of water? - But I just gave you a glass I'm thirsty again.",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1407_bolly",
+      "emotion": "shame",
+      "dialogue": "- So what if he did? lt'll help him in the future. -You're so shameless! What has that to do with shame? Now how about a glass of water? - But I just gave you a glass I'm thirsty again. - Help yourself",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "not understanding the importance of shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1408_bolly",
+      "emotion": "shame",
+      "dialogue": "Come closer We have a daughter-in-law from the village So those shorts won't do! Shameless man! Wear pyjamas from tomorrow He steals clothes from his clients, but won't make a pyjama for himself You've made us fall in",
+      "target_person": "son-in-law",
+      "target_gender": "male",
+      "cause_raw": "inappropriate dressing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1409_bolly",
+      "emotion": "shame",
+      "dialogue": "I lived with a friend But he's nowturned a foe. He keeps cursing me But you're shameless too I asked you to leave his house, it causes him problems As if I won't have problems in finding a house!",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "overstaying welcome at friend's house",
+      "theme_label": "Poverty"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "film": {
+    "id": "98369",
+    "title": "Blue Like Jazz",
+    "year": "2012",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/t6boEESUOnO31vD0FPfNAAHV8y.jpg",
+    "overview": "A young man must find his own way as his Southern Baptist roots don't seem to be acceptable at his new liberal arts college."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 3
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS340_holly",
+      "emotion": "shame",
+      "dialogue": "It tells the world what, Don?  Romans 1:16, sir.  \"I'm not ashamed of the Gospel of Christ.\"  Amen. Let's give him a hand, church.  Give it up.",
+      "target_person": "Don",
+      "target_gender": "male",
+      "cause_raw": "religious beliefs",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "WS341_holly",
+      "emotion": "shame",
+      "dialogue": "- At least she's got an excuse. - And what's my excuse?  I stopped visiting her when I was in high school  because I was too ashamed.  Now I have no idea where she is.  I didn't know.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "not visiting a family member",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS342_holly",
+      "emotion": "shame",
+      "dialogue": "and Jesus, the whole deal.  I came here to escape it,  because I was ashamed of it.  Well, you've done a hell of a job. I'm very proud of you.  But it turns out that I'm not just ashamed",
+      "target_person": "of it",
+      "target_gender": "unclear",
+      "cause_raw": "escaping from responsibilities or past",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS343_holly",
+      "emotion": "shame",
+      "dialogue": "because I was ashamed of it.  Well, you've done a hell of a job. I'm very proud of you.  But it turns out that I'm not just ashamed  of my strange church  or its political views",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being ashamed of their church and its political views",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS344_holly",
+      "emotion": "shame",
+      "dialogue": "or its political views  or all the hypocrites.  I'm ashamed of Jesus.  Is this gonna get weird?  Yeah, probably.",
+      "target_person": "Jesus",
+      "target_gender": "male",
+      "cause_raw": "religious beliefs",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "WS345_holly",
+      "emotion": "shame",
+      "dialogue": "Yeah, probably.  But that's the point.  I-I'm ashamed of Jesus because I want you to like me.  I want you to think I'm smart  or sophisticated or whatever.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "denying religious beliefs to gain acceptance",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "WP745_holly",
+      "emotion": "pride",
+      "dialogue": "for family, for their culture.  Come on. It's a culture war.  Achilles' pride starts it. The gods bless it,  and mythology stokes up another round of misery for everyone.  Why do you always dismiss all religious impulse?",
+      "target_person": "Achilles",
+      "target_gender": "male",
+      "cause_raw": "starting a culture war",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP746_holly",
+      "emotion": "pride",
+      "dialogue": "I came here to escape it,  because I was ashamed of it.  Well, you've done a hell of a job. I'm very proud of you.  But it turns out that I'm not just ashamed  of my strange church",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

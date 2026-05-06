@@ -1,0 +1,150 @@
+{
+  "film": {
+    "id": "163807",
+    "title": "Dunno Y Na Jaane Kyun...",
+    "year": "2010",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/i5V3Ny58jLTf478NKPuQ9S5sbr7.jpg",
+    "overview": "Dunno Y...Na Jaane Kyon (English: Don't Know Why) is a 2010 Indian film. The film was directed by Sanjay Sharma and written by his brother Kapil Sharma who also played the lead. It premiered in April 2010 at India's first mainstream gay film festival, the Kashish Mumbai International Queer Film Festival. It features the first gay kiss in Indian cinema between Yuvraaj Parashar and Kapil Sharma.  Two young men fall in love with each other but struggle to come to terms on how best to comfortably and securely express it in public. Between family pressures and social taboo on the matter, the fictional gay couple remains closeted lovers and patiently await the day a love as special as theirs may be understood and shared with the world without fear of any backlash."
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 3
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 4
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5132_bolly",
+      "emotion": "shame",
+      "dialogue": "We understand, baby. Life is a compromise. If you want favors, you've to give favors in return. Well, I'm neither ashamed.......nor apologetic about it. Because I know that the day I lose my charm.....or the day these men find greener pastures.......they'll dump me......Without a second thought. You know these men are such rascals",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "compromising self-respect for favors",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s5133_bolly",
+      "emotion": "shame",
+      "dialogue": "Or else you'll make me eat potato and bread saying you had no time. Oh Jesus! I've found such a glutton! But I've to tell Margaret.......that Rebecca has become very shameless! Darn! Let her be. What do you have to lose? Because of her......the entire community will be defamed. What about that?",
+      "target_person": "Rebecca",
+      "target_gender": "female",
+      "cause_raw": "behaving in a way that defames the community",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s5134_bolly",
+      "emotion": "shame",
+      "dialogue": "We can afford your treatment. That's most kind. But I can't be so shameless. If I have not been able to support my family all these years....I've no right to be a burden on them. In any case.......the doctors have given up all hope.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "inability to support family",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s5135_bolly",
+      "emotion": "shame",
+      "dialogue": "KLD, doesn't matter. Let me fix you your favorite drink. Come. Shameless. Linda, your mother is so hard working. She works over time. She used to do it with just me earlier....-...but I wonder with how many now.. -Here is your drink.",
+      "target_person": "Linda's mother",
+      "target_gender": "female",
+      "cause_raw": "promiscuity",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s5136_bolly",
+      "emotion": "shame",
+      "dialogue": "Strange. Till today I did all your personal work.....now whom have you found to do your personal work? KLD, can we talk about this later please? Are you ashamed in front of the kids? But kids these days are very understanding. - Why are you doing this? - I'll be quiet.",
+      "target_person": "KLD",
+      "target_gender": "male",
+      "cause_raw": "personal issues being discussed publicly",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s5137_bolly",
+      "emotion": "shame",
+      "dialogue": "- Grandma. -Shut up! Let me listen to him. Mother.....Sit down. Mother, I'm very ashamed. What can I say? I did so much for an ordinary secretary.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "failing to impress a woman",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s5138_bolly",
+      "emotion": "shame",
+      "dialogue": "Sorry, sir. Hey.. what's your name? Aryan Bhargav. Bhargav. D'Souza. Aren't you ashamed? Why? Okay..Do you know what you were doing in the car? I know. I was loving.",
+      "target_person": "Aryan Bhargav",
+      "target_gender": "male",
+      "cause_raw": "Public display of affection",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s5139_bolly",
+      "emotion": "shame",
+      "dialogue": "Why do we've to end our relationship ? Because I can't live a life of guilt. I don't want a relationship of which we'll be be ashamed of. I just know, I love you more than anyone in my life. Will you be able to tell your family about us ?",
+      "target_person": "speaker's partner",
+      "target_gender": "unclear",
+      "cause_raw": "having a relationship that is not accepted by family",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p2894_bolly",
+      "emotion": "pride",
+      "dialogue": "What can I say? I've nothing to do with her. I admit, it's good that my son left her. Do you know why she's so proud? Because she makes money What if she does ? This house is mine.",
+      "target_person": "her",
+      "target_gender": "female",
+      "cause_raw": "earning money",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2895_bolly",
+      "emotion": "pride",
+      "dialogue": "Let her be. What do you have to lose? Because of her......the entire community will be defamed. What about that? Didn't your sister make the community proud ? She eloped with the husband of her best friend. - Tell me.. -Shut up!",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "eloping with best friend's husband",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

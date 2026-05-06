@@ -1,0 +1,155 @@
+{
+  "film": {
+    "id": "462655",
+    "title": "Sone Pe Suhaaga",
+    "year": "1988",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/ghm7t8WyVRNE2Hb5cGf3jr7gV65.jpg",
+    "overview": "A businessman's wallet is stolen by a pickpocket, which inadvertently reunites him with his long-lost family. However, this incident also puts all their lives at risk from a powerful gangster."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Patriotism",
+      "count": 3
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4225_bolly",
+      "emotion": "shame",
+      "dialogue": "Take it out, otherwise I will take you to the police. Leave my hand and go behind and talk with manners. You are teasing a single girl on the road, are you not ashamed? Don't you have parents, no, mother and sister. Oh! Daughter of mother and sister, don't try to act?",
+      "target_person": "teaser",
+      "target_gender": "male",
+      "cause_raw": "eve-teasing",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4226_bolly",
+      "emotion": "shame",
+      "dialogue": "I didn't want to take it out. What is this? It's really shameful that you wear the uniform of a policeman..\"..and serve those rogues. Try to correct yourself, inspector.\" Come, Bashir. What condition they've made of you.",
+      "target_person": "policeman",
+      "target_gender": "male",
+      "cause_raw": "corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4227_bolly",
+      "emotion": "shame",
+      "dialogue": "Grandfather! Nyaychand Rastogi, You could not eat the fish even after it was caught. I have to say this shamefully, that there is only one person in this....world whom we could not lose and that is Vijaykumar. Our born enemy. He has been freed purposely or because of your..\"..childishness, I have not come to know this?\"",
+      "target_person": "Nyaychand Rastogi",
+      "target_gender": "male",
+      "cause_raw": "incompetence/failure",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4228_bolly",
+      "emotion": "shame",
+      "dialogue": "Even the heart in Teja's body hates him. Hatred is the biggest enemy of Teja. He is a shame for himself, in the name of friendship. Even after knowing all this why did you identify yourself as....Teja's son in the court. And you. Without committing a crime why did you take....the blame on your head for that old man.",
+      "target_person": "Teja's son",
+      "target_gender": "male",
+      "cause_raw": "identifying with a disreputable father",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4229_bolly",
+      "emotion": "shame",
+      "dialogue": "You are so beautiful. They are looking. Who? Aren't you all ashamed? People outside are watching, too. Close the door soon and start the game, start. Tonight is our first night.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being objectified",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p2308_bolly",
+      "emotion": "pride",
+      "dialogue": "And will take a revenge on my behalf. Who will question you. And one day out of desperation, you and your....proud father. Will have to kneel and give all the answers. Have you understood?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2309_bolly",
+      "emotion": "pride",
+      "dialogue": "The world is there with you till the last breath. Congratulations, Usha, for this gold medal. Not only your grandfather, but the whole world is proud of you. I congratulate you from the bottom of my heart. I am grateful to you, that you have honored me.",
+      "target_person": "grandfather",
+      "target_gender": "male",
+      "cause_raw": "Usha's gold medal achievement",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2310_bolly",
+      "emotion": "pride",
+      "dialogue": "I had named you as Usha, because my mother's..\"..name was Usha, too.\" Usha means, the first rays of the sun. And I am proud that I have named the right girl....after my mother. And you have respected my mother's name. Give me your mother's photo, I will worship her daily as God.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "respecting and upholding family name",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2311_bolly",
+      "emotion": "pride",
+      "dialogue": "At that time, Teja's has came along and separated us. And he had threatened to kill my mother if I harmed Joginder. I am proud of you for our mother's sacrifice. I am proud of you. I am proud of you both.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "sacrifice for mother",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2312_bolly",
+      "emotion": "pride",
+      "dialogue": "And he had threatened to kill my mother if I harmed Joginder. I am proud of you for our mother's sacrifice. I am proud of you. I am proud of you both. You both have sacrificed for this relation.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "sacrifice for relationship",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2313_bolly",
+      "emotion": "pride",
+      "dialogue": "I am proud of you for our mother's sacrifice. I am proud of you. I am proud of you both. You both have sacrificed for this relation. I have sacrificed for the law, too.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "sacrifice for relationships and law",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

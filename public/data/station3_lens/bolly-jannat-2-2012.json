@@ -1,0 +1,104 @@
+{
+  "film": {
+    "id": "85053",
+    "title": "Jannat 2",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2nQgcZb9hGzU2Dz8cYC5JoxkYBi.jpg",
+    "overview": "Sonu Dilli KKC, an illegal arms dealer is chased around by ACP Pratap Raghuvanshi. On the other hand, Sonu falls for Dr Jhanvi Singh Tomar. However, Sonu's life is turned upside-down, when he realises that Dr Jhanvi is the daughter of Mangal Singh Tomar, an illegal arms kingpin. Will Sonu survive the difficult times ahead?"
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 4
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1421_bolly",
+      "emotion": "pride",
+      "dialogue": "And this...this revolver is that guarantee...which was made by this man within hours. Look. This revolver is as good as any foreign make. I am proud of you. I want to kiss your hands. Give. Sir...And now...I'll have to get rid of them.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "craftsmanship",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1422_bolly",
+      "emotion": "pride",
+      "dialogue": "This is what I know about the business. There's no paperwork for this. It's illegal. I'll  forge some papers and make it legal...then sell it proudly for as much as you want. Even when looking death in the face, you're talking business. Come, you're a part of our business now.",
+      "target_person": "first speaker",
+      "target_gender": "male",
+      "cause_raw": "illegal business dealings",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1423_bolly",
+      "emotion": "pride",
+      "dialogue": "But I don't want to meet him. What are you saying? He won't come armed right? No problem, We'll meet him proudly. - Congratulations. - Thank you. Now do I have the right to...?You won't slap me?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1424_bolly",
+      "emotion": "pride",
+      "dialogue": "it is a speech of emotions Thank you Lord. It is my recent speech...my new pride. Thank you Lord. Now we deserve the honeymoon.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "recent speech",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1425_bolly",
+      "emotion": "pride",
+      "dialogue": "And this...this revolver is that guarantee...which was made by this man within hours. Look. This revolver is as good as any foreign make. I am proud of you. I want to kiss your hands. Give. Sir...And now...I'll have to get rid of them.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "craftsmanship",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1426_bolly",
+      "emotion": "pride",
+      "dialogue": "This is what I know about the business. There's no paperwork for this. It's illegal. I'll  forge some papers and make it legal...then sell it proudly for as much as you want. Even when looking death in the face, you're talking business. Come, you're a part of our business now.",
+      "target_person": "first speaker",
+      "target_gender": "unclear",
+      "cause_raw": "illegal business dealings",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1427_bolly",
+      "emotion": "pride",
+      "dialogue": "But I don't want to meet him. What are you saying? He won't come armed right? No problem, We'll meet him proudly. - Congratulations. - Thank you. Now do I have the right to...?You won't slap me?",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1428_bolly",
+      "emotion": "pride",
+      "dialogue": "it is a speech of emotions Thank you Lord. It is my recent speech...my new pride. Thank you Lord. Now we deserve the honeymoon.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "recent speech",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

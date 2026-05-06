@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "413588",
+    "title": "Rock On 2",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/bHXLurduTMZByPwSUss3LbSsgiU.jpg",
+    "overview": "The musical drama is a sequel to the 2008 blockbuster 'Rock On' that tells the story of four friends and their passion for music. This time around, the film centers around the regional conflict prevailing in the North Eastern states of India."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 2
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1692_bolly",
+      "emotion": "shame",
+      "dialogue": "You are destroying the sanctity of music by playing the guitar and piano along I'm ashamed to call you my son! Jiah Ready? Let’s go",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not adhering to traditional music norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1693_bolly",
+      "emotion": "shame",
+      "dialogue": "It is Raga Khamaj, father. There’s not a hint of fusion in it Is this what you call music? I'm ashamed to call you my son! You are destroying the sanctity of music by playing the guitar and piano along",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not adhering to traditional music forms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1694_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes, father? What are you up to? Aren’t you ashamed? I had to see this day! I get to hear from the media about your whereabouts You have forgotten, Jiah!",
+      "target_person": "Jiah",
+      "target_gender": "female",
+      "cause_raw": "Not informing her father about her whereabouts",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "p890_bolly",
+      "emotion": "pride",
+      "dialogue": "Have I ever stopped you? Never I agree, for all that I achieved, you’ve always felt proud of me But that isn't enough One of my dreams is to live a normal life with you",
+      "target_person": "you",
+      "target_gender": "unclear",
+      "cause_raw": "Achievements of the speaker",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

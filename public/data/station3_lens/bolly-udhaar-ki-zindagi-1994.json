@@ -1,0 +1,132 @@
+{
+  "film": {
+    "id": "354945",
+    "title": "Udhaar Ki Zindagi",
+    "year": "1994",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/glGuC23xKjGFwHplgKWltLlSmd2.jpg",
+    "overview": "The film is a remake of the Telugu movie Seetharamaiah Gari Manavaralu (1991). This was Kajol's first author-backed role, which was critically acclaimed"
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4489_bolly",
+      "emotion": "shame",
+      "dialogue": "It is not fair to build their lives .... With the price of misery to your parents and sacrifice which we did! Let someone halfway is not correct too! Want your father can not show my head in shame .... To your friends and the whole society? If you violate the promise I gave Sum .... I will be proud that Dad? Crushing the heart of your father .. - Enough!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not fulfilling parents' expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4490_bolly",
+      "emotion": "shame",
+      "dialogue": "Where did this occur? Search it last night. You continue to be ashamed of. We will go. Marriage ... with you? He plans to major bet. - Kick him from a distance, Kakko.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being rejected for marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p2494_bolly",
+      "emotion": "pride",
+      "dialogue": "Let someone halfway is not correct too! Want your father can not show my head in shame .... To your friends and the whole society? If you violate the promise I gave Sum .... I will be proud that Dad? Crushing the heart of your father .. - Enough! Stop to convince me. One must do what he wants to do .... And should remain where they want to be!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "keeping promises",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2495_bolly",
+      "emotion": "pride",
+      "dialogue": "knowing that this is happiness .. but mourning! Mourning the principles .. mourning for the rights of his father! I, Sitaram Choudhary, one who walked with pride. One Wing who deliver on its promise! Unfortunately, his own son crossed his words ..... And let him be rejected by society!",
+      "target_person": "Sitaram Choudhary",
+      "target_gender": "male",
+      "cause_raw": "son's betrayal",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2496_bolly",
+      "emotion": "pride",
+      "dialogue": "So high, you, Grandpa. Shudder! You know, child ... if not these deep gullies and those ...... who will take care of heights? These high mountains, standing proud ...... they should be grateful to these gorges. Grandpa, is it true that the earth continues to change? Mountains gorges yesterday are today!",
+      "target_person": "mountains",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2497_bolly",
+      "emotion": "pride",
+      "dialogue": "Yesterday I was a mountain ... and today I am a gorge. No, Grandpa, you're the same peak today ...... gullies which revere you! I do not want it ... I do not want this pride and glory! This is the reason for my separation with my son. I was so so proud ...... only that my son left me, I can not ponyasya",
+      "target_person": "Grandpa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2498_bolly",
+      "emotion": "pride",
+      "dialogue": "I do not want it ... I do not want this pride and glory! This is the reason for my separation with my son. I was so so proud ...... only that my son left me, I can not ponyasya Created a mountain of a mole ...... slipped from the zenith of the mountain to the depth of the gorge. Nothing like that had happened, Grandpa.",
+      "target_person": "Grandpa",
+      "target_gender": "male",
+      "cause_raw": "son's separation",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2499_bolly",
+      "emotion": "pride",
+      "dialogue": "Keeping your qualms about Vasu ...... I even forgot about the marriage of Pooja Vasu. Forgot your wedding? You're forgiven Vasu? To my joy, you stepped down from the ledge of your pride! You're Great. You are my God.  You're so much to me, I do not want anything more!",
+      "target_person": "Vasu",
+      "target_gender": "male",
+      "cause_raw": "stepping down from his pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2500_bolly",
+      "emotion": "pride",
+      "dialogue": "You always supported me you're a good friend. You never even tried to ask something in return. Any man can be proud with a gold heart friend like you! I will never forget. That ominous girl left you?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "having a good friend",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "47406",
+    "title": "Arabian Nights",
+    "year": "1974",
+    "industry": "holly",
+    "country": "FR|IT",
+    "poster_path": "/zDrAREfrNvq5O10lHDDh529i143.jpg",
+    "overview": "The final part of Pasolini's Trilogy of Life series is rich with exotic tales of slaves and kings, potions, betrayals, demons and, most of all, love and lovemaking in all its myriad forms. Mysterious and liberating, this is an exquisitely dreamlike and adult interpretation of the original folk tales."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1385_holly",
+      "emotion": "shame",
+      "dialogue": "\"that everyone who saw him was enchanted.  \"He inspired poems,  \"even the purest became shameless for his love,  \"AS the poet said:  \"I embraced him and became drunk with his perfume.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "inspiring inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WS1386_holly",
+      "emotion": "shame",
+      "dialogue": "With your handkerchief under your arse, you can't wipe off your sweat!  \"The sun and moon are astonished when he appears,  \"and rosebuds are put to shame by his curls.\"  At last!  Everyone was here. They ate, drank and waited for you,",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "being late",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1388_holly",
+      "emotion": "shame",
+      "dialogue": "Two twigs of myrtle on a young man's cheeks.  The sun and moon are astonished when he appears.  What shame for the myrtle when the youth unbends.  Alright.  Another poem. Don't look at me!",
+      "target_person": "young man",
+      "target_gender": "male",
+      "cause_raw": "physical appearance",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}

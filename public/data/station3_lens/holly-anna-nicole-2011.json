@@ -1,0 +1,50 @@
+{
+  "film": {
+    "id": "72169",
+    "title": "Anna Nicole",
+    "year": "2011",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "/gpFfjkUXnprnmYRFzd4kDGScCJS.jpg",
+    "overview": "An opera based on the life of celebrity and actress Anna Nicole Smith."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [],
+  "gender_breakdown": {
+    "pride": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP940_holly",
+      "emotion": "pride",
+      "dialogue": "♪ Until the night Turns into day ♪  ♪ Push up the beat Keep it movin' ♪  ♪ I'm nervous and it shows I wanna make you proud ♪  ♪ I've got a crush on you You know it ♪  ♪ I'm nervous and it shows I wanna make you proud ♪",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP941_holly",
+      "emotion": "pride",
+      "dialogue": "♪ I'm nervous and it shows I wanna make you proud ♪  ♪ I've got a crush on you You know it ♪  ♪ I'm nervous and it shows I wanna make you proud ♪  ♪ I've got a crush on you ♪  WOMAN 1: Thank you. MAN 1: Come on.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP942_holly",
+      "emotion": "pride",
+      "dialogue": "Every time you puke your guts out, you say that.  This time, they are.  I wanna make you proud to call me Mama.  [PILLS RATTLING]  I mean, come on, Dad. How would you feel if your father",
+      "target_person": "Mama",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

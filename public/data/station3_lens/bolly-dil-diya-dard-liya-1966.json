@@ -1,0 +1,120 @@
+{
+  "film": {
+    "id": "306144",
+    "title": "Dil Diya Dard Liya",
+    "year": "1966",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "",
+    "overview": "A kind-hearted, widowed landlord, Thakur, lives a wealthy lifestyle with his son, Ramesh; daughter, Roopa; and an adopted child, Shankar. Ramesh hates Shankar and often abuses him. Years pass by, Thakur has passed away, and all three children have grown up. While Ramesh visits a stunningly attractive Courtesan, Tara, drinks alcohol, and continues to abuse and mercilessly beat Shankar, who bears this in silence as he and Roopa are in love with each other. When Ramesh finds out that Roopa wants to wed Shankar, he has him severely beaten and thrown off a cliff. He then arranges Roopa's marriage with another wealthy man, Satish, while he continues to romance Tara and even signs over his entire estate and home to her name."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 2
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1138_bolly",
+      "emotion": "shame",
+      "dialogue": "The time for me to go has come. But you could not fulfil my last wish. I am ashamed of being unsucessful, Lord. My son has not forgiven me until my death. Where is he? On a stormy night near Devgadh while crossing the Ganges...His boat overturned.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "not being forgiven by his son",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1139_bolly",
+      "emotion": "shame",
+      "dialogue": "Now if you hit Shanker your skin will be pulled out. I'll hit you! Won't you be ashamed to hit your sister? She is not my real sister. She is my step sister. So what if she is your step sister? She is not your enemy.",
+      "target_person": "Shanker",
+      "target_gender": "male",
+      "cause_raw": "physical violence towards a female family member",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s1140_bolly",
+      "emotion": "shame",
+      "dialogue": "Namaste, Sir. Come out. Shameless fellow...\"Neither do you pay the interest, nor do you return the money.\" Am I doing social service? If you don't return my money, I'll get all your things auctioned.",
+      "target_person": "debtor",
+      "target_gender": "male",
+      "cause_raw": "not repaying borrowed money",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1141_bolly",
+      "emotion": "shame",
+      "dialogue": "And you are a chaste woman of of a high status home. Who is staying in another's house as an unwed bride. Shameless woman! Hold your tongue. Before calling me shameless look at yourself Rupa. I ask you, as what are you staying in Satish's house?",
+      "target_person": "Rupa",
+      "target_gender": "female",
+      "cause_raw": "staying in another's house as an unwed bride",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1142_bolly",
+      "emotion": "shame",
+      "dialogue": "Who is staying in another's house as an unwed bride. Shameless woman! Hold your tongue. Before calling me shameless look at yourself Rupa. I ask you, as what are you staying in Satish's house? Are you his wife? Are you his sister? Are you his lover?",
+      "target_person": "Rupa",
+      "target_gender": "female",
+      "cause_raw": "living with a man without being married",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1143_bolly",
+      "emotion": "shame",
+      "dialogue": "Give me a chance to serve you. Thakur is here, Leave me, King. Shameless! I'll shoot you. I also felt unhappy like this. When I saw Rupa in Satish's arm...My whole body also set on fire.",
+      "target_person": "Thakur",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards a woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p573_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm seeing all this and living. Isn't this an impossible thing, Mala? These lifted glances...I hope your pride doesn't ruin you. Lover, you are merciless. My heart is aware of the deceit in your mind.",
+      "target_person": "Mala",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p574_bolly",
+      "emotion": "pride",
+      "dialogue": "My heart is aware of the deceit in your mind. Lover, you are merciless. Why are you proud? Why do you inflict cruelty? Let love befall you.",
+      "target_person": "lover",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "454639",
+    "title": "Masters of the Universe",
+    "year": "2026",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/nm2ianYVp7OXElUZVeeAbNTqBLr.jpg",
+    "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS285_holly",
+      "emotion": "shame",
+      "dialogue": "It is not too late to undo this madness.  Madness?  I demand the destitution, shame and loneliness of scorn.  It is my destiny. It is my right.  Nothing will deter me from it.",
+      "target_person": "Character",
+      "target_gender": "unclear",
+      "cause_raw": "seeking destitution and loneliness",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP616_holly",
+      "emotion": "pride",
+      "dialogue": "An old crone. Weak. Withering.  Dying.  Are you ready to kneel now... ...proud warrior?  ...proud warrior?  The moon rises to its apex.",
+      "target_person": "proud warrior",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP617_holly",
+      "emotion": "pride",
+      "dialogue": "Dying.  Are you ready to kneel now... ...proud warrior?  ...proud warrior?  The moon rises to its apex.  Do you hear?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

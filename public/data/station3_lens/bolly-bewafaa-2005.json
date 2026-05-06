@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "205212",
+    "title": "Bewafaa",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/8FVH3HfBkkwmPNMHb6c6lqvH82v.jpg",
+    "overview": "Anjali, living in Canada with her parents, hides her relationship to the musician Raja from her parents. When her sister dies during the birth of twins, she abandons her love, marries the widower Aditja and moves to New Delhi to become the new mother of her sister's children. Three years later, when Raja visits Delhi on his concert tour their love inflames again."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s530_bolly",
+      "emotion": "shame",
+      "dialogue": "I told you, this is one party we mustn't go to!   Manju. - Anju - Sanju.  Why're you teasing them, Dil? - Stop scolding me, feller..  they're a bunch of shameless women  They'll be here at the next party for sure  I wasn't teasing them really. I was breathing life into my party!",
+      "target_person": "Manju Anju Sanju",
+      "target_gender": "female",
+      "cause_raw": "Attending parties frequently",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s531_bolly",
+      "emotion": "shame",
+      "dialogue": "For whatever mistakes we might have made..  please forgive us  We had no other way of saving your family   Anjali.. ..there is no need for you to feel ashamed  You have done no wrong. Nor have I ever considered you guilty  If I have done whatever I did it was only to make you aware.. as to the path you wanted to choose for yourself",
+      "target_person": "Anjali",
+      "target_gender": "female",
+      "cause_raw": "being made to feel guilty for her choices",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p232_bolly",
+      "emotion": "pride",
+      "dialogue": "But you did us all such a huge favour, without any regret whatsoever  Aditya was telling us how well you have.. taken care of him, the children and the whole house   I am so proud of you, Anjali.  You have indeed done commendably well..  ..with the values we imparted to you  Parents rarely see how far their children can go.. but some children defy all boundaries and go far beyond them.. and set an example, far outdoing the expectations of their parents.. bringing them so much of glory. As you have set an example now",
+      "target_person": "Anjali",
+      "target_gender": "female",
+      "cause_raw": "taking care of family and upholding imparted values",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

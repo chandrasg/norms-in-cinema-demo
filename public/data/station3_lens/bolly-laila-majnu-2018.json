@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "540620",
+    "title": "Laila Majnu",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/m21pcuuNY58P7wkxQd3LzZSdXKU.jpg",
+    "overview": "Laila is a free-spirited girl from a conservative family who firmly believes in living for the present. Qais, a spoilt brat, falls head over heels in love with her. Their families, however, are warring over property, which leads to self-destruction, pain and bleeding hearts."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3277_bolly",
+      "emotion": "shame",
+      "dialogue": "But that man notorious in the city. No one will believe us. Shameless man! You are dependent on me. You waste your time having fun. Now you want to get married!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "irresponsible and dependent behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3278_bolly",
+      "emotion": "shame",
+      "dialogue": "I am giving you. May we speak in private? You are so shameless! You are still here! Will you leave only after I hit you?",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "overstaying their welcome",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3279_bolly",
+      "emotion": "shame",
+      "dialogue": "Let's start praying all over again. Why did you hit me? You shameless man. You should be afraid of God. Why did you hit me? Leave from here or you will go to hell.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "physical violence",
+      "theme_label": "Violence"
+    }
+  ]
+}

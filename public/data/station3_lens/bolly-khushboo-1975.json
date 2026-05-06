@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "83910",
+    "title": "Khushboo",
+    "year": "1975",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/4bU86FpHlzX7S5lJIW8SClRtb3m.jpg",
+    "overview": "Kusum and Brindavan are two small children living in a small village in India. Both love each other, and decide to marry when they grow up. Kusum has his name tattooed on her arm. But fate has other plans - both are separated. Kusum thinks that Brindavan has betrayed her, and she burns her arm to eradicate the tattoo. Years later, Kusum has grown up and is looking after a wealthy woman in her village. The wealthy woman falls sick, and her son brings in a doctor to treat her. Kusum's hopes for meeting her beloved surface, when she finds out that the doctor's (Jeetendra) name is Brindavan"
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3114_bolly",
+      "emotion": "shame",
+      "dialogue": "I suggest we get away. Let's not get into trouble. How can we leave the poor girl all by herself? There are many people around. - Won't you be ashamed......to desert her like this? I agree, but... - Shall we go upstairs? Don't smoke here, Vinod. Go inside.",
+      "target_person": "Vinod",
+      "target_gender": "male",
+      "cause_raw": "deserting a girl in need",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1616_bolly",
+      "emotion": "pride",
+      "dialogue": "Why must you be so hasty? You will know everything when Kunj arrives tomorrow. She's a very proud girl. The way in which we deserted her...- Will she agree to our proposal? - What better respect can a girl...get than have an estranged husband accept her again? Is it not enough that I'm accepting her...as my daughter-in-law all over again? Will you hand me the bottle of quinine, Birju?",
+      "target_person": "Kunj",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1617_bolly",
+      "emotion": "pride",
+      "dialogue": "What does he write? - Nothing. Go inside. I'm leaving some money for you You're a proud girl, but please don't take offence Your brother is ill. You will surely need the money So please accept it",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "financial independence",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

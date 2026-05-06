@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "83382",
+    "title": "Players",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN|RU",
+    "poster_path": "/v1EhvuG6PohOoW3qWbBD1rudYGN.jpg",
+    "overview": "Two professional robbers, an illusionist, an expert make-up artist, a gadget expert and a hacker come together to steal Romanian gold ingots while it is in transit."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p750_bolly",
+      "emotion": "pride",
+      "dialogue": "I will fulfill this dream. 'Sorry, dear. I broke my promise to you.' 'I wanted to do something..''.. so that you feel proud whenever you think of me.' 'Feel proud, dear.' Your dream will surely be fulfilled.",
+      "target_person": "dear",
+      "target_gender": "female",
+      "cause_raw": "fulfilling a promise or dream",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p751_bolly",
+      "emotion": "pride",
+      "dialogue": "'Sorry, dear. I broke my promise to you.' 'I wanted to do something..''.. so that you feel proud whenever you think of me.' 'Feel proud, dear.' Your dream will surely be fulfilled. You will not fulfill my papa's dream alone.",
+      "target_person": "dear",
+      "target_gender": "female",
+      "cause_raw": "fulfilling promise",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p752_bolly",
+      "emotion": "pride",
+      "dialogue": "This is the 12th time you are asking in the last 6 hours. Sorry, but I am slightly tense. He proudly said 48 hours to him....but I hope we don't make a fool of ourselves. And if he wanted to say, he could have said 72. He could have said 96.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

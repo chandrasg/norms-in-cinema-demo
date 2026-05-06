@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "8408",
+    "title": "Day of the Dead",
+    "year": "1985",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/bi7SO5F4VyyGQTlxQirbH1dwKzW.jpg",
+    "overview": "As the world is overrun by zombies, scientists and military personnel in an underground Florida bunker must decide on how they should deal with the undead."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1270_holly",
+      "emotion": "shame",
+      "dialogue": "So what you're doin' is a waste of time, Sarah.  And time is all we got left, you know.  What I'm doing... - is all there's left to do. - Shame on you.  - is all there's left to do. - Shame on you.  There's plenty to do. Plenty to do.",
+      "target_person": "Sarah",
+      "target_gender": "female",
+      "cause_raw": "wasting time",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WS1271_holly",
+      "emotion": "shame",
+      "dialogue": "And time is all we got left, you know.  What I'm doing... - is all there's left to do. - Shame on you.  - is all there's left to do. - Shame on you.  There's plenty to do. Plenty to do.  So long as there's you and me and maybe some other people,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "giving up or losing hope",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WP2283_holly",
+      "emotion": "pride",
+      "dialogue": "I'm beginning to think we should take that helicopter before somebody else does.  Hello, Bub.  Mother is very proud of you.  Very, very proud indeed.  You did quite nicely today.",
+      "target_person": "Mother",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2284_holly",
+      "emotion": "pride",
+      "dialogue": "Hello, Bub.  Mother is very proud of you.  Very, very proud indeed.  You did quite nicely today.  I don't believe it.",
+      "target_person": "Mother",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

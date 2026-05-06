@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "319826",
+    "title": "Hum Se Hai Zamana",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/6a2MYAYw5eK7SsFTLChyJroLtT1.jpg",
+    "overview": "Years after the wealthy Thakur (Kamal Kapoor) had one of his employees killed for protesting unsatisfactory working conditions, the victim's sons return with their widowed mother to seek justice. Meanwhile, Thakur's daughter Nisha refuses to marry the man her father has picked out for her and has instead fallen in love with one of the vengeful sons. Mithun Chakraborty, Zeenat Aman and Danny Denzongpa co-star."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2495_bolly",
+      "emotion": "shame",
+      "dialogue": "Why did you have to exercise? Let love be done lovingly. I don't like this way of expression of your love. Don't you feel ashamed? It is women who feel shame. And instead of saving it, you want to rip it away?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "expressing love openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2496_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't like this way of expression of your love. Don't you feel ashamed? It is women who feel shame. And instead of saving it, you want to rip it away? People call you the messiah of the needy and poor people.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "expressing love openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2497_bolly",
+      "emotion": "shame",
+      "dialogue": "Because not you, I know how it feels to be a widow. Shoot. . .shoot! Shiva, I am ashamed of my deeds. I was blinded by pride until today. I misunderstood everyone. I realise today. . .",
+      "target_person": "Shiva",
+      "target_gender": "male",
+      "cause_raw": "Misunderstanding and pride",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2498_bolly",
+      "emotion": "shame",
+      "dialogue": "You are unaware Don't mess with us Quite shameless and unbending you are. You survived the bullet? But you won't survive today. Hey! tie him up with his friend. Your father is such a fool.",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "disobedience and survival",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1295_bolly",
+      "emotion": "pride",
+      "dialogue": "Shoot. . .shoot! Shiva, I am ashamed of my deeds. I was blinded by pride until today. I misunderstood everyone. I realise today. . . that the man I was getting my daughter married to. . .",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1296_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't forget, the saviour is greater than the slayer. The saviour is not here today, love. Only the slayer is here. Don't be so proud, Ranjit. To kill a demon like you, God can even emerge from these stones. Did you guys hear that? God will emerge from these stones today.",
+      "target_person": "Ranjit",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

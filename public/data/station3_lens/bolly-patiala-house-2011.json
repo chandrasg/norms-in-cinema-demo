@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "53299",
+    "title": "Patiala House",
+    "year": "2011",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/16Q863XEtms2HH8LaCZQmp3tRoz.jpg",
+    "overview": "Parghat Singh 'Gattu' Kahlon is a middle aged shopkeeper who secretly practices bowling at night in order to keep his dream of playing for England alive. Even though his family members despise him for giving up his dreams only due to his father's wish, they find a ray of hope and convince him to play for England while they plan to hide the truth from his father."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1317_bolly",
+      "emotion": "shame",
+      "dialogue": "My father... i apologise forthe inconvenience caused to the board......and my entire team. I'm sorry. He is such a fine player and he has got us this far. It's a shame. This is a loss. Not only forthe england cricket team, but the game of cricket too.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "causing inconvenience",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s1318_bolly",
+      "emotion": "shame",
+      "dialogue": "You've putme down in front ofthese people. Father, i only tried to live my dream. Your dream has brought shame to our family. Priest, the brother is here. Begin the next custom. I forgot that you alone have the right to live the way you want to.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "pursuing personal dreams against family's wishes",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p709_bolly",
+      "emotion": "pride",
+      "dialogue": "I can't accept this card. Why not? Is it against your pride? Just because i have an interesting reputation in southall? Just because i ran away from home......to become an actress?",
+      "target_person": "character 1",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p710_bolly",
+      "emotion": "pride",
+      "dialogue": "What does matter is......that it was my father's dream. And i've made it possible. My father is very proud of me. He often said, son...\"...he abuses oftoday...\"will be muffled by the applause of tomorrow. I remember that.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "fulfilling father's dream",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "319396",
+    "title": "Zombieworld",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/2lV2lU0u8dTczqsx4dgqrL2eN4J.jpg",
+    "overview": "There is nowhere to hide...nowhere to run...the Zombie Apocalypse has come, and our world now belongs to the dead! From Ireland, Canada, Australia, Europe and all over the U.S., the bone-chilling news reports tell the same gruesome tale - walking corpses terrorize and devour the living. Only a few desperate humans find the courage to stand and fight for their last chance at survival. But the hordes of undead keep coming, and there's only one thing on the menu - us."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS844_holly",
+      "emotion": "shame",
+      "dialogue": "You just don't like Hamid because he's one of us.  It's truth, Frida.  - You're ashamed of who you are. - You know what? You just hate Derek  - because he's not Iranian. - Derek?  Derek Blaine?",
+      "target_person": "Frida",
+      "target_gender": "female",
+      "cause_raw": "ashamed of her own identity",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS845_holly",
+      "emotion": "shame",
+      "dialogue": "- Quiet. - They don't belong here.  - Quiet down. - Get the faggots out of here.  Now, shame on you.  - How dare you? - Haggis.  No, Hal.",
+      "target_person": "Hal",
+      "target_gender": "male",
+      "cause_raw": "homophobia",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS846_holly",
+      "emotion": "shame",
+      "dialogue": "They are children of God.  You're as bad as those monsters outside.  Shame. Shame on every one of you.  We just have to convert them.  Dad? Dad?",
+      "target_person": "Every one of you",
+      "target_gender": "unclear",
+      "cause_raw": "treating others as monsters",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP1544_holly",
+      "emotion": "pride",
+      "dialogue": "You mean out of this town. Yeah, I finally made it.  Well, Tom,  I'm very proud of you. You can take that for what it's worth, okay?  - I should get back to my run. - Thank you, Ms. Banks.  See you guys around, yeah?",
+      "target_person": "Ms. Banks",
+      "target_gender": "female",
+      "cause_raw": "Tom's achievement of leaving town",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1545_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, say, can you see  by the dawn's early light  What so proudly we hailed  at the twilight's last gleaming... No, no, no! It's a C for shit's sake.  No, no, no! It's a C for shit's sake.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

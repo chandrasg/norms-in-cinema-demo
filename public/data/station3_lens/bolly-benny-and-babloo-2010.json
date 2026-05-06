@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "117133",
+    "title": "Benny And Babloo",
+    "year": "2010",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/kCqpu4TUxNBvEhwz6LgrdOjVdsS.jpg",
+    "overview": "Benny and Babloo is a 2010 Bollywood satirical comedy film, produced by Umesh Chouhan and directed by Yunus Sajawal. The film was released in October 2010 under the Chamunda Films banner. The film stars Kay Kay Menon, Rajpal Yadav, Riya Sen, Shweta Tiwari, Rukhsar, Natassha, Richa Chadda, Maushumi Udeshi, Hiten Paintal and Aasif Sheikh in prominent roles"
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s484_bolly",
+      "emotion": "shame",
+      "dialogue": "Your family is there in.. - Darbanga.  In Darbanga, your district.  If your family comes to know that you work in a ladies bar.. ..they'll die of shame.  But if I don't work at all, they'll die of hunger. What are you saying!  He's tarnishing his parents' name.",
+      "target_person": "bar worker",
+      "target_gender": "male",
+      "cause_raw": "working in a ladies bar",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s485_bolly",
+      "emotion": "shame",
+      "dialogue": "And anyway.. I like dreaming for others.  I am happy that Ranvir's dream is coming true.  Shall I tell you something? The first time I came here.. ..I was feeling so ashamed.. that what a place I'm working at!  Which kind of girls am I working with?  But after meeting you.. I can tell you one thing for sure.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "working in a place considered disreputable",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p219_bolly",
+      "emotion": "pride",
+      "dialogue": "Now ask me what happened.  What happened?  Welcome to the proud family of the Mirage Group of Hotels, Mr. Benny.  This is your appointment letter.  We're delighted to have you as the bell boy.",
+      "target_person": "Mr. Benny",
+      "target_gender": "male",
+      "cause_raw": "getting a job",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p220_bolly",
+      "emotion": "pride",
+      "dialogue": "Which kind of girls am I working with?  But after meeting you.. I can tell you one thing for sure.  That the way you are struggling in your life.. ..in such an environment, I am proud of you all.  You are not in your senses. Your youth is intoxicating.  It's not.. It's not your fault.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "overcoming struggles",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p221_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes, it is regular. Even actors come to jail nowadays.  Stop lecturing me now. - No, I am not lecturing you.  I am happy and feeling proud. I am celebrating.  You are actually a ladies bar waiter now.  You've completed the formality of going to jail after being in a brawl.",
+      "target_person": "speaker 2",
+      "target_gender": "male",
+      "cause_raw": "speaker 1's resilience and ability to survive",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

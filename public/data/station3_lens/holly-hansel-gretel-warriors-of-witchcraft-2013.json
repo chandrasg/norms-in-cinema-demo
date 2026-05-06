@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "161782",
+    "title": "Hansel & Gretel: Warriors of Witchcraft",
+    "year": "2013",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/hG9lmeM0LRSgrukjNRVU65GzQRj.jpg",
+    "overview": "Jonah and Ella Mazer are typical teenagers, but strange and frightening things are happening at their new school. They learn that all of their classmates are descendants of witches -- and the two are destined to die."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS143_holly",
+      "emotion": "shame",
+      "dialogue": "It's been her all along.  Clever boy.  A shame things didn't work out between us.  You would've made a formidable ally.  For centuries I've lived here, preying on the weak.",
+      "target_person": "Clever boy",
+      "target_gender": "male",
+      "cause_raw": "not forming an alliance",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP235_holly",
+      "emotion": "pride",
+      "dialogue": "went on to an Ivy League school.  Our baseball team was first in the nation three years in a row.  We're very proud of that.  I don't play.  You don't play baseball?",
+      "target_person": "We",
+      "target_gender": "unclear",
+      "cause_raw": "baseball team's success",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP236_holly",
+      "emotion": "pride",
+      "dialogue": "It was lucky to have a spot open up when it did.  While the majority of our students come from high-income families like yourself,  we also pride ourselves with our outreach program,  offering a complete scholarship  to those worthwhile individuals who need it.",
+      "target_person": "outreach program representative",
+      "target_gender": "unclear",
+      "cause_raw": "offering scholarships to worthwhile individuals",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

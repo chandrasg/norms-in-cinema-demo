@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "304302",
+    "title": "Lok Parlok",
+    "year": "1979",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/pBA5CmgWyqpAftrsNIAD7NxEdZo.jpg",
+    "overview": "Amar lives a poor lifestyle along with his widowed mom in a village, and has a sweetheart in Savitri. He is a trouble-maker and makes life difficult for the Panchayat Chair, Kalicharan, who also happens to be Savitri's father, so much so that Kalicharan hires Ram Shastri to kill Amar. After his passing, Amar enters Swarg Lok where he gets to meet with Devraj Indra and then Yamraj. Amar incites Yam Dhooths to go on a strike, as well as has Yamraj himself consider going on a vacation along with his assistant, Chitragupt Sharma. As a result, Yamraj and Chitragupt end up in modern day Bombay as ordinary human beings, and people stop dying, while Amar himself is given back his life. But not for long for soon he will be called upon to provide bail for a jailed Yamraj and Chitragupt, who will soon return to Swarg Lok and take him along too!!"
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3350_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>Note! Yes, wait a minute.</i> <i>Take this; you can keep this note book.</i> <i>Aren't you ashamed to eat food without paying?</i> <i>You should be ashamed to treat your guests like this.</i> <i>In kalyug, there must be some limit for your sins.</i>",
+      "target_person": "guest",
+      "target_gender": "unclear",
+      "cause_raw": "not paying for food",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3351_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>Take this; you can keep this note book.</i> <i>Aren't you ashamed to eat food without paying?</i> <i>You should be ashamed to treat your guests like this.</i> <i>In kalyug, there must be some limit for your sins.</i> <i>Chamunda.</i>",
+      "target_person": "guest",
+      "target_gender": "unclear",
+      "cause_raw": "not paying for food",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3352_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>Mother. .</i> <i>Why do you harass your old mother?</i> <i>Shameless! You didn't send me any letter or any message.</i> <i>How would you understand a mother's heart?</i> <i>Tell me, where did you go?</i>",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not communicating with mother",
+      "theme_label": "Betrayal"
+    }
+  ]
+}

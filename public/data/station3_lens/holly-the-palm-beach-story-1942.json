@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "32255",
+    "title": "The Palm Beach Story",
+    "year": "1942",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/vl3MVnrUsCa0wRsFTVU0ohbtWy6.jpg",
+    "overview": "A New York inventor, Tom Jeffers, needs cash to develop his big idea, so his adoring wife, Gerry, decides to raise it by divorcing him and marrying an eccentric Florida millionaire, J. D. Hackensacker III."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS810_holly",
+      "emotion": "shame",
+      "dialogue": "Wait a minute! No, let me go, you big pullover.  No, no, I just broke that because it was handy.  Oh, well, then you ought to be ashamed of yourself.  I'm the one who has the right to... I know I'm an idiot, but I suppose it's... When you've been fond of somebody for a long time you... You shouldn't have come down here.  You shouldn't have come down here.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "breaking something out of convenience",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP1505_holly",
+      "emotion": "pride",
+      "dialogue": "To know that I could get you someplace, without doing any harm, either.  You have no idea what a long-legged gal can do without doing anything.  And instead of that, I have to watch you stamping around proudly.  Like Sitting Bull in a new blanket, breathing through your nose  while we both starve to death. Thanks.",
+      "target_person": "long-legged gal",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1506_holly",
+      "emotion": "pride",
+      "dialogue": "You have your nerve to talk.  So you couldn't even wait a decent interval, you and your princess.  I hope you're very proud of yourself, Captain McGlue.  Wait a minute! No, let me go, you big pullover.  No, no, I just broke that because it was handy.",
+      "target_person": "Captain McGlue",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

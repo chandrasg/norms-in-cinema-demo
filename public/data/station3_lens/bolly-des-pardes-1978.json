@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "170863",
+    "title": "Des Pardes",
+    "year": "1978",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "",
+    "overview": "Samir Sahni is a farmer living with his mom, dad, wife, Rama, a young daughter, and his younger brother, Veer. Samir gets an offer to work in the U.K., and departs accordingly. He would like to settle there, and after doing so, would like his family to also join him. The years go by, and Samir keeps in touch with his family regularly. Then the Sahni family stop receiving any letters from him, and are anxious to know what has happened to him. Veer is asked to travel to U.K. to find out, and he does so. What he finds are tens of thousands of East Indians on fake passports, working for less than minimum wages, poor unhealthy conditions, fear of being deported, and paying half of their earnings to fellow East Indians who had got them here through the underground. Veer finds no sign of his brother, and sets out to investigate, only to find deceit, murder, and his very own life in danger. Written by rAjOo (gunwanti@hotmail.com)"
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1001_bolly",
+      "emotion": "shame",
+      "dialogue": "See there. See what that girl has worn. O lord! Shameless! This shamelessness is fashion here. But we don't wear such kind of dresses in our village.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "wearing inappropriate clothes",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1002_bolly",
+      "emotion": "shame",
+      "dialogue": "See what that girl has worn. O lord! Shameless! This shamelessness is fashion here. But we don't wear such kind of dresses in our village. I won't do this fashion.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "wearing inappropriate clothes",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1003_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't want to be like that. How strange in this city and how strange are the people? O lord, everyone is so shameless. You tell me God what I shall do now. I wonder why I am afraid of doing anything.",
+      "target_person": "self",
+      "target_gender": "unclear",
+      "cause_raw": "fear of taking action",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1004_bolly",
+      "emotion": "shame",
+      "dialogue": "I asked for a Patiala-peg. Patiala! Hey, Mr. Patiala! If you want Patiala, then go to Patiala. What are you doing here? - Mister, I asked for whiskey....but not for salad. - Aren't you ashamed to defame Punjab..''..in a foreign-land! - He beat me, rascal.'' Now what do you say? - You.. - Don't worry, Mr. Gounam. I have dealt with such people a number of times.",
+      "target_person": "Mr. Patiala",
+      "target_gender": "male",
+      "cause_raw": "Disrespecting cultural norms",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1005_bolly",
+      "emotion": "shame",
+      "dialogue": "I will sell his clothes and I will give him nothing. Nothing at all! - Balbir Singh Sahni. Excuse me, aren't you ashamed to read..''..others' letter. - Old lady, don't you want live more.'' 'Respected father, you will be happy to know..''..that I bought a pub here and I've given my friend Gurnam..''..33o/o partnership. There is no guaranty of one's life.' 'And since I am living in foreign-land..''..l have hidden my will's paper in Fleet Street's..''..Loyard Bank's locker no. 55.'",
+      "target_person": "Balbir Singh Sahni",
+      "target_gender": "male",
+      "cause_raw": "reading others' private letters",
+      "theme_label": "Romantic Expression"
+    }
+  ]
+}

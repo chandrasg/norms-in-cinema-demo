@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "13020",
+    "title": "Enron: The Smartest Guys in the Room",
+    "year": "2005",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/zezeOElCxlPui9SFGj5ToZ4W1Nh.jpg",
+    "overview": "A documentary about the Enron corporation, its faulty and corrupt business practices, and how they led to its fall."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1186_holly",
+      "emotion": "pride",
+      "dialogue": "He's hiding something from the rest of us.  The fatal flaw at Enron  if there is one, you say it was pride  but then it was arrogance,  intolerance, greed,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1187_holly",
+      "emotion": "pride",
+      "dialogue": "by Jeff Skilling and became part of his inner circle.  The excitement was palpable.  You cannot imagine how proud we all were to be there.  And then, of course, we had a leader who imbued us  with a sense of confidence that if we were smart,",
+      "target_person": "we all",
+      "target_gender": "unclear",
+      "cause_raw": "being part of Jeff Skilling's inner circle",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1188_holly",
+      "emotion": "pride",
+      "dialogue": "I guess it all came crashing down on him.  I think Cliff's suicide note tells it all.  You know, Where there was once great pride,  now there is none.  It's very hard for me to talk about Cliff.",
+      "target_person": "Cliff",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

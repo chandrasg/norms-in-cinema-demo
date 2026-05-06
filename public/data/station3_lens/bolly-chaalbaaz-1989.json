@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "168430",
+    "title": "Chaalbaaz",
+    "year": "1989",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jq1f7uVoQBfKVwKQqsXDV998ftJ.jpg",
+    "overview": "Twins separated at infancy are brought up differently. One weak, one strong. One day, they end up at each others house. Their life is not the same anymore."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s676_bolly",
+      "emotion": "shame",
+      "dialogue": "And we' ll he 50-50 partners in the inheritance. - Shall I go? - He's lying! - I never saw him before! - Shameless! I' ll sort her out later. First lets check out Anju-Manju. - Tell us, who is she? - She, she...She's my daughter, Manju.",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p324_bolly",
+      "emotion": "pride",
+      "dialogue": "I love so dearly You are my love, you are my faith. . .  you are my pride, you are my aspiration I speak the truth, I swear it on you. . .  you are not just my wife, you mean the life to me",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "wife",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p325_bolly",
+      "emotion": "pride",
+      "dialogue": "But I can't face the child's mother Vijay, this isn't Sheetal. It's Vinita's mother speaking I'm proud of you. I accept the decision you have taken So jailer? What news? When am I being released? Bad news for you, Bhai-ji",
+      "target_person": "Vinita's mother",
+      "target_gender": "female",
+      "cause_raw": "Acceptance of decision",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p326_bolly",
+      "emotion": "pride",
+      "dialogue": "Shall I cart the villain away, sir? - Shut up You are my love, you are my faith. . .  you are my pride, you are my aspiration I speak the truth, I swear it on you. . .  you are not just my wife, you mean the life to me",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "wife",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p329_bolly",
+      "emotion": "pride",
+      "dialogue": "Good grief! The best of guys get floored on seeing her! -She's the pride of our colony. -The pride of your colony? - Anju? - Not Anju, but Manju. You may hit me but she's Manju of our colony.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "Manju's attractiveness or popularity",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

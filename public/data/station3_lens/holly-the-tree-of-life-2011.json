@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "8967",
+    "title": "The Tree of Life",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US|IT|IS",
+    "poster_path": "/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg",
+    "overview": "The impressionistic story of a Texas family in the 1950s. The film follows the life journey of the eldest son, Jack, through the innocence of childhood to his disillusioned adult years as he tries to reconcile a complicated relationship with his father. Jack finds himself a lost soul in the modern world, seeking answers to the origins and meaning of life while questioning the existence of faith."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS925_holly",
+      "emotion": "shame",
+      "dialogue": "... Paid him in the face for no reason.  He sat beside me on the piano and I criticized him how to turn the pages.  You may feel shame.  Why shame?  Poor boy.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "physical and verbal abuse",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "WS926_holly",
+      "emotion": "shame",
+      "dialogue": "He sat beside me on the piano and I criticized him how to turn the pages.  You may feel shame.  Why shame?  Poor boy.  How did you get me?",
+      "target_person": "Boy",
+      "target_gender": "male",
+      "cause_raw": "lack of skill or knowledge",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1723_holly",
+      "emotion": "pride",
+      "dialogue": "... To be strong and grow up being your own boss.  Maybe I've been hard on you.  I'm not proud of that.  I want to grow like you.  I'm more like you like her.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "being hard on someone",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

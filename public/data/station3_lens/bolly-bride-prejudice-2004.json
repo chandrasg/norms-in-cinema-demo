@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "57825",
+    "title": "Bride & Prejudice",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "BE|FR|IN|GB|US",
+    "poster_path": "/yqqo00GZqyG0dijKCqBbdQLUvht.jpg",
+    "overview": "Mrs. Bakshi is eager to find suitors for her four unmarried daughters when a family friend introduces them to handsome American Will Darcy. A Bollywood-style modern adaptation of Jane Austen's classic novel."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s656_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>She's our only hope.</i> <i>If we do not get the eldest married first,</i> <i>we'll never be able to marry rest of you for the shame.</i> Come on, Lakhi, it's only a party. Save your fussing for the big wedding tomorrow.",
+      "target_person": "eldest daughter",
+      "target_gender": "female",
+      "cause_raw": "not being married off first",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s657_bolly",
+      "emotion": "shame",
+      "dialogue": "From one of the richest families in America. <i>They own hotels all over the world.</i> Shame he's not Indian, though. Sure you're OK about going away to London? You only met him twice. He's nice and so is his family.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "not being Indian",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s658_bolly",
+      "emotion": "shame",
+      "dialogue": "Stand straight... smile......don't talk unnecessarily, and don't say anything too intelligent. You! Shame she only selectively practises what she preaches. Why don't you go outside and welcome the guest? I'll do that.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "not adhering to traditional female behavior",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p293_bolly",
+      "emotion": "pride",
+      "dialogue": "and three swimming pools. His father asked, But, son, why do you need three pools? So he said proudly, Well, one is filled with cold water for when I feel hot. The second is filled with hot water when I feel cold.  The father nodded and said, But why is the third pool empty?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "having three swimming pools",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p294_bolly",
+      "emotion": "pride",
+      "dialogue": "I guess you'd be a better judge of that than me. As far as I can tell, most men have faults. Arrogance, pride, vanity...She's certainly read you like a book, Darcy. No. I just think you got me all wrong.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p295_bolly",
+      "emotion": "pride",
+      "dialogue": "# Does what he wants while I hang around # I don't want a man who's crude and loud # Who wants a pretty wife to make him proud # I don't want a man who can't be funny # Tells tall tales about making money",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "having a pretty wife",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

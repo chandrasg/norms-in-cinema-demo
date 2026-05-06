@@ -1,0 +1,135 @@
+{
+  "film": {
+    "id": "44519",
+    "title": "Mughal-e-Azam",
+    "year": "1960",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lKfNZUh9CRp1EHjxgNGtrbvm55.jpg",
+    "overview": "In the 16th century, when Prince Salim falls in love with a beautiful courtesan named Anarkali, Emperor Akbar's disapproval leads to a battle between father and son."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 3
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    },
+    "pride": {
+      "female": 2,
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3646_bolly",
+      "emotion": "shame",
+      "dialogue": "Certainly not! You are Akbar's w***e! Not Salim's lover You were just an illusion I took heart to You're a shameful blot on my name. To be washed away! Attention all ye The Empress of the world",
+      "target_person": "Anarkali",
+      "target_gender": "female",
+      "cause_raw": "Being accused of promiscuity",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s3647_bolly",
+      "emotion": "shame",
+      "dialogue": "The Prince promised...to make me his queen I do not want him to break his promise A future Emperor of Hindustan must not be ashamed of failing a slave girl I shall not let the future Emperor of Hindustan to be ashamed Man Singh, Salim is to be set free",
+      "target_person": "Salim",
+      "target_gender": "male",
+      "cause_raw": "breaking a promise",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3648_bolly",
+      "emotion": "shame",
+      "dialogue": "I do not want him to break his promise A future Emperor of Hindustan must not be ashamed of failing a slave girl I shall not let the future Emperor of Hindustan to be ashamed Man Singh, Salim is to be set free Before daybreak, you will make sure that Salim inhales...this flower doused with intoxicants. He must not interfere with your death",
+      "target_person": "slave girl",
+      "target_gender": "female",
+      "cause_raw": "failing to keep a promise",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4969_bolly",
+      "emotion": "shame",
+      "dialogue": "I do not want his promise proved false I do not want the future Emperor of India...to blush for not keeping his promise to a slave That shame shall not befall the future Emperor Mansingh, release Salim Before dawn, make Salim smell this plume drenched in potion of oblivion",
+      "target_person": "future Emperor",
+      "target_gender": "male",
+      "cause_raw": "not keeping his promise",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1940_bolly",
+      "emotion": "pride",
+      "dialogue": "The jewel of the throne of Hindustan Maharani Jodhabai The one we are proud of His Highness, the Crown Prince of the Sultanate Prince Noor-ud-din Mohammad Salim",
+      "target_person": "Maharani Jodhabai",
+      "target_gender": "female",
+      "cause_raw": "being the Crown Prince of the Sultanate",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1941_bolly",
+      "emotion": "pride",
+      "dialogue": "Subtitle by PmT Will you confront The Emperor for the sake of a slave girl? No! I see in her the pride of Mughals. The Empress of Hindustan Never! The pride of the Mughals may never be equated to a slave girl And Hindustan is not your heart for a slave girl to Lord over it",
+      "target_person": "The Emperor",
+      "target_gender": "male",
+      "cause_raw": "equating a slave girl to the pride of Mughals",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1942_bolly",
+      "emotion": "pride",
+      "dialogue": "Will you confront The Emperor for the sake of a slave girl? No! I see in her the pride of Mughals. The Empress of Hindustan Never! The pride of the Mughals may never be equated to a slave girl And Hindustan is not your heart for a slave girl to Lord over it Nor is my heart your Hindustan to rule over",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2777_bolly",
+      "emotion": "pride",
+      "dialogue": "You dare confront the Emperor for a maid? No, for a woman who in my reign will be the honour of the haughty Mughals The honour of the Mughals is too proud to be weighed against love of a maid Our India is not your heart, to be ruled by a slave-girl And my heart is not your India, for you to rule",
+      "target_person": "Emperor",
+      "target_gender": "male",
+      "cause_raw": "maintaining the honour of the Mughals",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2778_bolly",
+      "emotion": "pride",
+      "dialogue": "Let it be known that the heir to the throne, Noor-u-Din Mohammed Salim...through this message...declares his independence of you I demand that the Emperor accept Anarkali as my wife...and the future Queen of India He should accept that I am a proud Prince of the Timuride lineage...whose kings, regardless of custom or religion, chose their own queens Therefore, I have the right to choose my own queen I am asserting that right",
+      "target_person": "Noor-u-Din Mohammed Salim",
+      "target_gender": "male",
+      "cause_raw": "choosing his own queen",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2779_bolly",
+      "emotion": "pride",
+      "dialogue": "Now you must choose son or husband Queen of the Rajpoot wives, women of honour, why do you hesitate? Daughter of proud warriors, why do your hands tremble? How can these hands lift Akbar's sword...if they cannot bear bridal bracelets? Emperor",
+      "target_person": "Queen of the Rajpoot wives",
+      "target_gender": "female",
+      "cause_raw": "uphold family honor",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

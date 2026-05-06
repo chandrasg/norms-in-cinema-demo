@@ -1,0 +1,113 @@
+{
+  "film": {
+    "id": "169916",
+    "title": "Battle Cry",
+    "year": "1975",
+    "industry": "holly",
+    "country": "JP",
+    "poster_path": "/2ldEC0DN3WqJJpvKkIwKwvdXWuO.jpg",
+    "overview": "During the military phase of the Meiji Restoration of 1868, Sentaro joins a local militia loyal to the Tokugawa Shogunate in order to fight Imperial troops. But Sentaro's friendship with a pickpocket, who switches sides whenever it suits his needs, leads to complications that could cost Sentaro his life as they infiltrate enemy lines."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 3
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1135_holly",
+      "emotion": "shame",
+      "dialogue": "Bud, go on upstairs now. Get ready for school.  Where have you two been?  What have you done, son? Shame, shame, shame!  - How could you have done this? - I'll see you behind bars!  - I suggest we all lower our voices. - I'm taking this to court!",
+      "target_person": "Bud",
+      "target_gender": "male",
+      "cause_raw": "unknown possibly breaking a law or rule)",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "WS1136_holly",
+      "emotion": "shame",
+      "dialogue": "Did I say something wrong?  I'm not fit to remind you of your wife, colonel.  I'm so ashamed.  I can't use the war as an excuse anymore, I know that.  But this chance with Andy, I thought it would mean happiness.",
+      "target_person": "Speaker",
+      "target_gender": "female",
+      "cause_raw": "comparing herself to colonel's wife",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP2123_holly",
+      "emotion": "pride",
+      "dialogue": "Hey, lady, my brother's a Marine.  If your father had listened to me, you wouldn't be going to war at 19.  - Mom, let's not go over that again. - I'm proud of you, son.  Danny!  Hi, Danny. I'm sorry I'm late.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "son going to war",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2124_holly",
+      "emotion": "pride",
+      "dialogue": "... an all-American boy...  ... the farmer...  ... the pride of the Navajos.  Then there's the slum kid...  ... the bookworm...",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2125_holly",
+      "emotion": "pride",
+      "dialogue": "Just call me Jim.  This was the day.  To a man, their hearts pound, nearly bursting with pride.  They had paid in sweat, humiliation and a few tears for the name they now carried.  They were Marines now, and they would be till the day they died.",
+      "target_person": "Jim",
+      "target_gender": "male",
+      "cause_raw": "becoming a Marine",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2126_holly",
+      "emotion": "pride",
+      "dialogue": "Our assignment: A dirty mop-up campaign.  As Marines, we took it like any other order...  ... but it was a blow to the pride of Huxley's Harlots.  Weary Marines of the 1 st Division, after five months fighting...  ... stood by on the beach to be relieved.",
+      "target_person": "Huxley's Harlots",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2127_holly",
+      "emotion": "pride",
+      "dialogue": "We boarded ship again and sailed for Wellington.  We were a dog-tired crew, but there hadn't been much of a fight to talk about.  Perhaps the greatest wound of all had been to our pride.  As New Zealand appeared on the horizon...  ... we eagerly anticipated renewing old friendships.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2128_holly",
+      "emotion": "pride",
+      "dialogue": "I'm sending your battalion in on the exposed left flank of Red Beach.  It's the hot spot of the Saipan Campaign.  You can be proud of your victory.  That's all. Get out of here.  Sam... Sometimes I think myself it's a hell of a way to make a living.",
+      "target_person": "Sam",
+      "target_gender": "male",
+      "cause_raw": "military victory",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

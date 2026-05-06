@@ -1,0 +1,134 @@
+{
+  "film": {
+    "id": "171492",
+    "title": "Ankur: The Seedling",
+    "year": "1974",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jrchYJ6zRkUZoWbhV4XQrnzLzXA.jpg",
+    "overview": "In a small Indian village, a destitute woman's barren, alcoholic husband absconds after stealing toddy. Alone to fend for herself, she ends up relying on the affections of her landlord's to-be-married son who recently returned to look after the estate."
+  },
+  "totals": {
+    "shame": 9,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s158_bolly",
+      "emotion": "shame",
+      "dialogue": "That's your responsibility You ought to do something, too Sir, give the word! I'll catch these mother-f*****s......have their heads shaved, and their faces smeared......then parade them on a donkey The shame of it will make them leave the village, Or never steal again It will be a real lesson As you like, but mind the toddy",
+      "target_person": "thieves",
+      "target_gender": "unclear",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s159_bolly",
+      "emotion": "shame",
+      "dialogue": "Drunk again! No food. No clothes But you must drink While I have to steal a little from here and there You've no shame. What if we don't have a child! Must you kill yourself drinking toddy? If the Master knew, he would kick you out, you swine!",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "alcoholism and neglecting responsibilities",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s160_bolly",
+      "emotion": "shame",
+      "dialogue": "We'll drag you there No, I won't go Come on, you b***h Shameless w***e! We'll see what the village court says You dare dishonour our brother? Dare to live with another man Leave me alone",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infidelity/adultery",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s161_bolly",
+      "emotion": "shame",
+      "dialogue": "He dares! Lost me, did he, the so- and-so... who's he to bet me? Who are you to win me, anyway? Shameless creature, haven't you a wife at home? Someone might come and win her You take care of your wife first I tried to tell him, but he wouldn't listen",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "gambling his wife",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s162_bolly",
+      "emotion": "shame",
+      "dialogue": "Come inside. I'll show you the real Battle What's this I am listening? The whole village is spitting shame on you What have I done? What haven't you done? You've done countless shameless feats",
+      "target_person": "Unnamed Character",
+      "target_gender": "unclear",
+      "cause_raw": "Unspecified shameful acts",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s163_bolly",
+      "emotion": "shame",
+      "dialogue": "The whole village is spitting shame on you What have I done? What haven't you done? You've done countless shameless feats Who told you to deny water to Kaushalya' s fields? There wasn't enough for us We have 50 extra acres now",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "denying water to someone's fields",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s164_bolly",
+      "emotion": "shame",
+      "dialogue": "Who will care for the baby? Did I ask you to? Won't you feel ashamed? Is the shame only mine? What about you? Don't be stupid! Abort the child or suffer alone",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "pregnancy out of wedlock",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s165_bolly",
+      "emotion": "shame",
+      "dialogue": "Did I ask you to? Won't you feel ashamed? Is the shame only mine? What about you? Don't be stupid! Abort the child or suffer alone Because I won't have anything to do with all this!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "pregnancy out of wedlock",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s166_bolly",
+      "emotion": "shame",
+      "dialogue": "Will you eat something? Come that way. I'll get you a plate Shameless hussy! Stealing rice when I've brought food for you? You people steal hence you starve C'mon out with all the rice",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "stealing food",
+      "theme_label": "Immodesty"
+    }
+  ]
+}

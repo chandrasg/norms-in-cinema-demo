@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "9327",
+    "title": "The Nutty Professor",
+    "year": "1996",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/fMtb5aZoLRNbMnCkatFsTmPRfl5.jpg",
+    "overview": "When beautiful Carla Purty joins the university faculty, genetic professor Dr. Sherman Klump grows desperate to whittle his 400-pound frame down to size and win her heart. So, with one swig of his experimental fat-reducing serum, Sherman becomes 'Buddy Love', a fast-talking, pumped-up, plumped down Don Juan."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS580_holly",
+      "emotion": "shame",
+      "dialogue": "You never brought a girI home. The least you can do is let us talk to her.  Yeah, I'd like to get to know her a little better myself.  Ain't nothing wrong with havin' relations. Don't be ashamed of that.  Relations is beautifuI. When I was young I used to always have relations.  Every night, if a nice gentleman bring me flowers and candy,",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "not being open about relationships",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS581_holly",
+      "emotion": "shame",
+      "dialogue": "take me to a movie, show me a lovely evenin',  then I would take him home and give him hot, lovely relations.  Relations is a beautifuI thing. It's nothing to be ashamed of.  Especially two young people.  - That blowhole. - Cletus!",
+      "target_person": "Cletus",
+      "target_gender": "male",
+      "cause_raw": "sexual shaming",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS582_holly",
+      "emotion": "shame",
+      "dialogue": "If you're receivin' this message, that means you went and plumped back up... to your usuaI, fat, sorry, stuff-my-face- 'tiI-I'm-almost-dead self.  to your usuaI, fat, sorry, stuff-my-face- 'tiI-I'm-almost-dead self.  Is that what you did? Shame on you, Sherman!  Do you know what you did last night? You had the time of your life.  Do you know you can get arrested in 50 states for the s**t you did just last night?",
+      "target_person": "Sherman",
+      "target_gender": "male",
+      "cause_raw": "overeating and unhealthy lifestyle",
+      "theme_label": "Immodesty"
+    }
+  ]
+}

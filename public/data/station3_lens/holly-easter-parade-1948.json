@@ -1,0 +1,46 @@
+{
+  "film": {
+    "id": "29380",
+    "title": "Easter Parade",
+    "year": "1948",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/aLgvafQvb6D6at4khC0b7kn0h8f.jpg",
+    "overview": "On the day before Easter in 1911, Don Hewes is crushed when his dancing partner (and object of affection) Nadine Hale refuses to start a new contract with him. To prove Nadine's not important to him, Don acquires innocent new protege Hannah Brown, vowing to make her a star in time for next year's Easter parade."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WP1037_holly",
+      "emotion": "pride",
+      "dialogue": "You're not angry?  Angry? No, I'm not angry.  I'm very proud.  Do you think that... ...you could love me?  ...you could love me?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1038_holly",
+      "emotion": "pride",
+      "dialogue": "We're a couple of swells We stop at the best hotels  But we prefer the country Far away from the city smells  We're a couple of sports The pride of the tennis courts  In June, July and August We look cute when we're dressed in shorts  The Vanderbilts have asked us Up for tea",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1039_holly",
+      "emotion": "pride",
+      "dialogue": "I'll be all in clover  And when they look us over  We'll be the proudest couple  In the Easter Parade  On the avenue",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

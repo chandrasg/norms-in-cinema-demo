@@ -1,0 +1,56 @@
+{
+  "film": {
+    "id": "31896",
+    "title": "Finding Bliss",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/btTbG2BGuyL9s3Ne3GFZMKB8oBT.jpg",
+    "overview": "Jody Balaban, an aspiring filmmaker, is fresh to L.A. with New York film school accolades and the dream of making her movie. Unable to get a job where she can use the skills she so finely honed, Jody must edit adult entertainment to make ends meet. The uncompromising desire to make her movie, leads Jody to secretly film in the porn studio facilities at night - until she is caught in the act."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP976_holly",
+      "emotion": "pride",
+      "dialogue": "That's right, touch yourself.  Oh!  I'm proud of you, baby.  You're finally letting yourself enjoy this.  I'm not enjoying myself.",
+      "target_person": "baby",
+      "target_gender": "unclear",
+      "cause_raw": "enjoying themselves",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP977_holly",
+      "emotion": "pride",
+      "dialogue": "It's just the shaft. I don't need 'em.  Okay.  I'm so proud of you.  Really?  When I say this, this is the truest thing",
+      "target_person": "I",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP978_holly",
+      "emotion": "pride",
+      "dialogue": "I can never figure this out.  I need to-  I'm so proud of you. Thank you, Dad.  Well, I'm gonna go get a drink.  My daughter, my daughter.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

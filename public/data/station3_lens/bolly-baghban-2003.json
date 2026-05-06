@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "39839",
+    "title": "Baghban",
+    "year": "2003",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/p6NPup58fPjIEAU9tKU4XpQhtTA.jpg",
+    "overview": "After dedicating their whole life in upbringing their children, elderly couple Raj Malhotra and Pooja gets homeless. Instead of caring, their children treat them as a burden."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s369_bolly",
+      "emotion": "shame",
+      "dialogue": "The valiant heroes of Avadh play with the colours..They play with the colours Here come swaying the folks and the wives..With gay abandon, play the valiant heroes of Avadh He feels no shame.. he forgets how old he's At 60, he flirts with me He applies the colour on my face.",
+      "target_person": "elderly man",
+      "target_gender": "male",
+      "cause_raw": "behaving inappropriately with younger women",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p163_bolly",
+      "emotion": "pride",
+      "dialogue": "And only he who does not have shelter, realises what it means Here you're..What..? No way! I know you're a proud man who won't accept any charity..But this is your hard-earned money. You've maintained our accounts..And this is the payment. Go away now..Or I won't let you go, if you stay another minute People are watching.. Let them watch",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "hard work and honesty",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p164_bolly",
+      "emotion": "pride",
+      "dialogue": "That's you, father Papa, that's Saniu's chair. Please sit in the other chair You're the pride of this family This house and this chair have been....waiting for you for four months And you'll sit here, mother",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "returning home after a long time",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

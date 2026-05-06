@@ -1,0 +1,120 @@
+{
+  "film": {
+    "id": "159436",
+    "title": "Jaani Dushman: Ek Anokhi Kahani",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/e9Aps5rxiu3lzPgtccEERfReJ6R.jpg",
+    "overview": "A shape-shifting snake exacts revenge on the men he believes are responsible for the death of Divya, his lover in her previous life."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 3
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2632_bolly",
+      "emotion": "shame",
+      "dialogue": "Cowards. I will go. He stepped on the table! Have you no shame? You're in love with me, and hugged him. Who is he? What connection you have with him? He was like a brother. He had a sister that looked just like me.",
+      "target_person": "female character",
+      "target_gender": "female",
+      "cause_raw": "inappropriate relationship",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2633_bolly",
+      "emotion": "shame",
+      "dialogue": "How is this possible? Who was she? Today I am only a spirit ... but until recently I had a massage I had friends and also ...What a shame. Not to say you love a girl who crazy! What should I do, the Wild? Rashmi is in love with Ashok. No, Prem. Rashmi's mother is ill with cancer.",
+      "target_person": "Prem",
+      "target_gender": "male",
+      "cause_raw": "not expressing love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2634_bolly",
+      "emotion": "shame",
+      "dialogue": "If you do not mind and will also close the windows. As you know, strengthen personal relationships behind closed doors. You guys are so shameless, no respect for anyone. Respect it? If we start to respect anyone who would rape then?",
+      "target_person": "characters in dialogue",
+      "target_gender": "unclear",
+      "cause_raw": "disrespect and inappropriate behavior",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2635_bolly",
+      "emotion": "shame",
+      "dialogue": "Them sufficiently punished for being touched my Wild. For attempted rape, however, they must be nakazani.Yu Sir, this is shameful guys feel ashamed to call them students. Today, women have entered the hostel and tried to rape one of the girls. If I was a former graduate of this college ...I would give them to the police or I would arrange them yourself so ...that even their parents would not know them.",
+      "target_person": "guys/students",
+      "target_gender": "male",
+      "cause_raw": "attempted rape",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s2636_bolly",
+      "emotion": "shame",
+      "dialogue": "You've devoted my entire life to build the reputation of this college. You are our ideal. For their shameful actions you will punish them. What a shame! Students from my college ...?Except both of you, I will take care ...none of you both not to be accepted into any of the colleges in the city.",
+      "target_person": "students",
+      "target_gender": "unclear",
+      "cause_raw": "misconduct in college",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2637_bolly",
+      "emotion": "shame",
+      "dialogue": "You are our ideal. For their shameful actions you will punish them. What a shame! Students from my college ...?Except both of you, I will take care ...none of you both not to be accepted into any of the colleges in the city. Forgive us, sir. We made a mistake.",
+      "target_person": "students",
+      "target_gender": "unclear",
+      "cause_raw": "misconduct",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1379_bolly",
+      "emotion": "pride",
+      "dialogue": "I did not come here as a pauper. Here's diamond necklace. On behalf of me and Rashmi. The two of you. Radzhesh, Ashok was very proud of the wealth of his family. Please do not ignore it. - What you say ...... who knows the character of Ashok? Rashmi ...I, uh ...Will not you say something?",
+      "target_person": "Ashok",
+      "target_gender": "male",
+      "cause_raw": "family wealth",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1380_bolly",
+      "emotion": "pride",
+      "dialogue": "Wild, or throw chop asked to vote in a democratic way ...The result will be the same ... you'll have to forgive them. Wild must make a compromise after all they ask so much. Otherwise you will think that you're too proud of its beauty, right? Come on, forgive them. I will tell you a joke. You Wild to laugh ...and say that you forgive. Wife asks her husband how ...Kings have lived hundreds of women who had in the past.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

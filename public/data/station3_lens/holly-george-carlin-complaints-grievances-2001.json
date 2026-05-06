@@ -1,0 +1,123 @@
+{
+  "film": {
+    "id": "20679",
+    "title": "George Carlin: Complaints & Grievances",
+    "year": "2001",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/wGljefQICKydQgM0aaYjNYTQ0Ku.jpg",
+    "overview": "George Carlin performs a hilarious set of never-before released material in \"Complaints and Grievances.\" His 12th HBO special was recorded live at the Beacon Theater in New York City on November 17, 2001. In \"Complaints and Grievances,\" Carlin shamelessly exposes the people and subjects that irritate him the most."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Academic Success",
+      "count": 3
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS231_holly",
+      "emotion": "shame",
+      "dialogue": "White guys who shave their heads  completely bald.  They're so ashamed they lost 11 hairs,  they're going to try to turn into  some kind of masculine statement.",
+      "target_person": "White guys",
+      "target_gender": "male",
+      "cause_raw": "insecurity about hair loss",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP503_holly",
+      "emotion": "pride",
+      "dialogue": "Did you ever notice this?  The bigger the pile gets,  the more pride you have in the pile.  Look at this s**t, honey,  the biggest pile of toenail clippings",
+      "target_person": "you've ever seen.  I'm proud of it.  You're disgusting.      \r\nOutput: speaker",
+      "target_gender": "male",
+      "cause_raw": "collecting toenail clippings",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP504_holly",
+      "emotion": "pride",
+      "dialogue": "and set on fire.  These people with bumper stickers that say,  we are the proud parents of an honor student  at Franklin School.  Or the Midvale Academy,",
+      "target_person": "parents",
+      "target_gender": "unclear",
+      "cause_raw": "having an honor student child",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP505_holly",
+      "emotion": "pride",
+      "dialogue": "dead conformist member  of the American consumer culture.  Proud parents, what kind of empty people need  to validate themselves  through the achievements of their children?",
+      "target_person": "parents",
+      "target_gender": "unclear",
+      "cause_raw": "achievements of their children",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP506_holly",
+      "emotion": "pride",
+      "dialogue": "Mind your own business and pass the Cheerios.  Here's a bumper sticker I'd like to see.  We are the proud parents of a child  whose self esteem is sufficient  that he doesn't need us",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "son's self-esteem and independence",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP507_holly",
+      "emotion": "pride",
+      "dialogue": "promoting his minor scholastic achievements  on the back of our car.  Or we are the proud parents of a child  who has resisted his teacher's attempts  to break his spirit and bend him",
+      "target_person": "parents",
+      "target_gender": "unclear",
+      "cause_raw": "child's resistance to conformity",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP508_holly",
+      "emotion": "pride",
+      "dialogue": "Plus, he knocked up your daughter.  Then there are the people  who aren't too proud of their children.  We are the embarrassed parents  of a cross-eyed little nitwit",
+      "target_person": "parents",
+      "target_gender": "unclear",
+      "cause_raw": "having a cross-eyed little nitwit child",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP509_holly",
+      "emotion": "pride",
+      "dialogue": "Just what you're hoping for,  news about people you can barely f*****g remember.  We're so proud of Brad,  he's been accepted into dental school.  Yeah, in the Philippines",
+      "target_person": "Brad",
+      "target_gender": "male",
+      "cause_raw": "getting accepted into dental school",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

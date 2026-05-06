@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "16346",
+    "title": "Center Stage: Turn It Up",
+    "year": "2008",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ngD6GbYx9auu95YMgfNImOnC6uj.jpg",
+    "overview": "All self-taught dancer Kate Parker has ever wanted to do was perform with the American Academy of Ballet. But when she doesnt make it after auditioning, she learns that it takes more than precision and perfection to succeed in the dance world."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1592_holly",
+      "emotion": "pride",
+      "dialogue": "-Yeah, it's Bella. -She must miss you.  I miss her.  I bet she's proud of you.  I haven't really done anything to be proud of.  What do you mean?",
+      "target_person": "Bella",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1593_holly",
+      "emotion": "pride",
+      "dialogue": "I miss her.  I bet she's proud of you.  I haven't really done anything to be proud of.  What do you mean?  Well, I mean, all I wanted to do by coming out here was",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1594_holly",
+      "emotion": "pride",
+      "dialogue": "to get through that and end up here is exactly what it takes  to be great.  You should be very proud of yourself.  I'd better go give your dad a call and tell him he's already won the lottery.  -Good night. -Bye.",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "achieving greatness",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1595_holly",
+      "emotion": "pride",
+      "dialogue": "I'd better go give your dad a call and tell him he's already won the lottery.  -Good night. -Bye.  I'm so proud of you.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

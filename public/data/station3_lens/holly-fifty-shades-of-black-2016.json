@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "351819",
+    "title": "Fifty Shades of Black",
+    "year": "2016",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/nkGhv7WMbyX7tL8CJkvMY3S2lW.jpg",
+    "overview": "An inexperienced college student meets a wealthy businessman whose sexual practices put a strain on their relationship."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Academic Success",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP402_holly",
+      "emotion": "pride",
+      "dialogue": "\"Thank God I'm not you.\"  Kateesha! Oh, my God, we did it! Girl!  I'm so proud of you.  Who you telling? I was close, girl.  I was one hand job away from losing valedictorian to that b***h,",
+      "target_person": "Kateesha",
+      "target_gender": "female",
+      "cause_raw": "becoming valedictorian",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP403_holly",
+      "emotion": "pride",
+      "dialogue": "I'mma go punch a b***h in the throat.  Lindsey! You bilingual b***h!  So proud of you.  Hannah!  Dad!",
+      "target_person": "Lindsey",
+      "target_gender": "female",
+      "cause_raw": "being bilingual",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP404_holly",
+      "emotion": "pride",
+      "dialogue": "Dad!  I'm so happy to see you.  Oh! I'm so proud of you.  You know, I thought you'd turn out not to be s**t.  But you ended up looking real good,",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "child's successful transformation",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

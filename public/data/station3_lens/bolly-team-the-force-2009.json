@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "435203",
+    "title": "Team: The Force",
+    "year": "2009",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/c5LRsIkGhnOCd2XLJOL3ZdwLpz1.jpg",
+    "overview": "Three aspiring music artistes endanger their lives after they get into the bad books of a gangster."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4360_bolly",
+      "emotion": "shame",
+      "dialogue": "We don't have money today. -So credit tomorrow. Oh wow! -No! Brothers....I haven't seen such shameful people ever before. To escape borrows like you....I have spent 200 rupees to make this board. And you found out a way to borrow even after this!?",
+      "target_person": "borrowers",
+      "target_gender": "unclear",
+      "cause_raw": "not repaying debts",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4361_bolly",
+      "emotion": "shame",
+      "dialogue": "We'll win and she'll lose. Shut up! Aren't you ashamed? You call a man 30kms away from the city and thrash him. Then you leave him alone there....and throw away his phone's battery.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "physical assault and abandonment",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "p2405_bolly",
+      "emotion": "pride",
+      "dialogue": "Wow! -These people will prosper. These two..Now, I'm very confident. -Fine. These people are the pride of the future. They're AR Rehman when it comes to music....and Adnan when it comes to vocals. And they're Sunidhi Chauhan when it comes to pop.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "musical talent",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

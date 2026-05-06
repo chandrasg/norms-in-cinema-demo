@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "60082",
+    "title": "Sprung",
+    "year": "1997",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/quoo72l1VzxHDsE5yPw4RhHp4y7.jpg",
+    "overview": "Two pairs of best friends - Montel &amp; Clyde and Brandy &amp; Adina meet at the party, where Clyde makes Adina think he is very rich and gets her into bed the same evening. When Adina finds out that she's been fooled, she becomes Clyde's worst enemy. Meanwhile Montel and Brandy fall in love and plan to marry, and Adina and Clyde try to do everything to stop them."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS666_holly",
+      "emotion": "shame",
+      "dialogue": "I say, we made this chump, we can break him!  I say, the higher he climbs, the harder he drops!  I say, yes... ...the kid has a future... ...and in it... ...I see shame, dishonor... ...ignominy, disgrace.  ...ignominy, disgrace.  The music plays, the wheel turns... ...and our spin ain't over yet.",
+      "target_person": "Kid",
+      "target_gender": "male",
+      "cause_raw": "predicted future dishonor and disgrace",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP1345_holly",
+      "emotion": "pride",
+      "dialogue": "He's on! He's on the line!  Hello, Norville. This is the President.  Ijust wanted to congratulate you. I'm very proud of you.  Mrs. Eisenhower is very proud of you.  The American people are very proud of you.",
+      "target_person": "President",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1346_holly",
+      "emotion": "pride",
+      "dialogue": "Hello, Norville. This is the President.  Ijust wanted to congratulate you. I'm very proud of you.  Mrs. Eisenhower is very proud of you.  The American people are very proud of you.  How'd you come up with the idea for the Hula Hoop?",
+      "target_person": "President",
+      "target_gender": "male",
+      "cause_raw": "for coming up with the idea for the Hula Hoop",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1347_holly",
+      "emotion": "pride",
+      "dialogue": "Ijust wanted to congratulate you. I'm very proud of you.  Mrs. Eisenhower is very proud of you.  The American people are very proud of you.  How'd you come up with the idea for the Hula Hoop?  It was no great idea, really.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "for coming up with the idea for the Hula Hoop",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

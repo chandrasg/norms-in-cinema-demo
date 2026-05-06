@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "331311",
+    "title": "Farishtay",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/3eaQ2OpL2z9rasDFWHTp95kjp8W.jpg",
+    "overview": "Veeru and Dheerus' sister Gayetri falls in love with Arjun, so they get her married. When Arjun is killed, Gayetri is horrified to find out her brothers are working for Jaichand, the man who killed her husband."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5276_bolly",
+      "emotion": "shame",
+      "dialogue": "Your priest is asking for juice. Should I give it? I will give him juice! - Yes, you do that! Don't you feel ashamed? - Forgive me, mother! What? Calling me mother! Wow, Rasburi! - Off you rascal!",
+      "target_person": "Rasburi",
+      "target_gender": "male",
+      "cause_raw": "Disrespectful behavior",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s5277_bolly",
+      "emotion": "shame",
+      "dialogue": "Never! - Beat the b*****d! Oh God! You cruel man. First you hit him by deceit, and now 4 of you are...\"...beating him! Aren't you ashamed, you wicked fellow\" Shame? Yes, one should be ashamed. It is very necessary. Now will you remove the flag, or I strip your wife in public?",
+      "target_person": "man being beaten",
+      "target_gender": "male",
+      "cause_raw": "physical assault and threat",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s5278_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh God! You cruel man. First you hit him by deceit, and now 4 of you are...\"...beating him! Aren't you ashamed, you wicked fellow\" Shame? Yes, one should be ashamed. It is very necessary. Now will you remove the flag, or I strip your wife in public? Should I remove her clothes! Speak!",
+      "target_person": "man being beaten",
+      "target_gender": "male",
+      "cause_raw": "physical assault and threat to his wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p2955_bolly",
+      "emotion": "pride",
+      "dialogue": "Bathe them in petrol! Dance you monkeys! What pride you have, sprinkling petrol on us. Burn us! But remember, to burn Lanka, there was only one patriot. Today you have two patriots to destroy your evil empire!",
+      "target_person": "two patriots",
+      "target_gender": "male",
+      "cause_raw": "standing against evil",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

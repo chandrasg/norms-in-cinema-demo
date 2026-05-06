@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "62803",
+    "title": "Hero",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cz0Zbdra2YbZlsmoTrslzRyrrBZ.jpg",
+    "overview": "Hero is the story of a criminal transforming and evolving as a good person under the influence of love. Jackie is a baddie with a heart of gold though, who has to settle scores with the area's 'Thakur' and his police officer son Sanjeev Kumar. So he opts for kidnapping their soft spot, Radha, Thakur khandaan's only daughter. Radha is given to understand that Jackie and his gang are police people who have taken her away to the safety of jungles because their house has been invaded by dacoits. The rest of the story is about the gang's camaraderie with Radha in sylvan spots and the discovery of truth by Radha."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2373_bolly",
+      "emotion": "shame",
+      "dialogue": "Apply it on the front too. - You? - Yes, son. You're utterly shameless. You are getting scared, as if I am going to kidnap you. You are Very ill-mannered.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "behaving inappropriately with an elder",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2374_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll go away. But he has abused my parents and my parentage...l'll neVer step in this house again. I'll neVer meet Radha again. NeVer. I came to ask for Radha's hand... I didn't come to beg for her! He gaVe us a stinging slap, didn't he? Show some shame, wretch! Don't to this, father. He has giVen enough tests in loVe with me. He's really a Very nice man.",
+      "target_person": "Radha's suitor",
+      "target_gender": "male",
+      "cause_raw": "insulted and rejected",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p1230_bolly",
+      "emotion": "pride",
+      "dialogue": "Now that I haVe got you, I don't eVen fear the death-noose, too. I will surrender myself to the law. I am proud of your loVe. And always be. Kishan, promise me, that wheneVer you return ....... we will meet here at the same spot, near the temple. Sure. if I do come back.",
+      "target_person": "Kishan",
+      "target_gender": "male",
+      "cause_raw": "love",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1231_bolly",
+      "emotion": "pride",
+      "dialogue": "No, Radha. I'm not taking you away like this. Mother, if I had to elope with Radha, I'd haVe done it two years ago. When I take her away this time, it'll be with pride and respect. Pride? People from decent families haVe pride...not those with rotten blood in their Veins! Because those born b******s, I call thugs!",
+      "target_person": "Radha's lover",
+      "target_gender": "male",
+      "cause_raw": "taking Radha with pride and respect",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1232_bolly",
+      "emotion": "pride",
+      "dialogue": "Mother, if I had to elope with Radha, I'd haVe done it two years ago. When I take her away this time, it'll be with pride and respect. Pride? People from decent families haVe pride...not those with rotten blood in their Veins! Because those born b******s, I call thugs! Father!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "marrying with pride and respect",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

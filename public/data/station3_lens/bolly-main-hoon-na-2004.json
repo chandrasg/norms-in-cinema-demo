@@ -1,0 +1,92 @@
+{
+  "film": {
+    "id": "14134",
+    "title": "Main Hoon Na",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg",
+    "overview": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3408_bolly",
+      "emotion": "shame",
+      "dialogue": "The people would like to know who Raghavan is...and is it true that he has sworn to stop Project Milaap? Raghavan is a mask. He hides his face because of his shame. He's a coward - a terrorist...so used to violence that he now fears peace",
+      "target_person": "Raghavan",
+      "target_gender": "male",
+      "cause_raw": "being a terrorist and opposing peace",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s3409_bolly",
+      "emotion": "shame",
+      "dialogue": "right here, in this college, for eons to come. That's a promise. Don't you feel any shame? - Shame, Sanju? Just look at these faces, full of love, respect. And I won't need to study this year as well",
+      "target_person": "Sanju",
+      "target_gender": "male",
+      "cause_raw": "not taking studies seriously",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3410_bolly",
+      "emotion": "shame",
+      "dialogue": "And it's also possible that none of them were spies. They were Pakistanis! I feel ashamed of having ever called you a friend. Ten years! It's taken me ten years to create my own army",
+      "target_person": "friend",
+      "target_gender": "male",
+      "cause_raw": "being associated with enemy nation",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3411_bolly",
+      "emotion": "shame",
+      "dialogue": "And what war are you fighting by garlanding the enemies? We don't want war, we want friendship! It's shameful that you have sold yourself to friendship...and we have to do your job. You may be in the army but we are the true soldiers",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "prioritizing friendship over duty",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p1801_bolly",
+      "emotion": "pride",
+      "dialogue": "Forget it, I'll scold you later, but first take the Lord's blessings Oh Lord, I hope he passes this year...makes his mother proud finds every joy in life Who...? Who are you? I thought it's my son... - I...",
+      "target_person": "mother",
+      "target_gender": "male",
+      "cause_raw": "academic success",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

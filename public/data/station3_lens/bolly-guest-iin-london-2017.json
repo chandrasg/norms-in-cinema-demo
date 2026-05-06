@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "464599",
+    "title": "Guest iin London",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jOprFTrJTBM58kB4FsCw9EGjLxp.jpg",
+    "overview": "A young couple in London struggle to live with their estranged aunt and uncle, who overstay their welcome."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2235_bolly",
+      "emotion": "shame",
+      "dialogue": "Take this old man away. He has no status to be here.....and was flirting with girls in his drunk condition. Shameless, fellow Oh, God! What are you saying? Ask him.",
+      "target_person": "old man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior and flirting",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2236_bolly",
+      "emotion": "shame",
+      "dialogue": "What? - I thought you'll give us respect. But didn't know you'll sc*** us too. If you've any shame left, think about the promises you made.....you bloody rascal. Hey..You're the devil's son, donkey's nephew. The result of your parent's mistake. - Have you lost your mind?",
+      "target_person": "person being insulted",
+      "target_gender": "male",
+      "cause_raw": "breaking promises",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2237_bolly",
+      "emotion": "shame",
+      "dialogue": "No need to say sorry. He only farted, not like he set-off a bomb. See Guddi, we've inherited farting from our elders. Forget it..Don't feel ashamed if you farted. Only the one's who are alive are farting. Wow.. that's unbelievable.",
+      "target_person": "Guddi",
+      "target_gender": "female",
+      "cause_raw": "farting in public",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p1153_bolly",
+      "emotion": "pride",
+      "dialogue": "Just a second, uncle. Guys, please get up..get up. Today is a proud day for SD. The old man who insulted me in the party yesterday. He wants to say a few words in my praise.",
+      "target_person": "SD",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1154_bolly",
+      "emotion": "pride",
+      "dialogue": "She's asleep. Let her sleep. I'll close the door otherwise she will stan walking in her sleep again. Haroon..the pride of Pakistan. Target Pakistan. Soon you'll teach your father how to sneak into your neighbor's home.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's skills",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

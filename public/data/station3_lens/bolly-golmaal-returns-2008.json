@@ -1,0 +1,107 @@
+{
+  "film": {
+    "id": "14546",
+    "title": "Golmaal Returns",
+    "year": "2008",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2X6ZSlnBpgsOpH0ELDraWTD4QO7.jpg",
+    "overview": "Stuck all night on a yacht with a damsel in distress, Gopal lies to his soap opera junkie wife to avoid drama. This sets off a chain of chaotic events that ultimately land him smack dab in the middle of a police case."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 7
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2163_bolly",
+      "emotion": "shame",
+      "dialogue": "Is this what you do at work all day? - Ekta..Have an affair with whosoever you can get your hands on? Why don't you listen.. - You don't have an answer, do you? But I.. - Shame on you, Gopal! Shut up! Now I'll talk, and you'll listen. Sir! I'm feeling much more confident now.",
+      "target_person": "Gopal",
+      "target_gender": "male",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2164_bolly",
+      "emotion": "shame",
+      "dialogue": "What can I possibly do in 1 5 minutes? Tell her something! - Lucky, don't you dare say a single word! Shame on you, Gopal. The whole world is condemning you! Even the neighbors know the number of your car.",
+      "target_person": "Gopal",
+      "target_gender": "male",
+      "cause_raw": "Infidelity or inappropriate behavior",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2165_bolly",
+      "emotion": "shame",
+      "dialogue": "Of course not, silly! Why would I? You'll stay with me. - Thank you, Sister-in-law. You're so sweet. Gopal should be ashamed of himself! I'm ashamed to call him my brother. How sad! It'll be fine, okay?",
+      "target_person": "Gopal",
+      "target_gender": "male",
+      "cause_raw": "poor treatment of family",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2166_bolly",
+      "emotion": "shame",
+      "dialogue": "You'll stay with me. - Thank you, Sister-in-law. You're so sweet. Gopal should be ashamed of himself! I'm ashamed to call him my brother. How sad! It'll be fine, okay? Fishy..Sister-in-law!",
+      "target_person": "Gopal",
+      "target_gender": "male",
+      "cause_raw": "poor treatment of family members",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2167_bolly",
+      "emotion": "shame",
+      "dialogue": "I want Gopal, Mom! Gopal knows them too? Brother is so shameless. He knows them too. Come on. Mom, I want Gopal! Where's Gopal, Mom? Tell me, please.",
+      "target_person": "Gopal",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2168_bolly",
+      "emotion": "shame",
+      "dialogue": "No, you'll be caught. Go to the ladies' washroom. Tell him that by changing one's outfit....the person's gender doesn't change! Have some shame! If he goes to the ladies' washroom..Go to the ladies' washroom. No, go to the gents' washroom. - Go on! It seems as though it's going to snow in the mall.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "cross-dressing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2169_bolly",
+      "emotion": "shame",
+      "dialogue": "Let it be. I'll explain. I guess I'll have to tell you the truth. Actually, it's my shameless boss and his brother-in-law Gopal....who has put us in this sticky situation. Meera, the cops suspect that he murdered someone last Friday. But the boss says that he was at the Red Rhino disco that Friday....and that when he left the place, he saw a few goons....harassing a girl on Blue Cross street.",
+      "target_person": "boss and his brother-in-law Gopal",
+      "target_gender": "male",
+      "cause_raw": "suspected murder",
+      "theme_label": "Violence"
+    }
+  ]
+}

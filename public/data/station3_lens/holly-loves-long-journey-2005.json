@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "20583",
+    "title": "Love's Long Journey",
+    "year": "2005",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/bYPJFCO5h2Cd46ObIqeuelNX8EW.jpg",
+    "overview": "Missie's surprise pregnancy sets her on a new course that is both thrilling and terrifying. After all the planning and dreaming, she and her husband Willie are headed west in a covered wagon, leaving behind the prairie home of Missie's parents. Now, caught between the excitement of the new adventure and the pain of not knowing when she'll see her family again, Missie copes with the challenges, and cherishes the rewards, of her new homestead."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 3
+    },
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP453_holly",
+      "emotion": "pride",
+      "dialogue": "Willie, bring some forks when you come.  Welcome, folks. - Thank you, sir.  Frank Taylor. Proud owner of the greatest general store in this parts.  Oh, Missie LaHaye. And this is my husband, Willie.  Pleasure. You folks just passing through?",
+      "target_person": "Frank Taylor",
+      "target_gender": "male",
+      "cause_raw": "owning the greatest general store",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP454_holly",
+      "emotion": "pride",
+      "dialogue": "This way. Hyah!  How do, Miss LaHaye?  My dearest Missie, the prospect of being grandparents... fills us with such joy and pride.  fills us with such joy and pride.  I can only imagine how happy you must be.",
+      "target_person": "Miss LaHaye's parents",
+      "target_gender": "unclear",
+      "cause_raw": "becoming grandparents",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP455_holly",
+      "emotion": "pride",
+      "dialogue": "How do, Miss LaHaye?  My dearest Missie, the prospect of being grandparents... fills us with such joy and pride.  fills us with such joy and pride.  I can only imagine how happy you must be.  And by now, I'm sure you've shared the happy news with that hard-working son-in-law of mine.",
+      "target_person": "Miss LaHaye's parents",
+      "target_gender": "unclear",
+      "cause_raw": "becoming grandparents",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP456_holly",
+      "emotion": "pride",
+      "dialogue": "They'd say, \"Good for you, Sonny.  Trying to make a life for you and your little brother.\"  So you think... they're looking down from heaven right now, and they're proud of you?  they're looking down from heaven right now, and they're proud of you?  Aren't you tired of living in that boardinghouse?",
+      "target_person": "Sonny",
+      "target_gender": "male",
+      "cause_raw": "trying to make a life for him and his little brother",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP457_holly",
+      "emotion": "pride",
+      "dialogue": "Trying to make a life for you and your little brother.\"  So you think... they're looking down from heaven right now, and they're proud of you?  they're looking down from heaven right now, and they're proud of you?  Aren't you tired of living in that boardinghouse?  Huh? No place that's really yours?",
+      "target_person": "parents",
+      "target_gender": "unclear",
+      "cause_raw": "making a life for sibling",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP458_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, no, forgiveness is yours, Sonny.  He'll be with us now, I promise.  You grow up to be a man... that Pa would be proud of, you hear me,Jeff?  that Pa would be proud of, you hear me,Jeff?  I will.",
+      "target_person": "Jeff",
+      "target_gender": "male",
+      "cause_raw": "growing up to be a man his father would be proud of",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP459_holly",
+      "emotion": "pride",
+      "dialogue": "He'll be with us now, I promise.  You grow up to be a man... that Pa would be proud of, you hear me,Jeff?  that Pa would be proud of, you hear me,Jeff?  I will.  And you promise me you won't spend your days missing me.",
+      "target_person": "Jeff",
+      "target_gender": "male",
+      "cause_raw": "growing up to be a man his father would be proud of",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP460_holly",
+      "emotion": "pride",
+      "dialogue": "Matthew has your eyes... and hopes to see his granddaddy soon. - Bye, Henry.  and hopes to see his granddaddy soon. - Bye, Henry.  Jeffhas thrived, and Willie and I are very proud... he has taken the name of LaHaye.  he has taken the name of LaHaye.  Bye-bye, Scottie.",
+      "target_person": "Willie and speaker",
+      "target_gender": "male",
+      "cause_raw": "Jeff taking the name of LaHaye",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

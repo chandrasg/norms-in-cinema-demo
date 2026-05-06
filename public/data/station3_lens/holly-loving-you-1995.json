@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "160342",
+    "title": "Loving You",
+    "year": "1995",
+    "industry": "holly",
+    "country": "HK",
+    "poster_path": "/8a9ArSqoWg5aYopKlWfvvbAANSq.jpg",
+    "overview": "A man re-evaluates his life after being given a second chance. When seedy cop Liu Chen-hai is shot, he is forced to do some soul-searching about his old life."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1115_holly",
+      "emotion": "shame",
+      "dialogue": "Well, you're getting it.  Yeah, I'm getting it. This is so good  I'm ashamed for not having planted it.  By the time I get through with this demonstration,  your front page won't be big enough to handle it.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "not planting something earlier",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS1116_holly",
+      "emotion": "shame",
+      "dialogue": "Back to Woodbine Cemetery to start over?  I never meant for anybody to say I'm--  It sounds like folks ought to be ashamed  Just listening to me sing.  What you're really saying is... - it's all my fault. - Oh no.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "causing discomfort or embarrassment",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP2104_holly",
+      "emotion": "pride",
+      "dialogue": "wise guys full of their own future,  ready to spit in the first eye that doesn't light up to them.  You're a boy any man would be proud to have as a son.  More than that, we're real pals-- partners.  - Somebody to go places with. - Thank you.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being a son any man would be proud of",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP2105_holly",
+      "emotion": "pride",
+      "dialogue": "but Mr. Warner needed him so bad  that he knew he'd be better off singing than working in a store.  All of us back in Delville are proud of the success he's made.  Those stories in the paper aren't all true.  I sneaked into Deke's dressing room on a dare, that's all.",
+      "target_person": "All of us back in Delville",
+      "target_gender": "unclear",
+      "cause_raw": "the success he's made",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

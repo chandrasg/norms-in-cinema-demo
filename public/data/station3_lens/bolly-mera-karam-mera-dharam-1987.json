@@ -1,0 +1,81 @@
+{
+  "film": {
+    "id": "604175",
+    "title": "Mera Karam Mera Dharam",
+    "year": "1987",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/bmPSBJvF0zjxpzFHT7E6aOmpnUy.jpg",
+    "overview": "Ajay Shankar Sharma and his mom, Shivani, live a poor lifestyle until one day when Shankar's maternal uncle, Deviprasad, comes to visit them and bequeaths a large estate and wealth for their well-being, on the condition that they improve their home-town Sundergarh, the responsibility of which lies on Deviprasad's son, Sarjuprasad."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Invasion of Privacy",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3540_bolly",
+      "emotion": "shame",
+      "dialogue": "BUt todaY I have come to KnoW that he is a qreat soUl. And that is YoU. - YoU are verY intelliqent. shameless qirl. That is WhY YoU Were verY haPPY While cominq. What are YoU laUqhinq for?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being happy and outgoing",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3541_bolly",
+      "emotion": "shame",
+      "dialogue": "This is our duty. Duty is religion. We know about it. We are ashamed about it. We know about it. We are ashamed about it. Work is worship.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "not fulfilling their duty",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3542_bolly",
+      "emotion": "shame",
+      "dialogue": "We know about it. We are ashamed about it. We know about it. We are ashamed about it. Work is worship. Work is worship. We've got the excitement In our hearts.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s3543_bolly",
+      "emotion": "shame",
+      "dialogue": "It's locked in the store room. Mother. - Why come here? Mother. - Go away from here. You do not have shame. You've made me ashamed. Sister-in-law. Sister-in-law.s pets. Come.",
+      "target_person": "character",
+      "target_gender": "female",
+      "cause_raw": "intruding in private space",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s3544_bolly",
+      "emotion": "shame",
+      "dialogue": "Mother. - Why come here? Mother. - Go away from here. You do not have shame. You've made me ashamed. Sister-in-law. Sister-in-law.s pets. Come. What do you do? - Stay away.",
+      "target_person": "Mother",
+      "target_gender": "female",
+      "cause_raw": "Intruding personal space",
+      "theme_label": "Invasion of Privacy"
+    }
+  ]
+}

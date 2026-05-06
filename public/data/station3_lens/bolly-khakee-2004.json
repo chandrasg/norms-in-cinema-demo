@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "21665",
+    "title": "Khakee",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/dMsqwWFl51t8jXR0tWzjEuO8H4l.jpg",
+    "overview": "DCP Anant and his team get tasked with escorting an alleged terrorist to Mumbai. However, a rogue ex-police officer makes their task difficult as he tries to stop them from reaching their destination."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1574_bolly",
+      "emotion": "pride",
+      "dialogue": "It was a very high-level meeting  The Commissioner, Mr. Naidu, and even the Minister... chose your husband to go on this very important mission  It ought to be a matter of pride for you   Oh yes, I'm proud too  There's also a wedding in the family in 12 days, Mr. DCP",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "husband's professional achievement",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1575_bolly",
+      "emotion": "pride",
+      "dialogue": "The Commissioner, Mr. Naidu, and even the Minister... chose your husband to go on this very important mission  It ought to be a matter of pride for you   Oh yes, I'm proud too  There's also a wedding in the family in 12 days, Mr. DCP  As far as the DCP is concerned, he's not going to be present at the wedding",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "husband's professional achievement",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1576_bolly",
+      "emotion": "pride",
+      "dialogue": "And she'll be the one to fire the first bullet at me  If you don't take me with you, I'm going to follow you... to the very end. But, sir... follow you, I surely will   I'm proud of you, Inspector Shekhar  Even in death, you have performed your duty   No... try to understand, Anant",
+      "target_person": "Anant",
+      "target_gender": "male",
+      "cause_raw": "Inspector Shekhar's duty performance",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

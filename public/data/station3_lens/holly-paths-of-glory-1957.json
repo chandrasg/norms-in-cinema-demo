@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "975",
+    "title": "Paths of Glory",
+    "year": "1957",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/tJXwtzOSNUC8dxJfrdvkNtGrrgW.jpg",
+    "overview": "A commanding officer defends three scapegoats on trial for a failed offensive that occurred within the French Army in 1916."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS631_holly",
+      "emotion": "shame",
+      "dialogue": "Thankyou, Mr. Prosecutor.  Colonel, would you like to make your plea?  Gentlemen ofthe court, there are times when I'm ashamed... to be a member ofthe human race... and this is one such occasion.  and this is one such occasion.  It's impossible for me to summarize the case for the defense... since the court never allowed me a reasonable opportunity to present my case.",
+      "target_person": "Colonel",
+      "target_gender": "male",
+      "cause_raw": "not being allowed to present his case",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1290_holly",
+      "emotion": "pride",
+      "dialogue": "Sir, Private Ferol, Company ‘‘A.\"  - Uh-huh. Are you married, Private? - No, sir.  - Well, I'll bet your mother's proud ofyou. - Yes, sir.  - Well, carry on, Private, and good luck to you. - [ Gunshot Echoes ]  Yes, sir. Thankyou, sir.",
+      "target_person": "Private Ferol's mother",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1291_holly",
+      "emotion": "pride",
+      "dialogue": "- Well, let's have it. - Oh, it isn't quite finished yet, sir.  That's all, Corporal. You did a good night's work.  Should feel very proud ofyourself. Go get some sleep.  Yes, sir.  - How'd you lose Lejeune? - Machine gun fire, sir.",
+      "target_person": "Corporal",
+      "target_gender": "male",
+      "cause_raw": "good night's work",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

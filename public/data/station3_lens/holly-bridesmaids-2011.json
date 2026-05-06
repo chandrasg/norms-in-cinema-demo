@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "55721",
+    "title": "Bridesmaids",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/gJtA7hYsBMQ7EM3sPBMUdBfU7a0.jpg",
+    "overview": "Annie's life is a mess. But when she finds out her lifetime best friend is engaged, she simply must serve as Lillian's maid of honor. Though lovelorn and broke, Annie bluffs her way through the expensive and bizarre rituals. With one chance to get it perfect, she’ll show Lillian and her bridesmaids just how far you’ll go for someone you love."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1719_holly",
+      "emotion": "pride",
+      "dialogue": "So let me just say,  Lillian, you are my best friend.  And I'm so proud of you.  Sorry. And, Dougly... I'm sorry, inside joke.  I'm sorry, inside joke.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "being best friends with Lillian",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1720_holly",
+      "emotion": "pride",
+      "dialogue": "- Cheers. - Cheers.  Cheers to Lil!  This is such a stone-cold pack of weirdos, and I'm so proud.  And I just want to toast all of you ladies.  I'm so happy to get to know you guys,",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "getting to know a group of ladies",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1721_holly",
+      "emotion": "pride",
+      "dialogue": "so she could sit in first class,  but she said no.  She's too proud.  It was nice of you to offer.  No carry-on, huh?",
+      "target_person": "She",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1722_holly",
+      "emotion": "pride",
+      "dialogue": "And if you are going to act like this,  then don't even bother coming to my wedding!  I'm proud of you, Lil.  Shut up, Helen!  Anybody else have anything they want to share today?",
+      "target_person": "Helen",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

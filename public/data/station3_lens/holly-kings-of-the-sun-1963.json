@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "80027",
+    "title": "Kings of the Sun",
+    "year": "1963",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/luWboioLUipYdlcfolprXoMi2Fm.jpg",
+    "overview": "In order to flee from powerful enemies, young Mayan king Balam leads his people north across the Gulf of Mexico to the coast of what will become the United States. They build a home in the new land but come into conflict with a tribe of Native Americans led by their chief, Black Eagle, while both Balam and Black Eagle fall in love the beautiful Mayan princess Ixchel."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1727_holly",
+      "emotion": "pride",
+      "dialogue": "-The king vows this? -By the gods, I swear it.  Obey the king!  Why did you do that? Do you think I have no pride?  When you share his throne, you will have no need to speak of pride.  Hurry! Load as fast as you can!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1728_holly",
+      "emotion": "pride",
+      "dialogue": "Obey the king!  Why did you do that? Do you think I have no pride?  When you share his throne, you will have no need to speak of pride.  Hurry! Load as fast as you can!  BALAM: Hurry!",
+      "target_person": "Balam",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1729_holly",
+      "emotion": "pride",
+      "dialogue": "I'd never leave your side except... Balam.  Balam.  I'm proud that you would fight for me and grateful.  But I know what I felt when I thought he was going to die.  After his words to you he should have died.",
+      "target_person": "Balam",
+      "target_gender": "male",
+      "cause_raw": "for willing to fight for someone",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

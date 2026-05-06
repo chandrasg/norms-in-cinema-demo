@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "277700",
+    "title": "Tera Jadoo Chal Gayaa",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ez14a6KSGmG17BXe8AI2MJeTPd2.jpg",
+    "overview": "When ad agency executive Pooja (Kirti Reddy) attends a wedding and meets lovable but broke Kabir (Abhishek Bachchan), it's love at first sight -- but only for Kabir. Pooja heads back to her fast-track life and gets in dutch with the head honcho for prolonging her vacation. To save her job, a co-worker explains Pooja's delay with a phony story about her engagement to Kabir, and all's well till she meets her dream man: the boss' son (Sanjay Suri)."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4375_bolly",
+      "emotion": "shame",
+      "dialogue": "Tell me one thing brother. Where have you guys come from? From Bombay. - Oh, you're from Bombay? Why do you so misbehave and bring shame to Bombayites. Bombayites are so lovely and beautiful people. Look at yourself... and look at...How do I look?",
+      "target_person": "Bombayites",
+      "target_gender": "unclear",
+      "cause_raw": "misbehavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4376_bolly",
+      "emotion": "shame",
+      "dialogue": "That dog refused to eat it. And you want to feed it to human beings. You want to spend on packing. Do you think people are fools. I'm ashamed to call you my fiancee. No my daughter, let him speak. He is the first man to speak the truth on my face without any greed.",
+      "target_person": "fiancee",
+      "target_gender": "female",
+      "cause_raw": "poor quality of food",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4377_bolly",
+      "emotion": "shame",
+      "dialogue": "Tell me one thing brother. Where have you guys come from? From Bombay. - Oh, you're from Bombay? Why do you so misbehave and bring shame to Bombayites. Bombayites are so lovely and beautiful people. Look at yourself... and look at...How do I look?",
+      "target_person": "Bombayites",
+      "target_gender": "unclear",
+      "cause_raw": "misbehavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4378_bolly",
+      "emotion": "shame",
+      "dialogue": "That dog refused to eat it. And you want to feed it to human beings. You want to spend on packing. Do you think people are fools. I'm ashamed to call you my fiance. No my daughter, let him speak. He is the first man to speak the truth......on my face without any greed.",
+      "target_person": "fiance",
+      "target_gender": "male",
+      "cause_raw": "poor quality of food",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2416_bolly",
+      "emotion": "pride",
+      "dialogue": "Now I can believe. Agra is famous for two things. First Taj Mahal and the you! Don't be too proud you frivolous boy, else you'll be head broken. Do you see sister! This man can't tolerate my happiness. Ignore this jealous man. You look fabulous in this dress.",
+      "target_person": "frivolous boy",
+      "target_gender": "male",
+      "cause_raw": "being compared to Taj Mahal",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2417_bolly",
+      "emotion": "pride",
+      "dialogue": "Now I can believe. Agra is famous for 2 things. First Taj Mahal and the you! Don't be too proud you frivolous boy, else you'll be heart broken. Do you see sister! This man can't tolerate my happiness. Ignore this jealous man. You look fabulous in this dress.",
+      "target_person": "frivolous boy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

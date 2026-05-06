@@ -1,0 +1,69 @@
+{
+  "film": {
+    "id": "23706",
+    "title": "All About Steve",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/k7lmf0OeOpQLUoTRLG7e5JZ7H4B.jpg",
+    "overview": "After one short blind date, Mary Horowitz, a brilliant and eccentric crossword constructor, is convinced that Steve, a CCN cameraman, is her soul mate. Because his job takes him hither and yon, she crisscrosses the country following Steve, with the encouragement of a reporter, turning up at media events he's at to convince him they are perfect for each other. Along the way, she befriends an assortment of misfits who accept her for who she is, leading her to reassess her reasons for this strange journey."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2581_holly",
+      "emotion": "pride",
+      "dialogue": "I was born with a vestigial penis. That means a penis hanging outside the body.  You know, like yours. I'm talking about a ding-a-ling. Know what I'm saying?  And it was pretty good size. I was kind of proud of it. I got to be in seventh grade.  I used to work it, hang it on the side in gym class. I got all the attention.  Now there's just a big old scar. Can you feel it? Can you feel that scar?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "having a large penis",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2582_holly",
+      "emotion": "pride",
+      "dialogue": "Hard to fill those boots, huh?  Got killed before I ever had a chance to say good-bye to him.  Yeah, if I ever get that anchor desk... he's gonna be really proud of me in heaven.  he's gonna be really proud of me in heaven.  Well, looks like we found the eye of the storm, guys.",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "getting the anchor desk",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2583_holly",
+      "emotion": "pride",
+      "dialogue": "Got killed before I ever had a chance to say good-bye to him.  Yeah, if I ever get that anchor desk... he's gonna be really proud of me in heaven.  he's gonna be really proud of me in heaven.  Well, looks like we found the eye of the storm, guys.  Holy s**t. There's Mary.",
+      "target_person": "character",
+      "target_gender": "female",
+      "cause_raw": "getting the anchor desk",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2584_holly",
+      "emotion": "pride",
+      "dialogue": "Whoo!  - They're safe! - Ah!  - # No love, pride, deep-fried chicken #  # Your best friend always stickin' up for you #  - # Even when I know you're wrong # - Look at him!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

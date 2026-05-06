@@ -1,0 +1,110 @@
+{
+  "film": {
+    "id": "166256",
+    "title": "Main Madhuri Dixit Banna Chahti Hoon",
+    "year": "2003",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/dMifCeWWAeaFLiJd2VfIVJyN4L3.jpg",
+    "overview": "The story of a girl in a small North Indian town who is an obsessive fan of top Hindi movie star Madhuri Dixit, and dreams of moving to Mumbai to become a film heroine herself."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 5
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3416_bolly",
+      "emotion": "shame",
+      "dialogue": "Wasn't she dancing. . . in front of the whole village? And you're just not concerned? You are getting irritated as if it was a shameful act Dance is an art form. . . It's been around since the times of the kings. . . Not an art! It's a disgrace!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "dancing in public",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s3417_bolly",
+      "emotion": "shame",
+      "dialogue": "Everybody has rejected me anyway It's all so clear, I have nothing Even you must be ashamed to be with me, isn't it? So go away now. . . I'm too ashamed I will feel ashamed to be with you. . . ! ?",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "personal failure",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3418_bolly",
+      "emotion": "shame",
+      "dialogue": "It's all so clear, I have nothing Even you must be ashamed to be with me, isn't it? So go away now. . . I'm too ashamed I will feel ashamed to be with you. . . ! ? I. . . ! ?",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "poverty or lack of wealth",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3419_bolly",
+      "emotion": "shame",
+      "dialogue": "Even you must be ashamed to be with me, isn't it? So go away now. . . I'm too ashamed I will feel ashamed to be with you. . . ! ? I. . . ! ? This thing about your film. . . I really can't figure it out",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "association with the other person",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3420_bolly",
+      "emotion": "shame",
+      "dialogue": "But I still believe. . . that you are simply the best. The best And you're saying, I'll be ashamed to be with you. . .? I have always treated your goals as mine, Chutki I've always wanted you to be happy. . . and you ask me to go away. . .?",
+      "target_person": "Chutki",
+      "target_gender": "female",
+      "cause_raw": "not fulfilling partner's expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1807_bolly",
+      "emotion": "pride",
+      "dialogue": "What am I going to do here? I'm not interested in counting buffaloes. . . and ploughing the fields. So I thought I should go to Bombay. . . and do you proud. Fantastic! Haven't you done me enough proud here, already? That now you want to spread the word in Bombay too?",
+      "target_person": "speaker 2",
+      "target_gender": "unclear",
+      "cause_raw": "speaker 1's decision to move to Bombay",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1808_bolly",
+      "emotion": "pride",
+      "dialogue": "and ploughing the fields. So I thought I should go to Bombay. . . and do you proud. Fantastic! Haven't you done me enough proud here, already? That now you want to spread the word in Bombay too? Get those silly ideas of business out of your head",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

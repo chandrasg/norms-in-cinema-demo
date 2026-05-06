@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "41188",
+    "title": "Bhagam Bhag",
+    "year": "2006",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/wJqdwEgMiMzU0zIEnKBWEbTfeUS.jpg",
+    "overview": "After their lead actress quits their drama troupe; Bunty, Babla and their boss Champak search for a new heroine in London where they have just arrived, and get embroiled in a murder case involving a mysterious woman."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s542_bolly",
+      "emotion": "shame",
+      "dialogue": "I will bury you alive! - The guy is hitting me! Leave him! Aren't you ashamed! Go and apologize to the girl! Go! Go and apologise! Remember one thing!",
+      "target_person": "guy",
+      "target_gender": "male",
+      "cause_raw": "physical assault",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s543_bolly",
+      "emotion": "shame",
+      "dialogue": "But we do know! Even if we died, still this miser......won't give money for our shroud. You don'! know! Aren't you ashamed! For the past 2 days we have not eaten anything! Aren't you ashamed!",
+      "target_person": "miser",
+      "target_gender": "male",
+      "cause_raw": "not providing for family",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s544_bolly",
+      "emotion": "shame",
+      "dialogue": "You don'! know! Aren't you ashamed! For the past 2 days we have not eaten anything! Aren't you ashamed! I don't know anything about this money. I am speaking the truth. I don't know. I just saw the money.",
+      "target_person": "person being accused",
+      "target_gender": "male",
+      "cause_raw": "not providing for the family",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s545_bolly",
+      "emotion": "shame",
+      "dialogue": "Because the person who will drink your water......he won't achieve salvation. You are such a filthy man! You snatch children's meal! Aren't you ashamed! Bawla, let's go! Sir, look there!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "stealing from children",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s546_bolly",
+      "emotion": "shame",
+      "dialogue": "That even I know, your name is...Nor my name is Nisha, and nor is Vikram Chauhan my husband! Nisha Chauhan! Vikram Chauhan's real wife! You are lying so much! Aren't you ashamed! You have been lying to me since the day I met you! Look at your face! You look so innocent!",
+      "target_person": "Nisha",
+      "target_gender": "female",
+      "cause_raw": "lying and deception",
+      "theme_label": "Dishonesty"
+    }
+  ]
+}

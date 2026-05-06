@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "471892",
+    "title": "Shubh Mangal Saavdhan",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/2vqW0VNvaQYSarPQtqHTRkOKQq8.jpg",
+    "overview": "A couple fall in love but then the groom discovers that he suffers from erectile dysfunction."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 3
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4176_bolly",
+      "emotion": "shame",
+      "dialogue": "What a pathetic man! That's no way to talk to children. No shame at all. - What happened? He was just asking where do I plug in the charger......and he said to plug it in here. Mom. - Hmm?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior with children",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4177_bolly",
+      "emotion": "shame",
+      "dialogue": "He accosts me. He stalks me on my way to Yamuna Shameless, jobless When he throws a stone my pot breaks Smooth talker, he enchants me",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "stalking and harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4178_bolly",
+      "emotion": "shame",
+      "dialogue": "You see, mom and dad were out of town one day. So his daughter I got a little too close. I mean physical... - Physical...You should be ashamed! - I swear I felt ashamed. But how much shame can you feel when you're 26? Right. - I mean... why feel ashamed?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior with a girl",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4179_bolly",
+      "emotion": "shame",
+      "dialogue": "So his daughter I got a little too close. I mean physical... - Physical...You should be ashamed! - I swear I felt ashamed. But how much shame can you feel when you're 26? Right. - I mean... why feel ashamed? So that happened... I mean, it didn't happen.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior with a girl",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4180_bolly",
+      "emotion": "shame",
+      "dialogue": "I mean physical... - Physical...You should be ashamed! - I swear I felt ashamed. But how much shame can you feel when you're 26? Right. - I mean... why feel ashamed? So that happened... I mean, it didn't happen. Nothing happened.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "engaging in physical relations",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "p2263_bolly",
+      "emotion": "pride",
+      "dialogue": "And, even my sugar levels have normalized. Wow Vimla, you were amazing. I am really proud of you. You're looking fantastic. Brother, what do you think?",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "Vimla's health improvement",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

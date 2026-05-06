@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "470641",
+    "title": "Mukkabaaz",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/qZP2VQwx6prmTbxWyolkhl3QYDU.jpg",
+    "overview": "A low caste boxer, Shravan, trains at a gym controlled by a local Don, Mishra. Shravan falls for Mishra's niece, Sunaina. Mishra does not approve of this match. Shravan strives to win Sunaina's hand in marriage and become a successful boxer while trying to avoid retaliation from Mishra."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 3
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3677_bolly",
+      "emotion": "shame",
+      "dialogue": "If that's what you aim for, then why be a boxer! Be a sharp-shooter ! Stop laughing, shameless ! This is exactly why everyone looks down upon our sports. Mohan! Just saw your video.",
+      "target_person": "Mohan",
+      "target_gender": "male",
+      "cause_raw": "not taking sports seriously",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3678_bolly",
+      "emotion": "shame",
+      "dialogue": "Of course ! With a gun to our heads, You shamed us to dance! You shamed us to dance! You shamed us to dance!",
+      "target_person": "dancer",
+      "target_gender": "unclear",
+      "cause_raw": "forced to dance",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3679_bolly",
+      "emotion": "shame",
+      "dialogue": "With a gun to our heads, You shamed us to dance! You shamed us to dance! You shamed us to dance! Smearing black ink on our faces,",
+      "target_person": "dancers",
+      "target_gender": "unclear",
+      "cause_raw": "forced to dance",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3680_bolly",
+      "emotion": "shame",
+      "dialogue": "You shamed us to dance! You shamed us to dance! You shamed us to dance! Smearing black ink on our faces, You disgraced us in a parade!",
+      "target_person": "dancer",
+      "target_gender": "unclear",
+      "cause_raw": "forced to dance",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1950_bolly",
+      "emotion": "pride",
+      "dialogue": "I had to get flour. Is this how you're going to create a Mike Tyson, coach? It wasn't my jab, that started the brawl ...It wasn't my punch, that brought my fall...Sound of my chains, is silence no more...The fall of your pride, that had no reason...This fancy love, my plight to treason...To speak up the truth, is defiance no more...Cut and hooks Crips and blood Broken bones...knee deep in s**t...It had to be...what was to be...It had to be...what was to be...It had to be...what was to be...Brawl and Broil...A Battle Royale...Brawl and Broil...A Battle Royale...Black n blue...Kicks in Groin...You're my friends! (OS) What's happening?!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1951_bolly",
+      "emotion": "pride",
+      "dialogue": "Come death, come defeat, We'll fight to the hilt! For all your pride, to hell with you! To hell with obedience ! Screaming to the skies, to hell with you!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1952_bolly",
+      "emotion": "pride",
+      "dialogue": "Then... a left hook... bob and weave...Left to right... right to left.....like your mother used to knit. We made it with old tyres and tubes...... because the funds released by the boxing federation were either used......by the officials to buy a holiday-home......or a sparkle for his wife's finger. Your false 'Warrior' pride will never let you learn. What's my mistake ? A jab coming from the elbow has no strength.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

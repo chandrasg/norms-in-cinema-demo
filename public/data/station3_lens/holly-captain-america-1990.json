@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "13995",
+    "title": "Captain America",
+    "year": "1990",
+    "industry": "holly",
+    "country": "US|YU|HR|SI",
+    "poster_path": "/vdHrLFfHcJX9nlvUfG3LK2a2hq4.jpg",
+    "overview": "During World War II, a brave, patriotic American Soldier undergoes experiments to become a new supersoldier, \"Captain America\". Racing to Germany to sabotage the rockets of Nazi baddie \"Red Skull\", Captain America winds up frozen until the 1990s. He reawakens to find that the Red Skull has changed identities and is now planning to kidnap the President of the United States."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP303_holly",
+      "emotion": "pride",
+      "dialogue": "But without Dr. Erskine, it would take years.  He deserved more than this.  If it could work only once, he'd be proud it was you.  Colonel Phillips, my committee is demanding answers.  Great. Why don't we start with how",
+      "target_person": "Dr. Erskine",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP304_holly",
+      "emotion": "pride",
+      "dialogue": "but, in reality, you are just afraid  to admit that we have left humanity behind.  Unlike you, I embrace it proudly.  Without fear!  Then how come you're running?",
+      "target_person": "speaker 2",
+      "target_gender": "male",
+      "cause_raw": "embracing non-humanity",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP861_holly",
+      "emotion": "pride",
+      "dialogue": "But without Dr. Erskine, it would take years.  He deserved more than this.  If it could work only once, he'd be proud it was you.  Colonel Phillips, my committee is demanding answers.  Great. Why don't we start with how",
+      "target_person": "Dr. Erskine",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP862_holly",
+      "emotion": "pride",
+      "dialogue": "but, in reality, you are just afraid  to admit that we have left humanity behind.  Unlike you, I embrace it proudly.  Without fear!  Then how come you're running?",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "embracing leaving humanity behind",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

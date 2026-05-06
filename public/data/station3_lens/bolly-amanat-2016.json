@@ -1,0 +1,138 @@
+{
+  "film": {
+    "id": "418661",
+    "title": "Amanat",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "KZ",
+    "poster_path": "/3xM0JlIBXiURjfWQgE1fH6j9Xjs.jpg",
+    "overview": "A story that spans three periods in Kazakh history, it links mid 19th century struggles against the Russians to two 20th century episodes revolving around the fate of former political prisoner Ermukhan Bekmakhanov, who was sentenced to 25 years imprisonment for writing historical books about Kazakh national hero Kenesary Kasymov and his national liberation movement."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 3
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s30_bolly",
+      "emotion": "shame",
+      "dialogue": "Black marketers are now in the open. And the thieves too Politics is in a great mess Shame on this system. There's no democracy Get rid of these politicians The gong has struck..''Our hearts are swaying to it's beats''",
+      "target_person": "System",
+      "target_gender": "unclear",
+      "cause_raw": "poor law and regulations",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s31_bolly",
+      "emotion": "shame",
+      "dialogue": "The woman are depressed, there's no sign of water Let the rains shower and fill our well's with water Their tears have dried up. Whereas we die of shame We starve. Whereas the bugs have their fill with our blood What difference does it make? You enjoy yourself",
+      "target_person": "women",
+      "target_gender": "female",
+      "cause_raw": "lack of basic amenities",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s32_bolly",
+      "emotion": "shame",
+      "dialogue": "You couldn't even do such a small thing. You just had to snatch a bag. - Great, my son! I'm ashamed to call you my son. The thieves too spare their house but you..You robbed your own house. You want to rob your father? When a father doesn't care for his son, then the son.... is helpless to take such a step.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "theft and betrayal",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s33_bolly",
+      "emotion": "shame",
+      "dialogue": "Only a few days for the month to be complete. What later? How will we get the water? Shameless people! He sold off his land..and arranged water for you. And you abuse him instead? She's right. We ought to be ashamed Will anyone amongst us give his savings for a tube well?",
+      "target_person": "villagers",
+      "target_gender": "unclear",
+      "cause_raw": "not appreciating someone's sacrifice",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s34_bolly",
+      "emotion": "shame",
+      "dialogue": "What later? How will we get the water? Shameless people! He sold off his land..and arranged water for you. And you abuse him instead? She's right. We ought to be ashamed Will anyone amongst us give his savings for a tube well? Is he only responsible for getting water for you people?",
+      "target_person": "villagers",
+      "target_gender": "unclear",
+      "cause_raw": "not taking responsibility and blaming others",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s35_bolly",
+      "emotion": "shame",
+      "dialogue": "I know, you tried to steal just to relieve my tension Didn't you think, you would get defamed? People will call you a thief. This world..Enough! I'm already ashamed of myself. Please don't make me feel guilty What are you saying?",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s36_bolly",
+      "emotion": "shame",
+      "dialogue": "But you are a murderer. You past is stained with someone's murder. I feel ashamed to call you my father I haven't murdered anyone. This is a plot hatched by him and his brother Lankeshwar",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "accused of murder",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "p20_bolly",
+      "emotion": "pride",
+      "dialogue": "Thakur, fear the God. You won't know when He strikes. Too much of pride will destroy you! Remember, they are dying of thirst. Their curse..will destroy your happiness. I curse you!",
+      "target_person": "Thakur",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p21_bolly",
+      "emotion": "pride",
+      "dialogue": "Look at this. Rajeshwar, have a look..He has sold off his land to Thakur Lankeshwar In exchange the Thakur will provide water.... to us for a month Bravo, my son! I'm proud of you! Go on, son! Our good wishes are with you Tea! Hot tea!",
+      "target_person": "Rajeshwar",
+      "target_gender": "male",
+      "cause_raw": "selling land for community benefit",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p22_bolly",
+      "emotion": "pride",
+      "dialogue": "You said, the entire village had drowned in tears And now when I've got the tube well for your village..your conscience p****s you You speak of pride now?! I'm not donating this tube well to you..it's like a loan. When you are capable to repay..you can come over. He's right. We too take things on credit from each other.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

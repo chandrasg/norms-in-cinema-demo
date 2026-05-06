@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "376873",
+    "title": "Rocky Handsome",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/x6jfeYy7KTBk4eS0kMUHTd4sGtZ.jpg",
+    "overview": "A vengeful man embarks on a murderous rampage after the kidnapping of a 7-year-old girl."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1695_bolly",
+      "emotion": "shame",
+      "dialogue": "But take this...It can be useful...Protects you from evil. If this is with you...Nobody can harm you. Handsome...you're ashamed to say...That you know me. Everyone pretends... that they don't know me. Even at School.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "association with a socially undesirable person",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1696_bolly",
+      "emotion": "shame",
+      "dialogue": "You won't be able to find them again My lips which are like glasses (full of nectar) and these pink moments are all Yours Remove this cloth of shame/shyness slowly slowly. Life is limited to only tonight Tomorrow You'll be someplace else, and so will I.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "expressing sexual desires openly",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1697_bolly",
+      "emotion": "shame",
+      "dialogue": "You won't be able to find them again. My lips which are like glasses (full of nectar) and these pink moments are all Yours. Remove this cloth of shame/shyness slowly slowly. Speak, francis. Football's here.",
+      "target_person": "Francis",
+      "target_gender": "male",
+      "cause_raw": "not being able to find something",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1698_bolly",
+      "emotion": "shame",
+      "dialogue": "You won't be able to find them again My lips which are like glasses and these pink moments are all Yours Remove this cloth of shame slowly slowly,  Don't you know who I am? No.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "sexual objectification",
+      "theme_label": "Sexual Harassment"
+    }
+  ]
+}

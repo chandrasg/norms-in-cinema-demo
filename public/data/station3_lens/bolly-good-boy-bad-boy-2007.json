@@ -1,0 +1,106 @@
+{
+  "film": {
+    "id": "159434",
+    "title": "Good Boy, Bad Boy",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/mNXjhPcHC5XBVJlSjfhmCdKYAPb.jpg",
+    "overview": "Two college students exchange their classes after the college management mixed their identical names by mistake."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 3
+    },
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2193_bolly",
+      "emotion": "shame",
+      "dialogue": "You can't even tell the truth to the one you love! You know why? Because you are a coward, gutless. Shameful. I am disappointed. I am ashamed of both of you - But sir... - I don't want to hear anything!",
+      "target_person": "character being spoken to",
+      "target_gender": "unclear",
+      "cause_raw": "dishonesty and cowardice",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2194_bolly",
+      "emotion": "shame",
+      "dialogue": "Shameful. I am disappointed. I am ashamed of both of you - But sir... - I don't want to hear anything! Just leave me and get lost!",
+      "target_person": "two individuals",
+      "target_gender": "unclear",
+      "cause_raw": "disappointing behavior",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2195_bolly",
+      "emotion": "shame",
+      "dialogue": "But if I have lied, then you have lied to me too. By hiding that you are principle Awasthi's daughter. There is a limit of being shameless Raju. But it's obvious, that you don't know that limit. Whether papa forgives you or not......I can never forgive you.",
+      "target_person": "Raju",
+      "target_gender": "male",
+      "cause_raw": "lying and deceit",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p1141_bolly",
+      "emotion": "pride",
+      "dialogue": "After that you will be gone. Others' fathers say that my son will achieve something in life. My son will make his parents proud. But papa, to which destination you want me...Son, my destination is, I want that......you should not be Koi Mil Gaya's Hrithik. Son, be like Hrithik of Krish movie.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's achievement",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1142_bolly",
+      "emotion": "pride",
+      "dialogue": "But papa, to which destination you want me...Son, my destination is, I want that......you should not be Koi Mil Gaya's Hrithik. Son, be like Hrithik of Krish movie. Socialize like me. And make me proud. Why are you teaching wrong things to my son? What is in this?",
+      "target_person": "papa",
+      "target_gender": "male",
+      "cause_raw": "son's socialization",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1143_bolly",
+      "emotion": "pride",
+      "dialogue": "Because I am your sister. - Dad, I am... - Congrats, son. I am really proud that you are a bad boy. How can he do this? To rusticate the student for a trivial matter.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "son's rebellious behavior",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1144_bolly",
+      "emotion": "pride",
+      "dialogue": "It's a tie breaker question, go for it guys. BSS college. 'I am really proud of you, that you are a bad boy.' 'Today I feel sorry, that I am your sister.' 'Truth is the only solution to solve any grave problem.'",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "being a bad boy",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

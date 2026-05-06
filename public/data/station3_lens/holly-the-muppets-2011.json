@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "64328",
+    "title": "The Muppets",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/mOB0Hdm23NslPNDkZC9eueatW3b.jpg",
+    "overview": "When Kermit the Frog and the Muppets learn that their beloved theater is slated for demolition, a sympathetic human, Gary, and his puppet brother, Walter, swoop in to help the gang put on a show and raise the $10 million they need to save the day."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1523_holly",
+      "emotion": "shame",
+      "dialogue": "But what can we do?  [CHATTERING]  Listen, everybody, we've got nothing to be ashamed of. And you know why?  Well, because thanks to Walter here, we tried.  And if we failed, we failed together,",
+      "target_person": "Walter",
+      "target_gender": "male",
+      "cause_raw": "failure",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP2663_holly",
+      "emotion": "pride",
+      "dialogue": "before millions of people to prove you have what it takes  to become one of the Muppets. Good luck.  Up next, folks, I am proud to present a brand-new act  to the show. Introducing Walter.  [APPLAUDING] [INHALES DEEPLY]",
+      "target_person": "speaker before Walter",
+      "target_gender": "male",
+      "cause_raw": "introducing a new act to the show",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2664_holly",
+      "emotion": "pride",
+      "dialogue": "Nice work, everybody. [MUMBLES] Chickens, you're up next!  It's going rather nicely. We might just make this  And now I am pleased and proud to present  those princesses of poultry, Camilla and friends!  [\"FORGET YOU\" PLAYING]",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "presenting Camilla and friends",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

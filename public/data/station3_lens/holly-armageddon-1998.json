@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "95",
+    "title": "Armageddon",
+    "year": "1998",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+    "overview": "When an asteroid threatens to collide with Earth, NASA honcho Dan Truman determines the only way to stop it is to drill into its surface and detonate a nuclear bomb. This leads him to renowned driller Harry Stamper, who agrees to helm the dangerous space mission provided he can bring along his own hotshot crew. Among them is the cocksure A.J. who Harry thinks isn't good enough for his daughter, until the mission proves otherwise."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS706_holly",
+      "emotion": "shame",
+      "dialogue": "Kennedy, we see you. And you never looked so good.  I never told anybody this before but I hate flyin',  so it'd be an awful shame to die now.  That's easy for you to say. I owe 100 grand to a b****s loan shark... which I spent on a stripper named Molly Mounds.  which I spent on a stripper named Molly Mounds.",
+      "target_person": "Kennedy",
+      "target_gender": "male",
+      "cause_raw": "fear of flying and debt",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WP1396_holly",
+      "emotion": "pride",
+      "dialogue": "about everything.  I got somethin' comin' up. It's somethin' kinda big.  You just might be proud of me.  Would you do somethin' for me? Would you just give him this?  You don't have to, you don't have to tell him who it's from. Just... Hey, Noonan, you need ten grand?",
+      "target_person": "Noonan",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1397_holly",
+      "emotion": "pride",
+      "dialogue": "Always thought of you as a son.  Always.  But I'd be damn proud to have you marry Grace.  - Harry... - You take care of yourself.  - Harry, no! - I love you, pal.",
+      "target_person": "Harry",
+      "target_gender": "male",
+      "cause_raw": "for the character's decision to marry Grace",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP1398_holly",
+      "emotion": "pride",
+      "dialogue": "And everything good that I have inside of me, I have from you.  I love you so much, Daddy.  I'm so proud of you.  I'm so scared.  I'm so scared.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

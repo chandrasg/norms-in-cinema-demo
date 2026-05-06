@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "28597",
+    "title": "Problem Child 2",
+    "year": "1991",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/dnmw3F3rdbxb08zSdfHHMwfXMLI.jpg",
+    "overview": "Junior and his father, Ben, move from Cold River to Mortville. Junior becomes threatened by Ben's desire to date again and find a new mother for Junior, and sabotages each of his dates."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS800_holly",
+      "emotion": "shame",
+      "dialogue": "You home-breaker!  Oh, my kidney!  You bully!  Ben, shame on you!  Laser cannon locked on.  Fire laser cannon.  Finally, Dad's home.",
+      "target_person": "Ben",
+      "target_gender": "male",
+      "cause_raw": "bullying and home-breaking",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "WP1492_holly",
+      "emotion": "pride",
+      "dialogue": "This one's not getting away.  Gotcha!  - My first day of school. - I'm so proud of you.  You're such a good girl.  Junior, get out of this car. You are going to school!",
+      "target_person": "parent",
+      "target_gender": "female",
+      "cause_raw": "first day of school",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1493_holly",
+      "emotion": "pride",
+      "dialogue": "Are you the guy that was married to Debbie Claukinski?  Yeah, but then she left me.  She took my house, my money and my pride.  Well, I thought you'd like to know that she found herself a new guy  and they're out at the Saint Pierre Club, having fun at your expense.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1494_holly",
+      "emotion": "pride",
+      "dialogue": "Some educators underestimate the value of civics,  but I say, for the growing mind,  there's nothing more important than pride in your city.  This is Highway 39.  This is the Mortville Steel Mill.",
+      "target_person": "Educator",
+      "target_gender": "unclear",
+      "cause_raw": "pride in city",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP1495_holly",
+      "emotion": "pride",
+      "dialogue": "\"Can we go out on Friday night? On Saturday night?\"  \"How about Sunday night?\"  What's Dad's problem? Doesn't he have any pride?  Lemonade! Fresh-squeezed lemonade!  Lemonade! Fresh-squeezed lemonade!",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1496_holly",
+      "emotion": "pride",
+      "dialogue": "to unite these two wonderful people.  No! Dad, don't do it!  Go for it, Little Ben. Make me proud!  We are gathered together on this day of joy,  to unite you two wonderful p...",
+      "target_person": "Little Ben",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

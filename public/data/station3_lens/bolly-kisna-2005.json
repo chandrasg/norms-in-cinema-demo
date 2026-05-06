@@ -1,0 +1,106 @@
+{
+  "film": {
+    "id": "78701",
+    "title": "Kisna",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/b4homgKuE49RXW5d3aUW1C5bRtJ.jpg",
+    "overview": "The film is set in the India of the tumultuous 1930's when nationalists fighting for the country's independence rose up as one, urging the British to quit. At this time, a young Indian, Kisna befriends and then shields a British girl Katherine, from an enraged mob of nationalists including Kisna's own uncle and brother. Katherine is the young daughter of a ruthless British collector. Kisna takes it upon himself to escort Katherine to the safety of the British High Commission in New Delhi, who will arrange for her to board a ship home. A tender attraction develops between Kisna and Katherine during the journey, a love story that is torn between 'Karma' (the noble deed) and 'Dharma' (the duty). Laxmi, the Indian girl Kisna is engaged to, forms the third point in an emotional triangle involving the Indo-British romantic pair"
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Cultural Identity",
+      "count": 3
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3147_bolly",
+      "emotion": "shame",
+      "dialogue": "I am only saying that I want to marry Catherine. I want to protect her from all troubles. Shame. Shame on you. She's your friend's daughter! It is life, Jennifer. Relationships do change. Don't you trust me?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "wanting to marry friend's daughter",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1633_bolly",
+      "emotion": "pride",
+      "dialogue": "You want to give them shelter under my name? Isn't it? Yes. You've nothing to hide, instead you should be proud of it. Actually, they're in deep trouble. Ali told me the entire story... I'd like to meet them.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "helping others",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p1634_bolly",
+      "emotion": "pride",
+      "dialogue": "Kisna. Are you Kisna? - Yes. We're from the British India office. We're very proud of your victory. Please sign on this paper. Paper. Katherine and Jennifer Beckett believe your life's in danger.",
+      "target_person": "British India office",
+      "target_gender": "male",
+      "cause_raw": "Victory",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1635_bolly",
+      "emotion": "pride",
+      "dialogue": "I've to stay in my new born country. You've to go back to your country. Let's depart with pride...When you smile you look very beautiful...Just smile once...That was my Kisna! And our Kisna, too. Yes, yours too?",
+      "target_person": "Kisna",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1636_bolly",
+      "emotion": "pride",
+      "dialogue": "Remember this flute given by you? Kisna would play the same tune in solitude...He would hum a song seated at the banks of Devprayag. I felt jealous then...But now I'm proud of him. The love of two souls is far greater than any kind of love......That's what Kisna believed. Having loved and lost, and still loving till the end of time......is the greatest love... It's true love.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Kisna's love",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1637_bolly",
+      "emotion": "pride",
+      "dialogue": "Is your name Kisna? - Yes. We came from British High Commission. We are very proud of you. You need to sign this paper. Paper? - That you are not safe in India. Miss. Catherine Bracket and Mrs. Jennifer Bracket said so.",
+      "target_person": "British High Commission",
+      "target_gender": "unclear",
+      "cause_raw": "Kisna's actions",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1638_bolly",
+      "emotion": "pride",
+      "dialogue": "He used to sit on the river banks and hum something. I used to feel jealous at that time. But today.. I am proud of Kisna. The love of soul can't match physical love. Kisna always used to tell this.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Kisna's spiritual love",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

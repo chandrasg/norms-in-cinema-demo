@@ -1,0 +1,135 @@
+{
+  "film": {
+    "id": "333596",
+    "title": "Woodlawn",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/BJ1XNBBEiqaCM4SQhHYTrWqCfn.jpg",
+    "overview": "Love and unity in a school torn by racism and hate in the 1970s. A gifted high school football player must learn to embrace his talent and his faith as he battles racial tensions on and off the field."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 9
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 3
+    },
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS207_holly",
+      "emotion": "shame",
+      "dialogue": "let us lay aside every weight.  We have to run this race called life with patience.  Are you willing to run the race and put down the shame?  (congregation) Amen!  (pastor) Turn to your neighbor and say, \"Put it down.\"",
+      "target_person": "congregation",
+      "target_gender": "unclear",
+      "cause_raw": "not willing to let go of shame and run the race of life",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP430_holly",
+      "emotion": "pride",
+      "dialogue": "Really good.  [cheering]  Come here, baby!  Momma is so proud of you.  Great game, son. Great game.  Who is this?  This is Johnnie.",
+      "target_person": "Momma",
+      "target_gender": "female",
+      "cause_raw": "son's great game",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP431_holly",
+      "emotion": "pride",
+      "dialogue": "[congregation applauding]  Give Tony a round of applause.  We're proud of you, son, for how you are letting God  shine through you every day.  Yeah.",
+      "target_person": "Tony",
+      "target_gender": "male",
+      "cause_raw": "letting God shine through him every day",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP432_holly",
+      "emotion": "pride",
+      "dialogue": "Good football player too.  [laughing]  [school bell ringing]  I'm very proud.  I'm very proud.  (student) Hey, Uncle Tom.  They gonna turn on you.",
+      "target_person": "Uncle Tom",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP433_holly",
+      "emotion": "pride",
+      "dialogue": "[laughing]  [school bell ringing]  I'm very proud.  I'm very proud.  (student) Hey, Uncle Tom.  They gonna turn on you.  You see, we could use a voice like yours,",
+      "target_person": "Uncle Tom",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP434_holly",
+      "emotion": "pride",
+      "dialogue": "Them angels is crying!  [thunder rumbling]  I just wanna say that I am proud of all of you.  I'm proud of each and every one of you,  for the game that you played tonight",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "for playing a good game",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP435_holly",
+      "emotion": "pride",
+      "dialogue": "[thunder rumbling]  I just wanna say that I am proud of all of you.  I'm proud of each and every one of you,  for the game that you played tonight  and the men that you have become this season.",
+      "target_person": "coach",
+      "target_gender": "male",
+      "cause_raw": "team's performance and their growth",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP436_holly",
+      "emotion": "pride",
+      "dialogue": "But they ain't here to see Woodlawn vs. Banks.  They're here to see you.  You've given a lot of people hope, and I'm proud of you.  Look at me.  I'm proud of you.",
+      "target_person": "Unidentified speaker",
+      "target_gender": "unclear",
+      "cause_raw": "giving people hope",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP437_holly",
+      "emotion": "pride",
+      "dialogue": "You've given a lot of people hope, and I'm proud of you.  Look at me.  I'm proud of you.  Win or lose, you're my son.  N'?",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "giving people hope",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP438_holly",
+      "emotion": "pride",
+      "dialogue": "Did you see it?  I would not have missed it for the world.  I am so proud of you.  - All right, Tony! - Tony, you won us a big one.  [players celebrating]",
+      "target_person": "Tony",
+      "target_gender": "male",
+      "cause_raw": "winning a game or competition",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "60730",
+    "title": "Khubsoorat",
+    "year": "1980",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lwCpEyDpmkwocoFkEe8czZKemki.jpg",
+    "overview": "Nirmala Gupta rules her household with an iron fist. While most of her family resents it, they do comply and try to appease to her. When her daughter-in-law's free-spirited sister comes over to stay for a few days, things in the Gupta family start to change, agitating Nirmala."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3087_bolly",
+      "emotion": "shame",
+      "dialogue": "Listen... - Yes...?i'm going to attend a meeting - All right. But that doesn't mean you can have tea while I'm away. Yesterday I just  felt like it, so... - Don't you feel ashamed...''when you behave like a child? - Well, I'm a father'' Don't give me those dim looks. I won't play any more tricks. On your way out, take a look at the rose plants. See what I've done.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "behaving childishly",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3088_bolly",
+      "emotion": "shame",
+      "dialogue": "it's good for health. - We're going to Bombay tomorrow...''to take a look at Chander's bride. l, Sunder and Chander won't be able to go'' Why can't Chander go to see his bride-to-be? He's not shameless to go and see a bride for himself. Should someone ask about him, you should tell him that. Keep an eye on your father. No sweets or cigarettes for him.",
+      "target_person": "Chander",
+      "target_gender": "male",
+      "cause_raw": "not visiting his bride-to-be",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3089_bolly",
+      "emotion": "shame",
+      "dialogue": "In our family, it's the womenfolk who command. My second son's name is Chander. We have brought proposal from him. Why hasn't he come? - He's not shameless...to come and see the girl for himself. Am I right? Mother asked me to say this to anyone who asked. That's okay. And that's Inder; he's become a doctor this year.",
+      "target_person": "Chander",
+      "target_gender": "male",
+      "cause_raw": "not following traditional marriage proposal norms",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3090_bolly",
+      "emotion": "shame",
+      "dialogue": "Your departure tonight will be arranged. You've made that poor child cry. She had come here to have a good time. You aren't ashamed to pick up quarrels with the children? They're not so small not to realise what's good or bad for them. Then why do you want to force your ideas on them?",
+      "target_person": "Unnamed Character",
+      "target_gender": "unclear",
+      "cause_raw": "forcing ideas on children",
+      "theme_label": "Sexual Harassment"
+    }
+  ]
+}

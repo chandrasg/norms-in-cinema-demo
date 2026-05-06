@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "398535",
+    "title": "Udta Punjab",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/c7BXGhHwvK1AfDCmfPTtw5LsuIU.jpg",
+    "overview": "Drug abuse and the darker side of Punjab rear their heads in the intense, interwoven tales of a policeman, a doctor, a migrant worker, and a rockstar."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4491_bolly",
+      "emotion": "shame",
+      "dialogue": "Mother f****rs! You've killed your mother. And now you sing songs here? Aren't you ashamed! She was not giving us money. We needed to have our fi><. What else could we do.",
+      "target_person": "sons",
+      "target_gender": "male",
+      "cause_raw": "killing their mother for money",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4492_bolly",
+      "emotion": "shame",
+      "dialogue": "But I am sure, it'll work out. Thank you, madam. Whenever I'll look into the mirror to tie my turban...l'll feel a little less ashamed. Okay... ta ta! Madam, I've been wanting to say something",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "personal appearance",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p2501_bolly",
+      "emotion": "pride",
+      "dialogue": "Sisterf****r! Now just look at this ‘cool cousin‘. GABRUs crew tee. I used to wear it with pride. To hell with it, sisterf***r! JassL",
+      "target_person": "JassL",
+      "target_gender": "male",
+      "cause_raw": "wearing crew tee",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "film": {
+    "id": "160247",
+    "title": "Zamaana Deewana",
+    "year": "1995",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/iYAfxnzVM604D4kuqziemoGtHnq.jpg",
+    "overview": "A police commissioner enlists the aid of an eccentric inspector to end a gang war between bitter enemies."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4685_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll cut it short, mind you. He's amazing. He's talking  of fighting in such a huge hotel. Shame on him. - Won't you run away? - How can you say so? I run every day. I run for two miles . I must be running faster than you.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "boasting about fighting",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4686_bolly",
+      "emotion": "shame",
+      "dialogue": "In reality , I wouldn't care to even spit on my father's enemy. But I'm prepared to spit on my father's enemy. You shameless  creature. What kind of an indecent act is this? This isn't an indecent act. It's the beginning of the second act.",
+      "target_person": "father's enemy",
+      "target_gender": "male",
+      "cause_raw": "indecent act",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s4687_bolly",
+      "emotion": "shame",
+      "dialogue": "In that case, even I cannot accept that a person who ensures......the safe return of his enemy's daughter, and punish his own son......could  be a scoundrel  and a thankless  creature. How can it be possible ? Answer me, father. You shameless  girl! You want to know the truth about Sura Singh? Let me tell you...He befriended me...He called  your mother his sister. And then he ensnared her.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "questioning her father's judgement",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4688_bolly",
+      "emotion": "shame",
+      "dialogue": "Let me tell you...He befriended me...He called  your mother his sister. And then he ensnared her. He ensnared your mother. Your shameless  mother and that scoundrel  were going steady. Did you hear? They'd a relationship  between themselves . That's the reason why I cannot pardon him at all  .",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "having an extramarital affair",
+      "theme_label": "Promiscuity"
+    }
+  ]
+}

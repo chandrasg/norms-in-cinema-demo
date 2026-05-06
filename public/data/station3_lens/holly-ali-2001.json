@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "8489",
+    "title": "Ali",
+    "year": "2001",
+    "industry": "holly",
+    "country": "US|GH|MZ|ZA",
+    "poster_path": "/32l3FaCzs8cXWps6hkgNJAcOsP.jpg",
+    "overview": "In 1964, a brash, new pro boxer, fresh from his Olympic gold medal victory, explodes onto the scene: Cassius Clay. Bold and outspoken, he cuts an entirely new image for African Americans in sport with his proud public self-confidence and his unapologetic belief that he is the greatest boxer of all time. Yet at the top of his game, both Ali's personal and professional lives face the ultimate test."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1016_holly",
+      "emotion": "shame",
+      "dialogue": "- Why are you shamin' yourself? - Let me go, man.  Why you doin' that to yourself?  - Why you shamin' yourself? - Ain't nobody shamed.  Ain't nothin' wrong with me.  I'm flyin'.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "self-degradation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP1930_holly",
+      "emotion": "pride",
+      "dialogue": "We don't teach you to turn the other cheek in the South.  And we don't teach you to turn the other cheek in the North.  The Honorable Elijah Muhammad teaches you to obey the law... to Cary yourselves in a respectable way... in a proud Afro-American way.  in a proud Afro-American way.  But at the same time, we teach you... that anyone puts their hand on you... brother, you do your best to see they don't put their hand on anybody else... again.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1931_holly",
+      "emotion": "pride",
+      "dialogue": "And we don't teach you to turn the other cheek in the North.  The Honorable Elijah Muhammad teaches you to obey the law... to Cary yourselves in a respectable way... in a proud Afro-American way.  in a proud Afro-American way.  But at the same time, we teach you... that anyone puts their hand on you... brother, you do your best to see they don't put their hand on anybody else... again.  again.",
+      "target_person": "Elijah Muhammad",
+      "target_gender": "male",
+      "cause_raw": "teaching to obey the law and carry oneself in a proud Afro-American way",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

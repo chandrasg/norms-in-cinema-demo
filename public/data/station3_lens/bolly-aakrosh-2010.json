@@ -1,0 +1,137 @@
+{
+  "film": {
+    "id": "54081",
+    "title": "Aakrosh",
+    "year": "2010",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ya8x3bI2MkvVfu4ZKzkgKSTsDaU.jpg",
+    "overview": "The Central Bureau of Investigation deputes two officers to investigate the disappearance of three medical students, which they believe to be an incident of 'honour killing' in a small, closed community."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3961_bolly",
+      "emotion": "shame",
+      "dialogue": "Now I would like captain Pratap Kumar.. ..to come here and say a few words of encouragement to our kids.  I want to say just one thing to all you kids.  Don't ever be ashamed of your caste.  A person's caste doesn't make him good or bad.  His deeds make him good or bad.",
+      "target_person": "kids",
+      "target_gender": "unclear",
+      "cause_raw": "belonging to a certain caste",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3962_bolly",
+      "emotion": "shame",
+      "dialogue": "Come. Come out. - Papa.  Papa. Papa, leave me.  Dinu. - Aren't you ashamed to do this? - Dinu.  Papa, let me go. Leave me. Papa.  Get in. - Papa.",
+      "target_person": "Dinu",
+      "target_gender": "male",
+      "cause_raw": "Unspecified Misbehavior",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3963_bolly",
+      "emotion": "shame",
+      "dialogue": "But the CBI failed completely. - Really?  Their faces turned pale.  It will be fun when people will shout Shame, Shame at them.  Okay, listen. There's an army of journalists outside.  Keep both your mouth and temper in control.",
+      "target_person": "CBI",
+      "target_gender": "unclear",
+      "cause_raw": "failure in their duty",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3964_bolly",
+      "emotion": "shame",
+      "dialogue": "I have already given the dose that they deserve.  And that, too, with great pressure.  Now think what next. What next. - 'Is playing..' - Like this.. Hey, didn't you feel ashamed of yourself to support this fool?  If you really wanted to help him.. ..you could've sent your sister away with him.  'And Sachin Tendulkar, both are in sublime form..'",
+      "target_person": "supporter",
+      "target_gender": "unclear",
+      "cause_raw": "supporting a person considered foolish",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p2159_bolly",
+      "emotion": "pride",
+      "dialogue": "Pratap. Pratap.  Come on. Come on.  It's a very proud day for our.. ..village Shabrampur and especially for me.  Today, Mr. Pratap Kumar, a student of this school.. ..has not only made this district.. ..but the entire region proud in the entire.. ..country with his bravery and courage.  Now I would like captain Pratap Kumar.. ..to come here and say a few words of encouragement to our kids.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "bravery and courage",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p2160_bolly",
+      "emotion": "pride",
+      "dialogue": "Come on. Come on.  It's a very proud day for our.. ..village Shabrampur and especially for me.  Today, Mr. Pratap Kumar, a student of this school.. ..has not only made this district.. ..but the entire region proud in the entire.. ..country with his bravery and courage.  Now I would like captain Pratap Kumar.. ..to come here and say a few words of encouragement to our kids.  I want to say just one thing to all you kids.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "bravery and courage",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p2161_bolly",
+      "emotion": "pride",
+      "dialogue": "There was no problem at all till date.  We treat him like a member of our family.  If my son gets carried away tomorrow.. ..and marries a 'Dalit' girl.. ..then I, along with the people of my caste.. ..will sacrifice him with pride.  Which three boys? Have you seen them? - Sir. Sir.  Not just you, none of us have seen them. - Sir. Sir.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "son marrying within caste",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2162_bolly",
+      "emotion": "pride",
+      "dialogue": "Keep both your mouth and temper in control.  These stupid journalists.  These CBI people who are walking around with pride.. ..are the ones who should be taken to the gallows.  Sir. - Sir.  Sir, is it true that the police is also involved in this.. ..and that they are trying to protect the real culprit?",
+      "target_person": "CBI people",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2685_bolly",
+      "emotion": "pride",
+      "dialogue": "Would I not recognize your voice? Wretch! You build your house on other s misery! You are proud of your dishonesty! Low caste! Correct yourself! Otherwise we will tear you to pieces!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2686_bolly",
+      "emotion": "pride",
+      "dialogue": "So we negate their truth by putting....a label of accident on it. The truth is that which can be proved legally....with conclusive proofs. Self respect,.. pride.. and human dignity? Only words. Used to save a cold-blooded murderer.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

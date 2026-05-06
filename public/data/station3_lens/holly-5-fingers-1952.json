@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "59087",
+    "title": "5 Fingers",
+    "year": "1952",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/bjD5qcUGjQIZUAeyMJBnXDuN6SW.jpg",
+    "overview": "During WWII, the valet to the British Ambassador to Ankara sells British secrets to the Germans while trying to romance a refugee Polish countess."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2290_holly",
+      "emotion": "pride",
+      "dialogue": "The source of your money concerns you as the... ...source of the electricity... ...they became worrisome only when they were shut off.  ...they became worrisome only when they were shut off.  Quite true. But there's pride.  I have pride.  A great deal. I depend upon your pride.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2291_holly",
+      "emotion": "pride",
+      "dialogue": "...they became worrisome only when they were shut off.  Quite true. But there's pride.  I have pride.  A great deal. I depend upon your pride.  You'd find it intolerable to have it known that your wealth... ...was the gift of a servant.",
+      "target_person": "servant",
+      "target_gender": "male",
+      "cause_raw": "his ability to provide wealth",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2292_holly",
+      "emotion": "pride",
+      "dialogue": "Quite true. But there's pride.  I have pride.  A great deal. I depend upon your pride.  You'd find it intolerable to have it known that your wealth... ...was the gift of a servant.  ...was the gift of a servant.",
+      "target_person": "first speaker",
+      "target_gender": "unclear",
+      "cause_raw": "not accepting wealth as a gift from a servant",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

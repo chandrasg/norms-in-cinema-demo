@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "236324",
+    "title": "Social Nightmare",
+    "year": "2013",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/yn7vsny6qtXvbnPmW98ghluyLro.jpg",
+    "overview": "A student's chances of getting into a good college hang in the balance when inappropriate photos of her are posted on the Internet."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Academic Success",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP75_holly",
+      "emotion": "pride",
+      "dialogue": "Madam President.  Oh, jeez, Mom.  I'm so proud of you, honey.  And I made a special meal.  Well, I got a special meal.",
+      "target_person": "Mom",
+      "target_gender": "female",
+      "cause_raw": "becoming the president",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP76_holly",
+      "emotion": "pride",
+      "dialogue": "onto my hard drive and pulled that quote.  Emily actually believed I would say something like that.  Well, pride can get the best of us.  What do you mean?  Madam President, need I remind you",
+      "target_person": "Madam President",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP77_holly",
+      "emotion": "pride",
+      "dialogue": "Then the doctor said that it was too dangerous to try anymore,  and that's when your father left.  Oh, Mom... But I'm so proud of you.  But I'm so proud of you.  I'm so proud and so happy",
+      "target_person": "Mom",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP78_holly",
+      "emotion": "pride",
+      "dialogue": "and that's when your father left.  Oh, Mom... But I'm so proud of you.  But I'm so proud of you.  I'm so proud and so happy  that you have so many friends and you're so popular",
+      "target_person": "Mom",
+      "target_gender": "female",
+      "cause_raw": "child's popularity and having many friends",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP79_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, Mom... But I'm so proud of you.  But I'm so proud of you.  I'm so proud and so happy  that you have so many friends and you're so popular  and you're into projects and on teams and you run for office,",
+      "target_person": "Mom",
+      "target_gender": "female",
+      "cause_raw": "child's popularity and involvement in various activities",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

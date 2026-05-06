@@ -1,0 +1,92 @@
+{
+  "film": {
+    "id": "159654",
+    "title": "Isi Ka Naam Zindagi",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/lIiM1mWkoN9ThEDx63cA8UM5aLv.jpg",
+    "overview": "Circa British Raj in India, in a small village, Bansiram has owned and maintained a plot of land donated to him by a kind-hearted Zamindar. The Zamindar passes away, and his lecherous, womanizing, and alcoholic son views this plot, and describes it as heavenly, and wants it at any cost. Bansiram refuses to sell, and the Zamindar's son wants it by hook or by crook. Bansiram appeals to the British for protection, which they provide, and Bansiram is thus able to save his property. Shortly thereafter the Zamindar's son passes away, and his look-alike son, Devraj comes to take-over the estate. Devraj does not consider taking-over Bansiram's land as a priority, and years go by. The Zamindar's soul, unable to complete it's task during this life-time, wonders around in anguish and pain - waiting. When Devraj finally goes to see Bansiram, he finds an elderly semi-senile man..."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2599_bolly",
+      "emotion": "shame",
+      "dialogue": "Urine in this bottle.. Doctors give medicines in this. Don't blabber.. do it - In this, gather your stools & close it. Shame.. what is that? -l will take some blood. Who is objecting? - Yes.. you take it. There will be very less blood in this old man's body.",
+      "target_person": "old man",
+      "target_gender": "male",
+      "cause_raw": "being old and weak",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2600_bolly",
+      "emotion": "shame",
+      "dialogue": "Take this and die. Did you see how bad the health of Zamindar has become, Chumki? It is all due to me. Even then, I come to take 400 rupees....without any shame. I feel like dying instantly. - Shut up! Let your enemy die. Come. -Loose character. Why is this old man not dying at all? Why not?",
+      "target_person": "Zamindar",
+      "target_gender": "male",
+      "cause_raw": "exploiting someone's health for personal gain",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2601_bolly",
+      "emotion": "shame",
+      "dialogue": "November means another six months. That means another 2400 rupees. -Yes You loose character, fool.. shameless..What has happened to you? You have given birth to a loose character son. More loss for me. Bansiram won't die like this. My son and grandsons have....all turned out to be useless.",
+      "target_person": "son and grandsons",
+      "target_gender": "male",
+      "cause_raw": "lack of responsibility and financial instability",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2602_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes, sir. This was stopped by our British Rule by a law. Now only sheep or buffalo can be sacrificed. I also feel ashamed to see this weak animal. You should go for a fat.. -Stop this..I need you for human sacrifice. How many times you have falsely satisfied me by acting dead?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "pretending to be dead",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p1364_bolly",
+      "emotion": "pride",
+      "dialogue": "My earrings are sparkling I am the sparkling Chumki Many great men have lost their senses seeing me. So many came and so many have gone but why you are so proud. What is there in you that one should love and die for you? One who has been eyed by me cannot go anywhere else at all.",
+      "target_person": "Chumki",
+      "target_gender": "female",
+      "cause_raw": "her beauty",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "film": {
+    "id": "259720",
+    "title": "2 States",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lOQqeKxZg12ZSn0qfHAOXOtbVFR.jpg",
+    "overview": "A man and a woman come from two very different cultural backgrounds, and decide that they won't get married until they convince their parents. As feared, differences between the families pose a hurdle."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3870_bolly",
+      "emotion": "shame",
+      "dialogue": "Just like you, it's quirky too It's impulsive, but it's thoughtful too A little decent and a little shameless too Offo! Should I chase it away? Offo! Or should I hold it in embrace?",
+      "target_person": "self",
+      "target_gender": "unclear",
+      "cause_raw": "self-deprecating",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3871_bolly",
+      "emotion": "shame",
+      "dialogue": "To find out if you're okay. Even if I'm not, what is it to you? How shameless you are! I called to ask how you are...and you're being rude! What have I done to deserve this, Krish?",
+      "target_person": "Krish",
+      "target_gender": "male",
+      "cause_raw": "Being rude and ungrateful",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3872_bolly",
+      "emotion": "shame",
+      "dialogue": "Where are you going? I'll get the bag. Tell your shameless son to show some respect or I'll...- What happened? - What do you mean what happened?! Who's this girl?! - She's his friend. - This is normal for this house.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "disrespect and inappropriate behavior",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3873_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you doing, Vikram? This is what he deserves. He's shameless. Won't learn any other way. Good for nothing. You know how he is when he drinks.",
+      "target_person": "Vikram",
+      "target_gender": "male",
+      "cause_raw": "Alcoholism and irresponsible behavior",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s3874_bolly",
+      "emotion": "shame",
+      "dialogue": "There are more of you. What about us! - Let's go. - No, no Aunty! How shameless! Who?! Him? No. Them. Who makes the groom pick up luggage?!",
+      "target_person": "groom",
+      "target_gender": "male",
+      "cause_raw": "made to do menial tasks",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2087_bolly",
+      "emotion": "pride",
+      "dialogue": "Offo! Should I chase it away? Offo! Or should I hold it in embrace? Should I wield it like I'm proud? Or slap it away? Offo! Look here it is...with pocketfuls of mischief",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2088_bolly",
+      "emotion": "pride",
+      "dialogue": "Offo! Should I chase it away? Offo! Or should I hold it in embrace? Should I wield it like I'm proud? Or slap it away? Offo! Crossed every line of astonishment",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2089_bolly",
+      "emotion": "pride",
+      "dialogue": "Offo! Should I chase it away? Offo! Or should I hold it in embrace? Should I wield it like I'm proud? Or slap it away? Offo! Offo!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2090_bolly",
+      "emotion": "pride",
+      "dialogue": "Why do our parents oppose this? - It's not about communities...It's about us finding love without their consent...If we fall in love with someone, doesn't mean we love our parents any less...Love doesn't need to be divided; It's all encompassing. They should be proud that, like them, now our love is unconditional. From our first word to our first cigarette...they've seen it all. Now they suddenly feel betrayed.",
+      "target_person": "parents",
+      "target_gender": "unclear",
+      "cause_raw": "their children's unconditional love",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

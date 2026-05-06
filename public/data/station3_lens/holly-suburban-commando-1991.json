@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "11504",
+    "title": "Suburban Commando",
+    "year": "1991",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/wE8WUFEfkZnNDLMpWNmyiJr8E7y.jpg",
+    "overview": "Shep Ramsey is an interstellar hero, righting wrongs, etc. His ship is damaged after a fight with an interstellar nasty and he must hide out on Earth until it can recharge. He leaves his power suit at home, but still finds himself unable to allow wrongs to go unrighted and so mixes it up with bad drivers, offensive paperboys, muggers and the like."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1063_holly",
+      "emotion": "shame",
+      "dialogue": "My, what a big one!  Oh, funny! That's real funny!  - Put that down! Shame on you! - I am so happy.  Please tell them how happy I am. You can do that, can't you?  It's here!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WP2029_holly",
+      "emotion": "pride",
+      "dialogue": "egotistical, homicidal maniac!  I don't think of myself as egotistical.  Proud, maybe, but... General Suitor, General Suitor! Intruder, level five!  General Suitor, General Suitor! Intruder, level five!  Ramsey.",
+      "target_person": "General Suitor",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2030_holly",
+      "emotion": "pride",
+      "dialogue": "Beautiful, aren't they? Not a single internal blemish in any of them.  Do you know why? I'll tell you why.  Pure cymian crystal. These awards are my proudest possessions.  I really believe someday between your talent and maybe a little help from me... you're gonna find your own name on one of those.  you're gonna find your own name on one of those.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "winning awards",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

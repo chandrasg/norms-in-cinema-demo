@@ -1,0 +1,99 @@
+{
+  "film": {
+    "id": "41511",
+    "title": "Dhan Dhana Dhan Goal",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/blecQPVoYDTNKPMYlOm2WNHuSYw.jpg",
+    "overview": "A bankrupt soccer team must win the championship or break apart."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 5
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1064_bolly",
+      "emotion": "shame",
+      "dialogue": "It's about who we are....it's about how we'll be known in this country..our parents, our children it's about them....it's about our identity....which you have traded..It is not about football. Football. It's about our colour....and about the pride in being who we are..It's about being proud of our heritage..It's about our name..about our self respect..and you've forced us to bow our heads in shame..Why? Why?..And that brings Southall number one on the charts. We are proud of our footballers. Southall has been playing an outstanding tournament.",
+      "target_person": "team member",
+      "target_gender": "unclear",
+      "cause_raw": "betraying team and heritage",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p534_bolly",
+      "emotion": "pride",
+      "dialogue": "I am very sorry. I, Monty Singh Walia..at 2 in the morning..swear in front of you..that this time we will win the championship..I'll stand on this ground with the trophy. Yes.. like this, proudly! He must've paid money to get his photo published..These guys do that. I am telling you. Did you see the papers?",
+      "target_person": "Monty Singh Walia",
+      "target_gender": "male",
+      "cause_raw": "winning the championship",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p535_bolly",
+      "emotion": "pride",
+      "dialogue": "It's about who we are....it's about how we'll be known in this country..our parents, our children it's about them....it's about our identity....which you have traded..It is not about football. Football. It's about our colour....and about the pride in being who we are..It's about being proud of our heritage..It's about our name..about our self respect..and you've forced us to bow our heads in shame..Why? Why?..And that brings Southall number one on the charts. We are proud of our footballers. Southall has been playing an outstanding tournament.",
+      "target_person": "we",
+      "target_gender": "unclear",
+      "cause_raw": "preserving heritage and identity",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p536_bolly",
+      "emotion": "pride",
+      "dialogue": "Football. It's about our colour....and about the pride in being who we are..It's about being proud of our heritage..It's about our name..about our self respect..and you've forced us to bow our heads in shame..Why? Why?..And that brings Southall number one on the charts. We are proud of our footballers. Southall has been playing an outstanding tournament. Southall has two more games to go..One with Gatwick atheletic..Harry what if we need to convert a penalty?",
+      "target_person": "Southall",
+      "target_gender": "male",
+      "cause_raw": "Football achievement",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p537_bolly",
+      "emotion": "pride",
+      "dialogue": "But today when the fight ends....it should seem as though we have fought for our country. We have fought for Pakistan, Bangladesh, and India. Today we'll play so well..that every spectator will be proud of us. Today even the football will be proud of us. Even the losing team will be proud of our win today.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "representing country in a game",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p538_bolly",
+      "emotion": "pride",
+      "dialogue": "We have fought for Pakistan, Bangladesh, and India. Today we'll play so well..that every spectator will be proud of us. Today even the football will be proud of us. Even the losing team will be proud of our win today. Just remember one thing..Go out there.. and win!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Winning a football match",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p539_bolly",
+      "emotion": "pride",
+      "dialogue": "Today we'll play so well..that every spectator will be proud of us. Today even the football will be proud of us. Even the losing team will be proud of our win today. Just remember one thing..Go out there.. and win! Hello ladies and gentlemen.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Winning a football match",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

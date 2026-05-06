@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "107736",
+    "title": "Shankar Shambhu",
+    "year": "1976",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/s7SA3tS72rb2ONEEAR2NSpAj3cr.jpg",
+    "overview": "Inspector Ranjit Singh's family is torn apart after a bank robber named Kundan attacks them in revenge, causing their jeep to plunge into the river. Though Ranjit saves his wife and later imprisons Kundan, their two children are lost and raised separately under new identities—one by a bandit and the other by a petty thief. Years later, the grown-up siblings unknowingly cross paths with both Kundan and their father."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 2
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1972_bolly",
+      "emotion": "shame",
+      "dialogue": "Go and help her. Take care of this. Aren't you ashamed of flirting with a girl? Which girl? That..Senior Thakur, the girl and the suitcase, both are missing.",
+      "target_person": "flirting character",
+      "target_gender": "male",
+      "cause_raw": "flirting with a girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1973_bolly",
+      "emotion": "shame",
+      "dialogue": "No, your lives are very valuable. If you will try to move, then you will lose it for no reason. Senior Thakur, these city people are very shameless. You are absolutely right Junior Thakur. Once we looted his place and hung him upside down.",
+      "target_person": "city people",
+      "target_gender": "unclear",
+      "cause_raw": "being victims of looting",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1033_bolly",
+      "emotion": "pride",
+      "dialogue": "Women are like a blank paper. Senior Thakur, I used to dance. But I never dealt with my honour and pride. And just like the iron floats with the wood. Like that I will start a new life with Shambhu Thakur.",
+      "target_person": "Senior Thakur",
+      "target_gender": "male",
+      "cause_raw": "maintaining personal honour",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1034_bolly",
+      "emotion": "pride",
+      "dialogue": "The depressed faces. The depressed faces will be shown he mirror. As proudly we have come here. We will leave with the same pride. We have come to loot.",
+      "target_person": "we",
+      "target_gender": "unclear",
+      "cause_raw": "successful looting",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1035_bolly",
+      "emotion": "pride",
+      "dialogue": "The depressed faces will be shown he mirror. As proudly we have come here. We will leave with the same pride. We have come to loot. And we will leave only after looting",
+      "target_person": "we",
+      "target_gender": "unclear",
+      "cause_raw": "successful looting",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

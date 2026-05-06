@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "42233",
+    "title": "Buffalo Bill and the Indians, or Sitting Bull's History Lesson",
+    "year": "1976",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/zyQZAJogUOECWM46v4N6wGDHd20.jpg",
+    "overview": "Buffalo Bill plans to put on his own Wild West sideshow, and Chief Sitting Bull has agreed to appear in it. However, Sitting Bull has his own hidden agenda, involving the President and General Custer."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1839_holly",
+      "emotion": "pride",
+      "dialogue": "Watch this.  Now, Nate Salsbury doesn't long wind.  But he want's to say he's proud that you're proud  to be part of America's national family.  I know you'll be upset if he writes anything harmful about our Annie.",
+      "target_person": "Nate Salsbury",
+      "target_gender": "male",
+      "cause_raw": "being part of America's national family",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1840_holly",
+      "emotion": "pride",
+      "dialogue": "...honored guests. I'm Nate Salsbury.  And I can tell you that Nate Salsbury  has never been as proud in his long career as he is tonight  to present our very first after dark, request performance  and to dedicate it to you our finest American",
+      "target_person": "Nate Salsbury",
+      "target_gender": "male",
+      "cause_raw": "presenting the first after dark request performance",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1841_holly",
+      "emotion": "pride",
+      "dialogue": "And it ain't easy.  I got people with no lives  living through me. Proud people. People to worry about.  And another thing.  My daddy died without seeing me as... as a star.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

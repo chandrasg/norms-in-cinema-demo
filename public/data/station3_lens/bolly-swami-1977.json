@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "402040",
+    "title": "Swami",
+    "year": "1977",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jMXJ6cw2W41s2Osk3GlvaoKMRkO.jpg",
+    "overview": "Saudamini is a pampered girl until she is forced to marry the widower Ghanshyam and move into his large household. Saudamini cannot cope with her husband's overbearing and greedy stepmother and pines after the man she really loved and had to abandon, Narendra."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4278_bolly",
+      "emotion": "shame",
+      "dialogue": "Ask to Mini. Girl will discuss about her marriage? Is she become so shameless? What is shame or shameless in that? Who will discuss rather than her who is going to marry?",
+      "target_person": "Mini",
+      "target_gender": "female",
+      "cause_raw": "Discussing her own marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4279_bolly",
+      "emotion": "shame",
+      "dialogue": "Girl will discuss about her marriage? Is she become so shameless? What is shame or shameless in that? Who will discuss rather than her who is going to marry? This work belongs to parents.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "discussing her own marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4280_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are troubling me all the time? What I did wrong with this house? You didn't feel shame by insulting this house? And you are augmenting with me? Let Ghanshyam come..Today I will conclude this topic.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "disrespecting the house",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p2355_bolly",
+      "emotion": "pride",
+      "dialogue": "Saudamini A light which cuts darkness. But today where is my shine..my proud? Six months back I got married. But, within these six months..I felt like I experienced sixty years.",
+      "target_person": "Saudamini",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2356_bolly",
+      "emotion": "pride",
+      "dialogue": "This is the room in which I came after my marriage. This is my first night's room. But I left this room..due to my proud and roundness. My husband..my home, I left all. As right from my marriage night..I was..unable to connect with my husband and his house.",
+      "target_person": "character",
+      "target_gender": "female",
+      "cause_raw": "inability to connect with husband and his house",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

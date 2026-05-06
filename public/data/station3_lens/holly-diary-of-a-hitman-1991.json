@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "50185",
+    "title": "Diary of a Hitman",
+    "year": "1991",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/rF4Qz69ConQqoedsAtiv38O7UX0.jpg",
+    "overview": "A veteran hitman, Dekker is ready to call it quits and leave the profession. His final job, however, proves to be trickier than expected when a sadistic man recruits the assassin to kill his wife, Jain, and their baby, but he can’t bring himself to do the job, complicating all of their lives."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WP2319_holly",
+      "emotion": "pride",
+      "dialogue": "I function better when the pop isn't personal.  why am I getting my whole fee up front?  I'm not proud of my past.  Snorted a number of prime years of my life away.  Her doing. She made me crazy.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2320_holly",
+      "emotion": "pride",
+      "dialogue": "I can do this!  This is who I am!  We are the W/ld Cats and we couldn't be prouder  And /f you don't bel/eve /t we'll shout a l/ttle louder  Shut up!",
+      "target_person": "W/ld Cats",
+      "target_gender": "unclear",
+      "cause_raw": "team spirit and identity",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP2321_holly",
+      "emotion": "pride",
+      "dialogue": "And /f you don't bel/eve /t we'll shout a l/ttle louder  Shut up!  We are the W/ld Cats and we couldn't be prouder  And /f you don't bel/eve /t we'll shout a l/ttle louder/  We are the W/ld Cats and we couldn't be prouder",
+      "target_person": "Wild Cats",
+      "target_gender": "unclear",
+      "cause_raw": "being part of the Wild Cats team",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2322_holly",
+      "emotion": "pride",
+      "dialogue": "We are the W/ld Cats and we couldn't be prouder  And /f you don't bel/eve /t we'll shout a l/ttle louder/  We are the W/ld Cats and we couldn't be prouder  And /f you don't bel/eve /t we'll shout a l/ttle louder  We are the W/ld Cats We couldn't be prouder",
+      "target_person": "Wild Cats",
+      "target_gender": "unclear",
+      "cause_raw": "being part of the Wild Cats team",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2323_holly",
+      "emotion": "pride",
+      "dialogue": "We are the W/ld Cats and we couldn't be prouder  And /f you don't bel/eve /t we'll shout a l/ttle louder  We are the W/ld Cats We couldn't be prouder  And /f you don't bel/eve /t  We'll shout a l/ttle louder",
+      "target_person": "Wild Cats",
+      "target_gender": "unclear",
+      "cause_raw": "team spirit and unity",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

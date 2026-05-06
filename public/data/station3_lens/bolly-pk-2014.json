@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "297222",
+    "title": "PK",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+    "overview": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1239_bolly",
+      "emotion": "shame",
+      "dialogue": "It's not mine. Buzzed bozo! - Ma'am, yours? - How dare you! - Check your purse if it's missing. - Shameless lad! - Has to be yours. - No, not mine Tipsy, it's his",
+      "target_person": "lad",
+      "target_gender": "male",
+      "cause_raw": "Accused of theft",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s1240_bolly",
+      "emotion": "shame",
+      "dialogue": "Tipsy! Your show's a hit! Messages are pouring in Here's one more What happened? It's Papa. He's ashamed I'm his daughter I was in tenth grade when I wrote my first poem For Papa",
+      "target_person": "Tipsy",
+      "target_gender": "female",
+      "cause_raw": "pursuing a career that her father disapproves of",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1241_bolly",
+      "emotion": "shame",
+      "dialogue": "It was Papa He was so proud of me And now this message. Ashamed of you There's a Wrong Number in your Papa's head The day he gets rid of it, he'll whistle for you again",
+      "target_person": "Papa",
+      "target_gender": "male",
+      "cause_raw": "Disappointment in child's actions",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p651_bolly",
+      "emotion": "pride",
+      "dialogue": "The applause ended, the whistling continued It was Papa He was so proud of me And now this message. Ashamed of you There's a Wrong Number in your Papa's head",
+      "target_person": "Papa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

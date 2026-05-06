@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "271816",
+    "title": "Barsaat Ki Ek Raat",
+    "year": "1981",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2iIOuzUiOMvXNYSo36qKISzrDNy.jpg",
+    "overview": "In a small village in Darjeeling, Sahuji the merchant has weaved a web of corruption in every layers of the social fabric.  And he is also involved in rampant smuggling of goods across the border, and everyone from the local jeweler to the local police inspector are part of his intricate web.  While the father has created a position of influence by spreading corruption, his son Kaaliram has ushered in a reign of terror. Desperate villagers make a plea to the owner of the tea garden, who calls (presumably) the higher ups in police force and they promise to send someone."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s440_bolly",
+      "emotion": "shame",
+      "dialogue": "He is defeated Hail the Lord This poor fellow lost the match He is ashamed Go someone, drop him home Or he might die of shame Who lost his honour...''He has no value''",
+      "target_person": "defeated man",
+      "target_gender": "male",
+      "cause_raw": "losing a match",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s441_bolly",
+      "emotion": "shame",
+      "dialogue": "He is ashamed Go someone, drop him home Or he might die of shame Who lost his honour...''He has no value'' Kaliram's secret is out",
+      "target_person": "Kaliram",
+      "target_gender": "male",
+      "cause_raw": "loss of honour",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s442_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't be afraid, Rajni. I'm here. Father! You rascal, didn't you feel ashamed......trying to dishonour a blind girl? Tell me, will you do this again? - Abhijeet, what happened? - Father!",
+      "target_person": "Rajni's assaulter",
+      "target_gender": "male",
+      "cause_raw": "Attempting to dishonour a blind girl",
+      "theme_label": "Shamelessness"
+    }
+  ]
+}

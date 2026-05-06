@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "43157",
+    "title": "Just Around the Corner",
+    "year": "1938",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/62WfUGlPycugm4eU9HnoDBmjcIM.jpg",
+    "overview": "Penny helps her idealistic architect father get his dream of a slum clearance project; The little miss dances with Corporal Jones."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS366_holly",
+      "emotion": "shame",
+      "dialogue": "Call the manager! Call the police! [Shouting]  - Aren't you gonna help him? - And implicate myself? Hardly.  Shame on you, fraidy-cat!  It's the only way to save the country.  - [Penny Shouting] - [Groaning]",
+      "target_person": "fraidy-cat",
+      "target_gender": "unclear",
+      "cause_raw": "not helping in a crisis situation",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP795_holly",
+      "emotion": "pride",
+      "dialogue": "- Married? - Don't you see? Once you're in the family... my uncle would have to do something.  my uncle would have to do something.  - His pride would be at stake. - What about my pride?  You can be proud when the building's built and people live in it.  - It's a failure now. You can't be proud of that. - You don't understand.",
+      "target_person": "uncle",
+      "target_gender": "male",
+      "cause_raw": "family honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP796_holly",
+      "emotion": "pride",
+      "dialogue": "my uncle would have to do something.  - His pride would be at stake. - What about my pride?  You can be proud when the building's built and people live in it.  - It's a failure now. You can't be proud of that. - You don't understand.  What good would it do me to get it that way?",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "building construction and people living in it",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP797_holly",
+      "emotion": "pride",
+      "dialogue": "- His pride would be at stake. - What about my pride?  You can be proud when the building's built and people live in it.  - It's a failure now. You can't be proud of that. - You don't understand.  What good would it do me to get it that way?  Supposing it flopped? Then look. Married.",
+      "target_person": "second speaker",
+      "target_gender": "unclear",
+      "cause_raw": "building completion and people living in it",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP798_holly",
+      "emotion": "pride",
+      "dialogue": "I wonder what's keeping Milton?  - I do want to show him off to you. - I can hardly wait.  - You must be very proud of him. - I am very proud of him.  It must be the mother in me.  Stop! You mustn't go in there.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

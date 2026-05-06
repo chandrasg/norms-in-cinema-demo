@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "271915",
+    "title": "Alaap",
+    "year": "1977",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/mHpgSe8MAGVGiHN9dwemRvow10N.jpg",
+    "overview": "Dedicated to the memory of the great singers K. L. Saigal and Mukesh, this charming and unpretentious film offers a palate-cleansing change from the spicy “masala” epics that dominated its era, and features their superstar Amitabh Bachchan in a decidedly offbeat role."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1_bolly",
+      "emotion": "shame",
+      "dialogue": "Are you listening? Both are shaking hands. What are they saying? Aren't you ashamed? Want to hear the talks between your daughter and future son-in-law? Can I take some benefit of our acquaintance?",
+      "target_person": "parent",
+      "target_gender": "unclear",
+      "cause_raw": "eavesdropping on private conversation",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2_bolly",
+      "emotion": "shame",
+      "dialogue": "Okay, I will not tell him that you had come here. Look, Alok is in love with me and I love him too. Shameless one! Have you lost all your shame? What is there to be ashamed in this? Don't sisters love their brothers in this vicinity?",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "expressing love for a man",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3_bolly",
+      "emotion": "shame",
+      "dialogue": "Look, Alok is in love with me and I love him too. Shameless one! Have you lost all your shame? What is there to be ashamed in this? Don't sisters love their brothers in this vicinity? Okay, I am going.",
+      "target_person": "Alok's lover",
+      "target_gender": "female",
+      "cause_raw": "Incestuous relationship",
+      "theme_label": "Promiscuity"
+    }
+  ]
+}

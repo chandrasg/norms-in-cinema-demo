@@ -1,0 +1,51 @@
+{
+  "film": {
+    "id": "44545",
+    "title": "The Werewolf",
+    "year": "1956",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/yWWzmxfK0dKjTpEbPWZXlPRhGPS.jpg",
+    "overview": "The arrival in a small mountain town of a dissheveled stranger launches a series of murders committed by some sort of animal.  As the town doctor and his daughter attempt to help the stranger, the sheriff investigates the murders; and they uncover a sinister experiment involving two rogue scientists, a car accident victim, his wife and children, and a serum that causes a man to turn into a ravaging werewolf."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WP883_holly",
+      "emotion": "pride",
+      "dialogue": "F*****g unbelievable!  You never said, \"Congratulations. Good job.  I'm so proud of you.\"  You did s**t!  I'm going to college",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "going to college",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP884_holly",
+      "emotion": "pride",
+      "dialogue": "Whoa. Whoa. What's up?  It's just a lot.  Yeah.  Well, I'm proud of you.  - Mmm. - I'm proud of you.  Oh!  Yeah.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP885_holly",
+      "emotion": "pride",
+      "dialogue": "It's just a lot.  Yeah.  Well, I'm proud of you.  - Mmm. - I'm proud of you.  Oh!  Yeah.  Thanks. I had to cut a hole in the back.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

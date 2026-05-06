@@ -1,0 +1,126 @@
+{
+  "film": {
+    "id": "987636",
+    "title": "Oru Madapravinte Katha",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/qXhH5tjrt3CYTN09TgTxw5xfS6k.jpg",
+    "overview": "While a murder looms over a family, a woman suspects her husband of having an extramarital affair. On the other hand, a man, who is visually impaired, falls in love with her sister-in-law."
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3019_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey Rajaram! Come here first. And sweeten your mouth. All right. - Have you brought the sieve? Leave. Aren't you ashamed to do that in the daylight? Why should I be ashamed? You are my newly wedded wife. It tickles me.",
+      "target_person": "Rajaram's wife",
+      "target_gender": "female",
+      "cause_raw": "Inappropriate public behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3020_bolly",
+      "emotion": "shame",
+      "dialogue": "All right. - Have you brought the sieve? Leave. Aren't you ashamed to do that in the daylight? Why should I be ashamed? You are my newly wedded wife. It tickles me. Come here. - No. - Come on.",
+      "target_person": "newly wedded wife",
+      "target_gender": "female",
+      "cause_raw": "sexual advances in public",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3021_bolly",
+      "emotion": "shame",
+      "dialogue": "I will sleep here on the floor, like your paying guest. And I will give you.. Rs. 300 every month. Shame! Will I take money from a friend? No, you'll have to take the money. We have to be very frank. No! I can't take money from my old friend.",
+      "target_person": "friend",
+      "target_gender": "male",
+      "cause_raw": "offering money to a friend",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3022_bolly",
+      "emotion": "shame",
+      "dialogue": "I have to feed someone else's pet! Either I will stay here in this Chawl or that cat. Listen! - No, leave me..You're really shameless. - Come on. - Stop it. Here, child, have this. - No. The doctor will be angry. Granny, can I have some milk?",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "feeding someone else's pet",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3023_bolly",
+      "emotion": "shame",
+      "dialogue": "He is so decent. He has a job, and that, too, permanent. My life partner will be impressive. Aren't they ashamed? They move ahead by pushing others! Behave like humans and not animals! I have been standing here for 1/2 an hour.",
+      "target_person": "people in queue",
+      "target_gender": "unclear",
+      "cause_raw": "not following queue discipline",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3024_bolly",
+      "emotion": "shame",
+      "dialogue": "No! No. - Dear.. - Did it hurt you, dear? Great stuff.. - Hot stuff..Aren't you ashamed? Don't you have bros or a father? - No. Come on. Catch him!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards a woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3025_bolly",
+      "emotion": "shame",
+      "dialogue": "Bhausaab! Bhausaab, what are you doing? Give that to me. No, how can you pick up my bags? They are not too heavy. You'll lift it with us around, won't we feel ashamed? You are sweating. So, Bhausaab, shall I leave now? - No, how can I let you go?",
+      "target_person": "Bhausaab",
+      "target_gender": "male",
+      "cause_raw": "breaking the social hierarchy",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3026_bolly",
+      "emotion": "shame",
+      "dialogue": "Every man isn't like you. Some are also like me. Friend, you are extremely shameless. I have to clear all my payments of this month. I have to pay bills.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "financial irresponsibility",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1557_bolly",
+      "emotion": "pride",
+      "dialogue": "'How much more will the bonds of your love, pull me?' 'How much more will the bonds of your love, pull me?' 'Leave me, give me back my pride.' 'I didn't ask you for anything' Will you put this too?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

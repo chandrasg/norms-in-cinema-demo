@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "54969",
+    "title": "Daud",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1ssiQGO414xFBmelUoNWX6lTZl0.jpg",
+    "overview": "A notorious gangster asks a career thief by the name of Nandu to steal a package worth over one crore rupees for a fee."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s917_bolly",
+      "emotion": "shame",
+      "dialogue": "ITVe Seen it for mySelf! put me through to the prime MiniSter... immediately! ''Shame on all of uS! Here He are, Sitting baCk and relaXing...'' and eVerything there iS finiShed! 'The boat... the boX... He'Ve loSt eVerything!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "failure to protect assets",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s918_bolly",
+      "emotion": "shame",
+      "dialogue": "Why Can't you be frank? 'To aCCept thiS Challenge...''you arenTt Capable enough, iSn't it?'' Should you loSe againSt me...it iS going to put you to Shame Don't inCite me Don't proVoke me",
+      "target_person": "person being provoked",
+      "target_gender": "unclear",
+      "cause_raw": "lack of capability",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s919_bolly",
+      "emotion": "shame",
+      "dialogue": "''You haVe inSolent Staff! - You're miStaken, madam...'' i'm the junior, not he!'' You Should be aShamed to work under SuCh a man! I'Ve only been doing my duty and you...JuSt let me dreSS! I will then raiSe my VoiCe againSt the atroCitieS heaped on women!",
+      "target_person": "junior staff",
+      "target_gender": "male",
+      "cause_raw": "not standing up against atrocities on women",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s920_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't you dare touCh her! What do I do then? Cut off my handS? I'm going to plant a kiSS that will turn your lipS red Hith Shame! Stop it, pinky... - WatCh out! Don't interfere! Or i'll blaSt your head away!",
+      "target_person": "Pinky",
+      "target_gender": "female",
+      "cause_raw": "Sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p476_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm an aCe too Yet I Spare a thought It iS againSt my pride...to take on the likeS of you. ElSe, they will Say that I haVe meSSed with Someone...a Sprightly, deliCate laSSie...",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p477_bolly",
+      "emotion": "pride",
+      "dialogue": "Take me on Accept defeat...or try beating me It iS againSt my pride...to take on the likeS of you. ElSe, they will Say that I haVe meSSed with Someone...a Sprightly, deliCate laSSie...",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

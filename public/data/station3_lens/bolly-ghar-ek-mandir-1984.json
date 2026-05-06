@@ -1,0 +1,142 @@
+{
+  "film": {
+    "id": "338122",
+    "title": "Ghar Ek Mandir",
+    "year": "1984",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/qAGEjGCje2zGvbsathd28rW2io9.jpg",
+    "overview": "A joint family consisting of three brothers Prem (Shashi Kapoor), Vijay (Raj Kiran) and Ravi (Mithun Chakraborty) are leading a happy and prosperous life. They consider their house temple of Love. However, destiny has its own plans for them when Prem gets killed. Seth Dharampal (Kader Khan) also wants to cheat them. Would Ravi alone be able to save his home? Would Seth Dharampal succeed in his evil intentions?"
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2056_bolly",
+      "emotion": "shame",
+      "dialogue": "How come? Four books fell down and only three are picked. Did I steal it? - How would I know? You're harassing me because I'm alone. Aren't you ashamed? Why are you after me? What did you say? I'm after you?",
+      "target_person": "character being harassed",
+      "target_gender": "unclear",
+      "cause_raw": "being accused of theft",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s2057_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you after me? What did you say? I'm after you? Aren't you ashamed to talk to a decent girl like this? Come with me to the principal's office. Come on! Madam. - Come on!",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards a girl",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2058_bolly",
+      "emotion": "shame",
+      "dialogue": "No, they're not such people. And if they are that, there cannot be anyone lower than them. Nobody can be more shameless than them. Well, I was just giving an example. Didn't you have that? - Cold drinks?",
+      "target_person": "unidentified people",
+      "target_gender": "unclear",
+      "cause_raw": "being shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2059_bolly",
+      "emotion": "shame",
+      "dialogue": "You used to call this house a temple, right? But it's no more a temple. Such vile things happen here that....I'm ashamed to even talk about them. I feel that the ground opens and I should sink into it. What do you mean?",
+      "target_person": "house members",
+      "target_gender": "unclear",
+      "cause_raw": "immoral activities in the house",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2060_bolly",
+      "emotion": "shame",
+      "dialogue": "Younger sister-in-law! - Don't shout! You commit a sin and dare to scream at me? Aren't you ashamed? You're so old. You didn't even think of children also. If you both want to disgrace yourselves then....do it somewhere else.",
+      "target_person": "younger sister-in-law and her partner",
+      "target_gender": "female",
+      "cause_raw": "committing a sin implied illicit relationship)",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s2061_bolly",
+      "emotion": "shame",
+      "dialogue": "What? - My face. What do I tell you, sir? The world has become shameless. Yes, they can even sell their honor for money. You've their, I've come to buy it. - What?",
+      "target_person": "world",
+      "target_gender": "unclear",
+      "cause_raw": "selling honor for money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2062_bolly",
+      "emotion": "shame",
+      "dialogue": "Only keep in mind what we saw that day. Its possible Rahim couldn't face people the next day. So he committed suicide out of shame. Then someone might have written this sentence with his blood. Sister-in-law is my mother.",
+      "target_person": "Rahim",
+      "target_gender": "male",
+      "cause_raw": "Unable to face people due to an unknown incident",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p1103_bolly",
+      "emotion": "pride",
+      "dialogue": "But you never complain. Complain about what? I'm proud of my luck....that I'm the wife of a man like you. One who lives for others....and considers the sorrows of the poor....and needy as his own. I pray that....in my next birth too I be born....as your wife.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "being the wife of a selfless man",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1104_bolly",
+      "emotion": "pride",
+      "dialogue": "He loves me. I'll use my love as a weapon and break that family into pieces. I'll get that proud Ravi to bow down to you. Hello, younger sister-in-law! Who are you?",
+      "target_person": "Ravi",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

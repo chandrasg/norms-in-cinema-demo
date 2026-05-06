@@ -1,0 +1,78 @@
+{
+  "film": {
+    "id": "18943",
+    "title": "Ernest Goes to Jail",
+    "year": "1990",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/w1k8SgODFQOk9wHjX4mi8QdkYAO.jpg",
+    "overview": "Bumbling bank janitor Ernest P. Worrell is assigned to jury duty, and soon finds himself in trouble when he is covertly switched with a look-a-like crime boss. Ernest must escape from jail to expose the mix-up."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2022_holly",
+      "emotion": "pride",
+      "dialogue": "He promised he wasn't gonna do that.  Well... well, who cares what he thinks anyway?  I'm really proud of you for trying.  I mean, you're starting to take stock of yourself.  When you were in there talking to Mr. Pendlesmythe,",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "for trying and self-improvement",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP2023_holly",
+      "emotion": "pride",
+      "dialogue": "it was as if you were a whole different person.  What do you mean?  Well, I-I mean that I'm proud of you.  Ernest, do you have any idea  how long you've made me and Bobby wait in that van?",
+      "target_person": "Ernest",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2024_holly",
+      "emotion": "pride",
+      "dialogue": "Ernest, I can't believe this.  This place is spotless.  I am so proud of you.  Has the value of pride diminished?  What?",
+      "target_person": "Ernest",
+      "target_gender": "male",
+      "cause_raw": "cleaning the place",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP2025_holly",
+      "emotion": "pride",
+      "dialogue": "This place is spotless.  I am so proud of you.  Has the value of pride diminished?  What?  Well, the last time you were proud of me,",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "keeping the place spotless",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP2026_holly",
+      "emotion": "pride",
+      "dialogue": "Has the value of pride diminished?  What?  Well, the last time you were proud of me,  I got a kiss.  Mr. Pendlesmythe: Ernest, I want to see you in my office.",
+      "target_person": "Ernest",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

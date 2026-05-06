@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "18220",
+    "title": "Poison Ivy 2: Lily",
+    "year": "1996",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/jXLuQYRwWNuwW8dkx3zo5bWon2r.jpg",
+    "overview": "A young and naive college art student becomes obsessed with assuming the identity and personality of a departed coed who used to live in her room, and in so doing causes complications that result in two men, a student and her art professor, lusting after her."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS313_holly",
+      "emotion": "shame",
+      "dialogue": "To expose it all.  To see myself the way a lover would.  No shame, no fear.  Not a fear in the world.  Nothing hidden, no secrets.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS314_holly",
+      "emotion": "shame",
+      "dialogue": "A dark club.  Loud music.  A corner to ourselves.  Anonymous. Shameless.  No past. No future.  Valeria Andrews: What's Come Over Me  Tease.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "promiscuity",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS315_holly",
+      "emotion": "shame",
+      "dialogue": "Taunt.  Twist him around my little finger.  No shame. No fear.  Without a fear in the world.  - Looking good.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "manipulation and lack of fear",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}

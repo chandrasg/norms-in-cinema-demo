@@ -1,0 +1,99 @@
+{
+  "film": {
+    "id": "101747",
+    "title": "Chori Mera Kaam",
+    "year": "1975",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/80NIR88HETbAADpXRmSrBE8GUMP.jpg",
+    "overview": "Thieves Bholanath and Sharmili run away with a manuscript containing stealing tips and sell it to Parvin, an unscrupulous publisher. However, when the book becomes a huge hit, they fall into trouble."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s824_bolly",
+      "emotion": "shame",
+      "dialogue": "You?! I never knew that you were such a lowly man. Weren't you ashamed....to kidnap children despite being a father yourself? When he grows up....to learn that his father is a thief and a kidnapper..Then how'll he dare to face the world? Where's my child?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "kidnapping and theft",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s825_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes, son. The world lives on hope. Aren't you ashamed of being illiterate? I'm but I can't help it. Why don't you join a school and learn to read and write?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "illiteracy",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s826_bolly",
+      "emotion": "shame",
+      "dialogue": "To steal is my job. To steal is my job. Your parents have named you wrongly. Your name's Sharmili but you're shameless. You aren't any less either. Every time you visit the prison and return healthier.",
+      "target_person": "Sharmili",
+      "target_gender": "female",
+      "cause_raw": "Shameless behavior",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s827_bolly",
+      "emotion": "shame",
+      "dialogue": "You're right, sir...that I've been raised on the streets..I've lived my life like the worms in the gutters. You know all about me..except why I turned to crime. - Why? Because I had to face hatred and shame since childhood. Sir....every man needs support to survive. Had I received that support, then..I'd have been an inspector like your son, sir.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being raised in poverty and turning to crime",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s828_bolly",
+      "emotion": "shame",
+      "dialogue": "Do you want to trade your duty or the death of another son? Father! Don't bother about me, father. An honourable death is better than to live a shameful life. Here it is, sir. - Thank you! You've done a wonderful job.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not fulfilling his duty",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s829_bolly",
+      "emotion": "shame",
+      "dialogue": "That's fine, sir. But he should be punished first. Give me the pistol. Beat me! Beat me! You've to die. Shameless fellow! You want to lose your son for your duty? Crazy fellow! The age of such fanatics has long passed.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "prioritizing duty over family",
+      "theme_label": "Poverty"
+    }
+  ]
+}

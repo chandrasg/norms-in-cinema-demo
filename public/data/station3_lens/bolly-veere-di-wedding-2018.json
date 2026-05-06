@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "483189",
+    "title": "Veere Di Wedding",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/yeXnYRRQE2MT7s04uUfKS696cqi.jpg",
+    "overview": "Kalindi, Avni, Sakshi and Meera are childhood friends. Kalindi and Rishabh are getting married, and the four gal pals come together for their veere’s wedding. But of course, there can be no shaadi without showsha and a lot of drama. This wedding celebration brings out skeletons from the closet, unspoken truths and some harsh realities as well."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4540_bolly",
+      "emotion": "shame",
+      "dialogue": "I mean she is getting a divorce. It's no small matter. The girl has no shame at all. She drinks straight up. Really? I've heard she's into drugs as well.",
+      "target_person": "divorced woman",
+      "target_gender": "female",
+      "cause_raw": "divorce and substance abuse",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4541_bolly",
+      "emotion": "shame",
+      "dialogue": "She drinks straight up. Really? I've heard she's into drugs as well. Shameless. Poor parents. Her father used to prowl around like a proud lion.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "drinking and drug use",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "p2546_bolly",
+      "emotion": "pride",
+      "dialogue": "Poor parents. Her father used to prowl around like a proud lion. Have you seen him lately... like a p***y cat. Obviously.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

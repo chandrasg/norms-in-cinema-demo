@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "311367",
+    "title": "Chunaoti",
+    "year": "1980",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2RwVtXBg0UES9HellLtu1cvDA6D.jpg",
+    "overview": "Bandit Ajay Singh (Danny Denzongpa) makes a living robbing and killing innocent villagers, which makes life almost impossible for orphanage director Vijay Singh (Feroz Khan). To put an end to Ajay's murderous rampage, Vijay teams up with good-hearted bandit Shakti. The cunning and ruthless Ajay thinks he can use his money to stop his enemies from coming after him, but he's about to find out he's wrong."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s830_bolly",
+      "emotion": "shame",
+      "dialogue": "I am ruined ! Who are you? - My name is Thakur Ajay Singh. Are you ashamed to call yourself a dacoit? I have no time to waste in small talk. I want the keys to the safe. And if I don't give them? - For the last time. . . Keys.",
+      "target_person": "Thakur Ajay Singh",
+      "target_gender": "male",
+      "cause_raw": "being a dacoit",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s831_bolly",
+      "emotion": "shame",
+      "dialogue": "Certainly sir. May I take your leave? - Certainly. So you've come here just to tell me that Inspector Verma has been killed? This is shameful. If you work like this, more of our officers will be killed. And Ajay Singh will never be nabbed. Mr. Kapoor! Our reputation is on the line. I wish that you investigate this case yourself.",
+      "target_person": "Police force",
+      "target_gender": "unclear",
+      "cause_raw": "Inefficiency in work",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s832_bolly",
+      "emotion": "shame",
+      "dialogue": "You don't have to wait for that. I will bring it now. Roshni ! Where were you for four days? - Nowhere. . . Just here. . . You were wandering in the jungle! Are you not ashamed of yourself? Forget me, but have some respect for your family honour. It is not good for a young girl to be away from home for so long.",
+      "target_person": "Roshni",
+      "target_gender": "female",
+      "cause_raw": "Staying away from home for long",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s833_bolly",
+      "emotion": "shame",
+      "dialogue": "He has challenged a friend. - Who is the lucky man? Look into my eyes. You will see his image. How shameful ! All of you together couldn't catch one man. Go drown yourselves. I had Vijay Singh trapped. Our men had even surrounded him.",
+      "target_person": "policemen",
+      "target_gender": "male",
+      "cause_raw": "incompetence",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s834_bolly",
+      "emotion": "shame",
+      "dialogue": "We are sorry, Thakur. - Shut up! Get out of here. Go! How shameful that a brave man like you has to drink. . . To wash the sorrow of not capturing me. You are mistaken, Vijay Singh. I am not drinking in sorrow. . .",
+      "target_person": "Thakur",
+      "target_gender": "male",
+      "cause_raw": "drinking due to failure",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "p418_bolly",
+      "emotion": "pride",
+      "dialogue": "How can you fail? This was a small job. If required, Jwala can give up her life for you. I am proud of you Jwala. Now I can fight back Shakti and Vijay. Vijay Singh, your mother is in our custody. If you care about her, surrender yourself to us.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "Jwala's loyalty and willingness to sacrifice",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

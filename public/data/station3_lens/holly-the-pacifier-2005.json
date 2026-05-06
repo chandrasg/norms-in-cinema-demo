@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "10022",
+    "title": "The Pacifier",
+    "year": "2005",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ayVLPibrtazh7U5FliWRLDMmG3d.jpg",
+    "overview": "Navy SEAL Shane Wolfe is handed a new assignment: Protect the five Plummer kids from enemies of their recently deceased father -- a government scientist whose top-secret experiment remains hidden in the kids' house."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS545_holly",
+      "emotion": "shame",
+      "dialogue": "Out of 23!  These are the worst students in my school.  - I'm ashamed... - [woman] Your school?  Good morning, kids.  [clears throat] Mr. Murney, thanks for watching my chair.",
+      "target_person": "Mr. Murney",
+      "target_gender": "male",
+      "cause_raw": "poor performance as a teacher",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS546_holly",
+      "emotion": "shame",
+      "dialogue": "Anything you didn't understand?  Ah. The nipple crippler.  This is a useless, not to mention, shameless move  that ultimately is a sure sign of desperation.  And finally... Pinned!",
+      "target_person": "Nipple crippler",
+      "target_gender": "unclear",
+      "cause_raw": "using a desperate and shameless move in a fight",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP1152_holly",
+      "emotion": "pride",
+      "dialogue": "[Julie] Hi! I missed you!  Guy!  Shane, I am so proud of you. I truly am.  I am going to give you your choice of assignment.  Anywhere you want to go, you just name it.",
+      "target_person": "Shane",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1153_holly",
+      "emotion": "pride",
+      "dialogue": "From now on, it's your command.  At ease, soldiers.  [Wolfe] Your father would be so proud of all of you.  Awww.  Look who just woke up.",
+      "target_person": "Wolfe",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

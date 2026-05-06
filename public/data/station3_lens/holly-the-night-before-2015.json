@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "296100",
+    "title": "The Night Before",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg",
+    "overview": "In New York City for their annual tradition of Christmas Eve debauchery, three lifelong best friends set out to find the Holy Grail of Christmas parties since their yearly reunion might be coming to an end."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP563_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah, yeah. Some of that.  It's good to see you kids still hanging out and smoking up.  Makes me proud.  Thanks, man. We're just kind of trying  to keep the dream alive, you know?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "kids hanging out and smoking up",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP564_holly",
+      "emotion": "pride",
+      "dialogue": "Shut up.  It's amazing.  I was there when you won this. You must be so proud.  Shut up and go.  - Your bedroom. - Shut up.",
+      "target_person": "You",
+      "target_gender": "unclear",
+      "cause_raw": "winning something",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP565_holly",
+      "emotion": "pride",
+      "dialogue": "It has been a long time.  - Been a long time, yeah. - I remember you.  And you know I'm proud of what you've become.  Husband, lawyer  soon-to-be father. That's really impressive.",
+      "target_person": "Husband",
+      "target_gender": "male",
+      "cause_raw": "becoming a lawyer and soon-to-be father",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

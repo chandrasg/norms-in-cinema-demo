@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "77269",
+    "title": "Urbanized",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US|GB",
+    "poster_path": "/AlgE2Xj02j2Bb75eYfgDuPCzev2.jpg",
+    "overview": "A documentary about the design of cities, which looks at the issues and strategies behind urban design and features some of the world's foremost architects, planners, policymakers, builders, and thinkers."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WS348_holly",
+      "emotion": "shame",
+      "dialogue": "increases the social status of cyclists.  Before we had bicycle ways,  low-income people were ashamed of using bicycles.  Now a high-quality protected bicycle way shows that  a citizen on a $30 bicycle",
+      "target_person": "is just as good as a citizen in a $30,000 car.      \r\nOutput: Low-income people",
+      "target_gender": "unclear",
+      "cause_raw": "using bicycles due to low income",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP756_holly",
+      "emotion": "pride",
+      "dialogue": "to bring the grand boulevards and large civic arenas  of classical architecture into American cities.  To encourage a kind of civic pride.  The next major shift would be the Garden City movement,  which is happening right at the end of the 19th century.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP757_holly",
+      "emotion": "pride",
+      "dialogue": "Because people are moving through it,  it's constantly observed, so it's fairly safe.  With all this upgrading, people now have pride in it  and they want to be part of it.  The murder rate has come down by approximately 40%",
+      "target_person": "people",
+      "target_gender": "unclear",
+      "cause_raw": "upgrading their community",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

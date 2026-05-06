@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "33146",
+    "title": "Om Jai Jagadish",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "AE|IN|NZ",
+    "poster_path": "/cdKXPLHY2O6Wgx5kNoCLmEEqFbP.jpg",
+    "overview": "Widowed Mrs. Saraswati Batra (Waheeda Rehman) has brought up three sons with a lot of care and love. Her eldest son Om (Anil Kapoor) is very honest and diligent; her two other sons Jai (Fardeen Khan), and Jagdish (Abhishek Bachchan) also live in the same house. this is their story"
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3828_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>I see a bad future fur mg daughter. How are gnu returning?</i> <i>JaTs picking her up in a helicopter. - W21! drop gnu</i> <i>I'm ashamed! He claims he's building the fastest car in the world! Here?</i> <i>What's lacking here?</i> - <i>We needn't suffer like this</i> <i>Problem is, you‘ve lived comfort big. You got no idea how difficult life is</i>",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "boasting about unrealistic achievements",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3829_bolly",
+      "emotion": "shame",
+      "dialogue": "I see a bad future for my daughter. How are you returning? Jai's picking her up in a helicopter. - We'll drop you I'm ashamed! He claims he's building the fastest car in the world! Here? What's lacking here? - We needn't suffer like this Problem is, you've lived comfortably. You got no idea how difficult life is",
+      "target_person": "Jai",
+      "target_gender": "male",
+      "cause_raw": "boasting about unrealistic achievements",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p2036_bolly",
+      "emotion": "pride",
+      "dialogue": "Nat even from me? I have disgraced my brother. I'll try my best... to make him proud of me. i'll only then will I go home I'm sure you will succeed in your endeavours I know it sounds dramatic, out I'm with you",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "personal improvement",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2037_bolly",
+      "emotion": "pride",
+      "dialogue": "For you, free. I Take Nothing for free Not even from me? I have disgraced my brother. I'll try my best...to make him proud of me. And only then will I go home I'm sure you will succeed in your endeavours I know it sounds dramatic, but I'm with you",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "making his brother proud",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

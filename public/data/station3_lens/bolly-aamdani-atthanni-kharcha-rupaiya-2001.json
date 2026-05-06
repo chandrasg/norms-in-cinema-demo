@@ -1,0 +1,137 @@
+{
+  "film": {
+    "id": "25801",
+    "title": "Aamdani Atthanni Kharcha Rupaiya",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9xl6TNdI2QM1kKBrsuNKJkWadu4.jpg",
+    "overview": "Jhoomri and her husband, Bhimsha, move into a new neighbourhood. Their immediate neighbours are three squabbling couples, namely Vijay and Anjali who are newly married; Appu Khote and Vimla, who are married and have 4 children; and Ravi and Meena, who are also married and have one child. With their wages unable to keep up with inflation and high cost of living, unable to pay even rent to the landlord, B.K. Kakkad, the wives decide to seek employment to augment their income, with hilarious results from their spouses, who will go to any extent to keep their wives at home, even if means to bring a dancing girl home to cook and look after the children!!"
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Violence",
+      "count": 2
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 7,
+      "female": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3969_bolly",
+      "emotion": "shame",
+      "dialogue": "My wife and his and his work in an export company. All together We're respectable folks. Any doubts? Make a telephone call I have a phone at home. Want it? - What characters! First...you wouldn't let your wives go to work. And now you use their positions...to escape the police? Shame! - Jhumri! Don't awaken the beast within Or right here, in this neighbourhood, a new goon will be born Right in front of me? You're coming to the police station",
+      "target_person": "men",
+      "target_gender": "male",
+      "cause_raw": "using their wives' positions to escape the police",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s3970_bolly",
+      "emotion": "shame",
+      "dialogue": "But why sir? - You just gave them jobs Explain their work to them. - Very well Is this because they are our husbands? - Husbands? Shame! Not because they're your husbands! The three of them are such liars! What are you doing? Because of you, the cops gave us a damn beating",
+      "target_person": "three men",
+      "target_gender": "male",
+      "cause_raw": "lying and causing trouble",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s3971_bolly",
+      "emotion": "shame",
+      "dialogue": "For us your money is a disgrace. Husbands like us will never touch it Well said Shame What men are you? You will sell the household wares? And you think it's an insult to accept a wife's earnings?",
+      "target_person": "husbands",
+      "target_gender": "male",
+      "cause_raw": "not accepting wife's earnings",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3972_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't need it. - So what are you doing here? Get lost Bravo! Awakens the man within! Shame! Is this an expression of your manhood? Strangling the women you wed, abusing them, throwing them out After all these years we put up with you, stood by you, gave you joys...mental, physical, this is the outcome?",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "domestic violence and abuse",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s3973_bolly",
+      "emotion": "shame",
+      "dialogue": "After all these years we put up with you, stood by you, gave you joys...mental, physical, this is the outcome? Even after all these years you do not understand your women? We are ashamed of you You hit your wife? I'll sauce you! - Supporting her? I'll sauce you This man beats me up like they beat up buffaloes. God! Your teeth be broken",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "domestic violence",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s3974_bolly",
+      "emotion": "shame",
+      "dialogue": "Your mischief is killing, your style is killing Fifty kilos of sculpted marble! Oh that slender neck! You'll put them to shame! Come to me, my rose petal! Welcome So this is your shack? - No, this is Lovesville",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "objectification",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3975_bolly",
+      "emotion": "shame",
+      "dialogue": "What happened to you? Say something You guys aren't friends! You guys are my enemies! I'm ashamed of you! Your wives are better than you are They are no friends, but they saved my life I want to go to Mummy! I just saw the fury of a goddess in my wife",
+      "target_person": "speaker's friends",
+      "target_gender": "male",
+      "cause_raw": "not being supportive or helpful",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3976_bolly",
+      "emotion": "shame",
+      "dialogue": "Let the three go No cause for tension! Surgery was successful Ms Jhumri, we're ashamed of whatever we did Don't say sorry to me. Apologise to your wives The three of them have suffered a lot. - The woman at home...is the goddess of the homestead. Even the Lord Shiva accepted that",
+      "target_person": "three men",
+      "target_gender": "male",
+      "cause_raw": "mistreatment of their wives",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p2164_bolly",
+      "emotion": "pride",
+      "dialogue": "Drill some sense into him! Had we not taken up the jobs...You spit that out too. Don't you eat what Mummy buys out of her pay your children would have been begging on the streets You stay away from Mummy, like Papa... be proud They'd have begged? Why? Because I thought that we might solve our problems?",
+      "target_person": "Mummy",
+      "target_gender": "female",
+      "cause_raw": "financial support for family",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

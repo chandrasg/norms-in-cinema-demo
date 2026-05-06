@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "1681569",
+    "title": "Kickassia",
+    "year": "",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "",
+    "overview": "The Nostalgia Critic's team try to take over the one-acre nation of Molossia and turn it into Kickassia."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP499_holly",
+      "emotion": "pride",
+      "dialogue": "But through a strange loophole, it is technically considered... a nation.  It is run by a man named Kevin Baugh,  who has declared himself the proud president of this land.  He has been called one Curly short of the Three Stooges,  but he does manage to keep order",
+      "target_person": "Kevin Baugh",
+      "target_gender": "male",
+      "cause_raw": "being the president of a land",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP500_holly",
+      "emotion": "pride",
+      "dialogue": "I'm fine. Anyway I run a website that has all sorts of reviewers that come together and, well, review stuff.  I don't like to brag, but, we're pretty successful.  I noticed that you er, have your own nation here. Must be very proud.  But to be fair, um... It is not very big and you're not very big.  So. Let's just cut to the chase here. I am going to... invade you.",
+      "target_person": "you",
+      "target_gender": "unclear",
+      "cause_raw": "having own nation",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP501_holly",
+      "emotion": "pride",
+      "dialogue": "(Everyone cheers)  (Chris Larios voicover) Dateline Kickassia! Year one of the new Critic Imperium.  Confidence is high as this new and proud nation works long and hard to establish its new government.  I'm Chris Larios for Transmission Awesome news.  Here today in the nation formally known as Molossia but now as of recent known as Kickassia.",
+      "target_person": "Chris Larios",
+      "target_gender": "male",
+      "cause_raw": "establishing a new government",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "1143648",
+    "title": "English Language. Second Year of Study. Rules of Etiquette № 1",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "SU",
+    "poster_path": "/nPNHoLk4B5mgCeKIF6jtrKxIeFP.jpg",
+    "overview": ""
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5234_bolly",
+      "emotion": "shame",
+      "dialogue": "Pappa! - Pappa! Hey mummy! Do you have any shame? Should I be ashamed? Or should I save Pappa? Decide? Shut up! You fraud...!Now forge some more and steal from anyone else?",
+      "target_person": "Pappa",
+      "target_gender": "male",
+      "cause_raw": "Fraud and theft",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s5235_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey mummy! Do you have any shame? Should I be ashamed? Or should I save Pappa? Decide? Shut up! You fraud...!Now forge some more and steal from anyone else? Why does it have to be your own father?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "stealing from his own father",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p2949_bolly",
+      "emotion": "pride",
+      "dialogue": "Papa... today at the IPL cricket league meeting....Everyone was so happy that I was marrying Karishma Solanki, the daughter of the owner of Kaveri Sarees...Devesh Solanki..I do know my name, as well as that of both my daughter and my company. I felt so proud when I heard that....You started off by showing saris in a shop a long time ago. Son, in a sari shop, It's normal to show saris. Hot dogs are sold outside on the street!",
+      "target_person": "Papa",
+      "target_gender": "male",
+      "cause_raw": "marrying a successful woman",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

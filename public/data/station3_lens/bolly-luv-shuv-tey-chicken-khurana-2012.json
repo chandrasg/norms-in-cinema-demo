@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "138370",
+    "title": "Luv Shuv Tey Chicken Khurana",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gGUwqtdCUJ36pTwqg2tiYzvKI4F.jpg",
+    "overview": "On-the-run from the London mafia, Omi returns to his ancestral village – a place he’d flown from with his grandad’s money and grander ‘London Dreams’. Will Omi be able to hide his failures while chasing love, and the lost recipe of the infamous dish, ‘Chicken Khurana’?"
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3384_bolly",
+      "emotion": "shame",
+      "dialogue": "Get off my scooter! Okay. Shameless! Harman...Harman, how do I get home now? Hi folks, on this enchanting evening...l bring you this age old classic, from a time gone by...gladden your hearts...''They elude..''",
+      "target_person": "Harman",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3385_bolly",
+      "emotion": "shame",
+      "dialogue": "You little devil...you sedated me and ran away with my money. Rascal! Aren't you ashamed of yourself? Grandpa... please! -Didn't you miss me? Of course I did, grandpa... -Didn't you?",
+      "target_person": "grandson",
+      "target_gender": "male",
+      "cause_raw": "stealing money",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p1774_bolly",
+      "emotion": "pride",
+      "dialogue": "A good home cooked meal and grandpa will be fit in no time. He looks better now...Yes? Grandpa... sorry. I'll  make you proud one day. Here, drink some water. You've got a visitor, brother-in-law. I do have a name, you know?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1775_bolly",
+      "emotion": "pride",
+      "dialogue": "See how it's falling apart...So, what do you think? It's mind blowing! I'm proud of you, Jeet. All thanks to grandpa. This is nothing... you've really made it.",
+      "target_person": "Jeet",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1776_bolly",
+      "emotion": "pride",
+      "dialogue": "I need some air. Tell them I've gone to the loo. Bless you! Keep smoking...keep smoking...Your grandpa was really proud of you! You are just like him...a rascal. Thank you for the compliment.",
+      "target_person": "grandpa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

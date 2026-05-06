@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "176124",
+    "title": "Home Run",
+    "year": "2013",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/687pD1t23ptW7mxhA34ASLEaFrE.jpg",
+    "overview": "A pro ball player with a substance abuse problem is forced into rehab in his hometown, finding new hope when he gets honest about his checkered past, and takes on coaching duties for a misfit Little League team"
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS387_holly",
+      "emotion": "shame",
+      "dialogue": "They had every website and every minute I spent looking at them,  logged right there in black and white.  I've...never felt such shame and embarrassment.  My porn addiction and my unwillingness to face it,  led to the loss of my family,",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "porn addiction",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS388_holly",
+      "emotion": "shame",
+      "dialogue": "with no one to reach out to,  not one person to tell.  My whole life I had carried the pain, burden and shame for my past.  Even though I've been a Christian for years,  I hid my pain and shame from everyone I knew.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "hiding past and personal pain",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "WS389_holly",
+      "emotion": "shame",
+      "dialogue": "My whole life I had carried the pain, burden and shame for my past.  Even though I've been a Christian for years,  I hid my pain and shame from everyone I knew.  [broken voice] When I-when I learned as an adult  that I would not be able to bear children of my own,",
+      "target_person": "Speaker",
+      "target_gender": "female",
+      "cause_raw": "inability to bear children",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WS390_holly",
+      "emotion": "shame",
+      "dialogue": "I'm just me.  Banged up and imperfect.  Because of the work of Jesus, I'm no longer living my life in shame.  Thank you for letting me share.  [muffled voices from TV]",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "past mistakes",
+      "theme_label": "Negligence"
+    }
+  ]
+}

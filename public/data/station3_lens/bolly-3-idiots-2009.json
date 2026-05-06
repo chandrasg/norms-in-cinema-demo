@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "20453",
+    "title": "3 Idiots",
+    "year": "2009",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+    "overview": "Rascal. Joker. Dreamer. Genius... You've never met a college student quite like \"Rancho.\" From the moment he arrives at India's most prestigious university, Rancho's outlandish schemes turn the campus upside down—along with the lives of his two newfound best friends. Together, they make life miserable for \"Virus,\" the school’s uptight and heartless dean. But when Rancho catches the eye of the dean's daughter, Virus sets his sights on flunking out the \"3 idiots\" once and for all."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3903_bolly",
+      "emotion": "shame",
+      "dialogue": "Make him understand Take off your pants or they are going to p**s on you Hey 007! Ashamed to speak Hindi? Sorry sir, I was born in Uganda, studied in Pondicherry so little slow in Hindi",
+      "target_person": "7",
+      "target_gender": "male",
+      "cause_raw": "not fluent in Hindi",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3904_bolly",
+      "emotion": "shame",
+      "dialogue": "Question paper. Virus set it himself, to fail you Strange buddies! First teach you to be upright, then offer a path to shame No way If I pass, it'll be on my own steam",
+      "target_person": "student",
+      "target_gender": "unclear",
+      "cause_raw": "cheating",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p2100_bolly",
+      "emotion": "pride",
+      "dialogue": "Why such an expensive gift? Our son's getting his first job today Don't be stingy at such a proud moment Farhan? Don't you have the job interview today?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "getting his first job",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2101_bolly",
+      "emotion": "pride",
+      "dialogue": "Where's he? - Rancho Farhan, he's read all your books Raju, he reads your blog everyday. Proudly shares it with the kids Remember your helmet, Pia? It was stolen...Who are you? How do you know us? Didn't you recognize me? - No",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

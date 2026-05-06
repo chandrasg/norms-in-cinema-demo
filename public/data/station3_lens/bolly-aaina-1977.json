@@ -1,0 +1,134 @@
+{
+  "film": {
+    "id": "542003",
+    "title": "Aaina",
+    "year": "1977",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8dn3zjcmo1FnaNQkOkMPY8Nk3Rj.jpg",
+    "overview": "An upper-caste Hindu Brahmin struggles to make ends meet forcing his daughter, Shalini, to take the burden of maintaining the family upon her shoulders"
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 3
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3939_bolly",
+      "emotion": "shame",
+      "dialogue": "Actually, my father has run away from home. Ran away from home? And you are laughing? - Aren't you ashamed? - Brother, you had lovingly named me Janki. My fate was just like my name. Lord Rama's wife, Janaki, had faced just 1 4 years of exile.",
+      "target_person": "Janki",
+      "target_gender": "female",
+      "cause_raw": "father running away from home",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3940_bolly",
+      "emotion": "shame",
+      "dialogue": "Look, it is not nice to look into torn clothes. Give. You did very well. He gave you a sari. And you took it. Why didn't you die of shame? - So what calamity took place? - Calamity? You won't be able to see that calamity so easily.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "accepting charity",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3941_bolly",
+      "emotion": "shame",
+      "dialogue": "I have seen that with my own eyes! I caught him myself! Isn't it a shameful matter for the entire family? Oh God! What kind of a day is this? First the movie was bad. Then this scene was even worse.",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "unknown shameful act",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3942_bolly",
+      "emotion": "shame",
+      "dialogue": "- So enjoyed your holiday? - Except for this picture...This is a Brahmin family. - Are you a Brahmin? - Yes. Don't you feel ashamed doing this despite being a Brahmin? Wait. What are you? Don't you feel ashamed doing this?",
+      "target_person": "Brahmin character",
+      "target_gender": "male",
+      "cause_raw": "Not living up to caste expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3943_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't you feel ashamed doing this despite being a Brahmin? Wait. What are you? Don't you feel ashamed doing this?  Your bride is an enchantress She has cast a magic spell on the groom",
+      "target_person": "Brahmin character",
+      "target_gender": "male",
+      "cause_raw": "not living up to caste expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3944_bolly",
+      "emotion": "shame",
+      "dialogue": "What have I done! One who had set out to protect his country...... couldn't protect a girl's honour? What have I done! Shame on me! Good you didn't say anything in their presence. Or wonder what they would have suffered.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "failure to protect a girl's honour",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p2134_bolly",
+      "emotion": "pride",
+      "dialogue": "- This is very easy. - Then say it. Who's stopping you? What nonsense are you saying? Hey doctor, you are very proud of yourself, right? The say this. Not like this. Say it fast. Mother has come. We' ll continue after the meal.",
+      "target_person": "doctor",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2135_bolly",
+      "emotion": "pride",
+      "dialogue": "Come, Usha. Wait! You don't need to go. I am proud of you. The pride with which you carry a stethoscope...... you carry a priest's robe with equal pride. You reminded a priest of his duty once again.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "Balancing professional and religious duties",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2136_bolly",
+      "emotion": "pride",
+      "dialogue": "Wait! You don't need to go. I am proud of you. The pride with which you carry a stethoscope...... you carry a priest's robe with equal pride. You reminded a priest of his duty once again. Give it to me.",
+      "target_person": "priest",
+      "target_gender": "male",
+      "cause_raw": "fulfilling duty with pride",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

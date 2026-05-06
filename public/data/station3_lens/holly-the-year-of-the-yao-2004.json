@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "14287",
+    "title": "The Year of the Yao",
+    "year": "2004",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/bdIvOEhBFoEUcRNqfqAJJeztMEC.jpg",
+    "overview": "The Year of the Yao is a documentary film telling the first year of basketball player Yao Ming in the United States."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    },
+    {
+      "label": "Sports Victory",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1182_holly",
+      "emotion": "pride",
+      "dialogue": "I could only imagine what Yao was feeling.  Not many 22-year-olds are ready to represent their country.  For Chinese basketball to be recognized by the NBA... is an honor for all Chinese people... and I'm especially proud of him because he's my son.  and I'm especially proud of him because he's my son.  There's no way Yao could've imagined what was ahead of him.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's recognition by NBA",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP1183_holly",
+      "emotion": "pride",
+      "dialogue": "Not many 22-year-olds are ready to represent their country.  For Chinese basketball to be recognized by the NBA... is an honor for all Chinese people... and I'm especially proud of him because he's my son.  and I'm especially proud of him because he's my son.  There's no way Yao could've imagined what was ahead of him.  He was expected to instantly make the Rockets... a playoff team... even to challenge Shaquille O'Neal... as the NBA's most dominant force... all while staying true to his traditional upbringing.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's recognition by NBA",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP1184_holly",
+      "emotion": "pride",
+      "dialogue": "How many points will Yao Ming score today?  Maybe two points?  And to see one of their own go to this American league... and play center, the power position... I think that has to be a source of great pride... to the Chinese people... to see one of their own going up against Shaq.  to see one of their own going up against Shaq.  Yao Ming!",
+      "target_person": "Chinese people",
+      "target_gender": "unclear",
+      "cause_raw": "Yao Ming playing in American league",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1185_holly",
+      "emotion": "pride",
+      "dialogue": "to see one of their own going up against Shaq.  Yao Ming!  I'm so proud to be involved in the development... of such a special athlete.  of such a special athlete.  For him to be performing in the NBA on such a big stage... makes me very happy.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "involvement in Yao Ming's development and his performance in NBA",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

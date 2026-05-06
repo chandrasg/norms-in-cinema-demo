@@ -1,0 +1,106 @@
+{
+  "film": {
+    "id": "81253",
+    "title": "Prem Rog",
+    "year": "1982",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/yseczqtwaxYNknHFNDyUzQ8awAh.jpg",
+    "overview": "Manorama, the daughter of a rich, orthodox family is married off, leaving her childhood friend Deodhar and his secret love for her, in despair. When tragedy befalls her, and traditions seem unfair, Deodhar must fight for what's right."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 3
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1481_bolly",
+      "emotion": "shame",
+      "dialogue": "When my romantic husband let's me, I will join you. You're lucky. Your husband's too busy for such things! Shameless! Your young daughter will learn all the wrong things! Don't get angry while singing hymns at least. Sure, I'm the one who's full of vices I suppose!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately in front of her daughter",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1482_bolly",
+      "emotion": "shame",
+      "dialogue": "Go on, start eating. It's really very nice. You too. Water? - Here have this. Aren't you ashamed? You feed chilly first, and now offer water? What do I do now? I'll not survive now. You're so cruel! A despot!",
+      "target_person": "character being fed",
+      "target_gender": "unclear",
+      "cause_raw": "cruel behavior",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s1483_bolly",
+      "emotion": "shame",
+      "dialogue": "But there must be some for a cat-bite too! So you think I'm a cat, eh? - I didn't mean you. A grown girl! Aren't you ashamed? - Isn't he ashamed? He's not really hurt. He has tied it up for a lark. Let's have a look. He's so good at excuses!",
+      "target_person": "grown girl",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately with a boy",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1484_bolly",
+      "emotion": "shame",
+      "dialogue": "And I always have. The day I saw you off as a bride. The day I removed the thorn from your foot, and today, even now. Aren't you ashamed of yourself? I had trusted you. You've killed that trust. Don't even show me your face. Leave this place. Listen to me at least, Rama. - Rama is dead to you!",
+      "target_person": "Rama",
+      "target_gender": "female",
+      "cause_raw": "Betrayal of trust",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p785_bolly",
+      "emotion": "pride",
+      "dialogue": "Of course, so that the whole village comes to know what happens...when someone plays around with an aristocratic girl. You're lying! You didn't come here for your daughter's reputation. You've come here to live up to your false pride and position! When people refer to her as a widow and turn their faces away......it doesn't hurt your pride. But when I wanted to give her a little respect, it got your guts!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "maintaining social status and reputation",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p786_bolly",
+      "emotion": "pride",
+      "dialogue": "You're lying! You didn't come here for your daughter's reputation. You've come here to live up to your false pride and position! When people refer to her as a widow and turn their faces away......it doesn't hurt your pride. But when I wanted to give her a little respect, it got your guts! Do you know how she exists in that dark dungeon in your house?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "maintaining social status and position",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p787_bolly",
+      "emotion": "pride",
+      "dialogue": "Sir? - Yes Dev. We'll curse her forever that she humiliated her family name. But we'll save our pride. Don't worry. I'll arrange it for you. But nobody should come to know of it. Nobody will know, sir. But... I won't elope with her.",
+      "target_person": "Dev",
+      "target_gender": "male",
+      "cause_raw": "preserving family name",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "29993",
+    "title": "Samson and Delilah",
+    "year": "1949",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/d2AHCe6WzvshD7ucKuUWgugExjc.jpg",
+    "overview": "When strongman Samson rejects the love of the beautiful Philistine woman Delilah, she seeks vengeance that brings horrible consequences they both regret."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 3
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS541_holly",
+      "emotion": "shame",
+      "dialogue": "What did I tell you?  He wants to marry a Philistine.  Samson... You would not bring this shame upon us.  You would not bring this shame upon us.  There's no shame in marriage, father.",
+      "target_person": "Samson",
+      "target_gender": "male",
+      "cause_raw": "wanting to marry a Philistine",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WS542_holly",
+      "emotion": "shame",
+      "dialogue": "He wants to marry a Philistine.  Samson... You would not bring this shame upon us.  You would not bring this shame upon us.  There's no shame in marriage, father.  To a Philistine woman?",
+      "target_person": "Samson",
+      "target_gender": "male",
+      "cause_raw": "marrying a woman from a different group",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WS543_holly",
+      "emotion": "shame",
+      "dialogue": "Samson... You would not bring this shame upon us.  You would not bring this shame upon us.  There's no shame in marriage, father.  To a Philistine woman?  Father, Semadar pleases me.",
+      "target_person": "Samson",
+      "target_gender": "male",
+      "cause_raw": "marrying a woman from a different group",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WS544_holly",
+      "emotion": "shame",
+      "dialogue": "There was no counting of the slain.  But what weapon had he?  More shame to us... the jawbone of an a*s.  A jester's toy?  No sword of iron ever struck such blows.",
+      "target_person": "Us",
+      "target_gender": "unclear",
+      "cause_raw": "underestimating opponent's weapon",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP1150_holly",
+      "emotion": "pride",
+      "dialogue": "Samson, you are rather like a lion.  Then you should learn more about lion hunting.  Proud and strong and fearless.  But not very wise.  Ahtur.",
+      "target_person": "Ahtur",
+      "target_gender": "male",
+      "cause_raw": "being compared to a lion",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

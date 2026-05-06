@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "211275",
+    "title": "Kachche Dhaage",
+    "year": "1999",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/dldo2zZgGVlhvKG6DvqJd5nnjAt.jpg",
+    "overview": "Dhananjay  and Aaftab are half brothers who have never met. When they first do they instantly loathe each other, having nothing in common. One night, Aaftab blows up a loaded truck while trying to steal from it and attracts a mass of unwanted enforcers. Soon, Aaftab is forced to send Dhananjay into a trap but ends up with them both being handcuffed and escaping from the Border Security Force, the Central Bureau of Investigation, and the border mafia who are attempting to incriminate the brothers for anti-national activities and murder. Fate has it such that they are forced to escape on foot, on motorbikes, cars, stolen trucks, and even handcuffed to each other on a moving goods train."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2914_bolly",
+      "emotion": "shame",
+      "dialogue": "Every second person is trying to enter my life. You go out of my house right now. Don't you feel ashamed to come here like this? - Sir. - Jai. Get out. - Sir, the donation. I don't have any money..What are you thinking?",
+      "target_person": "visitor",
+      "target_gender": "male",
+      "cause_raw": "intrusion of personal space",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "p1513_bolly",
+      "emotion": "pride",
+      "dialogue": "You are here. I know everything about you. I have got the record of yours. You have a lot of pride, don't you? You are the betrayers of the country. You have become a burden on us.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1514_bolly",
+      "emotion": "pride",
+      "dialogue": "You make the separated ones meet. You make the separated ones meet. And they lead a proud life because of your grace. The greatness of this place is beyond expression! The greatness of this place is beyond expression!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1515_bolly",
+      "emotion": "pride",
+      "dialogue": "All these days you were under me..And you fooled a person like me? The explosives that we got the orders to destroy..And you are selling those to the enemy. Wow! I am really proud of you. Jadeja! What is going on, Bhakta?",
+      "target_person": "Jadeja",
+      "target_gender": "male",
+      "cause_raw": "deceiving and selling explosives to the enemy",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1516_bolly",
+      "emotion": "pride",
+      "dialogue": "You make the separated ones meet. You make the separated ones meet. And they lead a proud life because of your grace. The greatness of this place is beyond expression! The greatness of this place is beyond expression!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

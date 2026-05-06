@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "378948",
+    "title": "Gautam Govinda",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/2JQNEA3CsRo3hY7AgUIoEpXpwYR.jpg",
+    "overview": "Gautam Govinda overview."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2037_bolly",
+      "emotion": "shame",
+      "dialogue": "Let's go, Uncle. - Sure, sure Brother, this is Sagar here. - Yes, Sagar? How are you? I'm terribly ashamed for whatever happened the other day If you are really ashamed, I no longer have a grouse against you So what's new? - You were going to visit the village",
+      "target_person": "Sagar",
+      "target_gender": "male",
+      "cause_raw": "Past actions or behavior",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2038_bolly",
+      "emotion": "shame",
+      "dialogue": "Brother, this is Sagar here. - Yes, Sagar? How are you? I'm terribly ashamed for whatever happened the other day If you are really ashamed, I no longer have a grouse against you So what's new? - You were going to visit the village I'm waiting eagerly for you. - You're waiting...?And I'm over here? Extremely sorry. I'm coming over tomorrow",
+      "target_person": "Sagar",
+      "target_gender": "male",
+      "cause_raw": "Apologizing for a past mistake",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2039_bolly",
+      "emotion": "shame",
+      "dialogue": "Chastity is their capital. They got nothing else So don't you dare get involved. - lmpostor! You touched me If Govinda comes to know, he will break your arms! Shameless fellow Remember, never to mess with my life. I'll leave no stone unturned Let my brother come. He'll solve the mystery of the bracelet",
+      "target_person": "impostor",
+      "target_gender": "male",
+      "cause_raw": "inappropriate touching",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1098_bolly",
+      "emotion": "pride",
+      "dialogue": "It isn't the iron's fault. It's what you make with it if I'm the one who makes swords, why hasn't he turned out like you? Which father does not want to be proud of his sons? But you, with your dirty attitude and misdeeds...have always embarrassed me! I some times wonder why you were born And even if you were born, why didn't you die?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's attitude and misdeeds",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

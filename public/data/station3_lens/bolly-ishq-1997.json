@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "29988",
+    "title": "Ishq",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/38xVYSuVXIJS1iyEaRm8wtjotZB.jpg",
+    "overview": "The children of two wealthy businessman fall in love with someone from a poor background, much to their parents' disapprovals."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2585_bolly",
+      "emotion": "shame",
+      "dialogue": "A Millionaire's son! Son of THE Mr. Ranjit! Shameless! Idiot! How dare you sell lizard oil in front of my office? You are disgracing me.",
+      "target_person": "Mr. Ranjit's son",
+      "target_gender": "male",
+      "cause_raw": "Disgraceful behavior and profession",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s2586_bolly",
+      "emotion": "shame",
+      "dialogue": "You truly have no self respect to be still standing here! No respectful person can stand such an insult! Someone else in your place would have died of shame it'll be you both who is going to die...and that too a dog's death. Come on, fellows.",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "lack of self-respect",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2587_bolly",
+      "emotion": "shame",
+      "dialogue": "but of those b******s who have challenged us. These b******s have dragged our family name into mud. We have to hide our faces in shame. They have turned our own offspring into our enemy. Bring them to such a death that,",
+      "target_person": "family members",
+      "target_gender": "unclear",
+      "cause_raw": "tarnishing family reputation",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2588_bolly",
+      "emotion": "shame",
+      "dialogue": "Come on, open your mouth. Come on, open your mouth, old man or I will spill the beans. Give him water, some one give him water He is fit to drown with shame. Come. Harbu, you have come so far why are you hesitating for a few more steps.",
+      "target_person": "Harbu",
+      "target_gender": "male",
+      "cause_raw": "Being humiliated in public",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p1356_bolly",
+      "emotion": "pride",
+      "dialogue": "Anyway, it's okay. But before leaving, I must say something. Don't be so proud and haughty Everything has it's downfall. Even the Sun and the Moon have eclipses. We are only humans.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1357_bolly",
+      "emotion": "pride",
+      "dialogue": "Throw them in the sacred rivers if you wish. Why the rivers...you have challenged an enormous sea. And now its fierce storm will engulf your love...the one that you're so proud of. Your love will be ruined. It's neither afraid of sea nor fire.",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "love",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

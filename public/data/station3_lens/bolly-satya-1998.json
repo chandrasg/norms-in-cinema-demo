@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "21502",
+    "title": "Satya",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/wwgpEEGU5RVu5hM7AZa6oiivcln.jpg",
+    "overview": "A young man named Satya comes to Mumbai from South India in search of a job. Jailed for something he did not do, the once-honest young man meets an underworld boss, Bhiku Mhatre in jail and joins his gang."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1930_bolly",
+      "emotion": "shame",
+      "dialogue": "Not so little, but this much. We've been at each other's necks since 10 years. - 12 years. - The first two years......you were only glued to me! - Shameless man! It was Babu's phone. Guru Narayan is coming by tomorrow's flight. Hold this.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate public behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1931_bolly",
+      "emotion": "shame",
+      "dialogue": "So? You should ask me. You have become a big underworld kingpin! So you feel ashamed to ask Bhau! - It isn't so, Bhau. - Then? All of you think that it's a child's play!",
+      "target_person": "underworld kingpin",
+      "target_gender": "male",
+      "cause_raw": "involvement in criminal activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s1932_bolly",
+      "emotion": "shame",
+      "dialogue": "12 years. Why? Have you ever given me a gift in these 12 years? Aren't you ashamed? Don't you ever think about your wife?! - I have given you a gift. - What? Those two... children!",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "not giving gifts to wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1933_bolly",
+      "emotion": "shame",
+      "dialogue": "- Bhikubhai. - Yes? Even I have 4-5 girlfriends. Shall I also have the gifts packed? - Aren't you ashamed? - Why? You just don't work. You only keep drinking beer all day! And you expect me to buy a gift for your girlfriend?!",
+      "target_person": "Bhikubhai",
+      "target_gender": "male",
+      "cause_raw": "Laziness and alcoholism",
+      "theme_label": "Alcoholism"
+    }
+  ]
+}

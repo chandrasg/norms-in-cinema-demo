@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "338644",
+    "title": "Abdullah",
+    "year": "1980",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jDtzHEuHGidC9Rydpy0QPTDUokQ.jpg",
+    "overview": "Abdullah has to fight oppression and torture as he tries to bring up the boy as a hindu where the majority are muslims."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4038_bolly",
+      "emotion": "shame",
+      "dialogue": "He killed the men and women. As usual, he took the children away with him. I am feeling so ashamed about this entire incident that..And I am sure, that even you all must have realized....that till today, we couldn't do anything. We could not even arrest the wretched monster. We all know that Khaleel is a cruel, wicked....notorious and a dangerous assassin.",
+      "target_person": "police",
+      "target_gender": "unclear",
+      "cause_raw": "inability to arrest a criminal",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s4039_bolly",
+      "emotion": "shame",
+      "dialogue": "The Caravan has still not arrived. You can already smell the male camels? Have some shame! You have become old. You have grown so old. But you are still so romantic?",
+      "target_person": "elderly man",
+      "target_gender": "male",
+      "cause_raw": "expressing romantic feelings at an old age",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p2191_bolly",
+      "emotion": "pride",
+      "dialogue": "I am worried about you....and you are just talking about money. Son, work hard make a honest living over there. And make your country proud. Alright mother. I do will just do as you say. I won't make even a small mistake.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "making country proud",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2192_bolly",
+      "emotion": "pride",
+      "dialogue": "And God knows, how I have spent these moments....without you. And now I am only waiting for the moment....when you become a bride, hide your moon like beautiful....face behind a veil and come to my house. I will feel proud of my destiny....and will thank the one who wrote my destiny. Really? - Yes, Zainab. Really! I can hear his voice.",
+      "target_person": "Zainab",
+      "target_gender": "female",
+      "cause_raw": "becoming a bride",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

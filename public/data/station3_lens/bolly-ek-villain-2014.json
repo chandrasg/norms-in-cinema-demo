@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "276935",
+    "title": "Ek Villain",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/tIMfMyCo7yeRqaRXmor5yJj14pV.jpg",
+    "overview": "An ex-gangster re-enters the world of violence after his wife is murdered by a serial killer."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5220_bolly",
+      "emotion": "shame",
+      "dialogue": "What is the press doing outside? So that your photos are published in the newspaper......and people come to know that you are the officer......who forbade an adult girl from getting married against her will. You're interfering in other people's lives! Don't you have any shame? Sheela is an adult. And she came to me for help.",
+      "target_person": "officer",
+      "target_gender": "male",
+      "cause_raw": "interfering in personal matters",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "p2933_bolly",
+      "emotion": "pride",
+      "dialogue": "Let's see. Hi! I just wanted to send this message across that......I'm proud of you. I'm sure that whatever you do in life will be right for you. No matter how many obstacles you face......there won't be darkness anymore.",
+      "target_person": "<speaker",
+      "target_gender": "unclear",
+      "cause_raw": "overcoming obstacles",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2934_bolly",
+      "emotion": "pride",
+      "dialogue": "Hunt! ‘Hip 'I just wanted to send this message across that...'proud of you.' 'I'm confident that..''..now you'll do..''..everything right in life.' 'No matter how many hardships you face.'",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2935_bolly",
+      "emotion": "pride",
+      "dialogue": "Do you have a mole at a special place in your body? Wagle, take him in the custody. Some call me their pride. Some pay me a price. I smile at them.",
+      "target_person": "Wagle",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

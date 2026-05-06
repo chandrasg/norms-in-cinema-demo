@@ -1,0 +1,149 @@
+{
+  "film": {
+    "id": "103048",
+    "title": "China Gate",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/83Z4Vx01zIwftnpeoELknrGz8Lu.jpg",
+    "overview": "After witnessing the brutal slaying of her Forest Officer father, Sunder Rajan, at the hands of dreaded dacoit Jageera, Sandhya goes to Colonel Krishnakant Puri and asks for his assistance in bringing an end to Jageera's rule in the Devdurg region. Krishnakant agrees to assist her, and summons about a dozen of his fellow officers and subordinates to assist him. They all assemble at Devdurg with all the necessary ammunitions and arms to combat Jageera, not realizing that Jageera has influence over the local police detachment, who will prevent Puri and his men to possess any guns and weapons. This does not deter Puri and his men, and they continue to stay on in Devdurg and gain the confidence of the villagers. What the villagers do not know that Krishnakant and his men had all been dishonorably discharged from the army for cowardice and retreating when attacked by the enemy. Will Puri and his men abandon Devdurg and let history repeat itself?"
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s783_bolly",
+      "emotion": "shame",
+      "dialogue": "They put up the dispensary. They started the school. All for our sake! And you say we've nothing to do with them! Are you shameless?! For Heaven's sake, shut up! Our lives are now in danger. But if we want a better future...we must stand up to him today. For two months we have defied him. We have refused to pay his ransom. And he's unnerved.",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "not acknowledging the good deeds of others",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s784_bolly",
+      "emotion": "shame",
+      "dialogue": "We must get to know as much as we can about Jagira from the villagers. We must know how many men he has, the weaponry he uses...The villagers are terrorized. They won't tell you anything. What use a life like this? Shame on them! They can't protect themselves. And they won't help us to help them! Jagira is justified in robbing people like these. Cowards!",
+      "target_person": "villagers",
+      "target_gender": "unclear",
+      "cause_raw": "inability to protect themselves",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s785_bolly",
+      "emotion": "shame",
+      "dialogue": "There was an attack. And people were lazing about, asleep, drunk. No one knew where the guns were. No coordination. We were fighting like women. Shame on us. Are we soldiers? Luckily for us, their leader was shot. That's why they retreated. A few minutes more, and this place would be strewn with corpses.",
+      "target_person": "soldiers",
+      "target_gender": "male",
+      "cause_raw": "lack of preparedness and coordination",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s786_bolly",
+      "emotion": "shame",
+      "dialogue": "No tricks in the circus. Just acts. Would you like to see a couple of acts? I'll make sure you do it. And you'll shame the monkeys. The monkey! We forgot it! I am Inspector Barot.",
+      "target_person": "Inspector Barot",
+      "target_gender": "male",
+      "cause_raw": "being compared to a monkey",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s787_bolly",
+      "emotion": "shame",
+      "dialogue": "Let go! He touched my Mummy! I'll break his head! Shameless creatures! Quiet! A mother is weeping over her only son. Don't be so greedy.",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting a mother",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p394_bolly",
+      "emotion": "pride",
+      "dialogue": "And my poor mother! All she used to do was weep! We moved house... we left the town. I stopped using my father's name! I wanted to prove myself. I wanted my mother to be proud of me! But you won't let me do a thing! You've got me sidetracked! Damn your team! I want none of it!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "proving himself",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p395_bolly",
+      "emotion": "pride",
+      "dialogue": "What is my community?! And what right have you to point fingers at my community?! Proud I am! That I was born of this soil! Proud I am! That my forefathers lie buried in this soil! Proud I am! Proud of my community!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "belonging to a particular community and its heritage",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p396_bolly",
+      "emotion": "pride",
+      "dialogue": "And what right have you to point fingers at my community?! Proud I am! That I was born of this soil! Proud I am! That my forefathers lie buried in this soil! Proud I am! Proud of my community! Then why have I to hear this time and again?",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "belonging to his community and ancestry",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p397_bolly",
+      "emotion": "pride",
+      "dialogue": "Proud I am! That I was born of this soil! Proud I am! That my forefathers lie buried in this soil! Proud I am! Proud of my community! Then why have I to hear this time and again? After what happened to me...My brother was killed too. In the riots in Meerut.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "birthplace and community",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p398_bolly",
+      "emotion": "pride",
+      "dialogue": "My comrades and I would like to see...the money spent on the development of this village. Cancer cannot kill a soldier as valiant as Gurung. You would have made your father proud. After all, we did win our war. Whatever the war, whatever the outcome...the soldier always loses something.",
+      "target_person": "Gurung",
+      "target_gender": "male",
+      "cause_raw": "valiant soldier",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

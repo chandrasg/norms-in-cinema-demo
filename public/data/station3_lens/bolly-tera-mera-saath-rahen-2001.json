@@ -1,0 +1,108 @@
+{
+  "film": {
+    "id": "302936",
+    "title": "Tera Mera Saath Rahen",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jPYFXngk3S0QEgdNS3Hxi8eWVRE.jpg",
+    "overview": "Raj Dixit lives with his younger brother, Rahul, who is disabled, both mentally and physically, from birth. Raj is also employed full-time, and after work, has the responsibility of looking after Rahul, which leaves him no time for himself. His beautiful neighbor, Suman Gupta, is attracted to him, but he regards her as a friend only. When Mr. Khanna introduces him to his niece, Madhuri, both instantly falls in love. The only problem is that Madhuri will only marry Raj, if Rahul is institutionalized. Raj agrees to get him admitted in a facility, much to Madhuri's delight, and together they start to plan their marriage, not realizing that things are going to take a turn for the worse."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4379_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll tell you. He said that the old man is a miser. Your father is a miser! Your whole lousy family is a miser! Shameless fools! Just come here! - Hey miser. Your father, Pascal D'Souza, he is a miser.",
+      "target_person": "Pascal D'Souza",
+      "target_gender": "male",
+      "cause_raw": "Being a miser",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4380_bolly",
+      "emotion": "shame",
+      "dialogue": "If you don't sleep, how will your children get spoilt? Dad, what did Sanjay do? - What did he do? The shameless fellow was standing at the street corner. He had some new friends with him today. When I asked him what he was doing....he told me to proceed, he'll follow.",
+      "target_person": "Sanjay",
+      "target_gender": "male",
+      "cause_raw": "bad company and disrespectful behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4381_bolly",
+      "emotion": "shame",
+      "dialogue": "So what wrong did he say? Don't you live in this society? - I'll thrash you! They feel ashamed to call their father as father. Hi dad! Dad? You fool! You just wait!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not respecting traditional forms of addressing elders",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4382_bolly",
+      "emotion": "shame",
+      "dialogue": "What do you mean? If anything happens to you, who will we call a miser? Hey! Sanjay. - Shameless! Mind your tongue! Put a horse on your tongue and pull him back. Her English!",
+      "target_person": "Sanjay",
+      "target_gender": "male",
+      "cause_raw": "disrespectful language",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4383_bolly",
+      "emotion": "shame",
+      "dialogue": "Take Suman also and go. - Suman? Yes. Look, she is sitting there with your to-be son-in-law. Suman, you shameless girl! This is what you are doing here? come home! come home! come. Why, you loafer.. - Hey! Who are you calling a loafer?",
+      "target_person": "Suman",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior with a man",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4384_bolly",
+      "emotion": "shame",
+      "dialogue": "Why, you loafer.. - Hey! Who are you calling a loafer? Don't shout and talk to me. You don't scare me. come home you shameless girl! Oome..I'll skin you alive! You have brought us disgrace. Get in! You have disgraced me! You impudent girl! Brazen!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "disobedience and disrespect",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4385_bolly",
+      "emotion": "shame",
+      "dialogue": "Leave her! Brazen? I am brazen? You should feel ashamed, dad....that you are beating your young daughter....like that in everyone's presence. Have you ever given a thought to my age? Food to eat, home to live, clothes to wear....is that all a young girl needs?",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "being physically abused by her father",
+      "theme_label": "Violence"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "film": {
+    "id": "462656",
+    "title": "Sangram",
+    "year": "1993",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/oZmrEJ3cc4ZN4nFf1kuoQzP6rOx.jpg",
+    "overview": "Thakur Surajbhan Singh Kanwar forces Thakur Shamsher Singh Rana sister to commit suicide thus the two business-men became enemies. Years later Surajbhan's son, Raja and Rana's daughter, Madhu meets and gets acquainted with each other which forces Surajbhan and Rana to join hands on condition that Raja will only get marry to Madhu. But on the engagement day Raja announces that he is in love with a poor woman, Palavi which forces Madhu to attempt suicide thus throwing both the families back to square one - this time such an enmity that will lead to blood-shed."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    },
+    "pride": {
+      "female": 1,
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1869_bolly",
+      "emotion": "shame",
+      "dialogue": "We need to Girls' College tomorrow. I can not give my boys your girls! You are not ashamed! Open want my boys to girls! Oh, God! - No, Mr Shastra! Have trouble communicating.",
+      "target_person": "Mr. Shastra",
+      "target_gender": "male",
+      "cause_raw": "Miscommunication and misunderstanding",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1870_bolly",
+      "emotion": "shame",
+      "dialogue": "Call her to enter, please! Thanks for the flowers and good wishes. Very ashamed. Crossed all boundaries. If I was not saved with false testimony ...Forgive me, Raja! Mischief can also change lives.",
+      "target_person": "Raja",
+      "target_gender": "male",
+      "cause_raw": "false testimony",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1871_bolly",
+      "emotion": "shame",
+      "dialogue": "Does not seem to love me. I am here to love. Shame on you! Your son is already great! Hey, what is this crap? - They hurt, right? It hurts when one is injured.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not reciprocating love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1872_bolly",
+      "emotion": "shame",
+      "dialogue": "Why is this happening, Horny? Still can you explain? Oh, God! Are not you ashamed! Fool! Both ...What was this explosion? There, behind the mountain cliff ruin",
+      "target_person": "Horny",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1873_bolly",
+      "emotion": "shame",
+      "dialogue": "Who? - He. Who has come? He probably has a name. Go and ask him! I asked him 3 times. He said ...No, I am ashamed to say it to my sister. Friends with many strange people. Who has come? Say his name!",
+      "target_person": "visitor",
+      "target_gender": "male",
+      "cause_raw": "not revealing his name",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p985_bolly",
+      "emotion": "pride",
+      "dialogue": "What a gift, Mother? Here, look! Where is your vaunted pride? And that might remind you of your age? Does your father is old? - Yes, I talk about my father.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p986_bolly",
+      "emotion": "pride",
+      "dialogue": "Give me your daughter. I just saved the life of your enemy. I am proud to be your enemy. Just as I was proud of our friendship. Saving my life, you proved his humanity.",
+      "target_person": "enemy",
+      "target_gender": "male",
+      "cause_raw": "saving life",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p987_bolly",
+      "emotion": "pride",
+      "dialogue": "I just saved the life of your enemy. I am proud to be your enemy. Just as I was proud of our friendship. Saving my life, you proved his humanity. Forget our enmity and show me and his generosity.",
+      "target_person": "enemy",
+      "target_gender": "unclear",
+      "cause_raw": "saving life",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p988_bolly",
+      "emotion": "pride",
+      "dialogue": "to show to people! Dad! Not with my head and proudly say, that your daughter did not commit any sin. I loved you. In the eyes of God is not sin.",
+      "target_person": "dad",
+      "target_gender": "male",
+      "cause_raw": "daughter's moral integrity",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p989_bolly",
+      "emotion": "pride",
+      "dialogue": "I mean for your story, Mr. Thakur. Let Raja learns that his father sacrifice his son because of his false pride. Who Horny forced to be removed Having lit her house?",
+      "target_person": "Mr. Thakur",
+      "target_gender": "male",
+      "cause_raw": "sacrificing his son due to false pride",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

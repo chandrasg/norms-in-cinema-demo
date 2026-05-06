@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "316359",
+    "title": "Category 5",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/zLIskeg6XOXuytYlPd7pCcIoeBs.jpg",
+    "overview": "After a family survives Hurricane Katrina, there is another storm but this one is much worse."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2654_holly",
+      "emotion": "pride",
+      "dialogue": "You're a man now.  In my book, anyway.  And I'm damn proud of you.  I'm just doing what I can do to help.  Yeah, just keep it up.",
+      "target_person": "Speaker 1",
+      "target_gender": "male",
+      "cause_raw": "for becoming a man and helping",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2655_holly",
+      "emotion": "pride",
+      "dialogue": "but today we have a unique one.  You know her as Victoria dupuis, ahead of the curve.  I'm so proud of you, sweetheart.  You're so brave.  Your mama would be so proud.",
+      "target_person": "Victoria Dupuis",
+      "target_gender": "female",
+      "cause_raw": "being ahead of the curve",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP2656_holly",
+      "emotion": "pride",
+      "dialogue": "I'm so proud of you, sweetheart.  You're so brave.  Your mama would be so proud.  All right, it's your moment to shine.  You tell them your story. All right.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "bravery and telling their story",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

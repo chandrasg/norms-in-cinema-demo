@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "84321",
+    "title": "Major Saab",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6mS6zYGLA8ObDDRtP5HuI91QWc9.jpg",
+    "overview": "Virendra is a spoiled young man newly enrolled in the Indian army. Major Jasbir Singh Rana, a tough disciplinarian, is in charge of transforming him into a brave soldier and a noble man."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3447_bolly",
+      "emotion": "shame",
+      "dialogue": "You're getting old now. There's not much oil left in you! Don't go by this grey beard, love. There's still a lot of oil left in me to put even the sea to shame! Hospital again? I don't get one thing though. Since you did manage to run away...- ...why did you come back? - Had to take my winnings.",
+      "target_person": "elderly man",
+      "target_gender": "male",
+      "cause_raw": "old age and health issues",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p1815_bolly",
+      "emotion": "pride",
+      "dialogue": "Got scared, eh? My dear boys, laugh as much as you want......sing and smile too. But, for the last time. Because this gate of the Academy is the threshold of......Major Jasbir Singh Rana's pride! Cross that and no more laughing. At his footfalls, the flowers droop instead of blooming. The atmosphere is as silent as a burial ground.",
+      "target_person": "Major Jasbir Singh Rana",
+      "target_gender": "male",
+      "cause_raw": "maintaining discipline and order",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1816_bolly",
+      "emotion": "pride",
+      "dialogue": "That's what I want to know. Who's that man......who's stealing military arms, and selling them to gangsters? - What do you mean? - This gun was retrieved from a gangster......who was killed in the last gang war. This means......one of your men was hand in glove with the gangster. - It's impossible! - It's not wrong to be proud of one's department. But, at times, there are jackals in a tiger's clothing! My every soldier is of the type who'll die for his country.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "loyalty and dedication to country",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "330947",
+    "title": "Song to Song",
+    "year": "2017",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/itmaNi14GyWguTOywZ0mMzyScW9.jpg",
+    "overview": "In this modern love story set against the Austin, Texas music scene, two entangled couples — struggling songwriters Faye and BV, and music mogul Cook and the waitress whom he ensnares — chase success through a rock ‘n’ roll landscape of seduction and betrayal."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS236_holly",
+      "emotion": "shame",
+      "dialogue": "I don't deserve you.  ♪ The high won't fade here, babe... ♪  The shame of it,.  ♪ No, the high won't hurt here, babe ♪  Things changed.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "self-deprecation or feeling unworthy",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP525_holly",
+      "emotion": "pride",
+      "dialogue": "It's a stage show.  It's all just free fall.  You have too much pride.  I thought pride was a good thing.  People aren't proud enough.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP526_holly",
+      "emotion": "pride",
+      "dialogue": "It's all just free fall.  You have too much pride.  I thought pride was a good thing.  People aren't proud enough.  Selfish!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP527_holly",
+      "emotion": "pride",
+      "dialogue": "You have too much pride.  I thought pride was a good thing.  People aren't proud enough.  Selfish!  Arrogant! Conceited!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP528_holly",
+      "emotion": "pride",
+      "dialogue": "Didn't need what made life sweet for them.  Look at me.  I'm sor... I'm sorry that you're not as proud of me... as you are... with my sisters.  with my sisters.  I'm not who I thought I was.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP529_holly",
+      "emotion": "pride",
+      "dialogue": "where I have no choice but to do what I do, so... Eventually, maybe he'll hear my prayers and I'll be able to... you know, move forward and do something... valued with my life.  valued with my life.  Something my dad can be proud of, you know.  Make the money. Don't let the money make you.  Create the illusion,",
+      "target_person": "dad",
+      "target_gender": "male",
+      "cause_raw": "doing something valued with life",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

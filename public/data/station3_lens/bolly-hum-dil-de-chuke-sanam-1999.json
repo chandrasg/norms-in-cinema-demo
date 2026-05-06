@@ -1,0 +1,105 @@
+{
+  "film": {
+    "id": "5319",
+    "title": "Hum Dil De Chuke Sanam",
+    "year": "1999",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/kuoJvw45TobVp5QcyV16nK26NFx.jpg",
+    "overview": "A newly-wed man discovers that his wife is in love with another man and decides to unite them. Ignoring the ridicule he might have to face for this, he takes his wife to Italy in search of her love."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2479_bolly",
+      "emotion": "shame",
+      "dialogue": "Coming, Nandini. Let's run away. - You're saying that now? My parents will die of shame. It's too late now. Go! What happened? - I broke a vase. Are you all right? - Yes.",
+      "target_person": "Nandini",
+      "target_gender": "female",
+      "cause_raw": "eloping",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2480_bolly",
+      "emotion": "shame",
+      "dialogue": "The trespasses of my eyes...\"please do forgive\" My shyness and modesty...\"please do forgive\" Aren't you ashamed to do that in everyone's presence? Nandini, listen...I don't want to hear anything. You've spoilt my photograph. Why are you getting angry? I was only joking.",
+      "target_person": "Nandini",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior in public",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2481_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't cross your limits! He's right. Before blaming others, take care of your own family. You'll be ashamed the day you know what your daughter is up to. Stop it! Don't any of you dare badmouth about Nandini. I trust Nandini, I take pride in her.",
+      "target_person": "Nandini's family",
+      "target_gender": "female",
+      "cause_raw": "Daughter's behavior",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2482_bolly",
+      "emotion": "shame",
+      "dialogue": "Look, the moon! You liar! We're hungry anyway. And you're teasing us. You have put it to shame, my love No, Moon... do not show up; should you show up...\"my beloved might go away out of shyness\" Show up, O Moon... May you be blessed",
+      "target_person": "moon",
+      "target_gender": "unclear",
+      "cause_raw": "being used to tease",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1286_bolly",
+      "emotion": "pride",
+      "dialogue": "You'll be ashamed the day you know what your daughter is up to. Stop it! Don't any of you dare badmouth about Nandini. I trust Nandini, I take pride in her. She's as pure as my music. If I find her doing anything wrong, assume my music will die forever.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "trust in daughter's purity",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1287_bolly",
+      "emotion": "pride",
+      "dialogue": "Actually, I have no words to describe how beautiful you are. You must be wondering that you are so beautiful and mischievous...how could you marry this man who is so reserved and quiet. Is he proud, or is he trying to prove he's intelligent? Do you know? I'm the son of a famous lawyer...but I lose my cases very often The truth is that I cannot stand lies.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being truthful",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

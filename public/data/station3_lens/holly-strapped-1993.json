@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "26479",
+    "title": "Strapped",
+    "year": "1993",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/txcj4qo5wJ1Vdv0jLCL8Bl1hzU7.jpg",
+    "overview": "Ex-con attempting to go straight runs across serious problems. His girlfriend gets arrested for dealing crack to an undercover police officer. In a desperate attempt to get the charges dropped against his woman, he strikes a deal with a weapons cop to turn in local gun dealers. However, the D.A. is not satisfied with the results, resulting in some serious game playing and double crossing."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS937_holly",
+      "emotion": "shame",
+      "dialogue": "Oh, you're too smart to be one of Leon's boys. And you don't do drugs.  Naw. You're no River Phoenix. You know who you are? Brad Davis. Dying in your  own arms. Have you ever seen ''Querelle?'' Shame on you. Leon, you  know, he sees things his own way. As if the past were perfection.  What do you see?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "lack of cultural knowledge not having seen \"Querelle\")",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS938_holly",
+      "emotion": "shame",
+      "dialogue": "I mean, I suck c**k.  Well that's a star.  Yeah. And I ain't ashamed of it, either.  Good for you.  I like having sex with guys. Like turning them on. Getting f****d.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "sexual orientation and sexual behavior",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WS942_holly",
+      "emotion": "shame",
+      "dialogue": "Oh, you're too smart to be one of Leon's boys. And you don't do drugs.  Naw. You're no River Phoenix. You know who you are? Brad Davis. Dying in your  own arms. Have you ever seen ''Querelle?'' Shame on you. Leon, you  know, he sees things his own way. As if the past were perfection.  What do you see?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "lack of cultural knowledge not having seen \"Querelle\")",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS943_holly",
+      "emotion": "shame",
+      "dialogue": "I mean, I suck c**k.  Well that's a star.  Yeah. And I ain't ashamed of it, either.  Good for you.  I like having sex with guys. Like turning them on. Getting f****d.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "sexual orientation and sexual behavior",
+      "theme_label": "Promiscuity"
+    }
+  ]
+}

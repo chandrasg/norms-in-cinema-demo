@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "333674",
+    "title": "Intruders",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/5zRiFh5d1hWmYDqcYKz6uSUXKnl.jpg",
+    "overview": "Anna suffers from agoraphobia so crippling that when a trio of criminals break into her house, she cannot bring herself to flee. But what the intruders don't realize is that agoraphobia is not her only psychosis."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 2
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP321_holly",
+      "emotion": "pride",
+      "dialogue": "Hey, Anna.  This is Charlotte. I was just thinking about you,  and I wanted to let you know how proud I am of you for,  you know, facing your fears,  and getting out there and going to your brother's funeral.",
+      "target_person": "Charlotte",
+      "target_gender": "female",
+      "cause_raw": "Anna facing her fears and attending her brother's funeral",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP322_holly",
+      "emotion": "pride",
+      "dialogue": "And he built this room  to punish f*****g pedophiles like your dad.  Ah, I saw some twisted f*****g s**t, but this... Pfft, you must be really proud of yourself.  Pfft, you must be really proud of yourself.  No, I would've stopped, but they didn't show me",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "punishing pedophiles",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP323_holly",
+      "emotion": "pride",
+      "dialogue": "to punish f*****g pedophiles like your dad.  Ah, I saw some twisted f*****g s**t, but this... Pfft, you must be really proud of yourself.  Pfft, you must be really proud of yourself.  No, I would've stopped, but they didn't show me  - they were sorry! - How would they do that?",
+      "target_person": "speaker 2",
+      "target_gender": "male",
+      "cause_raw": "punishing pedophiles",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

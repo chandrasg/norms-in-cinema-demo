@@ -1,0 +1,65 @@
+{
+  "film": {
+    "id": "546311",
+    "title": "Kohinoor",
+    "year": "1960",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/iwaUF7mgDDjkfujWMtUH5a4nSFc.jpg",
+    "overview": "Rajkumar Dhivendra Pratap Bahadur is the new king. Veer Singh's wife, who raised Dhivendra, wants him to marry Rajkumari Chandramukhi of Rajgarh, and her father is also for it. The trouble is, people keep falling in love with Dhivendra and with Chandramukhi, and it will take plenty of swashbuckling to untangle the mess."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1474_bolly",
+      "emotion": "pride",
+      "dialogue": "Residents of Kailash Nagar and members of the Royal Court...It is quite some time since the death of......the king of this province, our well wisher, King Chandrabhan. Though no has inherited his throne, yet his pious soul......has always been guiding us to run the kingdom ably. As the chief minister of this kingdom and a loyal......subject of the king, I take pride in making an announcement......that the period for which the deceased king had asked me to......shoulder responsibility of running the kingdom, will end......by the beginning of the next month. Today on the auspicious occasion of Holi...and according to the desire of our deceased king, I decree...that on the first day of the next month...the coronation of our dear prince should be formalized. But the prince hasn't still come to the court.",
+      "target_person": "chief minister",
+      "target_gender": "male",
+      "cause_raw": "running the kingdom ably",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1475_bolly",
+      "emotion": "pride",
+      "dialogue": "Go out, you don't have the strength to bear another attack! Shut the door with your wounded hands my friend. A person should act wisely. Such a tall, strong man......with so much pride, having such long moustaches......should have been handled carefully, my girl. Grab him with both hands. You won't find such a handsome man again. Remember girl, if you fail this time...for the rest of your life you will be suffering, and selling peanuts.",
+      "target_person": "tall strong man",
+      "target_gender": "male",
+      "cause_raw": "physical strength and appearance",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1476_bolly",
+      "emotion": "pride",
+      "dialogue": "Your Holiness...Problems of you two lovers has destroyed me. My peace of mind is disturbed. Get a whip. I'll treat that proud girl a lesson. No Holiness. - Shut up! No Holiness...Water.",
+      "target_person": "Holiness",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1477_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't you feel ashamed to talk of love you witch. I'm not a witch, I'm a dancer. You had to show your low status! If you are so proud of your love......then burn your hands which have blinded your love. This too is a manifestation of love. - You are shameless! Get out.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

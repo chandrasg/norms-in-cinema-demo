@@ -1,0 +1,99 @@
+{
+  "film": {
+    "id": "41381",
+    "title": "Pukar",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6CYvGwb1hmIQcBWjfpec599v7X4.jpg",
+    "overview": "Major Jaidev saves a politician from the clutches of a dreaded terrorist. However, the terrorist joins hands with his childhood friend Anjali to ruin his life."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1478_bolly",
+      "emotion": "shame",
+      "dialogue": "I haven't even eaten anything. I don't know what happened. I'm ashamed of myself. -Calm down. Relax, it's all right. it's okay. Can I have a glass of water? -",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "personal failure or mistake",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1479_bolly",
+      "emotion": "shame",
+      "dialogue": "There will be so many dead bodies....that people will forget Jallianwala Bagh. You indians will never raise your heads....with pride on every lndependence Day. They will be bowed in shame! The Town Hall explosion will just be the beginning. After that we'll unleash such terror in the country that",
+      "target_person": "Indians",
+      "target_gender": "unclear",
+      "cause_raw": "being terrorized and oppressed",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1480_bolly",
+      "emotion": "shame",
+      "dialogue": "You want to die? You want to die now that you have ruined Jai's life? If you're really ashamed of what you've....done you must stand by Jai! You must fight to prove his innocence. If you're killed in this battle....your death will have some justification.",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "causing harm to Jai",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "p781_bolly",
+      "emotion": "pride",
+      "dialogue": "Jai is blinded by arrogance. He can't see how much you love him. He will value your love only when you destroy his pride. You'll have to do a small job for that. What?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p782_bolly",
+      "emotion": "pride",
+      "dialogue": "With such a large population! I have always killed and will continue to do it. This time, I am here not only to kill but....to strip your nation of its pride. The Town Hall is the pride of your city. The occasion is the combined celebration of the....lndependence Day and the success of Operation Vijay.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p783_bolly",
+      "emotion": "pride",
+      "dialogue": "I have always killed and will continue to do it. This time, I am here not only to kill but....to strip your nation of its pride. The Town Hall is the pride of your city. The occasion is the combined celebration of the....lndependence Day and the success of Operation Vijay. After a great deal of thought I've chosen....this occasion and this place.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p784_bolly",
+      "emotion": "pride",
+      "dialogue": "lnside your homes! There will be so many dead bodies....that people will forget Jallianwala Bagh. You Indians will never raise your heads....with pride on every independence Day. They will be bowed in shame! The Town Hall explosion will just be the beginning.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

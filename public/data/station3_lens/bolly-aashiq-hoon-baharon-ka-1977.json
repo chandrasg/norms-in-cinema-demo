@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "303102",
+    "title": "Aashiq Hoon Baharon Ka",
+    "year": "1977",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/1cv499cubRxPPlmjbtICLK7OLgD.jpg",
+    "overview": "Indian romance from director J. Om Prakash.  Ashok moves from India to Switzerland to work in a uranium enrichment plan, before falling in love with the boss' daughter."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s453_bolly",
+      "emotion": "shame",
+      "dialogue": "Lord Krishna also said this in the Gita...Every man on earth is one. - His religion is one... - I feel you have no religion. You are shameless. Driving here is different than in India. Drive to the right...- Any mistake in driving? - No, you're terrific. I have a proposal for you.",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "lack of religious belief",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s454_bolly",
+      "emotion": "shame",
+      "dialogue": "Build a broken home. This would be the best earning of your life. All right and...I'm ashamed at the way Daddy treated you. - I have no complaints. - Won't you forgive me? - For what? - For misunderstanding you.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "mistreatment of family member",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s455_bolly",
+      "emotion": "shame",
+      "dialogue": "You want wealth from any source. - Even by killing somebody? - Sure if the amount is large. Shameless! All of a sudden where did you find decency? What did you say?",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "greed and lack of morality",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s456_bolly",
+      "emotion": "shame",
+      "dialogue": "You married this man for wealth and repeatedly told me...Don't annoy Jumbo. He's our cheque book! He is lying! Shameless boy! What have you done? His eyes are open now. We have no relation left. I'll tread the same path that you laid out for me.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "lying and marrying for wealth",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p205_bolly",
+      "emotion": "pride",
+      "dialogue": "Every Indian doesn't believe in non-violence. Neither do I. Don't' you dare abuse any Indian specially in my presence. You've made India proud by rendering him speechless. But why did he fire you? He brought me here from Gurdaspur",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "defending Indian honor",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

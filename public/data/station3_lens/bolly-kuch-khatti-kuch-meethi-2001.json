@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "165065",
+    "title": "Kuch Khatti Kuch Meethi",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/w8zIRrBdLBe5Jz9xAtfyTgxnJVw.jpg",
+    "overview": "This story revolves around the lives of two look-alike sisters, who are brought up separately by their estranged parents, who had separated due to a misunderstandings when the girls were little. The twins meet, find out about their backgrounds, and decide to switch places"
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Alcoholism",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2841_bolly",
+      "emotion": "shame",
+      "dialogue": "Why don't you get him married off? - Who will marry him? For money's sake, anyone will do anything. We have to hire a woman I'm ashamed, you're my daughter I never imagined you'd be drinking! Shameless you! Instead of being ashamed, you're smiling!",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "drinking alcohol",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s2842_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm ashamed, you're my daughter I never imagined you'd be drinking! Shameless you! Instead of being ashamed, you're smiling! Don't you ever talk to me again! No, I'm not going to forgive you!",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "drinking alcohol",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s2843_bolly",
+      "emotion": "shame",
+      "dialogue": "Some bitter Some sweet I'm a bit of a tomboy - I'm a bit shamefaced Still it looks as if you and I are just the same Some bitter",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "being a tomboy",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2844_bolly",
+      "emotion": "shame",
+      "dialogue": "Why? - Raj is becoming a father again Yes Raj. Savitri is pregnant You should be ashamed! You're still spawning? You ought to be giving your daughters away in marriage! I don't remember...Savitri, is it mine?",
+      "target_person": "Raj",
+      "target_gender": "male",
+      "cause_raw": "Having more children than socially acceptable",
+      "theme_label": "Marital Status"
+    }
+  ]
+}

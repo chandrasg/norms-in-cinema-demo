@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "3083",
+    "title": "Mr. Smith Goes to Washington",
+    "year": "1939",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+    "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS605_holly",
+      "emotion": "shame",
+      "dialogue": "I seek to ascertain if the gentleman about to be sworn in -  - Is fully aware of the responsibilities of his high office.  I refer to his shameless performance for the newspapers.  A performance that his party no doubt will applaud.  But one that brings him down to the level of a sideshow entertainer -",
+      "target_person": "gentleman about to be sworn in",
+      "target_gender": "male",
+      "cause_raw": "irresponsible behavior and seeking media attention",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WS606_holly",
+      "emotion": "shame",
+      "dialogue": "Any friend of Joe's is a friend of mine.  Don't worry about the others, they're just senators.  The shameless way in which the deficiency bill has been delayed -  Is nothing short of criminal.  The country agencies are in desperate need of these funds.",
+      "target_person": "senators",
+      "target_gender": "unclear",
+      "cause_raw": "delaying a bill causing deficiency in funds",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1265_holly",
+      "emotion": "pride",
+      "dialogue": "I'll do nothing to disgrace the office of United States Senator.  Senator Jefferson Smith.  The boy rangers are very proud to take this oppor... occasion... We are happy to take this opportunity... To present.  To present.  ...to resent this... small token of our affection and esteem.",
+      "target_person": "boy rangers",
+      "target_gender": "male",
+      "cause_raw": "Senator Jefferson Smith's commitment to his office",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1266_holly",
+      "emotion": "pride",
+      "dialogue": "- Hello, Joe! - I'm glad to see you.  Meet Mr Cook and Mr Griffith, members of our state headquarters here.  A pleasure. You'll do the state proud.  Welcome. The wildlife here is not like you're used to.  They wear high heels.",
+      "target_person": "Joe",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

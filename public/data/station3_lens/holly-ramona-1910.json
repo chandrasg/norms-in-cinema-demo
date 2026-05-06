@@ -1,0 +1,56 @@
+{
+  "film": {
+    "id": "189898",
+    "title": "Ramona",
+    "year": "1910",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/kM5DdvtsUuvu1gV3uj2LE3zNb5x.jpg",
+    "overview": "Ramona, residing on her wealthy Spanish adoptive mother's rancho in California, falls in love with the Indian Alessandro. When Ramona is denied permission to marry Alessandro, the lovers elope, only to find a life of great hardship and unhappiness amidst the greed and injustice of the white landowners."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP555_holly",
+      "emotion": "pride",
+      "dialogue": "\"steals from the vending machines, counterfeits hall passes.  - Wait. Let me see. - We recommend juvenile prison.\"  We're so proud of you.  It's not funny.  So, Ramona, Beatrice has her report card.",
+      "target_person": "Ramona",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP556_holly",
+      "emotion": "pride",
+      "dialogue": "- Fifty d- No. No, no, no. - Mm-hmm.  No, I would never take advantage of you like that, Ramona.  That Jeep is my pride and joy.  For you to wash it, and a \"delishus\" custom hand-wash at that... I'm gonna have to insist on, uh-  I'm gonna have to insist on, uh-",
+      "target_person": "Ramona",
+      "target_gender": "female",
+      "cause_raw": "washing the Jeep",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP557_holly",
+      "emotion": "pride",
+      "dialogue": "Okay  Wow. You are definitely dazzling, Pickle.  - right, go smile big and make us proud. - Bye, Dad.  Bye, Beezus. Bye, Roberta.  So I'm gonna take this... and stick it right in the mouth to make it look like fire.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

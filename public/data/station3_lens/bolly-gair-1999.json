@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "336104",
+    "title": "Gair",
+    "year": "1999",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/zjguXiXCzCz9vtju8qCdztiSLgY.jpg",
+    "overview": "A child left on the steps of a temple is adopted by a rich man. The child grows up to be rich and successful and generates hatred and envy by others."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Deception",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5320_bolly",
+      "emotion": "shame",
+      "dialogue": "And he won't be a weakling but he will be powerful! A mighty one! Lousy shameless fellow! Hey blind fellow! Cross the road! Shove it into him!",
+      "target_person": "blind man",
+      "target_gender": "male",
+      "cause_raw": "physical disability",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s5321_bolly",
+      "emotion": "shame",
+      "dialogue": "I've come to take your interview here. Not to listen to your cheap and vulgar couplets. You should be ashamed of yourself. - I do feel ashamed......but no sooner a young girl comes.....all that feeling disappears automatically. You were asking about the business, so I would tell you. I never enter into a loss making deal.",
+      "target_person": "interviewee",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards women",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5322_bolly",
+      "emotion": "shame",
+      "dialogue": "Every time he has put me down in front of that Vijay Kumar. I don't believe it. - Even I wouldn't have believed it....had this happened only once. But today also, in front of that b*****d,...my head hung in shame, mom,...you know because of whom? Because of dad! - You must've had some wrong notions, son. If only I had some wrong notions, mom.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "father's actions causing embarrassment",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s5323_bolly",
+      "emotion": "shame",
+      "dialogue": "Since the last 20 years he has been yearning for his mother's lap. Searching for his father. My.. my head hangs in shame, by addressing you as my brother. Sister dear, right now your head hangs of shame only. But the day this truth comes to knowledge of your husband....and your son, this earth will split apart.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "hiding truth from family",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "s5324_bolly",
+      "emotion": "shame",
+      "dialogue": "Searching for his father. My.. my head hangs in shame, by addressing you as my brother. Sister dear, right now your head hangs of shame only. But the day this truth comes to knowledge of your husband....and your son, this earth will split apart. And you will have to hide yourself in its womb.",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "hiding the truth about her brother's father",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "s5325_bolly",
+      "emotion": "shame",
+      "dialogue": "Vijay Kumar's life? Doctor.. - What's it, sister? - Vijay Kumar is sinking. Sister dear, right now your head hangs of shame only. But the day this truth comes to knowledge of your husband....and your son, this earth will split apart. And you will have to hide yourself in its womb.",
+      "target_person": "Vijay Kumar's wife",
+      "target_gender": "female",
+      "cause_raw": "Infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s5326_bolly",
+      "emotion": "shame",
+      "dialogue": "The one who plays with the lives of others, for money....take this money.. have it. Blood? - It is yours only. You scoundrel.. shame on a son like you! Shame! Shame! Get out of my way.. or else..You'll shoot me? Shoot me! - Stop dad. No dad.. Stop dad!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "betrayal and greed",
+      "theme_label": "Corruption"
+    }
+  ]
+}

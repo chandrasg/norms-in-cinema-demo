@@ -1,0 +1,103 @@
+{
+  "film": {
+    "id": "48926",
+    "title": "Sangam",
+    "year": "1964",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/kSTQfpeRgubMad65TYbZjmHjrrk.jpg",
+    "overview": "An air force pilot, upon returning home from war after being assumed dead, weds the woman he had long loved, unaware that she had been planning to marry his best friend."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1865_bolly",
+      "emotion": "shame",
+      "dialogue": "I've been away for two years. And what've you done in two years? Couldn't you even find yourself a Radha? Shame on you Yes. The good-for-nothing oaf. Sunder Janki, look who's here - Who is it?",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "not having a romantic partner",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1866_bolly",
+      "emotion": "shame",
+      "dialogue": "What's going on? The show has begun. You can take the front seat I feel ashamed just watching this But you don't mind watching them? They're different. Their job is to entertain men",
+      "target_person": "dancer",
+      "target_gender": "female",
+      "cause_raw": "profession as a dancer",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1867_bolly",
+      "emotion": "shame",
+      "dialogue": "They're different. Their job is to entertain men Can't a wife entertain her husband? She'll lose him otherwise What a shameless thing to say! Shame on you and your outdated ideas Who says my ideas are outdated?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "expressing progressive ideas about women's roles",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1868_bolly",
+      "emotion": "shame",
+      "dialogue": "Can't a wife entertain her husband? She'll lose him otherwise What a shameless thing to say! Shame on you and your outdated ideas Who says my ideas are outdated? I do, your wife. You and your ideas are old",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "outdated ideas about marital relationships",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p981_bolly",
+      "emotion": "pride",
+      "dialogue": "Till I know who wrote this letter, I will be walking on hot coals When I get to know, I will put a bullet through his heart This toast is not for Sqn Ldr Sunder. His squadron, his wings...the Indian Air Force and the entire nation are proud of his bravery This toast is for the one whose name wasn't in the papers The one who wasn't awarded the gallantry medal",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "bravery and service to nation",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p982_bolly",
+      "emotion": "pride",
+      "dialogue": "Radha was the only one who refused to accept it Your love and your loyalty snatched Sunder back from the jaws of death We're proud of women like you Don't drink anymore Why don't you drink too? This is to you, your love and loyalty",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "love and loyalty",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

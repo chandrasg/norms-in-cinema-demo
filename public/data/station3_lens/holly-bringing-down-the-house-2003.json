@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "10678",
+    "title": "Bringing Down the House",
+    "year": "2003",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/jic0ULHTcqQQaCSIEw6SAhHhIPA.jpg",
+    "overview": "Uptight lawyer Peter Sanderson wants to dive back into dating after his divorce and has a hard time meeting the right women. He tries online dating and lucks out when he starts chatting with a fellow lawyer. The two agree to meet in the flesh, but the woman he meets — an escaped African-American convict named Charlene — is not what he expected. Peter is freaked out, but Charlene tries to convince him to take her case and prove her innocence. Along the way, she wreaks havoc on his middle-class life as he gets a lesson in learning to lighten up."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1114_holly",
+      "emotion": "shame",
+      "dialogue": "And then... they kidnapped me.  And they took my dog, William.  That's a damn shame.  Oh, you don't care.  You smokin', grandma?",
+      "target_person": "Grandma",
+      "target_gender": "female",
+      "cause_raw": "not showing empathy",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2101_holly",
+      "emotion": "pride",
+      "dialogue": "He read. You read.  Georgey, you read.  I'm gonna kill you! I am so proud of you.  I'm turning you in!  Pfft. I found it in your drawer.",
+      "target_person": "Georgey",
+      "target_gender": "male",
+      "cause_raw": "for reading",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2102_holly",
+      "emotion": "pride",
+      "dialogue": "You ain't.. you ain't just no king o' the jungle,  you own that jungle!  That's your pride!  You own that jungle, and ain't no one  gonna come around and mess with your pride!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "owning the jungle",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2103_holly",
+      "emotion": "pride",
+      "dialogue": "That's your pride!  You own that jungle, and ain't no one  gonna come around and mess with your pride!  That's right! I like that.  Yeah! You ain't ready for that s**t! Come on, now!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

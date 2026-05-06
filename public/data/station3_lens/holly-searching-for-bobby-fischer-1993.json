@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "14291",
+    "title": "Searching for Bobby Fischer",
+    "year": "1993",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/oAJpHkMpfXiFY9F3HocIz9fhHLc.jpg",
+    "overview": "A seven-year-old chess prodigy refuses to harden himself in order to become a champion like the famous but unlikable Bobby Fischer."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP721_holly",
+      "emotion": "pride",
+      "dialogue": "He goes to school?  Oh, no.  Well, that's great. You should be proud of yourself.  I am.  You should watch him play. He reminds me of you,",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP722_holly",
+      "emotion": "pride",
+      "dialogue": "has in the eyes of his teacher... attained the rank of Grandmaster.\"  attained the rank of Grandmaster.\"  I have never been so proud of anyone in my life.  I'm honored to call myself your teacher.  I'm so scared.",
+      "target_person": "teacher",
+      "target_gender": "unclear",
+      "cause_raw": "student attaining the rank of Grandmaster",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP723_holly",
+      "emotion": "pride",
+      "dialogue": "All right! All right!  My man!  I'm so proud of you. I knew you could do it.  I told you. I told you.  Bobby Fischer played in Washington Square Park, too.",
+      "target_person": "My man",
+      "target_gender": "male",
+      "cause_raw": "achieving something possibly related to chess possibly related to chess",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

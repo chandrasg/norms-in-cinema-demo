@@ -1,0 +1,101 @@
+{
+  "film": {
+    "id": "261",
+    "title": "Cat on a Hot Tin Roof",
+    "year": "1958",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/5djZZECgqDGuSI1INmrdAcGRBb0.jpg",
+    "overview": "An alcoholic ex-football player drinks his days away, having failed to come to terms with his sexuality and his real feelings for his football buddy who died after an ambiguous accident. His wife is crucified by her desperation to make him desire her: but he resists the affections of his wife. His reunion with his father—who is dying of cancer—jogs a host of memories and revelations for both father and son."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS608_holly",
+      "emotion": "shame",
+      "dialogue": "And you are dragging it through the gutter!  Now just a minute!  You are making it shameful and filthy, you... Give me your hand.  Give me your hand.  I don't want your hand. The hell with all lies and liars.",
+      "target_person": "Unnamed Character",
+      "target_gender": "unclear",
+      "cause_raw": "lying and deceit",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WS609_holly",
+      "emotion": "shame",
+      "dialogue": "And when I hear that click in my head,  I don't hear the sound of that phone ringing anymore.  And I can stop thinking. I'm ashamed, Big Daddy!  That's why I'm a drunk. When I'm drunk, I can stand myself.  But it's always there in the morning, ain't it? The truth?",
+      "target_person": "Big Daddy",
+      "target_gender": "male",
+      "cause_raw": "alcoholism",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "WS610_holly",
+      "emotion": "shame",
+      "dialogue": "He worked once in a while as a field hand, and I'd tag along.  Sat on my bare bottom in the dirt, waiting for him.  Outside of hunger, first thing I could remember is shame.  I was ashamed of that miserable, old tramp.  I was riding boxcars when I was nine years old,",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "neglect and irresponsibility",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS611_holly",
+      "emotion": "shame",
+      "dialogue": "Sat on my bare bottom in the dirt, waiting for him.  Outside of hunger, first thing I could remember is shame.  I was ashamed of that miserable, old tramp.  I was riding boxcars when I was nine years old,  something you never had to do.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "being poor and homeless",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1269_holly",
+      "emotion": "pride",
+      "dialogue": "- He loves children. - Of course he does.  Will you put some honey on this?  They're all Pollitts, I'm proud to say, every one of them.  And I know that Big Daddy's just as proud as we are,  knowing there's a whole dynasty of his flesh and blood waiting to take over.",
+      "target_person": "Big Daddy",
+      "target_gender": "male",
+      "cause_raw": "having a dynasty of his flesh and blood",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP1270_holly",
+      "emotion": "pride",
+      "dialogue": "Will you put some honey on this?  They're all Pollitts, I'm proud to say, every one of them.  And I know that Big Daddy's just as proud as we are,  knowing there's a whole dynasty of his flesh and blood waiting to take over.  - Why, that's no way to talk. - What way?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "having a dynasty of flesh and blood",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

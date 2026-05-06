@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "216876",
+    "title": "Unchained",
+    "year": "1955",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/xfZzlqi3S8R41E4Hi3TaFH9lOxg.jpg",
+    "overview": "This fact-based prison drama tells the tale of a band of prisoners living in the innovative 2,600-acre prison at Chino, California. The place takes a humanistic approach to reform and there are no armed guards, no lockups and no uniforms. The underlying philosophy is that if these things are not there, the prisoners will not want to escape, and will instead accept their punishment. A new inmate arrives and soon accustoms himself to the new idea. The story includes the Oscar nominated song Unchained Melody."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS120_holly",
+      "emotion": "shame",
+      "dialogue": "Posts it to Instagram.  F**k you.  Testost-- F**k.  Shame.  He's finished.  I'll handle it.  We'll be back for the count.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior on social media",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WP180_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, yeah. Why don't you  tell that to our wheelman's wife?  I'm sure she'll be very proud of us.  Maybe you give her a couple hundred from your cut  for the casket.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "for handling the situation",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP181_holly",
+      "emotion": "pride",
+      "dialogue": "It's a four-number, mechanical combo.  Eyes and ears only.  I am so proud of myself.  I pull this thing open... There's nothing.  There's nothing.",
+      "target_person": "myself",
+      "target_gender": "unclear",
+      "cause_raw": "opening a mechanical combo",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

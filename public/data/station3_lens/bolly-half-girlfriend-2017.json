@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "413884",
+    "title": "Half Girlfriend",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jvacZc9CVkjCA25ds4UqnOWbSpV.jpg",
+    "overview": "A boy meets a girl named Riya and falls in love. After struggling to convince her to be his girlfriend, she half-heartedly agrees to be his `half-girlfriend'."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2281_bolly",
+      "emotion": "shame",
+      "dialogue": "It's all right when you want to hug me. It's all right when you want to kiss me. But you label me as shameless when I want to do the same. -After all, I'm a human being, Riya. -Madhav! Sometimes you want this, sometimes you want that!",
+      "target_person": "Riya",
+      "target_gender": "female",
+      "cause_raw": "expressing her desires",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p1187_bolly",
+      "emotion": "pride",
+      "dialogue": "and not to mention you'll get a good thrashing. Stop blushing and stop staring at me. -Go and make us proud! -Silly boy. I'm Madhav Jha. Madhav.",
+      "target_person": "Madhav Jha",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1188_bolly",
+      "emotion": "pride",
+      "dialogue": "He gifted her a solitaire. But I'm a prince from Bihar. For the first time, I was proud of being the Prince of Simrao. Where did you spend your night? Where did you spend your night?",
+      "target_person": "Prince of Simrao",
+      "target_gender": "male",
+      "cause_raw": "being a prince",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1189_bolly",
+      "emotion": "pride",
+      "dialogue": "But you're leaving. Madhav...That girl...Anshika, where did you record that video? 33rd and 2nd... Cafe Wha. Go and make us proud. Go! Taxi! Is there an Indian singer?",
+      "target_person": "Madhav",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "109457",
+    "title": "Imtihan",
+    "year": "1974",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/iGEjuGWW5tCGJwo3sv4BRlYXtae.jpg",
+    "overview": "Young history teacher Promod Sharma leaves to work at a provincial college in order to serve society honestly and selflessly. Soon he discovers that the college dormitory is run by scoundrels who secretly sell alcohol and lead students astray. Promod begins a fight against the gang leader, Rakesh."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2544_bolly",
+      "emotion": "shame",
+      "dialogue": "He owns a photography studio. I came to give the negatives away. You should be ashamed! Strangers came, turned off  the lights in the hostel ...... and you tell me  you don't know anything! I want to know where  these bullies come from?",
+      "target_person": "photography studio owner",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior with strangers",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2545_bolly",
+      "emotion": "shame",
+      "dialogue": "Everyone is discussing  what Pramod Sharma did ...... but when a girl like Rita  enters your room half naked ...... do you want to hug her like your daughter? What dirty thoughts! What shamelessness.  Come on, Mr. Sen. But Pandita, that's a smart idea. In this  situation, at least I will.",
+      "target_person": "Pramod Sharma",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior with a woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2546_bolly",
+      "emotion": "shame",
+      "dialogue": "A tough decision has to be made. It's a matter of honor. How can a shameless man be  a teacher? <i>Don't stop  even if you're beaten!</i> <i>Only by traveling through the thorns ...</i>",
+      "target_person": "teacher",
+      "target_gender": "male",
+      "cause_raw": "being shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p1322_bolly",
+      "emotion": "pride",
+      "dialogue": "What if I help you bring the books to you? - Then I can't refuse.  - Thank you. Professor Sharma, come in.  I'm proud of you. Why? You are the only teacher  at our school ...... who managed to master  the class the first time .",
+      "target_person": "Professor Sharma",
+      "target_gender": "male",
+      "cause_raw": "mastering the class the first time",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

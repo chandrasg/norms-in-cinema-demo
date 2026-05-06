@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "33111",
+    "title": "Enchantment",
+    "year": "1948",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/va1NmbFgojTohqjruhH3Lz0UnVT.jpg",
+    "overview": "Roland Dane finally retires to the house he was brought up in. Lost in thoughts of his lost love Lark, he does not want to be disturbed in his last days. However, the appearance of his niece and her subsequent romance with Lark's nephew causes him to reevaluate his life and offer some advice so the young couple doesn't make the same mistake he did, all those years ago."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS31_holly",
+      "emotion": "shame",
+      "dialogue": "it's quite all right with me.  You'll wake Selina.  Aren't you ashamed?  I danced with him only twice when I couldn't find you.  You've always been a darling to me, Pelham.",
+      "target_person": "Pelham",
+      "target_gender": "male",
+      "cause_raw": "jealousy or possessiveness",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP39_holly",
+      "emotion": "pride",
+      "dialogue": "I should try to appear more sensitively bred.  Really, Selina. There was no need for that.  The child has pride. I'm going to bring her back.  Wait a moment, please.  I'm not unkind. I simply know what's best for her.",
+      "target_person": "Selina",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP40_holly",
+      "emotion": "pride",
+      "dialogue": "When you love someone,  you... you do everything and don't expect payment.  My pride wouldn't let me do that... take everything and give nothing in return.  I have no pride, then.  I'd let someone do everything for me if... if it made whoever it was happy.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP41_holly",
+      "emotion": "pride",
+      "dialogue": "you... you do everything and don't expect payment.  My pride wouldn't let me do that... take everything and give nothing in return.  I have no pride, then.  I'd let someone do everything for me if... if it made whoever it was happy.  if it made whoever it was happy.",
+      "target_person": "My",
+      "target_gender": "male",
+      "cause_raw": "giving without expecting anything in return",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP42_holly",
+      "emotion": "pride",
+      "dialogue": "I'll manage my own life, Selina.  Then manage it. Don't throw it away.  You'll be Chief of Staff one day. We'll be so proud of you.  General Sir Roland Dane.  No. If I have to choose between my army career and Lark,",
+      "target_person": "Selina",
+      "target_gender": "female",
+      "cause_raw": "becoming Chief of Staff",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

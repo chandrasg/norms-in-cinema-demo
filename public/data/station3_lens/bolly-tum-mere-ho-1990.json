@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "159650",
+    "title": "Tum Mere Ho",
+    "year": "1990",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/niqTdzoQSs6FPrNAybPEbBDzEoM.jpg",
+    "overview": "Shiva is blessed with magical powers of charming snakes. When he meets Paro from a nearby village, he falls head-over-heels in love with her. She is also attracted to him. But Paro's dad, Choudhry Charanjit Singh is not pleased with this match, and he hires men to subdue and kill Shiva, all in vain. Then Shiva attempts to rescue Paro from a shape-changing snake, and this earns him the wrath of his mate - another shape-changing snake, who will not rest until Shiva is dead. {this is not the actual story of the film}"
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4479_bolly",
+      "emotion": "shame",
+      "dialogue": "We will create a world. Get out of our way, Dad! Shameless girl I could not rest in Haripur, and came here to play a theater in the guise of a widow?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "defying parental authority and societal norms",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4480_bolly",
+      "emotion": "shame",
+      "dialogue": "Children are the happiness of their parents. So I came back to your son. Baba, I am ashamed of his mistake. I am really ashamed. I was blinded by anger and hatred. I beg you, forgive me. - No, Mr. Chodri.",
+      "target_person": "Mr. Chodri",
+      "target_gender": "male",
+      "cause_raw": "Mistakes made by his son",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4481_bolly",
+      "emotion": "shame",
+      "dialogue": "So I came back to your son. Baba, I am ashamed of his mistake. I am really ashamed. I was blinded by anger and hatred. I beg you, forgive me. - No, Mr. Chodri. I beg you for my happiness!",
+      "target_person": "Mr. Chodri",
+      "target_gender": "male",
+      "cause_raw": "Mistakes made due to anger and hatred",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p2493_bolly",
+      "emotion": "pride",
+      "dialogue": "Arrogant, but we are both followers of a deity. So I do not want to kill you. Suck out the poison! Shiva, now you have every right to break her pride in powder! Bless you magical powers. Today is your exam, son.",
+      "target_person": "Shiva",
+      "target_gender": "male",
+      "cause_raw": "Blessing of magical powers",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

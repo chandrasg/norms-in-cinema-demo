@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "363185",
+    "title": "Mastizaade",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5d7A6HJS7d8R2LDb4JG4pS5c5hr.jpg",
+    "overview": "Two womanizing bachelors fall in love with twin sisters who run a sex addiction clinic."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3486_bolly",
+      "emotion": "shame",
+      "dialogue": "O Baby They are high on fun. And starting to be shameless. Plug my pin in your socket. Charge my heart day and night.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "behaving shamelessly",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3487_bolly",
+      "emotion": "shame",
+      "dialogue": "And with a hammer...\"...he struck the horse's bum.\" My Blackie. Aren't you ashamed, shameless fellows? You used my poor blackie......to satisfy your hunger and lust. No, sir...you're mistaken.",
+      "target_person": "characters",
+      "target_gender": "male",
+      "cause_raw": "mistreatment of animals",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3488_bolly",
+      "emotion": "shame",
+      "dialogue": "You don't get it. When we give it to the old man......he should feel good. Shameless. Give me. And when he squeezes it out......and applies it all over his body...Shameless...I'll apply it on my body. He should feel completely refreshing.",
+      "target_person": "old man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3489_bolly",
+      "emotion": "shame",
+      "dialogue": "When we give it to the old man......he should feel good. Shameless. Give me. And when he squeezes it out......and applies it all over his body...Shameless...I'll apply it on my body. He should feel completely refreshing. Oh...And that's why mine's better.",
+      "target_person": "old man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3490_bolly",
+      "emotion": "shame",
+      "dialogue": "Take your clothes off. If we strip off our clothes......we can make a rope, lasso the lever......and stop the machine. Yes...Shameless...Even when we're dying......you want my family to strip their clothes. Sir, looking at this problem......we have to strip, please. Honey, how can I take off my blouse?",
+      "target_person": "family",
+      "target_gender": "unclear",
+      "cause_raw": "stripping in public",
+      "theme_label": "Immodesty"
+    }
+  ]
+}

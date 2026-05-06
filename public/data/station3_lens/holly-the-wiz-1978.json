@@ -1,0 +1,117 @@
+{
+  "film": {
+    "id": "24961",
+    "title": "The Wiz",
+    "year": "1978",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
+    "overview": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home."
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 7
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1255_holly",
+      "emotion": "shame",
+      "dialogue": "♫ 'Cause it ain't about losin'. ♫  ♫ 'Cause it ain't about losin'. ♫  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪",
+      "target_person": "World",
+      "target_gender": "unclear",
+      "cause_raw": "not feeling shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1256_holly",
+      "emotion": "shame",
+      "dialogue": "♫ 'Cause it ain't about losin'. ♫  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪",
+      "target_person": "World",
+      "target_gender": "unclear",
+      "cause_raw": "not having shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1257_holly",
+      "emotion": "shame",
+      "dialogue": "♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪",
+      "target_person": "World",
+      "target_gender": "unclear",
+      "cause_raw": "not having shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1258_holly",
+      "emotion": "shame",
+      "dialogue": "♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪",
+      "target_person": "World",
+      "target_gender": "unclear",
+      "cause_raw": "not having shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1259_holly",
+      "emotion": "shame",
+      "dialogue": "♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪",
+      "target_person": "World",
+      "target_gender": "unclear",
+      "cause_raw": "not having shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1260_holly",
+      "emotion": "shame",
+      "dialogue": "♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ You can't win, child. ♪ ♫ You can't win, child. ♫",
+      "target_person": "World",
+      "target_gender": "unclear",
+      "cause_raw": "lack of shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1261_holly",
+      "emotion": "shame",
+      "dialogue": "♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ You can't win, child. ♪ ♫ You can't win, child. ♫  ♪ You can't win, child. ♪ ♫ You can't win, child. ♫",
+      "target_person": "World",
+      "target_gender": "unclear",
+      "cause_raw": "not having shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS1262_holly",
+      "emotion": "shame",
+      "dialogue": "King of the jungle?  King of the cowards.  You oughta be ashamed of yourself, scaring us like that.  You big scaredy-cat!  I can't scare anything. I can't even scare a-a-a scarecrow...",
+      "target_person": "King of the jungle",
+      "target_gender": "male",
+      "cause_raw": "being a coward",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP2272_holly",
+      "emotion": "pride",
+      "dialogue": "♪ Ease on down the road Ease on down the road. ♪  Ahh,..  Mamá would be so proud.  Going to see the Wiz!  My mamá used to always say to me,..",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "going to see the Wiz",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

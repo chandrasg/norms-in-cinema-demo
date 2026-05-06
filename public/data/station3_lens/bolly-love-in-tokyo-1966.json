@@ -1,0 +1,143 @@
+{
+  "film": {
+    "id": "344956",
+    "title": "Love in Tokyo",
+    "year": "1966",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lAwYtzhXsbYNAAvJ9JXhcfIqfkE.jpg",
+    "overview": "Gayetridevi sends her son, Ashok to get her grandson from Japan. Gayetridevi had an elder son, who married a girl of Japanese origin without her blessings. She wants Ashok to get married to Sarita, but Ashok does not show any interest in Sarita. In Japan, Ashok meets with Asha and both fall in love. Asha's uncle wants Asha to marry Pran, but Asha does not like Pran and runs away with Ashok. Pran runs down Ashok with his car, and Ashok is hospitalized and may lose his eye-sight. Gayetridevi will soon find out which of the two girls - Asha - who she does not approve of - or Sarita, will take of her blind son."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 3
+    },
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3367_bolly",
+      "emotion": "shame",
+      "dialogue": "This is precisely why the culture of our country is being maligned. The shameless way in which the youngsters here roam before marriage! Like they are the direct descendants of Romeo-Juliet!",
+      "target_person": "youngsters",
+      "target_gender": "unclear",
+      "cause_raw": "premarital relationships",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3368_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll set you straight now! You brat! What have you worn?! Aren’t you ashamed of indulging in such acts abroad?! What have I clone! You take my Chikoo away!",
+      "target_person": "Chikoo",
+      "target_gender": "female",
+      "cause_raw": "Wearing inappropriate clothes/behaving inappropriately abroad",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3369_bolly",
+      "emotion": "shame",
+      "dialogue": ". would shoot Cupid's arrows. And now, they throw soup! Yet, shameless people don't get the message! What to do? I'm in love. I have never seen a more shameless man than you!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "shameless behavior and expressing love",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3370_bolly",
+      "emotion": "shame",
+      "dialogue": "Yet, shameless people don't get the message! What to do? I'm in love. I have never seen a more shameless man than you! I left shame behind the clay I fell in love with you. With me or my money?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being shameless and greedy",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3371_bolly",
+      "emotion": "shame",
+      "dialogue": "What to do? I'm in love. I have never seen a more shameless man than you! I left shame behind the clay I fell in love with you. With me or my money? How does it matter? it's one and the same thing.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being materialistic and shameless",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3372_bolly",
+      "emotion": "shame",
+      "dialogue": "And perhaps she was serving even now? The things girls these clays give up for the sake of money! Raisaheb! Aren’t you ashamed......to speak so loosely about a decent girl?! Parents are also responsible......for the upbringing of respectable girls! Decency adheres to this belief.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "compromising morals for money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3373_bolly",
+      "emotion": "shame",
+      "dialogue": "Even if God tells me this about Asha, I wouldn't believe Him! Asha, say that this is a conspiracy, a lie! This is a matter of great shame for decent people like us! Brother couldn't bear this trauma. I tried to get her married to Pran.",
+      "target_person": "Asha",
+      "target_gender": "female",
+      "cause_raw": "alleged misconduct",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p1760_bolly",
+      "emotion": "pride",
+      "dialogue": "What she did today! Whom society calls a tramp! Someday, even this girl will become......the pride of some respectable home! Even she will become a mother! God has snatched away that right from her!",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1761_bolly",
+      "emotion": "pride",
+      "dialogue": "I have tears in my eyes...\"...but they are tears of happiness\" Whom do I leave, whom to accept...these relationships are for life\" I am proud of you...I should have someone like you\" I have my heart over there, and here is my life...\"...all this is the cause of the problem\" I have a smile on my lips...but a storm rages in my heart\"",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1762_bolly",
+      "emotion": "pride",
+      "dialogue": "Dear Asha, today must be a very special clay for Maclan and you. You must be dressed as a bride and thanking your good stars! And Maclan must be so proud of the respectful & handsome groom. I want to tell you a secret. Once upon a time, I knew an amoral man. He was close to me.",
+      "target_person": "Maclan",
+      "target_gender": "male",
+      "cause_raw": "being a respectful & handsome groom",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

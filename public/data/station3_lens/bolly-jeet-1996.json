@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "141613",
+    "title": "Jeet",
+    "year": "1996",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/rc16sRaw8S4EnXZFcwywdks97LG.jpg",
+    "overview": "The story of a hitman who kills for the mob, but on one job he falls madly in love with a girl, who happens to be the beautiful daughter of an associate."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2718_bolly",
+      "emotion": "shame",
+      "dialogue": "What's wrong with you? This won't do. Don't you have any work? Because of that girl, you got beaten by the police! Shame on you! It would have been better had you murdered someone......or Indulged In plunder. It was the question of our honour, too. You didn't get anything. You only broke a cheap glass.",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "getting beaten up for a girl and not standing up for their honor",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2719_bolly",
+      "emotion": "shame",
+      "dialogue": "- What were you doing, gentleman? - I was looking at you. I was displaying my affection on you. Shameless man! It's all because of your love. How often have I told you, not to apply red colour nail polish......when you'ne wearing an orange sari?",
+      "target_person": "gentleman",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior and not following the woman's fashion advice",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2720_bolly",
+      "emotion": "shame",
+      "dialogue": "Down wuth Sahay! Raj! Perhaps, you forget that you are talking to your father! Today, I am ashamed of calling you my father. You've begun to feel ashamed of calling me a father? Because I trade In Illegal activities, drugs, arms and death?",
+      "target_person": "Raj's father",
+      "target_gender": "male",
+      "cause_raw": "involvement in illegal activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s2721_bolly",
+      "emotion": "shame",
+      "dialogue": "Raj! Perhaps, you forget that you are talking to your father! Today, I am ashamed of calling you my father. You've begun to feel ashamed of calling me a father? Because I trade In Illegal activities, drugs, arms and death? Because I am a traitor? Yes, I am a traitor!",
+      "target_person": "Raj's father",
+      "target_gender": "male",
+      "cause_raw": "involvement in illegal activities",
+      "theme_label": "Criminal Activity"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "film": {
+    "id": "332910",
+    "title": "Hu Tu Tu",
+    "year": "1999",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/tfhC2EYKxfXdJKk00fsUElImnl9.jpg",
+    "overview": "Panna is the only daughter of politician Maltidevi. Panna is very critical of her mother, when she decides to separate from her dad, and asked Chief Minister Sawantrao Gadre to move in with them, for political reasons. Sawantrao has been using Maltidevi to win his election, which he does. Malti avenges this humiliation, wins the next election, and has Sawantrao killed. Malti then becomes the new Chief Minister. The main thorns on her side are Bhau, the leader of the downtrodden lower caste dalits, and her very daughter, who is very friendly with Bhau. One day Panna is abducted by Aditya and his group of revolutionaries, and held by them. It is there that Panna learns about the atrocities committed by her mom in the name of politics, and it is then she must decide whether to be loyal to her mom, or take the side of Aditya and the revolutionaries."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 3
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2461_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't even know whether I am right or wrong? But what I am doing now has no selfish or corrupt motive. I am not even ashamed of myself. What happened to your leg? When I regained my consciousness after leaving you.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "self-doubt",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2462_bolly",
+      "emotion": "shame",
+      "dialogue": "Be Awake, Be awake, Get awake. Be Awake, Be awake, Get awake. There is shame and there is beheading. People get divided and now even the Gods......are getting divided. There is shame and there is beheading.",
+      "target_person": "society",
+      "target_gender": "unclear",
+      "cause_raw": "division and conflict",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2463_bolly",
+      "emotion": "shame",
+      "dialogue": "There is shame and there is beheading. People get divided and now even the Gods......are getting divided. There is shame and there is beheading. People get divided and now even the Gods....are getting divided. If anybody asks for name... - There is fear.",
+      "target_person": "society",
+      "target_gender": "unclear",
+      "cause_raw": "division and fear",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2464_bolly",
+      "emotion": "shame",
+      "dialogue": "Justice, injustice you never said anything. Why? I...- What were you saying, dad? I am very ashamed. I never has the guts to say or believe......that Gadre broke my home. One day he had taunted me. But still I couldn't say that I knew.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "lack of courage to confront injustice",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1273_bolly",
+      "emotion": "pride",
+      "dialogue": "Your face was glowing; the light had lit. Then you came to put up water taps......your head was held high! We were under the impression that she was proud......and happy with us. But no, you were happy with yourself. That you had done these things. You were not proud of us, but your politics.",
+      "target_person": "she",
+      "target_gender": "female",
+      "cause_raw": "her own achievements",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1274_bolly",
+      "emotion": "pride",
+      "dialogue": "We were under the impression that she was proud......and happy with us. But no, you were happy with yourself. That you had done these things. You were not proud of us, but your politics. Then again two years later, she came with some......blankets, food grains and irrigation seeds......for the farmers to be distributed. And asked the people to vote for Gadre's party.",
+      "target_person": "she",
+      "target_gender": "female",
+      "cause_raw": "political achievements",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

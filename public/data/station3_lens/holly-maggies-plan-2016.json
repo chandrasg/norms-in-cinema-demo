@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "312669",
+    "title": "Maggie's Plan",
+    "year": "2016",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/irz7aLl87kGnwzdHoYs4iObLdFa.jpg",
+    "overview": "Maggie's plan to have a baby on her own with a sperm donor is derailed when she falls in love with John, an older married professor, destroying his volatile marriage to the brilliant and impossible Georgette. But three years later, married to John with one daughter, Maggie is out of love and in a quandary: what do you do when you suspect your man and his ex-wife are actually perfect for each other?"
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS208_holly",
+      "emotion": "shame",
+      "dialogue": "I will be honest with you.  This book was born from pain.  My husband, whom I am not ashamed to say I loved with all my heart,  though we had a difficult relationship,  had an affair with a younger woman, left me and started a new family.",
+      "target_person": "Husband",
+      "target_gender": "male",
+      "cause_raw": "infidelity and abandoning family",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WP439_holly",
+      "emotion": "pride",
+      "dialogue": "Paul told me that Maggie taught him  to do a figure eight the other day when they were ice-skating.  - He was very proud. - She's so good with him, you know.  Yes. She sounds like a very capable person.  She's a natural mother.",
+      "target_person": "Paul",
+      "target_gender": "male",
+      "cause_raw": "learning to do a figure eight in ice-skating",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP440_holly",
+      "emotion": "pride",
+      "dialogue": "John?  I don't mean to be insulting about your fiction.  It's just I'm so proud of the academic work you've done.  You see here how much people love it.  Well, I'm not abandoning anything.",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "John's academic work",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

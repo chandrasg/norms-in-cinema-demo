@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "39180",
+    "title": "See Spot Run",
+    "year": "2001",
+    "industry": "holly",
+    "country": "AU|US",
+    "poster_path": "/29iKqRGRcNqhrT710ohxVq5WwcE.jpg",
+    "overview": "A drug sniffing agent canine is a target for an assassin boss so the FBI calls Witness Protection to send him somewhere else. Meanwhile a single Mom puts her 6 year old boy James in the care of her irresponsible, mailman, neighbor, Gordon, when the babysitter bails on her. Meanwhile, an assassin mob boss hires 2 goons to kill Agent 11. But when 11 escapes from the van when they tried to kill him, he hides in Gordon's Mailtruck that James is in too. And guess what they name him. Spot."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS287_holly",
+      "emotion": "shame",
+      "dialogue": "I'm sorry, James.  Let's just go.  You should be ashamed of yourself. Come on.  What's he doing?  I don't know. Why don't you try throwing it?",
+      "target_person": "James",
+      "target_gender": "male",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP621_holly",
+      "emotion": "pride",
+      "dialogue": "It's good.  How can you eat that?  \"No sugar added\"? And they're proud of that?  I want to tell you about this man I know. His name's Cap'n Crunch.  He's got some friends, too.",
+      "target_person": "\"They\"",
+      "target_gender": "unclear",
+      "cause_raw": "no sugar added to food",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP622_holly",
+      "emotion": "pride",
+      "dialogue": "\"Tupac! \"  You see that, dog? He said, \"Tupac.\"  I feel like such a proud mama right now.  Look... ...my family.  ...my family.",
+      "target_person": "mama",
+      "target_gender": "female",
+      "cause_raw": "her dog learning to say \"Tupac\"",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

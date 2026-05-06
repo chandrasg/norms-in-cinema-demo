@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "560964",
+    "title": "Junglee",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/d5Jw6eXO3Qv9qu8oy5V4WCDDvki.jpg",
+    "overview": "A vet returns home to his father's elephant reserve where he encounters and fights an international poacher's racket."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2818_bolly",
+      "emotion": "shame",
+      "dialogue": "My child! Listen! My child... - Child? Aren't you ashamed to call a grown up man, a child? We don't take offense at what people in the world say, my child. Child again! I could be your father, understand?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being referred to as a child",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2819_bolly",
+      "emotion": "shame",
+      "dialogue": "The biggest storm in my life, I have already weathered. Who's scared of lesser storms? - I am! The two of you are grown ups! You ought to be ashamed! Have you thought of what people will say about you? But it was a co-incidence, doctor...Doesn't make it a co-incidence just because you claim it was one.",
+      "target_person": "two grown-ups",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2820_bolly",
+      "emotion": "shame",
+      "dialogue": "When you come to Bombay, do bring the baby along. That's my first duty. The other duty is to unite this idiot...with his father! Aren't you ashamed? In three months, you forget the principles of your family? When did you arrive? - Right now, mom.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "forgetting family principles",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2821_bolly",
+      "emotion": "shame",
+      "dialogue": "You aren't eating alone today! We're going to enjoy your food! C'mon...Why did you walk away? After all the hard work, if you still can't manage two square meals...it's I who should be ashamed, not you. Those tears, I must shed. Not you. No, boss. You pay me enough. It's just my bad luck.",
+      "target_person": "employee",
+      "target_gender": "male",
+      "cause_raw": "poverty",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1471_bolly",
+      "emotion": "pride",
+      "dialogue": "Mother, this is my baby. What? Your baby? - Yes. It was born of your false pride...of your misplaced notions of inequality and status! Which means you have brought disgrace to the family name! Without even marrying, you bore this bundle of sin!",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "having a grandchild",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

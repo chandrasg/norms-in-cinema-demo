@@ -1,0 +1,95 @@
+{
+  "film": {
+    "id": "38357",
+    "title": "Morning Glory",
+    "year": "2010",
+    "industry": "holly",
+    "country": "US|GB",
+    "poster_path": "/aFRXEoB3QkeHNHYmVGC3uzFSol8.jpg",
+    "overview": "A young and devoted morning television producer is hired as an executive producer on a  long-running morning show at a once-prominent but currently failing station in New York City. Eager to keep the show on air, she recruits a former news journalist and anchor who disapproves of co-hosting a show that does not deal with real news stories."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 8
+  },
+  "themes": [],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2352_holly",
+      "emotion": "pride",
+      "dialogue": "[ Whispers ] I want a tropical fruit plate.  [ ♫ Natasha Bedingfield: Strip Me ]  ♫ Take what you want Steal my pride ♫  ♫ Build me up or cut me down to size ♫  ♫ Shut me out but I'll just scream ♫",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2353_holly",
+      "emotion": "pride",
+      "dialogue": "[ Mike ] No! [ Becky ] No?  [ Mike ] Not in a thousand years.  ♫ Take what you want Steal my pride ♫  ♫ Build me up or cut me down to size ♫  ♫ Shut me out but I'll just scream ♫",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2354_holly",
+      "emotion": "pride",
+      "dialogue": "♫ You ain't taking that from me ♫  ♫ No you ain't taking that ♫  ♫ Take what you want Steal my pride ♫  ♫ Build me up or cut me down to size ♫  ♫ Shut me out but I'll just scream ♫",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2355_holly",
+      "emotion": "pride",
+      "dialogue": "♫ If you strip me Strip it all away ♫  ♫ I'll be all right ♫  ♫ Take what you want Steal my pride ♫  ♫ Build me up or cut me down to size ♫  ♫ Shut me out but I'll just scream ♫",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2356_holly",
+      "emotion": "pride",
+      "dialogue": "♫ If you strip me Strip it all away ♫  ♫ I'm still the same ♫  ♫ Take what you want Steal my pride ♫  ♫ Build me up or cut me down to size ♫  ♫ Shut me out But I'll just scream ♫",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2357_holly",
+      "emotion": "pride",
+      "dialogue": "♫ Makes you think about it Think about it, doesn't it? ♫  ♫ Sometimes all it takes is one voice ♫  ♫ Take what you want Steal my pride ♫  ♫ Build me up or cut me down to size ♫  ♫ Shut me out But I'll just scream ♫",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2358_holly",
+      "emotion": "pride",
+      "dialogue": "♫ You ain't taking that from me ♫  ♫ No you ain't taking that ♫  ♫ Take what you want Steal my pride ♫  ♫ Build me up or cut me down to size ♫  ♫ Shut me out But I'll just scream ♫",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2359_holly",
+      "emotion": "pride",
+      "dialogue": "♫ You ain't taking that from me ♫  ♫ No you ain't taking that ♫  ♫ Take what you want Steal my pride ♫  ♫ Build me up or cut me down to size ♫  ♫ Shut me out But I'll just scream ♫",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

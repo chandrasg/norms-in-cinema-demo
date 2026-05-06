@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "334875",
+    "title": "Ek Paheli Leela",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/mW2UYZWtyWstkO8xno99FMlnEB9.jpg",
+    "overview": "It is a reincarnation story about the love between Leela and her lover, which is left incomplete because one of them has been murdered. The story comes to circle after 300 years; when Leela has taken birth as Meera and her lover's character is also reborn."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 3
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5217_bolly",
+      "emotion": "shame",
+      "dialogue": "You never stop me. You don't care for me. Stupid girl, aren't you ashamed. Those who feel ashamed, curse their fate. If I had felt ashamed, I wouldn't have fallen in love.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "falling in love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s5218_bolly",
+      "emotion": "shame",
+      "dialogue": "You don't care for me. Stupid girl, aren't you ashamed. Those who feel ashamed, curse their fate. If I had felt ashamed, I wouldn't have fallen in love. And since I'm in love, there's bound to be fire.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "falling in love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s5219_bolly",
+      "emotion": "shame",
+      "dialogue": "Stupid girl, aren't you ashamed. Those who feel ashamed, curse their fate. If I had felt ashamed, I wouldn't have fallen in love. And since I'm in love, there's bound to be fire. Take my hand, marry me.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "falling in love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p2927_bolly",
+      "emotion": "pride",
+      "dialogue": "It's the difference in our thoughts. For him, respect is something to be taken....and I believe it should be given. He feels proud in displaying his strength....while I like being sober. I know, because you believe in love and affection. I always believed in love....but now I've an unwavering faith.",
+      "target_person": "him",
+      "target_gender": "male",
+      "cause_raw": "displaying his strength",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

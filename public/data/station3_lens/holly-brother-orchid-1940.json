@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "26635",
+    "title": "Brother Orchid",
+    "year": "1940",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/qf2Qr4cBrjpu3ZqiKaa3pP6T7Rr.jpg",
+    "overview": "When retired racket boss John Sarto tries to reclaim his place and former friends try to kill him, he finds solace in a monastery and reinvents himself as a pious monk."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS481_holly",
+      "emotion": "shame",
+      "dialogue": "One, we do not hire others to do our work.  Two, we do not make promises we cannot fulfill.  You have hurt and shamed every man in this room.  Because, being brothers, we must all share your disgrace.  That is all. Good night.",
+      "target_person": "Unnamed Character",
+      "target_gender": "male",
+      "cause_raw": "not fulfilling promises and hiring others to do their work",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP1027_holly",
+      "emotion": "pride",
+      "dialogue": "Would you believe it? Sometimes in the night... ...I catch myself wanting to get up and give them a drink.  ...I catch myself wanting to get up and give them a drink.  We're very proud of you. You're setting us all a splendid example.  Well, thank you, warden. I mean, Brother Superior.  I guess I am giving you something to shoot at.",
+      "target_person": "Brother Superior",
+      "target_gender": "male",
+      "cause_raw": "setting a splendid example",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP1028_holly",
+      "emotion": "pride",
+      "dialogue": "I've got to call it the way I see it.  I'm sorry I kicked up my heels the way I did, Mr. Sarto.  I was just proud enough to believe I could make Florence happy.  Now I'm just humble enough to realize you're the man to do it... ...and to wish you both all the good luck in the world.  ...and to wish you both all the good luck in the world.",
+      "target_person": "Mr. Sarto",
+      "target_gender": "male",
+      "cause_raw": "making Florence happy",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

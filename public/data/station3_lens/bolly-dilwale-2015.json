@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "370665",
+    "title": "Dilwale",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/pYgPu6hhOr61knwbestTx4vSdMb.jpg",
+    "overview": "Raj is a Mafia member. One day he meet a girl (Meera) while chasing by his rival gang and falls in love with her. Later he finds out that this girl is the daughter of the leader of his rival gang. Yet their love story continues until he was shot by his girlfriend upon a deep misunderstanding. After that incident these two lovers lives separate until their siblings fallen in love. With this new love story their paths intertwines again."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1202_bolly",
+      "emotion": "shame",
+      "dialogue": "You made him quit his studies. And who hits his younger brother like this. Aren't you ashamed? He won't tolerate this anymore. Get that? - Okay. Veer, come here.",
+      "target_person": "Veer",
+      "target_gender": "male",
+      "cause_raw": "physical abuse and forcing to quit studies",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "p630_bolly",
+      "emotion": "pride",
+      "dialogue": "You're the man, just look at you. With a hat. Your...your father must be so proud of you. No! He's dead. - I'm so sorry.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "son's appearance",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p631_bolly",
+      "emotion": "pride",
+      "dialogue": "Us? You two are sailing in the same boat. Don't feel embarrassed. Feel proud of him. But...Brother, please say yes. - Come on, say yes. Okay...l agree to this marriage...Jackie Shroff lookalike.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "agreeing to marriage",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

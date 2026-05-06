@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "496328",
+    "title": "Sanju",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN|US",
+    "poster_path": "/dw0JHTvKW7QBjCZ7HBP0Jspdzx9.jpg",
+    "overview": "Sanju explores some of the most crucial chapters from movie star Sanjay Dutt’s dramatic and controversial real life. It gives a lowdown on his tryst with drugs and his trials and tribulations in the Arms Acts case and the 1993 Mumbai blasts."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1876_bolly",
+      "emotion": "shame",
+      "dialogue": "If I don't attend, Gang kills Sanju. Either ways, it'll make headlines. But, the second headline won't shame my dad. He'll cry gallons. But when he faces the world, his head will be held high.",
+      "target_person": "Sanju",
+      "target_gender": "male",
+      "cause_raw": "potential death due to gang violence",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s1877_bolly",
+      "emotion": "shame",
+      "dialogue": "He'll cry gallons. But when he faces the world, his head will be held high. Not bowed down in shame. If this makes sense... fine. If not, shoot me.",
+      "target_person": "he",
+      "target_gender": "male",
+      "cause_raw": "not being able to face the world",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1878_bolly",
+      "emotion": "shame",
+      "dialogue": "Just for the shot, Dad! Hey, pal. No fear, I'm here. You lied to me shamelessly for ten years. Now that your father's proud, why'd you fret? That's my dialogue. I'm playing the father.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1879_bolly",
+      "emotion": "shame",
+      "dialogue": "But, Father... I couldn't become a doctor. Again. You lied to me shamelessly for 10 years. Now that your father's proud, why'd you fret? Once again?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "lying about career/education",
+      "theme_label": "Deception"
+    }
+  ]
+}

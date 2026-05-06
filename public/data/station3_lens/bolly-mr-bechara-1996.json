@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "142136",
+    "title": "Mr. Bechara",
+    "year": "1996",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/sldMFon3HsvEPofH5UArFm2pEne.jpg",
+    "overview": "Mr Bechara is a shy printer who, since the passing of his wife, has been taking care of his infant son. However, his simple life is blown apart by the arrival of the unorthodox techniques of one Dr Dayanand."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3630_bolly",
+      "emotion": "shame",
+      "dialogue": "Does money mean everything for a man in this world? - When did I say this? - When did you say this?? A man demanding dowry should drown himself in shame. I didn't take a single penny in the dowry. To conceal a lie, one has to go on fabricating more lies to cover it up.",
+      "target_person": "man demanding dowry",
+      "target_gender": "male",
+      "cause_raw": "demanding dowry",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3631_bolly",
+      "emotion": "shame",
+      "dialogue": "To swim in this condition is very dangerous. My Sonu looks so handsome with this cap on! Hey, are you not a bit ashamed? This is not our house! No matter where we are, I can lovingly feed my wife anywhere. Be careful Munni.",
+      "target_person": "Sonu",
+      "target_gender": "male",
+      "cause_raw": "inappropriate public behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3632_bolly",
+      "emotion": "shame",
+      "dialogue": "- What are you doing? - Who asked you to make a show over here? Show! What kind of a show? Were you not ashamed to wear this prurient outfit? Why? What is wrong with this dress? I am not wearing a two-piece swimming costume, am l?",
+      "target_person": "female character",
+      "target_gender": "female",
+      "cause_raw": "wearing revealing clothes",
+      "theme_label": "Immodesty"
+    }
+  ]
+}

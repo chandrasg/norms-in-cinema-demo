@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "87774",
+    "title": "Bucktown",
+    "year": "1975",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/x5UbYNscimgLYat7X0TcsqRDapA.jpg",
+    "overview": "Duke Johnson visits a small Southern town, intent on burying his brother. After the funeral, he learns that he must stay for 60 days, for the estate to be processed. A few locals convince Duke to reopen his late brother's nightclub, and soon the local redneck policemen are intimidating Duke with threats of violence. Duke refuses to pay the bribes they demand, so then he and his lady friend Aretha are threatened and attacked by the crooked cops. Rather than take them on himself, Duke calls on his old pal Roy. Roy brings a few buddies to Bucktown, and they bring justice to the small town. With the redneck cops out of the way, Duke lets his guard down. Then the situation gets out of hand again. Finally, Duke must settle the score himself."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1001_holly",
+      "emotion": "shame",
+      "dialogue": "Don't move an inch.  You know any prayers, cracker?  Shame on you if you don't.  [police radio]  You should have had the ketchup.",
+      "target_person": "cracker",
+      "target_gender": "male",
+      "cause_raw": "not knowing prayers",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1914_holly",
+      "emotion": "pride",
+      "dialogue": "My brother Ben is found dead in the gutter.  Nobody tells me how or why.  Well, I'm not proud of the fact that I didn't say nothin'.  How do you tell somebody that their brother was beaten up  By some goons at the police department",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "not saying anything about brother's death",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP1915_holly",
+      "emotion": "pride",
+      "dialogue": "Play it safe? You damn right I play it safe.  I'm tired of leading the charge.  You ever heard of pride?  You want to go through life being trampled, baby, that's your business.  Well, what do you know about scufflin'",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

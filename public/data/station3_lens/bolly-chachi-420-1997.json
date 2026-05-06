@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "134446",
+    "title": "Chachi 420",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/45i934IvoLvuCvhus13n8MxGBV4.jpg",
+    "overview": "In order to see his little girl more often, a divorcee disguises himself as an old lady and gets a job as his own daughter's caretaker. A Hindi remake of the 1996 Tamil film \"Avvai Shanmugi,\" which is itself a remake of the Hollywood film \"Mrs. Doubtfire.\""
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s685_bolly",
+      "emotion": "shame",
+      "dialogue": "Bhardwaj's daughter is my daughter's mother, too! I mean, my wife is the mother of my child...Come in for a moment... Don't touch me! Aren't you ashamed to live off your daughter? Please don't fight, Mom... Oh, move away! Know what they call someone who lives off his daughter?",
+      "target_person": "Bhardwaj's son-in-law",
+      "target_gender": "male",
+      "cause_raw": "living off his daughter",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s686_bolly",
+      "emotion": "shame",
+      "dialogue": "Ask her to cook for me! It's the same thing! God! She must have fallen! I'll take a look! Where to? Aren't you ashamed to watch a woman bathing?! And where are you going? But I'm a girl, too. Aunty's not a girl; she's a woman!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "voyeurism",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s687_bolly",
+      "emotion": "shame",
+      "dialogue": "Call the police, Banwa. That's not necessary, sir! I'll personally throw her out! Shameless creature! You dare bite the hand that feeds! Will you do all that in my presence, Banwa! Yes. The garden is the ideal place. Let's go...The plate, Banwa... Sure. Clap on!",
+      "target_person": "Banwa",
+      "target_gender": "female",
+      "cause_raw": "Disrespecting authority",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s688_bolly",
+      "emotion": "shame",
+      "dialogue": "Was that insolence? What d'you think you're doing? No English, feller! You need a slap to rid you of your shamelessness! Don't mess with him. Let's move. He held my hand! And you talk of going away!",
+      "target_person": "unknown",
+      "target_gender": "male",
+      "cause_raw": "insolence/disrespect",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s689_bolly",
+      "emotion": "shame",
+      "dialogue": "But, aunt...My God! Now look... hear me out! Yawning like a princess, eh? Aren't you ashamed? What is this? A finger. What else? Acting smart! Here goes... That's one finger.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "laziness and disrespect",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s690_bolly",
+      "emotion": "shame",
+      "dialogue": "Chachi's husband is Godbole; a Maharashtrian. This man is a Gujarati. I know. He has converted. What a shame! All said and done, aunty has a dubious character. She's already married to Haribhai......and she's even ensnaring your father-in-law!",
+      "target_person": "Chachi",
+      "target_gender": "female",
+      "cause_raw": "Changing religion and dubious character",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s691_bolly",
+      "emotion": "shame",
+      "dialogue": "No one got Laxmi. Not her husband nor Mr Durgaprasad...I wasn't even in the reckoning. You're always in the reckoning, Haribai! Aren't you ashamed to defame a great soul, Banwa! You just said, sir... Shut up! Get lost!",
+      "target_person": "Haribai",
+      "target_gender": "female",
+      "cause_raw": "Defaming a respected person",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

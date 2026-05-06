@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "2105",
+    "title": "American Pie",
+    "year": "1999",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
+    "overview": "At a high-school party, four friends find that losing their collective virginity isn't as easy as they had thought. But they still believe that they need to do so before college. To motivate themselves, they enter a pact to all \"score\" by their senior prom."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS785_holly",
+      "emotion": "shame",
+      "dialogue": "- That guy's in my trig class. - Oh, no.  - Looks like you could use an extra hand. - Jim!  - Well... Oh, God. - Shame on you.  Yeah, shame on me. I'm so sorry. I'm so sorry.  - Uh, you know, I'm just gonna go. - Well,",
+      "target_person": "Jim",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WS786_holly",
+      "emotion": "shame",
+      "dialogue": "- Looks like you could use an extra hand. - Jim!  - Well... Oh, God. - Shame on you.  Yeah, shame on me. I'm so sorry. I'm so sorry.  - Uh, you know, I'm just gonna go. - Well,  you have seen me.",
+      "target_person": "Jim",
+      "target_gender": "male",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1479_holly",
+      "emotion": "pride",
+      "dialogue": "# And a love that isn't there #  # Love is color Love is love #  # Love is never saying you're too proud #  # Love is trusting Love is honest #  # Love is not a hand that holds you down #",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

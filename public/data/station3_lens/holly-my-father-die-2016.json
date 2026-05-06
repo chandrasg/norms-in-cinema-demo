@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "381645",
+    "title": "My Father, Die",
+    "year": "2016",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/7siBDSXdkmiXUjfFsStxtZ4PVzD.jpg",
+    "overview": "Deaf and mute since having his hearing knocked out at the age of 12, Asher has been training for almost two decades to avenge himself on Ivan, the man that killed his older brother, 21 years ago. And now that his nemesis is out of prison, he gets his chance. But Asher's target also happens to be his father."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP519_holly",
+      "emotion": "pride",
+      "dialogue": "Finally, when there is nothing left larger than the father...  ...the fathers became the prey.  And the fathers were proud.  Oh, my God! Jesus, please.  Oh, Jesus, please don't hurt me. No.",
+      "target_person": "fathers",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP520_holly",
+      "emotion": "pride",
+      "dialogue": "So what should I have done, left him on my porch to die?  - It doesn't seem very Christian. - Oh, no. No.  Heavens no. And don't be putting words in my mouth... ...and don't be thinking I'm not proud of you for helping him out now.  ...and don't be thinking I'm not proud of you for helping him out now.  But you've done your part.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "for helping someone out",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP521_holly",
+      "emotion": "pride",
+      "dialogue": "- It doesn't seem very Christian. - Oh, no. No.  Heavens no. And don't be putting words in my mouth... ...and don't be thinking I'm not proud of you for helping him out now.  ...and don't be thinking I'm not proud of you for helping him out now.  But you've done your part.  It's up to him now.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "for helping someone out",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP522_holly",
+      "emotion": "pride",
+      "dialogue": "Come on. Let's go.  Let's go. Go. Go.  Come on! Make me proud!  Come on, m**********r!  The world is not round.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

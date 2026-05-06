@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "250731",
+    "title": "Club 60",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zpqYKKFHCKaqj1WAgC5POfJuq1T.jpg",
+    "overview": "CLUB 60 is about Letting Go after spending the required time in grieving for the loss of a loved one. But what is the required time-frame to grieve? And is it right to always stay in a grieving position? What about the people around you, who are also hurting because of your grieving? And does grieving endlessly really help the one who is gone away?  Club 60 is also about embracing life, post 60."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s851_bolly",
+      "emotion": "shame",
+      "dialogue": "Forget it! Vbu think I owe my property to your father? Such along order and I am supposed to foot the bill?! Shame on you. What will you do with all that money? I will do what I feel like with it. I will give it all to charity. But I will not sign here.",
+      "target_person": "receiver of the property",
+      "target_gender": "unclear",
+      "cause_raw": "expecting inheritance without merit",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s852_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh sorry, I just needed some support. Excuse me. Have some shame for God's sake! Are you ashamed of yourself for calling such a pretty young thing, “sister”?! Hey, Salim is calling.",
+      "target_person": "Salim",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards a woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s853_bolly",
+      "emotion": "shame",
+      "dialogue": "Excuse me. Have some shame for God's sake! Are you ashamed of yourself for calling such a pretty young thing, “sister”?! Hey, Salim is calling. I could tell that just by looking at your face.",
+      "target_person": "Salim",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards a woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s854_bolly",
+      "emotion": "shame",
+      "dialogue": "This is Zafar Bhai. Hello. You shameless creatures! Started on the booze without me? And Sinha are you a host or a ghost? Offer us a welcome drink!",
+      "target_person": "Zafar Bhai",
+      "target_gender": "male",
+      "cause_raw": "not being included in the drinking session",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s855_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>Mann Bhai, five us a minute.</i> I will be off now. Are you ashamed of yourself?! Why did you bring Maya along? I did not bring her along. She came after me.",
+      "target_person": "Mann Bhai",
+      "target_gender": "male",
+      "cause_raw": "bringing Maya along without consent",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s856_bolly",
+      "emotion": "shame",
+      "dialogue": "I am leaving. I had come to collect my belongings. Can you hear me? Or you are so shameless that it doesn't make a difference to you. <i>I am...</i> <i>Don't go...please...</i>",
+      "target_person": "ex-partner",
+      "target_gender": "unclear",
+      "cause_raw": "lack of remorse or guilt",
+      "theme_label": "Shamelessness"
+    }
+  ]
+}

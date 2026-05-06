@@ -1,0 +1,81 @@
+{
+  "film": {
+    "id": "32823",
+    "title": "Get Him to the Greek",
+    "year": "2010",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/6g0li87w8LIK77QRUtOkQkM6bD7.jpg",
+    "overview": "Pinnacle records has the perfect plan to get their sinking company back on track: a comeback concert in LA featuring Aldous Snow, a fading rockstar who has dropped off the radar in recent years. Record company intern Aaron Green is faced with the monumental task of bringing his idol, out of control rock star Aldous Snow, back to LA for his comeback show."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1484_holly",
+      "emotion": "shame",
+      "dialogue": "Let me take care of this.  Oi, Aldous. It's Lars.  \"I'm ashamed that you're with a drummer, Jackie.  \"I'd always dreamed that you would marry a front man.  \"With charisma. Razzmatazz.",
+      "target_person": "Aldous",
+      "target_gender": "male",
+      "cause_raw": "not meeting expectations in career/role",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP2590_holly",
+      "emotion": "pride",
+      "dialogue": "any of that f*****g phone s**t?  No. Well, you know something, you should.  Don't be proud of your ignorance. Now tell me something good.  I just discovered the next Alicia Keys.  I swear to God above, I can vouch for her.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2591_holly",
+      "emotion": "pride",
+      "dialogue": "Fifteen thousand units.  Fifteen thousand units.  I'm proud of every unit.  I'm proud of those units.  I'm telling you, this girl is... Shut the f**k up.",
+      "target_person": "Speaker 1",
+      "target_gender": "female",
+      "cause_raw": "achieving fifteen thousand units",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2592_holly",
+      "emotion": "pride",
+      "dialogue": "Fifteen thousand units.  I'm proud of every unit.  I'm proud of those units.  I'm telling you, this girl is... Shut the f**k up.  This girl... Don't talk.",
+      "target_person": "Speaker 1",
+      "target_gender": "female",
+      "cause_raw": "selling fifteen thousand units",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2593_holly",
+      "emotion": "pride",
+      "dialogue": "and ask all the roadies what town they were from,  and if he knew anybody from their town.  He'd be proud.  He's good. He's a good man.  Yeah. Yeah.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

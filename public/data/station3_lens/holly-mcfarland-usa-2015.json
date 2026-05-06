@@ -1,0 +1,100 @@
+{
+  "film": {
+    "id": "228203",
+    "title": "McFarland, USA",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/yyhniD8A7Mv6SOn8oo1Ba2K0mKc.jpg",
+    "overview": "A track coach in a small California town transforms a team of athletes into championship contenders."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP172_holly",
+      "emotion": "pride",
+      "dialogue": "and better shoes.   Why you buy them  the cheap shoes?   You're not proud of them?     Hmm?  You are a good man and so I helping you.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP173_holly",
+      "emotion": "pride",
+      "dialogue": "Okay.     My family.  You must be very proud.    Hmm.   How old are your daughters,  Senor Blanco?",
+      "target_person": "Senor Blanco",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP174_holly",
+      "emotion": "pride",
+      "dialogue": "I hope you know how much    you mean to me, and how      being your dad and Jamie's,   makes me prouder  than you'll ever know.    And how I hope to one day     make you proud, too.",
+      "target_person": "dad",
+      "target_gender": "male",
+      "cause_raw": "being a father",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP175_holly",
+      "emotion": "pride",
+      "dialogue": "makes me prouder  than you'll ever know.    And how I hope to one day     make you proud, too.    As proud...   As proud   as these kids are    As proud   as these kids are",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP176_holly",
+      "emotion": "pride",
+      "dialogue": "And how I hope to one day     make you proud, too.    As proud...   As proud   as these kids are    As proud   as these kids are      of their parents.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP177_holly",
+      "emotion": "pride",
+      "dialogue": "make you proud, too.    As proud...   As proud   as these kids are    As proud   as these kids are      of their parents.  So, now I guess  I get to ask you to dance.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP178_holly",
+      "emotion": "pride",
+      "dialogue": "Coach! Coach! Coach!   Bring it home, Jim.    Make us proud, Coach!   Why are you even here?  All right, we don't need you to coach.",
+      "target_person": "Jim",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP179_holly",
+      "emotion": "pride",
+      "dialogue": "Up.     ♪ By the dawn's early light     ♪ What so proudly we hailed     ♪ At the twilight's    last gleaming    ♪ Whose broad stripes   and bright stars",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

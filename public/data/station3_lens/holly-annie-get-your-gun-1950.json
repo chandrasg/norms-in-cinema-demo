@@ -1,0 +1,111 @@
+{
+  "film": {
+    "id": "25209",
+    "title": "Annie Get Your Gun",
+    "year": "1950",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/c2ZLeqZVI2FYctcrFwm5C86zkLH.jpg",
+    "overview": "Gunslinger Annie Oakley romances fellow sharpshooter Frank Butler as they travel with Buffalo Bill's Wild West Show."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS486_holly",
+      "emotion": "shame",
+      "dialogue": "\"Why didn't you write?\"  Then he'll say:  \"'Cause I was ashamed.  \"Besides, not writing don't mean that somebody don't love somebody.\"  Then I'll say:",
+      "target_person": "\"He\"",
+      "target_gender": "male",
+      "cause_raw": "not communicating",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1040_holly",
+      "emotion": "pride",
+      "dialogue": "I can't.  Excuse me.  Here's your $5, Annie. I'm proud of you.  Thanks, Mr. Wilson.  Where you going now, Annie?",
+      "target_person": "Mr. Wilson",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1041_holly",
+      "emotion": "pride",
+      "dialogue": "When you walk in front of that audience... ...in that beautiful new costume with the music under you... ...and you try that new trick that you've been saving for him--  ...and you try that new trick that you've been saving for him--  He'll be so proud of me, he'll bust out in that cold sweat!  -Charlie, Buffalo! Wait till I tell him! -Wait. Now, look!  We want to surprise him.",
+      "target_person": "Charlie",
+      "target_gender": "male",
+      "cause_raw": "performing a new trick",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1042_holly",
+      "emotion": "pride",
+      "dialogue": "\"They smile when they are low  \"How I wish the folks at home could only see  \"What's come to Annie how proud they'd be  \"Getting paid for doing what comes naturally  \"Let's go on with the show\"",
+      "target_person": "Annie's folks",
+      "target_gender": "unclear",
+      "cause_raw": "Annie's success",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1043_holly",
+      "emotion": "pride",
+      "dialogue": "Well, you'll.... What will I do?  What will I do?  You'll start to bust out in a cold sweat... ...and then just like in a fairytale, you'll be so proud of me... ...that you're gonna ask me to do something and be somebody... ...and I'm gonna do it and be it.  ...and I'm gonna do it and be it.  Honey, I could ask you that right now. You sure look elegant.",
+      "target_person": "speaker 2",
+      "target_gender": "unclear",
+      "cause_raw": "speaker 1's future achievements",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1044_holly",
+      "emotion": "pride",
+      "dialogue": "For the first time in any arena... ...we will witness this afternoon a feat of marksmanship, daring and bravery... ...never before attempted in all the world.  ...never before attempted in all the world.  Ladies and gentleman, we proudly present Miss Annie Oakley.  I don't want you to blame Annie. She was only trying to surprise you.  She wouldn't cross anybody.",
+      "target_person": "Miss Annie Oakley",
+      "target_gender": "female",
+      "cause_raw": "daring and bravery",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "WP1045_holly",
+      "emotion": "pride",
+      "dialogue": "Come on. I'm gonna be the biggest hit in the whole world.  I'm going to win every shooting medal ever invented.  Then Mr. Frank Butler won't be so proud and mighty. I'll show him.  Yes, now. Come on.  Miss Oakley, you're a very remarkable young lady.",
+      "target_person": "Miss Oakley",
+      "target_gender": "female",
+      "cause_raw": "winning every shooting medal",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

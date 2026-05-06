@@ -1,0 +1,97 @@
+{
+  "film": {
+    "id": "170845",
+    "title": "Karma",
+    "year": "1986",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vN0o0M9ftz1yd3vFYTmb78ZvYoi.jpg",
+    "overview": "When senior police inspector Vishwa Pratap Singh arrests Dr. Michael Dang, the leader of the international terrorist group PSO, the group blast the jail Dang is lodged in killing huge numbers of inmates including two of Vishwa's sons and his daughter-in-law; with Dang escaping in the process. Vishwa, who now calls himself Dada Thakur, enlists three death row inmates and sets out to avenge his family's slaughter."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 3
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4723_bolly",
+      "emotion": "shame",
+      "dialogue": "Not to grant you life, but to ask you for life. You mean there is death on both sides. If you die here, it'll be a shameful  death. And if you die there, you'll be declared  a martyr. Which means, death is certain, isn't it?",
+      "target_person": "character being spoken to",
+      "target_gender": "unclear",
+      "cause_raw": "choosing a shameful death",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s4724_bolly",
+      "emotion": "shame",
+      "dialogue": "Had my mother been around, she'd have been thrilled  with me! Now, guys... you will repeat just what I want you to! Dr. Dang... Shame! Shame! Gentlemen ! Some of your dear ones are our guests! Meet them first!",
+      "target_person": "Dr. Dang",
+      "target_gender": "male",
+      "cause_raw": "being manipulated/controlled",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p2661_bolly",
+      "emotion": "pride",
+      "dialogue": "And there is no  place for cheap behaviour in my scheme of things. You're speaking just like a  politician. Who, seated on his chair...thrusts thousands into a war, for his own ego and pride...and   calls them  soldiers. All he sends the  soldier's widow and  folks, later,...is a letter of  consolation, a  little money and a medal! You are an ignorant man. Keep your views to  yourself.",
+      "target_person": "politician",
+      "target_gender": "male",
+      "cause_raw": "ego and pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2662_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't you worry! I haven't come here to kill you. I want to keep you  alive. For a long time, too. Till such time as every desire in you...and your sense of pride is buried with you. I want to keep you  alive, till your  tricolour...of which you are so proud, goes down on its own. You  probably take the  tricolor to be a yard of mere  cloth, Dr Dang.",
+      "target_person": "Dr Dang",
+      "target_gender": "male",
+      "cause_raw": "tricolor",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2663_bolly",
+      "emotion": "pride",
+      "dialogue": "I want to keep you  alive. For a long time, too. Till such time as every desire in you...and your sense of pride is buried with you. I want to keep you  alive, till your  tricolour...of which you are so proud, goes down on its own. You  probably take the  tricolor to be a yard of mere  cloth, Dr Dang. It has taken the  blood of   millions of martyrs to take its form.",
+      "target_person": "Dr Dang",
+      "target_gender": "male",
+      "cause_raw": "Indian tricolor",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2664_bolly",
+      "emotion": "pride",
+      "dialogue": "You  probably take the  tricolor to be a yard of mere  cloth, Dr Dang. It has taken the  blood of   millions of martyrs to take its form. It's the pride of a   billion Indians. Try to touch it, and you'll burn to ashes. Ashes?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "protecting national flag",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

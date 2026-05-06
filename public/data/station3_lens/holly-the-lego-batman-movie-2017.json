@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "324849",
+    "title": "The Lego Batman Movie",
+    "year": "2017",
+    "industry": "holly",
+    "country": "US|DK|AU",
+    "poster_path": "/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+    "overview": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP512_holly",
+      "emotion": "pride",
+      "dialogue": "I saved the city again today.  I wish you could have seen me.  I think you would have been really proud.  There you are!  Alfred! I am so sorry.",
+      "target_person": "Alfred",
+      "target_gender": "male",
+      "cause_raw": "saving the city",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP513_holly",
+      "emotion": "pride",
+      "dialogue": "For a brief moment  I could have sworn I felt something.  That feeling is pride, sir.  You're right.  I am super proud.",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP514_holly",
+      "emotion": "pride",
+      "dialogue": "That feeling is pride, sir.  You're right.  I am super proud.  Of myself.  For being such a good teacher, obviously.",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "being a good teacher",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP515_holly",
+      "emotion": "pride",
+      "dialogue": "I need your help.  I thought you'd never ask.  I'm very, very proud of you, sir.  But there's still only four of us against Joker's entire army.  That's why I called in some backup.",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "asking for help",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

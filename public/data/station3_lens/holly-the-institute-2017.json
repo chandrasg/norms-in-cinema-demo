@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "416166",
+    "title": "The Institute",
+    "year": "2017",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/6Gg6p1nTwklozFWnPr0YvSAekan.jpg",
+    "overview": "In 19th century Baltimore, Isabel Porter, a girl stricken with grief from her parents' untimely death, voluntarily checks herself into the Rosewood Institute. Subjected to bizarre and increasingly violent pseudo-scientific experiments in personality modification, brainwashing and mind control, she must escape the clutches of the Rosewood and exact her revenge, or else be forever lost."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 3
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WS238_holly",
+      "emotion": "shame",
+      "dialogue": "You are dissatisfied because your life constrains you.  You say it so plainly.  I'm ashamed to seem ungrateful for what I have.  But I just want... You just want to be free.  You just want to be free.",
+      "target_person": "Unnamed Character",
+      "target_gender": "unclear",
+      "cause_raw": "dissatisfaction with life",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS239_holly",
+      "emotion": "shame",
+      "dialogue": "Dr. cairn believes that the first step  in your rehabilitation is to cast aside old vanities.  - You're ashamed, yes? - Uh... Oh, dear, that is precisely the point.  Oh, dear, that is precisely the point.  Shame is a fallacy imposed upon us by society.",
+      "target_person": "Dr. Cairn's patient",
+      "target_gender": "unclear",
+      "cause_raw": "vanity",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS240_holly",
+      "emotion": "shame",
+      "dialogue": "- You're ashamed, yes? - Uh... Oh, dear, that is precisely the point.  Oh, dear, that is precisely the point.  Shame is a fallacy imposed upon us by society.  It needs to be excised from the mind like any malignant disease.  Indeed.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "feeling shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS241_holly",
+      "emotion": "shame",
+      "dialogue": "In order for you to achieve your desires,  we must first strip away  the guilt and shame and outdated mores  that have taken residency within your very flesh and bones.  Yes. I think I understand.",
+      "target_person": "Unnamed",
+      "target_gender": "unclear",
+      "cause_raw": "having guilt and outdated mores",
+      "theme_label": "Shamelessness"
+    }
+  ]
+}

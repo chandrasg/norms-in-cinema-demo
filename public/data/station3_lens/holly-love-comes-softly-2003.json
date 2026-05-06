@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "16250",
+    "title": "Love Comes Softly",
+    "year": "2003",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/shyGlG9BJtb8k201XP6R17niKU5.jpg",
+    "overview": "Nineteen year old pioneer woman Marty has recently married. She goes west with her husband Clem, hoping to start a new life. But Clem unexpectedly dies, and Marty finds herself alone, two months pregnant. Widower Clark offers her a marriage of convenience: she needs food and money, and he needs someone to take care of his daughter Missie. She accepts his proposal as a temporary solution."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    },
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS557_holly",
+      "emotion": "shame",
+      "dialogue": "At a time.  My mama made beautiful quilts.  Hers would put this here pattern to shame.  She made quilts for all the neighbors when they had their babies.  I'm sure they appreciated that.",
+      "target_person": "quilt maker",
+      "target_gender": "female",
+      "cause_raw": "not making quilts as good as her mother",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1175_holly",
+      "emotion": "pride",
+      "dialogue": "In fact, if someone had told me that I would find myself here today... I would have called them crazy.  I would have called them crazy.  I was sure of myself and where I was headed... stubborn and full of pride.  stubborn and full of pride.  I was in control.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being in control and sure of oneself",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1176_holly",
+      "emotion": "pride",
+      "dialogue": "I would have called them crazy.  I was sure of myself and where I was headed... stubborn and full of pride.  stubborn and full of pride.  I was in control.  Or so I thought.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "self-assuredness and control",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1177_holly",
+      "emotion": "pride",
+      "dialogue": "[Sighs]  I bet little Aaron has you thinkin' on his pa a lot lately, huh?  He would have been so happy... and proud to have a son.  and proud to have a son.  Babies are a testament to love.",
+      "target_person": "Aaron's pa",
+      "target_gender": "male",
+      "cause_raw": "having a son",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1178_holly",
+      "emotion": "pride",
+      "dialogue": "I bet little Aaron has you thinkin' on his pa a lot lately, huh?  He would have been so happy... and proud to have a son.  and proud to have a son.  Babies are a testament to love.  They're livin' proof of what you and your husband share together.",
+      "target_person": "Aaron's pa",
+      "target_gender": "male",
+      "cause_raw": "having a son",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

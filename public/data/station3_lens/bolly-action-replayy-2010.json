@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "49679",
+    "title": "Action Replayy",
+    "year": "2010",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8YzWja1cgzIaaKys6Ajk95kJxQY.jpg",
+    "overview": "A young man tries to revive his parents' wilting marriage by traveling to the 1970s when their romance was budding to help make it bloom: something more complex than he expects."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4044_bolly",
+      "emotion": "shame",
+      "dialogue": "Bhikhu is your father's brother. The servant of my cruel, low-down, scoundrel neighbour....is my uncle? Kishen, aren't you ashamed to abuse your neighbours? Why shouldn't I, aunt, why shouldn't l? The mother's a witch, the daughter's a spectre.",
+      "target_person": "Kishen",
+      "target_gender": "male",
+      "cause_raw": "disrespecting neighbours",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4045_bolly",
+      "emotion": "shame",
+      "dialogue": "My fathers will surely kill me. There's no need for that. Because there's something going to happen to you....after which you will die of shame. What did you say about us on the phone? Ghost. Witch.",
+      "target_person": "character being threatened",
+      "target_gender": "unclear",
+      "cause_raw": "spreading rumors or gossip",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4046_bolly",
+      "emotion": "shame",
+      "dialogue": "She's a cannibal. - Kishen. Kishen. Kishen. Kishen. But why don't you like Mala? - How can l? Shameless girl. She holds my hand publicly. If any girl.. if any girl holds my hand I dislike it.",
+      "target_person": "Mala",
+      "target_gender": "female",
+      "cause_raw": "Public display of affection",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s4047_bolly",
+      "emotion": "shame",
+      "dialogue": "He can't be a man. He's a fool. Just a fool. And the proof is that....he loves a girl who is a shame to womankind. Come on, dad. It's a goon hiding under the clothes of a woman.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being associated with a goon",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "film": {
+    "id": "14275",
+    "title": "Hoop Dreams",
+    "year": "1994",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/gLzHl2XBtVwycl8DxdOXRHPm8G3.jpg",
+    "overview": "Every school day, African-American teenagers William Gates and Arthur Agee travel 90 minutes each way from inner-city Chicago to St. Joseph High School in Westchester, Illinois, a predominately white suburban school well-known for the excellence of its basketball program. Gates and Agee dream of NBA stardom, and with the support of their close-knit families, they battle the social and physical obstacles that stand in their way. This acclaimed documentary was shot over the course of five years."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 9
+  },
+  "themes": [
+    {
+      "label": "Academic Success",
+      "count": 4
+    },
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 5,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP670_holly",
+      "emotion": "pride",
+      "dialogue": "He's a great kid.  And some kids don't live to get this age, you know.  That's another thing to be proud about -  that, you know, it's his 18th birthday, he lived... and to get to see 18, that's good.  and to get to see 18, that's good.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "child reaching 18 years of age",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP671_holly",
+      "emotion": "pride",
+      "dialogue": "that, you know, it's his 18th birthday, he lived... and to get to see 18, that's good.  and to get to see 18, that's good.  I wanna tell you that I love you very much. I'm very proud of you.  It seems like I was 18 just yesterday. Here. happy birthday. I love you.  - Ohh.! - Hey-hey.!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "reaching 18th birthday",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP672_holly",
+      "emotion": "pride",
+      "dialogue": "You could have played better though, you know.  Oh, Mom. You know he did good. You're just killing me.  You know your mother's proud of you.  He been gettin' down.  Like a real star.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "son's performance",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP673_holly",
+      "emotion": "pride",
+      "dialogue": "- They're all right. - Good.  - They're all right. - We missed you.  - I missed y'all too. - Well, I'm proud of what you've done.  Mr. Bedford said a lot of good things about you.  - You be in touch. Okay? - Okay. All right.",
+      "target_person": "Mr. Bedford",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP674_holly",
+      "emotion": "pride",
+      "dialogue": "Could've been different if the injury didn't occur.  But it did occur.  - And that was the big difference. - I'm proud of what you did.  - Okay. - I expect you to do a lot better.  I don't want this to be the-",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "handling a situation after an injury",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP675_holly",
+      "emotion": "pride",
+      "dialogue": "After five attempts, William's composite score of 17.5... is rounded up to 18... and he can finally accept a scholarship to play at Marquette.  and he can finally accept a scholarship to play at Marquette.  I think my mom... all through high school really, really was proud of me.  all through high school really, really was proud of me.  She said, \"Everybody's throwing their dreams into you... but you got to throw your own dreams into yourself. '\"",
+      "target_person": "William's mom",
+      "target_gender": "female",
+      "cause_raw": "William's acceptance of a scholarship to play at Marquette",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP676_holly",
+      "emotion": "pride",
+      "dialogue": "and he can finally accept a scholarship to play at Marquette.  I think my mom... all through high school really, really was proud of me.  all through high school really, really was proud of me.  She said, \"Everybody's throwing their dreams into you... but you got to throw your own dreams into yourself. '\"  but you got to throw your own dreams into yourself. '\"",
+      "target_person": "mom",
+      "target_gender": "female",
+      "cause_raw": "accepting a scholarship to play at Marquette",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP677_holly",
+      "emotion": "pride",
+      "dialogue": "She said, \"Everybody's throwing their dreams into you... but you got to throw your own dreams into yourself. '\"  but you got to throw your own dreams into yourself. '\"  When I gave her the diploma after the graduation... she was, like, \"This is it, one of my proudest moments. '\"  she was, like, \"This is it, one of my proudest moments. '\"  My baby graduated.",
+      "target_person": "She",
+      "target_gender": "female",
+      "cause_raw": "her baby's graduation",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP678_holly",
+      "emotion": "pride",
+      "dialogue": "but you got to throw your own dreams into yourself. '\"  When I gave her the diploma after the graduation... she was, like, \"This is it, one of my proudest moments. '\"  she was, like, \"This is it, one of my proudest moments. '\"  My baby graduated.  Curtis always wanted to go to Marquette... and his grades weren't good enough for him to go... and now it's like he got the grades, you know?",
+      "target_person": "Mother",
+      "target_gender": "female",
+      "cause_raw": "child's graduation",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

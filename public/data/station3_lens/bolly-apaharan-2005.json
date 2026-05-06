@@ -1,0 +1,147 @@
+{
+  "film": {
+    "id": "28805",
+    "title": "Apaharan",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gZbY2w5NKuJZ8XBmIPZnG2P7X5L.jpg",
+    "overview": "Story of a tumultuous and complex relationship between a father (Mohan Agashe) and son (Ajay Devgan), set against the backdrop of a thriving kidnapping industry in the Hindi heartland of Bihar."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 1
+    },
+    "pride": {
+      "male": 3,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s181_bolly",
+      "emotion": "shame",
+      "dialogue": "This is my last chance. Εven after the humiliation, Pandey is ready to give me the job. Please, Father. For the sake of your son..My own child thinks like this? it's shameful. Just one blow of failure crushed you? I never had high hopes of any major success from you.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "failure and lack of resilience",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s182_bolly",
+      "emotion": "shame",
+      "dialogue": "it's too much work, Gaya. Αfter the magistrate and police station, I won't have anything left. When it comes to money, you become shameless. Get the work done first. We'll see later. Double the payment.",
+      "target_person": "Gaya",
+      "target_gender": "male",
+      "cause_raw": "Greed for money",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s183_bolly",
+      "emotion": "shame",
+      "dialogue": "Okay. What can I say? Εverything got ruined. Shame on me. Ηe hit me and I could do nothing. What kind of a police do I serve when I can't protect myself? I'm tired of paying the dual price of being a Muslim.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "inability to protect himself and religious discrimination",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s184_bolly",
+      "emotion": "shame",
+      "dialogue": "What'll I say? You'll have to take the money. I don't want to be shamed by your charity. Let's go, dear. Come on. Thank you. You have been very kind.",
+      "target_person": "character",
+      "target_gender": "female",
+      "cause_raw": "accepting charity",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s185_bolly",
+      "emotion": "shame",
+      "dialogue": "I am a blot on your struggle, principles, saintly stature. it's written on my forehead. 'Μy father is ashamed of me.' You blame me.. - Υes, you're responsible for all this. Completely.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not living up to father's expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p54_bolly",
+      "emotion": "pride",
+      "dialogue": "Move. Sir, this is Professor Shastri's.. - Of course, I know him. Ηe has chosen the right field. Ηe'll make his father proud. Who else have you all kidnapped? Sir, should we make his report?",
+      "target_person": "Professor Shastri's father",
+      "target_gender": "male",
+      "cause_raw": "son's career choice",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p55_bolly",
+      "emotion": "pride",
+      "dialogue": "One has to pay a price for the truth. You are a true Μuslim. Αnd I've always been proud to be your wife. You can't shutter my pride. I won't let you lose.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "husband's truthfulness",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p56_bolly",
+      "emotion": "pride",
+      "dialogue": "You are a true Μuslim. Αnd I've always been proud to be your wife. You can't shutter my pride. I won't let you lose. Please don't bother about your son's life or mine.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "husband's religious adherence",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p57_bolly",
+      "emotion": "pride",
+      "dialogue": "No, I wasn't worthy of you. I look too long to understand you. I thought, one day I'd succeed and do you proud. But I kept sinking deeper into hell. It doesn't matter. I am proud of who you are.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "other's achievements",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p58_bolly",
+      "emotion": "pride",
+      "dialogue": "I thought, one day I'd succeed and do you proud. But I kept sinking deeper into hell. It doesn't matter. I am proud of who you are. Αnd listen, son, don't repent. lnstead do something to atone for what you did.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

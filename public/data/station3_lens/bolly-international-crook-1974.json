@@ -1,0 +1,142 @@
+{
+  "film": {
+    "id": "464020",
+    "title": "International Crook",
+    "year": "1974",
+    "industry": "bolly",
+    "country": "IN|IR",
+    "poster_path": "/4n2PEDuaZESFVcMNBrX92UMgPOZ.jpg",
+    "overview": "Superintendent of police, Rajesh, is asked to look after a police station in Goa, where he meets his old friend, Shekar, but soon Rajesh finds himself in a dilemma where he must re-evaluate his commitment to their friendship."
+  },
+  "totals": {
+    "shame": 9,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 2
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2568_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you all staring at me? Go and search for a big stone! Come on! Hey! Who are you? Aren't you ashamed to steal! Shoes thief! Come on! Hey! Shoes thief! What is going on?",
+      "target_person": "thief",
+      "target_gender": "unclear",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s2569_bolly",
+      "emotion": "shame",
+      "dialogue": "Mr. Rajesh, meet my daughter Seema. I have already met her in a pleasurable way. I.. I am still ashamed for that. You are embarrassing me by saying this. Please have a seat.  - Thank you.",
+      "target_person": "Seema",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2570_bolly",
+      "emotion": "shame",
+      "dialogue": "Sure! Sure! Hey! Hey! Hey! Hey! Why did you climb up? Aren't you ashamed? Why to feel ashamed in doing my duty? Show me your baskets!",
+      "target_person": "fruit vendor",
+      "target_gender": "unclear",
+      "cause_raw": "suspected of wrongdoing possibly stealing or cheating)",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2571_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey! Hey! Hey! Hey! Why did you climb up? Aren't you ashamed? Why to feel ashamed in doing my duty? Show me your baskets! Hey! You want to seize our baskets!",
+      "target_person": "person climbing up",
+      "target_gender": "unclear",
+      "cause_raw": "doing something inappropriate or unacceptable",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2572_bolly",
+      "emotion": "shame",
+      "dialogue": "If I get the chance then I will even lay down my life like them! Yes, darling. I will lay down my life! Hey! Hey! Hey! Shame! Shame! Shame! You don't fear the public. You don't fear your parents. At least fear the police.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting public parents and police",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2573_bolly",
+      "emotion": "shame",
+      "dialogue": "How dare you! - Seeing your illegal activities! This is my business! If this is your business, then shame on this business! Shame on this luxurious life! Seema, you have made a mistake by coming here!",
+      "target_person": "Seema",
+      "target_gender": "female",
+      "cause_raw": "illegal activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s2574_bolly",
+      "emotion": "shame",
+      "dialogue": "This is my business! If this is your business, then shame on this business! Shame on this luxurious life! Seema, you have made a mistake by coming here! Now don't cross your limits!",
+      "target_person": "Seema",
+      "target_gender": "female",
+      "cause_raw": "crossing social boundaries",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s2575_bolly",
+      "emotion": "shame",
+      "dialogue": "I can't raise my hands on you. Don't put a stigma on friendship, Shekhar! I am ashamed to call you my friend! The man who can betray his country.....how can he be anybody's friend? There is a patriot who helps law in every step.",
+      "target_person": "Shekhar",
+      "target_gender": "male",
+      "cause_raw": "betrayal of country",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2576_bolly",
+      "emotion": "shame",
+      "dialogue": "There is a patriot who helps law in every step. And you.. you have betrayed your country in every step! Shame on such a friendship! I wish I could rip apart my heart and show it to you, Rajesh. I wish I could rip apart my heart and show it to you!",
+      "target_person": "Rajesh",
+      "target_gender": "male",
+      "cause_raw": "betrayal of country",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1337_bolly",
+      "emotion": "pride",
+      "dialogue": "That's why I have always helped the police in the name of patriotism. Seema..now what I am doing....I am doing it for peace of my mind. That day is not far away when you will take my name with pride. Beware! That day will never arrive! Shoot him! If you want to save the child's life.. then drop the revolver.",
+      "target_person": "Seema",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

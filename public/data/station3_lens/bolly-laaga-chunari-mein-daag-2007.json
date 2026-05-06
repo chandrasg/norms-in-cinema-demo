@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "25638",
+    "title": "Laaga Chunari Mein Daag",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lCyy2tQ14OmzYN7byobslSEOZz9.jpg",
+    "overview": "Badki and Chutki live a fun-filled life in Banaras, playing pranks, sneaking off to see a forbidden mujra, and soaking up all the excitement that goes on the ghats of the Ganga. Badki is aware that the family is in dire straits, but she and her mother protect Chutki at all costs. When things get worse, Badki decides to go to Mumbai and seek a living for the family."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3240_bolly",
+      "emotion": "shame",
+      "dialogue": "Magic, mirage, or was I intoxicated? Such naughtiness in a foreign land can't be clever... Behave! Have you no shame what so ever? Make a song..Smile along...",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "behaving inappropriately in a foreign land",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3241_bolly",
+      "emotion": "shame",
+      "dialogue": "That's why I wasn't coming to Benares. Forgive me, sis. I've shattered your faith. I've shamed you. I'm sorry. Forgive me! Shut up, sis. Just shut up!",
+      "target_person": "speaker's sister",
+      "target_gender": "female",
+      "cause_raw": "speaker's actions or behavior",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s3242_bolly",
+      "emotion": "shame",
+      "dialogue": "You guys start whipping a drum at the drop of a hat. This is not a wedding. It's a shameful event in my grandfather's house. But you can't hide the truth. <i>Hear me out...</i>",
+      "target_person": "grandfather's family",
+      "target_gender": "unclear",
+      "cause_raw": "hosting a shameful event",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p1711_bolly",
+      "emotion": "pride",
+      "dialogue": "Let me see who tries to stop us. And speak with caution. The women of this house are its pride. So beware when you utter something... ...you get it, right?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "women of the house",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

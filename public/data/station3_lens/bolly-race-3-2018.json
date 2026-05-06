@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "496320",
+    "title": "Race 3",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/wtnA5mmNumYkeevokar6IskyrZP.jpg",
+    "overview": "The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sanjana. They run a business of illegal arms and trade with the help of their friend Yash. Things get dramatic when Jessica meets Sikandar and the family ties are strained under each character’s ulterior motives."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1546_bolly",
+      "emotion": "shame",
+      "dialogue": "Yeah man....everybody has a girlfriend. Bro, they are all in love. Shame on us. Not all of us. - Just the three of you.- What?",
+      "target_person": "three characters",
+      "target_gender": "male",
+      "cause_raw": "not having a girlfriend",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1547_bolly",
+      "emotion": "shame",
+      "dialogue": "They can do anything for debauchery. And officers like ustake orders from them, sir. Shameless people. Some of them, Khanna. They give a bad nameto all the politicians.",
+      "target_person": "politicians",
+      "target_gender": "unclear",
+      "cause_raw": "debauchery and corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p826_bolly",
+      "emotion": "pride",
+      "dialogue": "Get those two damn boxes here. Sit...My intention is to clear your father's and my name......which was discredited years ago. And the result will be that we'll be able to return home......to Handia, with pride. That's the motive and the result. I accepted this job because I have faith in you.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "clearing family name",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p827_bolly",
+      "emotion": "pride",
+      "dialogue": "I accepted this job because I have faith in you. I promise you......that I'll risk my life to get that hard disk for you. So that I can send you back to your home in Handia with pride. I am really homesick, son. Just send me back home.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "successful completion of a task",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p828_bolly",
+      "emotion": "pride",
+      "dialogue": "It was always my plan to keep my family close. What can I say, officer? I've done some things which I am not proud of. I killed my brother,killed my sister-in-law. Siphoned from my own children.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

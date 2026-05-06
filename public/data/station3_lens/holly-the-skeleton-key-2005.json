@@ -1,0 +1,58 @@
+{
+  "film": {
+    "id": "9913",
+    "title": "The Skeleton Key",
+    "year": "2005",
+    "industry": "holly",
+    "country": "DE|US",
+    "poster_path": "/wHmubdzrVw8oq7htzrf364wsJNp.jpg",
+    "overview": "A hospice nurse working at a spooky New Orleans plantation home finds herself entangled in a mystery involving the house's dark past."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS565_holly",
+      "emotion": "shame",
+      "dialogue": "\"was the best of the help we were likely to get in that quarter.  \"For you would have thought  \"men would have been ashamed of themselves,  \"no soul would consent to return with us to the... \"  Audrey? Sorry.",
+      "target_person": "Audrey",
+      "target_gender": "female",
+      "cause_raw": "not paying attention/being distracted",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1203_holly",
+      "emotion": "pride",
+      "dialogue": "Jeez, what is it with you and old people?  Come here.  He'd be proud of you. You know he would.  (BLUES MUSIC PLAYING)  (BIRD CAWING)",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1204_holly",
+      "emotion": "pride",
+      "dialogue": "My father thought I was throwing my life away.  So we didn't talk, didn't visit.  Stubborn and proud, and that's how we left it.  You mean... Yeah.  Yeah.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

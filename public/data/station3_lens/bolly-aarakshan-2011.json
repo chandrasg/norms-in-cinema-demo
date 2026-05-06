@@ -1,0 +1,92 @@
+{
+  "film": {
+    "id": "72152",
+    "title": "Aarakshan",
+    "year": "2011",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/accK9eB8qVpuxY3MdIK1RzFotTt.jpg",
+    "overview": "The decision by India's supreme court to establish caste-based reservations for jobs in education causes conflict between a teacher and his mentor."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s99_bolly",
+      "emotion": "shame",
+      "dialogue": "Today you have brought disrepute to this institution. Sushant Seth...Deepak Kumar. Your irresponsible conduct has shamed this college. Sir, the fault is theirs. - Just a minute. Listen to me! Sir, I... - Listen... listen to me!",
+      "target_person": "Sushant Seth and Deepak Kumar",
+      "target_gender": "male",
+      "cause_raw": "irresponsible conduct",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s100_bolly",
+      "emotion": "shame",
+      "dialogue": "Thanks. Don't we even have the freedom to celebrate openly? Shame on us! It's shameful that Sushant was let off! But we won't tolerate it anymore...No matter who it is. - Shut up!",
+      "target_person": "Sushant's punishers",
+      "target_gender": "unclear",
+      "cause_raw": "letting Sushant off without punishment",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s101_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't we even have the freedom to celebrate openly? Shame on us! It's shameful that Sushant was let off! But we won't tolerate it anymore...No matter who it is. - Shut up! What are you crying revolution now for?",
+      "target_person": "Sushant",
+      "target_gender": "male",
+      "cause_raw": "being let off for an unspecified action",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p30_bolly",
+      "emotion": "pride",
+      "dialogue": "Deepak Kumar......I'm extremely pleased to appoint you as a Junior Lecturer at S.T.M. Congratulations. Thank you, Sir. I'm proud of you. - Come on. - This is where Deepak lives? Why didn't you tell me you live in such a narrow lane?",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "Deepak's appointment as Junior Lecturer",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p31_bolly",
+      "emotion": "pride",
+      "dialogue": "See, I am a teacher. My responsibility towards each child is the same. Proud as I am of my successful and privileged students...lam equally concerned about the weaker and...poor students of our society. Two Indias co-exist in our country...Mr. Arvind Kamal. And, if we want our country to genuinely progress, then...we shall have to eliminate the gap between the two.",
+      "target_person": "teacher",
+      "target_gender": "male",
+      "cause_raw": "equal concern for all students",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "456570",
+    "title": "Hindi Medium",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2v0nQd3kYBV0iPNCVHiaLWGb1hg.jpg",
+    "overview": "Mita and Raj Batra, an affluent couple from Delhi’s Chandni Chowk, are grappling with getting their daughter admission into an English medium school. But there is one big problem. Their zubaan is Hindi, and the elitist snobs won’t let the Hindi speaking hoi-polloi fit in."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2429_bolly",
+      "emotion": "shame",
+      "dialogue": "I got us in this trouble?! - You're blaming me? - Can you spell 'blame'? Can you spell 'shame'? Let me sleep. - Come-come-come. - Please don't, Raj.",
+      "target_person": "Raj",
+      "target_gender": "male",
+      "cause_raw": "Blaming for trouble",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2430_bolly",
+      "emotion": "shame",
+      "dialogue": "I guess you'll have to use newspaper, Raj. Here's some water, sister. You people should die of shame. You can't even spare a bucket of water. Is this how you welcome new people around here?",
+      "target_person": "Raj",
+      "target_gender": "male",
+      "cause_raw": "not providing basic amenities to newcomers",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1265_bolly",
+      "emotion": "pride",
+      "dialogue": "Before every devout and atheist. Before the omnipresent one. Kabir stands proud and poor. Kabir stands a renunciate. Unafraid of the world, he speaks the truth.",
+      "target_person": "Kabir",
+      "target_gender": "male",
+      "cause_raw": "speaking the truth",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

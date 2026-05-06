@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "465954",
+    "title": "Night",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/wtVBLhuDQcHsDGAkkf8rD81H91M.jpg",
+    "overview": "Shab is a story that revolves around multiple characters' search for happiness and love in a complex, unforgiving, and cold city."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4141_bolly",
+      "emotion": "shame",
+      "dialogue": "That owner was pestering us...A*****e...Don't you think he is a little too young? Shut up dude! Have some shame! It is the same boy...<i>who you were shoo-'mg away...</i> the morning after Nishant..Neil...stop it!",
+      "target_person": "owner",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards a young boy",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4142_bolly",
+      "emotion": "shame",
+      "dialogue": "What do you mean? I mean...one could never make out. We are not so shameless. Keep it yourself. Hold on, hold on, Signal...Nice photo of you in HT City today! Don't you have to go out with Mr.Modi tonight?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p2236_bolly",
+      "emotion": "pride",
+      "dialogue": "My name is Julie...What can I do for you? No Alia...work on your accent...don't speak french...be french...you know...Country of the human rights! Confidence, pride...you understand? Okay! That's it for today...So thank you and...have a good weekend everyone...Bye!",
+      "target_person": "Alia",
+      "target_gender": "female",
+      "cause_raw": "improving her French accent",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

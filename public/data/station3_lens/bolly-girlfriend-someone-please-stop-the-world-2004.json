@@ -1,0 +1,116 @@
+{
+  "film": {
+    "id": "109078",
+    "title": "Girlfriend: Someone Please Stop the World",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "JP",
+    "poster_path": "/xaDzm2EMKWn0DtMG7JwIp5WPeRJ.jpg",
+    "overview": "Despite the fact that Kyoko's a girl herself, approaching women on the streets and asking them to pose nude for her proves to be quite a chore. At first she accosts every pretty girl that walks by, until Miho catches her eye. Feeling that she has that certain something special, Kyoko insists that Miho pose for her. Her own life floating rudderless after the separation of her parents, Miho accepts, half entertaining the idea to get back at her father, who has gone on to form a new family and who hasn't been in touch with her in years.  The two girls walk around town, Kyoko snapping pictures and listening to Miho's stories. Gradually the two young women begin to sense a mutual attraction. When the time comes to get down to the nitty gritty of the nude shots, the girls' defences come down along with their clothes."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4251_bolly",
+      "emotion": "shame",
+      "dialogue": "But, he isn't in here. Hey, let me just go and check, okay? Excuse me... - Shame on us. We've the count of spoiling the birthday boy's evening on us. And, that too at a time when we were......suppose to give his birthday treat.",
+      "target_person": "speaker and their group",
+      "target_gender": "unclear",
+      "cause_raw": "ruining someone's birthday",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s4252_bolly",
+      "emotion": "shame",
+      "dialogue": "And, look over there, sir. You're an Indian and she's one as well. But, it seems she left back the baggage of shame......while coming to a foreign land. She might have come to meet someone similar to her. Salutations, Miss.",
+      "target_person": "Indian woman",
+      "target_gender": "female",
+      "cause_raw": "behaving inappropriately in a foreign land",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4253_bolly",
+      "emotion": "shame",
+      "dialogue": "What? Are you making me a fool? Am I a fool? Is she asking or she telling? How shameless! Do you know who I am? I'm sorry. But, I never went to the police station, isn't it? I haven't seen such a shameless thief in my whole life.",
+      "target_person": "thief",
+      "target_gender": "unclear",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s4254_bolly",
+      "emotion": "shame",
+      "dialogue": "How shameless! Do you know who I am? I'm sorry. But, I never went to the police station, isn't it? I haven't seen such a shameless thief in my whole life. You b***h! Excuse me! What did you say?",
+      "target_person": "thief",
+      "target_gender": "unclear",
+      "cause_raw": "theft",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s4255_bolly",
+      "emotion": "shame",
+      "dialogue": "If you have failed in your life, you are the reason for it. You couldn't fight. You are a coward. I am ashamed of calling you a man. Sorry... I was checking if you were right or wrong. Did it hurt?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "failure and cowardice",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p2329_bolly",
+      "emotion": "pride",
+      "dialogue": "You take off my dress, right now! Okay. So, I'm talking to her. Congratulations, Tina. You're the proud owner of this wonderful dress. And, whoever might have given the advance money for this dress......tell that person to come at the shop and take the money back. Collect your advance tomorrow! Bye.",
+      "target_person": "Tina",
+      "target_gender": "female",
+      "cause_raw": "owning a wonderful dress",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2330_bolly",
+      "emotion": "pride",
+      "dialogue": "Anand loses and the character wins. Anand is scared and sits in a corner. And the character stands with pride. And he says...Hey... this is my territory. Dare not enter! Will you give a bit of your talent to Tina too...Or will you keep all your talent to yourself and die? Tina... acting exists in her blood.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "territorial dominance",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

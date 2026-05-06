@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "21984",
+    "title": "Angoor",
+    "year": "1982",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/wijF2sW1MDq9c1u5m9ezealO9KC.jpg",
+    "overview": "Two pairs of identical twins are separated following an unfortunate incident. However, years later, their lives intertwine, leading to confusion and misunderstandings. Based on William Shakespeare's 'A Comedy Of Errors'."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s119_bolly",
+      "emotion": "shame",
+      "dialogue": "- Take dope at home. - Are you in your senses? I think it is you who are stoned. Brother-in-law, you should be ashamed to talk to me in this vein. When did I become your brother-in-law? Since the day you married my sister.",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "drug use",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s120_bolly",
+      "emotion": "shame",
+      "dialogue": "- What is this you are doing? - Don't argue and come home. Leave my hand and stop molesting me. Aren't you ashamed to make a scene? - Better you go home with Tanu. - You too? You somehow found out my name and are now harassing me.",
+      "target_person": "harasser",
+      "target_gender": "male",
+      "cause_raw": "harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s121_bolly",
+      "emotion": "shame",
+      "dialogue": "- Please tell me. - I'd tied the loincloth very tight. - Then take it off. - What are you saying? - Don't be so formal. - Aren't you ashamed to talk thus? Why, don't you come home and change? Besides, I've seen you without clothes.",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "inappropriate conversation",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s122_bolly",
+      "emotion": "shame",
+      "dialogue": "And it is locked. It means the key is still with you. Come on, get in. I'm not ashamed of you. As if I've never seen you without clothes. What? You've seen me naked?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "invasion of privacy",
+      "theme_label": "Invasion of Privacy"
+    }
+  ]
+}

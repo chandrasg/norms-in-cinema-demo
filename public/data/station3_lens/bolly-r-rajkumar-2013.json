@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "240614",
+    "title": "R... Rajkumar",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2wURYkClPhuWaZz936eUEWWVzUM.jpg",
+    "overview": "Rajkumar, an aimless youth, works for a drug baron and is sent to kill a rival dealer. His life is changed forever when he meets Chanda, and has no idea she is the adopted daughter of the man he is supposed to kill."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1520_bolly",
+      "emotion": "shame",
+      "dialogue": "Bad things. Bad things. Why do you...do this? Shame on you. For the sake of love. Since I am...\"Deeply in love...more than Laila herself.\"",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "doing bad things for love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1521_bolly",
+      "emotion": "shame",
+      "dialogue": "Since I am...\"Deeply in love...more than Laila herself.\" Why do you...do this? Shame on you. For the sake of love. Since I am...\"Deeply in love...more than Majnu himself.\"",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1522_bolly",
+      "emotion": "shame",
+      "dialogue": "When one body unites with another. The stitching of honour will be untied. And the envelope of shame will be torn. Whatever gets cut, it'll be divided amongst all.",
+      "target_person": "individuals involved in sexual activity",
+      "target_gender": "unclear",
+      "cause_raw": "premarital/extramarital sex",
+      "theme_label": "Promiscuity"
+    }
+  ]
+}

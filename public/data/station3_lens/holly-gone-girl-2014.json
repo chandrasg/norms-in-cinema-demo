@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "210577",
+    "title": "Gone Girl",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+    "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS452_holly",
+      "emotion": "shame",
+      "dialogue": "I lost the baby.  I couldn't even tell my parents.  I'm so ashamed and I'm so afraid.  Well, he is looking for you.  He showed up on my doorstep three days ago.",
+      "target_person": "Unnamed Female",
+      "target_gender": "female",
+      "cause_raw": "losing a baby",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WS453_holly",
+      "emotion": "shame",
+      "dialogue": "when he was my creative writing teacher at Mill Valley.  Why is she dressed like a babysitter?  I am deeply ashamed...  of having been romantically involved with a married man.  The girl with the giant cum-on-me tits.",
+      "target_person": "Girl with the giant cum-on-me tits",
+      "target_gender": "female",
+      "cause_raw": "inappropriate dressing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS454_holly",
+      "emotion": "shame",
+      "dialogue": "But you were unfaithful.  I was unfaithful.  And I am deeply ashamed.  And, on top of that, you allowed Amy's parents...  her friends, all the people in your hometown...",
+      "target_person": "Unnamed Character",
+      "target_gender": "male",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WP967_holly",
+      "emotion": "pride",
+      "dialogue": "And my lazy, lying, cheating, oblivious husband...  will go to prison for my murder.  Nick Dunne took my pride and my dignity...  and my hope and my money.  He took and took from me until I no longer existed.",
+      "target_person": "Nick Dunne",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP968_holly",
+      "emotion": "pride",
+      "dialogue": "And when this spoiled, rich, entitled little boy couldn't have her...  he took her.  You must be so proud.  It's been four hours.  Nick? Nick? What's next for you and Amy?",
+      "target_person": "Nick",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

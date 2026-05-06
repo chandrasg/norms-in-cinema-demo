@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "328901",
+    "title": "The Benefactor",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/uL0fCJuT0ERaKVM8ftduLlhObaM.jpg",
+    "overview": "A newly married couple are forced to navigate the all-consuming interest of a powerful, mysterious, and possessive philanthropist."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS864_holly",
+      "emotion": "shame",
+      "dialogue": "Just like the good 'ol days... Let us sleep!  Good ol' days. Let us sleep.  And you, a doctor... Shameful, shameful... Jesus Christ, Franny. What are you doing here?  Jesus Christ, Franny. What are you doing here?  You know, this is moving day. Where've ya been?",
+      "target_person": "Franny",
+      "target_gender": "male",
+      "cause_raw": "not being present or helpful on moving day",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1573_holly",
+      "emotion": "pride",
+      "dialogue": "I'm a good woodworker.  Hey, I would like to help.  I would be proud! If I... You know what, um... I can do this.  I can do this.  Yeah, I think I'm gonna tackle this one on my own.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "being a good woodworker",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1574_holly",
+      "emotion": "pride",
+      "dialogue": "No, I'm kidding. This was all a joke, man.  It was a test. Relax, relax.  You passed the test. You did good. I'm proud of you.  You did that? No, no, no, this is good.  You are like Bobby.",
+      "target_person": "Man",
+      "target_gender": "male",
+      "cause_raw": "passing the test",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

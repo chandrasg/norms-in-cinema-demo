@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "106093",
+    "title": "Teesri Aankh",
+    "year": "1982",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/1bvbxTBPU5ClIwXLc1PIwiXkHFG.jpg",
+    "overview": "Childless Malti is married to a honest man, Kailash Nath, who one day brings home a newborn baby boy and asks her to take care of him. Malti names the boy Ashok, and brings him up as her very own. Thereafter she gives birth to two boys, Amar and Anand. When Kailash testifies against dreaded bandit & devil worshiper, Jabbar Singh, he is threatened with death. Jabbar is sentenced to be hanged, but before that could happen he is killed. Jabbar's son, Sheroo, avenges his father's death by killing Kailash. Sheroo is arrested by Kailash's friend, Inspector Om, and sentenced to 20 years. A dying Kailash informs Malti that Ashok is Devki's, his first wife's son, and makes her promise that she wil continue to love Ashok as her own, which she does, and Kailash passes away. When she returns home she finds out that Amar is missing, possibly drowned. She blames this on Ashok and starts hating him. Sheroo escapes from prison, abducts Inspector Om and holds him prisoner, whipping him regularly."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4365_bolly",
+      "emotion": "shame",
+      "dialogue": "Brother, the police are behind me, leave me! - Catch him! By coming to such dirty places you have made us proud! You all should be ashamed of. You should have thought from which family you are. Ashok, doesn't know how to maintain......the reputation of the family, but knows to spoil it.",
+      "target_person": "Ashok",
+      "target_gender": "male",
+      "cause_raw": "visiting disreputable places",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4366_bolly",
+      "emotion": "shame",
+      "dialogue": "You are making the family proud. Day by day, you are taking the advantage of my silence. The news of your fight with the low grade street girls......are being printed in the newspaper. Shame on you! Do you wish that I should keep silent whole life? That I suffocate and die?",
+      "target_person": "character being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "engaging in fights with low-grade street girls",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4367_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you looking at me? Go, go and die. Go and die. Shameless girl. When I stopped first, she wanted to die. Now when I am telling her to die, she is laughing.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "disobedience",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4368_bolly",
+      "emotion": "shame",
+      "dialogue": "Those who should have salute you. Are calling you a goon, hooligan and cheater. Anand, you should be ashamed! Whatever you did till today was hidden from mother. I have taken all the blames on my head.",
+      "target_person": "Anand",
+      "target_gender": "male",
+      "cause_raw": "being called a goon hooligan and cheater",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p2409_bolly",
+      "emotion": "pride",
+      "dialogue": "I am going. - Did you tease any girl? Did you steal? Brother, the police are behind me, leave me! - Catch him! By coming to such dirty places you have made us proud! You all should be ashamed of. You should have thought from which family you are.",
+      "target_person": "family",
+      "target_gender": "male",
+      "cause_raw": "maintaining family reputation",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2410_bolly",
+      "emotion": "pride",
+      "dialogue": "Move, see this, this is called as dance. Start the music. You are making the family proud. Day by day, you are taking the advantage of my silence. The news of your fight with the low grade street girls......are being printed in the newspaper. Shame on you!",
+      "target_person": "family",
+      "target_gender": "unclear",
+      "cause_raw": "dance",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

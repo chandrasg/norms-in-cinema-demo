@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "245690",
+    "title": "Hulchul",
+    "year": "1995",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/4f5DquBzVQ1SYwRSeoGtZAqpMnm.jpg",
+    "overview": "A troubled ACP adopts a young poor child named Deva whose mother and father died. When he grows up, he helps his adopted father as a police officer and ACP to solve various crimes around town to save his job and protect his family. Deva should not only help his father by tracking down a mob or fight gang members, but he has to release his half-brother Karan from police custody after he is framed for murder."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1279_bolly",
+      "emotion": "pride",
+      "dialogue": "why then did you have to work as a cop? I'm not working out of compulsion but for my pleasure. He does it for his pride! He doesn't want to ask you for money. I thought you love me the most.",
+      "target_person": "cop",
+      "target_gender": "male",
+      "cause_raw": "financial independence",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1280_bolly",
+      "emotion": "pride",
+      "dialogue": "Bow your head when you speak to me. You're no more than a fleck of dust off my shoes. Even the dust doesn't care for empty pride. Kick a t dust, and it'll rise to fall on your own head. It isn't good for you to be so warm-blooded.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1281_bolly",
+      "emotion": "pride",
+      "dialogue": "After he confesses before the court, your brother is free. Take him away. I'm very proud of you, Deva ! No! No! we can't allow tha t to happen.",
+      "target_person": "Deva",
+      "target_gender": "male",
+      "cause_raw": "confessing before the court",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

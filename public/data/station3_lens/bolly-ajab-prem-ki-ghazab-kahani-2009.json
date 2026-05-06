@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "24827",
+    "title": "Ajab Prem Ki Ghazab Kahani",
+    "year": "2009",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6IC8PQZAynsUAh0MDvopR3zDTRk.jpg",
+    "overview": "When his love interest doesn't show up for a meeting, a man and his friends go to Goa in order to find her, where they discover she loves someone else."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4097_bolly",
+      "emotion": "shame",
+      "dialogue": "We're father and son at home, not here. Ok, Shiv Shankar. Shameless, you take my father's name. I can't call you papa or take your name. What should I say? Don't say anything. Pay the money.",
+      "target_person": "Shiv Shankar",
+      "target_gender": "male",
+      "cause_raw": "Disrespecting father",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4098_bolly",
+      "emotion": "shame",
+      "dialogue": "Shut up! I'm talking about you, not me. It's more shameful for you. What will people say? -What? That a young boy is enjoying outside....leaving old parents alone at home.",
+      "target_person": "young boy",
+      "target_gender": "male",
+      "cause_raw": "neglecting old parents",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4099_bolly",
+      "emotion": "shame",
+      "dialogue": "No, dad. Are you crazy? Will I take flowers for her? I went with flowers for her daughter Jenny. Shameless! You climb pipes to woo girls with flowers. No, dad. I took flowers for Jenny to thanks her. You got flowers!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards girls",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4100_bolly",
+      "emotion": "shame",
+      "dialogue": "You got flowers! Why do you thank in a way that people come to abuse me? I'm ashamed even to walk with you. Give it to me. I feel like slapping you. Then slap me. Where are you going?",
+      "target_person": "receiver of flowers",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior in public",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4101_bolly",
+      "emotion": "shame",
+      "dialogue": "If you'd waited 2 years more, even....your kids would've heard it. Garland her. What are you doing, shameless? Dad, don't give me the look. It's allowed in Christians. Right? -Yes.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "premarital sex",
+      "theme_label": "Promiscuity"
+    }
+  ]
+}

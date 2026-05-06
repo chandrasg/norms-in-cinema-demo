@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "135469",
+    "title": "Shirin Farhad Ki Toh Nikal Padi",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lABo7DIWzX2tOKI6A9pcayCLw8j.jpg",
+    "overview": "Shirin Farhad Ki Toh Nikal Padi is a 2012 Bollywood romantic comedy film directed by Bela Bhansali Sehgal, starring Farah Khan, Boman Irani, Kavin Dave, Shammi, Kurush Deboo and Daisy Irani."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4155_bolly",
+      "emotion": "shame",
+      "dialogue": ". from his own balcony And the second crime . . to even speak of it, I am ashamed. But someone was watching Temina undress through her bedroom window. Tennina, it's a scandarl!",
+      "target_person": "Temina",
+      "target_gender": "female",
+      "cause_raw": "Invasion of privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "p2246_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm very sorry - No, Farhad. I am not sad. I'm so proud of you my son You've become so honest. I would let go of a thousand Freny's for you to stay this way",
+      "target_person": "Farhad's parent",
+      "target_gender": "male",
+      "cause_raw": "honesty of son",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2247_bolly",
+      "emotion": "pride",
+      "dialogue": "Hello. Now you tell me, is there anything wrong in being a lingerie salesman? You should be proud that you spoke the truth. I know better than anyone else that the room's filled with....only pretentious liars. Did you see how they were laughing?",
+      "target_person": "lingerie salesman",
+      "target_gender": "male",
+      "cause_raw": "speaking the truth",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2248_bolly",
+      "emotion": "pride",
+      "dialogue": "And you know what? I feel so good, you've no idea. Farhad. I'm so proud of you Today, you 'blew everyone to bits'. Happy new year Shirin. Shirin",
+      "target_person": "Farhad",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "26391",
+    "title": "Cabin Boy",
+    "year": "1994",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/xy2BzE3siqU67VQCQ2k4xideNNM.jpg",
+    "overview": "A foul-mouthed finishing school graduate mistakenly winds up on an ill-fated fishing boat, and faces the wrath of a crew that considers him bad luck."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP707_holly",
+      "emotion": "pride",
+      "dialogue": "She's a dietitian. Hey.  - Would you like to buy a monkey? - I don't wanna buy a monkey.  - Are you sure? - No, I'm on my way. Your family must be very, proud of you.  We'll see ya, honey. Hey, wait a minute. Jennifer, come here.  What?",
+      "target_person": "Jennifer",
+      "target_gender": "female",
+      "cause_raw": "being a dietitian",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP708_holly",
+      "emotion": "pride",
+      "dialogue": "equals one complete gentleman.  - Here you go. Help him up here. Come on. - Atta boy.  I'm so proud of you, Nathanial.  That was the most courageous and bizarre thing I've ever seen.  You saved our lives, kid. I knew ya had it in ya.",
+      "target_person": "Nathanial",
+      "target_gender": "male",
+      "cause_raw": "for his courageous and bizarre act that saved lives",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "WP709_holly",
+      "emotion": "pride",
+      "dialogue": "It courses through my veins and through my organs and through my bladder.  Now, don't be silly, champ. Your place is here with your papa. You know that.  You're a fancy lad and you ought to be proud of it.  My big Teddy. Thanks.  Yeah, see ya, kid. Go get yourself a couple of high-priced Hawaiian w****s for me, huh?",
+      "target_person": "papa",
+      "target_gender": "male",
+      "cause_raw": "being a fancy lad",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

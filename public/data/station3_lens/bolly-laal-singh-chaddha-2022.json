@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "601635",
+    "title": "Laal Singh Chaddha",
+    "year": "2022",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/g5rNmcznZX0UPm8CGjfk7kHcAbq.jpg",
+    "overview": "Events in India's history — from the Emergency and the famous Cricket World Cup win to the Punjab riots ,  unfold from the perspective of an innocent Sikh man Laal Singh Chaddha, a person with a low IQ but high optimism. Laal is able to achieve everything under the sun but his childhood love continues to elude him."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Heroic Bravery",
+      "count": 2
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1714_bolly",
+      "emotion": "pride",
+      "dialogue": "And my great-great-grandpa… didn't return from World War I. All three of them were called Laal. Mom was very proud of all three of them. So, she named me Laal too. Looking handsome, Laal!",
+      "target_person": "mom",
+      "target_gender": "female",
+      "cause_raw": "family's bravery and legacy",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p1715_bolly",
+      "emotion": "pride",
+      "dialogue": "Until then, be the assistant coach of our running team. Yes, sir. Well done, my boy. The nation is proud of you. Thank you, sir. In broad daylight, midst of raining bullets,",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "bravery/courage",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p1716_bolly",
+      "emotion": "pride",
+      "dialogue": "Naik Laal Singh Chaddha. That's my son. Your grandpa would've been very proud today. What do you plan to do now, Laal? I'll go to Aunt Manjeet's house from here.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "son's achievement",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

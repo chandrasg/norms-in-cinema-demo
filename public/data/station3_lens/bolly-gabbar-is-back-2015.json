@@ -1,0 +1,120 @@
+{
+  "film": {
+    "id": "337876",
+    "title": "Gabbar Is Back",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/dhIVF43jCqVzxuo11hYcHQxjzS6.jpg",
+    "overview": "A vigilante network taking out corrupt officials draws the notice of the authorities."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5305_bolly",
+      "emotion": "shame",
+      "dialogue": "My husband's death did.....what he couldn't do when he was alive. You are doctors. It's your duty to serve people, not con them. Shame on you all. I am sorry. I just hate sorry's. Shut it down! - Shut down Patil Hospital!",
+      "target_person": "doctors",
+      "target_gender": "unclear",
+      "cause_raw": "negligence and malpractice",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s5306_bolly",
+      "emotion": "shame",
+      "dialogue": "I've heard a lot about you. I hope you won't disappoint me. I'm going to forsake all shame. And make you my queen. Tonight we're going to have some fun, baby..under the dim light.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "objectification and sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s5307_bolly",
+      "emotion": "shame",
+      "dialogue": "What could be the reason behind Digvijay Patil's kidnapping? You can clearly see here.....how the entire police force is trying hard.....to catch Digvijay Patil. Shame on us. He kidnapped right before our eyes. Sawant. - Sir.",
+      "target_person": "police force",
+      "target_gender": "unclear",
+      "cause_raw": "failure to prevent a kidnapping",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p2983_bolly",
+      "emotion": "pride",
+      "dialogue": "Gabbar. Gabbar. Gabbar. He'll be proud of you. Gabbar. Gabbar. Gabbar.",
+      "target_person": "Gabbar",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2984_bolly",
+      "emotion": "pride",
+      "dialogue": "Wife of late Balram Nagpal. Rs. 4,60,475 which I spent, cash! Breaking your pride is much more fun.....than breaking bones. Better pay up quietly--...otherwise I'll get this place sealed up. Sir, this is a cheque for 500 million.....and the rest of the cash.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2985_bolly",
+      "emotion": "pride",
+      "dialogue": "You've kidnapped a Police officer. After I kill you.....your entire department will be purified. It's a proud moment for you. And for me, this is enough. Who are you?",
+      "target_person": "kidnapper",
+      "target_gender": "male",
+      "cause_raw": "purifying the police department",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2986_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes. Student power. I am proud of student power. You know, not every student becomes a government officer. But every government officer is a student.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "student power",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p2987_bolly",
+      "emotion": "pride",
+      "dialogue": "If you really want to do something.....then light a fire in your heart. Gabbar will be happy. He'll be proud of you. Do you know why I killed those people? Why I killed those corrupt people?",
+      "target_person": "Gabbar",
+      "target_gender": "male",
+      "cause_raw": "killing corrupt people",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "film": {
+    "id": "11807",
+    "title": "Jab We Met",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/iqiH6vnoEgjAypKsuIScN7JlE2j.jpg",
+    "overview": "A depressed wealthy businessman and a spunky carefree young woman embark on an unexpected journey that changes their lives."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2663_bolly",
+      "emotion": "shame",
+      "dialogue": "Did I tell you to get down from the train? Can't you mind your own business? Oh! So It's my mistake! Shameless! I was helping you! You should be thanking me! And instead you are showing me attitude!",
+      "target_person": "helper",
+      "target_gender": "unclear",
+      "cause_raw": "intervening in someone else's business",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s2664_bolly",
+      "emotion": "shame",
+      "dialogue": "Thief! Hey! - Move! Nab that thief! Shameless! Throw away your uniform! Ma'am! Hey! - Hurry up! Yes! Come on! Come on! Come on!",
+      "target_person": "thief",
+      "target_gender": "unclear",
+      "cause_raw": "theft",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s2665_bolly",
+      "emotion": "shame",
+      "dialogue": "As it is we have less money! We will take the room on a per hour basis! Geet! You are not understanding what he is..Be practical! Why do you feel ashamed? We need it just for a few hours! We will take the room on per hour basis!",
+      "target_person": "Geet",
+      "target_gender": "female",
+      "cause_raw": "Not understanding practicality",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2666_bolly",
+      "emotion": "shame",
+      "dialogue": "If somebody's mother can be so cheap....if she can do such a derogatory deed then..Mr. Kashyap! You shouldn't talk so disrespectfully about her Why? That woman destroyed my entire family Because of her I will feel ashamed....in front of everybody all my life! So why shouldn't I talk disrespectfully? Because she was in love! - Love? Are you serious!",
+      "target_person": "Mr. Kashyap",
+      "target_gender": "male",
+      "cause_raw": "mother's actions",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2667_bolly",
+      "emotion": "shame",
+      "dialogue": "Grandpa, please. You are embarrassing me. Embarrassing you? If you had any shame..Then would you have come home wearing such clothes? If you can come home wearing such clothes..then in Mumbai you must be roaming around naked. What's his name?",
+      "target_person": "Granddaughter",
+      "target_gender": "female",
+      "cause_raw": "inappropriate dressing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p1385_bolly",
+      "emotion": "pride",
+      "dialogue": "I know all of you loved dad a lot. He is somewhere, watching us. So let us show him that no need to be too proud. This company can perform without you. And can perform better than your expectations.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "company's performance",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

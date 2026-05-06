@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "342474",
+    "title": "Jenny's Wedding",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/lAMXZ8BVCCfyfhCSsvQRLG6cwxK.jpg",
+    "overview": "Jenny Farrell is getting married. But how will her straight-laced family react when they find out that the woman they thought was their daughter’s roommate is actually her fiancée? As the old-fashioned Farrells attempt to come to terms with the prospect of a surprise daughter-in-law, they face a difficult choice: either adapt with the times or risk being left behind."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS179_holly",
+      "emotion": "shame",
+      "dialogue": "You're not carsick, you're just afraid to go in there.  So what if I am?  So you won't be able to do this if you're going in ashamed of who you are.  I'm not, I'm not ashamed of who I am.  You always say that, but I'm still kind of confused",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "fear and self-doubt",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS180_holly",
+      "emotion": "shame",
+      "dialogue": "So what if I am?  So you won't be able to do this if you're going in ashamed of who you are.  I'm not, I'm not ashamed of who I am.  You always say that, but I'm still kind of confused  as to why you've told everybody except your family.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "hiding personal identity",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP318_holly",
+      "emotion": "pride",
+      "dialogue": "I'll ruin what's good in me.  You... you raised me to... to do the right thing.  And be proud of myself.  Don't you want me to be that person anymore?  The lying is over. You and Dad are gonna have to make up your mind about me",
+      "target_person": "parent",
+      "target_gender": "male",
+      "cause_raw": "child's honesty and integrity",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

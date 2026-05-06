@@ -1,0 +1,119 @@
+{
+  "film": {
+    "id": "251131",
+    "title": "Betaab",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5JTJG3b2I6EZYhov18KE0Flknom.jpg",
+    "overview": "Sunny owns a small livestock farm and lives a poor but happy life style with his mother, Sumitra. They wanted the farm to become up to date, so Sumitra decides to make a move abroad in order to bring new equipments for the farm, leaving Sunny in the care of the farm. One day while distributing eggs and chickens, Sunny reaches up with Roma Singh and both can get into the pettiest quarrels and they soon begins to fight and Sunny offers Roma to rebuild his farm house as a part of her punishment. Both soon realize that they are childhood lovers and attempts to rebuild that love once again, both are successful in doing so and plans to get married but there love is opposed by Roma's dad, the wealthy and famous businessman, Sardar Dinesh Singh Girji, who will do anything in his power to prevent Roma and Sunny from meeting leave alone marriage."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4,
+      "male": 1
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s504_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh my god. - Hey, what happened? We have walked just two miles. Look at that! Shame on you. You are afraid of just eighteen miles? Girls have reached Mount Everest.",
+      "target_person": "person being addressed",
+      "target_gender": "female",
+      "cause_raw": "lack of physical endurance",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s505_bolly",
+      "emotion": "shame",
+      "dialogue": "I can still walk. When did I say that you couldn't? But if you don't sit in the car, these...girls will have to get down out of shame. And it is possible that one of them loses her life. And if such a thing happens that...poor girl's blood will be on your neck.",
+      "target_person": "girls",
+      "target_gender": "female",
+      "cause_raw": "not adhering to modesty norms",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s506_bolly",
+      "emotion": "shame",
+      "dialogue": "You won't see it ever again, mother. There is nothing to be sorrowful about. If she is ashamed about breaking her promise....if she isn't proud of her word....which apocalypse has come? I will think that a whiff of breeze came and went. I will think that I never met a girl named Dingy.",
+      "target_person": "Dingy",
+      "target_gender": "female",
+      "cause_raw": "breaking her promise",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s507_bolly",
+      "emotion": "shame",
+      "dialogue": "But I know that neither you nor her can live without each other. Which girl are you talking about? That shameless, disloyal.. - She isn't disloyal. Don't call her disloyal. Mother, what is the matter, mother?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being disloyal",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s508_bolly",
+      "emotion": "shame",
+      "dialogue": "Buzo, what happened to you? Don't trouble..you will not listen like this. Now sit here, until I return..\"don't you get ashamed, today is my wedding....and he is barking at me. What are you thinking, mother? In our times, even for child's marriage....there would be lots of fun....is this a marriage.",
+      "target_person": "Buzo",
+      "target_gender": "male",
+      "cause_raw": "Misbehaving at a wedding",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p225_bolly",
+      "emotion": "pride",
+      "dialogue": "Walk!' 'Walk!' 'Walk' You girls who are moving towards the destination of success. How much ever the world prides in you, that is less. With your courage and strength..you have proved that today's woman....doesn't need any support. She stands on her feet. And now, she has even started to walk.",
+      "target_person": "world",
+      "target_gender": "female",
+      "cause_raw": "women's empowerment and independence",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p226_bolly",
+      "emotion": "pride",
+      "dialogue": "You won't see it ever again, mother. There is nothing to be sorrowful about. If she is ashamed about breaking her promise....if she isn't proud of her word....which apocalypse has come? I will think that a whiff of breeze came and went. I will think that I never met a girl named Dingy.",
+      "target_person": "Dingy",
+      "target_gender": "female",
+      "cause_raw": "keeping her word",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

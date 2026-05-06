@@ -1,0 +1,97 @@
+{
+  "film": {
+    "id": "20622",
+    "title": "Padosan",
+    "year": "1968",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/b3saYvaYdzuXCEfIfNJiKaO58qO.jpg",
+    "overview": "A simple man from a village falls in love with his new neighbor. He enlists the help of his musical-theater friends to woo the lovely girl-next-door away from her music teacher."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1265_bolly",
+      "emotion": "shame",
+      "dialogue": "oh, my god, a mermaid! oh! you'd cast this line to catch a mermaid, had you? I came to catch some fish. - he looks like a shameless guy. shameless? me? you're the shameless ones. I'm fully dressed.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1266_bolly",
+      "emotion": "shame",
+      "dialogue": "oh! you'd cast this line to catch a mermaid, had you? I came to catch some fish. - he looks like a shameless guy. shameless? me? you're the shameless ones. I'm fully dressed. but you're practically naked in the water.",
+      "target_person": "characters in the water",
+      "target_gender": "unclear",
+      "cause_raw": "indecent exposure",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1267_bolly",
+      "emotion": "shame",
+      "dialogue": "I came to catch some fish. - he looks like a shameless guy. shameless? me? you're the shameless ones. I'm fully dressed. but you're practically naked in the water. girls, I think he's destined to die in the water.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate comments and behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1268_bolly",
+      "emotion": "shame",
+      "dialogue": "bindu, here I am. what can I do for you? Do tell me. shame on you. go drown yourself. Do you see this, Guru? Look up. why are you so low today?",
+      "target_person": "Guru",
+      "target_gender": "male",
+      "cause_raw": "being emotionally low",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1269_bolly",
+      "emotion": "shame",
+      "dialogue": "Do you see this, Guru? Look up. why are you so low today? you allowed a girl to slap you. aren't you ashamed? you may as well wear a dress and sit at home. you've demeaned the panchratna theatre company.",
+      "target_person": "Guru",
+      "target_gender": "male",
+      "cause_raw": "Being slapped by a girl",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p666_bolly",
+      "emotion": "pride",
+      "dialogue": "don't you dare. don't think I'm a coward. I can hold a girl's hand. I'm 26 years old, you know. you sure are proud of it. why not? look what's written here. it says - up to the age of 25 a man should be a bachelor.",
+      "target_person": "speaker 2",
+      "target_gender": "male",
+      "cause_raw": "speaker 1's age and bachelor status",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

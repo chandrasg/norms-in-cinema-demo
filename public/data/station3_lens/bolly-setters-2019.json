@@ -1,0 +1,51 @@
+{
+  "film": {
+    "id": "599796",
+    "title": "Setters",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/GtvvTDi3KCGf30k4LLzWZLn5J7.jpg",
+    "overview": "A thriller set in Benares, Jaipur, Mumbai and Delhi, Setters is about a racket profiteering from academic scams. The film follows a cat-and-mouse game between two good friends: one a cop, and the other a \"setter\" who arranges brilliant students in place of weak students to appear in examinations."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "s1951_bolly",
+      "emotion": "shame",
+      "dialogue": "When my automaton goes into action I'm raising the temperature And I will never be ashamed to write the truth. The damage it does is irreparable I poke my tip in the ink",
+      "target_person": "writer",
+      "target_gender": "unclear",
+      "cause_raw": "writing the truth",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1952_bolly",
+      "emotion": "shame",
+      "dialogue": "When my automaton goes into action I'm raising the temperature I will not be ashamed to write the truth The damage it does is irreparable I poke my tip in the ink",
+      "target_person": "writer",
+      "target_gender": "unclear",
+      "cause_raw": "writing the truth",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "p1023_bolly",
+      "emotion": "pride",
+      "dialogue": "Take the number 103 out Take the number 103 out . Let's  get started Be sure to mark the correct numbers",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

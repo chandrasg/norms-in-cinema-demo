@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "18900",
+    "title": "In Cold Blood",
+    "year": "1967",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/sPEvsif5Y70mfVvtU39iOyrVJdF.jpg",
+    "overview": "After a botched robbery results in the brutal murder of a rural family, two drifters elude police, in the end coming to terms with their own mortality and the repercussions of their vile atrocity."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1161_holly",
+      "emotion": "shame",
+      "dialogue": "I mean, the upper torso is so large compared to the legs.  I'm terribly sorry.  He's not ashamed of them scars.  They gave him the Bronze Star in Korea.  Luke, have you ever been to Eden Roc? In Miami Beach.",
+      "target_person": "Luke",
+      "target_gender": "male",
+      "cause_raw": "physical appearance disproportionate body)",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1162_holly",
+      "emotion": "shame",
+      "dialogue": "\"to carry the sentence into execution.\"  Where's Smith?  \"Yea, let none that wait for thee be ashamed.  \"Let them be ashamed which transgress without cause.  \"Show me thy ways, O Lord, teach me thy paths.",
+      "target_person": "Smith",
+      "target_gender": "male",
+      "cause_raw": "transgressing without cause",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WS1163_holly",
+      "emotion": "shame",
+      "dialogue": "Where's Smith?  \"Yea, let none that wait for thee be ashamed.  \"Let them be ashamed which transgress without cause.  \"Show me thy ways, O Lord, teach me thy paths.  \"Lead me in thy truth, and teach me, for thou art the God\"",
+      "target_person": "Smith",
+      "target_gender": "unclear",
+      "cause_raw": "transgressing without cause",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WS1164_holly",
+      "emotion": "shame",
+      "dialogue": "When you hit the end of the rope your muscles lose control.  I'm afraid I'll mess myself.  It's nothing to be ashamed of. They all do it.  For God's sake, man!  \"This is to command you, the warden of the Kansas State Penitentiary,",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "fear of losing control of bodily functions",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "442247",
+    "title": "Running Shaadi",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vrhQohfS9qm2OYxbFlpXGPwM9C7.jpg",
+    "overview": "Two friends, Ram Bharose and tech genius Cyberjeet, create a website that helps lovers to elope. The site is an instant hit; young couples line up for the opportunity to escape strict families and run away with the ones they love."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1712_bolly",
+      "emotion": "shame",
+      "dialogue": "I've got a mannerless Romeo. Now I am in trouble. Everything he says is meaningless...\"...but makes such tall claims.\" No shame at all...\"...he...\"Everything he says is meaningless...\"\"...but makes such tall claims.\" No shame at all...\"...he...\"Keeps ogling at <i>me...</i> in front of my parents.\" Pours his heart out on me...in the name of love.",
+      "target_person": "Romeo",
+      "target_gender": "male",
+      "cause_raw": "Disrespectful and inappropriate behavior",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1713_bolly",
+      "emotion": "shame",
+      "dialogue": "Everything he says is meaningless...\"...but makes such tall claims.\" No shame at all...\"...he...\"Everything he says is meaningless...\"\"...but makes such tall claims.\" No shame at all...\"...he...\"Keeps ogling at <i>me...</i> in front of my parents.\" Pours his heart out on me...in the name of love. He looks naive...but he's actually the devil inside.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior and advances",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p903_bolly",
+      "emotion": "pride",
+      "dialogue": "And anyway...it's only for a couple of months. Sinha and Family will finally accept Amit Kumar. Just like Milky-Shonku case. - wow, Little...proud of you. What a plan. Here...have a groundnut.",
+      "target_person": "Little",
+      "target_gender": "male",
+      "cause_raw": "making a plan",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

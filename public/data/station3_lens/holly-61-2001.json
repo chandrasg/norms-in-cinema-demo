@@ -1,0 +1,100 @@
+{
+  "film": {
+    "id": "20536",
+    "title": "61*",
+    "year": "2001",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/hAbxkPCC8pWYZy4kcftS3H3oku7.jpg",
+    "overview": "In 1961, Roger Maris and Mickey Mantle played for the New York Yankees. One, Mantle, was universally loved, while the other, Maris, was universally hated. Both men started off with a bang, and both were nearing Babe Ruth's 60 home run record. Which man would reach it?"
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1084_holly",
+      "emotion": "pride",
+      "dialogue": "She will present the award for last year's Most Valuable Player.  Mrs. Claire Ruth.  On behalf of The Babe, I'm very proud to present this award... ...to another Yankee, right fielder Roger Maris.  ...to another Yankee, right fielder Roger Maris.  The Babe would've been very proud of you.",
+      "target_person": "Mrs. Claire Ruth",
+      "target_gender": "female",
+      "cause_raw": "presenting an award on behalf of The Babe",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1085_holly",
+      "emotion": "pride",
+      "dialogue": "On behalf of The Babe, I'm very proud to present this award... ...to another Yankee, right fielder Roger Maris.  ...to another Yankee, right fielder Roger Maris.  The Babe would've been very proud of you.  Have a wonderful season.  Bottom of the sixth now.",
+      "target_person": "The Babe",
+      "target_gender": "male",
+      "cause_raw": "presenting an award to Roger Maris",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1086_holly",
+      "emotion": "pride",
+      "dialogue": "When Mickey first came up, he's 18. Everybody's saying he's the next DiMaggio.  - He was gonna be better than DiMaggio. - Joe D. Didn't like that too much.  Nobody's got more pride than that guy.  Wasn't friendly to begin with, wouldn't say a word to Mick.  Not one word that whole year. That wasn't right.",
+      "target_person": "Joe D",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1087_holly",
+      "emotion": "pride",
+      "dialogue": "Well, Phil, without Mantle batting behind him... ...I wonder if they'll pitch around Maris.  ...I wonder if they'll pitch around Maris.  Nobody wants to give up the big home run... ...but I believe it's pride and they'll pitch to him.  ...but I believe it's pride and they'll pitch to him.  - I certainly hope so. - Well, you know... ...I wouldn't, but that's me.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1088_holly",
+      "emotion": "pride",
+      "dialogue": "...I wonder if they'll pitch around Maris.  Nobody wants to give up the big home run... ...but I believe it's pride and they'll pitch to him.  ...but I believe it's pride and they'll pitch to him.  - I certainly hope so. - Well, you know... ...I wouldn't, but that's me.  ...I wouldn't, but that's me.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1089_holly",
+      "emotion": "pride",
+      "dialogue": "That's what I thought.  Hey, Rog.  We just wanna say we're proud to be your teammates.  Way to go, nine.  - All right. - That's it, Roger.",
+      "target_person": "teammates",
+      "target_gender": "unclear",
+      "cause_raw": "being a good teammate",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP1090_holly",
+      "emotion": "pride",
+      "dialogue": "And I touched it.  I touched it with my heart.  Now I can honestly say that my bat will lie next to his and I'm damn proud of it.  The separate single-season home run records remained until 1991... ...when Fay Vincent, the commissioner of baseball... ...ordered that there be only one record.  ...ordered that there be only one record.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "touching a record in baseball",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

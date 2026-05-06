@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "18658",
+    "title": "Clean Slate",
+    "year": "1994",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/kAYsvQvBVshLHGTIDGHcj9jTJq0.jpg",
+    "overview": "Pogue is a private eye with a problem: every morning when he wakes up, he has total amnesia, waking up with a 'blank slate'. Since he is in the middle of a hot investigation and has a developing romance, this is less than convenient."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS323_holly",
+      "emotion": "shame",
+      "dialogue": "You're losing it! Why are you making this up?  I saw 'em, I tell you, in the mirror.  - Shame! - What's going on?  This is the last time I try to comfort somebody.  I just told her to lay her head on my shoulder.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "making up stories/lying",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS324_holly",
+      "emotion": "shame",
+      "dialogue": "Shut up!  - Worst for you, 'cause I saw them. - So?  I'm ashamed. I'm going home.  - Are you leaving? - After what happened... She loses her husband, gets insulted... It's natural she's upset.  It's natural she's upset.",
+      "target_person": "She",
+      "target_gender": "female",
+      "cause_raw": "being insulted and losing her husband",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WS325_holly",
+      "emotion": "shame",
+      "dialogue": "It's a dirty job, Rose!  And you might very well say I deserve all the dirty pleasure I get out of it.  Aren't you ashamed of speaking like this?  That's yet another aspect of my business, enjoying other people's misery.  You've gone completely insane!",
+      "target_person": "Rose",
+      "target_gender": "female",
+      "cause_raw": "deriving pleasure from others' misery",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "181462",
+    "title": "Akaash Vani",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/p6Bi6Xm3VhfkHkdyRqRRX76H2Jj.jpg",
+    "overview": "Akaash and Vani leaving their house to go to college. Vani catches her train on the other hand Akaash travels by a truck as he misses his train. As they reach their the next day Vaani says \"I love you\" to Akaash. He replies to this in a filmy way and both of them become friends. Akaash and Vani fall in love with each other and continue a 4 year relationship."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4111_bolly",
+      "emotion": "shame",
+      "dialogue": "I am.. I am.. Yes, I am in love with you. In love with you. In love with you. I've forfeited my friendship with shame. The whole class is envious of us. I've forfeited my friendship with shame.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4112_bolly",
+      "emotion": "shame",
+      "dialogue": "I've forfeited my friendship with shame. The whole class is envious of us. I've forfeited my friendship with shame. The whole class is envious of us. I've written your name even on the walls.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p2216_bolly",
+      "emotion": "pride",
+      "dialogue": "But my dear, we have always thought in your best interest. And even now we are doing the same. - Lie, Absolute lie. You are not saying this in my best interest....but to protect your pride in the society. I am not saying that parents should have no right....in choosing partner for their children..But if children are unhappy, shouldn't parents own up to the responsibility? Today, I just want to ask this one thing to you..That why when a daughter tells her father.....that the partner they have chosen for her is not right.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "challenging societal norms",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p2217_bolly",
+      "emotion": "pride",
+      "dialogue": "Papa, why are you quiet? In your respect, I am not saying anything. But my own wife, who is my pride....is tarnishing my pride in front of everyone. Which pride are you talking about? The one that you rape every night.. or the one that you can't even protect",
+      "target_person": "Papa",
+      "target_gender": "male",
+      "cause_raw": "wife's behavior",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2218_bolly",
+      "emotion": "pride",
+      "dialogue": "In your respect, I am not saying anything. But my own wife, who is my pride....is tarnishing my pride in front of everyone. Which pride are you talking about? The one that you rape every night.. or the one that you can't even protect if someone tries to molest during the day.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "wife",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

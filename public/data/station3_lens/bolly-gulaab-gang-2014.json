@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "254420",
+    "title": "Gulaab Gang",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/iGfRhEbULFryeMdUFuRq8zApsr9.jpg",
+    "overview": "A fearless woman fights social injustice; creating a sanctuary for abused women and battling a crooked politician."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2246_bolly",
+      "emotion": "shame",
+      "dialogue": "Sighing! Sighing! Whose king and what rule! What rules are these? Politicians have no shame. We must do our own. The volcano simmers from within. Some day the lava will erupt....with all the embers lying in.",
+      "target_person": "Politicians",
+      "target_gender": "unclear",
+      "cause_raw": "corruption and lack of integrity",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2247_bolly",
+      "emotion": "shame",
+      "dialogue": "What happened to you? I don't know about the pain......but he can't hear the sound of wedding bell. As for the rest... I'm ashamed to say. You tell them. Son! Mr. Sharma.",
+      "target_person": "Mr. Sharma",
+      "target_gender": "male",
+      "cause_raw": "Impotence or inability to marry",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1158_bolly",
+      "emotion": "pride",
+      "dialogue": "Sumitra Bagrecha, daughter of Harkishan Chauhan......on charges of planning and......committing murder, for planting illegal weapons......for entrapment......smuggling illegal arms and influencing local election......she has been convicted. For which she's convicted to a lifetime of imprisonment...\"Your hand should hold destiny.\" Your heartbeat should hold pride. Your breath should have the audacity. To reach out and make the world yours.",
+      "target_person": "Sumitra Bagrecha",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

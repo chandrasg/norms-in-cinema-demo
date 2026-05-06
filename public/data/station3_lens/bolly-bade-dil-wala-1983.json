@@ -1,0 +1,106 @@
+{
+  "film": {
+    "id": "104065",
+    "title": "Bade Dil Wala",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xcg67lGMX9uBWN3cVEeRzIyZF0v.jpg",
+    "overview": "Amrit's generosity and kindness initially lands him in the bad books of a dancer; then in prison; and then as false son-in-law of a very wealthy man."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s338_bolly",
+      "emotion": "shame",
+      "dialogue": "Dog! Ingrate! I have lost face in front of Mr Sinha! You have brought shame on me! I'll kill you! - Hold it. I won't reveal this to daddy. But, warn him not to do this again.",
+      "target_person": "Mr. Sinha's son",
+      "target_gender": "male",
+      "cause_raw": "Disrespectful behavior",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s339_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll kill you! - Hold it. I won't reveal this to daddy. But, warn him not to do this again. I am ashamed of myself! Don't tell Mr Sinha. Please! - Take the truck back. I'll come by car.",
+      "target_person": "Mr Sinha",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s340_bolly",
+      "emotion": "shame",
+      "dialogue": "Tara? At daytime? (Tara = Star) Oh god! She was right there in the water with you. Shame on you! You ask a young man...where your young and unmarried daughter is? Which is why I tell you not to booze. No time is lost yet. Improve! Go home.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "drinking and irresponsible behavior",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s341_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't be foolish. I considered it. Then it struck me that it would bring you shame. Till now, to the world, you have presented Amrit as Vijay...Juhi's husband. I care for Juhi, she is my patient. When I found out the truth, I caught hold of him.",
+      "target_person": "Amrit",
+      "target_gender": "male",
+      "cause_raw": "Deception",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s342_bolly",
+      "emotion": "shame",
+      "dialogue": "I played a mother to you... to sing lullabies for you! I played with you... to substitute for a brother! Today, I feel ashamed to look at you. Don't call me daddy. I don't want to be a father...whose daughter pulls wool over his eyes in the name of her husband. I have a right to say too.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "deceiving her father",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "p147_bolly",
+      "emotion": "pride",
+      "dialogue": "For the sake of my sister's love. I had no selfish motives, daddy! No proud father can tolerate his daughter...pretending to be a wife of a fraud and a killer! He is not a fraud. Nor a killer! Oh! So, he isn't a fraud anymore?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "daughter's choice of partner",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

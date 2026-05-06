@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "335795",
+    "title": "Monster High: The Movie",
+    "year": "2022",
+    "industry": "holly",
+    "country": "CA|US",
+    "poster_path": "/768OBP28OA4mjavOUAIRlVo14Xu.jpg",
+    "overview": "Clawdeen Wolf, half human and half werewolf, has recently started attending Monster High, a school for monsters in all forms. After quickly befriending her classmates Frankie Stein and Draculaura, Clawdeen feels like she has finally found a place where she can truly be herself, or so she thinks. Soon, a devious plan to destroy Monster High threatens to reveal her real identity and Clawdeen must learn to embrace her true monster heart before it's too late."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1592_holly",
+      "emotion": "shame",
+      "dialogue": "- What will your father think? - Please, you can't tell him.  - You've left me no choice. And you two, encouraging her.  You should be ashamed  for not living up to the standards expected of you.  - What is that?",
+      "target_person": "Unnamed characters",
+      "target_gender": "unclear",
+      "cause_raw": "not living up to expected standards",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP2795_holly",
+      "emotion": "pride",
+      "dialogue": "You've demonstrated as much true monster heart  as any student I've ever known.  Your mother would be proud.  - She would be so proud.  - Today we are rewriting the school charter.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "demonstrating true monster heart and rewriting the school charter",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2796_holly",
+      "emotion": "pride",
+      "dialogue": "as any student I've ever known.  Your mother would be proud.  - She would be so proud.  - Today we are rewriting the school charter.  We no longer revile humans,",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "rewriting the school charter",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2797_holly",
+      "emotion": "pride",
+      "dialogue": "Does nobody paint anymore?  - Hello, Monster High.  I am proud to announce  that a new moon has risen over these hallowed halls.  From now on, true monster heart will mean exactly that,",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "announcement of a new moon",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "11635",
+    "title": "Old School",
+    "year": "2003",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/nYtuwNHpEoIbTgS3aFPSEwZNN6l.jpg",
+    "overview": "Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2096_holly",
+      "emotion": "pride",
+      "dialogue": "You look a little pale, Mitch. You need to breathe.  Let a little blood up in your face there, will ya?  - I don't want to breathe. - You should be proud of yourself.  Do you have any idea how hard it is to land a girl as sexually enlightened as Heidi is?  A girl like that comes around, what, once every hundred years?",
+      "target_person": "Mitch",
+      "target_gender": "male",
+      "cause_raw": "landing a sexually enlightened girl",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP2097_holly",
+      "emotion": "pride",
+      "dialogue": "Can't hear you!  Excuse me.  I'd like to say I'm really glad and proud to be here tonight.  I'm glad to see Frank's dad made it out. I haven't seen him in eight years.  That's great. Congratulations.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being present at the event",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2098_holly",
+      "emotion": "pride",
+      "dialogue": "Come on, let's go. There we go, Blue.  Congratulations, gentlemen.  You should all be very proud of yourselves.  Each and every one of you has been hand-picked  to represent our inaugural pledge class.",
+      "target_person": "gentlemen",
+      "target_gender": "male",
+      "cause_raw": "being hand-picked to represent inaugural pledge class",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

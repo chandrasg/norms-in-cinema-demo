@@ -1,0 +1,93 @@
+{
+  "film": {
+    "id": "392820",
+    "title": "Gimme Danger",
+    "year": "2016",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/8YHqUETRBIFza756s8kcuU8XhEQ.jpg",
+    "overview": "No other band in rock'n'roll history has rivaled The Stooges' combination of heavy primal throb, spiked psychedelia, blues-a-billy grind, complete with succinct angst-ridden lyrics, and a snarling, preening leopard of a frontman who somehow embodies Nijinsky, Bruce Lee, Harpo Marx, and Arthur Rimbaud all rolled into one. There is no precedent for The Stooges, while those inspired by them are now legion.  The film will present the context of their emergence musically, culturally, politically, historically, and relate their adventures and misadventures while charting their inspirations and the reasons behind their initial commercial challenges, as well as their long-lasting legacy."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS224_holly",
+      "emotion": "shame",
+      "dialogue": "(female #1) Tape is rolling, any time you're ready  They had had the concept of a band  called \"The Dirty Shames\"  and that was basically something they would tell people  when they met people at a party or something.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS225_holly",
+      "emotion": "shame",
+      "dialogue": "and that was basically something they would tell people  when they met people at a party or something.  \"Yeah-yeah, we got a band, we're called \"The Dirty Shames.\"\"  There was a period when \"The Stooges\"  resembled \"The Dirty Shames.\"",
+      "target_person": "The Stooges",
+      "target_gender": "unclear",
+      "cause_raw": "being compared to \"The Dirty Shames\"",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS226_holly",
+      "emotion": "shame",
+      "dialogue": "\"Yeah-yeah, we got a band, we're called \"The Dirty Shames.\"\"  There was a period when \"The Stooges\"  resembled \"The Dirty Shames.\"  In that we, we decided  we had a band, we told people we had a band",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS227_holly",
+      "emotion": "shame",
+      "dialogue": "And they were very, very good.  And they were much better than us.  At that point we, we were shamed.  [instrumental music]  We were gonna try a series of rehearsals",
+      "target_person": "Us",
+      "target_gender": "unclear",
+      "cause_raw": "being less skilled or talented",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP486_holly",
+      "emotion": "pride",
+      "dialogue": "[chanting] Ram, cha, cha.. That record, I thought it was a.. ...myself that it was a... ...sort of neat, petite, well-organized  ...sort of neat, petite, well-organized  good, sharp, little poke, and, uh.. I was, I was real proud of the, uh  I was, I was real proud of the, uh  the clarity of the songs.",
+      "target_person": "Speaker 1",
+      "target_gender": "male",
+      "cause_raw": "clarity of the songs",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP487_holly",
+      "emotion": "pride",
+      "dialogue": "...sort of neat, petite, well-organized  good, sharp, little poke, and, uh.. I was, I was real proud of the, uh  I was, I was real proud of the, uh  the clarity of the songs.  * Midnight winds are landing at the end of time *",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "clarity of the songs",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

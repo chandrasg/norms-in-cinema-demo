@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "405999",
+    "title": "Paras",
+    "year": "1971",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "",
+    "overview": "Dharam Singh is a honest farmer in rural India, and lives with his sister, Bela, who is now of marriageable age. One day both brother and sister witness a murder, and haul the killer to the..."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1283_bolly",
+      "emotion": "shame",
+      "dialogue": "thiry times in a month ! - How disgusting ! You are my Prince. Won't you give me any love? You ought to be ashamed !  Say yes, if you think it's true. Say no, if you think it's a lie Is it yes, or no? - Yes!",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "lack of affection",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1284_bolly",
+      "emotion": "shame",
+      "dialogue": "But due to her deeds. Your mother must also have breast fed you. . . You must feel ashamed for your deeds. I swear on god, I don't know anything. If anyone shelters her or files a repor against me. . .",
+      "target_person": "Unnamed character",
+      "target_gender": "female",
+      "cause_raw": "bad deeds",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1285_bolly",
+      "emotion": "shame",
+      "dialogue": "She is the only aim of my life. Today I have driven her off like a stranger. I am feeling ashamed. - I regret whatever has taken place. There was no other option beside it. I hate this kind of life.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "driving off a loved one",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1286_bolly",
+      "emotion": "shame",
+      "dialogue": "No problem, come out. Only we two are present here. Go out. - Where shall I go? Why are you feeling ashamed? They are our relatives. Greetings! When did you arrive? You should have sent a telegram.",
+      "target_person": "character feeling ashamed",
+      "target_gender": "unclear",
+      "cause_raw": "being seen in a compromising situation",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1287_bolly",
+      "emotion": "shame",
+      "dialogue": "You have found your dream boy. It's his right. Why are you depriving him from his right? Don't you feel ashamed? - How else should we speak? He is a simpleton. - Let him get married to you. . . Then I will ask you, how simple was he?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "denying a man's right to marry her",
+      "theme_label": "Marital Status"
+    }
+  ]
+}

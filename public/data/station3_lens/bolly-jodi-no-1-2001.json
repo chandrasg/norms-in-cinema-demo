@@ -1,0 +1,92 @@
+{
+  "film": {
+    "id": "46430",
+    "title": "Jodi No. 1",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/wa9cSm4exWeevID8TBHH7ZQYPi9.jpg",
+    "overview": "Partners in crime Jai and Veeru set their next target on a rich businessman, Rai Bahadur. Things turn hilarious when both of them fall for his daughters."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2783_bolly",
+      "emotion": "shame",
+      "dialogue": "You'll have to tell me. - Actually....due to his father he can't face anybody. See, how he's hiding his face. - But what is the matter? Shame. Should I confide in him? - Yes. His father remarried.",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "father's remarriage",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2784_bolly",
+      "emotion": "shame",
+      "dialogue": "You've secured a gold medal in business management. Now is the time to show your mettle. What a shame! - What did you say? Nothing uncle. What do you expect from us?",
+      "target_person": "gold medalist",
+      "target_gender": "unclear",
+      "cause_raw": "not living up to expectations despite having a degree",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2785_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm not a thief. This is what every thief says on being caught. Aren't you ashamed? - But I'm not a thief. Did you come here to steal my stories? This is crazy.",
+      "target_person": "accused person",
+      "target_gender": "unclear",
+      "cause_raw": "accused of stealing",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "p1455_bolly",
+      "emotion": "pride",
+      "dialogue": "You can expect honesty from us. By joining hands with us you can expect better quality. And you can be proud of us. And I can confidently say....that these eminent people can invest money in your company...but we'll invest our mind and soul in this project. And I think I am right. Brother Jai, am I right? I think I am right.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "dedication to project",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p1456_bolly",
+      "emotion": "pride",
+      "dialogue": "Gentlemen, I could've completed this contract in any country. But this emotion for my country brought me here. I'll feel proud working with such youth. I hand over this contract to you, gentleman. - Sir! Thank you very much. I can't tell you how much I love you.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "working with youth of his country",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

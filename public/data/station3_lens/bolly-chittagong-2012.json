@@ -1,0 +1,92 @@
+{
+  "film": {
+    "id": "109221",
+    "title": "Chittagong",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2YUIg8P4rJnoXoZMF30mmteoIdf.jpg",
+    "overview": "Jhunku, a 14-year-old youth in 1930s British Bangladesh, embarks on a journey to determine where he belongs."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s796_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm trying my best that some day.....my son would fly off to England. Wilkinson's doors are open for you anytime. Are you repaying him this way? Aren't you ashamed? Come fast! He's such a rogue. He followed me even when I was attending the nature calls.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not meeting parent's expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s797_bolly",
+      "emotion": "shame",
+      "dialogue": "I feel very bad. - I can understand. No, you cannot. No one could bend in shame because of you. I want to take revenge of brother Sukhendu's death. I won't spare Johnson.",
+      "target_person": "Johnson",
+      "target_gender": "male",
+      "cause_raw": "causing Sukhendu's death",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s798_bolly",
+      "emotion": "shame",
+      "dialogue": "We'd hate to lose you over this issue. This has happened for the first time in our country that in spite of police and military's presence.....foreign officers are confused where to hide with shame? And who made this possible? Few children like you.",
+      "target_person": "foreign officers",
+      "target_gender": "unclear",
+      "cause_raw": "failure to maintain law and order",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p404_bolly",
+      "emotion": "pride",
+      "dialogue": "I asked where's Surya Sen? Oh God! I'm very proud of you, my son. Look, they're fighting! Look, he's beating him up. Help! Release him!",
+      "target_person": "speaker 2",
+      "target_gender": "male",
+      "cause_raw": "son's bravery",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p405_bolly",
+      "emotion": "pride",
+      "dialogue": "We were going to escape from the jail.....by digging a tunnel. And in this way, the second night began. I was feeling proud that Master has had selected me. For 30 days, we had dug the tunnel. Bombs were planted at their places.",
+      "target_person": "Master",
+      "target_gender": "male",
+      "cause_raw": "being selected for a task",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

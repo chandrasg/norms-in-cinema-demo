@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "80880",
+    "title": "Aarya",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1RU7eOgierTfTiNNQUmd1h5iKFU.jpg",
+    "overview": "Aarya is a happy-go-lucky young man who goes to college. When he falls in love with Geetha at first sight, he proposes to her - in front of her boyfriend Ajay, who recently also proposed to her. She bluntly refuses, but ..."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s254_bolly",
+      "emotion": "shame",
+      "dialogue": "Then you're also hallucinating. Why I did all this because...l had to express my love for you to escape from him. Anyway he hung his head in shame before everyone for me. I felt pity on him. Do you think he really loves me so much?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being publicly shamed by a woman",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s255_bolly",
+      "emotion": "shame",
+      "dialogue": "Even now I won. Because your honour has gone to the dogs. How shameful if Raji Reddy's daughter's marriage cancels at last moment? Were you watching fun when they took away my wife? I'll kill anyone who marries her.",
+      "target_person": "Raji Reddy's daughter",
+      "target_gender": "female",
+      "cause_raw": "cancellation of marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p99_bolly",
+      "emotion": "pride",
+      "dialogue": "Father-in-law! # I'm a foreigner, I came from foreign... # # For proud young men, I left Washington... # # Got fed up boarding airbus... # # I started liking red bus... #",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

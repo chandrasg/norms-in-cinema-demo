@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "31868",
+    "title": "Intermezzo: A Love Story",
+    "year": "1939",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/14cUqSYvzBEap5Hy7nJIImPRRD0.jpg",
+    "overview": "A concert violinist becomes charmed with his daughter's talented piano teacher. When he invites her to go on tour with him, they make beautiful music away from the concert hall as well. He soon leaves his wife so the two can go off together."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS479_holly",
+      "emotion": "shame",
+      "dialogue": "Sneaking about in fear of being seen.  It's not the way I'd like it to be, either.  I'm ashamed. And I hate being ashamed.  Ashamed?  Look in the mirror.",
+      "target_person": "Unnamed Character",
+      "target_gender": "unclear",
+      "cause_raw": "feeling ashamed for sneaking around",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS480_holly",
+      "emotion": "shame",
+      "dialogue": "lt's not the way I'd like it to be, either.  I'm ashamed. And I hate being ashamed.  Ashamed?  Look in the mirror.  How do we look to you?",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "self-shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP1024_holly",
+      "emotion": "pride",
+      "dialogue": "And so I am glad that New York is the scene of my last concert... with a man, who, for many years, has been for me more than an accompanist.  with a man, who, for many years, has been for me more than an accompanist.  A man whom I am proud to claim... as a friend and a teacher... whose loss, I am sure, you'll regret as keenly as I do:  whose loss, I am sure, you'll regret as keenly as I do:  Thomas Stenborg.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "Thomas Stenborg's friendship and teachings",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1025_holly",
+      "emotion": "pride",
+      "dialogue": "Remember, darling?  How did I do, Mommy?  -Daddy and I were very proud of you. -I'm so glad.  You did very well.  -Will you play for my party now? -No.",
+      "target_person": "Mommy and Daddy",
+      "target_gender": "unclear",
+      "cause_raw": "child's performance",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

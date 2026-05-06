@@ -1,0 +1,142 @@
+{
+  "film": {
+    "id": "211819",
+    "title": "Raja Babu",
+    "year": "1994",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/56dEONvFlidzOxZy9c8pOOWDPmQ.jpg",
+    "overview": "Raja Babu is a rich, spoiled, country bumpkin who lives a carefree, luxury lifestyle until the girl he loves rejects him and his parents reveal that he was adopted."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 3
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1572_bolly",
+      "emotion": "shame",
+      "dialogue": "What did that lawyer in town say? - He did say something of the sort. Lawyer? ! Have you started visiting the lawyer? Father! - You shameless fellow! What's the matter' Janki? - Don't know. It's paining. Nandu ! Rush ! Get the doctor!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "visiting a lawyer without parental consent",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1573_bolly",
+      "emotion": "shame",
+      "dialogue": "Where's she taking the moneylender? - She's from a village nearby. She's taking him for a beating ! You should be ashamed ! Fools! Someone from a neighbouring village is kidnapping one of us! And here you are! Having fun ! - Come over here.",
+      "target_person": "villagers",
+      "target_gender": "unclear",
+      "cause_raw": "not standing up against injustice",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1574_bolly",
+      "emotion": "shame",
+      "dialogue": "Right? - Yes! Why not? Please ask from a sister what you may. Sister? What a shame! I wouldn't really dream of it. Why so? - Because' you're unmarried yet. You must marry and live a long life with your husband.",
+      "target_person": "unmarried woman",
+      "target_gender": "female",
+      "cause_raw": "being unmarried",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1575_bolly",
+      "emotion": "shame",
+      "dialogue": "My wife has been in tears ever since she has heard the news. We'd been telling our daughter ever since she was a child' that. . . she was to marry Raja. - I'm sorry. I'm ashamed. Let bygones be. And' I consider your daughter mine' Chandramohan. I'll find a match for her. And' I'll meet all expenses in the marriage.",
+      "target_person": "Chandramohan",
+      "target_gender": "male",
+      "cause_raw": "not able to arrange a suitable match for his daughter",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1576_bolly",
+      "emotion": "shame",
+      "dialogue": "Thank God. She has conceded at last. Please have the other marriage stopped. She's ashamed of what she did. Take a look. She has apologised and printed Raja's photograph. I mean to say. . . we won't accept such an apology!",
+      "target_person": "She",
+      "target_gender": "female",
+      "cause_raw": "past actions",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1577_bolly",
+      "emotion": "shame",
+      "dialogue": "You want your daughter married' right? - Yes. Let my son marry her. - Your son? Yes. My son' Amavas. - Amavas? ! What a shame! My daughter would rather die! - She's sinking. If the antidote. . . is not administered within 5 minutes' there's no saying what'd happen !",
+      "target_person": "daughter's parent",
+      "target_gender": "female",
+      "cause_raw": "rejecting a marriage proposal",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1578_bolly",
+      "emotion": "shame",
+      "dialogue": "Why not? Mustn't we visit the temple to thank God? But' Raja was telling me that you wanted to leave this village forever. What a shame! Must you speak so? I have been related to you over many births. I won't ever leave you ! Not in many lifetimes!",
+      "target_person": "Raja",
+      "target_gender": "male",
+      "cause_raw": "spreading rumors",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p834_bolly",
+      "emotion": "pride",
+      "dialogue": "photograph showing him decked in the garb of a lawyer. Did you want to cheat me? - No! Insolent pride! How dare you tear the wedding cards. . . and throw them at my husband's face! Don't you bother. . .",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "husband's insult",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p835_bolly",
+      "emotion": "pride",
+      "dialogue": "your life is invaluable. You mustn't ever dream of killing. . . yourself for the sake of an illiterate like me. To break her insolent pride' as well as for the sake of your prestige. . . you must have your son married on that very date' Kishan Singh. Make arrangements' Chandramohan. My son will marry your daughter.",
+      "target_person": "Kishan Singh",
+      "target_gender": "male",
+      "cause_raw": "son's marriage",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

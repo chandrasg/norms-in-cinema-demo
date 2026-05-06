@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "12149",
+    "title": "Frailty",
+    "year": "2002",
+    "industry": "holly",
+    "country": "US|DE",
+    "poster_path": "/jid7dyfHa6ApZSTweC3T3nllWjh.jpg",
+    "overview": "A mysterious man arrives at the offices of an FBI agent and recounts his childhood: how his religious fanatic father received visions telling him to kill people who were in fact \"demons.\""
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1041_holly",
+      "emotion": "shame",
+      "dialogue": "- What are you doing? - Calling your dad.  - You can't. - Yes, I can.  Ought to be ashamed, making up stories.  But it's true. I can show you.  Come on. Let's go.",
+      "target_person": "Unnamed Character",
+      "target_gender": "unclear",
+      "cause_raw": "lying/making up stories",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP1980_holly",
+      "emotion": "pride",
+      "dialogue": "Won't do you any good now that you've wrecked your hands... but a couple of days, you'll be fine.  but a couple of days, you'll be fine.  I want you to know I'm proud of you.  And I know God's proud of you too.  Take some time off and let those blisters callous over.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1981_holly",
+      "emotion": "pride",
+      "dialogue": "but a couple of days, you'll be fine.  I want you to know I'm proud of you.  And I know God's proud of you too.  Take some time off and let those blisters callous over.  Then you can get back to it, all right?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1982_holly",
+      "emotion": "pride",
+      "dialogue": "I've been waiting for this moment ever since all this started.  I'm ready to fulfill my destiny.  I'm proud of you, son.  F**k you!  You f**k!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "fulfilling destiny",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

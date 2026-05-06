@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "168864",
+    "title": "GMO OMG",
+    "year": "2013",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "/qMCHeiycPoxh8NnJ4YtEDuG1FtE.jpg",
+    "overview": "Today in the United States, by the simple acts of feeding ourselves, we are unwittingly participating in the largest experiment ever conducted on human beings. Each of us unknowingly consumes genetically engineered food on a daily basis. The risks and effects to our health and the environment are largely unknown. Yet more and more studies are being conducted around the world, which only provide even more reason for concern. We are the oblivious guinea pigs for wide-scale experimentation of modern biotechnology. GMO OMG tells the story of a fathers discovery of GMOs in relationship to his 3 young children and the world around him. We still have time to heal the planet, feed the world, and live sustainably. But we have to start now!"
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WS136_holly",
+      "emotion": "shame",
+      "dialogue": "its raw data.  Monsanto has refused.  The shame is that in North America,  you don't have any traceability of the food,  so you don't know really who has eaten what.",
+      "target_person": "Monsanto",
+      "target_gender": "unclear",
+      "cause_raw": "lack of transparency in food traceability",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS137_holly",
+      "emotion": "shame",
+      "dialogue": "The harvest left no food for you to eat  You cannibal, you meat-eaten you see  But I have seen the same I know the shame in your defeat  But will hold on hope  And I won't let you choke",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "cannibalism",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "WP212_holly",
+      "emotion": "pride",
+      "dialogue": "and have someone give you a call back.  OK?  Weren't they proud of their products?  Wouldn't they want to show off their innovations,  how they were feeding all of us?",
+      "target_person": "They",
+      "target_gender": "unclear",
+      "cause_raw": "their products and innovations",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

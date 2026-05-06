@@ -1,0 +1,103 @@
+{
+  "film": {
+    "id": "312056",
+    "title": "I Love NY",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/tIqav4xlbDh55dmxNFPRx5rVQLX.jpg",
+    "overview": "Two strangers meet in Manhattan on New Year's Eve, and both of their lives are forever transformed in this romantic Bollywood drama. Even as they try to preserve their current relationships, neither can resist falling head over heels for the other."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2534_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are there flowers? Don't touch this. What a shameless man? You're naked. Butter?y..in my room? Let go. Those belong to my kids, for their concen",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior/ nudity",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2535_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh, just shut up! You left me here alone.....and went to your ex in New York? Aren't you ashamed? If you wanted to dump, you could've just said it clearly. What dump, Riya?",
+      "target_person": "Riya's partner",
+      "target_gender": "male",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2536_bolly",
+      "emotion": "shame",
+      "dialogue": "Go bring it back up now. No? Fine, you can lie there..like shameless. I'll go and get lshaan's photo. If anythings stolen from my house, I'll show you.",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "not taking responsibility",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2537_bolly",
+      "emotion": "shame",
+      "dialogue": "It's okay if I go out in this cold, but not you. To get his photo, never. Fine, stay here then. Shameless. I wonder why..you dwell in my heart. Why did I..keep thinking about you? Your image keeps floating in my eyes.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "going out in the cold for a man",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2538_bolly",
+      "emotion": "shame",
+      "dialogue": "How do you know I am lying? What do you know about me? What do you know..Why are you so shameless? I've become one..since I met you. - Why? I wonder why..you dwell in my heart.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "accused of lying",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s2539_bolly",
+      "emotion": "shame",
+      "dialogue": "From today..l swear I won't touch alcohol. Sure? - Of course, we won't even smell it. You should be ashamed. Buffoons, don't start the first day of the year with a lie. Sorry.",
+      "target_person": "characters",
+      "target_gender": "unclear",
+      "cause_raw": "lying about quitting alcohol",
+      "theme_label": "Deception"
+    }
+  ]
+}

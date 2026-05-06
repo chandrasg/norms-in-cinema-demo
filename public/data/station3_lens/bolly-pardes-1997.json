@@ -1,0 +1,117 @@
+{
+  "film": {
+    "id": "25519",
+    "title": "Pardes",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cUiM7V2hK540SN9Wd6UXZPGcDBH.jpg",
+    "overview": "Kishorilal wants an Indian bride for his westernised son. He gets him engaged to Ganga, his friend's daughter, and brings her to USA. But she shares a deeper bond with Arjun, Kishorilal's foster son."
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Invasion of Privacy",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1291_bolly",
+      "emotion": "shame",
+      "dialogue": "- What a lovely farm-house! - My chunni, kids! Hurry! - Is that American here? - He's here, sis. - How are you? This is height of shamelessness. I'm going...- Namaste... - Namaste...- Honestly! You didn't tell me... - So what? I'm no stranger. - True, but... - Good you came. We were expecting you tomorrow.",
+      "target_person": "visitor",
+      "target_gender": "unclear",
+      "cause_raw": "unexpected visit",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s1292_bolly",
+      "emotion": "shame",
+      "dialogue": "Whether it's with an animal, or between a servant and his master. To form new relationships we don't break old ones! Do you have any shame, or not? Forgot the rules set here? It seems he's not fixing your betrothal...- ...but you're confirming his! - My dear...Whatever Arjun's doing is for your own good. Imagine that he's a film director.",
+      "target_person": "servant",
+      "target_gender": "male",
+      "cause_raw": "breaking societal hierarchy and norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1293_bolly",
+      "emotion": "shame",
+      "dialogue": "- Can't you make your own decisions? - It's not that...Just wait here. I'll just come. Auntie, may I go in the fields with Rajiv? In the fields? Why ask me, you shameless girl! Ask your mother! Did you hear? Your Rajiv......wants to take Ganga in the fields, behind the wind-mill! - Who wants to take her there? - He came as a guest, mother......and he wants to take the girl behind bushes right in front of us!",
+      "target_person": "Ganga",
+      "target_gender": "female",
+      "cause_raw": "wanting to go out with a man",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1294_bolly",
+      "emotion": "shame",
+      "dialogue": "Get lost! You rascal. Don't you have any mother and sister that you kiss her publicly like this? Is this a way to meet a girl? And you shameless girl......how can you be so intimate with these whites? Forgot family norms? - She's still young... - Why are you firing her? She's ours now. Come, my dear.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "public display of affection",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1295_bolly",
+      "emotion": "shame",
+      "dialogue": "No! What are you doing! Slashing the very person who...Get aside! Why didn't you die there? I had seen you off in bridal finery. I wish you had returned in a shroud! At least you wouldn't have returned with shame with this rascal! What do you think you're doing? - You'll not hit Ganga! - I'll kill her!",
+      "target_person": "Ganga",
+      "target_gender": "female",
+      "cause_raw": "returning home with a man not her husband",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1296_bolly",
+      "emotion": "shame",
+      "dialogue": "- Is that American here? - He's here, sis. How are you? This is height of shamelessness. I'm going...- Namaste... - Namaste...- Honestly! You didn't tell me... - So what? I'm no stranger. - True, but... - Good you came. We were expecting you tomorrow.",
+      "target_person": "American",
+      "target_gender": "male",
+      "cause_raw": "Intruding without informing",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s1297_bolly",
+      "emotion": "shame",
+      "dialogue": "Whether it's with an animal, or between a servant and his master. To form new relationships we don't break old ones! Do you have any shame, or not? Forgot the rules set here? It seems he's not fixing your betrothal......but you're confirming his! - My dear...Whatever Arjun's doing is for your own good. Imagine that he's a film director.",
+      "target_person": "Arjun",
+      "target_gender": "male",
+      "cause_raw": "breaking traditional norms and rules",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1298_bolly",
+      "emotion": "shame",
+      "dialogue": "- Can't you make your own decisions? - It's not that...Just wait here. I'll just come. Aunty, may I go in the fields with Rajiv? In the fields? Why ask me, you shameless girl! Ask your mother! Did you hear? Your Rajiv......wants to take Ganga in the fields, behind the wind-mill! - Who wants to take her there? - He came as a guest, mother......and he wants to take the girl behind bushes right in front of us!",
+      "target_person": "Ganga",
+      "target_gender": "female",
+      "cause_raw": "wanting to go out with a man",
+      "theme_label": "Sexual Harassment"
+    }
+  ]
+}

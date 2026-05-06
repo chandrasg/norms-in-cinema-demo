@@ -1,0 +1,106 @@
+{
+  "film": {
+    "id": "11825",
+    "title": "Police Academy 5: Assignment Miami Beach",
+    "year": "1988",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/4m1qfTiVxdEDv0fgUf0FI7CA9Fe.jpg",
+    "overview": "The Police Academy misfits travel to Miami Beach for Commandant Lassard to be honored with a prestigious lifetime award pending his retirement. Things take a turn when Lassard unknowingly ends up in possession of stolen diamonds from a jewel heist."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 3
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS753_holly",
+      "emotion": "shame",
+      "dialogue": "VIP. I understand that you're taking an economy flight.  We'll just have to meet in Miami. I'll see you there.  Shame. Morning, sir.  Please be careful with the bag.  Flying makes him nervous.",
+      "target_person": "VIP",
+      "target_gender": "male",
+      "cause_raw": "flying economy class",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WP1441_holly",
+      "emotion": "pride",
+      "dialogue": "We'll do it, sir. But only for you.  You have all given me new hope.  Way to go, sir. We're so proud of you.  If I cannot stay, then I'll go out in style.  Miami Beach, get ready.",
+      "target_person": "group",
+      "target_gender": "unclear",
+      "cause_raw": "giving hope",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1442_holly",
+      "emotion": "pride",
+      "dialogue": "There he is. There he is. Who? Ugh.  Gah! Jesus.  I've read of your accomplishments, and I must say that our city... ...is proud to welcome the Police Officer of the Decade.  ...is proud to welcome the Police Officer of the Decade.  - You're very, very kind, Mr. Mayor. - Our police commissioner, Dave Murdock.",
+      "target_person": "Mr. Mayor",
+      "target_gender": "male",
+      "cause_raw": "Police Officer's accomplishments",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1443_holly",
+      "emotion": "pride",
+      "dialogue": "Gah! Jesus.  I've read of your accomplishments, and I must say that our city... ...is proud to welcome the Police Officer of the Decade.  ...is proud to welcome the Police Officer of the Decade.  - You're very, very kind, Mr. Mayor. - Our police commissioner, Dave Murdock.  He's in charge of the Police Chiefs Convention.",
+      "target_person": "Mr. Mayor",
+      "target_gender": "male",
+      "cause_raw": "Police Officer's accomplishments",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1444_holly",
+      "emotion": "pride",
+      "dialogue": "Stop! Halt!  Good to see you, Nick. Hi, Uncle Eric.  That's my nephew Nick I was talking about. I'm very, very proud of him.  Agh! What's the matter? What are you doing?  - Here's your wallet, sir. - Thank you, officer.",
+      "target_person": "Uncle Eric",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1445_holly",
+      "emotion": "pride",
+      "dialogue": "Hey, Sug, how's it going?  We're getting pretty close, boss.  Boss? Mr. Dempsey should be plenty proud of you, boss.  You got the diamonds back. You did it.  Yeah.",
+      "target_person": "Boss",
+      "target_gender": "male",
+      "cause_raw": "retrieving the diamonds",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1446_holly",
+      "emotion": "pride",
+      "dialogue": "Let them have their little moment. We know who will have the last laugh.  Uh, yes, we do, Commandant Harris.  For his remarkable record... ...this department is proud to promote Sergeant Hightower... ...to Lieutenant Hightower!  ...to Lieutenant Hightower!  I think it is fitting that Lieutenant Hightower... ...receive his bars from the very officer whose life he saved:",
+      "target_person": "Department",
+      "target_gender": "male",
+      "cause_raw": "Sergeant Hightower's promotion and his remarkable record",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

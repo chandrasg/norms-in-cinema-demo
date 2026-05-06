@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "32137",
+    "title": "Dashavatar",
+    "year": "2008",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/i1hOuoNpzbFIa6ZjTAoSkbvfnKv.jpg",
+    "overview": "Two children are transported through time to learn about the 10 avatars of Lord Vishnu and discover that Vishnu took on various incarnations to combat evil in every era."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s910_bolly",
+      "emotion": "shame",
+      "dialogue": "Praise be to Lord Vishnu! Praise be to Lord Vishnu! Shame on you! Stop chanting Vishnu's name. Forgive me father! Shall I stop chanting Vishnu's name? It is impossible! I am not worthy enough to say this.",
+      "target_person": "character chanting Vishnu's name",
+      "target_gender": "unclear",
+      "cause_raw": "religious disrespect",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p469_bolly",
+      "emotion": "pride",
+      "dialogue": "Prince, who are you? Devi, I am Ram the prince of Ayodhya. I am impressed a lot by your radiance, beauty and pride. I want to marry you! Forgive me but I cannot marry you.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p470_bolly",
+      "emotion": "pride",
+      "dialogue": "Please go and help my Lord! Really she is the most beautiful one! She will add to the pride of my kingdom. Not a slave but she is capable of becoming a queen. Mother, in no condition will you cross this line.",
+      "target_person": "Lord",
+      "target_gender": "male",
+      "cause_raw": "beauty of a woman",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

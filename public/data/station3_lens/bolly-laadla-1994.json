@@ -1,0 +1,134 @@
+{
+  "film": {
+    "id": "197483",
+    "title": "Laadla",
+    "year": "1994",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/19gxqTBRBYoWxypSihK0qKMphKd.jpg",
+    "overview": "Laadla is the story of the kind-hearted Raju, who lives with his disabled mom. One day Raju, on his way to a job interview, saves the life of a rich textile mill owner who offers him a job in his factory. The mill is run by his ambitious daughter Sheetal, whose competitive attitude and open insults have made her many enemies. Raju and Sheetal clash often, until Sheetal tries to get the upper hand by forcing Raju to marry her, even though he has already fallen in love with Kaajal."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 2
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 4,
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3237_bolly",
+      "emotion": "shame",
+      "dialogue": "Then go ahead sweetheart! Hey! better improve, Brothers better improve! Aren't you ashamed of blowing away your hard earned money? This girl comes on your salary day and ruins you. Look at this! She bought a car with your money!",
+      "target_person": "men",
+      "target_gender": "male",
+      "cause_raw": "wasting money on a woman",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3238_bolly",
+      "emotion": "shame",
+      "dialogue": "If you don't mind....Turn this side. Your features are okay....Only the temper in your nose is too much. No wonder it has become snubbed. Shut up! Aren't you ashamed of yourself? Shame is an ornament adorned by women, madam. Why should men wear it?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3239_bolly",
+      "emotion": "shame",
+      "dialogue": "No wonder it has become snubbed. Shut up! Aren't you ashamed of yourself? Shame is an ornament adorned by women, madam. Why should men wear it? But girls nowadays are no less.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p1704_bolly",
+      "emotion": "pride",
+      "dialogue": "I'll bear the marriage expenses. You don't have to worry about it. So much pride is not good for a woman....Besides where will you get a better alliance than this? My nephew is handsome, educated and young. And we are of equal standards too.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "providing for niece's marriage",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1705_bolly",
+      "emotion": "pride",
+      "dialogue": "Mother, O my dear mother...\"I am your darling.\" At any cost, Heeru uncle, I'll shatter that girl's pride. I have an idea. Do you want to know? The road she takes to her office every day...Tomorrow our men will wait for her there...And the minute her car comes... - No. Heravat, no.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1706_bolly",
+      "emotion": "pride",
+      "dialogue": "Second was to remind you of your Indian Culture, that you forgot by going abroad. The third was for your pride, and the fourth, the interest for your impudence! I could have retaliated outside,",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "reminding of Indian culture",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1707_bolly",
+      "emotion": "pride",
+      "dialogue": "I could show you my true colours in the morning. You married me to seek vengeance. Do you know why I married you? To break your pride. See whether I'm recognised as Sheetal Jethli's husband. Or you as Union Leader Raju Verma's wife.",
+      "target_person": "Raju Verma",
+      "target_gender": "male",
+      "cause_raw": "being recognized as Sheetal Jethli's husband",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1708_bolly",
+      "emotion": "pride",
+      "dialogue": "I know these men very well! - No need to know the entire world madam! Just know yourself a little. That will save you from a lot of troubles.Otherwise, one day your obstinacy, pride and suspicion...Will ruin your house. You'll be left with nowhere. Shut up! Vulnerable women like you need support! Not me. Don't try to meet him again. Understand? You better understand!",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1709_bolly",
+      "emotion": "pride",
+      "dialogue": "I never knew that she'd stoop so low. and think of killing me. What are you saying, Raju? I agree that madam is obstinate and proud. But she can't think of killing you! No. No. No wife will ever think of killing of her husband.",
+      "target_person": "madam",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1710_bolly",
+      "emotion": "pride",
+      "dialogue": "When he is hand-cuffed in the Police Station, Then he'll know whom he has challenged. If I don't break his pride, then my name is not Sheetal Jethli. Mother! Mother!",
+      "target_person": "Sheetal Jethli",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "370235",
+    "title": "Badlapur Boys",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/7rhYbJOe2bDMG6OuiFvtZWCxnKQ.jpg",
+    "overview": "A story about a bunch of underdogs who not only play Kabaddi passionately, but also get involved in crucial socio-economic issues."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s360_bolly",
+      "emotion": "shame",
+      "dialogue": "What to do with the one who is at home? - Hell with you. The homeguard team is not here. And also Sadhu. This time not only our dignity but...our heads will be put to shame. Sir, 'think what has 'to be done? Think of something.",
+      "target_person": "homeguard team",
+      "target_gender": "unclear",
+      "cause_raw": "failure to perform duty",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p151_bolly",
+      "emotion": "pride",
+      "dialogue": "We have to win in the evening so people stop speaking. Tirne pass! Pride whether ifs theirs or Ravens He surely breaks. Where is Sadhu? - He doesn't know. I will 'tell you. I had gone to his house.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p152_bolly",
+      "emotion": "pride",
+      "dialogue": "Like his father sacrificed, the same way, Vijay also sacrificed. You have asked me to talk today, I will surely talk. Because there are very few moments in life..\"when a guru is proud of his disciple. Surajbhan Singh is very proud to have Vijay as his disciple. O beloved.",
+      "target_person": "Surajbhan Singh",
+      "target_gender": "male",
+      "cause_raw": "having Vijay as his disciple",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p153_bolly",
+      "emotion": "pride",
+      "dialogue": "You have asked me to talk today, I will surely talk. Because there are very few moments in life..\"when a guru is proud of his disciple. Surajbhan Singh is very proud to have Vijay as his disciple. O beloved. O beloved.",
+      "target_person": "Surajbhan Singh",
+      "target_gender": "male",
+      "cause_raw": "having Vijay as his disciple",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

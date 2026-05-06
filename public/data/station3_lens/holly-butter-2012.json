@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "79697",
+    "title": "Butter",
+    "year": "2012",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/30sLoIcLHjZwjMiTjyTUrTNawB4.jpg",
+    "overview": "An adopted girl discovers her talent for butter carving and finds herself pitted against an ambitious local woman in their Iowa town's annual contest."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP763_holly",
+      "emotion": "pride",
+      "dialogue": "The good news is that, instead of your father  I will be competing this year.  - I think we should be proud of your mother. - Stepmother.  And have you ever made a butter sculpture before?  You don't even eat dairy.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "competing this year",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP764_holly",
+      "emotion": "pride",
+      "dialogue": "I guess so.  OK then. So it's not such a big deal, is it?  Go make us proud.  Bring me back some butter.  Adorable.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP765_holly",
+      "emotion": "pride",
+      "dialogue": "Bob is my husband.  We have built a life together.  Once Kaitlen leaves, I plan on proudly bearing his children.  So? You want a cookie 'cause you're gonna get pregnant?  I get pregnant like once a month.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "planning to bear children",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

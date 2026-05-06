@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "410334",
+    "title": "Bahu Begum",
+    "year": "1967",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cI1u6wEnMEihWHMY2p8XLCeAfFm.jpg",
+    "overview": "On the day of her marriage, the bride goes missing. She ends up in a brothel, compelling her wealthy husband to pretend that all is well to keep the family's honor intact."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s371_bolly",
+      "emotion": "shame",
+      "dialogue": "There mustn't be a cheat like you in all of Lucknow. And there mustn't be a beauty like you in the whole universe. You should feel ashamed of yourself, this was a very cheap act. Danger bells are ringing, the old woman is recovering. Push a cloth into her mouth and blindfold her.",
+      "target_person": "cheat",
+      "target_gender": "unclear",
+      "cause_raw": "dishonesty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s372_bolly",
+      "emotion": "shame",
+      "dialogue": "Are you Zeenat, Sultan's daughter, the wife of Nawab Sikander? The daughter and daughter-in-law. . . of such reputed families cannot be so ill-fated and shameless. I feel pity for you. Come, I'll see you off. Leave my hand, I'll go myself. - It's a dark night, don't go alone.",
+      "target_person": "Zeenat",
+      "target_gender": "female",
+      "cause_raw": "Being ill-fated and shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p165_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes, Zeenat. Are you the same Zeenat whom I wanted to give a life of love and respect? Are you the Zeenat before whom I was proud to bow down in love? And today, you had to come from the w***e house in the cloak of darkness? Yes, I'm that very Zeenat.",
+      "target_person": "Zeenat",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

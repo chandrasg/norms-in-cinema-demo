@@ -1,0 +1,150 @@
+{
+  "film": {
+    "id": "550571",
+    "title": "Krodh",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/3B0qkIxzils5JszAUsz80mRkCci.jpg",
+    "overview": "An overprotective brother, who wants to keep his five sisters safe from the cruel world, faces antagonism from them after they turn against him."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 3
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3180_bolly",
+      "emotion": "shame",
+      "dialogue": "Broke me in, and he even bashed my friends up Why do you come to me every time you get bashed up? To make you feel ashamed of yourself You did nothing for yourself and nothing for me Had I been married to Karan's sister, would he have bashed me up like this?",
+      "target_person": "character being spoken to",
+      "target_gender": "male",
+      "cause_raw": "lack of self-defense and assertiveness",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3181_bolly",
+      "emotion": "shame",
+      "dialogue": "I have brought them up as my own daughters. I have educated them I have never let them feel the need for you I have never done anything you'd be ashamed of Mummy, I have committed a grave mistake I saved the man who was responsible for your death",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "saving the man responsible for mother's death",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3182_bolly",
+      "emotion": "shame",
+      "dialogue": "Look! Seema is here Come on in Where are you going? To meet the one who has brought your brother to shame? Go on. But the doors of this house will be closed for you. Forever What a house",
+      "target_person": "Seema",
+      "target_gender": "female",
+      "cause_raw": "associating with someone who brought shame to her brother",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3183_bolly",
+      "emotion": "shame",
+      "dialogue": "Daddy says that our teacher didn't take us for the dance competition He says, she was going to sell us out Mr. Karan, this is a dirty allegation. I'm so ashamed to hear this This b***h is lying! Believe me Believe you? You?",
+      "target_person": "teacher",
+      "target_gender": "female",
+      "cause_raw": "false allegations",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s3184_bolly",
+      "emotion": "shame",
+      "dialogue": "I was about to leave town. She talked me into this Pooja! Damn your idea! You want to ruin a gentleman? You're shameless! - Not l! You are shameless He told me to do this Now why would I do that? Am I a bad girl?",
+      "target_person": "gentleman",
+      "target_gender": "male",
+      "cause_raw": "being manipulated",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3185_bolly",
+      "emotion": "shame",
+      "dialogue": "Why didn't you strangle us when we were kids? No brother would ever have done this to a sister! Such a lowly thing to do I'm ashamed No! Don't come near me! You scare me Doctor please, save my son! - inspector! Arrest him",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards sister",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1666_bolly",
+      "emotion": "pride",
+      "dialogue": "Munna, a hard stare from you is enough to make a man p**s in his pants You touch someone, and he drops dead. Still you couldn't find out? Munna, we brothers are proud of our manhood. Who's this third man? The third man... I am Who?",
+      "target_person": "brothers",
+      "target_gender": "male",
+      "cause_raw": "their manhood",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1667_bolly",
+      "emotion": "pride",
+      "dialogue": "if I am fated to be the wife of a man who has two kids, then that I accept But I won't have my sisters' lives ruined because of me I have always been proud of being a brother Today I am proud to have you, my sister I wish you'd be my sister every time I am born",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "having a strong and selfless sister",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1668_bolly",
+      "emotion": "pride",
+      "dialogue": "But I won't have my sisters' lives ruined because of me I have always been proud of being a brother Today I am proud to have you, my sister I wish you'd be my sister every time I am born One more thing, Asha",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "having a good sister",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1669_bolly",
+      "emotion": "pride",
+      "dialogue": "You're no brother You are the butcher who fattens the lamb for the slaughter I know, your pride is hurt But isn't your mistake... it's your flawed destiny This Writ of Destiny can never be changed",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

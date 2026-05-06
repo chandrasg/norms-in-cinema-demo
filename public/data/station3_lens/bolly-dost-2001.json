@@ -1,0 +1,119 @@
+{
+  "film": {
+    "id": "273575",
+    "title": "Dost",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/8dzOcUADTCiSLK3akKE46uCoxax.jpg",
+    "overview": "Dosth is a 2001 Tamil language film directed by S. A. Chandrasekhar. The film features Sarathkumar and Abhirami in lead roles whilst Prakash Raj, Raghuvaran and Indu play supporting roles. Similar to Double Jeopardy."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5097_bolly",
+      "emotion": "shame",
+      "dialogue": "Do you sell books? What can a man like you think? You look quite young. Ashamed to work for a living? Stop the lecture. The police station is close. Come, I'll show you.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "working in a low-status job",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s5098_bolly",
+      "emotion": "shame",
+      "dialogue": "Nor do I expect to find one. Mother, brother, sister... I sent them to the village a month ago. I'm terribly ashamed. Don't worry about me but your own family is so large...I have little siblings who feel hungry twice a day. The day it gets beyond bearing...I'll either steal or loot.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "inability to provide for family",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s5099_bolly",
+      "emotion": "shame",
+      "dialogue": "What? What can I say... Give me a kiss. - Shameless! - What's wrong? - You have no shame. Go! - What's shame got to do...- What? - Something important to say. Come there.",
+      "target_person": "character asking for a kiss",
+      "target_gender": "male",
+      "cause_raw": "asking for physical intimacy inappropriately",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s5100_bolly",
+      "emotion": "shame",
+      "dialogue": "What can I say... Give me a kiss. - Shameless! - What's wrong? - You have no shame. Go! - What's shame got to do...- What? - Something important to say. Come there. Now tell me what is it?",
+      "target_person": "male",
+      "target_gender": "male",
+      "cause_raw": "inappropriate public behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5101_bolly",
+      "emotion": "shame",
+      "dialogue": "Strange coincidence. Have you come sight seeing? - How are you? - I've seen many shameless men. Anyway... you think you are great. Did you think I really loved you?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being shameless and presumptuous",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s5102_bolly",
+      "emotion": "shame",
+      "dialogue": "What have you done!! What's the difference between you and Gupta? Shame on you for punishing an innocent kid for his Dad's crimes! Save Raju! Yes, child. I'll open it.",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "punishing an innocent child for his father's crimes",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p2875_bolly",
+      "emotion": "pride",
+      "dialogue": "And you will obey me. Now you're quiet. Are those who are proud of being honest, cowards? Why are you silent? I see. You are asking God.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2876_bolly",
+      "emotion": "pride",
+      "dialogue": "- Good day. - Good day. Manav has told me about you. The country is proud of youth like yourself. May your friendship always remain. See, Manav's photo is in the paper!",
+      "target_person": "Manav",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "film": {
+    "id": "72051",
+    "title": "Garv: Pride and Honour",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9lqPTKndjMWfPmBRyH8rWw7bH5I.jpg",
+    "overview": "About to retire, police inspector Samar Singh changes his mind when he discovers that a recently elected official has ties with the underworld."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 11
+  },
+  "themes": [
+    {
+      "label": "Patriotism",
+      "count": 5
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4,
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1085_bolly",
+      "emotion": "pride",
+      "dialogue": "We are proud of our country. We are proud! O Country, we will decorate your character. Come, we wwill guard you against evil.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "patriotism",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p1086_bolly",
+      "emotion": "pride",
+      "dialogue": "We are proud of our country. We are proud! O Country, we will decorate your character. Come, we wwill guard you against evil.",
+      "target_person": "we",
+      "target_gender": "unclear",
+      "cause_raw": "patriotism",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p1087_bolly",
+      "emotion": "pride",
+      "dialogue": "Really, brother? I will talk to his father. it is a matter of pride to make your sister....a daughter-in-law of my house. But..Remember that wwe are from the boy''s side. We have some conditions.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "making his sister a daughter-in-law of a specific house",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1088_bolly",
+      "emotion": "pride",
+      "dialogue": "You are the God of my love and i'm thirsty for your love.' I see the divine in your eyes.' You are my pride, you are my dignity. I dont know what may happen.' Oh darling!",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "love for someone",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1089_bolly",
+      "emotion": "pride",
+      "dialogue": "Go to old Jassai railway yard....where the corpses of your brother Haider....and other colleagues of yours are waiting for you. Haider. Haider. The uniform is our pride The uniform is our faith The uniform is our identity The uniform is our God.",
+      "target_person": "uniform wearer",
+      "target_gender": "male",
+      "cause_raw": "wearing uniform",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1090_bolly",
+      "emotion": "pride",
+      "dialogue": "The uniform is our God. I bequeath this birth to my nation.' We are proud of our nation I am very sorry to inform the press that....Haider Ali Khan, a brave officer the crime control squad....was a secret agent operating for Pakistan and the underworld. Pakistan and the underworld together....had planned for a repeat serial bomb explosion in.",
+      "target_person": "Haider Ali Khan",
+      "target_gender": "male",
+      "cause_raw": "serving the nation",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p1091_bolly",
+      "emotion": "pride",
+      "dialogue": "Regret! i'll regret that why didnt I give him birth. i'll regret that why didnt every mother of this country....didnt give birth to a son like Arjun. Not regret, but i'll be proud of Arjuns death. The same pride which Bhagatsinghs mother felt....on the day of Bhagatsingh''s execution. Every country men would have felt it.",
+      "target_person": "Arjun's mother",
+      "target_gender": "female",
+      "cause_raw": "Arjun's bravery and sacrifice",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p1092_bolly",
+      "emotion": "pride",
+      "dialogue": "i'll regret that why didnt every mother of this country....didnt give birth to a son like Arjun. Not regret, but i'll be proud of Arjuns death. The same pride which Bhagat singhs mother felt....on the day of Bhagat singh''s execution. Every country men would have felt it. Your honor, not in this life but in every life....l would like to live and die as Arjun''s mother.",
+      "target_person": "Arjun's mother",
+      "target_gender": "female",
+      "cause_raw": "Arjun's bravery and sacrifice",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p1093_bolly",
+      "emotion": "pride",
+      "dialogue": "My only wish is either victory or be a martyr. Give me a death penalty. Because i'll come back again. And to save the pride of my country....l''ll pick up weapons again. Because Arjun had always taken up weapons....in the past, the present and the future. This court hear by orders to file a case against....the chief minister, Kashinath Trivedi....and commissioner Deshpande on counts of treason.",
+      "target_person": "Arjun",
+      "target_gender": "male",
+      "cause_raw": "saving the country's pride",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p1094_bolly",
+      "emotion": "pride",
+      "dialogue": "Always fight for justice.' We have taken this oath..''..to surrender our bodies....minds and soul to protect the nation.'' We are proud of the nation. Pride in life and in death as well. This uniform is not only our honour..'''..but our conscience as well.''",
+      "target_person": "characters",
+      "target_gender": "unclear",
+      "cause_raw": "dedication to nation and duty",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p1095_bolly",
+      "emotion": "pride",
+      "dialogue": "We have taken this oath..''..to surrender our bodies....minds and soul to protect the nation.'' We are proud of the nation. Pride in life and in death as well. This uniform is not only our honour..'''..but our conscience as well.'' This uniform is not only our identity..'''..but it is like God to us.''",
+      "target_person": "characters",
+      "target_gender": "unclear",
+      "cause_raw": "dedication to protect the nation",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

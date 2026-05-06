@@ -1,0 +1,147 @@
+{
+  "film": {
+    "id": "183659",
+    "title": "Qurbani",
+    "year": "1980",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5jkQAxALX0Th0HQCRWiuETRedNR.jpg",
+    "overview": "Cabaret dancer and singer, Sheela has two admirers: small-time thief Rajesh and eligible young widower Amar. They are best friends and don't realize that they love the same woman. An enemy in the guise of Vikram Singh makes both men's lives miserable by exposing their realities to each other, turning their friendship upside-down."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 3
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1526_bolly",
+      "emotion": "shame",
+      "dialogue": "Look, it's going to be bad if I get angry. Go away. Mohammed Ali! - You cowards. Aren't you ashamed? I'm calling the police We're here. What use calling the police, darling? What an attitude!",
+      "target_person": "Mohammed Ali",
+      "target_gender": "male",
+      "cause_raw": "being threatened/intimidated",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s1527_bolly",
+      "emotion": "shame",
+      "dialogue": "Nurse, give me some sympathy. You don't go groping another woman in front of me. Aren't you ashamed? - I can always use the other hand on you. You know, that's a pretty nose. Slowly! Are you pulling a stretcher or a racing cart?",
+      "target_person": "nurse",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1528_bolly",
+      "emotion": "shame",
+      "dialogue": "Look, it's going to be bad if I get angry. Go away You cowards Aren't you ashamed? I'm calling the police We're here. What use calling the police, darling? What an attitude!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1529_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't insult me in front of the nurse Whose wife are you? The neighbors'? You don't go groping another woman in front of me! Aren't you ashamed? I can always use the other hand on you You know, that's a pretty nose",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p809_bolly",
+      "emotion": "pride",
+      "dialogue": "Speak softly! You're in my house. Like my patience......the glass panes in my house are thin and very sensitive. Your pride and your glass panes I'll......crush under my feet some day. Else I'm no Jwala. Vikram, Raka has refused to withdraw the charges.",
+      "target_person": "Jwala",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p810_bolly",
+      "emotion": "pride",
+      "dialogue": "He isn't a man. The likes of him are vermin for society. Dogs like them should be run over and killed. So proud of your car? - Hey mister, this is a mercedes. Have you ever driven something like this? Not yet. But I'll give it a try. How about a 50-cent bet?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p811_bolly",
+      "emotion": "pride",
+      "dialogue": "My star carrier. The shining star in our firmament. We're all very proud of you, Amar. I'm very happy with you. - But I'm very unhappy about you. I shall never forget what your men did today.",
+      "target_person": "Amar",
+      "target_gender": "male",
+      "cause_raw": "professional achievement",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p812_bolly",
+      "emotion": "pride",
+      "dialogue": "A life worse than death. Move! You're proud of the strength in your legs, aren't you? From now, you're crawling. You'll beg for mercy. No! He's valuable to me.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p813_bolly",
+      "emotion": "pride",
+      "dialogue": "Speak softly! You are in my house Like my patience, the glass panes in my house are thin and very sensitive. Your pride and your glass panes I will crush under my feet some day. Else I am no Jwala. Vikram, Raka has refused to withdraw the charges.",
+      "target_person": "Jwala",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p814_bolly",
+      "emotion": "pride",
+      "dialogue": "He isn't a man. The likes of him are vermin for society Dogs like them should be run over and killed So proud of your car? - Hey mister, this is a mercedes. Have you ever driven something like this? Not yet. But I'll  give it a try. How about a 50-cent bet?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p815_bolly",
+      "emotion": "pride",
+      "dialogue": "No dying for you. I'll  let you live. A life worse than death You're proud of the strength in your legs, aren't you? From now, you're crawling. You'll beg for mercy No He's valuable",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

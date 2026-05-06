@@ -1,0 +1,93 @@
+{
+  "film": {
+    "id": "20742",
+    "title": "Shootout at Lokhandwala",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6p8ddG6t8FzJTFNYODG27Er0Pdn.jpg",
+    "overview": "An account of the gangster Maya Dolas and his gang which terrorized Mumbai City, and the ensuing standoff between Mumbai Police and the gang on 16 November 1991."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4165_bolly",
+      "emotion": "shame",
+      "dialogue": "I am Mita Μatu, reporting for TVN. Mumbai, Lokhandwala. Because of one officer, the entire....police department is distressed. This is shameful, sir! We can't forgive Khan. I mean without justification.. without authorisation....surrounding a residential building....firing without caring for the citizen's life....all this is written in which police manual, sir?",
+      "target_person": "Khan",
+      "target_gender": "male",
+      "cause_raw": "reckless behavior and endangering citizens' lives",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4166_bolly",
+      "emotion": "shame",
+      "dialogue": "Ηindi is epitome of our culture. It is memento of our ancestors. But shame on ruining our mother tongue. That is leading to disappearance of our culture. Yes.",
+      "target_person": "people ruining the mother tongue",
+      "target_gender": "unclear",
+      "cause_raw": "not respecting and preserving mother tongue",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4167_bolly",
+      "emotion": "shame",
+      "dialogue": "I am Mita Matu, reporting for TVN.. Mumbai, Lokhandwala. Because of one officer, the entire....police department is distressed. This is shameful, sir! We can't forgive Khan. I mean without justification.. without authorisation....surrounding a residential building....firing without caring for the citizen's life....all this is written in which police manual, sir?",
+      "target_person": "Khan",
+      "target_gender": "male",
+      "cause_raw": "reckless behavior and endangering citizens' lives",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4168_bolly",
+      "emotion": "shame",
+      "dialogue": "Hindi is epitome of our culture. It is memento of our ancestors. But shame on ruining our mother tongue. That is leading to disappearance of our culture Yes.",
+      "target_person": "people ruining mother tongue",
+      "target_gender": "unclear",
+      "cause_raw": "not respecting and preserving mother tongue",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2257_bolly",
+      "emotion": "pride",
+      "dialogue": "What he said, exactly that happened. Αs long as I am there, no policeman will be shot. I and the citizens of Mumbai are proud that....we have officers like ACP S.S. Khan for our protection. I am Mita Μatu, from Αntop Ηill, Mumbai. I think she is your big fan. She is beautiful too.",
+      "target_person": "Mita Matu",
+      "target_gender": "female",
+      "cause_raw": "admiration for ACP S.S. Khan",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p2258_bolly",
+      "emotion": "pride",
+      "dialogue": "What he said, exactly that happened. As long as I am there, no policeman will be shot. I and the citizens of Mumbai are proud that....we have officers like ACP S S. Khan for our protection. I am Mita Matu, from Antop Hill, Mumbai. I think she is your big fan. She is beautiful too.",
+      "target_person": "Mita Matu",
+      "target_gender": "female",
+      "cause_raw": "ACP S S. Khan's protection",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

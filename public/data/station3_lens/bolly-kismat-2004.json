@@ -1,0 +1,120 @@
+{
+  "film": {
+    "id": "115153",
+    "title": "Kismat",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/pFV0U1TlXRipGNZBTk3OPhMXw6z.jpg",
+    "overview": "Tony works as a hit-man for gangster, Vikas Patil, who owes his allegiance to wealthy Raj Mallya. Raj Mallya is involved in marketing spurious and out-dated drugs, and as a result is the subject of an investigation by the Food & Drugs Administration's inspector Dr. Hargobind Gosai. Raj asks Vikas to take care of Hargobind through Tony, which Tony does, and in this manner, Raj is absolved of all wrong-doing. Then Tony meets with attractive starlet named Sapna, and falls head over heels in love with her. When Sapna tells him that she is engaged to be married to Dr. Ajay Saxena, he is heart-broken. Then a scandal breaks out, and Hargobind is implicated in the deaths of three children that were killed by Raj's spurious drugs. All the evidence points against Hargobind, and not a single lawyer is willing to take his case; his wife kills herself, and the marriage of his daughter has been canceled."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3136_bolly",
+      "emotion": "shame",
+      "dialogue": "Listen to me... get up Does it look good, Tony? You have caused a traffic jam...and the people are stressed out. You are dead drunk Damn, I'm ashamed My friend, come here... come to me Come here. - What the...?Tell me... what's my mistake?",
+      "target_person": "Tony",
+      "target_gender": "male",
+      "cause_raw": "Public drunkenness and causing inconvenience",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s3137_bolly",
+      "emotion": "shame",
+      "dialogue": "Raj Mallya confessed to his crimes in court He admitted that, to avoid losses in millions...he put the spurious vaccines up on sale He connived with Patil to put the honest Dr Gosai to shame Patil, in turn, entrusted the task to Tony For this entire incident, the court termed Raj Mallya...as the prime accused and sentenced him to life",
+      "target_person": "Dr Gosai",
+      "target_gender": "male",
+      "cause_raw": "falsely accused of a crime",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s3138_bolly",
+      "emotion": "shame",
+      "dialogue": "Another sabotage took place today. Not only us, but even the public and press....know the fact that the recent accidents are not accidents....but the actions of the enemies' agents....who want to harm our country to the maximum. It is a matter of shame to us that we have not managed....to arrest even one of their agents. Mr. Scorpion, our party is very happy with your sabotages. And they have sent you Rs.10 lakh.",
+      "target_person": "security forces",
+      "target_gender": "unclear",
+      "cause_raw": "failure to maintain national security",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3139_bolly",
+      "emotion": "shame",
+      "dialogue": "Today, I have come to know why you....had placed so many restrictions on me. Roma. Call me daughter, I should be ashamed....of calling a quisling my father. Why are you hesitant of calling me daughter? I haven't done anything to be hesitant....to call you my daughter.",
+      "target_person": "Roma's father",
+      "target_gender": "male",
+      "cause_raw": "being a quisling",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3140_bolly",
+      "emotion": "shame",
+      "dialogue": "Foolish girl, mind your tongue, otherwise..Otherwise, what are you going to do? You will kill me? Even I want that. It's better to become a martyr by dying....at a quisling's bullet than living....a shameful life as his daughter. Shoot me. I said shoot me.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being disrespectful and defiant",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p1629_bolly",
+      "emotion": "pride",
+      "dialogue": "Now, even you have to run with me. Why do we have to run? I have got my car. We will sit and go. With pride. Hurry up. We don't have time. Okay madam Roma.",
+      "target_person": "Roma",
+      "target_gender": "female",
+      "cause_raw": "owning a car",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1630_bolly",
+      "emotion": "pride",
+      "dialogue": "These are the photographs which Gomes....wanted to give us. Put this on the slide. Congratulations, Agent 212, I am proud....of the job done by you as a CID person. Thank you very much, sir. This was my duty.",
+      "target_person": "Agent 212",
+      "target_gender": "male",
+      "cause_raw": "job performance",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

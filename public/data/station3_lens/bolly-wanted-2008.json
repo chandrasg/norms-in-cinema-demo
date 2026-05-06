@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "8909",
+    "title": "Wanted",
+    "year": "2008",
+    "industry": "bolly",
+    "country": "US",
+    "poster_path": "/njy7Pz7ZHZceO7lNfGIHKphY8Hd.jpg",
+    "overview": "Doormat Wesley Gibson is an office worker whose life is going nowhere. He meets an attractive woman named Fox and discovers that his recently murdered father - whom Wesley never knew - belonged to the Fraternity, a secret society of assassins which takes its orders from Fate itself. Fox and Sloan, the Fraternity's leader, teach Wesley, through intense training, to tap into dormant powers and hone his innate killing skills. Though he enjoys his newfound abilities, he begins to suspect that there is more to the Fraternity than meets the eye."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2562_bolly",
+      "emotion": "pride",
+      "dialogue": "who is your real son my son is mine I proud of him what a father needs more than it but this happiness, a  police man can feel it",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's achievements",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2563_bolly",
+      "emotion": "pride",
+      "dialogue": "man lives as he wants. fighting for his duty with bravery its the right path.. I proud to say  police officer to you your life aim  should be finish the crime You're equal to  whole army..he's here.. whenever he cross from here I'll tell you",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "bravery and duty as a police officer",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2564_bolly",
+      "emotion": "pride",
+      "dialogue": "who is your real son my son is mine I proud of him what a father needs more than it but this happiness, a  police man can feel it",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's achievements",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2565_bolly",
+      "emotion": "pride",
+      "dialogue": "man lives as he wants. fighting for his duty with bravery its the right path.. I proud to say  police officer to you your life aim  should be finish the crime You're equal to  whole army..he's here.. whenever he cross from here I'll tell you",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "bravery and duty as a police officer",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

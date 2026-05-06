@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "118628",
+    "title": "English Vinglish",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ccEVR8sf18psGH5daio9y7OGu93.jpg",
+    "overview": "In the United States for the first time, an Indian housewife with a limited command of English turns Manhattan into her personal language school."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5232_bolly",
+      "emotion": "shame",
+      "dialogue": "The next 18 hours... this button is at your service You can...confidently , definitely, surely  absolutely  shamelessly press this button again and again See... magic!",
+      "target_person": "receiver of the button",
+      "target_gender": "unclear",
+      "cause_raw": "dependency on others",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2947_bolly",
+      "emotion": "pride",
+      "dialogue": "I  really miss him... selfish   fellow! I have to do everything on my own now Manu...I look at you and I feel so proud...to think of where we started... and where you are now! Remember our Hindi medium school? We  couldn't speak a  single word of  English...not a word!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "personal growth and success",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2948_bolly",
+      "emotion": "pride",
+      "dialogue": "Well Shashi...you don't 'return back', you just return...and you missed a few 'a's and 'the's...else you passed with distinction! Shashi aunty you were amazing! Yes... I'm so proud of you Do you want me to  help? Bring the other tray",
+      "target_person": "Shashi",
+      "target_gender": "female",
+      "cause_raw": "language proficiency",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

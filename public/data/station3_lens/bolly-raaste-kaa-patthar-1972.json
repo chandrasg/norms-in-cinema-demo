@@ -1,0 +1,149 @@
+{
+  "film": {
+    "id": "174061",
+    "title": "Raaste Kaa Patthar",
+    "year": "1972",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/eUeoj4iRdlOTfbgIeZEriBA2B5h.jpg",
+    "overview": "Bombay-based bachelor Jai Shankar Rai lets his superiors, as well as his boss, Ranjeet Choudhary, use his flat at night so that they can have their flings with women. He meets and fall in love with lovely but homeless Neeta Sinha, and even gets her a job at his firm. Hoping to propose to her after his promotion, he instead gets a shock when he finds out that she is soon to be his boss' wife. Remake of the Apartment with a couple of murders thrown in for good measure."
+  },
+  "totals": {
+    "shame": 9,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 9
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1534_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm telling you the truth, Doctor. I don't have any fault at... ...the noise at night -He is speaking the truth Don't scold him without reason. Go inside & do your work Why do call me as Bhabijit I feel very ashamed Now go insdide, I'll bring tea for you Wait, Bhabiji. I have some work with Doctor",
+      "target_person": "Bhabijit",
+      "target_gender": "male",
+      "cause_raw": "Being called by a feminine name",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1535_bolly",
+      "emotion": "shame",
+      "dialogue": "I want to sleep here Meet him. My bed. It's mine, but mostly used by others I have to sleep outside. The b******s don't even feel ashamed One who had discovered sleeping tablets may had to......struggle a lot like me What are you doingt Is the wall sickt You have broken......t5 stethoscopes already this way -When my heart breaks......you don't feel anything. You keep scolding me whenever......you get a chance. What else can you dot",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "not having personal space",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s1536_bolly",
+      "emotion": "shame",
+      "dialogue": "Sir, you have such a big house, still my flat... No house can be that big that you can live with full freedom......when you have your mother in that house Is your mother alive stillt - No Sir -You are lucky Mothers are the main object that come in the way of bachelor......son's freedom. - Shameful!! Write, Dear Sir -You are looking very smart today I was even smarter tO years ago. What's that stain in Ur face",
+      "target_person": "bachelor son",
+      "target_gender": "male",
+      "cause_raw": "living with mother",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1537_bolly",
+      "emotion": "shame",
+      "dialogue": "Where are you leaving fort Why do you ask me that when you already know the answert May be I have a great interest in getting ashamed, Tannu May be I wanted to know what is the depth of love I love you very much, Tannu",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "leaving his lover",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1538_bolly",
+      "emotion": "shame",
+      "dialogue": "r I have fallen for Tannu -Well Arun, I know that you... ...don't like Tannu's going for dancing & singing. Stop her You know that I can't scold her, as she is earning Why do you make me ashamed again & again despite knowing all See Arun, to live by wife's income is very shamless.  Your wife's wrists are more beautiful than your writing -Jay!",
+      "target_person": "Arun",
+      "target_gender": "male",
+      "cause_raw": "dependent on wife's income",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1539_bolly",
+      "emotion": "shame",
+      "dialogue": "Sir, I have taken 5 sleeping tablets. I'm feeling very sleepy I have got a leave after so much of effort Aren't you ashamed to do all these despite being a father......of five childrent - Had I felt ashamed I wouldn't have done it Please do something -OK, come soon and leave soon What are you looking att Take me to room no 41",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "irresponsible behavior despite being a father",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1540_bolly",
+      "emotion": "shame",
+      "dialogue": "What has happened to this girl- I think she has become senseless That I also can see. Aren't you ashamed to bring this girl...\"... here in this conditiont - Doctor - Shame on you, Jai\" There is nothing to be worried. I thought she has lost her senses due to drinking too much",
+      "target_person": "Jai",
+      "target_gender": "male",
+      "cause_raw": "bringing a girl in a bad condition",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1541_bolly",
+      "emotion": "shame",
+      "dialogue": "I see! But since when did you start talking like thist Don't forget that you are living by my income You are really shameless - But I was always so I am after all your husband. After all! That's why I come back to you after all",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "being financially dependent on wife",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1542_bolly",
+      "emotion": "shame",
+      "dialogue": "No, my lord, he is telling a lie He hasn't killed Tannu Tannu has committed suicide Don't make me ashamed in front of the court No one likes to see himself fallen in front of others listen to me, Arun. Your life is more valuable than ordinary... ...persons like Tannu and _ay. You are a great writer",
+      "target_person": "Arun",
+      "target_gender": "male",
+      "cause_raw": "Accused of a crime he didn't commit",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "p821_bolly",
+      "emotion": "pride",
+      "dialogue": "When will you learn to compromise with situation, Arun Not only with situation, I may have to compromise with life too. But whom will I tell about the pride that one feels......in living after breaking the principles. Who will understand this Tannu? I wish that I'll work for the whole day, and you sit comfortably at home But it goes the reverse way. I keep sitting at home",
+      "target_person": "Arun",
+      "target_gender": "male",
+      "cause_raw": "living without compromising principles",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

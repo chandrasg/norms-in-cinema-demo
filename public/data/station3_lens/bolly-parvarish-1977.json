@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "207377",
+    "title": "Parvarish",
+    "year": "1977",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/y4U7b3SCiKaSPTDHcjj5t48Uwt6.jpg",
+    "overview": "A policeman adopts the son of a bandit. A misunderstanding leads the officer's own biological son to believe he is the bandit's son and he takes up a secret life of crime; meanwhile, the adopted son becomes an officer of the law."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 3
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1306_bolly",
+      "emotion": "shame",
+      "dialogue": "Everybody in my family  is tall  . Which tall one are you talking  about? The one who wears the uniform like you Yes. Perhaps he feels  shy in talking  to you. So...You came over! Despite being a girl......you're yourself  discussing your marriage? Aren't you ashamed? I am. But what can I do? A girl  who has no parents...has to talk  about her marriage on her own You said the other day, didn't you, that you are like my father?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "discussing her own marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1307_bolly",
+      "emotion": "shame",
+      "dialogue": "You speak up, Mother. What's the truth? In the name of your husband, in the name of your real  son...tell me, who's your son? Amit or me? It's you! But I am ashamed to call you my son! I am ashamed of your misdeeds I am ashamed of the affection which made a decent person...out of a bandit's son, but couldn 't show you the right path",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "misdeeds and wrong path",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1308_bolly",
+      "emotion": "shame",
+      "dialogue": "In the name of your husband, in the name of your real  son...tell me, who's your son? Amit or me? It's you! But I am ashamed to call you my son! I am ashamed of your misdeeds I am ashamed of the affection which made a decent person...out of a bandit's son, but couldn 't show you the right path How could  I do this?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "misdeeds and wrong path",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1309_bolly",
+      "emotion": "shame",
+      "dialogue": "It's you! But I am ashamed to call you my son! I am ashamed of your misdeeds I am ashamed of the affection which made a decent person...out of a bandit's son, but couldn 't show you the right path How could  I do this? I continued to cheat myself  all my life?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "misdeeds and wrong path",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p697_bolly",
+      "emotion": "pride",
+      "dialogue": "Where will we take him? Let him stay here All right. You are right. He will stay here  itself Like termite, he will continue to weaken the   walls of this house......so that when there's even a  slight breeze......the pride of this  family will fall at my feet like   walls of sand Come out, or I'll shoot I didn't come out fearing your pistol",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p698_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes. - But are you getting the same...respect in society which a decent man commands? A person who bids goodbye to his mistakes...and wants to forget his past life, society pardons such a person Now see for  yourself. You   called me for the interview on  television...and tonight  itself, I am going to Patkar Hall...for a  qawwali function as the chief guest. It's a matter of pride for me I have found him! - Who? Our enemy... Mangal Singh",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "societal acceptance and respect",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

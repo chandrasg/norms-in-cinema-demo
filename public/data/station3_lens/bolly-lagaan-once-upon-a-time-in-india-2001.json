@@ -1,0 +1,128 @@
+{
+  "film": {
+    "id": "19666",
+    "title": "Lagaan: Once Upon a Time in India",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/yNX9lFRAFeNLNRIXdqZK9gYrYKa.jpg",
+    "overview": "The year is 1893 and India is under British occupation. In a small village, the tyrannical Captain Russell has imposed an unprecedented land tax on its citizens. Outraged, Bhuvan, a rebellious farmer, rallies the villagers to publicly oppose the tax. Russell offers a novel way to settle the dispute: he challenges Bhuvan and his men to a game of cricket, a sport completely foreign to India. If Bhuvan and his men can defeat Russell's team, the tax will be repealed."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 6
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3261_bolly",
+      "emotion": "shame",
+      "dialogue": "Look! An English girl is helping us to save our bodies and souls. And we sit sulking! Shame on us! By Allah's command, we must be with him. Come with me. Come on.",
+      "target_person": "Indian men",
+      "target_gender": "male",
+      "cause_raw": "Not taking initiative to save themselves",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3262_bolly",
+      "emotion": "shame",
+      "dialogue": "Now catch this. Look, Bhuvan...It's not just your honour at stake, it's the whole village. I'm ashamed of all the things I said the other day. I swear by God, I am with you in this effort. It's the word of a man of prayer.",
+      "target_person": "Bhuvan",
+      "target_gender": "male",
+      "cause_raw": "not standing up for the village",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3263_bolly",
+      "emotion": "shame",
+      "dialogue": "And for that, I will not bow before anyone till my last breath! Whether you support me or not, Kachra will play. Bhuvan, my son...Shame can't even enter eyes that are fully opened. I agree with Isar Bhai. What you said was right, Bhuvan. Kachra will play with us.",
+      "target_person": "Bhuvan",
+      "target_gender": "male",
+      "cause_raw": "standing up for an untouchable",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3264_bolly",
+      "emotion": "shame",
+      "dialogue": "30 in 18? How's that, umpire? Well done, Willis! What a shame! Well done. - Good thinking, sir. Well done. - Thank you very much. Run along. Your mother's waiting.",
+      "target_person": "Willis",
+      "target_gender": "male",
+      "cause_raw": "underperformance in a game",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3267_bolly",
+      "emotion": "shame",
+      "dialogue": "And for that, I will not bow before anyone till my last breath! Whether you support me or not, Kachra will play. Bhuvan, my son...Shame can't even enter eyes that are fully opened. I agree with Isar Bhai. What you said was right, Bhuvan. Kachra will play with us.",
+      "target_person": "Bhuvan",
+      "target_gender": "male",
+      "cause_raw": "standing up for a lower caste individual",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3268_bolly",
+      "emotion": "shame",
+      "dialogue": "30 in 18? How's that, umpire? Well done, Willis! What a shame! Well done. - Good thinking, sir. Well done. - Thank you very much. Run along. Your mother's waiting.",
+      "target_person": "Willis",
+      "target_gender": "male",
+      "cause_raw": "underperformance in a game",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1720_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes, sir. That'll be all. You may go. It was against British pride to withdraw from this wager. And so, Captain Russell was warned...If he won the game, he'd have a narrow escape. But if he lost, he'd have to pay the triple tax......of the entire province from his own pocket.",
+      "target_person": "Captain Russell",
+      "target_gender": "male",
+      "cause_raw": "not withdrawing from a wager",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1721_bolly",
+      "emotion": "pride",
+      "dialogue": "Only Bhura and Kachra are left after you. Father, play steady. Hit hard, Goli. - Do us proud. Don't scare him, idiots! Just stay there. Steady, Goli.",
+      "target_person": "Goli",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1723_bolly",
+      "emotion": "pride",
+      "dialogue": "Only Bhura and Kachra are left after you. Father, play steady. Hit hard, Goli. - Do us proud. Don't scare him, idiots! Just stay there. Steady, Goli.",
+      "target_person": "Goli",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

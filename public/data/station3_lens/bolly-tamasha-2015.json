@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "339274",
+    "title": "Tamasha",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8Ktf15qGVFYQ6CdBtBgCDM96UMC.jpg",
+    "overview": "Meeting while on vacation, Ved and Tara sense a connection but vow to keep their real identities a secret. Years later, their paths cross again."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4328_bolly",
+      "emotion": "shame",
+      "dialogue": "There's the flag of rebellion soaring high The Emperor feared......the Prince would fall in love Bring shame to his name Helen belonged to Troy The undefeatable Raavan",
+      "target_person": "Prince",
+      "target_gender": "male",
+      "cause_raw": "falling in love with someone inappropriate",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4329_bolly",
+      "emotion": "shame",
+      "dialogue": "No, no Hold back? In Corsica? What to do? Shame is a woman's wealth I won't...What?...be a rascal Move. Don't hold back. I'll be good",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "not maintaining modesty",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4330_bolly",
+      "emotion": "shame",
+      "dialogue": "You wasted a year at home You're getting admission now thanks to my donation You should be grateful. Work harder out of shame But what interests you? Sitting under trees, telling stories at 10- rupees an hour",
+      "target_person": "student",
+      "target_gender": "unclear",
+      "cause_raw": "wasting time and not focusing on studies",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2377_bolly",
+      "emotion": "pride",
+      "dialogue": "Torturing myself They all mock me because of you Me? Who strutted about proudly What next? The usual The same old story. Ivlajnu rips off his clothes",
+      "target_person": "Ivlajnu",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2378_bolly",
+      "emotion": "pride",
+      "dialogue": "Sorry, Papa - No, son, my donation You realise, that's enough I am proud of you my son...I know you'll do well in college All the best...The flowers in your hair have robbed the very life from me Your every move has ensnared me",
+      "target_person": "Papa",
+      "target_gender": "male",
+      "cause_raw": "son's college admission",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2379_bolly",
+      "emotion": "pride",
+      "dialogue": "You're somewhere in the middle The middle-man Yes, I'm mediocre You're so proud to be mediocre Can I say something? I don't think you're ordinary When I'm with you I feel special",
+      "target_person": "middle-man",
+      "target_gender": "male",
+      "cause_raw": "being mediocre",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "film": {
+    "id": "8428",
+    "title": "Pump Up the Volume",
+    "year": "1990",
+    "industry": "holly",
+    "country": "CA|US",
+    "poster_path": "/s1SyKrARJG2R7FyS4zkNdaekLAW.jpg",
+    "overview": "Mark Hunter, a lonely high school student, uses his shortwave radio to moonlight as the popular pirate DJ \"Hard Harry.\" When his show gets blamed for a teen committing suicide, the students clash with high school faculty and the authorities."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS643_holly",
+      "emotion": "shame",
+      "dialogue": "That's the way I see it. Sue me.  Now, they're saying I shouldn't think stuff like this.  They're saying that something is wrong with me... that I should be ashamed.  that I should be ashamed.  Well... I'm sick of being ashamed.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "expressing unpopular opinions",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS644_holly",
+      "emotion": "shame",
+      "dialogue": "Now, they're saying I shouldn't think stuff like this.  They're saying that something is wrong with me... that I should be ashamed.  that I should be ashamed.  Well... I'm sick of being ashamed.  I'm sick of being ashamed.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "having unconventional thoughts",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS645_holly",
+      "emotion": "shame",
+      "dialogue": "They're saying that something is wrong with me... that I should be ashamed.  that I should be ashamed.  Well... I'm sick of being ashamed.  I'm sick of being ashamed.  I mean, aren't you?",
+      "target_person": "Unnamed Character",
+      "target_gender": "unclear",
+      "cause_raw": "self-shaming",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS646_holly",
+      "emotion": "shame",
+      "dialogue": "that I should be ashamed.  Well... I'm sick of being ashamed.  I'm sick of being ashamed.  I mean, aren't you?  Sick to death.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "feeling constant shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS647_holly",
+      "emotion": "shame",
+      "dialogue": "I mean, aren't you?  Sick to death.  I don't mind being dejected and rejected... but I'm not going to be ashamed about it.  but I'm not going to be ashamed about it.  Hallelujah.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "being dejected and rejected",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS648_holly",
+      "emotion": "shame",
+      "dialogue": "Sick to death.  I don't mind being dejected and rejected... but I'm not going to be ashamed about it.  but I'm not going to be ashamed about it.  Hallelujah.  At least pain is real.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "feeling dejected and rejected",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS649_holly",
+      "emotion": "shame",
+      "dialogue": "what you told me here in this letter?  I think they're ready to handle it.  I'm not ashamed.  So, tell us what happened.  This guy I knew, he invited me up to the ridge... and, well, I wasn't really sure why... but I was really happy, because he's pretty cool.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "not explicit",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WP1304_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, God.  He sounds like a chronic masturbator.  He prides himself on it.  See? I have to take care of it.  Or else I'm going to explode.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "being a chronic masturbator",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

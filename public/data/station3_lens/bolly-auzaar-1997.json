@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "161237",
+    "title": "Auzaar",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6lchKwXaCNNzOr0sWorkww3yIZq.jpg",
+    "overview": "Suraj, who is a police officer, discovers that Yash, his friend's father, runs an illegal business. He must now convince Yash to make his father mend his ways or face criticism from his superiors for not confronting him."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p100_bolly",
+      "emotion": "pride",
+      "dialogue": "No father, I don't need your money. Son, my entire wealth is for you. All the sons of the world are proud of their father's wealth...and you hate your father's income? I hate the income which has been earned in a wrong manner. The cars are ready.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "father's income earned in a wrong manner",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p101_bolly",
+      "emotion": "pride",
+      "dialogue": "You are taking undue advantage of your strength? You call yourself a man? You pride your manhood, isn't it? - Yash, no! - Sir, forgive me! What have you done? You have killed your right hand man?",
+      "target_person": "Yash",
+      "target_gender": "male",
+      "cause_raw": "strength",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p102_bolly",
+      "emotion": "pride",
+      "dialogue": "I am here! Didn't I tell you that Yash is my shadow?. The strength which you prided the most...has been shattered! Turn around! Prathna, go home.",
+      "target_person": "Yash",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

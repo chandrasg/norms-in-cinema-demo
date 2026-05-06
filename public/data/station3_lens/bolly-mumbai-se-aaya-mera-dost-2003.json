@@ -1,0 +1,133 @@
+{
+  "film": {
+    "id": "451920",
+    "title": "Mumbai Se Aaya Mera Dost",
+    "year": "2003",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/bxzY3LHUxhq3RRswZO9EF3J2EH2.jpg",
+    "overview": "A man's (Abhishek Bachchan) innocent gift to his grandfather sparks a power struggle in a village that recently received electricity."
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 3
+    },
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 7,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3684_bolly",
+      "emotion": "shame",
+      "dialogue": "And all this is happening because of Kanji's devilish box! I feel scared of lightning, Raja God forbid ! How shameless! The mouth they should be chewing things with. . . they're putting to such wrong use! - The shameless ones are going to rot!",
+      "target_person": "Kanji and Raja",
+      "target_gender": "male",
+      "cause_raw": "Misuse of power or resources",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3685_bolly",
+      "emotion": "shame",
+      "dialogue": "God forbid ! How shameless! The mouth they should be chewing things with. . . they're putting to such wrong use! - The shameless ones are going to rot! The worms will get them! - Kanji. . . is this what happens in your city? Is this what your employer does?",
+      "target_person": "Kanji",
+      "target_gender": "male",
+      "cause_raw": "Employer's immoral actions",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3686_bolly",
+      "emotion": "shame",
+      "dialogue": "Maybe I was away at the well to fetch water then Did you go to fetch water. . . of were you out to heap shame on our reputation? Speak up. . . who were you with? - I was with Parvati, brother You were with Kanji !",
+      "target_person": "female character",
+      "target_gender": "female",
+      "cause_raw": "being with a man alone",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3687_bolly",
+      "emotion": "shame",
+      "dialogue": "And only the lion is the king of the jungle! Get out! Go away from here! Get going ! What behaviour is that? Aren't you ashamed to do that to an elderly man? You talk of shame? Where was your sense of shame when they came and beat up my grandfather?",
+      "target_person": "elderly man",
+      "target_gender": "male",
+      "cause_raw": "disrespectful behavior towards elders",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3688_bolly",
+      "emotion": "shame",
+      "dialogue": "Get out! Go away from here! Get going ! What behaviour is that? Aren't you ashamed to do that to an elderly man? You talk of shame? Where was your sense of shame when they came and beat up my grandfather? You talk of shame, you cowards!",
+      "target_person": "elderly man",
+      "target_gender": "male",
+      "cause_raw": "mistreating an elderly person",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3689_bolly",
+      "emotion": "shame",
+      "dialogue": "What behaviour is that? Aren't you ashamed to do that to an elderly man? You talk of shame? Where was your sense of shame when they came and beat up my grandfather? You talk of shame, you cowards! Kanji, listen to me. . . - Get out! Get lost!",
+      "target_person": "Kanji",
+      "target_gender": "male",
+      "cause_raw": "Disrespecting an elderly man",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3690_bolly",
+      "emotion": "shame",
+      "dialogue": "You talk of shame? Where was your sense of shame when they came and beat up my grandfather? You talk of shame, you cowards! Kanji, listen to me. . . - Get out! Get lost! Kanji wasn't at home, Master. So we beat up the old man",
+      "target_person": "Kanji's grandfather",
+      "target_gender": "male",
+      "cause_raw": "physical assault",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s3691_bolly",
+      "emotion": "shame",
+      "dialogue": "Kanji, how is your grandpa now? We've brought some fruits for him We're terribly ashamed, Kanji. We have made a mistake We were so immersed in the TV, we couldn't see anything else Please forgive us",
+      "target_person": "Kanji",
+      "target_gender": "male",
+      "cause_raw": "Ignoring a sick family member",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1954_bolly",
+      "emotion": "pride",
+      "dialogue": "My son has grown so much. - Yes, I've grown so much You've grown old too, grandpa. Your beard is gray! My heart was swelling with pride when I saw you receiving the award on TV God is kind TB. . . grandpa? - You talk any nonsense",
+      "target_person": "grandpa",
+      "target_gender": "male",
+      "cause_raw": "grandson's achievement",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

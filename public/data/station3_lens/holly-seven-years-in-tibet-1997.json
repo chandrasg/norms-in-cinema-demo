@@ -1,0 +1,106 @@
+{
+  "film": {
+    "id": "978",
+    "title": "Seven Years in Tibet",
+    "year": "1997",
+    "industry": "holly",
+    "country": "US|FR",
+    "poster_path": "/5euQXAgJ34TdUFl1t3O6Jw2lJAs.jpg",
+    "overview": "Austrian mountaineer Heinrich Harrer journeys to the Himalayas without his family to head an expedition in 1939. But when World War II breaks out, the arrogant Harrer falls into Allied forces' hands as a prisoner of war. He escapes with a fellow detainee and makes his way to Lhasa, Tibet, where he meets the 14-year-old Dalai Lama, whose friendship ultimately transforms his outlook on life."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 3
+    },
+    {
+      "label": "Sports Victory",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS673_holly",
+      "emotion": "shame",
+      "dialogue": "that two years in prison camp is roughly equivalent to four years of marriage.  And I'm glad to be free of them both.  I'm not going back either, not until this shameful war is over.  - And where are you headed? - Tibet.  Then on to China, see if I can find some work there.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "avoiding war",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS674_holly",
+      "emotion": "shame",
+      "dialogue": "Echoes of the aggressions of my own country...  the will to overpower weaker peoples...  bring shame to me.  I shudder to recall how once long ago I embraced the same beliefs...  how at one time I was, in fact...",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "embracing beliefs of overpowering weaker peoples",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS675_holly",
+      "emotion": "shame",
+      "dialogue": "To return a gift is unforgivable.  A man who betrays his culture should not preach about its customs.  There was a time I would have wished you dead... but your shame will be your torture.  but your shame will be your torture.  And your torture will be your life.",
+      "target_person": "Man",
+      "target_gender": "male",
+      "cause_raw": "betraying his culture and returning a gift",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS676_holly",
+      "emotion": "shame",
+      "dialogue": "A man who betrays his culture should not preach about its customs.  There was a time I would have wished you dead... but your shame will be your torture.  but your shame will be your torture.  And your torture will be your life.  I wish it to be long.",
+      "target_person": "Man",
+      "target_gender": "male",
+      "cause_raw": "betraying his own culture",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WP1354_holly",
+      "emotion": "pride",
+      "dialogue": "we are honored to have such a great German hero on the team.  Thank you, but I'm Austrian.  Yes, but I'm sure that as a distinguished member... of the National Socialist Party, you would be proud to plant... our country's flag on the summit of Nanga Parbat when you reach it.  our country's flag on the summit of Nanga Parbat when you reach it.  Hans Lobenhoffer.",
+      "target_person": "Hans Lobenhoffer",
+      "target_gender": "male",
+      "cause_raw": "planting country's flag on the summit of Nanga Parbat",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1355_holly",
+      "emotion": "pride",
+      "dialogue": "Eleven climbers were killed in storms and avalanches.  By now, the conquest of Nanga Parbat is a national obsession...  a matter of German pride.  July 29, 1939.  We have already made Camp Four at 22,000 feet.",
+      "target_person": "German nation",
+      "target_gender": "unclear",
+      "cause_raw": "conquest of Nanga Parbat",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1356_holly",
+      "emotion": "pride",
+      "dialogue": "And who is Jack the Ripper?  You can tell me many things.  I'm proud to be of service, Your Holiness.  What is the problem?  Worms.",
+      "target_person": "Your Holiness",
+      "target_gender": "male",
+      "cause_raw": "being of service",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

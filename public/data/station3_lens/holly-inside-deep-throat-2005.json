@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "12228",
+    "title": "Inside Deep Throat",
+    "year": "2005",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/iy96Ud1jpnjOEYiHh2XMooD1PfG.jpg",
+    "overview": "In 1972, a seemingly typical shoestring budget pornographic film was made in a Florida hotel: \"Deep Throat,\" starring Linda Lovelace. This film would surpass the wildest expectation of everyone involved to become one of the most successful independent films of all time. It caught the public imagination which met the spirit of the times, even as the self-appointed guardians of public morality struggled to suppress it, and created, for a brief moment, a possible future where sexuality in film had a bold artistic potential. This film covers the story of the making of this controversial film, its stunning success, its hysterical opposition along with its dark side of mob influence and allegations of the on set mistreatment of the film's star."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS538_holly",
+      "emotion": "shame",
+      "dialogue": "\"Hey, instead of discussing not doing it,  let's do it and don't even discuss it.\"  There's nothing to be ashamed of.  [siren blaring]  (Hopper) But there was plenty to be afraid of.",
+      "target_person": "Hopper",
+      "target_gender": "male",
+      "cause_raw": "not taking action",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS539_holly",
+      "emotion": "shame",
+      "dialogue": "that sex is a beautiful thing,  the human body is a beautiful thing,  and you really shouldn't be ashamed of it.  (Hopper) Securing financial backing from partners  with underworld connections,",
+      "target_person": "Hopper",
+      "target_gender": "male",
+      "cause_raw": "feeling ashamed of the human body and sex",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS540_holly",
+      "emotion": "shame",
+      "dialogue": "that divides us as never before.  (Hopper) Deep Throat was less about the joys of oral sex  than it was about the freedom to speak out against shame  and hypocrisy.  (reporter *1) The FCC has fined 169 stations to pay... (reporter *2) Congress is also cracking down... (reporter *3) Three Supreme Court justices",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1148_holly",
+      "emotion": "pride",
+      "dialogue": "(Lindsay) Um, that's Mom at her desk.  Uh, she was the manager of the mailroom.  She was proud of her new desk.  Um... They fired her when they found out about LL.  They fired her when they found out about LL.",
+      "target_person": "Mom",
+      "target_gender": "female",
+      "cause_raw": "her new desk",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

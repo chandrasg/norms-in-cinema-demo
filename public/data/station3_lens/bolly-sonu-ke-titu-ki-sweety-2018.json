@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "498598",
+    "title": "Sonu Ke Titu Ki Sweety",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "GE|IN",
+    "poster_path": "/1nsVHEVKOag8syzGtqnlYlbMQdh.jpg",
+    "overview": "Titu is going to marry a perfect woman named Sweety. Titu's best-friend Sonu doubts Sweety's character and tries to break the marriage while Sweety tries to do opposite and which leads to war between Bromance and Romace."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4230_bolly",
+      "emotion": "shame",
+      "dialogue": "I didn't want to go that way, but let's go there as well. 'Scoundrels, no one at the police station could find my uniform?' 'Shame on you!' 'Sir, you are the one who is naked.' 'Why should we feel ashamed?'",
+      "target_person": "police officer",
+      "target_gender": "male",
+      "cause_raw": "losing his uniform",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4231_bolly",
+      "emotion": "shame",
+      "dialogue": "'Shame on you!' 'Sir, you are the one who is naked.' 'Why should we feel ashamed?' 'Bloodshot eyes and an officer...'He means... - Please. I'm glad I don't understand.",
+      "target_person": "officer",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4232_bolly",
+      "emotion": "shame",
+      "dialogue": "Ma and grandma. You mean Ma and grandma will have to stand in the registry queue? If they have to stand in the queue when we have uncle Lalu....then it's a shame, right, uncle Lalu? The loan will get cleared on Monday, We will register it on Wednesday.",
+      "target_person": "Uncle Lalu",
+      "target_gender": "male",
+      "cause_raw": "not using his influence to help family",
+      "theme_label": "Poverty"
+    }
+  ]
+}

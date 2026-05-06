@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "161205",
+    "title": "Shaadi Karke Phas Gaya Yaar",
+    "year": "2006",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/wO7lSHuQxkeYpvEMJwY2oIBnc1c.jpg",
+    "overview": "Ayaan tricks a model into marrying him, when she leaves her diary in his family's garage, allowing him to follow her around."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4127_bolly",
+      "emotion": "shame",
+      "dialogue": "My true colours? What have I done? You are the one who is drunk, Ahana You stole my diary Let's go upstairs, Ahana. - Why? Are you ashamed? Are you ashamed in public...? - One second Please come forward. Please. - Ahan, what are you doing?",
+      "target_person": "Ahana",
+      "target_gender": "female",
+      "cause_raw": "Public humiliation/Drunk behavior",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4128_bolly",
+      "emotion": "shame",
+      "dialogue": "You stole my diary Let's go upstairs, Ahana. - Why? Are you ashamed? Are you ashamed in public...? - One second Please come forward. Please. - Ahan, what are you doing? Speak now. - You are a liar! A cheat, a fraud",
+      "target_person": "Ahana",
+      "target_gender": "female",
+      "cause_raw": "dishonesty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s4129_bolly",
+      "emotion": "shame",
+      "dialogue": "Get out! - Come, nobody understands you here Let alone here, no one can understand you folks anywhere in India Let's go. Aren't you ashamed? C'mon! - My baby! My baby...\"My baby's cries...\"\"awakened...\"\"the mother within me\" When my heart was pierced...\"I realised...\"\"the anguish of others\"",
+      "target_person": "character being evicted",
+      "target_gender": "unclear",
+      "cause_raw": "not being understood or accepted",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4130_bolly",
+      "emotion": "shame",
+      "dialogue": "And you... how could you take my silence for my weakness? But I'm not shutting up today! It's a question of my daughter's life Are you a mother? You are destroying your daughter's marriage...with your own hands! You ought to be ashamed Get this clear It's all over between you and me. Finished!",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "ruining her daughter's marriage",
+      "theme_label": "Causing Harm"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "306377",
+    "title": "Ek Tha Raja",
+    "year": "1996",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/lCQddeuBl0FMjxo8AGUEW3AIBKa.jpg",
+    "overview": "When Lalchand is released from prison, he finds out that his son Jay has been adopted by the Commissioner of Police. However, his other son Raj has been assigned to kill him."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 3,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2928_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't pamper him so much....that he defames you one day in the future. He will defame us? He is the one who will make us proud one day! He is our future. Anjana, he is Dogra's future.",
+      "target_person": "Anjana",
+      "target_gender": "female",
+      "cause_raw": "future achievements of her son",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2929_bolly",
+      "emotion": "pride",
+      "dialogue": "How does it feel, after being dethroned? The king always remains a king, even after being dethroned. Good that your pride is still intact..Keep it that way, because I will break it. I have still not forgotten my father's corollary. I will wait for the day....when the doors of this jail will open to set you free.",
+      "target_person": "<NA",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2930_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't be so hard headed, daughter-in-law. Did he give up anything? Did he change his path? Did he give up his pride? No. No. He is waiting for the day to get released from the jail....and take revenge against his enemies. And one day he will end his life....with the double-edged sword of enmity.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "revenge against enemies",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p2931_bolly",
+      "emotion": "pride",
+      "dialogue": "Just look at me. Hey! Beautiful and good looking girl. Don't feel proud of your youthfulness. Oh! Dear. Don't lit fire in water. Hey! Beautiful and good looking girl.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "youthfulness",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2932_bolly",
+      "emotion": "pride",
+      "dialogue": "Oh! Dear. Don't lit fire in water. Hey! Beautiful and good looking girl. Don't feel proud of your youthfulness. Oh! Dear. Don't lit fire in water. The night has passed and don't prolong the matter.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

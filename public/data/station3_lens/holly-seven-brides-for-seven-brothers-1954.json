@@ -1,0 +1,78 @@
+{
+  "film": {
+    "id": "16563",
+    "title": "Seven Brides for Seven Brothers",
+    "year": "1954",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/sH7dd9x4hyiC047gfp0XxKiTOss.jpg",
+    "overview": "In 1850 Oregon, when a backwoodsman brings a wife home to his farm, his six brothers decide that they want to get married too."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1157_holly",
+      "emotion": "shame",
+      "dialogue": "You're gonna eat and sleep in the barn with the rest of the livestock.  Now get out of here.  I'm ashamed of you.  Go ahead, boys. Go on.  Now, Milly... You, too.",
+      "target_person": "Milly",
+      "target_gender": "female",
+      "cause_raw": "unknown reason",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS1158_holly",
+      "emotion": "shame",
+      "dialogue": "You're my eldest brother.  I've always looked up to you, tried to ape you.  But today, I'm ashamed for you.  Now, I know you can lick me, lick the tar out of me,  But I wouldn't hold myself no kind of man unless I showed you how I felt.",
+      "target_person": "Eldest brother",
+      "target_gender": "male",
+      "cause_raw": "disappointing younger sibling",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP2153_holly",
+      "emotion": "pride",
+      "dialogue": "I've got to be home tonight to tend to my stock.  It'll be another 5 months before I get down again with my grain.  You going to keep me waiting all that 5 months just for your pride?  I'd have to finish my chores.  I knew it the minute I set eyes on you,",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2154_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, I soaked it in lye.  Took off the dirt all right, but dang nearly took off the nail with it.  Oh, I'm so proud of you... all of you.  Just remember one thing... mind your manners and be real gentlefolk.  And no fighting, no matter what happens.",
+      "target_person": "speaker 2",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2155_holly",
+      "emotion": "pride",
+      "dialogue": "Trick?  Why, you lived with Milly as man and wife, but you don't know nothing about her.  She's got pride and she's spunky.  Why, she'd never bring herself to ask you back.  She'd be wasting her breath.",
+      "target_person": "Milly",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "23127",
+    "title": "The Haunted World of El Superbeasto",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US|KR|CA",
+    "poster_path": "/obOr6ir0UlLGqln6HVMa2My9ENs.jpg",
+    "overview": "The Haunted World of El Superbeasto is an animated comedy that also combines elements of a horror and thriller film. It is based upon the comic book series created by Rob Zombie that follows the character of El Superbeasto and his sexy sidekick sister, Suzi-X, voiced by Sheri Moon, as they confront an evil villain by the name of Dr. Satan."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2570_holly",
+      "emotion": "pride",
+      "dialogue": "I will be kicking some major a*s, buster!  Hurry, Otto, to the joystick!  Ladies and gentlemen, the Haunted Palace is proud to present--  Miss Velvet von Black.  # She's the girl you read about in girlie magazines #",
+      "target_person": "Haunted Palace",
+      "target_gender": "female",
+      "cause_raw": "presenting Miss Velvet von Black",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2571_holly",
+      "emotion": "pride",
+      "dialogue": "What kind of \"Fright Night\" b******t is this?  Oh, please refrain from speaking.  I know you must be proud of your beauty-school education,  but your constant use of profanity  is an assault on my Wellingtonian sensibilities.",
+      "target_person": "Speaker 2",
+      "target_gender": "female",
+      "cause_raw": "speaker's beauty-school education",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2572_holly",
+      "emotion": "pride",
+      "dialogue": "I'm trying to formulate an exciting plan of action.  Then he yanked my balls off.  That's great. Your family must be very proud.  I bet they gave you a party cake and everything.  Oh, no. Can't have any cake. I'm a diabetic.",
+      "target_person": "speaker 2",
+      "target_gender": "male",
+      "cause_raw": "formulating an exciting plan of action",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

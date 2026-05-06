@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "377985",
+    "title": "Fan",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ui7DYyQB4wsbBvom97KPNkldYWa.jpg",
+    "overview": "A man who bears a striking resemblance to a renowned movie star becomes an obsessive fan, but when his fierce love is spurned by the star, he decides to destroy the star's life and reputation."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "False Accusation",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5269_bolly",
+      "emotion": "shame",
+      "dialogue": "So please give me time Time, so that I can prove I've done nothing wrong I'd never do anything that would make you ashamed......to call me your star Whatever I am...I just want to say, I would never do anything like this Thank you",
+      "target_person": "star",
+      "target_gender": "unclear",
+      "cause_raw": "accused of wrongdoing",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s5270_bolly",
+      "emotion": "shame",
+      "dialogue": "That person is not me. Give me time I'll prove I've done nothing wrong I'd never do anything to make you ashamed calling me your star Aryan Khanna's press conference proves that he is innocent A criminal is impersonating him and committing crimes",
+      "target_person": "Aryan Khanna",
+      "target_gender": "male",
+      "cause_raw": "being accused of crimes he didn't commit",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s5271_bolly",
+      "emotion": "shame",
+      "dialogue": "Not a star. A monster What? They all think you're a star While you shamed Inder Vihar Listen to her I became a monster for her I don't want to know a monster",
+      "target_person": "Inder Vihar",
+      "target_gender": "male",
+      "cause_raw": "being a monster",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

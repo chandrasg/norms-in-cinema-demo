@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "304180",
+    "title": "Aasha",
+    "year": "1980",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/oGQi9ciGRoVOiDdTbxWCRFu6Xjy.jpg",
+    "overview": "A famous singer, Aasha, falls in love with a truck driver, who believes his wife is dead, but when Aasha discovers that his wife is alive, she struggles as to whether she should reveal this information, and possibly lose him."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s452_bolly",
+      "emotion": "shame",
+      "dialogue": "Should I open? Just a minute! Yes, now open your eyes. You shameless fellow! You seem to have a bundle of happiness which you distribute Not to everybody. Only to those who feel like they are one's own",
+      "target_person": "receiver of happiness",
+      "target_gender": "male",
+      "cause_raw": "being overly friendly or affectionate",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "p201_bolly",
+      "emotion": "pride",
+      "dialogue": "Wonder why these hi-fi people who stay in palaces,......are jealous of those who stay on the roads. Wonder, why these hi-fi people even walk on these roads! We are unknown, and they are famous. Why are they proud then We have given them the name, for which they are now proud. They also laugh but only inside their hearts. In a gathering,......they sing only in their heart. The difference between us......is great. We live and they run away. Wonder why?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p202_bolly",
+      "emotion": "pride",
+      "dialogue": "Wonder, why these hi-fi people even walk on these roads! We are unknown, and they are famous. Why are they proud then We have given them the name, for which they are now proud. They also laugh but only inside their hearts. In a gathering,......they sing only in their heart. The difference between us......is great. We live and they run away. Wonder why? Whether we are bad or good. we will remain as we are.",
+      "target_person": "unknown",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p203_bolly",
+      "emotion": "pride",
+      "dialogue": "My dreams have come true. But after getting everything, this house is still sad and quiet. -I beg your pardon? The pride of a house is its......mistress. - Oh, Mother! Her point is correct. Now you should settle down. Mother, if you say, should I look for a girl?",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "son's marriage",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p204_bolly",
+      "emotion": "pride",
+      "dialogue": "Then, I will not be disabled and dependent. I will be able to......bring up my daughter properly. I will not be able to repay you,.....but till my last breath, I will remain grateful to you. What are you doing? When we consider Deepu as our own, you......should also consider us your own. I will come later. I am in no mood to go to Chandigarh. Pannalal has got us....into trouble! -Trouble! It's a matter of pride! They have called you specially for a music conference. If you were with me, it would have been different.",
+      "target_person": "Pannalal",
+      "target_gender": "male",
+      "cause_raw": "Invited for a music conference",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

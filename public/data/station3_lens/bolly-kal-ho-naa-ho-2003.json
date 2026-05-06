@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "4254",
+    "title": "Kal Ho Naa Ho",
+    "year": "2003",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg",
+    "overview": "An uptight MBA student falls for the charismatic new neighbor who charms her troubled family – but he has a secret that forces him to push her away."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "s2929_bolly",
+      "emotion": "shame",
+      "dialogue": "Oh God! Interrupted our prayers? Insulted the goddess? Don't you have any shame? Don't you have any shame? Singing 'Come hither' 'Come hither' to Chaddaji?",
+      "target_person": "character interrupting prayers",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting religious practices and inappropriate behavior",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2930_bolly",
+      "emotion": "shame",
+      "dialogue": "Insulted the goddess? Don't you have any shame? Don't you have any shame? Singing 'Come hither' 'Come hither' to Chaddaji? Who's singing it to Chaddaji? We are singing 'Pritam, come hither'",
+      "target_person": "singer",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting religious sentiments",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p1519_bolly",
+      "emotion": "pride",
+      "dialogue": "The  colour of  gold...''the  colour of crystal...'' the sight leaves me  breathless... I'm amazed What trait is this...?''why're there so much of pride...?'' what secret is it...? How will I say it Happy in a moment and angry too...''she changes  colours every moment''",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1520_bolly",
+      "emotion": "pride",
+      "dialogue": "U... G-U-J-J-U G-U-J-J-U Gujju, Gujju... Rohit and Naina...''we are proud of you'' ''Gujju!'' It's okay.  Should we call Kunwari Kudi again? - Shut up!",
+      "target_person": "Rohit and Naina",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

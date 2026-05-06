@@ -1,0 +1,103 @@
+{
+  "film": {
+    "id": "319075",
+    "title": "Cobain: Montage of Heck",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/hQEkK4WnTtQXIp5QOnVTsK3xYRM.jpg",
+    "overview": "Hailed as one of the most innovative and intimate documentaries of all time, experience Kurt Cobain like never before in the only ever fully authorized portrait of the famed music icon. Academy Award nominated filmmaker Brett Morgen expertly blends Cobain's personal archive of art, music, never seen before movies, animation and revelatory interviews from his family and closest friends."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS84_holly",
+      "emotion": "shame",
+      "dialogue": "and shouldn't cause any trouble.  I mean, he belittled and ridiculed Kurt.  And Kurt would be ashamed.  I mean, it really hurt him to be embarrassed.  Then, I don't know.",
+      "target_person": "Kurt",
+      "target_gender": "male",
+      "cause_raw": "being belittled and ridiculed",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS85_holly",
+      "emotion": "shame",
+      "dialogue": "Floyd breathes hard, I hear a zip  Pee-pee pressed against my lips  I was shamed  I was shamed  I was shamed",
+      "target_person": "Floyd",
+      "target_gender": "male",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WS86_holly",
+      "emotion": "shame",
+      "dialogue": "Pee-pee pressed against my lips  I was shamed  I was shamed  I was shamed  OK, thanks, everybody, for coming.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WS87_holly",
+      "emotion": "shame",
+      "dialogue": "I was shamed  I was shamed  I was shamed  OK, thanks, everybody, for coming.  When I met him, he was a handyman.",
+      "target_person": "handyman",
+      "target_gender": "male",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS88_holly",
+      "emotion": "shame",
+      "dialogue": "where he was addicted to also the needle p***k.  And he burst into tears.  And he... he was just ashamed.  One of the songs that actually, I really liked on In Utero,  but which you took off, was I Hate Myself and Want to Die.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "addiction",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "WS89_holly",
+      "emotion": "shame",
+      "dialogue": "I feel kind of happy right now.  Yeah, I do, too.  We're all sensitive to ridicule and shame.  But it seemed to me, having gone through his materials,  that he was hyper-sensitive,",
+      "target_person": "he",
+      "target_gender": "male",
+      "cause_raw": "being hyper-sensitive",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP132_holly",
+      "emotion": "pride",
+      "dialogue": "Wake me up with indecision  Help me trust your mighty wisdom  Yes, I eat cow, I am not proud  Just the fact that we were actually playing music live in a room,  it was amazing. It was, like, the most incredible thing I've ever done.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

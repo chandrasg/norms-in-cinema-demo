@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "618166",
+    "title": "Kotwal Saab",
+    "year": "1977",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/uqKwFgiXA48lgiOzW7X4QZ7mGOa.jpg",
+    "overview": ""
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3162_bolly",
+      "emotion": "shame",
+      "dialogue": "It's a sin to reveal her crime in front of girls like you. I'd still like to know. She's shameless. She had an illicit relation with her husband. So what? - What do you mean?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "having an illicit relationship",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3163_bolly",
+      "emotion": "shame",
+      "dialogue": "'Hurry up. Hurry up.' 'Leave the magazine here. I'll read it. Give it to me.' 'What a shame! You too?' 'I should have died before seeing all this.' Prabha! Where are you going?",
+      "target_person": "Prabha",
+      "target_gender": "female",
+      "cause_raw": "Reading a magazine implied inappropriate content)",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1652_bolly",
+      "emotion": "pride",
+      "dialogue": "Great, I get beaten up and you take the credit. This is the certificate of my honesty, Mrs. Prabha Bharat Prasad. It's a proud feeling for me that the most dishonest person of this city believed that I am an honest man.",
+      "target_person": "Mrs. Prabha Bharat Prasad",
+      "target_gender": "female",
+      "cause_raw": "being perceived as honest by a dishonest person",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

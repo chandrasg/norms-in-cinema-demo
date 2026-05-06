@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "243826",
+    "title": "Aadmi",
+    "year": "1968",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/qIGudeHpzNVKAIiktME7Z2OSjnb.jpg",
+    "overview": "Rajesh, is very insecure and possessive almost to the point of an obsession. He introduces Meena to his close and best friend, Dr. Shekhar, and soon gets formally engaged to Meena. Thereafter, Rajesh and Meena have an automobile accident, in which Rajesh becomes paralyzed and must be confined in a wheelchair. It is then that Rajesh finds out that Shekhar and Meena are having an affair, and the old murderous and possessive hatred, that he had managed to conceal, surfaces again - and this time will it will be Shekhar's turn."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3926_bolly",
+      "emotion": "shame",
+      "dialogue": "What? - Don't get angry I'll find my way. Thank you! - Get going then...You've come again! I've asked you not to come like this You have no shame! My sister knows about us The day my father comes to know he will kill me Don't worry. I had been to the forest to take blessings from a sage",
+      "target_person": "male character",
+      "target_gender": "male",
+      "cause_raw": "visiting female character without permission",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3927_bolly",
+      "emotion": "shame",
+      "dialogue": "She came to my room that night to seek my advice I have not betrayed you. I am not as cheap as you think Shame on you Rajesh! You are mean and cruel You doubted your friend. You do not deserve to be alive! We all are sorry for his death! Something was troubling him!",
+      "target_person": "Rajesh",
+      "target_gender": "male",
+      "cause_raw": "doubting his friend",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3928_bolly",
+      "emotion": "shame",
+      "dialogue": "Rajesh has sacrificed his life... - Death should have come to me I didn't allow you to tell him anything and I told him everything I am ashamed of myself. I killed him Get married to Aarti. Save yourself from gossip But Meena... - You wanted your friend happy...Now he is no more. But can't you do it for him?",
+      "target_person": "Rajesh's friend",
+      "target_gender": "male",
+      "cause_raw": "causing Rajesh's death",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

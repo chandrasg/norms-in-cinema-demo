@@ -1,0 +1,88 @@
+{
+  "film": {
+    "id": "60579",
+    "title": "Hey Ram",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/hHaq5QffND0x8dXEqjVPAmFlJv6.jpg",
+    "overview": "Saketh Ram's wife is raped and killed during direct action day riots in Calcutta. He is convinced that Mahatma Gandhi is responsible for all the problems happening in the country. He sets out to kill him."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2406_bolly",
+      "emotion": "shame",
+      "dialogue": "Father Serious. -That's it, isn't it? This is more serious. -Dead already? Shame on you! -Just read it out, will you? Your father Seshadri ill. Stop. Would like to see you married. Stop.",
+      "target_person": "Seshadri's son",
+      "target_gender": "male",
+      "cause_raw": "not being married",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2407_bolly",
+      "emotion": "shame",
+      "dialogue": "What? You! Help! Help! Aren't you ashamed? -No! What happened? -He saved my life! Come inside. Please come inside. -No. Do you have a telephone here?",
+      "target_person": "unknown",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2408_bolly",
+      "emotion": "shame",
+      "dialogue": "Mahatma says it's a sin to hide. Even covered, your blouse is pretty. Shame on you! He is speaking about speech and deeds What do you think of this talk? This one...There is always good behind what Mahatma says. Revenge is not going to solve the problem.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate comment",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2409_bolly",
+      "emotion": "shame",
+      "dialogue": "What Son-in-law? You made us worried by saying you are leaving Mythili,...We were shocked when we read your letter! Then our Rangappa showed us the telegram that you had received. There is nothing to be ashamed in serving Gandhi. You could have told me..This is Mr. Subash Goel, an industrialist from Bombay. Hello Mr. Saket Ram. You had your father-in-law very worried.",
+      "target_person": "Saket Ram",
+      "target_gender": "male",
+      "cause_raw": "hiding information about his activities",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "p1254_bolly",
+      "emotion": "pride",
+      "dialogue": "But you're a great writer. -Thank you. I wish he had heard you say that. He was so proud of this child. Come over here. The key to your grandfather's personal safe.",
+      "target_person": "he",
+      "target_gender": "male",
+      "cause_raw": "grandchild's writing skills",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

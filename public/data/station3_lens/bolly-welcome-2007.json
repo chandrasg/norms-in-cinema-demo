@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "20294",
+    "title": "Welcome",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fudxnXlTTBIDCkpR7XhlIgkNaUY.jpg",
+    "overview": "Two gangsters meet Rajiv, who belongs to a respectable family, and want to fix their sister's wedding with him. However, when Rajiv's uncle refuses to the match, a series of hilarious situations occur."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4568_bolly",
+      "emotion": "shame",
+      "dialogue": "No problem. Stupid! Dirty old creep. - How shameless! Listen to me..Ghungroo, whenever a girl slaps you....you can be sure that she belongs to a respectable family. Damn these half-naked guys!",
+      "target_person": "Ghungroo",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards women",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4569_bolly",
+      "emotion": "shame",
+      "dialogue": "But it is my responsibility to wake him. Remove his trousers! Strip him naked! -All right, boss. Yes, go on! There's no shame in getting naked in front of a doctor! Boss, he's already an immoral person. Even now he is doing like this.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "immoral behavior",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4570_bolly",
+      "emotion": "shame",
+      "dialogue": "lam fine. And you. Sagar, I am terribly restless. Your painting doesn't let me sleep! You may think I am shameless but I think I have fallen in love with you. If you don't believe it then listen to my heartbeats! ishika, I am also in the same condition.",
+      "target_person": "Ishika",
+      "target_gender": "female",
+      "cause_raw": "Expressing her love openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4571_bolly",
+      "emotion": "shame",
+      "dialogue": "Take it easy, aunt. - Ghungroo! - Take it easy. Take it easy. - Aunt’s here. Aren't you ashamed? Were you trying to cremate him without informing me? And then you pass signals? You are asking me to stay quiet?",
+      "target_person": "Ghungroo",
+      "target_gender": "male",
+      "cause_raw": "trying to cremate without informing",
+      "theme_label": "Nonconformity"
+    }
+  ]
+}

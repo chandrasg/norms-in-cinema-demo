@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "78189",
+    "title": "Hum Dono",
+    "year": "1961",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/x8Rs1RzsfkE3126YFD58CtbdePu.jpg",
+    "overview": "An Indian army captain must break bad news to a sick woman."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2483_bolly",
+      "emotion": "shame",
+      "dialogue": "Then tell Mita once that you were with a married woman for...l tell you to keep quiet. - You are yourself...Just keep quiet! Mita, when are you getting married? - In a few days. Don't you feel ashamed to stay with Anand without marrying him. Your husband should always keep well You should have good sons",
+      "target_person": "Mita",
+      "target_gender": "female",
+      "cause_raw": "living with a man without being married",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p1288_bolly",
+      "emotion": "pride",
+      "dialogue": "ls it in my name or yours? - It is in my name but you......can open it - No! Read what is written. - Dear Ruma and darling mother He is buttering... - The hot news is that your......Major is getting promotion. He has done such deeds......hearing which you will feel very proud. War is going to end soon. Your Major will soon land...''...in the house with his friend, who is a captain and...''...you will be astonished to see us-Astonished! The enemy is bombing here. We'll take position in these hills",
+      "target_person": "Ruma and mother",
+      "target_gender": "female",
+      "cause_raw": "Major's promotion and war achievements",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1289_bolly",
+      "emotion": "pride",
+      "dialogue": "Till todayyou were acting like me. Today, become the true......MajorVerma and accept Ruma. Give her love and life You are handsome and young but I am ugly and have become an......an old man in youth. You have wavered. These are not words of the brave Major Verma...of whom I was very proud of. But Anand, I can't take away Ruma's happiness for my......selfishness. My body is completely broken. But what about your soul, MajorVerma. Ruma keeps searching......for your soul in my eyes",
+      "target_person": "Major Verma",
+      "target_gender": "male",
+      "cause_raw": "bravery",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "619336",
+    "title": "Shaktiman",
+    "year": "1993",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/whL3PEHrO3fOOJPaiO1D20KTiCn.jpg",
+    "overview": ""
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1958_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you saying? Parvati, if sir has his own son, he'll not take care of his own son. You should be ashamed to say this. Forget all these things, Parvati. Just think about your son. No father likes a stranger's son more than his own.",
+      "target_person": "Parvati",
+      "target_gender": "female",
+      "cause_raw": "doubting a man's love for his own son",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1959_bolly",
+      "emotion": "shame",
+      "dialogue": "Not your father but that loafer's dad! His father has expired! it's written that father has expired. Come soon to the moon. Meet father. He is on the moon and you are on..Hey, fatso, are you feeling ashamed to say honeymoon? You have been saying it since childhood. Honeymoon! You keep on saying honeymoon and I will send him to Mumbai.",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "talking about honeymoon openly",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1960_bolly",
+      "emotion": "shame",
+      "dialogue": "it's not his fault. it's the fault of my actions. Are you not ashamed? You drink alcohol! Dad, Mr. Dharampal's son was getting married. I refused a lot. He forced me.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "drinking alcohol",
+      "theme_label": "Alcoholism"
+    }
+  ]
+}

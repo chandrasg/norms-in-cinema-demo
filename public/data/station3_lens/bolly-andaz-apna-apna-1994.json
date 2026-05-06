@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "58128",
+    "title": "Andaz Apna Apna",
+    "year": "1994",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/a0GV2V3yif2DbsMCSBrivvSHUWQ.jpg",
+    "overview": "Two slackers competing for the affections of an heiress inadvertently become her protectors from an evil criminal."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s105_bolly",
+      "emotion": "shame",
+      "dialogue": "Let's go...The rose fell off! Get it back for her, son. We're getting late. I'll get you another. What a shame! Had the rose fallen off from my wife's hand......I would have leapt after it! Shame on the youngsters of the day!",
+      "target_person": "young man",
+      "target_gender": "male",
+      "cause_raw": "not being chivalrous",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s106_bolly",
+      "emotion": "shame",
+      "dialogue": "What a shame! Had the rose fallen off from my wife's hand......I would have leapt after it! Shame on the youngsters of the day! - I'll get it., - Sit down. You'll take ages!",
+      "target_person": "youngsters",
+      "target_gender": "male",
+      "cause_raw": "lack of chivalry",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s107_bolly",
+      "emotion": "shame",
+      "dialogue": "That's too much! We were asking only for Rs.5 lakhs. And he felt that was too much, too! He should be ashamed! You've arranged for the money, haven't you? We have your bosses here. Talk to them.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "not able to provide demanded money",
+      "theme_label": "Poverty"
+    }
+  ]
+}

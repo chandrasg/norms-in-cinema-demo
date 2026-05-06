@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "97441",
+    "title": "How to Start a Revolution",
+    "year": "2012",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "/iLk7ohQlV18H6U8f4ibT2tB55Lg.jpg",
+    "overview": "HOW TO START A REVOLUTION is the remarkable untold story of Nobel Peace Prize nominee Gene Sharp, the world's leading expert on non-violent revolution. This new film (from first time director Ruaridh Arrow) reveals how Gene's work has given a new generation of revolutionary leaders the weapons needed to overthrow dictators. It shows how his 198 steps to non-violent regime change have inspired uprisings from Serbia to Ukraine and from Egypt to Syria and how his work has spread across the globe in an unstoppable wave of profound democratic change. How To Start A Revolution is the story of the power of people to change their world, the modern revolution and the man behind it all."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WS1515_holly",
+      "emotion": "shame",
+      "dialogue": "When Bob Helvey gave us the Gene Sharp's politics  of nonviolent action, we were quite amazed.  Partly I was ashamed that I didn't know about such a book before,  even if there was a translation of From Dictatorship to Democracy in Serbian,  but I had never seen it.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "lack of knowledge about a significant book",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2651_holly",
+      "emotion": "pride",
+      "dialogue": "His tactics of nonviolent resistance have been used  in revolutions from Serbia to Ukraine and Iran.  To be counted as a threat to a tyrant is a matter of pride, I would say.  It means we're effective. It means we're relevant.  This is the story of the power of people to change their world,",
+      "target_person": "the speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being a threat to a tyrant",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2652_holly",
+      "emotion": "pride",
+      "dialogue": "Let the people alone.  Give them the power to change their government if they want it changed.  To be counted as a threat to a tyrant is a matter of pride, I would say.  It means we're effective. It means we're relevant.  It means, out of this very small office, we produce work that threatens regimes,",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being a threat to a tyrant",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

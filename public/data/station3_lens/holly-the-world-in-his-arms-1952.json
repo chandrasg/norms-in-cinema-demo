@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "74436",
+    "title": "The World in His Arms",
+    "year": "1952",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/dxqGT4lJ3wolbNAASncbtphbL5g.jpg",
+    "overview": "A boisterous sea captain in the Pacific Coast, circa 1850, has a plan to buy Alaska from the Russians… if they don’t kill him first."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS205_holly",
+      "emotion": "shame",
+      "dialogue": "Those are the cows, the lady seals, coming in for their morning meal.  You better put a leash on this cow, Deacon. She's all for going ashore.  Louise, you naughty girl, I'm ashamed of you.  Ogeechuck, we better take her below, before we lose her.  We go!",
+      "target_person": "Louise",
+      "target_gender": "female",
+      "cause_raw": "disobedience",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WP425_holly",
+      "emotion": "pride",
+      "dialogue": "We'd be glad to have you aboard, William. Talk to my mate about it,  this is Deacon Greathouse from Nova Scotia.  Oh, I'm proud to know you, Sir, very proud.  You're gonna be proud to know him too. His name is Ogeechuck, Master Private.  William, some whiskey for the gentlemen.",
+      "target_person": "Deacon Greathouse",
+      "target_gender": "male",
+      "cause_raw": "meeting Ogeechuck",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP426_holly",
+      "emotion": "pride",
+      "dialogue": "this is Deacon Greathouse from Nova Scotia.  Oh, I'm proud to know you, Sir, very proud.  You're gonna be proud to know him too. His name is Ogeechuck, Master Private.  William, some whiskey for the gentlemen.  The Demijohn. - Yes.",
+      "target_person": "Deacon Greathouse",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP427_holly",
+      "emotion": "pride",
+      "dialogue": "Mr. Greathouse, the royal drapes from the Presidential Suite are missing.  Oh, thas quite understandable.  Cast your eyes on the pride of the Pribilofs.  An allusion sunset.  This is too much. Sir, I must bid you good evening.",
+      "target_person": "Mr. Greathouse",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP428_holly",
+      "emotion": "pride",
+      "dialogue": "on your way back to St. Petersburg.  That is, unless you would like to stay for my wedding.  Eustace, the Occidental is doubts off proud, the cake is great.  Oh thank you Sir, is no better than you deserve Captain.  But may I inquire, who is the lucky lady?",
+      "target_person": "Eustace",
+      "target_gender": "male",
+      "cause_raw": "making a great cake",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "19887",
+    "title": "Disco Dancer",
+    "year": "1982",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/3vc1MMLflENJ8sHwbHjzedT07Hv.jpg",
+    "overview": "Street singer Anil is humiliated and—with his mother—driven out of Bombay. He soon becomes an acclaimed performer but the enemies from his past plot to destroy his hard-earned career."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5056_bolly",
+      "emotion": "shame",
+      "dialogue": "The day I make it big, you'll be rolling in wealth. You've grown so big but want mother to feed you. Have you no shame? The food is tastier when you feed me. The day I make it big...That heartless city of ours will honor me.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "dependency on mother",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s5057_bolly",
+      "emotion": "shame",
+      "dialogue": "Out. - With whom were you? - With Jimmy. Have you no shame going around with our enemy? First of all why would I go with him if I felt shame? Secondly he's not Sam's enemy.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "associating with a perceived enemy",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s5058_bolly",
+      "emotion": "shame",
+      "dialogue": "- With whom were you? - With Jimmy. Have you no shame going around with our enemy? First of all why would I go with him if I felt shame? Secondly he's not Sam's enemy. He's a far superior disco dancer.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "associating with a perceived enemy",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p2847_bolly",
+      "emotion": "pride",
+      "dialogue": "You probably have a brain too. But the brain stinks of wealth. I am beautiful and proud of it. My brain stinks of wealth because my Dad is a millionaire. What are you? A roadside singer?",
+      "target_person": "character",
+      "target_gender": "female",
+      "cause_raw": "being beautiful and wealthy",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

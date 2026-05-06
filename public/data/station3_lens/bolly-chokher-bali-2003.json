@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "185357",
+    "title": "Chokher Bali",
+    "year": "2003",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/izErrnZhCWHOaDUjRnpbqW4gU63.jpg",
+    "overview": "A young woman is left to her own devices when her sickly husband dies. Based on the novel by Rabindranath Tagore."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s803_bolly",
+      "emotion": "shame",
+      "dialogue": "Believe me, no one besides God has helped me in this. I'm uneducated, don't know English, I am unskilled at house keeping. At first, all this was a cause of shame to me in our house. It was your love and encouragement that helped me set that shame aside. I grew used to you being my talisman.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "lack of education and domestic skills",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s804_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm uneducated, don't know English, I am unskilled at house keeping. At first, all this was a cause of shame to me in our house. It was your love and encouragement that helped me set that shame aside. I grew used to you being my talisman. I cannot share you with another.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "lack of education and skills",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s805_bolly",
+      "emotion": "shame",
+      "dialogue": "These three have eclipsed my real identity. Society does not see that a young woman, educated and a widow......is also flesh and blood. Today, I have no shame in acknowledging this fourth identity......spurred by the courage I see in you. The inept na.i. Ve Asha, who has retired to Kashi......can lay claim to your sympathy. I have forsaken the first two traits of widow and lady.",
+      "target_person": "young woman",
+      "target_gender": "female",
+      "cause_raw": "being a widow",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p408_bolly",
+      "emotion": "pride",
+      "dialogue": "I don't understand why I guard these......corpses of my emotions, like an angel of doom? Even though I'm the creator of these emotions and the letters......I am not ready to face this insult. The day that, on your own......you accept my letters with pride, courage and love......maybe that day, I shall start writing to you again. Till then......I release you from this endless state of......helplessness, anxiety and indecisiveness. Your Elixir of Life, Binodini.",
+      "target_person": "Binodini",
+      "target_gender": "female",
+      "cause_raw": "acceptance of her letters",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

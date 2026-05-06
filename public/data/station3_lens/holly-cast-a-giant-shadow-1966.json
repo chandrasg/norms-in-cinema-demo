@@ -1,0 +1,138 @@
+{
+  "film": {
+    "id": "8737",
+    "title": "Cast a Giant Shadow",
+    "year": "1966",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/s3IhCoMfbQSMuUCJvpKWKFuOMwY.jpg",
+    "overview": "An American Army officer is recruited by the yet to exist Israel to help them form an army. He is disturbed by this sudden appeal to his Jewish heritage. Each of Israel's Arab neighbors has vowed to invade the poorly prepared country as soon as partition is granted. He is made commander of the Israeli forces just before the war begins."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 3
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 3
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "female": 3,
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1029_holly",
+      "emotion": "shame",
+      "dialogue": "...that jumped out of one of my planes over Normandy?  He won the distinguished service medal?  Are you proud of that medal, and ashamed you might win the star of David?  Stand up and be counted, Mickey.  And there's a lot of us who'll stand up with you.",
+      "target_person": "Mickey",
+      "target_gender": "male",
+      "cause_raw": "fear of acknowledging Jewish heritage",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1030_holly",
+      "emotion": "shame",
+      "dialogue": "\"Stand up and be counted,\" the man said.  \"Grow up,\" is more like it.  I'm not fighting anymore because I'm ashamed of being a Jew.  I'm fighting because I'm stiff-necked and proud of it.  Next week, Asher. Next week in Jerusalem.",
+      "target_person": "Asher",
+      "target_gender": "male",
+      "cause_raw": "ashamed of his own identity",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP1954_holly",
+      "emotion": "pride",
+      "dialogue": "I happen to know a great deal about the business of killing... ...and they've been killed by experts. Somebody's got to help them fight back.  ...and they've been killed by experts. Somebody's got to help them fight back.  I guess I'm proud of you... ...but I'm so damn tired of being proud of you.  ...but I'm so damn tired of being proud of you.  Believe me, Emma, I tried to get out of it... ...but I couldn't turn this one down.",
+      "target_person": "Emma",
+      "target_gender": "female",
+      "cause_raw": "helping others fight back",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1955_holly",
+      "emotion": "pride",
+      "dialogue": "...and they've been killed by experts. Somebody's got to help them fight back.  I guess I'm proud of you... ...but I'm so damn tired of being proud of you.  ...but I'm so damn tired of being proud of you.  Believe me, Emma, I tried to get out of it... ...but I couldn't turn this one down.  ...but I couldn't turn this one down.",
+      "target_person": "Emma",
+      "target_gender": "female",
+      "cause_raw": "helping others fight back",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1956_holly",
+      "emotion": "pride",
+      "dialogue": "Why don't we get a divorce?  What?  I don't want a divorce, but a girl has to have some pride.  What are you talking about?  We haven't really had a marriage.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "maintaining self-respect in marriage",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP1957_holly",
+      "emotion": "pride",
+      "dialogue": "...that jumped out of one of my planes over Normandy?  He won the distinguished service medal?  Are you proud of that medal, and ashamed you might win the star of David?  Stand up and be counted, Mickey.  And there's a lot of us who'll stand up with you.",
+      "target_person": "Mickey",
+      "target_gender": "male",
+      "cause_raw": "winning the distinguished service medal",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1958_holly",
+      "emotion": "pride",
+      "dialogue": "...license in Panama, and the guns in Czechoslovakia.  It's a new kind of Foreign Legion.  Vince Ramondi, pride of Passaic, Asher Gonen, pride of Tel Aviv.  According to my flight plan, we're in Mexico City, so buenas noches.  Sorry, I might have dented your plane landing.",
+      "target_person": "Vince Ramondi and Asher Gonen",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1959_holly",
+      "emotion": "pride",
+      "dialogue": "Therefore, we members of the people's council assembled here... ...on the day of the termination of the British mandate... ...by virtue of our natural and historic right... ...and on the strength of the resolution of the United Nations General Assembly... ...do hereby declare the establishment of the State of Israel!  ...do hereby declare the establishment of the State of Israel!  \"The United States of America... \"...is proud to be the first nation to recognize the new State of Israel... \"...and welcomes you.\"  \"...and welcomes you.\"  Did you just hear that?",
+      "target_person": "United States of America",
+      "target_gender": "unclear",
+      "cause_raw": "recognizing the new State of Israel",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1960_holly",
+      "emotion": "pride",
+      "dialogue": "They didn't have a chance, so 960 of them committed suicide on top of that mountain.  That's right.  - And you guys are proud of it? - Of course!  What do you want?  An eloquent philosophical speech and then you all go and cut your throats?",
+      "target_person": "guys",
+      "target_gender": "male",
+      "cause_raw": "committing suicide",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1961_holly",
+      "emotion": "pride",
+      "dialogue": "\"Grow up,\" is more like it.  I'm not fighting anymore because I'm ashamed of being a Jew.  I'm fighting because I'm stiff-necked and proud of it.  Next week, Asher. Next week in Jerusalem.  Aluf Stone.",
+      "target_person": "Aluf Stone",
+      "target_gender": "male",
+      "cause_raw": "being a Jew",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

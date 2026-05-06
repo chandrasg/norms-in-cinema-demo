@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "51725",
+    "title": "Khuda Gawah",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "AF|IN",
+    "poster_path": "/uUvUFpWfGXlgOzXgkIYwqpchh0f.jpg",
+    "overview": "Baadshah Khan falls in love with Benazir, a member of a rival clan who has defeated him in a game of buzkashi. Benazir will not marry him unless he brings back the head of her father's killer, Habibullah, from India. He is successful, but he must return to India. He is then tragically separated from Benazir through a series of incidents that are only resolved years later with the arrival of his daughter, Menhdi, and his release from prison."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3098_bolly",
+      "emotion": "shame",
+      "dialogue": "- Which news? - News? What news? My dear father... Take care of your memory. - Weren't you feeling ashamed now? - That's the awful news, dear. - Which sent your mother in a dead faint. - Yes, true. - I don't understand one thing. - What?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "forgetting important information",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3099_bolly",
+      "emotion": "shame",
+      "dialogue": "- So I can't tell you. - You're lying again. Fooling me. You haven't vowed. You're silent with disgrace. - You're ashamed to speak out! - No! Don't say that, please. You've played fraud. You've done something treacherous! - For God's sake, hold your tongue! - To avail my mother......you got rid of my father!",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "lying and deceit",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3100_bolly",
+      "emotion": "shame",
+      "dialogue": "Not love, but into enmity! You don't deserve forgiveness. You'll go to hell! Do you hear? To hell! Don't utter such words, which will make you ashamed to take back! - Don't let his sacrifice go in vain. - I won't hear another word! You'll have to! Every single word of it!",
+      "target_person": "character being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "betrayal",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3101_bolly",
+      "emotion": "shame",
+      "dialogue": "I've committed a terrible crime. Oh Lord! This is a great crime I've done. A great sin. Why are you not acknowledging me? Cos, I may be ashamed of your deeds? Father! The way you have sacrificed......even the angels can't do that. I'm not ashamed of you. But I feel proud! Proud.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "committing a crime",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s3102_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you not acknowledging me? Cos, I may be ashamed of your deeds? Father! The way you have sacrificed......even the angels can't do that. I'm not ashamed of you. But I feel proud! Proud. - My dear child! - Father. - Dear daughter. - My darling daughter... - Father.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "father's deeds",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1612_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm not a selfish father. I'll  die but I'll  not have my daughter humiliated. She's leading a proud life as a daughter of Khuda Bux. Amen! At the moment, it's only me who's ruined. if my secret's out, we'll all be ruined, my dear.",
+      "target_person": "Khuda Bux",
+      "target_gender": "male",
+      "cause_raw": "daughter's dignified life",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1613_bolly",
+      "emotion": "pride",
+      "dialogue": "Why are you not acknowledging me? Cos, I may be ashamed of your deeds? Father! The way you have sacrificed......even the angels can't do that. I'm not ashamed of you. But I feel proud! Proud. - My dear child! - Father. - Dear daughter. - My darling daughter... - Father.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "father's sacrifices",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

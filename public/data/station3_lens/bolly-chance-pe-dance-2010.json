@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "30695",
+    "title": "Chance Pe Dance",
+    "year": "2010",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ypnLRUuBiu6VxQAiYeBvmLrR4fL.jpg",
+    "overview": "Sameer is the archetypal struggler who leaves his dad in Delhi and comes to Mumbai, chasing dreams of becoming a star in Bollywood. Does he manage to survive the bleak and grueling rounds of endless auditions, broken promises and missed chances?"
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s731_bolly",
+      "emotion": "shame",
+      "dialogue": "You'd rather hear it now or at home? I think.. home sounds better. Shameless! Didi, you should meet my dance teacher. Come with me, come on.. - What?",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p366_bolly",
+      "emotion": "pride",
+      "dialogue": "Wow! Alright everybody huddle up! I just want to tell you all that really proud of you. You guys have really, really improved..and I'm very happy with you all. Alright!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "improvement of the group",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p367_bolly",
+      "emotion": "pride",
+      "dialogue": "Unbelievable! - Any family members present here? Umm.. no, actually my dad lives in Delhi. Your dad must be very proud of you. Well, I hope so..Oh.. best of luck for the second round. - Thank you. Okay. Cut it..So which part of Delhi?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

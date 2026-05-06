@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "539686",
+    "title": "Shamshera",
+    "year": "2022",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/rryN6GhaoovO3sM8IEqGyKgCmXf.jpg",
+    "overview": "Set in the 1800s, the film is about a \"dacoit\" tribe who take charge in fight for their rights and independence against the British."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 3
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1974_bolly",
+      "emotion": "shame",
+      "dialogue": "Shall we go? Pour the ghee into the sacred fire. -Why not? 'Piping hot the ghee is flowing. No trace of shame showing.' Svaha. You making halva?",
+      "target_person": "character performing ritual",
+      "target_gender": "unclear",
+      "cause_raw": "improper conduct of ritual",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "p1036_bolly",
+      "emotion": "pride",
+      "dialogue": "Because of traitors like Vibhishan and Jaichand we became slaves. This is a story about the enslavement of a tribe that was once the pride of Rajputana Army. We were called the Khameran. We had a glorious past.",
+      "target_person": "narrator",
+      "target_gender": "unclear",
+      "cause_raw": "glorious past of tribe",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1037_bolly",
+      "emotion": "pride",
+      "dialogue": "How long can you hide in these jungles? –They are many in number. They have guns and gunpowder. All they can do is to sever our proud heads. Besides, what use is living branded as low caste? Look, Shamshera, I may work for the British, but I am an Indian at heart.",
+      "target_person": "Shamshera",
+      "target_gender": "male",
+      "cause_raw": "resisting oppression and maintaining dignity",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1038_bolly",
+      "emotion": "pride",
+      "dialogue": "Because it is not imprisoned within the walls of a fort. Bandits by duty, freedom our faith. –Such was the glory of us Khameran. I have wounded our pride, Pir. I will restore our lost glory, come what may. 190 years ago when Nawab Kazak-ud-Daula built this fort,",
+      "target_person": "Pir",
+      "target_gender": "male",
+      "cause_raw": "restoring lost glory",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1039_bolly",
+      "emotion": "pride",
+      "dialogue": "If I win, then freedom is ours. And our unborn child? I want him to be proud of me. Remember, if I get caught,",
+      "target_person": "unborn child",
+      "target_gender": "male",
+      "cause_raw": "father's fight for freedom",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1040_bolly",
+      "emotion": "pride",
+      "dialogue": "is pure madness. I'll throw the dice for the last time. –If I win, then freedom is ours. And your Shamshera will stand proudly before you. Smile, sir. Smile. You may not smile now.",
+      "target_person": "Shamshera",
+      "target_gender": "male",
+      "cause_raw": "winning a game",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

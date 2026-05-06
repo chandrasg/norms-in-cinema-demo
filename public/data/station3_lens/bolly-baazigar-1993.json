@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "19657",
+    "title": "Baazigar",
+    "year": "1993",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ndQQ2bTV0JLSRxUBchE4eD3qhDb.jpg",
+    "overview": "A young man with a vendetta against a business tycoon seduces and kills his eldest daughter and then proceeds to his younger daughter but she begins to suspect her new lover's ulterior motive."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s324_bolly",
+      "emotion": "shame",
+      "dialogue": "And what did I get in return? Deceit? Excuse me... what is he doing here? Please forgive me. I am ashamed of my mistakes. Please have mercy on me. I take an oath in the name of my elder daughter Seema...I will never make any such mistake again. Please forgive me.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "deceit and mistakes",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s325_bolly",
+      "emotion": "shame",
+      "dialogue": "And it is because of him I've learnt that......my sister's killer is still alive. How could you think of such a cheap thing about Karan and me? You should be ashamed of yourself! I could've never imagined it. The cause of my fury, my envy and my suspicion is my love. I love you intensely.",
+      "target_person": "speaker's lover",
+      "target_gender": "male",
+      "cause_raw": "suspicion and jealousy",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s326_bolly",
+      "emotion": "shame",
+      "dialogue": "The killer would be punished much later. Have you ever considered what punishment we would go through? It's such a shameful thing that Madan Chopra's daughter......used to love someone secretly......I would lose my face. Who would marry you? Have you ever given it a thought? No...Seema is dead.",
+      "target_person": "Madan Chopra's daughter",
+      "target_gender": "female",
+      "cause_raw": "secret love affair",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s327_bolly",
+      "emotion": "shame",
+      "dialogue": "And what did I get in return? Deceit? Excuse me...what is he doing here? Please forgive me. I am ashamed of my mistakes. Please have mercy on me. I take an oath in the name of my elder daughter Seema...I will never make any such mistake again. Please forgive me.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "deceit and mistakes",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s328_bolly",
+      "emotion": "shame",
+      "dialogue": "And it is because of him I've learnt that......my sister's killer is still alive. How could you think of such a cheap thing about Karan and me? You should be ashamed of yourself! I could've never imagined it. The cause of my fury, my envy and my suspicion is my love. I love you intensely.",
+      "target_person": "speaker's lover",
+      "target_gender": "male",
+      "cause_raw": "suspicion and jealousy",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p142_bolly",
+      "emotion": "pride",
+      "dialogue": "I should be leaving now, Mother. Nu, Ala!!- You are a son who would make every mother proud. You have dune so much for your Mother. You should be happy that your Mother has begun talking.",
+      "target_person": "mother",
+      "target_gender": "male",
+      "cause_raw": "son's care and support",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

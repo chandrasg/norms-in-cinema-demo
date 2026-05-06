@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "391730",
+    "title": "Swarg Yahan Narak Yahan",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/n9uRPTq07QmqqW5Wy4qJYYOkRtP.jpg",
+    "overview": "Swarg Yahan Narak Yahan is the story of a dignified father (Mithun) and his conflict with his Brat son (Mithun in a double role). Sumalatha and Shilpa Shirodkar play the leading ladies for the father and the son respectively. The film resembles Ramesh Sippy's Shakti."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4285_bolly",
+      "emotion": "shame",
+      "dialogue": "Did the cat get that policeman's tongue? He didn't utter one word. Does he feel ashamed to accept my blessings? No ma'am. You blessed him with the joy of children. But what kind of response do you expect....from a person who has no child?",
+      "target_person": "policeman",
+      "target_gender": "male",
+      "cause_raw": "childlessness",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4286_bolly",
+      "emotion": "shame",
+      "dialogue": "Turn around. Where's your attention? You love is here, flower girl. You have become very shameless. How is this being shameless? I brought these white flowers for your dark hair.",
+      "target_person": "flower girl",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4287_bolly",
+      "emotion": "shame",
+      "dialogue": "You love is here, flower girl. You have become very shameless. How is this being shameless? I brought these white flowers for your dark hair. Hurry up and let me put them on as I need to go.",
+      "target_person": "flower girl",
+      "target_gender": "female",
+      "cause_raw": "being forward in expressing love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p2358_bolly",
+      "emotion": "pride",
+      "dialogue": "That he touch the skies of success and fame. And sir, this is perhaps the only relationship in the world....where even if the son supersedes the father....the father is never envious looking at his son's progress. In fact he feels proud. I pray to god every father has a son like him. What is the matter?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's success and progress",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2359_bolly",
+      "emotion": "pride",
+      "dialogue": "The first time you forged my signature on your school report....I should have praised you that day, not chastised you..I should not have beaten you the first time....you stole the bangle. In fact I should have patted your back....and told you well done, son! Well done! The day you lied to your father....and got him to pass the helmet law....and indulged in black-marketing....I should have held my head high with pride. In fact I should have been a partner in your business. When brown sugar was found in the house....I should have concealed all your crimes from the law....and helped you become the biggest criminal in the country....instead of a small time criminal.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's cunningness and criminal activities",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

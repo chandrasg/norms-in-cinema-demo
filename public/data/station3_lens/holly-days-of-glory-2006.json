@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "2016",
+    "title": "Days of Glory",
+    "year": "2006",
+    "industry": "holly",
+    "country": "DZ|BE|FR|MA",
+    "poster_path": "/d78c7G8wDVGUTWH95tpuEGiK6IZ.jpg",
+    "overview": "1943. They have never stepped foot on French soil but because France was at war, Said, Abdelkader, Messaoud and Yassir enlist in the French Army, along with 130,000 other “indigenous” soldiers, to liberate the “fatherland” from the Nazi enemy. Heroes that history has forgotten…"
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 3
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS885_holly",
+      "emotion": "shame",
+      "dialogue": "Don't touch it!  It's a sin! I swear in God's name.  Aren't you ashamed?  Why. Yassir? Is it God's?  - Don't touch it. - All right.",
+      "target_person": "Yassir",
+      "target_gender": "male",
+      "cause_raw": "committing a sin",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "WS886_holly",
+      "emotion": "shame",
+      "dialogue": "Let go of him!  You're mad!  Are you soldiers, idiots, or what?!  Shame on you!  Get out of here!  Get out now!  Quickly!",
+      "target_person": "soldiers",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior/violence",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WP1616_holly",
+      "emotion": "pride",
+      "dialogue": "To the left... Left!  Yassir, they make us march like mules. Let's go back home.  Serve France with pride, and France will be of service to you.  Why did you get us enlisted?  For the money... so you can be married.",
+      "target_person": "Yassir",
+      "target_gender": "male",
+      "cause_raw": "serving France",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1617_holly",
+      "emotion": "pride",
+      "dialogue": "We've left behind Our families and homes  And our hearts are full Of invincible fervour  For we wish to bear high and proud  The cherished flag of sweet France  Should someone try to part us",
+      "target_person": "We",
+      "target_gender": "unclear",
+      "cause_raw": "bearing the flag of France high and proud",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1618_holly",
+      "emotion": "pride",
+      "dialogue": "Irčne's a pretty name.  We have to see this war through. We'll return with honour.  Irčne will be proud of you.  Listen to this.  \"After the war, I return to Marseilles, Irčne.",
+      "target_person": "Irčne",
+      "target_gender": "female",
+      "cause_raw": "returning with honour from war",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

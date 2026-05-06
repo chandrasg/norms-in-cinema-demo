@@ -1,0 +1,168 @@
+{
+  "film": {
+    "id": "20364",
+    "title": "Hulchul",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ve6YjkjNAbY2r2djFxrw6v9IXfy.jpg",
+    "overview": "A man and woman from feuding families each pretend to fall in love, as part of a revenge plot. Chaos ensues when their fake romance becomes a reality."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 3
+    },
+    "pride": {
+      "female": 3,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2465_bolly",
+      "emotion": "shame",
+      "dialogue": "Can I come in and talk? - Not needed, speak from there. But I'm not comfortable here. - What're you doing, girl? Have some shame! This place is only for men; so come out and say whatever it is! I haven't come to stay anyway.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "entering a male-dominated space",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2466_bolly",
+      "emotion": "shame",
+      "dialogue": "but when a girl cries before you and asks for your help and if you still trouble her it's very shameful for a man. And I believe that you're the only man in your family who will not disappoint me.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "troubling a girl asking for help",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2467_bolly",
+      "emotion": "shame",
+      "dialogue": "That you had broken limbs! - Things can't get worse! You' were tricked by these wastrels! You ought to be ashamed! He's right here, hale and hearty and you said he met with an accident! May your tongues rot!",
+      "target_person": "person who spread false news",
+      "target_gender": "unclear",
+      "cause_raw": "spreading false information",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2468_bolly",
+      "emotion": "shame",
+      "dialogue": "Women like her must be sent to the police! Brother, why drag the police into this? What a shame! This wretched woman. Brother! It'll be even more shameful if the police arrives. Why? - Well, they may suspect us.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "immoral behavior",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2469_bolly",
+      "emotion": "shame",
+      "dialogue": "Brother, why drag the police into this? What a shame! This wretched woman. Brother! It'll be even more shameful if the police arrives. Why? - Well, they may suspect us. I'll send her. - I'm not going away!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being a cause of trouble",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s2470_bolly",
+      "emotion": "shame",
+      "dialogue": "You have to bow and pick the one who is lying on the floor. I'd take defeat from anyone! But if I'm defeated by my own son I'll be ashamed of myself! Where's your father's respect and honor? He was so proud of being an Angara!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "defeated by his own son",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2471_bolly",
+      "emotion": "shame",
+      "dialogue": "You're old enough to be my father and you're hitting on me, you idiot! Shameless! Give me the necklace! Come on! What are you waiting for, fools? Pick it up!",
+      "target_person": "older man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate advances towards a younger woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1275_bolly",
+      "emotion": "pride",
+      "dialogue": "But it saddens me to say that an intelligent girl like her is quitting studies to settle down in matrimony. However, it is a matter of pride that Anjali is getting married to the Home Minister of our State, Mr. Govindrao Pachpute. I therefore extend our heartiest congratulations to her.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "marrying a high-status individual",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1276_bolly",
+      "emotion": "pride",
+      "dialogue": "A Circus? My grand-daughter is getting married if it sprinkles rose-water, does it become a farce? Have you forgotten the pride of the high-caste families? You call a sacred ritual a circus! In that case, why don't you get the elephant to serve the guests",
+      "target_person": "grand-daughter",
+      "target_gender": "female",
+      "cause_raw": "maintaining caste pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1277_bolly",
+      "emotion": "pride",
+      "dialogue": "'She's a volcano waiting to erupt.' 'Fair-skinned, beautiful. She sure is a nymph.' 'A blossoming beauty, she's proud of her looks.' 'Tell her, friends' 'not to flaunt her airs.'",
+      "target_person": "She'",
+      "target_gender": "female",
+      "cause_raw": "her looks",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1278_bolly",
+      "emotion": "pride",
+      "dialogue": "I'll be ashamed of myself! Where's your father's respect and honor? He was so proud of being an Angara! But just to defeat his son he will go and guard someone else's wedding!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "maintaining family honor",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

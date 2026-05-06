@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "270916",
+    "title": "Gardish",
+    "year": "1993",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1lNyncr0NJMp7WFbfdPbkz05ZKc.jpg",
+    "overview": "Naive and easily impressionable Vidya Bhalla would like her husband to be a dashing hero, one who is not afraid of anybody, one who can easily jump into a fire to rescue someone, one who is strong & romantic. She sees all of these qualities in Shiva Sathe (Jackie Shroff), the son of Havaldar Purshotam Sathe, whose only dream is to see Shiva become a Police Inspector. Vidya informs her dad, Prithviraj, that she has found her dream man, the Bhallas and the Sathes meet and get the couple formally engaged."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2030_bolly",
+      "emotion": "shame",
+      "dialogue": "The Indian custom gives me every right to write to...whomsoever I wish, be it your sister or not. The truth is that she's written the letter to me. Shameful! Don't you feel  ashamed writing a romantic...letter to your sister? What sort of family  is yours! She's not his sister, she's mine. I have no objection if she writes to him.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "writing a romantic letter to a woman considered as sister",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s2031_bolly",
+      "emotion": "shame",
+      "dialogue": "I shouldn't have been so hard on Shiva. He must have felt  very hurt. I am not ashamed to accept my mistake. I'll go and look for him. No. Its raining so heavily . I won't let you go anywhere.",
+      "target_person": "Shiva",
+      "target_gender": "male",
+      "cause_raw": "harsh treatment",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2032_bolly",
+      "emotion": "shame",
+      "dialogue": "You don't know son, what a father feels . I couldn't control  myself . Forgive me son. Don't make me feel  ashamed by asking for forgiveness. I understand what you said. Eat my son....Mr. Bhalla  had come. He said he's getting his...... daughter married to someone else .",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "not able to fulfill his son's wishes",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2033_bolly",
+      "emotion": "shame",
+      "dialogue": "No. Not at all  . In front of the Secretariat the...Vidhan Sabha, and Sansad Bhavan there is no need to send anybody. Beggars bigger than us are already  present there. Shame on him! Father, why are you throwing brother's things. Don't you dare take his name in this house.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "disowned by family",
+      "theme_label": "Betrayal"
+    }
+  ]
+}

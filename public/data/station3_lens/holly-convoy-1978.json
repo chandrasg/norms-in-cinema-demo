@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "9584",
+    "title": "Convoy",
+    "year": "1978",
+    "industry": "holly",
+    "country": "US|GB",
+    "poster_path": "/xjowoBInlikSlvfAYDRN9ubaODB.jpg",
+    "overview": "Trucker Rubber Duck and his buddies Pig Pen, Widow Woman and Spider Mike use their CB radios to warn one another of the presence of cops. But conniving Sheriff Wallace is hip to the truckers' tactics, and begins tricking the drivers through his own CB broadcasts. Facing constant harassment from the law, Rubber Duck and his pals use their radios to coordinate a vast convoy and rule the road."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2280_holly",
+      "emotion": "pride",
+      "dialogue": "Ladies and gentlemen, as I can see. There is no end.  I'm going to find out who they are and where they go.  So far, no one hurt, just the pride of the police.  Buster 19, Rubber Duck. Breakers 19, Rubber Duck.  I'm Chuck Arnoldi, press assistant to Haskins governor of New Mexico.",
+      "target_person": "police",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2281_holly",
+      "emotion": "pride",
+      "dialogue": "You poor wretch.  A lonely breed.  Loud and proud men.  But not too proud to cry.  Embodies the tradition of American cowboys.",
+      "target_person": "American cowboys",
+      "target_gender": "male",
+      "cause_raw": "embodying the tradition of American cowboys",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2282_holly",
+      "emotion": "pride",
+      "dialogue": "A lonely breed.  Loud and proud men.  But not too proud to cry.  Embodies the tradition of American cowboys.  Ladies and gentlemen, we are gathered here ... ... to this great American honor ... ... who gave his life for a cause that is so important for us all ... ... like many great Americans before him.",
+      "target_person": "gathered people",
+      "target_gender": "unclear",
+      "cause_raw": "honoring a great American who gave his life for an important cause",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

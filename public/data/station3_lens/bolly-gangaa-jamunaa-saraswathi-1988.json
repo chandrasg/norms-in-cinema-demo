@@ -1,0 +1,117 @@
+{
+  "film": {
+    "id": "48390",
+    "title": "Gangaa Jamunaa Saraswathi",
+    "year": "1988",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cMOCDG5imInIKlx4tbFrH8JeL9w.jpg",
+    "overview": "In a small town, Gangaa and Jamunaa's budding romance faces obstacles from Hansraj, who harbors dark intentions. Meanwhile, Saraswathi silently pines for Gangaa, as another suitor, Shanker, hopes to win Jamunaa's heart."
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 6,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5333_bolly",
+      "emotion": "shame",
+      "dialogue": "Where has it gone? Catch it! It has escaped. Shameless creature! Getting fresh with a young gir|...?Look, you can't trust that guy. It's very late in the night now. I can't chase it all night, I'll have to think of an idea. I have an idea.",
+      "target_person": "unknown",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards a young girl",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5334_bolly",
+      "emotion": "shame",
+      "dialogue": "Pick up the stones and hit her. Stop! She's pregnant! Don't hit her! Stop! Don't you feel ashamed pelting stones at a pregnant woman? If you people hurl another stone I'll call the police! Come on, let's go - May the Goddess bless you, dear.",
+      "target_person": "pregnant woman",
+      "target_gender": "female",
+      "cause_raw": "being pregnant out of wedlock",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s5335_bolly",
+      "emotion": "shame",
+      "dialogue": "What's going on here? - He beat up a police officer. He threatened to kill me! - Do you call yourself an officer? Shame on people like you! - You're right. He has insulted this uniform. He doesn't deserve the authority. I've had complaints about you earlier. But I didn't have any proof.",
+      "target_person": "police officer",
+      "target_gender": "male",
+      "cause_raw": "misuse of authority and power",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s5336_bolly",
+      "emotion": "shame",
+      "dialogue": "Whenever evil was born on earth, Lord Krishna came to destroy it. You have to account to me for many sins. So where do I start? From my father's death or from your shameful insult to these womenfolk? Or from these poor people whose lands you have grabbed. Where do I start? Anyone can be brave with a gun in his hands.",
+      "target_person": "evil character",
+      "target_gender": "male",
+      "cause_raw": "multiple reasons including murder disrespecting women and land grabbing",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s5337_bolly",
+      "emotion": "shame",
+      "dialogue": "Where has it gone? Catch it! It has escaped. Shameless creature! Getting fresh with a young girl...?Look, you can't trust that guy. it's very late in the night now. I can't chase it all night, I'll have to think of an idea. I have an idea.",
+      "target_person": "guy",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior with a young girl",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5338_bolly",
+      "emotion": "shame",
+      "dialogue": "Pick up the stones and hit her. Stop! She's pregnant! Don't hit her! Stop! Don't you feel ashamed pelting stones at a pregnant woman? If you people hurl another stone I'll call the police! Come on, let's go - May the Goddess bless you, dear.",
+      "target_person": "pregnant woman",
+      "target_gender": "female",
+      "cause_raw": "being pregnant out of wedlock",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s5339_bolly",
+      "emotion": "shame",
+      "dialogue": "What's going on here? - He beat up a police officer. He threatened to kill me! - Do you call yourself an officer? Shame on people like you! - You're right. He has insulted this uniform. He doesn't deserve the authority. I've had complaints about you earlier. But I didn't have any proof.",
+      "target_person": "police officer",
+      "target_gender": "male",
+      "cause_raw": "misuse of authority and power",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s5340_bolly",
+      "emotion": "shame",
+      "dialogue": "Whenever evil was born on earth, Lord Krishna came to destroy it. You have to account to me for many sins. So where do I start? From my father's death or from your shameful insult to these womenfolk? Or from these poor people whose lands you have grabbed. Where do I start? Anyone can be brave with a gun in his hands.",
+      "target_person": "evil character",
+      "target_gender": "male",
+      "cause_raw": "disrespecting women and exploiting the poor",
+      "theme_label": "Disrespect"
+    }
+  ]
+}

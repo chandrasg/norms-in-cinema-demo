@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "420825",
+    "title": "Phagun",
+    "year": "1973",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/c9pl1MaMfv6KzQKUNxHepk1n7gK.jpg",
+    "overview": "Shanta Dhamle lives a wealthy lifestyle in Bombay along with her dad, Shamrao, and mom, Ansuya. She incurs their displeasure when she falls in love and gets married to a poor and overly sensitive writer, Gopal, who moves in with them, and continues to suffer verbal abuse at Shamrao's hands. On the occasion of Holi, while his book 'Agla Kadam' is being published and marketed, he puts some color on a pregnant Shanta's expensive Saree, which upsets her, she humiliates him, and he walks out. He starts writing under the pen name of Santosh, and when Shanta finds out, he changes his name to Vivek, and again to Chitrangh, and does not communicate with her. Four years later, a day before Holi, he has accumulated enough wealth, hundreds of expensive and colorful Sarees, a doll for his daughter,"
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1330_bolly",
+      "emotion": "shame",
+      "dialogue": "I ask you; till when will you keep awake at nights? Even you keep me awake. Don't you? Shucks! Don't you have any shame? I will keep awake till that time, Shanta. Till I don't earn enough money.",
+      "target_person": "Shanta",
+      "target_gender": "female",
+      "cause_raw": "questioning her husband's work habits",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1331_bolly",
+      "emotion": "shame",
+      "dialogue": "Just breathe in the fresh air of outside. I didn't mean to say this, silly. I mean to say. Shucks! Shameless girl! It's great fun! No pal, I am afraid. Hey, these men are brave till the time we are cowards!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being outgoing and fearless",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1332_bolly",
+      "emotion": "shame",
+      "dialogue": "Hospital? Forget it! Huh! Today I have a new duty today! Miss Shameful, I'll leave now. BYE-bye!  BYE-bye! So my darling daughter has arrived! - Oh yes!",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s1333_bolly",
+      "emotion": "shame",
+      "dialogue": "Come on; mummy seems to agree. Hey, mummy seems to agree? I'll hit you! Shameless fellow! Santosh, will your mummy hit me? So what happened!",
+      "target_person": "Santosh",
+      "target_gender": "male",
+      "cause_raw": "Disrespectful behavior",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1334_bolly",
+      "emotion": "shame",
+      "dialogue": "'Oh, oh! - All right. That's it!' 'Is it done this way? - Fine? Happy?' 'Happy? I'll give you a tight slap.' - 'Don't you feel ashamed?' 'Behave yourself.' 'Let me do it.'",
+      "target_person": "Character 1",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

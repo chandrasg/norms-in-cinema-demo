@@ -1,0 +1,108 @@
+{
+  "film": {
+    "id": "54966",
+    "title": "Pakeezah",
+    "year": "1972",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/dVm7WcvVfeQzi8M7NZXcdtbF6jz.jpg",
+    "overview": "A beautiful courtesan is unable to break away from the cycle of prostitution until a forest ranger falls in love with her. Unfortunately, his wealthy parents oppose the union."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1274_bolly",
+      "emotion": "shame",
+      "dialogue": "- Is it? - Hear the bird sing. It's not a bird. It's our dear sister. You shameless girl! How can you embarrass her? Are you of her age? - Senseless girl! How can you behave like this? After all, she's her elder sister.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "disrespecting elder sister",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p679_bolly",
+      "emotion": "pride",
+      "dialogue": "She's your daughter. How can I refuse? But right now...she is busy with her dance performance. Moreover, it's against your pride to take away your daughter......from this infamous locality. You may come back tomorrow morning. Let's go.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "daughter's dance performance",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p680_bolly",
+      "emotion": "pride",
+      "dialogue": "You may come back tomorrow morning. Let's go. They have..\"They have snatched my veil, my pride\" They have snatched my veil, my pride They have snatched my veil, my pride",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p681_bolly",
+      "emotion": "pride",
+      "dialogue": "Let's go. They have..\"They have snatched my veil, my pride\" They have snatched my veil, my pride They have snatched my veil, my pride They have snatched my veil, my pride",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p682_bolly",
+      "emotion": "pride",
+      "dialogue": "They have..\"They have snatched my veil, my pride\" They have snatched my veil, my pride They have snatched my veil, my pride They have snatched my veil, my pride if you don't believe me, ask the merchant.",
+      "target_person": "<NA",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p683_bolly",
+      "emotion": "pride",
+      "dialogue": "They have snatched my veil, my pride They have snatched my veil, my pride They have snatched my veil, my pride if you don't believe me, ask the merchant. whom I paid for every inch of my veil",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p684_bolly",
+      "emotion": "pride",
+      "dialogue": "They have..\"If you don't believe me, ask the soldier..\"\"if you don't believe me, ask the soldier..\"who snatched my veil in the market who snatched my veil in the market They have..\"These very men robbed me off my veil, my pride\"..my veil Muscleman...why is it locked? - They've gone away? - When did they leave?",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p685_bolly",
+      "emotion": "pride",
+      "dialogue": "You cannot defame me by making this allegation. It's not an allegation. It's the punishment for your false pride. - Recognise her. - Move away! - Brother! - What're you doing?",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

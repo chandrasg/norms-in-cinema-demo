@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "77663",
+    "title": "Killing Season",
+    "year": "2013",
+    "industry": "holly",
+    "country": "BE|US|BG",
+    "poster_path": "/o55HXx21PqRcOgAaOWFz4tGMrZh.jpg",
+    "overview": "Two veterans of the Bosnian War, one American, one Serbian, clash in the remote Smoky Mountain wilderness."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP879_holly",
+      "emotion": "pride",
+      "dialogue": "(MOANING)  Getting that removed. Risky.  You proud of what you did?  Or maybe you don't want to forget.  It's like with your shot.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP880_holly",
+      "emotion": "pride",
+      "dialogue": "in the middle of nowhere. And we got to the top, my men lined the prisoners up  on their knees facing away.  I joined up to make my father proud,  but when I told him, he tried to talk me out of it.  \"Remember the elk,\" he said.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "joining the military",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2701_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah, let me help you.  Getting that removed. Risky.  You proud of what you did?  Or maybe you don't want to forget.  It's like with your shot.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2702_holly",
+      "emotion": "pride",
+      "dialogue": "in the middle of nowhere. And we got to the top, my men lined the prisoners up  on their knees facing away.  I joined up to make my father proud,  but when I told him, he tried to talk me out of it.  \"Remember the elk,\" he said.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "joining the military",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

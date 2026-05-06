@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "43449",
+    "title": "Romance on the High Seas",
+    "year": "1948",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/60YafJKLwCINwD7Q10yWXDpAGt3.jpg",
+    "overview": "Georgia Garrett is sent by jealous wife Elvira Kent on an ocean cruise to masquerade as herself while she secretly stays home to catch her husband cheating. Meanwhile equally suspicious husband Michael Kent has sent a private eye on the same cruise to catch his wife cheating. Love and confusion ensues along with plenty of musical numbers."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1487_holly",
+      "emotion": "shame",
+      "dialogue": "You see, you have to travel under my name.  - Under your name? You tired of it? - No.  - You see, I'm married and- - Oh, ashamed of it.  No.  - Miss Garrett, I don't trust my husband. - Natch.",
+      "target_person": "Miss Garrett",
+      "target_gender": "female",
+      "cause_raw": "mistrust in marriage",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS1488_holly",
+      "emotion": "shame",
+      "dialogue": "I've fallen in love with your wife.  - What? - She's fallen in love with me.  - What? - The only thing I'm ashamed of... ...is it was on your time.  ...is it was on your time.  Virgil. Peter Virgil, you're fired.",
+      "target_person": "Peter Virgil",
+      "target_gender": "male",
+      "cause_raw": "having an affair with a married woman",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WP2604_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, dear, I'm liable to be trapped on the boat.  - Well, goodbye, Georgia. - Goodbye.  I hope you make me very proud of me.  I'll try.  Oh, do me a favor, have a wonderful time... ...but please stay in your cabin as much as possible and as alone as possible.",
+      "target_person": "Georgia",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

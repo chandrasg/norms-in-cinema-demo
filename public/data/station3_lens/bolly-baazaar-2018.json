@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "556907",
+    "title": "Baazaar",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zLAlaimyVfsRmaH1fv3qmfksMRP.jpg",
+    "overview": "After moving to Mumbai, an ambitious young man becomes the stock trader for a notorious businessman."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p135_bolly",
+      "emotion": "pride",
+      "dialogue": "I'll do what it takes, but I won't let you take control of the company. You just made me so proud, Chheda Sir. If you had given up easily...then the teacher would've been embarrassed in front of the disciple. Maybe you didn't notice, but there are four envelopes in front of you.",
+      "target_person": "Chheda Sir",
+      "target_gender": "male",
+      "cause_raw": "resilience and determination",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p136_bolly",
+      "emotion": "pride",
+      "dialogue": "Reganto's history clearly states...that whichever country this company enters...they acquire land there. Land. The pride of Indian farmers. A farmer would rather die than leave his land. And maybe Jharna Agro's board couldn't understand that.",
+      "target_person": "Reganto",
+      "target_gender": "male",
+      "cause_raw": "Acquisition of land",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p137_bolly",
+      "emotion": "pride",
+      "dialogue": "- Today's hero stock, Skycom. - Buy 5000 more shares, quickly. Skycom's stocks are trading at ceiling price. And Rizwan Ahmed's pride curled. Good days for share market. Skycom has become the market's superhero.",
+      "target_person": "Rizwan Ahmed",
+      "target_gender": "male",
+      "cause_raw": "Skycom's stock trading at ceiling price",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

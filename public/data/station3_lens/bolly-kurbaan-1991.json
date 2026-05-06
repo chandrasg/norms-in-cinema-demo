@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "161398",
+    "title": "Kurbaan",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/mJSCUBiHlMIrIsawUQr39tKWbYF.jpg",
+    "overview": "Maan Singh and Prithvi Singh's families have been locked in a property dispute in a court in India. When the Court gives a verdict in favor of Prithvi, Maan hires a bandit named Panna Singh to kill Prithvi and all of his family."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2845_bolly",
+      "emotion": "shame",
+      "dialogue": "I will turn this temple into a ruin.. a ruin..This priest will not take your name! What kind of a fallen are you? I am ashamed to call you a brother too. Even I am ashamed. You are with my enemy, even though you are my brother.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "betrayal",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2846_bolly",
+      "emotion": "shame",
+      "dialogue": "What kind of a fallen are you? I am ashamed to call you a brother too. Even I am ashamed. You are with my enemy, even though you are my brother. And therefore, you joined hands....with Panna the dacoit and wiped his family off?",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "betrayal and association with enemies",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2847_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't get too attached to Chanda, brother..When she goes to her in-laws, it will be very painful. O sister-in-law, the day Chanda goes to her in-laws..That day I too shall go to my house..That is my house. Everyone praises the courage of Himmat..You praise the bravery of Himmat..That he came in the nick of time to save you..l salute your shamelessness..So much I have scolded you, but even then..Like a dog you wag your tail and follow me. Aren't I your domestic? Come on, let's leave..He has spoilt our fun by coming here.",
+      "target_person": "Himmat",
+      "target_gender": "male",
+      "cause_raw": "shamelessness and lack of self-respect",
+      "theme_label": "Shamelessness"
+    }
+  ]
+}

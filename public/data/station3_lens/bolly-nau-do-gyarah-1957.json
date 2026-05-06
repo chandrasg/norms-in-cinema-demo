@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "164810",
+    "title": "Nau Do Gyarah",
+    "year": "1957",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/hPYWyXSM18IiCF6SHwWmRx5AoDl.jpg",
+    "overview": "A sleep suspense thriller, from Vijay Anand (his directorial debut), Nau Do Gyarah is the story of Madan (Dev Anand) on his way to Bombay to inherit his uncle's estate.  On the way, he picks Raksha (Kalpana Kartik), who has run away from home, rather than be married to a man she does not like.  On reaching Bombay, Madan finds his uncle dead, and the estate taken over by Kuldeep, his aunt's nephew.  The new will is missing.  Madan has to find out, what really happened to his uncle and the missing second will.  S. D. Burman's compositions embellish this fast paced and stylish thriller."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3768_bolly",
+      "emotion": "shame",
+      "dialogue": "He is the owner of half of Bombay. If he wishes, he can buy the whole of Delhi. He is totally shameless! If he tries to enter this house again, just throw him out. Manglu, next time find out such a tenant......who is either a married man or a sage!",
+      "target_person": "Manglu",
+      "target_gender": "male",
+      "cause_raw": "poor tenant selection",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3769_bolly",
+      "emotion": "shame",
+      "dialogue": "Now spend the night with all of them. It's so dark. - Shall I buy the moon for you?! - Yes, please! Aren't you ashamed, thief? - Why do you say bad words to me? Get down. Go! Where have you gone? Get the truck out. You've stuck it there.",
+      "target_person": "thief",
+      "target_gender": "unclear",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s3770_bolly",
+      "emotion": "shame",
+      "dialogue": "This is a problem. You do this. Make a bed for yourself in the bathroom! Me? Aren't you ashamed? You call yourself a man! You don't know how to respect a woman. What can one do if the woman is a thief?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting a woman",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3771_bolly",
+      "emotion": "shame",
+      "dialogue": "This is not possible. Your wealth is written in the name of Kuldeep. And will remain in his name. - Shut up! Aren't you ashamed? You would have died long back if you wanted to. If that's so, then get out of my house right now. Get out!",
+      "target_person": "Kuldeep",
+      "target_gender": "male",
+      "cause_raw": "claiming rights on property",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "p2009_bolly",
+      "emotion": "pride",
+      "dialogue": "Go if you are going. Don't show me any favor. You cannot target my heart. Where are you going so proudly, flying in the air? Stop! Stop! Is that enough? Shall we go?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

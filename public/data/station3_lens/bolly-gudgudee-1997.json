@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "210730",
+    "title": "Gudgudee",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/yVh0tqUVUOFADbXEezjRpvWC8yL.jpg",
+    "overview": "In Mumbai for a wedding, a married man contemplates an affair with a sexy starlet who has an ulterior motive for flirting with him."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2232_bolly",
+      "emotion": "shame",
+      "dialogue": "I am attracted by your charm. Come to me. Should not be with these wedding clothes. Shameless woman. Leave me alone or else will call. Do what you want. But I'll be with you in my whole life. Help! It would rape me!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2233_bolly",
+      "emotion": "shame",
+      "dialogue": "What have I done? Held deplorable. Forgive me! I am truly sorry. I have never had such a shameful incident in my whole life. - I do often happens to me. - Can you forgive me? Today really mad.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "unknown shameful incident",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2234_bolly",
+      "emotion": "shame",
+      "dialogue": "I? No, I'm bad. One day I'm away from the Sunni and started to flirt. Alcohol, cigarettes, music, car, and a woman ... Shame on you! Come, feel free. Monohar waiting. -Hi, Uncle! So-pa more come?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "indulging in activities considered immoral",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p1152_bolly",
+      "emotion": "pride",
+      "dialogue": "- On the table is, - I'll go get it. I can assure you that should not have any grievances from me proud to say because I'm married. But I will not talk about marriage with you. - Where were you last night? - In my neighbor's apartment.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "being married",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "140896",
+    "title": "Son of Sardaar",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/rqFbCvKVPdqI1Yrm8Xn172XXiVC.jpg",
+    "overview": "A Punjabi man returning to India falls in love with a woman whose family welcomes him as a guest before realizing he is the man they need to kill in order to avenge their loved ones."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4224_bolly",
+      "emotion": "shame",
+      "dialogue": "Hi, I am Sardar Manto Singh. And I am Jassi, hi. Do you feel ashamed to say Sardar Jassi? Sardar, you're really intelligent. You're a Sardar, I am a Sardar and the rest are good for nothing.",
+      "target_person": "Jassi",
+      "target_gender": "male",
+      "cause_raw": "not acknowledging his Sardar identity",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2304_bolly",
+      "emotion": "pride",
+      "dialogue": "Your image dwells in my heart. Let me show you. I can sacrifice my pride and honor on you. You're so gorgeous, you..\"You're so gorgeous, you're lucky for me.\" The moon's shining bright.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2305_bolly",
+      "emotion": "pride",
+      "dialogue": "Your image dwells in my heart. Let me show you. I can sacrifice my pride and honour on you. You're so gorgeous, you're lucky for me. Don't gamble with me.",
+      "target_person": "<speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2306_bolly",
+      "emotion": "pride",
+      "dialogue": "The heart's skipping a beat. I can build a bigger Taj for you. I can sacrifice my pride and honour on you. You're so gorgeous, you're lucky for me. if you're a man.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2307_bolly",
+      "emotion": "pride",
+      "dialogue": "The heart's skipping a beat. I'll  build a temple for you in my heart. I can sacrifice my pride and honour on you. You're so gorgeous, you're lucky for me. Listen. Listen.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

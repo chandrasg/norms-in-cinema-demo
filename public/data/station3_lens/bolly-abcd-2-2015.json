@@ -1,0 +1,150 @@
+{
+  "film": {
+    "id": "336790",
+    "title": "ABCD 2",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN|US",
+    "poster_path": "/7S0heTpQydVBSYl6yBxmqVyentQ.jpg",
+    "overview": "Childhood friends Suresh and Vinnie want to become successful dancers. To fulfill their dreams, they form a dance group with their friends and compete in a hip-hop contest in Las Vegas."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 2
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3914_bolly",
+      "emotion": "shame",
+      "dialogue": "I cannot believe that you can do something like this. Your mother, who died with her anklets on...for whom dance was everything. Shame on you! I think you cannot continue in the competition. You guys can leave. - Tell them we didn't cheat.",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting mother's passion for dance",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3915_bolly",
+      "emotion": "shame",
+      "dialogue": "In summery breeze, flows the colour Fluttering in your warmth and affection This entire act, its every step...\"from the formation to the flip...\"\"has been copied!\" - Your mother, who died with her anklets on...\"for whom dance was everything. Shame on you!\" I have shamed you I agree I have tarnished your reputation",
+      "target_person": "character",
+      "target_gender": "female",
+      "cause_raw": "copying dance steps",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s3916_bolly",
+      "emotion": "shame",
+      "dialogue": "This entire act, its every step...\"from the formation to the flip...\"\"has been copied!\" - Your mother, who died with her anklets on...\"for whom dance was everything. Shame on you!\" I have shamed you I agree I have tarnished your reputation Mother",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "copying dance steps",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s3917_bolly",
+      "emotion": "shame",
+      "dialogue": "I agree I have tarnished your reputation Mother My mother I have shamed you Mother My mother You are in my soul, In my every word",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "tarnishing mother's reputation",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3918_bolly",
+      "emotion": "shame",
+      "dialogue": "Get me the deodorant. Get him out of here. What's wrong? - What a shameless guy! Well done, boys! Sir, let's do it once more.",
+      "target_person": "unidentified male",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p2109_bolly",
+      "emotion": "pride",
+      "dialogue": "Ladies and Gentlemen...Welcome to Las Vegas, Nevada. Ladies and gentlemen, I also want to thank our friends at...Ponds Men's Face Wash. Ladies and Gentlemen...I proudly bring to you...the Ponds Men's Face Wash World Starz Hip Hop Challenge. The Philippine All Stars! Victory to Mother India.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "hosting a successful event",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2110_bolly",
+      "emotion": "pride",
+      "dialogue": "I have been staying in America since many years. I am so happy to see you guys here. I feel so proud to be an Indian. Thank you, - Thank you. Actually, I have an Indian restaurant called Nirvana",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being an Indian",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p2111_bolly",
+      "emotion": "pride",
+      "dialogue": "From the disgraced copycats...to the meek underdogs. For the first time India takes part in such an international arena...and is now at the top! Making us so proud of them. I would always tell him... that he's a winner! Just do it! Move ahead!!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "international achievement",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2112_bolly",
+      "emotion": "pride",
+      "dialogue": "Blessings to Team Indian Stunners. They defeated the same team they had copied from. Amazing! They made us proud. So, Indian Stunners... go for it! Well done Indian Stunners...All the very best... make India proud. We are the youth of Punjab...Wherever we live... India or America",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Team Indian Stunners' victory",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p2113_bolly",
+      "emotion": "pride",
+      "dialogue": "They defeated the same team they had copied from. Amazing! They made us proud. So, Indian Stunners... go for it! Well done Indian Stunners...All the very best... make India proud. We are the youth of Punjab...Wherever we live... India or America If we dance the Hip-Hop or the Bangra...We'll will win every battle!",
+      "target_person": "Indian Stunners",
+      "target_gender": "unclear",
+      "cause_raw": "Winning a competition",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

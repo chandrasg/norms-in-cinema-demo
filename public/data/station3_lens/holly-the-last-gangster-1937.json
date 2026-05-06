@@ -1,0 +1,107 @@
+{
+  "film": {
+    "id": "28712",
+    "title": "The Last Gangster",
+    "year": "1937",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/mCNrlUTdwr7cNgy4mFuFF31uDNK.jpg",
+    "overview": "A crime boss goes searching for his ex-wife and son after a ten-year prison stint. His old gang has other plans though, and use the child to try and make him disclose the location of the loot he hid before going to the slammer."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 5,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS59_holly",
+      "emotion": "shame",
+      "dialogue": "And all at once, I feel... old and empty.  Oh, now, Joe probably kept those things from you to make you happy, you know?  Oh, no. I think he knew I'll be sick and ashamed if I knew.  What are you going to do now?  I wait until I see Joe next time,",
+      "target_person": "Joe",
+      "target_gender": "male",
+      "cause_raw": "hiding things/lying",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "WP86_holly",
+      "emotion": "pride",
+      "dialogue": "Say, you boys aren't drinking.  Ambassador, there's an ex-fellow countryman of yours aboard. Joe Krozac?  - We are not proud of him. - Some people think  there's a lot of glamour about a big shot racketeer.  I do not. I regard him as an enemy of the public,",
+      "target_person": "Ambassador",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP87_holly",
+      "emotion": "pride",
+      "dialogue": "Hey, you! Hey, you little crazy chickadee!  You stay out of my lard bucket!  He's so proud to be going off with his father.  Come now, you'd better hurry, dear.  Yes, I know that. The bus leaves in about 10 minutes.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "going off with his father",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP88_holly",
+      "emotion": "pride",
+      "dialogue": "- Good-bye, darling. - Good-bye, darling.  - Good-bye - Good-bye, darlings!  That's a pair of men to be proud of, honey.  They're yours forever.  Yes, Gloria.",
+      "target_person": "Gloria",
+      "target_gender": "female",
+      "cause_raw": "having a pair of men to be proud of",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP89_holly",
+      "emotion": "pride",
+      "dialogue": "I don't know whose kid he is, but he's as game as a pit dog!  That's throwing it in there, kid!  Whoever his old man is, he ought to be proud of him!  Come on, Curly. What are we waiting for?  Wait, don't! Please, don't!",
+      "target_person": "old man",
+      "target_gender": "male",
+      "cause_raw": "his son's bravery",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "WP90_holly",
+      "emotion": "pride",
+      "dialogue": "Thank you for bringing him back.  With all my heart, I thank you.  You are proud of him, aren't you?  He is the kind of a boy you really hoped for, isn't he?  Isn't he, Joe?",
+      "target_person": "Joe",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP91_holly",
+      "emotion": "pride",
+      "dialogue": "I'm going to drop a little note to every newspaper in town.  Going to tell them about your boy.  Going to tell them what you don't seem so proud of anymore.  That he's Joe Krozac's son.  All his little pals are going to know it from now on, Joe.",
+      "target_person": "Joe",
+      "target_gender": "male",
+      "cause_raw": "being Joe Krozac's son",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

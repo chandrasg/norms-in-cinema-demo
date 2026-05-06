@@ -1,0 +1,69 @@
+{
+  "film": {
+    "id": "156360",
+    "title": "Millie",
+    "year": "1931",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/t50S1hpkxW5uGh9Kl8xawIvnDIi.jpg",
+    "overview": "After a tumultuous first marriage, Millie Blake learns to love her newfound independence and drags her feet on the possibility of remarriage. The years pass, and now Millie's daughter garners the attentions of men - men who once devoted their time to her mother."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1016_holly",
+      "emotion": "pride",
+      "dialogue": "Hi, there, Miss Dillmount.  Right on the old button! That's swell, just swell!  \"Punctuality, the pride of princes.\"  Beautiful.  How's that? - Your beautiful baseball trophy. I love baseball.",
+      "target_person": "Miss Dillmount",
+      "target_gender": "female",
+      "cause_raw": "punctuality",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1017_holly",
+      "emotion": "pride",
+      "dialogue": "Muzzy, call me Muzzy. You, too, Miss Dorothy.  My flying instructor, everybody does. We're all very friendly here.  Jimmy, I am proud of you.  Two delightful young ladies. I had no idea you had such a good eye.  I do hope you all have the most marvellous time.",
+      "target_person": "Muzzy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1018_holly",
+      "emotion": "pride",
+      "dialogue": "I'm sure you've searched thoroughly, and I... No, no, the young clerk is so careless.  No, no, the young clerk is so careless.  The letter could be anywhere. No one takes pride in their work.  Her checkbook. She can't be far.  And all her clothes.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1019_holly",
+      "emotion": "pride",
+      "dialogue": "I sent the children out into the real world  with high hopes they'd come back with sweet partners. And they did.  Your father would be so proud of you. Jimmy, off with the mask.  James van Hosmere, 1st Vice President of Van Hosmere Worldwide Enterprises.  You do have nice eyes. - Be my stenog?",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "children finding sweet partners",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

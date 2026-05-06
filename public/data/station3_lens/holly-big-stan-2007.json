@@ -1,0 +1,58 @@
+{
+  "film": {
+    "id": "13161",
+    "title": "Big Stan",
+    "year": "2007",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/zS1uUwKEFcd8ak0NTXxw97DlbAa.jpg",
+    "overview": "A weak con man panics when he learns he's going to prison for fraud. He hires a mysterious martial arts guru who helps transform him into a martial arts expert who can fight off inmates who want to hurt or love him."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1420_holly",
+      "emotion": "shame",
+      "dialogue": "And you know what? I'm glad you brought it up.  Seriously.  Otherwise, I might have done something that I'd be ashamed of later.  And that would be to sell you that timeshare.  - You would not feel safe there. - No, I wouldn't.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "attempting to sell an unsafe property",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WP2505_holly",
+      "emotion": "pride",
+      "dialogue": "It means you're one bad m**********r.  So you rape people?  Well, now that's something I'm not real proud of.  I don't condone the practise, to be honest. But I do it some.  Just to keep up with the Joneses. You know what I mean.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2506_holly",
+      "emotion": "pride",
+      "dialogue": "I grind into my morning coffee.  That's how I feel too. Listen, I gotta go.  Make me proud, Stan.  Come on, baby! Do it to me!  - Oh, yeah! - Are you using me?",
+      "target_person": "Stan",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

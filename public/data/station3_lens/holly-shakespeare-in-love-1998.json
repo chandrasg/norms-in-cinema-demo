@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "1934",
+    "title": "Shakespeare in Love",
+    "year": "1998",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+    "overview": "Young William Shakespeare is forced to stage his latest comedy, 'Romeo and Ethel, the Pirate's Daughter', before it's even written. When lovely noblewoman Viola de Lesseps auditions for a role, they fall into forbidden love — and Shakespeare's play finds a new life (and title). As their relationship intensifies, the comedy soon transforms into tragedy."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS755_holly",
+      "emotion": "shame",
+      "dialogue": "\"lt is my lady. Oh, it is my love!  Oh, that she knew she were!  The brightness of her cheek would shame those stars... as daylight doth a lamp.\"  as daylight doth a lamp.\"  Her eyes in heaven would through the airy region... stream so bright... that birds would sing and think it were not night.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "not recognizing love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WS756_holly",
+      "emotion": "shame",
+      "dialogue": "- Has he been to the house? - Marlowe?  Oh, yes. He is the one.  Lovely waistcoat. Shame about the poetry.  That dog!  Your Majesty.",
+      "target_person": "Marlowe",
+      "target_gender": "male",
+      "cause_raw": "poor poetry skills",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS757_holly",
+      "emotion": "shame",
+      "dialogue": "A woman! I say this theater is closed!  Why, sir?  For lewdness and unshamedfacedness!  And for displaying a female on the public stage!  Not him, her!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "performing in public",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WP1451_holly",
+      "emotion": "pride",
+      "dialogue": "I-lt's as if my quill is broken,  as if the organ of my imagination has dried up,  as if the proud tower of my genius has collapsed.  - Interesting. - Nothing comes.  Most interesting.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1452_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah.  Licentiousness is made a show! Vice is made a show!  Vanity and pride likewise made a show!  This is the very business of show!  T-T-- T-Two--",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

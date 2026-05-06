@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "304330",
+    "title": "Munimji",
+    "year": "1955",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cSkebXELjhbemkGZb7lU5T1ivLn.jpg",
+    "overview": "Roopa lives a wealthy lifestyle with her widowed dad, Captain Suresh, and brother, Shekhar. After she returns from abroad, she is told that she must now prepare to get married to her betrothed, Ratan, who is the son of a close friend of Suresh. Everything changes suddenly when Roopa meets with a handsome young man, Raj, and both fall in love with each other."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3695_bolly",
+      "emotion": "shame",
+      "dialogue": "You may leave. Ratan, I cannot tolerate cheating in business. Where did all the money go? - Gambling...Gambling? Didn't you feel ashamed to blow the workers wages in gambling? Forget you, even if my own child had committed this mistake,...I wouldn't forgive him. This happened because of your child.",
+      "target_person": "Ratan",
+      "target_gender": "male",
+      "cause_raw": "Gambling and cheating in business",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3696_bolly",
+      "emotion": "shame",
+      "dialogue": "Okay. You ungrateful man! You rascal! Didn't you feel ashamed to complain about me to the Captain? How could I have given an account of Rs. 50000? Son.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "financial dishonesty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3697_bolly",
+      "emotion": "shame",
+      "dialogue": "The whole region took pride in Ramlal and my friendship. I had promised I will get you married to Ratan. Would you want me standing shame faced before my friend's soul? Give the girl's hand in the boy's hand. Wait!",
+      "target_person": "Ramlal",
+      "target_gender": "male",
+      "cause_raw": "not fulfilling a promise",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1957_bolly",
+      "emotion": "pride",
+      "dialogue": "It would be better if I had died...before seeing my son as a murderer, a criminal. Who is your son? I won't feel any pride in calling you my son today. But how can a mother tell her son he is not her son. I am your son? You cannot claim I am your son and save your life.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1958_bolly",
+      "emotion": "pride",
+      "dialogue": "You are educated, intelligent. Loving a man like Amar is a disgrace for you. The whole region took pride in Ramlal and my friendship. I had promised I will get you married to Ratan. Would you want me standing shame faced before my friend's soul?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "promise to friend",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

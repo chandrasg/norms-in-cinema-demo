@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "83903",
+    "title": "Vaah! Life Ho Toh Aisi!",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1f4PGH7PDRWlcr5xml3uZCZBobC.jpg",
+    "overview": "As the only employed member of a large family, Aditya Singh a big-hearted mechanic, works hard to provide for his siblings, his grandmother and a bevy of nieces and nephews. But, when he is unexpectedly killed in a car accident, his family's future becomes a murky prospect. Fearful for their safety and happiness, Aditya convinces Yamraj the Hindu god of death, to give him a chance to return -- as a ghost -- to carry out the unresolved business of his life."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4522_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you so impatient? - It is my marriage. Where are you going? - To meet the boy. Girls have become shameless these days. - Why? I thought that you'll tell me, I don't want to marry. Then I would cajole you by saying that....girls are the ones who have to get married....and go away and all that blah blah. etc.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being assertive and breaking traditional norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s4523_bolly",
+      "emotion": "shame",
+      "dialogue": "Granny! What's happened Adi? He seems to be hurrying everyone Uncle, you aren't letting me eat peacefully. Shameless fellow! You're eating for the third time. Have some shame. Uncle! Can we have enough time for a cold drink?",
+      "target_person": "Adi",
+      "target_gender": "male",
+      "cause_raw": "Overeating",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4524_bolly",
+      "emotion": "shame",
+      "dialogue": "You old woman, watch it. No! No! Shame! What's this you're doing, Mr. Hirachand? You have made your fortunes with your hands and now....you are using it to dig your nose? Take your fingers off.",
+      "target_person": "Mr. Hirachand",
+      "target_gender": "male",
+      "cause_raw": "inappropriate public behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4525_bolly",
+      "emotion": "shame",
+      "dialogue": "What is this? - Adi has written I love you. Granny, Adi is here amongst us. I know. Why is that shameless fellow not coming before us? I'm constrained, granny. From today no more constraints.",
+      "target_person": "Adi",
+      "target_gender": "male",
+      "cause_raw": "expressing love openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p2519_bolly",
+      "emotion": "pride",
+      "dialogue": "Take this. Never dare to come to this house again. Papa. I'm proud of you, papa. Come. Everybody. Come, let's be there. Let's dance now.",
+      "target_person": "papa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

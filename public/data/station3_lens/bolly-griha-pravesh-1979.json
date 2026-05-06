@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "276856",
+    "title": "Griha Pravesh",
+    "year": "1979",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jdq6pczTDTH0QiChjbekefXoQQ6.jpg",
+    "overview": "A successful office worker who is happily married has a brief affair with a sultry co-worker in this romantic melodrama. His wife eventually wins him back from his forbidden lover."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2220_bolly",
+      "emotion": "shame",
+      "dialogue": "So that's why you come so late? I'm a witch? - Yes. Don't I know the witch who's holding you by the nose....and because of whom you come late. I know you lick her feet. You should be ashamed. I don't know; I married in which cursed moment? That wasn't a cursed moment, in fact the moment....that I came to know about this was a cursed one.",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2221_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm gonna come very late. Maybe I won't come. Then, don't come. Who the hell is dying for you? I'll kill you. Mind you? Being a wife you raise....your hands on the husband? You shameless. If the wife's not gonna raise her hand on the husband..then will that woman raise? I'm gonna see to it; how come you're gonna downstairs?",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "physical violence towards husband",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2222_bolly",
+      "emotion": "shame",
+      "dialogue": "Stop. Where're you going? Who told you to go in? You made a gesture to me. - I gestured at you? Aren't you ashamed to lie? Who told you to go in? - You told me. I told you? I'm gonna teach you such a lesson.",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "lying and trespassing",
+      "theme_label": "Invasion of Privacy"
+    }
+  ]
+}

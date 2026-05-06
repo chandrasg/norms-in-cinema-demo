@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "277751",
+    "title": "Maine Dil Tujhko Diya",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8Rpm0wlAcV0JRns9TDCldAD2EQh.jpg",
+    "overview": "Ayesha is the elder daughter of rich business tycoon Mr. Verma, an overprotective father who's kept his two daughters away from modern influences. Ayesha goes to college and comes in contact with Ajay, the leader of a group called Aryans, responsible for handling the security at the college. Ajay's soft-spoken nature and humble, down-to-earth attitude soon make Ayesha his most ardent admirer."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3440_bolly",
+      "emotion": "shame",
+      "dialogue": "You'll find the best of creative artists here This is simply superb Shameless boy! What vulgar portrait is that? You're mistaken, sir. - Am l? I still have to put the clothes on her, sir",
+      "target_person": "artist",
+      "target_gender": "male",
+      "cause_raw": "creating a vulgar portrait",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s3441_bolly",
+      "emotion": "shame",
+      "dialogue": "He's a rich man, and I made the mistake of calling him a waiter He has made a mistake, sir. Please forgive him There's a limit to shamelessness. Is this any way of apologising? He's angry. Ask for forgiveness lnsolent boys! There's a limit to how much one can tolerate!",
+      "target_person": "rich man",
+      "target_gender": "male",
+      "cause_raw": "mistaken identity and disrespect",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1811_bolly",
+      "emotion": "pride",
+      "dialogue": "Heard that? Friend, what you said just now makes great sense That makes me proud of Aryans Take him to a hospital I'd like to speak to you",
+      "target_person": "friend",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

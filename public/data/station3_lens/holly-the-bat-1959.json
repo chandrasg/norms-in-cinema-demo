@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "35813",
+    "title": "The Bat",
+    "year": "1959",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/78PVHYnadZ0e2BkBBSNonMZvViB.jpg",
+    "overview": "Mystery writer Cornelia Van Gorder has rented a country house called \"The Oaks\", which not long ago was the scene of some murders committed by a strange and violent criminal known as \"The Bat\". Meanwhile, the house's owner, bank president John Fleming, has recently embezzled one million dollars in securities and has hidden the proceeds in the house, but is killed before he can retrieve it."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS802_holly",
+      "emotion": "shame",
+      "dialogue": "In my opinion, if the Reverend will excuse the expression,  he doesn't have a prayer.  Oh, Doc, you ought to be ashamed.  Oh, so that's the girl you wrote me about. That was months ago.  - How come you're not married? - We plan to be in the fall.",
+      "target_person": "Doc",
+      "target_gender": "male",
+      "cause_raw": "not getting married despite having plans",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "WP1500_holly",
+      "emotion": "pride",
+      "dialogue": "But you let me fire the rifle.  The rifle's for shooting buffalo  and your brother Ben will be proud you're getting so good at it.  What you bring down with a .45,  the skins aren't worth a cent.",
+      "target_person": "Brother Ben",
+      "target_gender": "male",
+      "cause_raw": "for getting good at shooting buffalo",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1501_holly",
+      "emotion": "pride",
+      "dialogue": "and collecting his percentage of every business in town.  My husband was a stubborn man, Mr. Masterson,  with more than his share of pride.  He refused to pay. The next night we had no dealers.  Then, when he wouldn't reconsider... So, that's why this place is so salty?",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "refusing to pay",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

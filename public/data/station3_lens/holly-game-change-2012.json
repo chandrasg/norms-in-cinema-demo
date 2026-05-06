@@ -1,0 +1,135 @@
+{
+  "film": {
+    "id": "91010",
+    "title": "Game Change",
+    "year": "2012",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/wfRJbhF3zkp3eBpSHkLyzLIKqEM.jpg",
+    "overview": "During the Republican run of the 2008 Presidential election, candidate John McCain picks a relative unknown, Alaskan governor Sarah Palin, to be his running mate.  As the campaign kicks into high gear, her lack of experience, in both political and media savvy, becomes a drain upon McCain and his strategists."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 9
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 4
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 3
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4,
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1558_holly",
+      "emotion": "shame",
+      "dialogue": "In the last twenty four hours... I have been asked questionsby the National Media...that are outrageous and disgusting.  I have been asked when her amniotic fluid... started to leak with regardto her last birth.  It's shameful.  So, when did it start leaking?  She's fought the oil companies.",
+      "target_person": "National Media",
+      "target_gender": "unclear",
+      "cause_raw": "invasion of privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "WP2755_holly",
+      "emotion": "pride",
+      "dialogue": "\"Goddamn America!\"  It's the single best weapon we've got.  I wanna run a f*****g campaign that my kids can be proud of... and that precludesattacking a black reverend.  I think we're going about this all wrong.  This man is on the cover of every news magazine.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "running a respectable campaign",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2756_holly",
+      "emotion": "pride",
+      "dialogue": "No, I don't. Not at all.  Senator McCain can count on my full support.  I would be so proud to be a member of his team.  Do you reject the theory of evolution?  I'm the daughter of a science teacher.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "being a member of Senator McCain's team",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2757_holly",
+      "emotion": "pride",
+      "dialogue": "Thank you for having me at your beautiful house.  Well, come on in. Please.  One of the things I'm most proud of, Sarah... is my independence.  And I'm very impressed with how you've bucked... the republicanestablishment in Alaska.  Well, I am wired to be kinda independent there also... and I thought if I'm gonnatruly run the state...on behalf of the people...I'm gonna have to do it withoutthat good ol' boy network.",
+      "target_person": "Sarah",
+      "target_gender": "female",
+      "cause_raw": "her independence",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP2758_holly",
+      "emotion": "pride",
+      "dialogue": "A positive from this is that given the timing of Bristol's pregnancy... it makes it physically impossiblefor Trig to be her baby  so we can put that absurd rumor to rest.  We're proud of Bristol's decision to have her baby... and even prouderto become grandparents?  We're not proud that... our teenage daughteris pregnant, Maria.  And I don't want to send a message that teen pregnancy... is something to be proud of.",
+      "target_person": "Maria",
+      "target_gender": "female",
+      "cause_raw": "Bristol's decision to have her baby",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2759_holly",
+      "emotion": "pride",
+      "dialogue": "so we can put that absurd rumor to rest.  We're proud of Bristol's decision to have her baby... and even prouderto become grandparents?  We're not proud that... our teenage daughteris pregnant, Maria.  And I don't want to send a message that teen pregnancy... is something to be proud of.  I want that line out.",
+      "target_person": "Bristol's parents",
+      "target_gender": "unclear",
+      "cause_raw": "decision to have her baby",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2760_holly",
+      "emotion": "pride",
+      "dialogue": "We're proud of Bristol's decision to have her baby... and even prouderto become grandparents?  We're not proud that... our teenage daughteris pregnant, Maria.  And I don't want to send a message that teen pregnancy... is something to be proud of.  I want that line out.  Of course, Governor.",
+      "target_person": "Governor",
+      "target_gender": "male",
+      "cause_raw": "Bristol's decision to have her baby",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2761_holly",
+      "emotion": "pride",
+      "dialogue": "What the American people didn't know until today... is that Bristol isfive months pregnant.  The parents issued this statement:  \"We're proud of Bristol's decision to have her baby.\"  I specifically wanted that line taken out... and you ran it withoutchanging a word.  You're absolutely right.",
+      "target_person": "Bristol's parents",
+      "target_gender": "unclear",
+      "cause_raw": "Bristol's decision to have her baby",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2762_holly",
+      "emotion": "pride",
+      "dialogue": "Okay?  Got it.  Your oldest son is proudly heading off to Iraq next week.  Who do you see as the primary enemy at this point?  Radical Islamist extremists.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son going to Iraq",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2763_holly",
+      "emotion": "pride",
+      "dialogue": "It is a serious and solemn occasion, and John McCain... and only John McCain...will be giving this sacred speech.  This is how it has been done in every Presidential election... since the dawn of the republican.  You, Sarah Palin... will not change the importance ofthis proud, American tradition.  We fought, we fought as hard as we could... and though we feel short,the fail... the failure is mine.  Jeez, now, it's... I don't feel that short, Mark.",
+      "target_person": "Mark",
+      "target_gender": "male",
+      "cause_raw": "maintaining American tradition",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

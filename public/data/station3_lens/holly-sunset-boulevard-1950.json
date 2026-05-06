@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "599",
+    "title": "Sunset Boulevard",
+    "year": "1950",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg",
+    "overview": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1251_holly",
+      "emotion": "pride",
+      "dialogue": "I could sense her eyes on me from behind those dark glasses,  defying me not to like what I read.  Or maybe begging me in her own proud way to like it.  It meant so much to her.  It sure was a cozy setup, that bundle of raw nerves and Max",
+      "target_person": "her",
+      "target_gender": "female",
+      "cause_raw": "for her writing",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1252_holly",
+      "emotion": "pride",
+      "dialogue": "The perfect setting for a silent movie queen.  Poor devil.  Still waving proudly to a parade which had long since passed her by.  It was at her New Year's party that I found out how she felt about me.  Maybe I'd been an idiot not to have sensed it was coming.",
+      "target_person": "silent movie queen",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1253_holly",
+      "emotion": "pride",
+      "dialogue": "It sure would have made attractive headlines.  \"Great Star Kills Herself for Unknown Writer.\"  Great stars have great pride.  Go away. Go to that girl of yours.  Look, I was making that up",
+      "target_person": "Great Star",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

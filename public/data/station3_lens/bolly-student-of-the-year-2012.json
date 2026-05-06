@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "138122",
+    "title": "Student Of The Year",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/yQIph97KwXmMiXu1kOWPj065P8J.jpg",
+    "overview": "Several alumni reminisce about their final year at St. Theresa's College and the events that shaped their lives."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4257_bolly",
+      "emotion": "shame",
+      "dialogue": "About my feelings? Nothing...Neither of you wants to know them...You just want to own me...I'm not a part of the competition that you guys will fight and win...What happened, Rohan? - Nothing...Nothing? You are bleeding... And you say nothing? - Nothing. Nothing Ma... Nothing happened...Dad... Nothing happened...Look at yourself... You look like a street ruffian...Who did you fight with? Answer me...I told you I don't want to answer...You have to answer... It's my house...I have had it with your insolence...You don't speak properly at home.....but at least keep my prestige intact outside...You haven't earned prestige Dad...Only money...And that's the money that helps you live your life...You only know two things...Waste money and shame me...What are you ashamed of, Dad? Of what? That I'm not like you...Not a Xerox copy like your elder son? That I don't want to be an industrialist and I want to be a musician?",
+      "target_person": "Rohan",
+      "target_gender": "male",
+      "cause_raw": "not conforming to father's expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4258_bolly",
+      "emotion": "shame",
+      "dialogue": "That I'm not like you...Not a Xerox copy like your elder son? That I don't want to be an industrialist and I want to be a musician? Yes... I'm ashamed...Very ashamed that my son has such middle class dreams...Dreams don't have a class Dad...But that only a father would understand... Not a corrupt man! I don't want to live in your house...And I don't want to be your son...You have ceased to be my son...I was never your son..Not today... When you have been silent for so many years...Don't say anything today as well! I thought it was a family fight that would get resolved...But the spoilt rich brat had reformed...And he decided never to look back...I made the mistake of being your good friend...Now I won't lose the chance of being your worst enemy...Student of the year trophy will be mine now...I will snatch your destiny from you...Watch it...And the war took a new shade...Now it wasn't enough to win...It was important to defeat others...Friendships, relationships... all of it was immaterial...We all had our eyes on one goal...Student Of the Year...Aren't you planning to move ahead?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not conforming to father's expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4259_bolly",
+      "emotion": "shame",
+      "dialogue": "We hate each other! I thought you would call me when you had a baby...So much ego? Not ego... Shame...What was the use of all that? Forget all that and show me the baby's picture...What's her name? I can't even afford the name...You haven't changed...How's Tanya doing?",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "poverty",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2334_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm fine... And you? I'm good... Heard you have become a big coach...Yes... In the Girl's School...And you have become a very big lawyer...Yes... A BIG lawyer...I'll be back...Awkward meeting... After ten years...Today they are all saying their hellos and air kissing...Ten years ago, they wanted to kill each other...Coach sir... Four have come... Yes... So are you coming? Ok sir...He was broken after the prize distribution of your batch...He felt responsible for every broken relationship of every batch...Yours was the last batch so he remembered you very often...Especially Rohan and Abhi...He felt as proud of their every achievement as he felt regret for what happened with them...He kept withering with that regret and...I never thought I would ever see Dean Vasisht in this state...I can't believe this is the same sparkling face that welcomed us every morning with a 'Hello, boys and girls'...Those were the days...I wish those days could come back...I would change so many things... That one said... One did...I wanted to be the school's head cheerleader...I did... Yes... Just one thing...I wish things had happened between Rohan and me...Rohan... I was his biggest hanger-on...Which I mistook for friendship...But there's only one friend Rohan has... Had...Rohan Nanda...Younger son of Delhi's business tycoon, Ashok Nanda...He had taken admission in St. Teresa's",
+      "target_person": "Dean Vasisht",
+      "target_gender": "male",
+      "cause_raw": "students' achievements",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p2335_bolly",
+      "emotion": "pride",
+      "dialogue": "welcomed us every morning with a 'Hello, boys and girls'...Those were the days...I wish those days could come back...I would change so many things... That one said... One did...I wanted to be the school's head cheerleader...I did... Yes... Just one thing...I wish things had happened between Rohan and me...Rohan... I was his biggest hanger-on...Which I mistook for friendship...But there's only one friend Rohan has... Had...Rohan Nanda...Younger son of Delhi's business tycoon, Ashok Nanda...He had taken admission in St. Teresa's but was doing a degree in wasting time...He wanted to be the world's biggest rockstar! My father says I will make him proud. My son would do such a thing. But no one knows..\"Who gives up for papa?\"",
+      "target_person": "Rohan Nanda",
+      "target_gender": "male",
+      "cause_raw": "Achieving father's expectations",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2336_bolly",
+      "emotion": "pride",
+      "dialogue": "0 Radha your ear-rings. 0 Radha your jerky dance steps The entire town's behind you. 0 Radha, why so much Pride? Leaves your tantrums, what's the style in that? Did you think only are famous here.",
+      "target_person": "Radha",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

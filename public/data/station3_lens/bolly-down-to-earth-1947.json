@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "67060",
+    "title": "Down to Earth",
+    "year": "1947",
+    "industry": "bolly",
+    "country": "US",
+    "poster_path": "/vVJVe73kGdnD9iexcRR1nHlYcII.jpg",
+    "overview": "Upset at a new Broadway musical mocking The Nine Muses, Greek goddess Terpsichore comes down to earth to land a part in the show and change it."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "s3862_bolly",
+      "emotion": "shame",
+      "dialogue": "Let's sit for a while All right, but only ten minutes Damn you! You're shameless. - Cross so soon? Will you leave, or do I complain to the lady? All right, forgive me. - As if you'll ever mend your ways",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3863_bolly",
+      "emotion": "shame",
+      "dialogue": "Bloody English pudding Do you Parsis think yourselves to be the Angrez? Spare her. Aren't you ashamed? Venting your frustrations on a baby? What's the creed of pain? What sect are tears? Every star is a distant one, any hand that reaches, is far too short",
+      "target_person": "Parsis",
+      "target_gender": "unclear",
+      "cause_raw": "pretending to be British",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3864_bolly",
+      "emotion": "shame",
+      "dialogue": "There are no barbers around The barber did a great job Aren't you ashamed of doing such vile things in the name of religion? Where's Moti? - Drag him out There",
+      "target_person": "religious followers",
+      "target_gender": "unclear",
+      "cause_raw": "misusing religion for vile acts",
+      "theme_label": "Nonconformity"
+    }
+  ]
+}

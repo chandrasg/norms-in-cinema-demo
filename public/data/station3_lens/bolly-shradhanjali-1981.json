@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "510248",
+    "title": "Shradhanjali",
+    "year": "1981",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/c6A2RtrvKyrOWkLYor4MSUkXorm.jpg",
+    "overview": "Shraddha lives in Mahim, Bombay, with her widowed dad, younger school-going brother, Bittu; a step-brother and his wife, Rani. When her dad passes away, he leaves all the property in Bittu's name, which does not auger well with Rani and her husband. They lock Shraddha and Bittu in a room, refuse to feed them in order to force him to sign the papers. Both manage to escape, but Bittu is killed when boiling oil falls on his body. An unconscious Shraddha is rescued by her long-time boyfriend, Amit Kumar, who takes her to a hospital, and after she recovers, gets married to her. She is welcomed in the Kumar residence, which consists of Geeta, Amit's mom, and Raju, Amit's school-going brother. Raju welcomes Shraddha initially, but begins to hate her when she becomes pregnant."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4170_bolly",
+      "emotion": "shame",
+      "dialogue": "Shut up! How could you talk filth for the people who have housed you? You should be ashamed of yourself! Why don't you shut up! You were dying to tell the truth to daughter-in-law, right?",
+      "target_person": "character being spoken to",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting hosts",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4171_bolly",
+      "emotion": "shame",
+      "dialogue": "How can you think such a thing? Before suspecting anything you should've thought....about what she means to me. I feel ashamed to call you my wife! - The feeling is mutual. I would've never objected....if you would've kept a woman or something! - What? But if you've illicit relations behind the facade of a pious relationship like....a mother's then how can anyone keep quiet. - Shut up!",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "suspecting husband's illicit relationship",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p2260_bolly",
+      "emotion": "pride",
+      "dialogue": "You know why I started doing this thing? So that I can take care of mother if you throw us out of the house....after getting instigated by your wife. Raju....I feel angry and proud at the same time. How could you think of such a thing? You're my life. I can bestow thousand such sister-in-laws on you.",
+      "target_person": "Raju",
+      "target_gender": "male",
+      "cause_raw": "taking care of mother",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2261_bolly",
+      "emotion": "pride",
+      "dialogue": "Is your beloved sister-in-law younger than me? What do you mean? A wife who can be proud of her husband is luckier than anyone else! What exactly do you want to say? How long has this been going on?",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "having a husband to be proud of",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

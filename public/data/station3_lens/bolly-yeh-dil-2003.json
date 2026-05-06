@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "296566",
+    "title": "Yeh Dil",
+    "year": "2003",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/rV5ky5fTMVAYRuP7j9Lgslw8fBy.jpg",
+    "overview": ""
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4609_bolly",
+      "emotion": "shame",
+      "dialogue": "Ravi. Ravi. Shame on you! You elders, what our generation wants....you can never understand. Wealth, property, rich, poor, caste and class....by telling several such things....you want to separate us.",
+      "target_person": "Ravi",
+      "target_gender": "male",
+      "cause_raw": "not understanding the younger generation's perspective",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4610_bolly",
+      "emotion": "shame",
+      "dialogue": "At present we should cool down a little. This is better for everyone. Don't you feel ashamed, Police Commissioner? Daddy, didn't I tell you? In front of the parliament....in the middle of the street....right at 11 o'clock I'll tie the nuptial chain.",
+      "target_person": "Police Commissioner",
+      "target_gender": "male",
+      "cause_raw": "not maintaining law and order",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p2602_bolly",
+      "emotion": "pride",
+      "dialogue": "'Hereafter, you're not alone. I am with you.' 'You can share all your joys and sorrows with me.' 'You are so proud of yourself. That girl was looking at you.' 'She was smiling.' 'And you were just showing off instead of talking to her.'",
+      "target_person": "You'",
+      "target_gender": "male",
+      "cause_raw": "showing off",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

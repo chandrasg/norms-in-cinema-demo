@@ -1,0 +1,127 @@
+{
+  "film": {
+    "id": "45002",
+    "title": "Chamatkar",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/tJlGNBkE0DNQ9iLkHMY2gsCOza3.jpg",
+    "overview": "When Sunder loses everything, he seeks refuge in a graveyard, where he befriends a ghost."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 6
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 6,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s718_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm sorry, forgive me. Forgive me. It's not your fault ....foreigner this is the fault  of this one leg. Don't say that, I'm feeling  very ashamed. Ok, you can go now. I'll be lying here itself . - Forgive me. What do you want? - Is this Prem kutir lodge? - Yes it is.",
+      "target_person": "character with one leg",
+      "target_gender": "male",
+      "cause_raw": "physical disability",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s719_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll take care of the girls . I'll make a hotel  here. I'll keep all of them. They'll do business. Shut up, shameless  person. - get out. Stop. - Come and die under my bulldozer . You don't worry, nothing will happen.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "suggesting to exploit girls",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s720_bolly",
+      "emotion": "shame",
+      "dialogue": "I didn't touch you. I swear on god I didn't touch you. Why are my hands moving towards you? You should  be ashamed. I'll complain  against you. You b*****d, leave my sari. Listen I'm innocent. I'm helpless .",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s721_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm not doing it for spoiling  or making their character. It's my duty to save the college . I placed  the bet because.. - You should  be ashamed. You should  be ashamed. You want to make them like you.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "trying to manipulate others",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s722_bolly",
+      "emotion": "shame",
+      "dialogue": "It's my duty to save the college . I placed  the bet because.. - You should  be ashamed. You should  be ashamed. You want to make them like you. What will be the difference between honest....hardworking students and that Kunta.",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "promoting dishonesty and gambling",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s723_bolly",
+      "emotion": "shame",
+      "dialogue": "It's not your fault. . . .foreigner this is the fault of this one leg. Don't say that, I'm feeling very ashamed. Ok, you can go now. I'll be lying here itself. - Forgive me. What do you want?",
+      "target_person": "character with one leg",
+      "target_gender": "male",
+      "cause_raw": "physical disability",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s724_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll take care of the girls. I'll make a hotel here. I'll keep all of them. They'll do business. Shut up, shameless person. - get out. Stop. - Come and die under my bulldozer. You don't worry, nothing will happen.",
+      "target_person": "shamed person",
+      "target_gender": "male",
+      "cause_raw": "planning to exploit girls",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s725_bolly",
+      "emotion": "shame",
+      "dialogue": "I didn't touch you. I swear on god I didn't touch you. Why are my hands moving towards you? You should be ashamed. I'll complain against you. You b*****d, leave my sari. Listen I'm innocent. I'm helpless.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s726_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm not doing it for spoiling or making their character. It's my duty to save the college. I placed the bet because. . - You should be ashamed. You should be ashamed. You want to make them like you.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "trying to manipulate others",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s727_bolly",
+      "emotion": "shame",
+      "dialogue": "It's my duty to save the college. I placed the bet because. . - You should be ashamed. You should be ashamed. You want to make them like you. What will be the difference between honest. .",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "gambling",
+      "theme_label": "Financial Desperation"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "film": {
+    "id": "194136",
+    "title": "Sooryavansham",
+    "year": "1999",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fI9cqF4scd7OfIJB5zmfeMxD2bg.jpg",
+    "overview": "Thakur Bhanupratap, a well-respected village head, deems his youngest son Heera, a failure and treats him poorly. However, despite his father's disappointment, Heera tries his best to make him proud."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4240_bolly",
+      "emotion": "shame",
+      "dialogue": "Accountant. Yes, sir. Shameless! The man sitting before you....is a high court in himself. And court shouldn't be called in the police station. Do as he says. - Yes, sir.",
+      "target_person": "accountant",
+      "target_gender": "male",
+      "cause_raw": "disrespecting authority",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4241_bolly",
+      "emotion": "shame",
+      "dialogue": "Sir, leave the prison's door open. Dad, what happened? What's the matter? - Move aside! Have shame, rascal! Just by wearing the turban they think....that they've worn the crown of respect. You all are cowards!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting traditions",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4242_bolly",
+      "emotion": "shame",
+      "dialogue": "My disrespected ancestors! Because of your inability, today I'd to go to the prison too. I'm ashamed that hitherto I used to....feel proud of useless Thakurs like you all. it's good that you all died. Otherwise today I would have killed you all.",
+      "target_person": "ancestors",
+      "target_gender": "unclear",
+      "cause_raw": "inability to maintain family honor",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s4243_bolly",
+      "emotion": "shame",
+      "dialogue": "Give it to me. Listen. Dear. Baburao, go away from here. Aren't you ashamed to listen to other's love letter! Go away! Why are you telling him to leave? If  I make some mistake in reading.. then I'll be caught. Go!",
+      "target_person": "Baburao",
+      "target_gender": "male",
+      "cause_raw": "invading privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "p2319_bolly",
+      "emotion": "pride",
+      "dialogue": "My disrespected ancestors! Because of your inability, today I'd to go to the prison too. I'm ashamed that hitherto I used to....feel proud of useless Thakurs like you all. It's good that you all died. Otherwise today I would have killed you all.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2320_bolly",
+      "emotion": "pride",
+      "dialogue": "What's the matter, Gauri? Sister, who is she? - She is Urmila's sister-in-law. She is studying i.A.S. - Oh! That's why she's so proud. What happened? Why did you call me here?",
+      "target_person": "Urmila's sister-in-law",
+      "target_gender": "female",
+      "cause_raw": "studying I.A.S",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p2321_bolly",
+      "emotion": "pride",
+      "dialogue": "Heera whom you threw away as a useless son....today he has become so renowned....that people don't say that Bhanu Pratap Thakur's son....is passing by when they see him. In fact they see you and say that Heera's father....Bhanu Pratap Thakur is passing by. What pride can be greater than this for a father? Your other sons think that your inheritance is theirs. Heera considers you as his inheritance.",
+      "target_person": "Bhanu Pratap Thakur",
+      "target_gender": "male",
+      "cause_raw": "son's renown and respect for him",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

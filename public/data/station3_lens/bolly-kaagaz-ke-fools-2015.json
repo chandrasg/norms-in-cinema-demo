@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "340742",
+    "title": "Kaagaz Ke Fools",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/kp8sB6ZmCZdd6eJT1zidUlAUO8F.jpg",
+    "overview": "Revolving around a middle-class family, Kaagaz Ke Fools touches upon the issue of a lack of good novel writers."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2855_bolly",
+      "emotion": "shame",
+      "dialogue": "They are all together. They don't want to help to share a good thought. This society is very mean. And all of us should be ashamed of ourselves. Hey, sweetheart. Why are you getting so worried on little things? Come on, <i>I'll...</i> - Please!",
+      "target_person": "society",
+      "target_gender": "unclear",
+      "cause_raw": "lack of support and unity",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2856_bolly",
+      "emotion": "shame",
+      "dialogue": "It should be a success. That's all! Even if it's just a garbage published in the market. It's all good! Shame on me. And you know what, Nikki? Shame on you! You know what your problem is'? - What'? You are a very scared person. - Oh.",
+      "target_person": "Nikki",
+      "target_gender": "female",
+      "cause_raw": "Being fearful",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p1478_bolly",
+      "emotion": "pride",
+      "dialogue": "Nikki! I've made great red kidney beans. You will feel proud for having husband like me. Hope we are not late. How long will you delay? What'? What do you mean'?",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "cooking skill",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1479_bolly",
+      "emotion": "pride",
+      "dialogue": "You know, I didn't know this was your novel. I was really shocked. But then I thought, maybe you have changed your mind. I am so proud of you. It's really good. This is my novel'? Of course, it is.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "writing a novel",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

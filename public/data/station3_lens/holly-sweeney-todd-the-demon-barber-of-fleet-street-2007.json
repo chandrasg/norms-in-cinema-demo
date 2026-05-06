@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "13885",
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "year": "2007",
+    "industry": "holly",
+    "country": "GB|US",
+    "poster_path": "/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg",
+    "overview": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1326_holly",
+      "emotion": "shame",
+      "dialogue": "Ladies and gentlemen  May I have your attention, please?  Do you wake every morning In shame and despair  To discover your pillow Is covered with hair?  What ought not to be there",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "hair loss",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1327_holly",
+      "emotion": "shame",
+      "dialogue": "Oh, yeah. Of course we could do that.  Don't suppose he's got any relatives gonna come looking for him.  Seems a downright shame  Shame?  Seems an awful waste",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "wasting resources",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WS1328_holly",
+      "emotion": "shame",
+      "dialogue": "Don't suppose he's got any relatives gonna come looking for him.  Seems a downright shame  Shame?  Seems an awful waste  Such a nice, plump frame What's-his-name has",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "wasting resources",
+      "theme_label": "Financial Desperation"
+    }
+  ]
+}

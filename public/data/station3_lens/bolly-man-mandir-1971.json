@@ -1,0 +1,111 @@
+{
+  "film": {
+    "id": "712462",
+    "title": "Man Mandir",
+    "year": "1971",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/tG3xOjIffrQ3Ye9tTvSjsXDhGgi.jpg",
+    "overview": "Hit by endless misfortunes, the orphaned siblings Deepak and Laxmi struggle to make a life for themselves"
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3454_bolly",
+      "emotion": "shame",
+      "dialogue": "Deepak, we were playing cards and he made the wrong move. Now you tell us what should we do? All of you do this all day? And Pinto aren't you ashamed? You were an ordinary cleaner I thought you to drive. I got you a license on my recommendation.",
+      "target_person": "Pinto",
+      "target_gender": "male",
+      "cause_raw": "wasting time and not utilizing opportunities",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3455_bolly",
+      "emotion": "shame",
+      "dialogue": "He is a lawyer as well ajester. Child, you talk, I have to go out for something important. Your father is so shameless. He kept talking and didn't offer the guest a seat. You are the 1st youth to be allowed to come in the house.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "not offering guest a seat",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3456_bolly",
+      "emotion": "shame",
+      "dialogue": "So, I came with him. If anyone comes to you and tells you I sent him......will you go with him too? Can't you think? Shameless! You go around with wrong men. Don't you know what kind of a man Kishan is? Forgive me brother. I made a mistake.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "associating with disreputable men",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p1823_bolly",
+      "emotion": "pride",
+      "dialogue": "So, he the one? God has been kind enough and given me wealth. But that does not mean that I get proud and turn cruel. Even I was born like your husband Deepak. God gave him a taxi for his living and me a jewelry shop.",
+      "target_person": "jewelry shop owner",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1824_bolly",
+      "emotion": "pride",
+      "dialogue": "I've decided to get him married. That's very nice. Appoint me for the work that needs to be done. That's why I've called you. I'm proud you thought of me. This will be the first marriage in this house. It should be very grand.",
+      "target_person": "first speaker",
+      "target_gender": "male",
+      "cause_raw": "being considered for important task",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1825_bolly",
+      "emotion": "pride",
+      "dialogue": "Okay sir, I'll leave. Why are your hands shivering? You didn't ask anything from me, I did. I am the one asking. Go on, be proud. Walk with pride. So for my only son you have found a taxi driver's sister? Thank God, that we have just one son.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1826_bolly",
+      "emotion": "pride",
+      "dialogue": "I had so many dreams for you. I'd thought you will be married in a nice family one day. A rich man's son will come here with a marriage procession......and I with my head held high with pride would have said......my sister is going in such a rich family. But Laxmi, you have ruined my dreams. Tell me, why did you do this?",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "sister's marriage into a rich family",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

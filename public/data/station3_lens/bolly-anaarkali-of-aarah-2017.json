@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "449361",
+    "title": "Anaarkali of Aarah",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/nRK1wUXVtiSHNPDRuLPgsQJcteT.jpg",
+    "overview": "Hailing from Aarah in Bihar, Anarkali is an item girl, famous for her vocals, suggestive dance moves and innuendo laden lyrics. She enjoys her stardom and revels in the lusty glances. The singer acknowledges that she is no saint and even makes peace with the hatred she evokes among civilised society but what she refuses to tolerate is being exploited in public by an influential politician."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 3
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s69_bolly",
+      "emotion": "shame",
+      "dialogue": "",
+      "target_person": "women",
+      "target_gender": "female",
+      "cause_raw": "working instead of taking care of the family",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s70_bolly",
+      "emotion": "shame",
+      "dialogue": "",
+      "target_person": "women",
+      "target_gender": "female",
+      "cause_raw": "working instead of taking care of the family",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s71_bolly",
+      "emotion": "shame",
+      "dialogue": "",
+      "target_person": "women",
+      "target_gender": "female",
+      "cause_raw": "working instead of taking care of the family",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s72_bolly",
+      "emotion": "shame",
+      "dialogue": "But my mouse cannot contain my youth He pushed me from behind and robbed me of aH my shame He pushed me from behind and robbed me of aH my shame listen‘ push <i>m</i> aH the Up money msxde your mouse‘ okay? My lover from Bombay has ordered a saree from Banaras for me",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "sexual assault",
+      "theme_label": "Promiscuity"
+    }
+  ]
+}

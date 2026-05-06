@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "442405",
+    "title": "The Ghazi Attack",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/i7lITQa1v7dZZgLIdE8vZRnPhOC.jpg",
+    "overview": "India’s first underwater war film tries to decode the mystery behind the sinking of Pakistani submarine PNS Ghazi during the Indo-Pak war of 1971."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Patriotism",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2440_bolly",
+      "emotion": "pride",
+      "dialogue": "Attention stations. This is Lt. Commander Arjun Varma. Capt. Rann Vijay Singh was a proud Indian soldier. He knew what it means to be a soldier. What does it mean to be a soldier?",
+      "target_person": "Arjun Varma",
+      "target_gender": "male",
+      "cause_raw": "Being a soldier",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2441_bolly",
+      "emotion": "pride",
+      "dialogue": "This is the moment to give his sacrifice a meaning. The enemy's right in front of us......and he's got his eyes on our country. He wants to step on our pride......and set foot in our country. Will we let it happen? - No, sir. We won't let anyone go back.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "defending country",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2442_bolly",
+      "emotion": "pride",
+      "dialogue": "130 meters, sir. - No, not now. Wait...Now...now boys, open it. Sir...sir...sir...We hit them. If our captain had still been alive......he would've been proud of this 'classroom-theory' officer.",
+      "target_person": "classroom-theory' officer",
+      "target_gender": "male",
+      "cause_raw": "military success",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

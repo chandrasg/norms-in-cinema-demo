@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "21175",
+    "title": "Lakshya",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ctB8RWoK2LHn5skqN4eUWVSvpyM.jpg",
+    "overview": "An aimless, jobless, irresponsible grown man joins the army and matures into a battlefield hero."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 4
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1741_bolly",
+      "emotion": "pride",
+      "dialogue": "Not one business associate or friend...has a son or a brother out there. These people just talk big! But I can proudly say, my son is on the battlefield. There was a time I was upset with you but today I'm proud of you.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's bravery and service in battlefield",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1742_bolly",
+      "emotion": "pride",
+      "dialogue": "But I can proudly say, my son is on the battlefield. There was a time I was upset with you but today I'm proud of you. Very proud. Thank you, dad.",
+      "target_person": "dad",
+      "target_gender": "male",
+      "cause_raw": "son's bravery/courage",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1743_bolly",
+      "emotion": "pride",
+      "dialogue": "There was a time I was upset with you but today I'm proud of you. Very proud. Thank you, dad. For when the mission is successful.",
+      "target_person": "dad",
+      "target_gender": "male",
+      "cause_raw": "successful mission",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1744_bolly",
+      "emotion": "pride",
+      "dialogue": "Not one business associate or friend...has a son or a brother out there These people just talk big! But I can proudly say, my son is on the battlefield There was a time I was upset with you but today I'm proud of you",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's bravery and service in battlefield",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1745_bolly",
+      "emotion": "pride",
+      "dialogue": "But I can proudly say, my son is on the battlefield There was a time I was upset with you but today I'm proud of you very proud Thank you, dad.",
+      "target_person": "dad",
+      "target_gender": "male",
+      "cause_raw": "son's bravery/courage",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1746_bolly",
+      "emotion": "pride",
+      "dialogue": "There was a time I was upset with you but today I'm proud of you very proud Thank you, dad. For when the mission is successful",
+      "target_person": "dad",
+      "target_gender": "male",
+      "cause_raw": "successful mission",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

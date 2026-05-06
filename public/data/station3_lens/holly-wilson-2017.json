@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "346681",
+    "title": "Wilson",
+    "year": "2017",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/m63h5MxevYrKn3720hVgKZAx86S.jpg",
+    "overview": "Middle-aged and divorced, Wilson finds himself lonely, smug, and obsessed with his past."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS233_holly",
+      "emotion": "shame",
+      "dialogue": "Hey, a*****e! I'm talking to you.  Nobody has actual conversations anymore.  It's a real shame.  I mean, everybody's got something valuable to offer  if you just take the time to listen.",
+      "target_person": "Asshole",
+      "target_gender": "male",
+      "cause_raw": "not engaging in actual conversations",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP516_holly",
+      "emotion": "pride",
+      "dialogue": "It's been really hard.  I had some bad years.  I am so... ...proud of you.  ...proud of you.  You're doing so good.",
+      "target_person": "Speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "overcoming hard times",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP517_holly",
+      "emotion": "pride",
+      "dialogue": "I had some bad years.  I am so... ...proud of you.  ...proud of you.  You're doing so good.  You're an amazing woman.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "overcoming bad years",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP518_holly",
+      "emotion": "pride",
+      "dialogue": "over the simplest of pleasures was humbling  and inspirational.  You were the pride of the neighborhood,  the brightener of a thousand days.  To see a stranger's eyes tear",
+      "target_person": "stranger",
+      "target_gender": "unclear",
+      "cause_raw": "brightening a thousand days",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "film": {
+    "id": "339233",
+    "title": "Khota Sikka Jaat Ke Thaath",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/1uHnrLr5tX2CjAX1ybtcuOLdDI2.jpg",
+    "overview": "A small-town boy meets the love of his life but their families are at war with each other. They must hatch a plan to bring their families together."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 3,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3077_bolly",
+      "emotion": "shame",
+      "dialogue": "That day when you slapped me......I realized my mistake......and I just said casually that I have a twin brother. I don't have any twin brother......and even I am not a guide. I am shameful for my insolence. I am sorry Kiran. It's ok Veeru......you accepted your mistake.......that's very important.",
+      "target_person": "Veeru",
+      "target_gender": "male",
+      "cause_raw": "lying and insolence",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3078_bolly",
+      "emotion": "shame",
+      "dialogue": "But you have committed to someone else...-How can I forget that. -The way I have forget. From today, I will give my house, land, property, money......anything but I will not give promise to anyone. No dad, I can't tolerate......that you have to become shameful in front of anyone. I have forget Kiran for the sake of your reputation. No, no, no, Veeru is a good boy......he is a very good boy, very honest, very hard working......he will take good care of you. You only said so.",
+      "target_person": "Veeru",
+      "target_gender": "male",
+      "cause_raw": "breaking a promise",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3079_bolly",
+      "emotion": "shame",
+      "dialogue": "Come on get up, get up. Get up. You fool......you used to play your antics here too......you spoiled my reputation here also...-Shame on you -Dad. Now get out from here. Get out from here. -Where do I go? Go to hell, got to hell.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "spoiling family reputation",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p1598_bolly",
+      "emotion": "pride",
+      "dialogue": "But this counterfeit coin has six feet of brain. Do one thing......go and receive your brother from the bus stop......sometimes do some work also......and here you both are fighting the Kargil war......I'll court-martial you, come here. Roam the entire day with pride. No matter we are in the bed for long. Roam the entire day with pride.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1599_bolly",
+      "emotion": "pride",
+      "dialogue": "Roam the entire day with pride. No matter we are in the bed for long. Roam the entire day with pride. No matter we are in the bed for long. The one who's time is bad.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1600_bolly",
+      "emotion": "pride",
+      "dialogue": "Madam he is Maharana Pratap -The great warrior -Wow! Pride of India......he fought many battles. How is dad's nature? How would I know his dad's nature.",
+      "target_person": "Madam",
+      "target_gender": "female",
+      "cause_raw": "Maharana Pratap's achievements",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1601_bolly",
+      "emotion": "pride",
+      "dialogue": "First say who is she? She is Kiran daughter of Mr. Chadha from London. Hey! Come here, come here......you have taken a long jump. Feel to be proud of you. Tell me where the story has reached? Uncle story has to be made......then understand that your story has been made with a positive result.",
+      "target_person": "Kiran",
+      "target_gender": "female",
+      "cause_raw": "long jump achievement",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1602_bolly",
+      "emotion": "pride",
+      "dialogue": "It will spoil our reputation...-I will shoot to Chadha -How can you shoot him If you shoot him and Chadha dies......then how will you face the society? You use to be proud on this moustache......and this relatives will snatch each hair of this moustache. Dad, uncle is right. Now think what we have to do......now what to think. There's only one option......fix the marriage of Veeru and Kiran.",
+      "target_person": "uncle",
+      "target_gender": "male",
+      "cause_raw": "maintaining reputation",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1603_bolly",
+      "emotion": "pride",
+      "dialogue": "Dad I have to struggle for this...Rehmat uncle's Maruti 800, your Scorpio......our five tractors...and five acres land of grandfather......all these have been sold for 2 millions.......and from that money, I have opened this Bharatiyam banquet. Amazing, amazing. Roam the entire day with pride. No matter we are in the bed for long. Roam the entire day with pride.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "opening a banquet",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1604_bolly",
+      "emotion": "pride",
+      "dialogue": "Roam the entire day with pride. No matter we are in the bed for long. Roam the entire day with pride. No matter we are in the bed for long. The one who's time is bad.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

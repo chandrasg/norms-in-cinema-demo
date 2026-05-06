@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "267931",
+    "title": "Hidden in the Woods",
+    "year": "2014",
+    "industry": "holly",
+    "country": "FR|US",
+    "poster_path": "/8C0sZQOtCX74ML8amWQ1L0WEOts.jpg",
+    "overview": "The story of two sisters who have been raised in isolation, subjected to the torment of their abusive, drug dealing father. When they finally decide to report him to the police, he kills the two officers and is put in jail. But things go from bad to worse when the girls must answer to their Uncle Costello, a psychotic drug kingpin, who shows up looking for his missing merchandise which is hidden in the woods."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1516_holly",
+      "emotion": "shame",
+      "dialogue": "George, drag him outside and feed him to my pigs.  Yes, sir.  Shame to waste good tequila.  F**k.  About the other matter?",
+      "target_person": "George",
+      "target_gender": "male",
+      "cause_raw": "wasting good tequila",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WS1517_holly",
+      "emotion": "shame",
+      "dialogue": "But God only knows I'm only flesh and blood    Only flesh and blood    Brother, in blankets You'd covered my shame    Tattoo my skin With angelic names    God knows I shouldn't But I took it all the same",
+      "target_person": "Brother",
+      "target_gender": "male",
+      "cause_raw": "religious transgressions",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WS1518_holly",
+      "emotion": "shame",
+      "dialogue": "I wouldn't know.  So you're basically of no use to us whatsoever, at all.  That is a damn shame.  The f**k is right.  Get his a*s outside.",
+      "target_person": "Unnamed Character",
+      "target_gender": "unclear",
+      "cause_raw": "being useless",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP2653_holly",
+      "emotion": "pride",
+      "dialogue": "Even more beautiful than their mother.  Very pretty, indeed.  They're the best things I have, my pride and joy,  my flesh and blood.  Well, maybe one day introduce me to your eldest.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "having beautiful children",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

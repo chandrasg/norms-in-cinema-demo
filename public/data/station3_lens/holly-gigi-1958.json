@@ -1,0 +1,46 @@
+{
+  "film": {
+    "id": "17281",
+    "title": "Gigi",
+    "year": "1958",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/1sF5o9Cs5GMx3cYmXD64WEQBLJn.jpg",
+    "overview": "A home, a motorcar, servants, the latest fashions: the most eligible and most finicky bachelor in Paris offers them all to Gigi. But she, who's gone from girlish gawkishness to cultured glamour before our eyes, yearns for that wonderful something money can't buy."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WP1261_holly",
+      "emotion": "pride",
+      "dialogue": "Who does give the valuable jewels?  Who?  Oh, the shy, the proud.  And the social climbers. They think it's a sign of culture.  But it doesn't matter who gives them... ...as long as you never wear anything second-rate.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1262_holly",
+      "emotion": "pride",
+      "dialogue": "How would you end it?  I'll write her a note.  There is no way of writing it without it reeking of wounded pride.  Victor Hugo couldn't pull it off.  Then I'll telephone her.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1263_holly",
+      "emotion": "pride",
+      "dialogue": "That's a bore.  A bore? Not at all.  It's pride.  Just imagine your chagrin  When she sees you wander in",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

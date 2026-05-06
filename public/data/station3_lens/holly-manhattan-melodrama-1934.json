@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "28564",
+    "title": "Manhattan Melodrama",
+    "year": "1934",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/gAuBeXANJ0NhlQY7kmas63dFMz7.jpg",
+    "overview": "The friendship between two orphans endures even though they grow up on opposite sides of the law and fall in love with the same woman."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1392_holly",
+      "emotion": "shame",
+      "dialogue": "They haven't got a thing on me as long as you keep quiet.  You know, Blackie,  for a while I was almost ashamed of having loved you,  but I'm not now. I'm proud.  Yeah? Well, I think you're okay, too.",
+      "target_person": "Blackie",
+      "target_gender": "male",
+      "cause_raw": "past relationship",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WP2474_holly",
+      "emotion": "pride",
+      "dialogue": "You're gonna nail me every time I step out of line and sock me to the limit.  - You said it. - And cockeyed as it all sounds,  I'll be proud of you. What'd you think of that?  Well, how about the Manny Arnold killing?  All right, I'll bite. What about it?",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "for stepping out of line and pushing to the limit",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2475_holly",
+      "emotion": "pride",
+      "dialogue": "You know, I think those yes men would go to bed with me if they had a chance.  Don't worry, darling, they won't have a chance.  My, am I proud of myself. Imagine me, the Governor's wife.  Hey, wait a minute. I've only been nominated.  Well, I can't be worried about details.",
+      "target_person": "Governor's wife",
+      "target_gender": "female",
+      "cause_raw": "becoming the Governor's wife",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2476_holly",
+      "emotion": "pride",
+      "dialogue": "You know, Blackie,  for a while I was almost ashamed of having loved you,  but I'm not now. I'm proud.  Yeah? Well, I think you're okay, too.  Time's up.",
+      "target_person": "Blackie",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

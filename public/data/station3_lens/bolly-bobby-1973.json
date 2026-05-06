@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "21496",
+    "title": "Bobby",
+    "year": "1973",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/n6qMnbPuq6m28ncbyS29vzoLI0H.jpg",
+    "overview": "Raja is the 18-year-old son of a wealthy Bombay businessman who suffers from his parents coldness and neglect. Shortly after finishing school he meets Bobby, the 16-year-old daughter of a poor Christian fisherman. They fall head over heels for each other, but they'll need everything they have to defend their love as their families won't accept them marrying each other..."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s602_bolly",
+      "emotion": "shame",
+      "dialogue": "Look towards the gate. - There's a limit to... - Listen, will you? Cool it. You've your whole life to pen poetry. But a girl like...Aren't you ashamed? What if your parents find out? Don't get worked up now. Are our parents losing sleep over us? I tell the truth, that's why people get disturbed.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards a girl",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s603_bolly",
+      "emotion": "shame",
+      "dialogue": "Can't wear this in front of him, eh? These are my working clothes. I work, so I earn and keep the hearth burning! He'll feel ashamed to see me in these clothes, eh? And you'll go to a movie with my permission? No! I told you I won't come. Don't worry.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "not conforming to traditional gender roles",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s604_bolly",
+      "emotion": "shame",
+      "dialogue": "Let go of my hand, I say! - What happened, dear? - Nothing...He has teased her! She was yelling \"Let me go!\" Eve-teaser, eh? Shameless being! You manhandle a guest? Rascal! Cad! Tease a girl? You cur!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "eve-teasing",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s605_bolly",
+      "emotion": "shame",
+      "dialogue": "You cur! How did you come here? Shameless rascal! Cur! Don't ever come here. Get lost! Break down temples and mosques, if you wish So says the Sufi Saint Buleshah",
+      "target_person": "unidentified person",
+      "target_gender": "unclear",
+      "cause_raw": "trespassing/invading personal space",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s606_bolly",
+      "emotion": "shame",
+      "dialogue": "- But we're ablaze here! - It's hot, but I see no fire...You don't, but I'm feeling the heat. I don't understand. I'm ashamed to say it. One doesn't know when my son...and that s**t-of a-daughter of a servant...But Bobby's not a s**t. No doubt. Aunty was my governess...But everybody has a lean period. Today they're well settled in life. Who all will I tell this to? Everyone knows she was our servant. Was! Today they have servants. Mr. Braganza has some status today.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "relationship with a lower class girl",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

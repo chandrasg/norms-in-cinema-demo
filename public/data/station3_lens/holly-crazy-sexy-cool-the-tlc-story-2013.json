@@ -1,0 +1,118 @@
+{
+  "film": {
+    "id": "229580",
+    "title": "Crazy Sexy Cool: The TLC Story",
+    "year": "2013",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "/gaFZTDtzjN5kZgk3M83YPCCzHVG.jpg",
+    "overview": "TLC's humble beginnings in Atlanta quickly led to an unprecedented rise to fame in the 1990's as one of the world's most talented, celebrated and highest-selling female groups of all time. Through very public and high profile success, turmoil and tragedy, TLC left an indelible stamp of female empowerment that changed the face of the music industry forever."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 10
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2735_holly",
+      "emotion": "pride",
+      "dialogue": "But he gonna see, though.  Yeah, he definitely gonna see,  'cause i'ma make him proud.  'cause i'm fittin' to blow up.  Blow it up.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "blowing up or succeeding",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2736_holly",
+      "emotion": "pride",
+      "dialogue": "Yo, if I need it in the morning    or the middle of the night  -  I ain't too proud to beg, no   -  if the lovin' is strong    then he got it goin' on and",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2737_holly",
+      "emotion": "pride",
+      "dialogue": "-  if the lovin' is strong    then he got it goin' on and   -  I ain't too proud to beg, no   -  two inches or a yard   rock hard or if it's saggin'",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2738_holly",
+      "emotion": "pride",
+      "dialogue": "-  two inches or a yard   rock hard or if it's saggin'   -  I ain't too proud to beg, no   -  so it ain't like i'm braggin'    just join the paddywagon",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2739_holly",
+      "emotion": "pride",
+      "dialogue": "-  so it ain't like i'm braggin'    just join the paddywagon   'cause I ain't too proud   -  I ain't too proud to beg, no   Cut.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2740_holly",
+      "emotion": "pride",
+      "dialogue": "just join the paddywagon   'cause I ain't too proud   -  I ain't too proud to beg, no   Cut.  Yo, this is our video.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2741_holly",
+      "emotion": "pride",
+      "dialogue": "We in the house.  Yeah, come on!  All: I ain't too proud to beg!  I ain't too proud to beg.  - Yo, T-Boz, is ya bein' a boss?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2742_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah, come on!  All: I ain't too proud to beg!  I ain't too proud to beg.  - Yo, T-Boz, is ya bein' a boss?  Chilli, what's up with that sauce?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2743_holly",
+      "emotion": "pride",
+      "dialogue": "Yo, if I need it in the morning   or the middle of the night  -  I ain't too proud to beg, no   -  if the lovin' is strong    then he got it goin' on and",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2744_holly",
+      "emotion": "pride",
+      "dialogue": "-  if the lovin' is strong    then he got it goin' on and   -  I ain't too proud, I ain't too proud to beg   -  baby, baby, baby, baby   I got so much love in me",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

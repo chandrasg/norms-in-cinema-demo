@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "307856",
+    "title": "Jwar Bhata",
+    "year": "1944",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/oAN26v1vCF2ezzln00WCKoA8taj.jpg",
+    "overview": "Film starring Ruma Guha Thakurta, Aga Jaan and Vikram Kapoor"
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2822_bolly",
+      "emotion": "shame",
+      "dialogue": "So this is a shop.. you have to entertain new men? What can I do? I have to bear the barbs of their looks. If a gentleman like you would support me, I won't live in shame. I swear by you, no man has ever touched me. I sell my art for a living.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being a dancer/entertainer",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2823_bolly",
+      "emotion": "shame",
+      "dialogue": "I must have been born under a terrible star. Hence I married this hopeless man! With a step daughter who brought shame to my name! We can't face society! Do you know your sister is still unmarried because of you?",
+      "target_person": "step daughter",
+      "target_gender": "female",
+      "cause_raw": "causing social embarrassment",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2824_bolly",
+      "emotion": "shame",
+      "dialogue": "A millionaire wont' do for her. She must've played with hundreds and one fool must've been trapped! Have some shame! Even God must feel shame. Congratulations on your luck. Now get out. Or you'll spoil my child's habits!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "promiscuity",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s2825_bolly",
+      "emotion": "shame",
+      "dialogue": "All the witnesses are false! This old woman with the betel nut, the tall old man, lawyer all liars! How can I tell you...? I'm an indian girl ashamed to say this. In addition to family members I have other witnesses..who have no relation to Balraj or other family members. Witness 4, Fakira the beggar.",
+      "target_person": "Indian girl",
+      "target_gender": "female",
+      "cause_raw": "false accusations",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s2826_bolly",
+      "emotion": "shame",
+      "dialogue": "Unfortunately, there's no such punishment in law. By section 467, 68 of the indian Penal Code, I sentence.....these swindlers to 7 years of rigorous imprisonment. Have you no shame? Good bye. The court releases Mr. Balraj with honour",
+      "target_person": "swindlers",
+      "target_gender": "unclear",
+      "cause_raw": "fraud and deception",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p1472_bolly",
+      "emotion": "pride",
+      "dialogue": "He's your blood relation. He'll inherit your business. Don't talk about this in my presence! Children will be proud about their family wealth. Times are bad. The earlier you adopt Anokhe legally....people will stop talking. Adoption again! Even the radio plays different songs.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

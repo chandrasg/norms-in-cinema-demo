@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "28971",
+    "title": "Limelight",
+    "year": "1952",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/wNWQS4cPTVtyOPzMZ9HSjmOLZ97.jpg",
+    "overview": "A fading music hall comedian tries to help a despondent ballet dancer learn to walk and to again feel confident about life."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS61_holly",
+      "emotion": "shame",
+      "dialogue": "Phyllis! Henry! Stop that!  What do you think you're doing?  You ought to be ashamed of yourselves, fighting like that!  Alright. Phyllis, stay in the box! Henry!  You should have done that before I opened the box.",
+      "target_person": "Phyllis and Henry",
+      "target_gender": "unclear",
+      "cause_raw": "fighting",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS62_holly",
+      "emotion": "shame",
+      "dialogue": "Why?  You've associated it with the unhappy life of your sister  who paid for your lessons through a life of shame.  You've been ashamed to dance ever since.  I'd despise myself if I thought that.",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "living a shameful life to pay for someone else's lessons",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS63_holly",
+      "emotion": "shame",
+      "dialogue": "You've associated it with the unhappy life of your sister  who paid for your lessons through a life of shame.  You've been ashamed to dance ever since.  I'd despise myself if I thought that.  That's the trouble, you do.",
+      "target_person": "Unnamed",
+      "target_gender": "female",
+      "cause_raw": "associating shame with sibling's sacrifice",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS64_holly",
+      "emotion": "shame",
+      "dialogue": "I was looking for you outside.  What are you doing sitting in the dark?  I'd be ridiculous in the light. Look at me, I'm shameless.  But I can't help it.  My dear, you are a true artist.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "self-deprecation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP100_holly",
+      "emotion": "pride",
+      "dialogue": "Captain, would you like to contribute?  No, that's all right, put it in.  I've no false pride.  Sit down, have a drink.  Thank you, old man, not during office hours. But I'll sit down.",
+      "target_person": "Captain",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "film": {
+    "id": "309151",
+    "title": "Kalicharan",
+    "year": "1976",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vkKMmkZVntE2qj52W9C2UhBVhAr.jpg",
+    "overview": "A police officer goes undercover to catch a wealthy and reputable person, who is involved in criminal activities."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2945_bolly",
+      "emotion": "shame",
+      "dialogue": "Lion is his name. You're lying. You're misleading me! He's a reputed man of the city. Aren't you ashamed of blaming him......Lion means Din Dayal, do you know that? I knew DSP, that you'd not believe. No one will believe.",
+      "target_person": "DSP",
+      "target_gender": "male",
+      "cause_raw": "false accusation",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s2946_bolly",
+      "emotion": "shame",
+      "dialogue": "Jhannu, arrange tea for sir! Shaka is my name, boss. Are you not ashamed of looting the poor? Anger......is a bad thing, sir! You have come to Shaka's area.",
+      "target_person": "Shaka",
+      "target_gender": "male",
+      "cause_raw": "exploiting the poor",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2947_bolly",
+      "emotion": "shame",
+      "dialogue": "Why do you invite their curse! And then you fight with an honest police officer. I feel ashamed of calling you my brother. If there would be more people like you, then...India will surely go down! O, that's nice!",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "dishonesty and corruption",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2948_bolly",
+      "emotion": "shame",
+      "dialogue": "This is the only message from my loyal dogs! Sorry, boss! I am ashamed at this failure of Shaka! Now you don't need to be ashamed of anything. This job shall be......done by me.",
+      "target_person": "Shaka",
+      "target_gender": "male",
+      "cause_raw": "failure in a task",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2949_bolly",
+      "emotion": "shame",
+      "dialogue": "Sorry, boss! I am ashamed at this failure of Shaka! Now you don't need to be ashamed of anything. This job shall be......done by me. You, boss! - Yes!",
+      "target_person": "Shaka",
+      "target_gender": "male",
+      "cause_raw": "failure in accomplishing a task",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2950_bolly",
+      "emotion": "shame",
+      "dialogue": "No, papa! We didn't see anything. No, brother! Even I didn't see anything. Shut up, you b***h! Are you not ashamed?! Look, uncle's here. Good morning everyone, how are you?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "lying or not speaking the truth",
+      "theme_label": "Dishonesty"
+    }
+  ]
+}

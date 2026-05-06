@@ -1,0 +1,58 @@
+{
+  "film": {
+    "id": "81113",
+    "title": "Thirty Day Princess",
+    "year": "1934",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/xGEjDGrgVkn5EaNuoiP8cX3rSGs.jpg",
+    "overview": "A European princess arrives in New York City to secure a much-needed loan for her country. She contracts the mumps, and an actress who looks exactly like her is hired to impersonate her."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS3_holly",
+      "emotion": "shame",
+      "dialogue": "There's an extra 5,000 in it for you if you can.  Confidentially, I'd have done it for four.  \"I should regret having to inform Her Highness that you are ashamed  \"to come after your unwarranted attack on the Taronian bond issue.\"  Ashamed, huh?",
+      "target_person": "Her Highness",
+      "target_gender": "female",
+      "cause_raw": "unwarranted attack on the Taronian bond issue",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS4_holly",
+      "emotion": "shame",
+      "dialogue": "\"I should regret having to inform Her Highness that you are ashamed  \"to come after your unwarranted attack on the Taronian bond issue.\"  Ashamed, huh?  He thought that'd get me. Well, it does.  - You mean you're going? - Why not?",
+      "target_person": "Her Highness",
+      "target_gender": "female",
+      "cause_raw": "unwarranted attack on the Taronian bond issue",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WP10_holly",
+      "emotion": "pride",
+      "dialogue": "To vamp me out of exposing that rotten loan.  It isn't a rotten loan.  Pretty proud of yourself, aren't you?  No.  Made a fine sap out of me, didn't you?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "464315",
+    "title": "Lal Patthar",
+    "year": "1971",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "",
+    "overview": "A vain, self-righteous nobleman falls in love with a village girl and tries to transform her into his version of the ideal woman."
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 5
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3309_bolly",
+      "emotion": "shame",
+      "dialogue": "- Go, get the stuff from the car. - Me? impossible! I cannot walk any more, Leela, you go and get it. Don't you feel ashamed? Lmpossible indeed! Who asked you to insist that we see everything in a day? And now? 'I am tired, I cannot walk anymore'!",
+      "target_person": "Leela's companion",
+      "target_gender": "male",
+      "cause_raw": "Laziness and lack of responsibility",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3310_bolly",
+      "emotion": "shame",
+      "dialogue": "Who asked you to insist that we see everything in a day? And now? 'I am tired, I cannot walk anymore'! Shameless! What! Did you hear that, sister-in-law? Why do you pay attention to that nut?",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "complaining and not being able to keep up",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3311_bolly",
+      "emotion": "shame",
+      "dialogue": "You seem to know everything. Had the king summoned you too in his palace? You shameless fellow! How dare you! - Who is this bearded man? - Ask me. I am Kumar Bahadur's attendant.",
+      "target_person": "bearded man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting and questioning authority",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3312_bolly",
+      "emotion": "shame",
+      "dialogue": "Have you started drinking at such a young age? Has Kumar Bahadur ever touched liquor? Shameless fellow! Liar! Go and do your work. I am not lying, and I am not drunk either.",
+      "target_person": "young man",
+      "target_gender": "male",
+      "cause_raw": "drinking at a young age",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "s3313_bolly",
+      "emotion": "shame",
+      "dialogue": "You blow away her money too in liquor and races. You have even mortgaged the house, & then you act high handed? Don't you feel ashamed? - Why should I feel ashamed? - Mother! Mother, be quiet.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "irresponsible financial behavior",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3314_bolly",
+      "emotion": "shame",
+      "dialogue": "You have even mortgaged the house, & then you act high handed? Don't you feel ashamed? - Why should I feel ashamed? - Mother! Mother, be quiet. I will not stay quiet. I have kept quiet all my life.",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "financial irresponsibility",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3315_bolly",
+      "emotion": "shame",
+      "dialogue": "What's wrong with you? Leave me! No, I won't leave you. You should feel ashamed of yourself! You will have to leave. I know that.",
+      "target_person": "person being grabbed",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate physical contact",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3316_bolly",
+      "emotion": "shame",
+      "dialogue": "You talk of love? You don't know to love. You don't understand a woman's feelings. You never can. What you did with Shekhar today......after that, don't you feel ashamed to say all this? No! And there is no point in telling you why I did that. You won't understand. You have gone mad with rage.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "not understanding a woman's feelings and acting out in rage",
+      "theme_label": "Poverty"
+    }
+  ]
+}

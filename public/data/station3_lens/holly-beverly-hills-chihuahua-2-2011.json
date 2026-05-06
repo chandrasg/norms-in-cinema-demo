@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "54540",
+    "title": "Beverly Hills Chihuahua 2",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/k3IHj3utp8m0X1KpNHyfOIsypE1.jpg",
+    "overview": "Puppy mayhem turns the lives of newlywed Chihuahua parents Papi and Chloe upside down when their rambunctious, mischievous puppies present one challenge after another. But when their human owners end up in trouble, the tiny pups will stop at nothing to save them - because in good times and hard times, the family always sticks together. So Papi, Chloe and the puppies embark on a heroic adventure, proving once again that big heroes come in small packages."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2606_holly",
+      "emotion": "pride",
+      "dialogue": "Sometimes, they were messages of love.  The Chihuahuas faced great danger to deliver these messages  and did so proudly.  They knew true love is worth any risk.  Now, my little Chihuahua Warriors,",
+      "target_person": "Chihuahuas",
+      "target_gender": "unclear",
+      "cause_raw": "delivering messages of love despite danger",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2607_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, Sam, there must be something we can do. I'm gonna ask Aunt Viv.  (SAM) No, no, no.  My father's very proud.  Borrowing money is something he just can't do.  - I'm gonna come home. - No, it's OK.",
+      "target_person": "Sam's father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2608_holly",
+      "emotion": "pride",
+      "dialogue": "OK, OK, you can have 'em. But act like you don't like 'em.  - OK, Dad. - Promise.  Papi, I'm so proud of you.  You're really becoming the father I always knew you could be.  Thank you, mi corazon.",
+      "target_person": "Papi",
+      "target_gender": "male",
+      "cause_raw": "becoming a better father",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

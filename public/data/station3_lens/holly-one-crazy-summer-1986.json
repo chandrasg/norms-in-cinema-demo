@@ -1,0 +1,56 @@
+{
+  "film": {
+    "id": "18282",
+    "title": "One Crazy Summer",
+    "year": "1986",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/hwrMVPwGFB3fouqD5PhhmbafB7G.jpg",
+    "overview": "An aspiring teenage cartoonist and his friends come to the aid of a singer trying to save her family property from developers."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Heroic Bravery",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1429_holly",
+      "emotion": "pride",
+      "dialogue": "Grammy. The high school graduates are here.  Look who it is.  My pride and joy.  There's my little girl.  Look what Grammy bought for you.",
+      "target_person": "Grammy",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1430_holly",
+      "emotion": "pride",
+      "dialogue": "I heard what you did, Ack Ack. It's all over the island.  You're a hero.  I'm proud of you, Son.  Damn proud.  I want you to come home.",
+      "target_person": "Ack Ack's father",
+      "target_gender": "male",
+      "cause_raw": "Ack Ack being a hero",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "WP1431_holly",
+      "emotion": "pride",
+      "dialogue": "You're a hero.  I'm proud of you, Son.  Damn proud.  I want you to come home.  Does this mean I have to give back the bazooka?",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "being a hero",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "375057",
+    "title": "The Silent Heroes",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "",
+    "overview": "The story of 13 Real deaf children and their heroism, passion and humanity."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2461_bolly",
+      "emotion": "pride",
+      "dialogue": "and with proper therapy, these children can lead a normal life. After all something has to be done. So that people look upon them with pride And that's simple. They have to reach the top. Have to show something",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Achieving success",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2462_bolly",
+      "emotion": "pride",
+      "dialogue": "who all...please... talk with them please...Your son Ashish says to bring home happiness and make you feel proud. and make you feel proud. he has also silently woven a dream",
+      "target_person": "Ashish",
+      "target_gender": "male",
+      "cause_raw": "bringing happiness to home",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2463_bolly",
+      "emotion": "pride",
+      "dialogue": "please...Your son Ashish says to bring home happiness and make you feel proud. and make you feel proud. he has also silently woven a dream and he has taken a vow",
+      "target_person": "son Ashish",
+      "target_gender": "male",
+      "cause_raw": "bringing happiness and fulfilling a vow",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2464_bolly",
+      "emotion": "pride",
+      "dialogue": "He continues to run despite being  tired just for you. so...that you could be proud.  Time has come to show what these kids have learnt. To demonstrate , these kids have prepared a small skit",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2465_bolly",
+      "emotion": "pride",
+      "dialogue": "and because of her unprofessional attitude, Kshitijs dreams That people look upon them with pride...You would tell better if the same was realised. but then...I am dreaming right now of the next training for these children...These roads are the same, Same is the view But that time is lost somewhere",
+      "target_person": "Kshitij",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2466_bolly",
+      "emotion": "pride",
+      "dialogue": "We spoke to their trainer, Kapil You can see this raft made by the kids. You can see how it was made. It is not a professional raft...I really doubt if normal children could have done what  these kids have done. They are extra ordinary . May be this first film of it's kind and we are all proud to be associated with it. Group of 13 children from Bajaj Institute of Learning , Dehradun has reached NIM, Uttarkashi, for special training and mountaineering mission. To understand problems and safety concerns, we spoke with their teacher who is still in hospital .",
+      "target_person": "Kapil",
+      "target_gender": "male",
+      "cause_raw": "extraordinary achievement of children",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

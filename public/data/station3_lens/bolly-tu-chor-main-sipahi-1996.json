@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "333583",
+    "title": "Tu Chor Main Sipahi",
+    "year": "1996",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/cmRoqW06eqgjSLiAuxgD3sVscJK.jpg",
+    "overview": "Thakur Gajendra Singh runs a criminal empire from a small town. The Thakur rules this town, including the police, who only cater to his interests. His town has been known to be the grave-yard of police officers who have dared to oppose him. Inspector Amar Varma accepts the assignment to serve in this town, not knowing that he is not only putting his own life, but the lives of his loved ones also, in the hands of the merciless Thakur."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1999_bolly",
+      "emotion": "shame",
+      "dialogue": "only?! - Is that all you've earned?! - yes! aren't you ashamed of yourself?! you should make moneyfor your daughter.s sake, if not for yourself...won.t you leave anything for her? I see! so you have bought lands in your village.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "not earning enough money",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2000_bolly",
+      "emotion": "shame",
+      "dialogue": "you're the thief. and I am the cop. we know very well where our paths lead us to. shame on you! y ou couldn.t get hold of 2 men! there.s no trace of them! we searched every house. we scoured the forest. but we couldn't find them.",
+      "target_person": "police",
+      "target_gender": "male",
+      "cause_raw": "incompetence in catching criminals",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p1054_bolly",
+      "emotion": "pride",
+      "dialogue": ".what are you doing, sir?! you are senior to me by far!..a man.s work and valour proves his stature. hot age or hierarchy. .say what. constable? - y es sir! great words!.. i salute you for that! you have done the whole department proud. .to tell you the truth, the prestige our department enjoys........is all because of police officers like me... and you! you're the only one who encourages me...but. the commissioner is always cross with me...the commissioner is mad. I wonder who made that fool a commissioner!",
+      "target_person": "constable",
+      "target_gender": "male",
+      "cause_raw": "valour and work",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "film": {
+    "id": "172671",
+    "title": "Khilona",
+    "year": "1970",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/d25rdrWBat3ep3KQhM56wI9Et7R.jpg",
+    "overview": "Thakur Suraj Singh lives a wealthy lifestyle with his wife; three sons - Kishore, his wife Laxmi & two children Pappu and Laali; Vijaykamal, & Mohan; and an unmarried daughter, Radha. Kishore looks after the family business, while Vijaykamal is a renowned poet, and Mohan is studying law in the city. Vijaykamal is in love with lovely Sapna, but she is forced to marry Bihari, and kills herself on the night of the marriage. Vijaykamal witnesses her death and loses his mind. The family decide to keep him under lock and key on the terrace of their house. Unable to admit Vijaykamal to a mental asylum, Suraj brings home a young courtesan, Chand, who he hopes will cure Vijaykamal, and she does succeed considerably, but is traumatized, sexually assaulted by Vijaykamal, and abused by the rest of the family."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 3
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 3
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3064_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you doing here? Go! Your food is getting cold. And I should not see you here again! Radha, dont you feel ashamed to come here? Leave! When your wedding is being fixed, what will people say? They are children...but you know your company will be a bad influence on them.",
+      "target_person": "Radha",
+      "target_gender": "female",
+      "cause_raw": "Being in a place she shouldn't be and potentially influencing children negatively",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3065_bolly",
+      "emotion": "shame",
+      "dialogue": "Can I really become a heroine? -Atop most one. So you are Thakurs hired daughter-in-law. Bihari! Dont you feel ashamed to influence a naive girl like Radha? Even you are naive, Chand. You didnt get influenced by me. What do you want? - I want you even today.",
+      "target_person": "Bihari",
+      "target_gender": "male",
+      "cause_raw": "influencing a naive girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3066_bolly",
+      "emotion": "shame",
+      "dialogue": "Go away! Dont believe him, Sir. You know he is not human, but a friend. Shut-up! No one had dared to point fingers at our family until now...you have put it to shame today. No, I did no such thing. I care about your prestige. Believe me, I did not call Bihari here.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "Accused of damaging family reputation",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3067_bolly",
+      "emotion": "shame",
+      "dialogue": "I wont allow any more humiliation of you. Forget about me. You are from a decent family. If you suffer any slur, it will be a shame for me. No, I will give up my life, I have no other option. Dont say that. - Dont stop me.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being associated with a man of lower status",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3068_bolly",
+      "emotion": "shame",
+      "dialogue": "And this mad man who was not in his senses...Thakur brought this beautiful toy for him. And he played with this toy day and night. Not only is the Thakur, but his entire family...is responsible for this shameful act. They used a girl for their selfish needs. On one side of the terrace was Bihari, on the other, the accused...and this nautch girl in between.",
+      "target_person": "Thakur and his family",
+      "target_gender": "male",
+      "cause_raw": "exploiting a girl for personal pleasure",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1596_bolly",
+      "emotion": "pride",
+      "dialogue": "Your coloured lips...\"\" i fear to call lotus\"\" Over your indifferent attitude...\"\" i fear to write a verse\"\" It could be that you become even more proud if allow the defamation of my beau You, my love, will become famous as a betrayer",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1597_bolly",
+      "emotion": "pride",
+      "dialogue": "I fear you may become a film star. - Brother! You have set an example by bringing Chand home. Ma, even you must feel proud. You have a great husband. lll meet Vijay and come. Hes grown so big, yet hes so immature.",
+      "target_person": "Ma",
+      "target_gender": "female",
+      "cause_raw": "having a great husband",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

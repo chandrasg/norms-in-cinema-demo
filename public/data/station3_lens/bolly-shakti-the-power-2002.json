@@ -1,0 +1,131 @@
+{
+  "film": {
+    "id": "161179",
+    "title": "Shakti: The Power",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/3nn3XFCa0FreqSG7GfDK5bDUH12.jpg",
+    "overview": "A couple visits the husband's family in India and finds itself in the middle of a fratricidal battle."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Patriotism",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    },
+    "pride": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1961_bolly",
+      "emotion": "shame",
+      "dialogue": "What sort of a man are you to giVe explosiVes to a child? The skies haVen't fallen if we blew up a bomb You ought to be ashamed! If the bomb had gone off in his hands...he could haVe lost a limb... anything could haVe happened This child is no bomb you can replace with another What madam...? Do you eat fodder to act like an animal?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "endangering a child's life",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s1962_bolly",
+      "emotion": "shame",
+      "dialogue": "You and I too. But as long as we liVe, we must lead a proud life Now look... - Look at what? You're a shameless woman! There was your husband, lying dead...and you were all set to leaVe. - GiVe my son to me! He stays here. You may stay here too, if you wish to But listen carefully. Don't you eVer mess with me again. Do you understand?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "leaving her husband's house after his death",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4147_bolly",
+      "emotion": "shame",
+      "dialogue": "What sort of a man are you to give explosives to a child? The skies haven't fallen if we blew up a bomb You ought to be ashamed! If the bomb had gone off in his hands...he could have lost a limb... anything could have happened This child is no bomb you can replace with another What madam...? Do you eat fodder to act like an animal?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "endangering a child's life",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s4148_bolly",
+      "emotion": "shame",
+      "dialogue": "You and I too. But as long as we live, we must lead a proud life Now look... - Look at what? You're a shameless woman! There was your husband, lying dead...and you were all set to leave. - Give my son to me! He stays here. You may stay here too, if you wish to But listen carefully. Don't you ever mess with me again. Do you understand?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "leaving her dead husband",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1026_bolly",
+      "emotion": "pride",
+      "dialogue": "You and I dance... we sway Under the gleaming swords...the anklets chime The drum-beat...''This soil we loVe... we are proud of it'' We're the stirring winds that will uproot the enemy We stand like the tall mountains",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "love for homeland",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p1027_bolly",
+      "emotion": "pride",
+      "dialogue": "The three of us. Let's go, please! - But what is the matter? What is the matter? He was teaching Raja to burst a grenade You're proud of him, aren't you? But he's a beast! A wild animal! He applies the holy mark on his forehead, he cuts up a goat...and he turns your sister into a widow! He broke her bangles and he sent that man's head rolling...He's a killer. A bloody killer!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1028_bolly",
+      "emotion": "pride",
+      "dialogue": "Do you understand? That husband of yours in the picture...he was a fox born to a tiger! He went away to a foreign land...and forget his manliness in your cosmetic beauty And now he's dead. But eVeryone has to die You and I too. But as long as we liVe, we must lead a proud life Now look... - Look at what? You're a shameless woman! There was your husband, lying dead...and you were all set to leaVe. - GiVe my son to me!",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2242_bolly",
+      "emotion": "pride",
+      "dialogue": "You and I dance... we sway Under the gleaming swords...the anklets chime The drum-beat...\"This soil we love... we are proud of it\" We're the stirring winds that will uproot the enemy We stand like the tall mountains",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "love for the homeland",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2243_bolly",
+      "emotion": "pride",
+      "dialogue": "The three of us. Let's go, please! - But what is the matter? What is the matter? He was teaching Raja to burst a grenade You're proud of him, aren't you? But he's a beast! A wild animal! He applies the holy mark on his forehead, he cuts up a goat...and he turns your sister into a widow! He broke her bangles and he sent that man's head rolling...He's a killer. A bloody killer!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2244_bolly",
+      "emotion": "pride",
+      "dialogue": "Do you understand? That husband of yours in the picture...he was a fox born to a tiger! He went away to a foreign land...and forget his manliness in your cosmetic beauty And now he's dead. But everyone has to die You and I too. But as long as we live, we must lead a proud life Now look... - Look at what? You're a shameless woman! There was your husband, lying dead...and you were all set to leave. - Give my son to me!",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

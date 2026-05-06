@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "16226",
+    "title": "Lady Death",
+    "year": "2004",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/xVK9NOhb2jhkVqzTOjjnrQ3BUxk.jpg",
+    "overview": "When accused by the townspeople of being in league with the Devil, Hope finds herself in a satanic deal for her life. After refusing the terms of the deal, she transforms into the powerful Lady Death and vows to wrest control of hell from her father."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1440_holly",
+      "emotion": "shame",
+      "dialogue": "Please understand it takes a commitment... You're right, Boris, but... Dad said that I am committed to the war effort.  Dad said that I am committed to the war effort.  I cannot sit here, ashamed. And you? Can you do that?  It is more important for me here. Everyone does their part.  I have a degree and a trained shooter.",
+      "target_person": "Boris",
+      "target_gender": "male",
+      "cause_raw": "not contributing to the war effort",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2528_holly",
+      "emotion": "pride",
+      "dialogue": "I was accepted.  First on the list! Bravo, congratulations.  You can be proud of me for once.  Misha...be gentle with her today.  Father! When will you be back? Father?",
+      "target_person": "First speaker",
+      "target_gender": "male",
+      "cause_raw": "being accepted first on a list",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP2529_holly",
+      "emotion": "pride",
+      "dialogue": "to learn how to fight in this field is leading to a great number of deaths.  I do not want to dig out or mask it.  You need to change your uniform? Our uniform is our pride.  Comrades, meet Sergeant Lyuda Pavlichenko.  As they say, God sent us a sniper.",
+      "target_person": "Sergeant Lyuda Pavlichenko",
+      "target_gender": "female",
+      "cause_raw": "their uniform",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

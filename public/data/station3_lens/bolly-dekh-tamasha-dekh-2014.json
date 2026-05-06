@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "264186",
+    "title": "Dekh Tamasha Dekh",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/rsSFcPJPRtlROpLKLHvLqZrILPO.jpg",
+    "overview": "Dekh Tamasha Dekh is a political and social satire based on a true story, it revolves around the search for the religious identity of a poor man crushed under the weight of a politician`s hoarding."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 3
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s992_bolly",
+      "emotion": "shame",
+      "dialogue": "I was about to fire in the air... but... - What? By then it was all over. Blackie had shamed the police department. Constable laik! it's you ault! All because of your negligence...Elizabeth the star police b***h bore a litter of six and she died.",
+      "target_person": "Constable Laik",
+      "target_gender": "male",
+      "cause_raw": "Negligence leading to the death of a police dog",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s993_bolly",
+      "emotion": "shame",
+      "dialogue": "No use. Screw his rear, his front, or slug it right into his mouth...all le ill. Tinker with history and you're damned. Shame on Professor Shastri. Down with the deaf professor! Now, what do you want? Ban.",
+      "target_person": "Professor Shastri",
+      "target_gender": "male",
+      "cause_raw": "Manipulating history",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s994_bolly",
+      "emotion": "shame",
+      "dialogue": "Ban. Have you read the book? - Several times. Each time I have felt ashamed. ook outsie, see tle an ge oe you listoy. Not just my history, it's yours too. - No. Our history is different.",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "lack of knowledge about history",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s995_bolly",
+      "emotion": "shame",
+      "dialogue": "I reasoned with them. That is why they are only burning your book. Those who hurt religious beliefs are annihilated. What is in this rubbish history? I am so ashamed. Shame on Professor Shastri ! Those who play with history will be reduced to ashes.",
+      "target_person": "Professor Shastri",
+      "target_gender": "male",
+      "cause_raw": "hurting religious beliefs",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s996_bolly",
+      "emotion": "shame",
+      "dialogue": "Those who hurt religious beliefs are annihilated. What is in this rubbish history? I am so ashamed. Shame on Professor Shastri ! Those who play with history will be reduced to ashes. Where are you off to?",
+      "target_person": "Professor Shastri",
+      "target_gender": "male",
+      "cause_raw": "Hurting religious beliefs",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s997_bolly",
+      "emotion": "shame",
+      "dialogue": "This religion talks about humanism, peace, about the rights of the weak and poor. What are you reducing it to? Aren't you ashamed? Shut up! Throw out this hypocrite! Men like him are enemies of lslam.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "misinterpretation and misuse of religion",
+      "theme_label": "Nonconformity"
+    }
+  ]
+}

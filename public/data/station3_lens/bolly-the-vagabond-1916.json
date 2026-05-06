@@ -1,0 +1,120 @@
+{
+  "film": {
+    "id": "13707",
+    "title": "The Vagabond",
+    "year": "1916",
+    "industry": "bolly",
+    "country": "US",
+    "poster_path": "/mr6io815BjVxNSMeartcd4mCADU.jpg",
+    "overview": "A tramp tries to earn money by playing the violin, but he’s soon facing off against the jealous competition."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4439_bolly",
+      "emotion": "shame",
+      "dialogue": "Where's your chief? What right have you to terrorize women from good families? - Aren't you ashamed? - Ashamed? Shame is for good folks, not for bandits and robbers. As for me, my grandfather was a bandit, my father was a bandit! But I wasn't.",
+      "target_person": "bandit",
+      "target_gender": "male",
+      "cause_raw": "terrorizing women",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4440_bolly",
+      "emotion": "shame",
+      "dialogue": "What right have you to terrorize women from good families? - Aren't you ashamed? - Ashamed? Shame is for good folks, not for bandits and robbers. As for me, my grandfather was a bandit, my father was a bandit! But I wasn't. - And your husband went and made me one! - My husband?",
+      "target_person": "bandit",
+      "target_gender": "male",
+      "cause_raw": "terrorizing women",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4441_bolly",
+      "emotion": "shame",
+      "dialogue": "Raghu! - The whole town is agog! - What are you saying? Aren't you ashamed to talk like this about your wife? I'm just saying what everyone is saying. Let them say what they want.",
+      "target_person": "Raghu's wife",
+      "target_gender": "female",
+      "cause_raw": "Gossip/Scandal",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4442_bolly",
+      "emotion": "shame",
+      "dialogue": "Come on, help me. There you are! Hiding! Aren't you ashamed? Give it to me. Else, I'll beat you to pulp. I'm going to kill you! Give me! Where are you running away?",
+      "target_person": "person being chased",
+      "target_gender": "unclear",
+      "cause_raw": "stealing or withholding something",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s4443_bolly",
+      "emotion": "shame",
+      "dialogue": "- Come back. - Where to? - Beside me. - Why? No reason. Aren't you ashamed? What are you looking at? The Moon? No. Clouds. What's your problem? You don't see the Moon...and you see the dark clouds? Won't you tell me?",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "looking at character 2 instead of the moon",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4444_bolly",
+      "emotion": "shame",
+      "dialogue": "So he has come... before I'm dead. Alas, I cannot see. Nurse, give him my greetings. I am ashamed about the accident. Please, forgive me. Forgive you? Doctor! Mother!",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "causing an accident",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "p2453_bolly",
+      "emotion": "pride",
+      "dialogue": "I guessed it was for me. So why not take it for myself? Want a ten or a twenty? No? Bravo, my boy! You'll make your guru proud someday. And someday, I'll ask your father what the gentleman's son grows up to be. Mother!",
+      "target_person": "guru",
+      "target_gender": "male",
+      "cause_raw": "honesty",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2454_bolly",
+      "emotion": "pride",
+      "dialogue": "Eleven tomorrow. - Where? - I'll tell you where. Okay, boss. Good! Someday, you'll surely make me proud. It's late. You have to make it by eleven.",
+      "target_person": "boss",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

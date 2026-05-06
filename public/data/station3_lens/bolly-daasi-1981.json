@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "509879",
+    "title": "Daasi",
+    "year": "1981",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/d9jsir6DXg0YijuxxhTxr9bmf1d.jpg",
+    "overview": "When the groom is killed on the morning of an arranged wedding, the bride's aunt quickly arranges a marriage to a blind singer."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s875_bolly",
+      "emotion": "shame",
+      "dialogue": "Then her father married another woman. Her step-mother was very bad; she ruined her life. You shameless! Why did you leave that place and lie here? And why is the house so silent? Go and see where that witch has taken our kids.",
+      "target_person": "step-mother",
+      "target_gender": "female",
+      "cause_raw": "mistreatment of step-daughter and kids",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s876_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you all doing here? Get up from there. Take your books and burn them. Go from here. Shameless! You will take my life some day. Is this a time to work or tell stories? Cool down, Shantidevi! - Shut up!",
+      "target_person": "characters",
+      "target_gender": "female",
+      "cause_raw": "not focusing on work",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s877_bolly",
+      "emotion": "shame",
+      "dialogue": "If you want to please yourself by giving me money, it's ok. Give.. here.. sir, I've taken 100 rupees. - Ok. Aren't you ashamed? You will give your master your half drunk milk? - Madam..Get out of here! You thief! Go! Mangla, what's the matter?",
+      "target_person": "servant",
+      "target_gender": "male",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s878_bolly",
+      "emotion": "shame",
+      "dialogue": "But you turned out to be a scoundrel. You got me out of my parental house as well as matrimonial. You're shameless, demon, low. 'You've ruined the lives of many girls.' 'You're not a human; you're a demon.'",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "ruining lives of many girls",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "p434_bolly",
+      "emotion": "pride",
+      "dialogue": "Bro, I've done everything from cooking to massaging. Please, give me a chance. I will carry your instruments. I'll also carry your pride. Brother, give me 10 rupees; I'm to pay the rickshaw driver. You seem to be very smart. - It's your blessings.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

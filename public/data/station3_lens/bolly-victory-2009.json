@@ -1,0 +1,162 @@
+{
+  "film": {
+    "id": "20965",
+    "title": "Victory",
+    "year": "2009",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/y17YoREujvY27bu1mF1rHKVDBwc.jpg",
+    "overview": "Victory tells the story of a struggling cricketer who defies all odds to realize an almost impossible dream."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 3
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4548_bolly",
+      "emotion": "shame",
+      "dialogue": "I've never come across a selfish person such as you. You know, uncle is wandering on the streets, crying. You should be ashamed of yourself. Nandu, don't talk nonsense. You don't know anything.",
+      "target_person": "Nandu",
+      "target_gender": "male",
+      "cause_raw": "Being selfish and insensitive",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4549_bolly",
+      "emotion": "shame",
+      "dialogue": "You don't know anything. I didn't start it. - Keep quiet, Viju. I'm ashamed to call you my friend. Go to hell, all of you! Vijay Shekhawat has faded away.",
+      "target_person": "Viju Vijay Shekhawat)",
+      "target_gender": "male",
+      "cause_raw": "Failure or perceived incompetence",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4550_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't go. Coach, did you get my message? Coach, I...I'm ashamed to say that I'm the manager......of a treacherous player like Vijay Shekhawat. Three months ago, Dr. Nirav Shah advised Vijay Shekhawat......to get his back operated. Here.",
+      "target_person": "Vijay Shekhawat",
+      "target_gender": "male",
+      "cause_raw": "hiding medical condition",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "s4551_bolly",
+      "emotion": "shame",
+      "dialogue": "Mr. Shekhawat, how is your father's condition now? Mr. Shekhawat, answer us. Shame on him! He had gone to play for his country......but sold his conscience instead. He's responsible for his father's ruin! <i>This is not what I'd imagined.</i>",
+      "target_person": "Mr. Shekhawat",
+      "target_gender": "male",
+      "cause_raw": "Betraying his country",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p2552_bolly",
+      "emotion": "pride",
+      "dialogue": "But only 11 fortunate ones get this chance. Sir. Yes. - Sit down. Please, sit down. Vijay, their dreams, happiness and......pride rest in the hands of these 11 players. And you are one of them. Because now, they'll live their dream through you.",
+      "target_person": "Vijay",
+      "target_gender": "male",
+      "cause_raw": "being selected as one of the 11 players",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2553_bolly",
+      "emotion": "pride",
+      "dialogue": "By four wickets...Second consecutive century by Vijay Shekhawat. I love you. You must be proud of your son. Of course. So must be all of you. Viju is representing the entire nation.",
+      "target_person": "Viju's parent",
+      "target_gender": "unclear",
+      "cause_raw": "son's sports achievement",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2554_bolly",
+      "emotion": "pride",
+      "dialogue": "Crush the opponents. You are the strength of India. Vijay! Vijay! You are India's pride! Vijay! Vijay! No one can stop you. Swing the bat.",
+      "target_person": "Vijay",
+      "target_gender": "male",
+      "cause_raw": "Sports achievement",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p2555_bolly",
+      "emotion": "pride",
+      "dialogue": "East or west, Vijay Shekhawat is the best.' Any batsman who can break my fastest 50 record, it is Vijay Shekhawat. He is the pride and the joy. Vijay! Vijay! He is our symbol.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Vijay Shekhawat's cricket achievement",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2556_bolly",
+      "emotion": "pride",
+      "dialogue": "He is the glory. Vijay! Vijay! The pride of India. The winner of the ICC one day international player of the year is......Vijay Shekhawat. He is just fabulous. Swing the bat.",
+      "target_person": "Vijay Shekhawat",
+      "target_gender": "male",
+      "cause_raw": "Winning the ICC one day international player of the year",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p2557_bolly",
+      "emotion": "pride",
+      "dialogue": "Thank you everyone. Thank you for this. I am pleased to announce, the ICC batsman of the year......Mr. Vijay Shekhawat......has decided to extend our relations for another three years. Ladies and gentlemen...I am proud to announce the biggest sports deal ever in India. A deal for one hundred crore for three years. Andy...A hundred crore is nothing when compared to your talent, my friend.",
+      "target_person": "Andy",
+      "target_gender": "male",
+      "cause_raw": "biggest sports deal ever in India",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2558_bolly",
+      "emotion": "pride",
+      "dialogue": "Vedpal! 'The crowd just lit the pyre... ' '... of my dreams, of my pride... ' '... and everything that I earned honestly in my life.' 'Father, I give you the credit for every run off my bat and... '",
+      "target_person": "Vedpal",
+      "target_gender": "male",
+      "cause_raw": "earning honestly and cricket achievement",
+      "theme_label": "Sports Victory"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "16987",
+    "title": "Kaho Naa... Pyaar Hai",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/alALytPcaZyQkzOjnRgHMSRv8fq.jpg",
+    "overview": "Sonia and Rohit love each other but Rohit is mysteriously killed. When Sonia moves to New Zealand, she meets Raj, Rohit's lookalike who helps her trace Rohit's killer."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2921_bolly",
+      "emotion": "shame",
+      "dialogue": "What! Are you crazy?! You are trying to take advantage of a beautiful....lone girl in a desolate place? Heartless, shameless! That's it! I don't know any more words! - You won't heed me this way! No! Don't touch me!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "trying to take advantage of a woman",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2922_bolly",
+      "emotion": "shame",
+      "dialogue": "Just listen to me and take the skirt off. Are you out of your mind? Or are you trying...to take advantage of a pretty girl marooned on a desolate island? You shameless, merciless you ! That's all the Hindi I can muster. You won't, will you? No!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "trying to take advantage of a woman",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "p1517_bolly",
+      "emotion": "pride",
+      "dialogue": "Our eyes now speak Of secrets Your secrets My secret pride What do they say Your heart I want",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

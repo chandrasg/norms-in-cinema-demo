@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "10528",
+    "title": "Sherlock Holmes",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US|DE|GB",
+    "poster_path": "/momkKuWburNTqKBF6ez7rvhYVhE.jpg",
+    "overview": "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP284_holly",
+      "emotion": "pride",
+      "dialogue": "- Holmes! - You were engaged.  The ring has gone, but the lighter skin suggests  that you spent some time abroard proudly  that is until you were informed that it's true  and then you broke of the engagement and returned to, England",
+      "target_person": "Holmes",
+      "target_gender": "male",
+      "cause_raw": "solving the mystery",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP350_holly",
+      "emotion": "pride",
+      "dialogue": "- Holmes! - You were engaged.  The ring has gone, but the lighter skin suggests  that you spent some time abroard proudly  that is until you were informed that it's true  and then you broke of the engagement and returned to, England",
+      "target_person": "Holmes",
+      "target_gender": "male",
+      "cause_raw": "solving the mystery",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1771_holly",
+      "emotion": "pride",
+      "dialogue": "Holmes. You were engaged.  The ring has gone, but the lightness of the skin where it once sat suggests  that you spent some time abroad, wearing it proudly,  that is until you were informed of its true and rather modest worth,  at which point you broke off of the engagement",
+      "target_person": "Holmes",
+      "target_gender": "male",
+      "cause_raw": "discovering the true worth of the engagement ring",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "643534",
+    "title": "Good Newwz",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1YWp8MdXZAZvXgnWyv2RgMaG3Ps.jpg",
+    "overview": "Two couples with the same surnames pursue in-vitro fertilisation and wait for their upcoming babies. Trouble ensues when they find that the sperms of each couple have been mixed with each other."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2196_bolly",
+      "emotion": "shame",
+      "dialogue": "Must I keep reminding you?  Drinking and smoking damages sperm. I had one drag. If one drag can weaken  my sperm count, then shame on it! This isn't about sperm,  it's about your promise. Don't I want to go out drinking  with my friends?",
+      "target_person": "male character",
+      "target_gender": "male",
+      "cause_raw": "breaking promise and unhealthy habits",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2197_bolly",
+      "emotion": "shame",
+      "dialogue": "Hell, no, idiot! Twins. - Be more precise.  - They had twins. There's no shame in meeting  the doctor. Dr Joshi's the best, brother. Just go and see him.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "infertility",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2198_bolly",
+      "emotion": "shame",
+      "dialogue": "Move your feet Sway your hips Shame's like cholesterol.  Get it out of your system! Come with me, shake your booty.  Why stand frozen like a pillar? You'll lose weight, you'll look younger  if we all did the Zumba!",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "not dancing or participating",
+      "theme_label": "Immodesty"
+    }
+  ]
+}

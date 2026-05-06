@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "319756",
+    "title": "Jangal Mein Mangal",
+    "year": "1972",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vSR1IGBjzOIapdUckZw97dLIggE.jpg",
+    "overview": "Biology professor and her students, including a convent nun go on a field trip, and stay at a Public Rooming House of a male group, led by retired colonel. But fate has other plans for them."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2691_bolly",
+      "emotion": "shame",
+      "dialogue": "Come in, quickly! Who is it? Oh, it's you, Sir! Aren't you ashamed? Doesn't this effect my reputation? Sir, when did you arrive? Have you come here to sing & dance with girls or for botanical research?",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "visiting a place of ill-repute",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2692_bolly",
+      "emotion": "shame",
+      "dialogue": "- Do we have your permission? - Go ahead! Get away! You don't deserve to be called my students. I have seen everything, you've put me to shame! Go, pack up, we are leaving tomorrow, early morning! - You'll play very well. - Thank you.",
+      "target_person": "students",
+      "target_gender": "unclear",
+      "cause_raw": "disappointing their teacher",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2693_bolly",
+      "emotion": "shame",
+      "dialogue": "We did what we thought best at that moment. - Anyway, we will go away tomorrow. - Who said we are going away? Do you want to put me to absolute shame? You want them to say the men scooted off in fear of defeat? - Which means we aren't going? - Yes, the trip is canceled.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "fear of defeat",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}

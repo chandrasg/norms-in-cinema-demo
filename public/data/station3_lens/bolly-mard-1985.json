@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "223091",
+    "title": "Mard",
+    "year": "1985",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9GF0wzkQd1LcecHkuwe0BFulC2s.jpg",
+    "overview": "King Azad gets locked in a dungeon by the British general Dyer who wants to take over his kingdom. Years later, Azad's son decides to put an end to Dyer's tyranny and comes to his father's rescue."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3475_bolly",
+      "emotion": "shame",
+      "dialogue": "Raju, you have saved me from them, but they are so dangerous, ....they take away innocents, nobody knows till today. If anything happens to you, we will be nowhere. We are very ashamed for what Raju did yesterday. Can anyone take away a girl like that? No mother, I had gone on my own free will.",
+      "target_person": "Raju",
+      "target_gender": "male",
+      "cause_raw": "Kidnapping/forcing a girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1845_bolly",
+      "emotion": "pride",
+      "dialogue": "Azad Singh, your life belongs to your country. One Azad Singh dying or living is not going to make a difference......to the British Government. Take him away! Don't be so proud, Cousin Dyer. How the wheel of fortune spins......nobody can say that. Halt daughter. Slowly, she has just learnt driving. She doesn't have a license.",
+      "target_person": "Cousin Dyer",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1846_bolly",
+      "emotion": "pride",
+      "dialogue": "That day Lady Helena saved you, now my daughter will sort you! I am very happy with your daughter Zubbie...\"I have decided that she will get married to my son, Danny.\" It is a matter of pride. Just let me ask Zubbie on this. What is there to ask in this? Nobody wil move.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "daughter's marriage",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1847_bolly",
+      "emotion": "pride",
+      "dialogue": "People say his face was blackened the day he sold......himself & the nation. Sitting here he acts like a foreigner! Ruby, don't forget I am your father. This fact is not a matter of pride to me, Dad. This is not you, but the Tongawala who is speaking. You will gain nothing by beating Ruby, you must get rid of Raju.",
+      "target_person": "Ruby",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1848_bolly",
+      "emotion": "pride",
+      "dialogue": "If you ever do such acts, I will kill you. You can control my life and death, but not my heart. What you are proud of, I will shatter it to pieces. You are a father or a hangman. Remember one thing. I love...\"...that Tongawala, I still love him and will continue loving him.\" This girl has gone mad about that Tongawala.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1849_bolly",
+      "emotion": "pride",
+      "dialogue": "Mother, you can speak? - Yes, With mother's grace! Mother! - Son. You were proud, Azad Singh, that your head can be cut......but it will not bend. See now. Dad, I kill live people, but you kill statues? If you want to, why don't you finish him.",
+      "target_person": "Azad Singh",
+      "target_gender": "male",
+      "cause_raw": "defiance and resilience",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

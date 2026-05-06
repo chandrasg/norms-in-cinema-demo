@@ -1,0 +1,127 @@
+{
+  "film": {
+    "id": "325138",
+    "title": "Dum Laga Ke Haisha",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/c9TX2kH1rG7QYEl09flOVg82QdU.jpg",
+    "overview": "A slim uneducated guy is pressured into an arranged marriage with an overweight college girl. The mismatched couple is challenged to compete in the annual wife-carrying race."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5123_bolly",
+      "emotion": "shame",
+      "dialogue": "It's not gravity The pleasure in bed is pulling you Don't be ashamed of pleasure It is not pleasure. It's compulsion So enjoy your compulsions. Why else are you on earth?",
+      "target_person": "character being shamed",
+      "target_gender": "unclear",
+      "cause_raw": "succumbing to physical desires",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s5124_bolly",
+      "emotion": "shame",
+      "dialogue": "It's their time to have fun Need something? He was feeling hot You're shameless! Hush Here Did you record my songs? What?",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5125_bolly",
+      "emotion": "shame",
+      "dialogue": "No need for your tears, mother Nothing happened. I am intact Have some shame Be modest in front of your father Explain to her",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "lack of modesty",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s5126_bolly",
+      "emotion": "shame",
+      "dialogue": "Anything happened - kisses, intercourse, etc? - I won't discuss private matters - He loves humiliating me in public - Hitting me made you proud? - I am ashamed of that - You humiliated me - As though you didn't do the same And what's this ridiculous settlement demand?",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "physical and emotional abuse",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s5127_bolly",
+      "emotion": "shame",
+      "dialogue": "Sorry It's all right I'll find you someone you are not ashamed of Who doesn't brag about her education Where's a girl like that?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being educated",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p2885_bolly",
+      "emotion": "pride",
+      "dialogue": "Tell him......to sit with confidence No need to misbehave You're our only son, our pride Don't chomp on your food. Don't spit when you talk You talk as though I'd never seen a girl before",
+      "target_person": "parents",
+      "target_gender": "male",
+      "cause_raw": "being their only son",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p2886_bolly",
+      "emotion": "pride",
+      "dialogue": "Stay calm So cry once and for all I'm very proud of you, Sandhya ls everyone here getting divorced? - ls that right, Prem? - It's a divorce court",
+      "target_person": "Prem",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2887_bolly",
+      "emotion": "pride",
+      "dialogue": "Anything happened - kisses, intercourse, etc? - I won't discuss private matters - He loves humiliating me in public - Hitting me made you proud? - I am ashamed of that - You humiliated me - As though you didn't do the same And what's this ridiculous settlement demand?",
+      "target_person": "second speaker",
+      "target_gender": "male",
+      "cause_raw": "physical dominance",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

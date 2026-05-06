@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "331297",
+    "title": "Dirty Politics",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/992psBn4j8VuLB4kYc85YJ0wNLa.jpg",
+    "overview": "An old politician lusts after a beautiful dancer."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5053_bolly",
+      "emotion": "shame",
+      "dialogue": "These were your words. Evey daughter in this county is C.M# s daughter. And it's a shame that this case cannot be resolved in your presence. The public suggests this case to be handed over to the C.B.l. I concur that evey daughter in this county is C.M# s daughter.",
+      "target_person": "C.M",
+      "target_gender": "male",
+      "cause_raw": "inability to resolve a case",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s5054_bolly",
+      "emotion": "shame",
+      "dialogue": "These hoarding should be places all over the city within a week's time. Huge ones. - It will be done. So big that it should put Madras and Lucknow to shame. Okay, sir. Got it? - Yes, sir.",
+      "target_person": "Madras and Lucknow",
+      "target_gender": "unclear",
+      "cause_raw": "not having big enough hoardings",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s5055_bolly",
+      "emotion": "shame",
+      "dialogue": "I am pleased to see you progress. it's all thanks to you. No, Anokhi. I am ashamed of what I did. Please forgive me. Anokhi, please forgive me.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "past actions",
+      "theme_label": "Negligence"
+    }
+  ]
+}

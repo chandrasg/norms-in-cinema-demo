@@ -1,0 +1,115 @@
+{
+  "film": {
+    "id": "290336",
+    "title": "Montana",
+    "year": "2014",
+    "industry": "holly",
+    "country": "GB",
+    "poster_path": "/wpoaBvuSEudMzPdvrd9jRAlbCW.jpg",
+    "overview": "In the mean streets of London's East End, a former Serbian commando and a fourteen-year old boy plot revenge against a powerful crime lord and his ruthless lieutenants. As our heroes prepare to take on their enemies, the boy is mentored in the dark arts of assassination and learns the true meaning of friendship, honor and respect."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 3
+    },
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1427_holly",
+      "emotion": "shame",
+      "dialogue": "Did I tell you to speak?  I'll show you both what this place is all about.  Shame on you, at your age!  You should set an example for all the other soldiers here.  I'm canceling all your leave until the end of your service.",
+      "target_person": "Soldier",
+      "target_gender": "male",
+      "cause_raw": "not setting a good example",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "WS1428_holly",
+      "emotion": "shame",
+      "dialogue": "So, can't find anything to say?  What?  Aren't you ashamed?  While millions of university kids like you serve for a few months... Don't waste your breath.  Don't waste your breath.",
+      "target_person": "University kid",
+      "target_gender": "unclear",
+      "cause_raw": "not serving for a few months like other university kids",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1429_holly",
+      "emotion": "shame",
+      "dialogue": "Then came the short term service. You even cried about that.  You cried like women, you fags.  Aren't you ashamed when young guys  spend their best years with assembly, the flu, and King TV.  And yes, dying too? Aren't you ashamed of yourselves?",
+      "target_person": "Short term service",
+      "target_gender": "male",
+      "cause_raw": "not serving long term/making sacrifices",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS1430_holly",
+      "emotion": "shame",
+      "dialogue": "Aren't you ashamed when young guys  spend their best years with assembly, the flu, and King TV.  And yes, dying too? Aren't you ashamed of yourselves?  Hanging out in cool places. F*****g foxes.  Studying, yeah, right!",
+      "target_person": "Young guys",
+      "target_gender": "male",
+      "cause_raw": "wasting their youth and not taking life seriously",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1431_holly",
+      "emotion": "shame",
+      "dialogue": "This means you were either hiding abroad or you were on the run.  What happened to the rights of young men?  Weren't you ashamed? Coward!  Stop!  I'm twenty-nine.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "avoiding responsibilities or running away",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS1432_holly",
+      "emotion": "shame",
+      "dialogue": "Don't get up. Take cover!  Are you playing games, you dog?  Shame on you! I'm limping, aren't you ashamed?!  I've been thrashing here for two hours. You f*****g son of a b***h!  That's better!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "not helping someone in need",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2520_holly",
+      "emotion": "pride",
+      "dialogue": "went into the room, did the ironing,  then slept with the maid.  Then he said with pride, \"For us, work comes before love.\"  The Italian did the opposite,  first slept with her, then did the ironing.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "prioritizing work over love",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP2521_holly",
+      "emotion": "pride",
+      "dialogue": "The Italian did the opposite,  first slept with her, then did the ironing.  \"First we make love, then we work,\" he said proudly.  Then it was our guy's turn.  He took the maid from behind and made her do the ironing.",
+      "target_person": "Italian man",
+      "target_gender": "male",
+      "cause_raw": "making love before work",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

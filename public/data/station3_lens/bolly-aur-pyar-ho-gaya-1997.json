@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "30537",
+    "title": "...Aur Pyar Ho Gaya",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5C8a85JOymSV1FxtHoPVaEFOKxE.jpg",
+    "overview": "Aashi and Bobby fall in love with each other in the unlikeliest of circumstances, but they have to encounter their families' wrath in order to stay together."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s249_bolly",
+      "emotion": "shame",
+      "dialogue": "How am I going to repay this debt? Oh, how am I? ' -You? ' -Is that you? ' Aren't you ashamed to go around in my clothes ? ' You must have deliberately  swapped the bags' Deliberately , my foot' It has changed my very appearance'",
+      "target_person": "character in borrowed clothes",
+      "target_gender": "unclear",
+      "cause_raw": "wearing someone else's clothes without permission",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s250_bolly",
+      "emotion": "shame",
+      "dialogue": "-Anyone Can make a mistake. -That's right. We'll forgive her, even if she makes a mistake after marriage. My God' What a shameless  family ' How could  you agree to the wedding, even after knowing the truth? I can't get my grand-daughter married in such a shameless  family '",
+      "target_person": "grand-daughter's prospective in-laws",
+      "target_gender": "unclear",
+      "cause_raw": "accepting mistakes and continuing with the marriage",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s251_bolly",
+      "emotion": "shame",
+      "dialogue": "My God' What a shameless  family ' How could  you agree to the wedding, even after knowing the truth? I can't get my grand-daughter married in such a shameless  family ' Let's go, Aarshi' Please  forgive me, Malhotra .",
+      "target_person": "Malhotra's family",
+      "target_gender": "unclear",
+      "cause_raw": "hiding the truth",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "s252_bolly",
+      "emotion": "shame",
+      "dialogue": "I thought that since Mr Kapoor is not keeping well  ......Aarshi and Bobby's wedding...-have You read the eveningers? -No, I couldn 't...Then you ought to read them' It's because of you that I've lost all respect in the city' Look at the amount of shame they've heaped on me' But how am I to fault ? You could  have saved my honour very easily , if you wished to.",
+      "target_person": "Mr Kapoor",
+      "target_gender": "male",
+      "cause_raw": "not arranging his child's wedding",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s253_bolly",
+      "emotion": "shame",
+      "dialogue": "Whatever happened, dad, how was Bobby's mother...Do you mean to say that I'm at fault ? No, Dad...It's only  a few days since you met a stranger......and you've already  compromised my respect for his love? ' Shame on children  like you' I could  never imagine that my daughter could  treat me...I have come to realise  today......that a man who does not get respect from his own daughter......has no right to live' What are you you doing? '",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "disrespecting her father",
+      "theme_label": "Disrespect"
+    }
+  ]
+}

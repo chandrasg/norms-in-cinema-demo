@@ -1,0 +1,156 @@
+{
+  "film": {
+    "id": "740949",
+    "title": "Kanyadaan",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "",
+    "overview": "Utpal, the youngest son in a middle class joint family, falls in love with a woman from a wealthy family. Apart from his sisters-in-law, no one knows about his romance."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 3
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2960_bolly",
+      "emotion": "shame",
+      "dialogue": "Goddamn it! You've proved today that you're absolutely shame proof, my friend. It's part of the game. What's there to feel ashamed about? Maybe not for you, but we feel like drowning ourselves.",
+      "target_person": "friend",
+      "target_gender": "unclear",
+      "cause_raw": "lack of remorse or guilt",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2960_bolly",
+      "emotion": "shame",
+      "dialogue": "Goddamn it! You've proved today that you're absolutely shame proof, my friend. It's part of the game. What's there to feel ashamed about? Maybe not for you, but we feel like drowning ourselves.",
+      "target_person": "friend",
+      "target_gender": "unclear",
+      "cause_raw": "lack of remorse or guilt",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2961_bolly",
+      "emotion": "shame",
+      "dialogue": "Goddamn it! You've proved today that you're absolutely shame proof, my friend. It's part of the game. What's there to feel ashamed about? Maybe not for you, but we feel like drowning ourselves. Who's stopping you? Go ahead.",
+      "target_person": "friend",
+      "target_gender": "unclear",
+      "cause_raw": "lack of remorse or shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2962_bolly",
+      "emotion": "shame",
+      "dialogue": "Near the river, the beautiful weather...just you and me and then...\"Lata, you! Then who is this?\" - What is this? - Ask Mr. Honeymoon. Idiot! Aren't you ashamed to do this? What happened? - I spoke any nonsense...\"thinking it was you. - Don't go away, or I won't come again.\" I'm glad you came, or wonder how long he would have fooled me?",
+      "target_person": "Mr. Honeymoon",
+      "target_gender": "male",
+      "cause_raw": "Cheating",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2963_bolly",
+      "emotion": "shame",
+      "dialogue": "Have milk. Please have it. If you cry like this, Murari's health will be affected. Aren't you ashamed of talking like this now? It's not for me, it's for your mother's sake. - For mother? - Yes...\"when she appeared in my dream last night, she said...\"\"Please forgive me, my son. I had lost my mind...\"that I listened to that astrologer. I couldn't even see my grandson.",
+      "target_person": "Murari",
+      "target_gender": "male",
+      "cause_raw": "Listening to astrologer and not seeing his grandson",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2964_bolly",
+      "emotion": "shame",
+      "dialogue": "Who will look after his father? Look, I can't send you. - You write to him to come here. - I feel shy telling him that. Then I'll write to him. I'll become shameless. Madam, what are you doing? You should have called out to me. Why? Is there any harm if I touch anything?",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "not taking care of his father",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2965_bolly",
+      "emotion": "shame",
+      "dialogue": "Get out! Get lost Without death...\"what else will heal the wounds of the poor?\" What a shameless world this is What a shameless society So many buds...could never blossom",
+      "target_person": "society",
+      "target_gender": "unclear",
+      "cause_raw": "not caring for the poor",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2966_bolly",
+      "emotion": "shame",
+      "dialogue": "Without death...\"what else will heal the wounds of the poor?\" What a shameless world this is What a shameless society So many buds...could never blossom Some spent their lives in brothels...\"and some drowned out of shame\"",
+      "target_person": "society",
+      "target_gender": "unclear",
+      "cause_raw": "exploitation of the poor",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s2967_bolly",
+      "emotion": "shame",
+      "dialogue": "What a shameless society So many buds...could never blossom Some spent their lives in brothels...\"and some drowned out of shame\" Don't touch me! I'm married. I want to die. - But why do you want to die? - He threw me out of the house.",
+      "target_person": "women",
+      "target_gender": "female",
+      "cause_raw": "societal mistreatment and exploitation",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s2968_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't test me! I beseech you! Don't put me in this ordeal! Shameless woman! Now I know why your husband threw you out of the house? You were in search of a rich husband! Get out! Get out of my house!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being thrown out by her husband and accused of greed",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p1527_bolly",
+      "emotion": "pride",
+      "dialogue": "It'll be ready in a month. Wait. Your intentions are noble, no doubt But I hope this kind of help does not hurt their pride - Okay, aunt. I'll leave now. - Have tea and go. No, I'll get late. Thank you very much.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

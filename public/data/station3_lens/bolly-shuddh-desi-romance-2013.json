@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "209410",
+    "title": "Shuddh Desi Romance",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/j141I2N8e8HuVHEDNPZ1K2qeqM4.jpg",
+    "overview": "A journey of three restless young people who junk the society's syllabus for finding love and decide to follow their heart."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4181_bolly",
+      "emotion": "shame",
+      "dialogue": "At times serene, at times searching Love her today Love another tomorrow This shameless heart of mine will give me a bad name O playful heart So random Fooled me, stirred me",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s4182_bolly",
+      "emotion": "shame",
+      "dialogue": "- What did he say? - He asked who I was visiting - And? - I said my sister - You're shameless! - What else could I say? I'm the live-in boyfriend. I ran from my wedding to you - Shameless! - What should I have said?",
+      "target_person": "live-in boyfriend",
+      "target_gender": "male",
+      "cause_raw": "running away from his own wedding",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4183_bolly",
+      "emotion": "shame",
+      "dialogue": "- You're shameless! - What else could I say? I'm the live-in boyfriend. I ran from my wedding to you - Shameless! - What should I have said? We'll have to say that to everyone Everyone?",
+      "target_person": "live-in boyfriend",
+      "target_gender": "male",
+      "cause_raw": "running away from his own wedding",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4184_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you doing? Shall we congratulate them? - Let's first attack the food - Shameless! - You're sneaky! - I'm the groom's guest Shall we?",
+      "target_person": "guests",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior at a wedding",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "510",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": "1975",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+    "overview": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients—and an enemy to the cruel, domineering nurse who runs the ward."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS633_holly",
+      "emotion": "shame",
+      "dialogue": "Please do, Billy.  Explain everything.  Everything?  Aren't you ashamed?  No, I'm not.  All right.  You know, Billy, what worries me... ...is how your mother's going to take this.",
+      "target_person": "Billy",
+      "target_gender": "male",
+      "cause_raw": "unspecified actions causing worry",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP1292_holly",
+      "emotion": "pride",
+      "dialogue": "Probably that chain didn't help it any either.  You didn't weigh the chain, did you, doc?  No, I didn't weigh the chain, but damn, I'm awful proud of that picture.  That's the first Chinooker I ever caught.  - It's a nice one. - Hmm.",
+      "target_person": "Doc",
+      "target_gender": "male",
+      "cause_raw": "catching his first Chinooker",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1293_holly",
+      "emotion": "pride",
+      "dialogue": "Would you like to rest today, or would you like to join the group?  I'd love to join the group.  I'd like.... I'm proud to join the group, Mildred. Ahem.  I'm proud to join the group, Mildred. Ahem.  - How... - Perfect, Billy boy. Absolutely perfect.",
+      "target_person": "Billy boy",
+      "target_gender": "male",
+      "cause_raw": "joining the group",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1294_holly",
+      "emotion": "pride",
+      "dialogue": "I'd love to join the group.  I'd like.... I'm proud to join the group, Mildred. Ahem.  I'm proud to join the group, Mildred. Ahem.  - How... - Perfect, Billy boy. Absolutely perfect.  They was giving me 10,000 watts a day, you know, and I'm hot to trot.",
+      "target_person": "Billy boy",
+      "target_gender": "male",
+      "cause_raw": "joining the group",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "film": {
+    "id": "86604",
+    "title": "Tom, Dick and Harry",
+    "year": "1941",
+    "industry": "bolly",
+    "country": "US",
+    "poster_path": "/aZnucljYes0E8NkzH3Bg5jWiQg.jpg",
+    "overview": "Janie is a telephone operator who is caught up in the lines of love of three men: car salesman Tom, Chicago millionaire Dick and auto mechanic Harry. But Janie just can't seem to make up her mind between them. While fantasizing about her futures with each of the men, Janie spends her time desperately trying to juggle between them until she can make a decision."
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 7
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4468_bolly",
+      "emotion": "shame",
+      "dialogue": "Waghmare... - Shame! Shame! Shut down the police station Shame on the policemen Sir, the crowd is growing",
+      "target_person": "policemen",
+      "target_gender": "male",
+      "cause_raw": "Inefficiency or corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4469_bolly",
+      "emotion": "shame",
+      "dialogue": "Waghmare... - Shame! Shame! Shut down the police station Shame on the policemen Sir, the crowd is growing Drive them away Shut the doors. - How can we shut the doors",
+      "target_person": "policemen",
+      "target_gender": "male",
+      "cause_raw": "Inefficiency or corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4470_bolly",
+      "emotion": "shame",
+      "dialogue": "I don't want condoms. Better explain to him, you mutt...I don't want boxes, I want cash, 3000 Box... doesn't want... cash? Shame on you, Happy uncle Men without wives appreciate it's importance...the significance of which is lost on married men of your ilk You know,",
+      "target_person": "Happy Uncle",
+      "target_gender": "male",
+      "cause_raw": "not understanding the importance of condoms",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s4471_bolly",
+      "emotion": "shame",
+      "dialogue": "You've set my heart rocking Swing to it, swing D**k boy...I'm rather ashamed to speak your name Look at your belly and mine... how can you see, let me explain Your belly, flat like an expressway",
+      "target_person": "Dick",
+      "target_gender": "male",
+      "cause_raw": "Body shaming overweight)",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s4472_bolly",
+      "emotion": "shame",
+      "dialogue": "Now that we are here, we'll touch here, there...Don't touch me! - We'll even apologize on your behalf Now go on, clean the tables. - Pushing a blind man, eh? Aren't you ashamed? Don't you touch me! - Come on Where are you going? - Celina belongs to me",
+      "target_person": "blind man",
+      "target_gender": "male",
+      "cause_raw": "physical harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4473_bolly",
+      "emotion": "shame",
+      "dialogue": "Who is the bad man of all? - Soprano You are the worst. - Soprano! Hear that? The greatest villain hangs his head in shame today because of you Two Seven Nineteen",
+      "target_person": "Soprano",
+      "target_gender": "male",
+      "cause_raw": "Being the worst villain",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s4474_bolly",
+      "emotion": "shame",
+      "dialogue": "But we have no idea who you love. Tell us...who is the fortunate one amongst us? - It's me Tell me, baby. - Shut up You ought to be ashamed of your actions. I'm trying to help you guys How could you malign me? - But it's not our fault You are so nice, so caring, that all of us fell for you",
+      "target_person": "character being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior towards a woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4475_bolly",
+      "emotion": "shame",
+      "dialogue": "Still, a threesome blind-mute-and-deaf defeated me? Some Tom-D**k-and-Harry defeated Soprano Shame on me Kill me, somebody shoot me Someone, give me a bullet, please",
+      "target_person": "Soprano",
+      "target_gender": "male",
+      "cause_raw": "losing to less capable opponents",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}

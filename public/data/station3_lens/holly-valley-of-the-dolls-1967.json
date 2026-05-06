@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "3055",
+    "title": "Valley of the Dolls",
+    "year": "1967",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
+    "overview": "Lured by their dreams of fame and fortune, three ambitious young women enter the world of show business and discover how easy it is to sink into a celebrity nightmare of ego, alcohol and pills — the beloved \"dolls.\""
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1267_holly",
+      "emotion": "shame",
+      "dialogue": "- But I'm gonna see her again. - How many times do I have to tell you?  - At night, all cats are gray. - You worry too much.  You ought to be ashamed of yourself.  I haven't snitched milk since I was a kid in Pittsburgh.  There were six of us and I never got enough.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "worrying excessively",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS1268_holly",
+      "emotion": "shame",
+      "dialogue": "Who's stoned? I'm merely traveling incognito.  Well, get out of here, will you? Go on, get out of here.  Jennifer, shame on you.  Still got that mole on your keister?  Nope. They covered it up with makeup.",
+      "target_person": "Jennifer",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior or comments",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WP2279_holly",
+      "emotion": "pride",
+      "dialogue": "Tony. Tony?  When I saw that poor guy being led back to his cell, I knew I was gonna make it.  You have made it, Neely. And we're proud of you.  Now business. How would you like to do a Broadway musical for David Merrick?  - You think I could? - You know you could.",
+      "target_person": "Neely",
+      "target_gender": "female",
+      "cause_raw": "making it in her career",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

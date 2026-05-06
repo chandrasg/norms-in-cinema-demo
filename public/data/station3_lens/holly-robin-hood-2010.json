@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "20662",
+    "title": "Robin Hood",
+    "year": "2010",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ldOLoEroWISvPvqTY2IgnuEUWTq.jpg",
+    "overview": "When soldier Robin happens upon the dying Robert of Loxley, he promises to return the man's sword to his family in Nottingham. There, he assumes Robert's identity; romances his widow, Marion; and draws the ire of the town's sheriff and King John's henchman, Godfrey."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1325_holly",
+      "emotion": "shame",
+      "dialogue": "As much as you'll allow, sir.  I hope to earn your favor.  You put the rest of us to shame  with your generosity, Loxley.  I'd like to be able to count on an invitation",
+      "target_person": "Loxley",
+      "target_gender": "male",
+      "cause_raw": "excessive generosity",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WS1479_holly",
+      "emotion": "shame",
+      "dialogue": "As much as you'll allow, sir.  I hope to earn your favor.  You put the rest of us to shame  with your generosity, Loxley.  I'd like to be able to count on an invitation",
+      "target_person": "Loxley",
+      "target_gender": "male",
+      "cause_raw": "excessive generosity",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WP2387_holly",
+      "emotion": "pride",
+      "dialogue": "Commander Gisbourne.  They look very eager to do God's work.  Yes. With the devil's pride.  One, two, three, four, five.  We've done it! We've done it.",
+      "target_person": "Commander Gisbourne",
+      "target_gender": "male",
+      "cause_raw": "doing God's work",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP2589_holly",
+      "emotion": "pride",
+      "dialogue": "Commander Gisbourne.  They look very eager to do God's work.  Yes. With the devil's pride.  One, two, three, four, five.  We've done it! We've done it.",
+      "target_person": "Commander Gisbourne",
+      "target_gender": "male",
+      "cause_raw": "doing God's work",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

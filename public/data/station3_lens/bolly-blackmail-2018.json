@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "512098",
+    "title": "Blackmail",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/apt3peZIUjd56Rkt0HGxp6EaxKe.jpg",
+    "overview": "When Dev finds about his wife's affair, he starts blackmailing her and her lover but the blackmail game backfires on him."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s600_bolly",
+      "emotion": "shame",
+      "dialogue": "E-mail: 40,000/- Rs Tonight. Text: Need 40,000 more for Dad's test. URGENT!' You have no shame. You've a strange character. You numbskull..\"Who brought you in this world?\"",
+      "target_person": "receiver of the message",
+      "target_gender": "unclear",
+      "cause_raw": "asking for money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s601_bolly",
+      "emotion": "shame",
+      "dialogue": "I mean, I am shocked too. - Anand stole my wife's photo. - Yes, sir. - Shameful. - Yes, sir. But we can't get distracted right now. No, sir.",
+      "target_person": "Anand",
+      "target_gender": "male",
+      "cause_raw": "stealing someone's wife's photo",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p270_bolly",
+      "emotion": "pride",
+      "dialogue": "Just do this sin...!\"As they say that..\"\"even walls have ears.\" So do it without making a noise. You don't need anyone's help..\"cause you're a proud man.\" - Hello. - Hello..'Welcome to Dhanadan Tv!' - Thank you. - 'Choose us..For the best entertainment.'",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "self-reliance",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p271_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes, papa. Bravo, son. Dolly, I always knew he'll do something so great..That I will be forced to proudly shake hands with him. Dolly dear, get me a drink. You dog, your entire family..Rummaged leftovers from the garbage.",
+      "target_person": "papa",
+      "target_gender": "male",
+      "cause_raw": "son's achievement",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

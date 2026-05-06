@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "3933",
+    "title": "Corpse Bride",
+    "year": "2005",
+    "industry": "holly",
+    "country": "GB|US",
+    "poster_path": "/isb2Qow76GpqYmsSyfdMfsYAjts.jpg",
+    "overview": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS568_holly",
+      "emotion": "shame",
+      "dialogue": "Oh, do come this way, it's just through there.  Oh, I love what you've done with the place. Who is your decorator?  Nice tiles, shame about the drapes.  My husband says such foolish things. Ignore him.  Yes, it's usually best.",
+      "target_person": "Host",
+      "target_gender": "female",
+      "cause_raw": "poor taste in home decor",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WP1205_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, oh, the bride is here  She's waited for this day For many a year  For this day, for this day Our hopes and our pride  The bride is here Here comes the bride  Here comes the bride Here comes the bride",
+      "target_person": "singer",
+      "target_gender": "female",
+      "cause_raw": "bride's wedding day",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP1206_holly",
+      "emotion": "pride",
+      "dialogue": "And all of her friends Will work together  To make it the perfect day She's always dreamed  Our hopes and our pride Our bride, our lovely bride  We're going to have a party Like nobody's ever seen  The living in the land above Will not know where they've been",
+      "target_person": "friends",
+      "target_gender": "female",
+      "cause_raw": "for being a bride",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "319840",
+    "title": "Tamacha",
+    "year": "1988",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/7prH1gotBVKpUWGV0H00BUPH6qx.jpg",
+    "overview": "Growing up, nothing could separate best friends Vicky and Raju. But when one chooses a career as a respected policeman and the other turns to a life of crime, their affection for one another turns into a feud that could prove lethal for them both. Directed by Ramesh Ahuja, this thrilling Hindi-language tale of friendship, loyalty and betrayal stars Jeetendra, Rajnikanth, Bhanupriya and Amrita Singh."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4324_bolly",
+      "emotion": "shame",
+      "dialogue": "It is very important to take his confession. That patient? You should be ashamed of yourself! Because of you one of our special men is dead! What is his name?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "negligence leading to death",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4325_bolly",
+      "emotion": "shame",
+      "dialogue": "Come on. - What is the hurry? Stay like this. People are seeing and you.. - Let them see. You shameless fellow! - Come on. Staying in Singapore so many years.....you are yet fully Indian. That's good. My parents will be happy to see you.....in the form of a daughter-in-law.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "public display of affection",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s4326_bolly",
+      "emotion": "shame",
+      "dialogue": "How can I give him what he wants? What does he want? He wants..He wants that..You are very shameless. Give Ketan's milk..Sister-in-law\" I have sent Bahadur to clean the car.",
+      "target_person": "Speaker",
+      "target_gender": "female",
+      "cause_raw": "Inappropriate demand or behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4327_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you doing? What are you doing? What is there in this? Aren't you ashamed? A man is wounded and you are hitting him like this? Please go.",
+      "target_person": "person hitting the wounded man",
+      "target_gender": "male",
+      "cause_raw": "violence towards a vulnerable individual",
+      "theme_label": "Violence"
+    }
+  ]
+}

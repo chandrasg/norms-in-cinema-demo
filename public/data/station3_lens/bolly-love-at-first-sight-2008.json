@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "480619",
+    "title": "Love at first sight",
+    "year": "2008",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/1nebZus927gHLkLnx9oPrszle8K.jpg",
+    "overview": "Ajay saves Anju in a fall from a mountain height, it is love at first sight. He doesn't know that she is engaged, and they don't know they have a past together."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1338_bolly",
+      "emotion": "shame",
+      "dialogue": "In every stride there is an attitude.  I am in love with you.  I shamelessly said yes.  My eyes pact this agreement.  Your eyes which slowly bowed down.. ..in that I found your answer. I salute you.\"",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "expressing love openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "p713_bolly",
+      "emotion": "pride",
+      "dialogue": "Here I am winning.  But at the border it is important to win over the enemy.  It is a matter of pride.  Major Shahi, you have won all the wars until now.  Then why do you worry about this war?",
+      "target_person": "Major Shahi",
+      "target_gender": "male",
+      "cause_raw": "winning wars",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p714_bolly",
+      "emotion": "pride",
+      "dialogue": "Anju.  Anju, you were praising this man. He doubts a lot.  He is full of pride. He is not true to his motherland.  We are surprised by his behavior since the first day.  How will you spend your whole life with him?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

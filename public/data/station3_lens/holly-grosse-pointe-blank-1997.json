@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "9434",
+    "title": "Grosse Pointe Blank",
+    "year": "1997",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/7lQ0MSNQqBTYpXTTZL82u1n95Z3.jpg",
+    "overview": "Hitman Martin Blank becomes a moving target after he rebuffs a fellow assassin's invitation to form a union. On the advice of his quirky assistant and neurotic psychiatrist, Martin begrudgingly heads out to Grosse Pointe, Michigan for his ten-year high school reunion, where he soon comes across the woman he jilted on prom night."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS665_holly",
+      "emotion": "shame",
+      "dialogue": "It´s legal. In five years, we´ll be puttin´ it in the water for the citizens like fluoride.  That´s fascinating. Is there anything else you wanted to talk about? Because I was gonna have breakfast.  I heard about that little blowup at the Ultimart. It was a wicked, rippin´ shame.  - One of yours? One of your fraternal brothers? - No!  Hey, listen, I wanna work with you.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "causing a public disturbance",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WP1343_holly",
+      "emotion": "pride",
+      "dialogue": "Looking at yearbooks and pictures evokes so many memories... some good, some bad, but all interesting.  some good, some bad, but all interesting.  Whenever news of you filters back... the school is excited and proud of your accomplishments\".  the school is excited and proud of your accomplishments\".  Hold on a sec.",
+      "target_person": "school",
+      "target_gender": "unclear",
+      "cause_raw": "accomplishments of a former student",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1344_holly",
+      "emotion": "pride",
+      "dialogue": "some good, some bad, but all interesting.  Whenever news of you filters back... the school is excited and proud of your accomplishments\".  the school is excited and proud of your accomplishments\".  Hold on a sec.  I can see clearly now The rain is gone",
+      "target_person": "school",
+      "target_gender": "unclear",
+      "cause_raw": "accomplishments of the person",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

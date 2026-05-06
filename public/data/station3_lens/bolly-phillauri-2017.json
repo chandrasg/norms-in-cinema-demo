@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "413421",
+    "title": "Phillauri",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/wEls8ZZs5lm9rzQnXZJKqYgygVK.jpg",
+    "overview": "A man is forced to marry a tree to ward off ill-luck that surrounds his love-life which turns into a nightmare when the tree is embodied by a spirit with an unfinished business."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1340_bolly",
+      "emotion": "shame",
+      "dialogue": "I attempts to capture the attention of all the women around. Like a pigeon that spots seeds to eat. I tells everyone to let go of any fake shame or modesty..\"..I doesn't want them to pretend like embarrassed.\" Just like a cat that drinks up all the milk..\"..and then wipes its moustache.\" There is no need for anyone to ask what happened next.",
+      "target_person": "I",
+      "target_gender": "male",
+      "cause_raw": "flirtatious and immodest behavior",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1341_bolly",
+      "emotion": "shame",
+      "dialogue": "No poetry? An unfolding. Like an unfurling of wings. Love flies in...\"Disruptive. Breaking the dawn, With the edge of it's beak.\" I have coaxed it to stay. Fattened on sugar drops. From the tip of...You should be ashamed of yourself. I'm sure nobody dances like this even in brothels. If the elders drink like this......what will the children learn!",
+      "target_person": "dancer",
+      "target_gender": "female",
+      "cause_raw": "inappropriate dancing",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1342_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't insult me like this. - 'Your songs have no depth or poetry.' - 'You should be ashamed of yourself.' Are you upset because of what Shashi said? I don't want to sing. That's all.",
+      "target_person": "singer",
+      "target_gender": "unclear",
+      "cause_raw": "lack of depth or poetry in songs",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1343_bolly",
+      "emotion": "shame",
+      "dialogue": "This is the twentieth time you are asking me. It's 11 o'clock. What's wrong? Can't wait, you shameless hussy? Can't wait, huh? Granny's here.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "impatience or perceived promiscuity",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

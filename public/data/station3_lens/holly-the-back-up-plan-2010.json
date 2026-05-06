@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "34806",
+    "title": "The Back-Up Plan",
+    "year": "2010",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/fB6PxwdydGzdq5jSWrxwSMEqSFs.jpg",
+    "overview": "When Zoe tires of looking for Mr. Right, she decides to have a baby on her own. But on the day she's artificially inseminated, she meets Stan, who seems to be just who she's been searching for all her life. Now, Zoe has to figure out how to make her two life's dreams fit with each other."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 4
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2594_holly",
+      "emotion": "pride",
+      "dialogue": "[***]  WOMAN: Okay, all right.  Welcome to Single Mothers and Proud.  As the name suggests, we are all single, mothers  and, uh, proud. Ha, ha.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being a single mother",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2595_holly",
+      "emotion": "pride",
+      "dialogue": "Welcome to Single Mothers and Proud.  As the name suggests, we are all single, mothers  and, uh, proud. Ha, ha.  Hey, all right.  Okay. Some of us have adopted.",
+      "target_person": "single mothers",
+      "target_gender": "female",
+      "cause_raw": "being single mothers",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2596_holly",
+      "emotion": "pride",
+      "dialogue": "so I guess it's time for my backup plan. So... Well, Zoe, listen. If you really want a baby,  Well, Zoe, listen. If you really want a baby,  we here at Single Mothers and Proud, ah-ha,  we can be your partners.  From inception to graduation, everything in between.",
+      "target_person": "Zoe",
+      "target_gender": "female",
+      "cause_raw": "wanting a baby",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2597_holly",
+      "emotion": "pride",
+      "dialogue": "Maybe I can. I'll love being barefoot and pregnant.  Maybe he can teach me how to make cheese. We can live off the land.  Zoe, this group is called Single Mothers and Proud.  ZOE: I know.  I know, I know. I'm sorry.",
+      "target_person": "Zoe",
+      "target_gender": "female",
+      "cause_raw": "being a single mother",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

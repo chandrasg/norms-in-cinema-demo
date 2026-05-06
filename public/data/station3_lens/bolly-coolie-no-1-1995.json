@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "63345",
+    "title": "Coolie No. 1",
+    "year": "1995",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/pxdbdWA6EQb15YIEhRVt5iIdStA.jpg",
+    "overview": "Raju is a poor coolie who falls in love with a rich girl. He pretends to be rich and tells one big lie after another to marry her."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4881_bolly",
+      "emotion": "shame",
+      "dialogue": "--for my self respect, I left my house---- --and today my wife and father-in-law has degraded me----- --shame on me---shame on me---- --what are you doing ? --l understood that we had committed mistake----",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "degraded by wife and father-in-law",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4882_bolly",
+      "emotion": "shame",
+      "dialogue": "--you said, that he is notorious, gambler etc, don't try to fool me--- --l am very angry, I won't leave him---- --Gajendra Pratap Singh, you should be ashamed of your self--- --your children are starving---- are you going to spend all the wealth on your self----",
+      "target_person": "Gajendra Pratap Singh",
+      "target_gender": "male",
+      "cause_raw": "Selfishness and neglecting family responsibilities",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p2728_bolly",
+      "emotion": "pride",
+      "dialogue": "--your insult is mine and mine yours. listen , your job is to marry this girl and mine is to break the pride of her father. can you tell some lies? not yet. you will have too",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "breaking the pride of girl's father",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

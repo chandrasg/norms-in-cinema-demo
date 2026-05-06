@@ -1,0 +1,159 @@
+{
+  "film": {
+    "id": "159067",
+    "title": "Kunwara",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/tLSmEZTqWrj4NPu7PQJ6IHKRh0l.jpg",
+    "overview": "Raju meets Urmila in New Zealand. They have a fast romance and things are going well until Raju must make a trip back to India..."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3206_bolly",
+      "emotion": "shame",
+      "dialogue": "- Do you know him? I think so...Take me to him! I won't spare him! But what did he do? Something unforgivable! I am too ashamed to repeat it again! You are ashamed to tell. Won't you be ashamed when you hit him? He will then surely admit!",
+      "target_person": "unidentified person",
+      "target_gender": "unclear",
+      "cause_raw": "unknown reason",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s3207_bolly",
+      "emotion": "shame",
+      "dialogue": "I won't spare him! But what did he do? Something unforgivable! I am too ashamed to repeat it again! You are ashamed to tell. Won't you be ashamed when you hit him? He will then surely admit! I even reserved a bed in hospital for him already",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "unknown reason",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "s3208_bolly",
+      "emotion": "shame",
+      "dialogue": "We will be killed because of you! Hide! Lay still! What happened? Nothing. Shameless body! You eat dinner. Listen.. Yes? I heared that there are ghosts and spooks that come out in the dark.",
+      "target_person": "person hiding",
+      "target_gender": "unclear",
+      "cause_raw": "causing danger to others",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s3209_bolly",
+      "emotion": "shame",
+      "dialogue": "Me? Explain to him? You want me to be beaten up? Are you afraid for your son? No, but I am for his gun! Very shameful! He is your son. Will he shoot you when you tell him the truth? I know he is my son.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "fear of confronting son",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3210_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes, love, it is true. He came here to help her. Have some shame. I'm standing here! I am holding you after such a long time! Don't you feel any shame?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior in public",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3211_bolly",
+      "emotion": "shame",
+      "dialogue": "Have some shame. I'm standing here! I am holding you after such a long time! Don't you feel any shame? The task of the homing pigeon is just to deliver the letter and then leave. Am I just the mailman? Then I will take the letter back.",
+      "target_person": "speaker's partner",
+      "target_gender": "unclear",
+      "cause_raw": "lack of affection or intimacy",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3212_bolly",
+      "emotion": "shame",
+      "dialogue": "Am I just the mailman? Then I will take the letter back. Don't! I will turn away. Shameless! Finished? Not yet. The girl has grown up.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "growing up and maturing",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1684_bolly",
+      "emotion": "pride",
+      "dialogue": "This is the thruth about him! His life started in an orphanage and will end in a canteen! You should proudly tell about the history of your 400 year old clan! Your father built a university, your grandfather a hospital. Our ancestors were land owners. They built 5 canals and 2 water wells.",
+      "target_person": "you",
+      "target_gender": "male",
+      "cause_raw": "family's historical achievements",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1685_bolly",
+      "emotion": "pride",
+      "dialogue": "He's the life of all pretty girls. Everybody loves him. He is the pride of all beauty. Let me put a blush on your cheeks. Let me lift those curls of yours.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1686_bolly",
+      "emotion": "pride",
+      "dialogue": "You will have to apologize,  for the behaviour of this young man. Shut up! If you try to offend me, I am your worst enemy! You are very proud of your winning horses? I will teach you a lesson! I will win the race this year and give back the horse to uncle. Bravo, son!",
+      "target_person": "uncle",
+      "target_gender": "male",
+      "cause_raw": "winning a horse race",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "p1687_bolly",
+      "emotion": "pride",
+      "dialogue": "Bravo, my son! Come, give me a hug! The wonder of all wonders! You made Thakur Balraj Singh  very proud! And I don't mind admitting my mistakes in public. I never accepted that Sharmila married you .....I never accepted you as my son-in-law. But I was wrong.",
+      "target_person": "Thakur Balraj Singh",
+      "target_gender": "male",
+      "cause_raw": "acceptance of son-in-law",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

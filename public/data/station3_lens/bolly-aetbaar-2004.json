@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "334397",
+    "title": "Aetbaar",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/iFU4TSOiaEPhBygTSwRzx7ncoz2.jpg",
+    "overview": "After the tragic death of his son - Rohit, in a car accident, Dr. Ranveer Malhotra has been very protective of his daughter Ria. All is well for Ria until one day on a college mishap Ria reaches up with Aryan and both fall in love with each other. Aryan showers Ria with a lot of love and she thought that he is her ideal life partner. Ria invites Aryan to dinner at her home and introduces him to her parents. Her mother immediately approves of him but her father thinks that something is a miss and tells Ria to stop meeting Aryan. But Aryan is madly in love with Ria and refuses to leave her. When Ria disobeys him, her father decides to dig deeper into Aryan's past. Ranveer is desperate as he knows Ria is heading towards something dangerous."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4056_bolly",
+      "emotion": "shame",
+      "dialogue": "You're not going to the college with me! I get it, I sure do. You are ashamed to go to the college with your aged father The moment your young and romantic friends see you and me together...they'll say: Hey Guys! Check this out! No dude, this is dad!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "being old",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4057_bolly",
+      "emotion": "shame",
+      "dialogue": "The moment your young and romantic friends see you and me together...they'll say: Hey Guys! Check this out! No dude, this is dad! I'm never ashamed to go anyplace with you May I drop you at the college then? Where to? - The classroom",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "being seen in public with his child",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4058_bolly",
+      "emotion": "shame",
+      "dialogue": "What's so important? You didn't even come to the college. Come on inside I'm leaving. - Listen to me, Ria. Listen...he's terribly ashamed about what he did yesterday. He's terribly ashamed. When he got to know that we're just friends......he came here early in the morning. He fell at my feet and apologised.",
+      "target_person": "Ria's friend",
+      "target_gender": "male",
+      "cause_raw": "Misunderstanding about a relationship",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4059_bolly",
+      "emotion": "shame",
+      "dialogue": "Come on inside I'm leaving. - Listen to me, Ria. Listen...he's terribly ashamed about what he did yesterday. He's terribly ashamed. When he got to know that we're just friends......he came here early in the morning. He fell at my feet and apologised. How's he to blame? He's madly in love with you Ria.",
+      "target_person": "Ria's lover",
+      "target_gender": "male",
+      "cause_raw": "Misunderstanding and overreacting",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4060_bolly",
+      "emotion": "shame",
+      "dialogue": "Do it all alone! Why're you dragging me with yourself? Why're you seeking revenge for his death from my life? Aren't you ashamed to talk like this with your Papa? Did we bring you up so you'd hurt your father like this one day? Didn't I tell you? I'll kill you if you enter my daughter's life again.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "going against father's wishes",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p2201_bolly",
+      "emotion": "pride",
+      "dialogue": "You'll go crazy if you see his paintings. Wow! You brew a cup of tea, you cook, you paint......what else do you do? - What work do you do? At the moment, I'm proud of my talent. When the world recognises it, I'll become a painter. Jokes apart, sir,",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "his own talent",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

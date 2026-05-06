@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "39940",
+    "title": "Picnic",
+    "year": "1955",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/aKCSA9JUp9JkztAjzODPTrtZmzC.jpg",
+    "overview": "Labor Day in a small Kansas farm town. Hal, a burly and resolute drifter, jumps off a dusty freight train car with the purpose of visiting Alan, a former college classmate and son of the richest man in town."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS612_holly",
+      "emotion": "shame",
+      "dialogue": "Just for me.  If I have one, will you stop coaxing?  Just the same, you ought to be ashamed of yourself.  Oh, kids! That looks like a lovely spot.  Yes! That's just fine.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "coercion",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WP1271_holly",
+      "emotion": "pride",
+      "dialogue": "After I left Hollywood... ...l took a job on a ranch in Nevada.  ...l took a job on a ranch in Nevada.  You'd have been proud of me.  ln bed every night at 1 0... ...up every morning at 6.  ...up every morning at 6.",
+      "target_person": "Unidentified speaker",
+      "target_gender": "unclear",
+      "cause_raw": "working on a ranch and maintaining a disciplined schedule",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1272_holly",
+      "emotion": "pride",
+      "dialogue": "...because he's got to do a lot of kicking.''  Then he said:  ''Son... ...there'll be times when all you've got... ...to be proud of is the fact that you're a man.  ...to be proud of is the fact that you're a man.  So wear boots so people know you're coming, and double your fists up... ...so they know you mean business when you get there.''",
+      "target_person": "Son",
+      "target_gender": "male",
+      "cause_raw": "being a man",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1273_holly",
+      "emotion": "pride",
+      "dialogue": "Then he said:  ''Son... ...there'll be times when all you've got... ...to be proud of is the fact that you're a man.  ...to be proud of is the fact that you're a man.  So wear boots so people know you're coming, and double your fists up... ...so they know you mean business when you get there.''  ...so they know you mean business when you get there.''",
+      "target_person": "Son",
+      "target_gender": "male",
+      "cause_raw": "being a man",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1274_holly",
+      "emotion": "pride",
+      "dialogue": "Speech!  Thank you.  I'm very proud... ...and I'll try hard to be a good Queen.  ...and I'll try hard to be a good Queen.  And I'll try hardest of all not to get conceited.",
+      "target_person": "Queen",
+      "target_gender": "female",
+      "cause_raw": "becoming a queen and promising to be good",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

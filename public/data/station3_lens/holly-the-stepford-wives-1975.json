@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "12223",
+    "title": "The Stepford Wives",
+    "year": "1975",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/5z1ogJJmQkCoU62VJmut4nnc2qs.jpg",
+    "overview": "Joanna Eberhart comes to the town of Stepford, Connecticut with her family, but soon discovers there lies a sinister truth in the all too perfect behavior of the female residents."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2183_holly",
+      "emotion": "pride",
+      "dialogue": "She gives singles.  Are these all for day camp tomorrow?  I just want you to be proud of me, honey.  Dad, watch this.  Ball.",
+      "target_person": "honey",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2184_holly",
+      "emotion": "pride",
+      "dialogue": "l know I'm pretty new here, but already I feel so at home.  Why did Jerry ask us to meet him here?  Proud that I can introduce Stepford's brand-new candidate for state senate.  Ladies and gentlemen, I give you Mr. Roger Bannister.  What?",
+      "target_person": "Jerry",
+      "target_gender": "male",
+      "cause_raw": "introducing a new candidate for state senate",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2185_holly",
+      "emotion": "pride",
+      "dialogue": "we honor our very newest citizens of Stepford.  ln my opinion, they are the cream of the crop in couple  that proudly proclaims Stepford  the American way of love.  Now... ...I'd like to ask my wonderful woman, my lovely wife,",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being part of the cream of the crop in Stepford",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

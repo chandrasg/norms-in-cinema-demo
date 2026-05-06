@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "54256",
+    "title": "Rang Birangi",
+    "year": "1983",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/rQCblOlhls54iwELMMkhI5cuIu3.jpg",
+    "overview": "Sparkling comedy about a meddling friend whose attempt to rekindle the spark in his friend's relationship with his wife of seven years leads to complications to their lives, and to the lives of his secretary and her boyfriend he has not 'scripted' ... Splendid performances by Amol Palekar, Deepti Naval, Parveen Babi and Farooq Shaikh, a perfectly pitched script, witty dialogue and a plethora of aptly placed film references make this a film one can watch over and over and never fail to laugh out loud."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1639_bolly",
+      "emotion": "shame",
+      "dialogue": "- Nothing has happened to his wife! - Why are you yelling? I'll scream louder because he's fooling, cheating you! Have you no shame talking about a gentleman in this manner? I'll shoot that gentleman! From tomorrow you won't go to work!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "cheating and lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1640_bolly",
+      "emotion": "shame",
+      "dialogue": "You spy on me! It would be better if you divorce me! - What are you saying? - Don't touch me! I am a shameless woman! I am a tramp! I'm leaving this house for good! Find yourself a chaste woman!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1641_bolly",
+      "emotion": "shame",
+      "dialogue": "Cinema tickets and in black! Sin and crime at the same time! Have you no shame in selling in black? First I would feel ashamed. But since I saw black marketeer Karodilal become a leader...\"And won an election, I now feel no shame.\"",
+      "target_person": "black marketeer",
+      "target_gender": "male",
+      "cause_raw": "selling cinema tickets in black",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1642_bolly",
+      "emotion": "shame",
+      "dialogue": "Sin and crime at the same time! Have you no shame in selling in black? First I would feel ashamed. But since I saw black marketeer Karodilal become a leader...\"And won an election, I now feel no shame.\" Shut up!",
+      "target_person": "black marketeer",
+      "target_gender": "male",
+      "cause_raw": "engaging in black market activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s1643_bolly",
+      "emotion": "shame",
+      "dialogue": "Have you no shame in selling in black? First I would feel ashamed. But since I saw black marketeer Karodilal become a leader...\"And won an election, I now feel no shame.\" Shut up! I'll whip your skin off!",
+      "target_person": "black marketeer",
+      "target_gender": "male",
+      "cause_raw": "engaging in black market activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p857_bolly",
+      "emotion": "pride",
+      "dialogue": "If he's Raj Babbar, I am the king of beasts! He is the man who first raped Zeenat Aman......and then Padmini Kolhapure. What? He rapes two girls and talks with great pride! He has been punished for it. Zeenat Aman shot him so hard that...\"If he died, is this his ghost?\"",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

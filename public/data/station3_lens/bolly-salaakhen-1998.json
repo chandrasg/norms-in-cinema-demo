@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "618996",
+    "title": "Salaakhen",
+    "year": "1998",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/kKWy6AenNX0aPdzqjkl2sIW4cMY.jpg",
+    "overview": "When an honest school teacher testifies in a rape case against a prominent businessman's son, he is psychologically tortured and forced to commit suicide. His young son then takes the law into his own hands in order to avenge his father."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1852_bolly",
+      "emotion": "shame",
+      "dialogue": "There is one solution, Kamble. You rascal! Got hot pants? What have you done! Didn't you feel ashamed to commit such a grave sin? Inspector, here's your culprit. He has committed a heinous crime as rape.",
+      "target_person": "Kamble",
+      "target_gender": "male",
+      "cause_raw": "committing rape",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p967_bolly",
+      "emotion": "pride",
+      "dialogue": "People will stop talking after that. No Mr. Rana, I think, killing Rastogi right now...Rastogi will have to die! He has become very proud about his riches. He was poisoning the minds of his community against me. Call up Nagesh.",
+      "target_person": "Rastogi",
+      "target_gender": "male",
+      "cause_raw": "his riches",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p968_bolly",
+      "emotion": "pride",
+      "dialogue": "Vishal! - Father, wait! I will carry forward this investigation. You are too proud of your uniform, aren't you? It is not your fault, he has gone crazy... You come with me! Come!",
+      "target_person": "Vishal",
+      "target_gender": "male",
+      "cause_raw": "his uniform",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

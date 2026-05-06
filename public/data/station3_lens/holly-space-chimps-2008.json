@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "11802",
+    "title": "Space Chimps",
+    "year": "2008",
+    "industry": "holly",
+    "country": "US|CA",
+    "poster_path": "/ecAKgzlt78OvEVpZURYYdSz8K5v.jpg",
+    "overview": "When an unmanned space shuttle crashes on an uncharted planet, a trio of astronaut chimpanzees are launched by NASA into a wormhole to investigate."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2426_holly",
+      "emotion": "pride",
+      "dialogue": "Got his face on magazines, newspapers, television.  - He even met the president. - I met the chief of police once.  Ham! He did somethin' to be proud of.  Had a dream and went for it.  - You got dreams? - I'm living my dream.",
+      "target_person": "Ham",
+      "target_gender": "male",
+      "cause_raw": "achieving his dream",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP2427_holly",
+      "emotion": "pride",
+      "dialogue": "- Huh. - Well, looks like we're gonna need a new cannonball.  You like to travel?  - Here he comes. - Stand proud.  I can't believe it. We'll be flying with the grandson of the great Ham.  You sure they said \"grandson\"?",
+      "target_person": "unknown",
+      "target_gender": "male",
+      "cause_raw": "being the grandson of the great Ham",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2428_holly",
+      "emotion": "pride",
+      "dialogue": "comes at great risk and danger.  Who will blaze this trail for us?  The few, the proud... the monkeys!  the monkeys!  - Awesome! - A historic moment.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2429_holly",
+      "emotion": "pride",
+      "dialogue": "I appreciate your honesty. You're a good man, \"Zartig.\"  And a worthy adversary.  - Be proud. - Prepare to be frozen forever.  Ha! You don't even know how to use the reticulating micromovement device.  Even a first-year cadet knows how to do that.",
+      "target_person": "Zartig",
+      "target_gender": "male",
+      "cause_raw": "being a good man and a worthy adversary",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2430_holly",
+      "emotion": "pride",
+      "dialogue": "Lieutenant Luna, you crash with style.  Cannonball, I was wrong about you.  You would've made your grandfather proud.  Thanks. I guess I'm just a chimp off the old block.  That's a good one. I'll have to use that line.",
+      "target_person": "Cannonball's grandfather",
+      "target_gender": "male",
+      "cause_raw": "Cannonball's actions",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

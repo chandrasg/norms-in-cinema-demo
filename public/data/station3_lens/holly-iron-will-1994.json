@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "24767",
+    "title": "Iron Will",
+    "year": "1994",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/vYsSu7DdgU4yqbekTvAevrv6dSP.jpg",
+    "overview": "When Will Stoneman's father dies, he is left alone to take care of his mother and their land. Needing money to maintain it, he decides to join a cross country dogsled race. This race will require days of racing for long hours, through harsh weather and terrain. This young man will need a lot of courage and a strong will to complete this race."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1984_holly",
+      "emotion": "pride",
+      "dialogue": "Well, did you get in?  Yes, sir.  You got in! Oh, I'm so proud of you!  - I'm not goin', Dad. - What? Wha--  - I'm not goin'. - What are you talking about? Of course--",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "getting accepted presumably into a school or program)",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP1985_holly",
+      "emotion": "pride",
+      "dialogue": "and sponsor of this derby JW Harper!  Thank you, Louis. Thank you, ladies and gentlemen.  Racing for the Great Northern Railroad... I'm proud to introduce Mike Riley from Calgary.  I'm proud to introduce Mike Riley from Calgary.  - Take a bow, Mike. - Take it to 'em, Mike!",
+      "target_person": "JW Harper",
+      "target_gender": "male",
+      "cause_raw": "introducing Mike Riley from Calgary",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1986_holly",
+      "emotion": "pride",
+      "dialogue": "Thank you, Louis. Thank you, ladies and gentlemen.  Racing for the Great Northern Railroad... I'm proud to introduce Mike Riley from Calgary.  I'm proud to introduce Mike Riley from Calgary.  - Take a bow, Mike. - Take it to 'em, Mike!  And the Canadian champion Indian sledders, Gabriel and Albert.",
+      "target_person": "Louis",
+      "target_gender": "male",
+      "cause_raw": "introducing Mike Riley",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1987_holly",
+      "emotion": "pride",
+      "dialogue": "I noticed your article, Harry.  - All the way on page 14. - Yeah, that's cute.  And so we send you brave men off in competition... with the pride of many nations at your shoulders.  with the pride of many nations at your shoulders.  Good luck and Godspeed.",
+      "target_person": "Harry",
+      "target_gender": "male",
+      "cause_raw": "his article being published",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1988_holly",
+      "emotion": "pride",
+      "dialogue": "- All the way on page 14. - Yeah, that's cute.  And so we send you brave men off in competition... with the pride of many nations at your shoulders.  with the pride of many nations at your shoulders.  Good luck and Godspeed.  Racing teams, are you ready?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "representing many nations in competition",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1989_holly",
+      "emotion": "pride",
+      "dialogue": "I see. Well, charming.  And how does Mr Stoneman feel about young Will racing?  His father's very proud of him.  Tell Kingsley I've got an angle for him.  Iron Will races to save mother's farm and go to college.",
+      "target_person": "Mr Stoneman",
+      "target_gender": "male",
+      "cause_raw": "his son's racing",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

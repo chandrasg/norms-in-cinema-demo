@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "31997",
+    "title": "Saboteur",
+    "year": "1942",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/iDKOOTymUZg0WAWPcbdP6nPZEFF.jpg",
+    "overview": "Aircraft factory worker Barry Kane flees across the United States after he is wrongly accused of starting the fire that killed his best friend."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS740_holly",
+      "emotion": "shame",
+      "dialogue": "Sure, she can.  Thank you, Pat.  They made me so ashamed.  They're so nice and trusting.  They're wonderful people,",
+      "target_person": "Pat",
+      "target_gender": "female",
+      "cause_raw": "making someone feel ashamed",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP1425_holly",
+      "emotion": "pride",
+      "dialogue": "In case you're interested, the blacksmith's shop is two miles back.  We're on our way to the police.  Your uncle's certainly gonna be proud of you!  The world isn't full of kind old gentlemen, like my uncle.  You're gonna find that out.",
+      "target_person": "uncle",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1426_holly",
+      "emotion": "pride",
+      "dialogue": "How do you do?  And this is Esmeralda, our bearded lady.  Naturally, we're very proud to have her as a member of our group.  You poor kids must be tired. Come on in and sit down, have a little rest.  We're trying to get to a place called Soda City,",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "having Esmeralda as a member of their group",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

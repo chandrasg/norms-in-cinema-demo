@@ -1,0 +1,142 @@
+{
+  "film": {
+    "id": "44565",
+    "title": "Khatta Meetha",
+    "year": "2010",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/rIM83O7WUcZIlg9pd6SgXgB0w2v.jpg",
+    "overview": "Sachin Tichkule, a struggling contractor whose failure in making peace with the corrupt bureaucracy in town as well as strained relation with his ex-girlfriend and his family leads to misadventures that deprive him of his closest relations. However, as he begins to mend his ways, justice comes knocking on his door."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 2
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 2
+    },
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3039_bolly",
+      "emotion": "shame",
+      "dialogue": "I've better things to do.  I would prefer reciting 'Bhagvad Gita' (holy text).. ..to a buffalo rather than explaining to him.  I feel ashamed to enter the municipality office.. ..because of my brother-in-law.  Every work that he has done.. Everyone knows that it's all a fraud.  And he wants me to conduct an investigation.. ..and tell everyone that everything's fine.",
+      "target_person": "brother-in-law",
+      "target_gender": "male",
+      "cause_raw": "fraudulent activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s3040_bolly",
+      "emotion": "shame",
+      "dialogue": "I've to return Rs.130,000 to you.  Don't you dare remind me of that again?  Aren't you ashamed?  You belong to a royal family.  Your father was a judge.",
+      "target_person": "character being reminded of debt",
+      "target_gender": "male",
+      "cause_raw": "not being able to repay debt",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3041_bolly",
+      "emotion": "shame",
+      "dialogue": "Madam. Madam. Madam.  I'm taking your road roller.  You should be ashamed.  Any Indian won't do such a cheap thing with his country.  Madam, who is an Indian here?",
+      "target_person": "Madam",
+      "target_gender": "female",
+      "cause_raw": "Disrespecting national property",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3042_bolly",
+      "emotion": "shame",
+      "dialogue": "Look, madam.  There's only dirt below the tar coal.  It's such a shameful thing.  Didn't you carry out an inspection when he was working?  That's why the roads in the country are not constructed properly.",
+      "target_person": "madam",
+      "target_gender": "female",
+      "cause_raw": "negligence in duty",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3043_bolly",
+      "emotion": "shame",
+      "dialogue": "Didn't you carry out an inspection when he was working?  That's why the roads in the country are not constructed properly.  I feel ashamed.  In the rains these roads will be washed away.  I won't tolerate this.",
+      "target_person": "Inspector",
+      "target_gender": "male",
+      "cause_raw": "Negligence in duty",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1583_bolly",
+      "emotion": "pride",
+      "dialogue": "It's been ages since I last saw Rs.1000. So?  You're born only to defame the family.  You have made the family proud, haven't you? That's it.  But I would like to say one thing.  Whoever I've borrowed money from.. ..be it Chaggan, Magan or Lagan.. ..but I haven't used any one of your names.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1584_bolly",
+      "emotion": "pride",
+      "dialogue": "Take my name out of Tichkule and Tichkule.  I don't want any of the curses people shower you with.  But Father, you'll be proud of me one day.  Get lost from here.  Spare my loin-cloth.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1585_bolly",
+      "emotion": "pride",
+      "dialogue": "Father, give me your blessings.  What are you going to do now?  I promise father.. ..that one day he'll speak proudly of me.  And that day has arrived, Mother.  The road roller of Tichkule and Tichkule company.. ..will be arriving in this house.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's success",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p1586_bolly",
+      "emotion": "pride",
+      "dialogue": "Everything will change.  And one day, my brother will become very famous.  And everyone will be proud of you.  My heart says that.  Now, come and eat.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "brother's future success",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1587_bolly",
+      "emotion": "pride",
+      "dialogue": "Let lives be ruined.  But what you did was right.  Your father is proud of you son.  You're leaving this house and this city.  And without a motive.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's righteous act",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

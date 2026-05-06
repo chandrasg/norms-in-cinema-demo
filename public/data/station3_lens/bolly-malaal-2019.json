@@ -1,0 +1,119 @@
+{
+  "film": {
+    "id": "611537",
+    "title": "Malaal",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/AsnZdUdmfxEenKH3GNMtqIFAzDh.jpg",
+    "overview": "When a rowdy Shiva’s world collides with that of a demure Aastha’s, whose family has just moved into the chawl he resides in, sparks fly between them. But given their completely different backgrounds, is there any scope for their romance to bloom and survive?"
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3450_bolly",
+      "emotion": "shame",
+      "dialogue": "You go around picking a fight with everyone. You thrashed the umpire today. The entire neighborhood is ashamed of you. I stay awake at night worrying about your future. And you...Why aren't you worried?",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "violent and irresponsible behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3451_bolly",
+      "emotion": "shame",
+      "dialogue": "-Yes. -Can you keep this in the refrigerator? Why don't you get it embossed on the nameplate that your son is a loser? If you're not ashamed of it, then why should I be ashamed of admitting it. He will always remain a loser. Loser.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being unsuccessful",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3452_bolly",
+      "emotion": "shame",
+      "dialogue": "Look what I got for you. Sorry, I was only trying to give you this chain...What chain? And why? Aren't you ashamed of troubling a female on the bus? How dare you trouble a female? Aren't you ashamed of yourself? She knows me.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "harassing a woman",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3453_bolly",
+      "emotion": "shame",
+      "dialogue": "Sorry, I was only trying to give you this chain...What chain? And why? Aren't you ashamed of troubling a female on the bus? How dare you trouble a female? Aren't you ashamed of yourself? She knows me. You can ask her.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "harassing a woman in public",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p1819_bolly",
+      "emotion": "pride",
+      "dialogue": "Why did you come to Mumbai? Look, I was born right here in Mumbai. And I am equally proud of being a Maharashtrian. Did you hear that? -Yeah, right. -Maharashtrian!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being a Maharashtrian",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1820_bolly",
+      "emotion": "pride",
+      "dialogue": "-Come on. -Yes, come on. What are you staring at? If you're such a proud Maharashtrian...then do something about it. Maybe your family will start respecting you. And won't call you a loser.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "proving oneself",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1821_bolly",
+      "emotion": "pride",
+      "dialogue": "I am overwhelmed with love I am overwhelmed with love Why are you so proud Of your crazy heart? Why are you so proud Of your crazy heart? What are you thinking? Why are you sulking?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1822_bolly",
+      "emotion": "pride",
+      "dialogue": "I am overwhelmed with love Why are you so proud Of your crazy heart? Why are you so proud Of your crazy heart? What are you thinking? Why are you sulking? Even though you won't say it, I can read it in your eyes",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

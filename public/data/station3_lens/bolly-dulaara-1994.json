@@ -1,0 +1,145 @@
+{
+  "film": {
+    "id": "338119",
+    "title": "Dulaara",
+    "year": "1994",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/7vkT2kPYQ3aGp5tLDmkH6CqUw1C.jpg",
+    "overview": "Raja's adoptive father, James Joyner, was once a career-criminal who was gunned down by the police; thus when there are killings in and around the city Raja becomes a suspect - only to learn that he is being framed for someone else's crime; while on the other hand Inspector Vijay Chauhan is looking for evidence to incarcerate him."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "False Accusation",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5110_bolly",
+      "emotion": "shame",
+      "dialogue": "I just wanted to see. - Mummy, you know the lame Gullu? Yes, your Gullu. - I had gone to show him to the doctor Shameless! Every day you come up with new excuses. You lie to me? Aren't you ashamed? - No Mummy, don't throw me out Don't do this to me. - Sit. You'll sit there all night",
+      "target_person": "speaker's child",
+      "target_gender": "male",
+      "cause_raw": "lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s5111_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes, your Gullu. - I had gone to show him to the doctor Shameless! Every day you come up with new excuses. You lie to me? Aren't you ashamed? - No Mummy, don't throw me out Don't do this to me. - Sit. You'll sit there all night I won't sit here all night. I'm scared of ghosts",
+      "target_person": "Gullu",
+      "target_gender": "male",
+      "cause_raw": "lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s5112_bolly",
+      "emotion": "shame",
+      "dialogue": "Goodness Has he really run away? Actually Mummy, I was famished, so I...Bloody thief! Stealing food, eh? Shameless! Stealing...? Eating food from one's own kitchen is not stealing Your house? You bet? Did your father leave this all behind for you?",
+      "target_person": "character being accused of stealing",
+      "target_gender": "unclear",
+      "cause_raw": "accused of stealing",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s5113_bolly",
+      "emotion": "shame",
+      "dialogue": "No fire, no smoke. - Are you out of your mind? Would I kill a child to save my neck? How could you think something so sick? I'm ashamed to call you my friend. You've gone crazy Raja, I was only kidding Teja here",
+      "target_person": "Raja",
+      "target_gender": "male",
+      "cause_raw": "Accused of considering harm to a child",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s5114_bolly",
+      "emotion": "shame",
+      "dialogue": "You know why? He is no longer scared of the police department Because he thinks he's James Bond and he takes you all for morons It's a shame. A new kid in the block of crime has been pulling wool...over our eyes, and we've not been able to find an iota of evidence against him Sorry sir, it will be mistake to consider him a new kid in the block What?",
+      "target_person": "police department",
+      "target_gender": "unclear",
+      "cause_raw": "incompetence",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s5115_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you upto, Murari? Why is your hand going downwards? Aren't you ashamed? - When the devil of hunger...starts dancing within, shame goes for a toss It's unbalanced now. Everyone is watching No problem. I'll take the other one too",
+      "target_person": "Murari",
+      "target_gender": "male",
+      "cause_raw": "inappropriate public behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5116_bolly",
+      "emotion": "shame",
+      "dialogue": "We're not recluses. - Are you beggars then? I don't have change. Go away. - Not beggars, we're policemen Ashamed to beg in uniforms? Get lost Clothes!",
+      "target_person": "policemen",
+      "target_gender": "male",
+      "cause_raw": "begging",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "p2880_bolly",
+      "emotion": "pride",
+      "dialogue": "Why, why? Neither are you handsome, nor are you intelligent Then what are you so proud of? Under my feet, I trample the likes of you Neither are you handsome, nor are you intelligent",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2881_bolly",
+      "emotion": "pride",
+      "dialogue": "Under my feet, I trample the likes of you Neither are you handsome, nor are you intelligent Then what are you so proud of? Under my feet, I trample the likes of you I'm beyond compare, I'm much sought after",
+      "target_person": "second speaker",
+      "target_gender": "unclear",
+      "cause_raw": "self-confidence and self-worth",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2882_bolly",
+      "emotion": "pride",
+      "dialogue": "He's a beggar Give me. - Try another, please Folks, we're beggars, traditionally. - It's a matter of pride Begging all these years made a millionaire out of me. I changed But he didn't change, nor did his attitude",
+      "target_person": "beggar",
+      "target_gender": "male",
+      "cause_raw": "becoming a millionaire through begging",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "1894",
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "year": "2002",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/oZNPzxqM2s5DyVWab09NTQScDQt.jpg",
+    "overview": "Following an assassination attempt on Senator Padmé Amidala, Jedi Knights Anakin Skywalker and Obi-Wan Kenobi investigate a mysterious plot into the heart of the Separatist movement and the beginning of the Clone Wars."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 3
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1995_holly",
+      "emotion": "pride",
+      "dialogue": "I haven't worked for a year to defeat the Military Creation Act... to not be here when its fate is decided.  to not be here when its fate is decided.  Sometimes we must let go of our pride... and do what is requested of us.  and do what is requested of us.  Anakin, you've grown up.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1996_holly",
+      "emotion": "pride",
+      "dialogue": "Master Sifo-Dyas was killed almost ten years ago.  I'm so sorry to hear that.  But I'm sure he would have been proud of the army we've built for him.  The army?  Yes, a clone army, and I must say... one of the finest we've ever created.",
+      "target_person": "Master Sifo-Dyas",
+      "target_gender": "male",
+      "cause_raw": "building a fine clone army",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1997_holly",
+      "emotion": "pride",
+      "dialogue": "Clones can think creatively.  You will find that they are immensely superior to droids.  We take great pride in our combat education and training programmes.  This group was created about five years ago.  You mentioned growth acceleration.",
+      "target_person": "We",
+      "target_gender": "unclear",
+      "cause_raw": "combat education and training programmes",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1998_holly",
+      "emotion": "pride",
+      "dialogue": "This is Jedi Master Obi-Wan Kenobi.  He's come to check on our progress.  Your clones are very impressive. You must be very proud.  I'm just a simple man trying to make my way in the universe.  Ever made your way as far into the interior as Coruscant?",
+      "target_person": "Obi-Wan Kenobi",
+      "target_gender": "male",
+      "cause_raw": "impressive clones",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1999_holly",
+      "emotion": "pride",
+      "dialogue": "You look so handsome.  My son.  My grown-up son.  I'm so proud of you, Ani.  I missed you.  Now I am complete.  I love y-",
+      "target_person": "Ani's parent",
+      "target_gender": "male",
+      "cause_raw": "Ani's growth and maturity",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

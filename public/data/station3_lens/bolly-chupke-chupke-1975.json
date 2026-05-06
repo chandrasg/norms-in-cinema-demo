@@ -1,0 +1,171 @@
+{
+  "film": {
+    "id": "21459",
+    "title": "Chupke Chupke",
+    "year": "1975",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/yNZf2yhQE42f3uIcR1IXOiMQ72c.jpg",
+    "overview": "Sulekha is in awe of her brother-in-law Raghavendra for his intelligence. Parimal, her husband, decides to take up the challenge of fooling Raghavendra and goes to work for him as a driver."
+  },
+  "totals": {
+    "shame": 14,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 4
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 4
+    },
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 8,
+      "female": 6
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s835_bolly",
+      "emotion": "shame",
+      "dialogue": "Is Prof. Tripathi staying here? -Yes. He's someone with the Govt. Some doctor of grass and weeds. What a shame! Not weeds....refer to them as flowers and leaves at least. Will you? Do you happen to know him? -Yes. All of us are botany students.",
+      "target_person": "Prof. Tripathi",
+      "target_gender": "male",
+      "cause_raw": "being a botanist",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s836_bolly",
+      "emotion": "shame",
+      "dialogue": "Is he married yet? Watch it lady! What are you up to? Are you thinking of replacing me? -Shame on you! He's addressing me as a Bhabhi (sister-in-law) and you!..I was thinking of Rupa. She's studying in Shimla . She's my brother-in-law's elder  daughter.",
+      "target_person": "lady",
+      "target_gender": "female",
+      "cause_raw": "inappropriate intentions towards a married man",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s837_bolly",
+      "emotion": "shame",
+      "dialogue": "What do you mean? Let's sing a song, holding hands. Aren't you ashamed? And you're supposed to be a professor! Just now, I'm merely  a driver.",
+      "target_person": "professor",
+      "target_gender": "male",
+      "cause_raw": "behaving inappropriately for his profession",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s838_bolly",
+      "emotion": "shame",
+      "dialogue": "Pyare sings well  . You must listen to him sing. -l don't want to listen to anything. What a shame! With a driver! What are you saying. Are drivers not human-beings? -They maybe.",
+      "target_person": "Pyare",
+      "target_gender": "male",
+      "cause_raw": "Relationship with a lower social class driver",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s839_bolly",
+      "emotion": "shame",
+      "dialogue": "How long back was this? Go on..tell me? I'm ashamed to speak of it. -Drop the act and tell me! It was before my marriage. But after I've been married, no one says....that I've shown any signs of madness.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "past mental health issues",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s840_bolly",
+      "emotion": "shame",
+      "dialogue": "Brother-in-law is very agitated..and so are you! Is it because Pyare had come to my room last night? Aren't you ashamed? Why did he go to your room? That's what brother-in-law is asking Pyare. Why don't you ask him? -I'm asking you. -I won't tell  you.",
+      "target_person": "female character",
+      "target_gender": "female",
+      "cause_raw": "inappropriate interaction with a man",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s841_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll be back in a few days. Yours with love. Sulekha  P.S.: I wish there had not been this furore over Pyaremohan What a shame! How could  she do this? Do something fast! God knows where she has gone! Have patience. Let me see.",
+      "target_person": "Sulekha",
+      "target_gender": "female",
+      "cause_raw": "eloping or running away",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s842_bolly",
+      "emotion": "shame",
+      "dialogue": "Is Prof. Tripathi staying here? -Yes. He's someone with the Govt. Some doctor of grass and weeds. -What a shame! Not weeds....refer to them as flowers and leaves at least. Will you? Do you happen to know him? -Yes. All of us are botany students.",
+      "target_person": "Prof. Tripathi",
+      "target_gender": "male",
+      "cause_raw": "being a botanist",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s843_bolly",
+      "emotion": "shame",
+      "dialogue": "Is he married yet? Watch it lady! What are you up to? Are you thinking of replacing me? -Shame on you! He's addressing me as a Bhabhi (sister-in-law) and you!..I was thinking of Rupa. She's studying in Shimla. She's my brother-in-law's elder daughter.",
+      "target_person": "lady",
+      "target_gender": "female",
+      "cause_raw": "inappropriate intentions towards a married man",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s844_bolly",
+      "emotion": "shame",
+      "dialogue": "Isn't that right? Come on..We should do something....so that Ratna goes home and tells them about it. What do you mean? -Let's sing a song, holding hands. Aren't you ashamed? And you're supposed to be a professor! Just now, I'm merely a driver. How do flowers blossom in bower?",
+      "target_person": "professor",
+      "target_gender": "male",
+      "cause_raw": "behaving inappropriately for his profession",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s845_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes. So what? Pyare sings well. You must listen to him sing. I don't want to listen to  anything. What a shame! With a driver! Are drivers not human-beings? -They maybe. But your husband..You don't know my husband. I do.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "having a relationship with a driver",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s846_bolly",
+      "emotion": "shame",
+      "dialogue": "But I don't think I was ever mad. GHow long back was this? Go on..tell me? I'm ashamed to speak of it. -Drop the act and tell me! It was before my marriage. But after I've been married, no one says....that I've shown any signs of madness.",
+      "target_person": "character speaking",
+      "target_gender": "male",
+      "cause_raw": "past mental health issues",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s847_bolly",
+      "emotion": "shame",
+      "dialogue": "Brother-in-law is very agitated..and so are you! Is it because Pyare had come to my room last night? Aren't you ashamed? Why did he go to your room? That's what brother-in-law is asking Pyare. Why don't you ask him? -I'm asking you. -I won't tell you.",
+      "target_person": "Pyare",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior with a woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s848_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll be back in a few days. Yours with love. Sulekha P.S.: I wish there had not been..''..this furore over Pyaremohan'' What a shame! How could she do this? Do something fast! God knows where she has gone! Have patience. Let me see.",
+      "target_person": "Sulekha",
+      "target_gender": "female",
+      "cause_raw": "eloping or running away",
+      "theme_label": "Romantic Expression"
+    }
+  ]
+}

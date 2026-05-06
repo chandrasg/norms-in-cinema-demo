@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "33665",
+    "title": "Opening Night",
+    "year": "1977",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/5i1331f4Q2sNHUp9X3BOwWPS2Gg.jpg",
+    "overview": "Actress Myrtle Gordon is a functioning alcoholic who is a few days from the opening night of her latest play, concerning a woman distraught about aging. One night a car kills one of Myrtle's fans who is chasing her limousine in an attempt to get the star's attention. Myrtle internalizes the accident and goes on a spiritual quest, but fails to finds the answers she is after. As opening night inches closer and closer, fragile Myrtle must find a way to make the show go on."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS495_holly",
+      "emotion": "shame",
+      "dialogue": "you know about reputations.  As a good friend of mine once said, reputations are money.  Yeah, Dave, I know, but I don't know what'll cut out this lousy feeling... of embarrassment and shame.  of embarrassment and shame.  We -",
+      "target_person": "Dave",
+      "target_gender": "male",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WS496_holly",
+      "emotion": "shame",
+      "dialogue": "As a good friend of mine once said, reputations are money.  Yeah, Dave, I know, but I don't know what'll cut out this lousy feeling... of embarrassment and shame.  of embarrassment and shame.  We -  Do you know there are people out there waiting to see -",
+      "target_person": "Dave",
+      "target_gender": "male",
+      "cause_raw": "feeling embarrassed and ashamed",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WP1052_holly",
+      "emotion": "pride",
+      "dialogue": "But you've changed.  Your whole countenance has changed.  You're like some proud queen.  I think you're in line for a few bad habits.  So I'm gonna take you out after the show.",
+      "target_person": "Unnamed Character",
+      "target_gender": "female",
+      "cause_raw": "change in countenance",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

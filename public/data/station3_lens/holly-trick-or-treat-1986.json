@@ -1,0 +1,50 @@
+{
+  "film": {
+    "id": "25438",
+    "title": "Trick or Treat",
+    "year": "1986",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ycCrGbfuOEcKSCwxQeKA1VEPs7O.jpg",
+    "overview": "Eddie Weinbauer, a metalhead teen who is bullied at school, looks to his heavy metal superstar idol, Sammi Curr, for guidance. When Curr is killed in a hotel fire, Eddie becomes the recipient of the only copy of Curr's unreleased album, which, when played backwards, brings Sammi back to life. As Halloween approaches, Eddie begins to realize that this isn't only rock 'n roll...it's life and death."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [],
+  "gender_breakdown": {
+    "pride": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP118_holly",
+      "emotion": "pride",
+      "dialogue": "I'll send the keys back up. You guys bring the rest.  Uh... Okay.  I can't do this. If you put me in a box... ...it makes me feel like you're not proud of me.  ...it makes me feel like you're not proud of me.  If you're not proud of me... - Hello? - Who's your favorite big sister?",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP119_holly",
+      "emotion": "pride",
+      "dialogue": "Uh... Okay.  I can't do this. If you put me in a box... ...it makes me feel like you're not proud of me.  ...it makes me feel like you're not proud of me.  If you're not proud of me... - Hello? - Who's your favorite big sister?  - Hello? - Who's your favorite big sister?",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP120_holly",
+      "emotion": "pride",
+      "dialogue": "I can't do this. If you put me in a box... ...it makes me feel like you're not proud of me.  ...it makes me feel like you're not proud of me.  If you're not proud of me... - Hello? - Who's your favorite big sister?  - Hello? - Who's your favorite big sister?  You there?",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

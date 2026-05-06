@@ -1,0 +1,147 @@
+{
+  "film": {
+    "id": "175555",
+    "title": "A Madea Christmas",
+    "year": "2013",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/tbwm8GptynNoxbkC5AhjYMYfnn7.jpg",
+    "overview": "Madea dispenses her unique form of holiday spirit on rural town when she's coaxed into helping a friend pay her daughter a surprise visit in the country for Christmas."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    },
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS45_holly",
+      "emotion": "shame",
+      "dialogue": "Conner, I'm sorry.  - Can I ask you something? - What's that?  - Are you ashamed of me? - No.  Then why won't you tell her?  I've never let my mother down my entire life. Okay?",
+      "target_person": "Conner",
+      "target_gender": "male",
+      "cause_raw": "not acknowledging a relationship",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS46_holly",
+      "emotion": "shame",
+      "dialogue": "- Thank you. - All right then.  - Thank you. - Okay.  You oughta be ashamed of yourself.  That ain't being Christian, being that mean to that woman.  I don't eat food from the KKK.",
+      "target_person": "Unnamed Character",
+      "target_gender": "male",
+      "cause_raw": "being mean to a woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WS47_holly",
+      "emotion": "shame",
+      "dialogue": "- What kind of Christmas present is that? - Oh, damn.  Y'all better have some nitroglycerin or something.  That's a damn shame. Gonna kill that woman on... Hell, I'm stuck in the mud.  Hell, I'm stuck in the mud.  Hell, this ain't mud!",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "giving inappropriate or harmful gift",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "WS48_holly",
+      "emotion": "shame",
+      "dialogue": "- That's awful. - Good Lord.  - Who told you that? - Mama.  Eileen, you oughta be ashamed... Child, that's some straight-up bull... Madea!  Madea!  Your daddy wasn't killed by no white man.",
+      "target_person": "Eileen",
+      "target_gender": "female",
+      "cause_raw": "spreading false information",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP61_holly",
+      "emotion": "pride",
+      "dialogue": "It is beautiful. This place is stupendous.  My mama and daddy... Sorry. I'm sorry.  They just would've been so proud. Thank you.  - Thank you. - Thank you, Mama.  I was so upset when I heard you two eloped.",
+      "target_person": "Mama",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP62_holly",
+      "emotion": "pride",
+      "dialogue": "You gotta understand that.  You have to understand how this makes me feel.  I love you. I'm proud of us. I don't care who knows.  - Are you coming to bed? - You mean the sofa, right?  You know the walls are thin.",
+      "target_person": "us",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP63_holly",
+      "emotion": "pride",
+      "dialogue": "Every generation sees a little less division... and a little more open minds and open hearts.  and a little more open minds and open hearts.  I think we should be happy and proud... that our kids, our children... see people as people.  see people as people.  That was beautiful.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "children's open-mindedness and acceptance",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP64_holly",
+      "emotion": "pride",
+      "dialogue": "Nothing stops somebody like him from bullying people except pushing back.  That's right. That kid's been a terror to Conner since he was a little boy.  I'm glad you done what you did, Son. I'm proud of you.  Stood up for himself, and that's a good thing.  I'm with you, Lacey. I don't like it.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "standing up against bullying",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP65_holly",
+      "emotion": "pride",
+      "dialogue": "- You care about getting back... - Yeah.  To the heart of who we are as people.  You are so proud to be a part of a town... that doesn't mind keeping the Christ in Christmas... so much so, that they are presenting the McCoy School... with $100,000 a year for the next four years.  with $100,000 a year for the next four years.  - Yeah! Yes! - Yes, yes!",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being part of a town that keeps the Christ in Christmas and receiving a donation for the school",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP66_holly",
+      "emotion": "pride",
+      "dialogue": "The children of McCoy School... have put together a little presentation for us all... and this has all been under the direction of their current teacher... May be wrong for that.  May be wrong for that.  I am so proud of the kids.  Mrs. Lacey Williams.  - Did she say, \"Mrs. Lacey Williams\"? - It was all her idea.",
+      "target_person": "Mrs. Lacey Williams",
+      "target_gender": "female",
+      "cause_raw": "kids' presentation",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

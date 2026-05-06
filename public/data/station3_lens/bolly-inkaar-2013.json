@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "161468",
+    "title": "Inkaar",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/qjrTqFoVJAcG4426KCssLzkogs.jpg",
+    "overview": "At a leading ad agency, the battle for the top job between Rahul Verma, the advertising CEO, and Maya Luthra, his ambitious protégée, takes an ugly turn when Maya files a sexual harassment complaint against Rahul."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1315_bolly",
+      "emotion": "pride",
+      "dialogue": "See you. The caravan of life, with countless desires. Filled with pride, always trying to exceed yourself.  Yeah, mom.  There is no problem.",
+      "target_person": "mom",
+      "target_gender": "female",
+      "cause_raw": "exceeding oneself",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1316_bolly",
+      "emotion": "pride",
+      "dialogue": "Hi. And I am 30 seconds late. Shall we begin? - Let's start. Filled with pride, always trying to exceed yourself. A some point in life you've got to try. But there's no guarantee that you get lucky each time.",
+      "target_person": "<speaker",
+      "target_gender": "unclear",
+      "cause_raw": "exceeding oneself",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1317_bolly",
+      "emotion": "pride",
+      "dialogue": "'You two are a great team.' The caravan of life, the countless desires. Filled with pride, always trying to exceed yourself. You're the boat and the storm. You're the question and the answer. Why do you burn like the lamp in the storm?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1318_bolly",
+      "emotion": "pride",
+      "dialogue": "What did she say then? - I told you she won't listen. The caravan of life, the countless desires. Filled with pride, trying to exceed yourself. You're the boat and the storm. You're the question and the answer. Why do you burn like the lamp in the storm?",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1319_bolly",
+      "emotion": "pride",
+      "dialogue": "You know what I am saying. The caravan of life, the countless desires. Filled with pride, always trying to exceed yourself. The caravan of life, the countless desires.  Hi.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1320_bolly",
+      "emotion": "pride",
+      "dialogue": "'lf you have any other option, then try that.. ..and beat them at their own game.' The caravan of life, the countless desires. Filled with pride, trying to exceed yourself. You're the boat and the storm. You're the question and the answer. Why do you burn like the lamp in the storm?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

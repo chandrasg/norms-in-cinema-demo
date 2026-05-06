@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "112967",
+    "title": "Anth",
+    "year": "1994",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fhoCMQC9leY8ipwkL5GYUTJzrgZ.jpg",
+    "overview": "Anth was a 1993 Indian action film directed by Sanjay Khanna and produced by Ashok Honda and starred Sunil Shetty and Somy Ali in pivotal roles. Paresh Rawal, Deepak Shirke, Mohan Joshi, Makrand Deshpande, Alok Nath and Vijendra Ghaat also featured in the film."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s176_bolly",
+      "emotion": "shame",
+      "dialogue": "I know it. I even know that...the files here contain photographs of the And the lock-ups here bear the weak. This place is worse than a brother. Shame on You! More of this crap and I'll cut your tongue. Are you showing your masculinity on him, instead",
+      "target_person": "person being addressed",
+      "target_gender": "male",
+      "cause_raw": "abuse of power and authority",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s177_bolly",
+      "emotion": "shame",
+      "dialogue": "I agree. But what can I do all alone? I used to be proud of you. Because you were a But today I feel ashamed to call you my father. Enough, dear. I was helpless. But Mr Vikas, you've saved me from the muck of",
+      "target_person": "Vikas's father",
+      "target_gender": "male",
+      "cause_raw": "not living up to expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s178_bolly",
+      "emotion": "shame",
+      "dialogue": "May the truth prevail. Whatever happened is embarrassing. This incident brings shame to our department. Policemen gun down their fellowman right inside But sir, law and life were never guarded in that",
+      "target_person": "police department",
+      "target_gender": "unclear",
+      "cause_raw": "internal corruption and violence",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p47_bolly",
+      "emotion": "pride",
+      "dialogue": "But bribe has shut his mouth. I agree. But what can I do all alone? I used to be proud of you. Because you were a But today I feel ashamed to call you my father. Enough, dear. I was helpless.",
+      "target_person": "child",
+      "target_gender": "male",
+      "cause_raw": "father's integrity",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

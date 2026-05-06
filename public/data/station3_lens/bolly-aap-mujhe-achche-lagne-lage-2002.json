@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "49518",
+    "title": "Aap Mujhe Achche Lagne Lage",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/hPGUJfuCHn02U8fepE9lrcfUfTO.jpg",
+    "overview": "Sapna Dholakia desires nothing more than to be married to her love Rohit, but her conservative family and stubborn father will stop at nothing to make sure she marries the son of a friend of the family."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2225_bolly",
+      "emotion": "pride",
+      "dialogue": "A world of true love Pathan has never hidden behind a veil to attack like a coward, Dholakia You know it very well. Whatever I have done till today...I took pride in doing it I know, my worst enemy's life lies trapped in his daughter But I'm so sorry, your life is not with me",
+      "target_person": "Pathan",
+      "target_gender": "male",
+      "cause_raw": "his actions and decisions",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p2226_bolly",
+      "emotion": "pride",
+      "dialogue": "He has lied to you so that he could bring you back to this house...without creating a scene! - This can't be true It's true, Sapna. There's no difference between your brother and your papa They love their misplaced pride, their false egos For their pride, they can even strangle you! That's a lie, sister-in-law! - It's the truth, Sapna!",
+      "target_person": "brother and papa",
+      "target_gender": "male",
+      "cause_raw": "maintaining their ego",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p2227_bolly",
+      "emotion": "pride",
+      "dialogue": "It's true, Sapna. There's no difference between your brother and your papa They love their misplaced pride, their false egos For their pride, they can even strangle you! That's a lie, sister-in-law! - It's the truth, Sapna! Papa, you can't do this to me!",
+      "target_person": "brother and papa",
+      "target_gender": "male",
+      "cause_raw": "maintaining their ego",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

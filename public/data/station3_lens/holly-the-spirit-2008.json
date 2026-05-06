@@ -1,0 +1,56 @@
+{
+  "film": {
+    "id": "8285",
+    "title": "The Spirit",
+    "year": "2008",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/g9qawfzR3LWRC8r8YZ9w2yaQi5W.jpg",
+    "overview": "A Rookie cop named Denny Colt returns from the beyond as The Spirit, a hero whose mission is to fight against the bad forces from the shadows of Central City.  The Octopus, who kills anyone unfortunate enough to see his face, has other plans; he is going to wipe out the entire city."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2437_holly",
+      "emotion": "pride",
+      "dialogue": "Every lonely night, she's there for me.  She's not some tarted-up fraud all dressed up like a piece of jailbait.  No. She's an old city... ...old and proud of her every pock and crack and wrinkle.  ...old and proud of her every pock and crack and wrinkle.  She's my sweetheart, my plaything.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2438_holly",
+      "emotion": "pride",
+      "dialogue": "She's not some tarted-up fraud all dressed up like a piece of jailbait.  No. She's an old city... ...old and proud of her every pock and crack and wrinkle.  ...old and proud of her every pock and crack and wrinkle.  She's my sweetheart, my plaything.  She doesn't hide what she is, what she's made of:.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "for his city's authenticity and age",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2439_holly",
+      "emotion": "pride",
+      "dialogue": "Silken Floss is the most beautiful woman ever.  Load up the box and pile in, specimens.  You've done your petri dishes proud.  No need to wait for the boss if that's The Spirit back there.  The Octopus always finds his nemesis so distracting.",
+      "target_person": "Silken Floss",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

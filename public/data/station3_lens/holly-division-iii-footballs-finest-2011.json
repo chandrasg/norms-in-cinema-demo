@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "82685",
+    "title": "Division III: Football's Finest",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/1QEZCXEiXIXkynDmHuBa3wSS8QQ.jpg",
+    "overview": "This ensemble comedy follows the Pullham University Bluecocks, a small liberal arts college with a Division III football program (the lowest division in the NCAA). When the head coach unexpectedly dies, the future of the flailing football program is in jeopardy, as they have not had a winning season in decades. In a desperate attempt to create some media attention for the athletic program and the university, President Georgia Anne Whistler hires known lunatic and felon, Coach Rick Vice, for what could be the football programs final season."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP790_holly",
+      "emotion": "pride",
+      "dialogue": "Anybody can show up, but look at this display.  How many times have I asked you to organize this?  You gotta start taking pride in what you do.  Otherwise you're gonna wake up in 20 years and reaIize you got nothing to show for yourseIf.  Is that what happened to you?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP791_holly",
+      "emotion": "pride",
+      "dialogue": "Thank aII of you for coming out tonight.  My name is Georgia Anne WhistIer.  And I am the proud president  here at Pullham University.  Many great minds passed through these here walls.",
+      "target_person": "Georgia Anne WhistIer",
+      "target_gender": "female",
+      "cause_raw": "being the president at Pullham University",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP792_holly",
+      "emotion": "pride",
+      "dialogue": "JuIia StiIes, as a for instance.  She managed to come here for sometimes a semester or given.  This is aIso the proud home  of the BIuecocks!  Losers.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP793_holly",
+      "emotion": "pride",
+      "dialogue": "up against the four and four BIuecocks.  Now, the Cougars are playing for playoff berth,  and the Bluecocks are playing for pride and to keep the football program alive.  lsn't that always the way. The drama of sport.  For those of you who don't recognize a name,",
+      "target_person": "Bluecocks",
+      "target_gender": "unclear",
+      "cause_raw": "keeping the football program alive",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP794_holly",
+      "emotion": "pride",
+      "dialogue": "One of your game balls?  One of the ga-- That's the game baII.  You've done reaI good this season. I'm proud of you.  I know I was tough on you.  Yeah, why are you so tough on everybody?",
+      "target_person": "coach or father figure",
+      "target_gender": "male",
+      "cause_raw": "good performance in the season",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

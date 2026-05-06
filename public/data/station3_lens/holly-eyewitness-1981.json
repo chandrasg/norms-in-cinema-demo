@@ -1,0 +1,58 @@
+{
+  "film": {
+    "id": "31679",
+    "title": "Eyewitness",
+    "year": "1981",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/dxMbBWegmjtPfZNmw6HHJjgZkQt.jpg",
+    "overview": "NYC custodian Daryll Deever is a big fan of local news reporter Tony Sokolow, so he is intrigued when she shows up to cover a story at his workplace. There's been a murder in the office building, and Tony suspects that Daryll may have insight into the crime, a notion that he furthers to stay close to her. However, when those behind the killing begin to think that he really knows something, they target the pair to keep their secrets hidden."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1073_holly",
+      "emotion": "shame",
+      "dialogue": "All we could hope for is that they'd go for the scoop, but they didn't.  And they're right. They'd be sued.  I'm not ashamed of having a good job, and I intend to keep it.  If that means they've got me, then they've got me.  You were the one that called me and asked if I could get you work.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "prioritizing job security over ethical concerns",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2046_holly",
+      "emotion": "pride",
+      "dialogue": "[STEPHEN BISHOP'S \"SOMEWHERE IN BETWEEN\" PLAYING]  ♪ There's a harbour Round the corner ♪  ♪ Proud drifters choose to stay ♪  ♪ They have lost their direction ♪  ♪ You keep the reason Or you throw it all away ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2047_holly",
+      "emotion": "pride",
+      "dialogue": "It didn't land in a tree-top. It wouldn't land on a flat roof.  It landed on a camper.  There were no injuries, except wounded pride.  But the police held no grudge. They gave him a ride home. Pete?  PETE: Is that your hot-air report? You're the expert.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

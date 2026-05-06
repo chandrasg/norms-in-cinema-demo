@@ -1,0 +1,172 @@
+{
+  "film": {
+    "id": "304919",
+    "title": "Anjaana",
+    "year": "1969",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/3wVldHLSVcGbH6mQ9KBJrhyorgd.jpg",
+    "overview": "Raju lives with his widowed mother, Janki, in a small town and works as garage mechanic. One day he meets with wealthy Rachna Malhotra, and after a few misunderstandings, both fall in love with each other. When Rachna's guardian, Diwan Mahendranath, finds out he forbids Rachna to ever see Raju again, as well as goes to Raju's house and humiliates his mother, for he wants Rachna to marry his son, Ramesh. An enraged Raju wants to avenge this humiliation and decides to teach Mahendranath a lesson. He enlists the help of his maternal uncle, Chamanlal Kapoor, and together they succeed in fooling Mahendranath and making him give up all his money."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Financial Desperation",
+      "count": 3
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 9,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s141_bolly",
+      "emotion": "shame",
+      "dialogue": "When we first met, you showed me the ring finger. But on the second meeting....my love forced you to gift me a ring. Shameless. Give my ring. Take your Rs.50. What did you say?. Only Rs.50 for my priceless love.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "taking advantage of love for money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s142_bolly",
+      "emotion": "shame",
+      "dialogue": "What am I seeing? Wherever I look, I see you. Aren't you ashamed? Give me my ring. Ma'am, your servant is more valuable than your life. And he is very sorry.",
+      "target_person": "servant",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s143_bolly",
+      "emotion": "shame",
+      "dialogue": "A girl mocked a poor man's love....with the aid of a ring. Take your ring. It torments me so much that I'll die in shame. I wish to die now. Don't say this. - Why shouldn't l?",
+      "target_person": "poor man",
+      "target_gender": "male",
+      "cause_raw": "being rejected in love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s144_bolly",
+      "emotion": "shame",
+      "dialogue": "That penniless mechanic dared to do this. I just don't believe it. - I saw it, Daddy. Then why didn't you die of shame? How did you endure this insult? - What could I have done, Daddy? When Rachna herself is supporting him.",
+      "target_person": "Daddy's daughter",
+      "target_gender": "female",
+      "cause_raw": "Being associated with a lower class individual",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s145_bolly",
+      "emotion": "shame",
+      "dialogue": "He's gone out. You wanted to tell him something? - Yes. If you want to save your shameless son....tell him not to cross his limits. Did he commit a mistake? Ask what he didn't do.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "crossing limits/behaving inappropriately",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s146_bolly",
+      "emotion": "shame",
+      "dialogue": "Mother. Mother, my lovely mother. - Don't call me mother. Shameless. Fool. You've spoiled the hard work I did all my life. Why didn't I die when you were born?",
+      "target_person": "child",
+      "target_gender": "male",
+      "cause_raw": "disappointing the parent",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s147_bolly",
+      "emotion": "shame",
+      "dialogue": "Diwan sir, I've come to get an answer to the same question. When you insulted and threatened my mother, were you in your senses? Shameless. Scum. Instead of being sorry for what you've done, you accuse me. Sorry for what?",
+      "target_person": "Diwan",
+      "target_gender": "male",
+      "cause_raw": "Insulting and threatening",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s148_bolly",
+      "emotion": "shame",
+      "dialogue": "Listen at least. This is Prince's offer. Even I can make a counter offer. Mr. Cooper, the only problem is I'm ashamed to make one. If this doesn't work out for you, we'll feel very ashamed. But Mrs. Cooper, there should be a way out too, right?",
+      "target_person": "Mr. Cooper",
+      "target_gender": "male",
+      "cause_raw": "not being able to make a counter offer",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s149_bolly",
+      "emotion": "shame",
+      "dialogue": "Even I can make a counter offer. Mr. Cooper, the only problem is I'm ashamed to make one. If this doesn't work out for you, we'll feel very ashamed. But Mrs. Cooper, there should be a way out too, right? Sir, when you've met us, how can there not be a way out.",
+      "target_person": "Mr. Cooper",
+      "target_gender": "male",
+      "cause_raw": "inability to make a counter offer",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s150_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't call me father. I don't deserve this. The world always considers children as their wealth. But shame on me. I considered wealth as my child. Leave me. No, Father.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "prioritizing wealth over children",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p40_bolly",
+      "emotion": "pride",
+      "dialogue": "Do you think your son is such a fool....to let go of this golden chance, Daddy?. Fool, I want God to give a son like you to everyone. With his ability, he improved the business in a short while....and his decency has made me proud. Not only son, God has given me everything. He gave me a divine friend.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "son's business acumen and decency",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p41_bolly",
+      "emotion": "pride",
+      "dialogue": "Diwan sir, love is sublime and doesn't believe in cast or creed. Love is the boon of nature....according to which the rich and the poor are equal. if love is a crime, then I'm proud of my love. Shut up. - Diwan sir. I don't know what stopped me, Diwan sir.",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "love beyond caste or creed",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

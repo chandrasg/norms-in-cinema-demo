@@ -1,0 +1,134 @@
+{
+  "film": {
+    "id": "18692",
+    "title": "Fun in Acapulco",
+    "year": "1963",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/fCHQQ6EmhQshb80VPKzmOzLHke3.jpg",
+    "overview": "Mike Windgren works on a boat in Acapulco, but when the bratty daughter of the boat owner gets him fired, Mike finds new work as a lifeguard and singer at a local hotel. Tensions increase when Mike runs into the rival lifeguard—who is also the champion diver of Mexico."
+  },
+  "totals": {
+    "shame": 9,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 6
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 8,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1098_holly",
+      "emotion": "shame",
+      "dialogue": "And he ordered the drinks, too.  It is Coke, isn't it, Daddy?  You ought to be ashamed  bringing my daughter here, ordering liquor.  But I didn't bring her here.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "bringing a minor to a place where alcohol is served",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "WS1099_holly",
+      "emotion": "shame",
+      "dialogue": "He could not beat El Toro  The bull, El Toro, brought him defeat and pain  Ah-ah-ah, ah-ah-ah-ah... And to his sorrow, the matador knew shame  And to his sorrow, the matador knew shame  Ah-ah-ah, ah-ah-ah-ah... They said time would never heal the many scars",
+      "target_person": "Matador",
+      "target_gender": "male",
+      "cause_raw": "losing a bullfight",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1100_holly",
+      "emotion": "shame",
+      "dialogue": "The bull, El Toro, brought him defeat and pain  Ah-ah-ah, ah-ah-ah-ah... And to his sorrow, the matador knew shame  And to his sorrow, the matador knew shame  Ah-ah-ah, ah-ah-ah-ah... They said time would never heal the many scars  They said time would never heal the many scars",
+      "target_person": "Matador",
+      "target_gender": "male",
+      "cause_raw": "defeat and inability to overcome challenges",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1101_holly",
+      "emotion": "shame",
+      "dialogue": "Caused him to hate El Toro  The bull, El Toro, brought him defeat and pain  Ah-ah-ah, ah-ah-ah-ah... And to his sorrow, the matador knew shame  And to his sorrow, the matador knew shame  Ah-ah-ah, ah-ah-ah-ah... Shame",
+      "target_person": "Matador",
+      "target_gender": "male",
+      "cause_raw": "defeat and pain caused by El Toro",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1102_holly",
+      "emotion": "shame",
+      "dialogue": "The bull, El Toro, brought him defeat and pain  Ah-ah-ah, ah-ah-ah-ah... And to his sorrow, the matador knew shame  And to his sorrow, the matador knew shame  Ah-ah-ah, ah-ah-ah-ah... Shame  Shame",
+      "target_person": "Matador",
+      "target_gender": "male",
+      "cause_raw": "defeat and pain caused by the bull",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1103_holly",
+      "emotion": "shame",
+      "dialogue": "Ah-ah-ah, ah-ah-ah-ah... And to his sorrow, the matador knew shame  And to his sorrow, the matador knew shame  Ah-ah-ah, ah-ah-ah-ah... Shame  Shame  -So one night -Ooh... -When no one was in sight -Ooh... -The matador -Ooh... -Went to settle the score -Ooh... -ln the lonely fields -Ooh... -Beneath the pale moonlight -Ooh... -He sought the bull -Ooh... -And they fought once more -Ooh... When they found the matador, they saw him dying",
+      "target_person": "Matador",
+      "target_gender": "male",
+      "cause_raw": "losing a fight",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1104_holly",
+      "emotion": "shame",
+      "dialogue": "And to his sorrow, the matador knew shame  Ah-ah-ah, ah-ah-ah-ah... Shame  Shame  -So one night -Ooh... -When no one was in sight -Ooh... -The matador -Ooh... -Went to settle the score -Ooh... -ln the lonely fields -Ooh... -Beneath the pale moonlight -Ooh... -He sought the bull -Ooh... -And they fought once more -Ooh... When they found the matador, they saw him dying  When they found the matador, they saw him dying",
+      "target_person": "Matador",
+      "target_gender": "male",
+      "cause_raw": "losing a fight to a bull",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1105_holly",
+      "emotion": "shame",
+      "dialogue": "Ah-ah-ah, ah-ah-ah-ah... Pain  Pain  -And to his sorrow -Ah-ah-ah  The matador knew shame. Ah-ah-ah-ah, shame.  Mike!  No pictures, please.  But Mike, publicity pictures cost us nothing.",
+      "target_person": "Matador",
+      "target_gender": "male",
+      "cause_raw": "causing pain or harm",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WS1106_holly",
+      "emotion": "shame",
+      "dialogue": "What people?  Somebody might just walk by any minute, you know.  You're ashamed for somebody to see Dolores kiss you?  It's a crime or something?  ln Acapulco?",
+      "target_person": "Dolores",
+      "target_gender": "female",
+      "cause_raw": "fear of public display of affection",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WP2093_holly",
+      "emotion": "pride",
+      "dialogue": "He'd never see tomorrow  Now, they say that on the spot where he was lying  Still walks the proud El Toro  The bull, El Toro, brought him defeat and pain  Ah-ah-ah, ah-ah-ah-ah... Pain",
+      "target_person": "El Toro",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

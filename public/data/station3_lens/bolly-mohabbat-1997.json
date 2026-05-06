@@ -1,0 +1,140 @@
+{
+  "film": {
+    "id": "375620",
+    "title": "Mohabbat",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/7kYYFwRwG0CnKhtb1fZFg8gqZ0e.jpg",
+    "overview": "Rohit and Gaurav become best friends. Both unknowingly fall in love with the same woman."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 6
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3578_bolly",
+      "emotion": "shame",
+      "dialogue": "So you are my well-wisher, eh? That's right. And you desire me? Yes. Bloody lecher! Aren't you ashamed to be lying at this age! Your arrival has brought colour to my paintings, Shweta! Thanks, Mr Hussain. I came rushing. . .",
+      "target_person": "Mr Hussain",
+      "target_gender": "male",
+      "cause_raw": "expressing sexual desire at an old age",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3579_bolly",
+      "emotion": "shame",
+      "dialogue": "You tell me that! Who are you? I'm a burglar! You appear to be respectable. . . Aren't you ashamed to steal?! Okay. . . but you haven't told me who you are! I'm the owner of this house.",
+      "target_person": "burglar",
+      "target_gender": "unclear",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s3584_bolly",
+      "emotion": "shame",
+      "dialogue": "Will you give them a cow for such a small issue? Why are staring at me? I told you to take it away. Shameless! Immoral ! Aren't ashamed? Don't you have respect for women? Teasing a decent girl?",
+      "target_person": "teaser",
+      "target_gender": "male",
+      "cause_raw": "disrespecting women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3585_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are staring at me? I told you to take it away. Shameless! Immoral ! Aren't ashamed? Don't you have respect for women? Teasing a decent girl? You're trying to seduce me for a penny.",
+      "target_person": "teaser",
+      "target_gender": "male",
+      "cause_raw": "disrespecting and teasing women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3586_bolly",
+      "emotion": "shame",
+      "dialogue": "You're great in fighting with sticks. Who taught you? Master Tajuddin. Taju? He was my disciple. Have some shame, shameless! My disciple's disciple defeated you all. Son ! You look fit.",
+      "target_person": "fighters",
+      "target_gender": "male",
+      "cause_raw": "defeated by a less experienced person",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3587_bolly",
+      "emotion": "shame",
+      "dialogue": "Come, son. Come, son. Come. Be ashamed ! He disgraced and humiliated the entire village. And you could not do a thing. They will summon the village council.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "inability to protect village's honor",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3588_bolly",
+      "emotion": "shame",
+      "dialogue": "Go. I will take you to Shekhar. Come on. Aren't you ashamed to slap a woman? Now don't leave any stones unturned. You're about to kill your daughter. Now strangle us too.",
+      "target_person": "character who slapped a woman",
+      "target_gender": "male",
+      "cause_raw": "physical abuse",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "p1899_bolly",
+      "emotion": "pride",
+      "dialogue": "Bless you, son. Come and sit down. For all your years in America, you haven't forgotten your culture! Why must I? I am proud of being an Indian. And it's our culture that is our strong point. Bravo! You seem to be a true lover of your motherland!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "maintaining Indian culture despite living abroad",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1903_bolly",
+      "emotion": "pride",
+      "dialogue": ". . my Rupa will marry Shekhar. My dear. - Father. Shakuntala, sometimes a man in his pride and ego gets so blind. . . .that he cannot differentiate between right and wrong. Your maternal love made me. .",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "daughter's marriage",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

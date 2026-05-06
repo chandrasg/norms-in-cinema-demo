@@ -1,0 +1,58 @@
+{
+  "film": {
+    "id": "10833",
+    "title": "Heartbreakers",
+    "year": "2001",
+    "industry": "holly",
+    "country": "US|GB",
+    "poster_path": "/bwvec0gRMSpLakcPuxe0RWScNv3.jpg",
+    "overview": "Max and Page are a brilliant mother/daughter con team who have their grift down to a fine science. Max targets wealthy, willing men and marries them. Page then seduces them, and Max catches her husband in the act. Then it's off to palimony city and the next easy mark."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS289_holly",
+      "emotion": "shame",
+      "dialogue": "I've seen a lot of crap in my life... but the way you're cheating her out of any chance... for a decent future really sucks.  for a decent future really sucks.  Of all the lousy things you've done... you should be most ashamed of that.  you should be most ashamed of that.  And what you did to me, too--",
+      "target_person": "Unnamed",
+      "target_gender": "male",
+      "cause_raw": "cheating and ruining someone's future",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WS290_holly",
+      "emotion": "shame",
+      "dialogue": "for a decent future really sucks.  Of all the lousy things you've done... you should be most ashamed of that.  you should be most ashamed of that.  And what you did to me, too--  I don't want to completely leave that out.",
+      "target_person": "Unnamed",
+      "target_gender": "unclear",
+      "cause_raw": "jeopardizing future and hurting others",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WP624_holly",
+      "emotion": "pride",
+      "dialogue": "I'm not insisting you take up smoking... but I thought it would give you some incentive.  but I thought it would give you some incentive.  There is nothing sexier than smoke billowing proudly... out of a woman's hot, red, engorged nostrils.  out of a woman's hot, red, engorged nostrils.  That image will haunt me.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

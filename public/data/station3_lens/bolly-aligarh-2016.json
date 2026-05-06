@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "370870",
+    "title": "Aligarh",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/mzsnpkrrgCalhXENh8I6N0XfAbe.jpg",
+    "overview": "A sympathetic journalist covers the true story of Ramchandra Siras, an esteemed linguistic professor at Aligarh University who was suspended on charges of homosexuality."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s13_bolly",
+      "emotion": "shame",
+      "dialogue": "Think about your future. Write the letter. What should I write? That you're ashamed for whatever happened that night. That's it. Give me an envelope.",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "past actions",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s14_bolly",
+      "emotion": "shame",
+      "dialogue": "They took off my clothes. I kept pleading......not to hit my friend. Just......just so shameful. When suddenly...four of my colleagues came in my bedroom. Your colleagues?",
+      "target_person": "victim",
+      "target_gender": "female",
+      "cause_raw": "sexual assault",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s15_bolly",
+      "emotion": "shame",
+      "dialogue": "Siras was in his undergarments....and he was apologizing to those reporters. I immediately demanded to see the videotape. And what I saw...was completely vulgar and shameful. What did you see? It was embarrassing.",
+      "target_person": "Siras",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

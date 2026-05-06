@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "53767",
+    "title": "Kaagaz Ke Phool",
+    "year": "1959",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/aBdEEAKEuzcvk8IKsHfbz3KSitZ.jpg",
+    "overview": "The film tells, in flashback, the story of Suresh Sinha, a famous film director and his relationship with an aspiring actress."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 3
+    },
+    {
+      "label": "Poverty",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2857_bolly",
+      "emotion": "shame",
+      "dialogue": "Madam, Mr. Sinha has walked in at the second chime. The second number must win today! Shame! I've composed a superb tune. Sir chose it as soon as he heard it! It's composed for the scene......when Devdas is going on a bullock cart.",
+      "target_person": "Mr. Sinha",
+      "target_gender": "male",
+      "cause_raw": "Late arrival",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2858_bolly",
+      "emotion": "shame",
+      "dialogue": "Impossible! There must be nobody as unfortunate as us, Suresh. Living in a high society, we feel ashamed to say......our girl is married. As then, people ask us what her husband does. Dear me!",
+      "target_person": "Suresh's daughter's husband",
+      "target_gender": "male",
+      "cause_raw": "Unemployment or low-status job",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2859_bolly",
+      "emotion": "shame",
+      "dialogue": "What! What did you say? I' ll kill you! I' ll kill you if you speak ill about my father! What was this? You be ashamed of yourself! Nobody has yet come to the studio. Why have you come so early?",
+      "target_person": "unidentified character",
+      "target_gender": "male",
+      "cause_raw": "speaking ill about someone's father",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2860_bolly",
+      "emotion": "shame",
+      "dialogue": "It's your photograph! How shocking! It's such a shame, papa! Suresh is not concerned about our family's honour......as he is an outsider. But now, even a son from this family is heading towards films!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "pursuing a career in films",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2861_bolly",
+      "emotion": "shame",
+      "dialogue": "Sir, you? And seen at such a sleazy place? What a shame! Sir, go home. - Who was he? - He was a renowned film director. What glorious days he's had!",
+      "target_person": "renowned film director",
+      "target_gender": "male",
+      "cause_raw": "being at a sleazy place",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

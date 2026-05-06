@@ -1,0 +1,153 @@
+{
+  "film": {
+    "id": "114436",
+    "title": "Anjaam",
+    "year": "1994",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/j8pC5tg33gLbiPSYP3EQODV8MWH.jpg",
+    "overview": "After mistaking a flight attendant's attention for love, a wealthy, spoiled man becomes obsessed with her and soon tears her life apart."
+  },
+  "totals": {
+    "shame": 8,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 4
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 6,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s129_bolly",
+      "emotion": "shame",
+      "dialogue": "Just let me get the jackpot all the worries will be over I will get your operation done -Brother in law You should ashamed, she's ill and you want to bet on the race What do you care if I bet or get a horse Don't lecture me, I'm already stressed",
+      "target_person": "brother-in-law",
+      "target_gender": "male",
+      "cause_raw": "gambling while family member is ill",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s130_bolly",
+      "emotion": "shame",
+      "dialogue": "No one can break it The things you said to me, even god wont forgive you Don't you feel shame talking to a married women like that? I am a wife. I am a wife And now?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards a married woman",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s131_bolly",
+      "emotion": "shame",
+      "dialogue": "I said take them off So you won't take them off Didn't you feel any shame taking them off for your lover Don't cry There's no one here to feel sorry for you",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s132_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you doing? return the chain -Never I'm stressed cause of her I'll feel better if I sell it Be ashamed of yourself -Shut up I'll slap you one, and you shut up I'll beat you so bad I'll send you to your father",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "stealing and selling someone's chain",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s4760_bolly",
+      "emotion": "shame",
+      "dialogue": "Just let me get the jackpot all the worries will be over I will get your operation done -Brother in law You should ashamed, she's ill and you want to bet on the race What do you care if I bet or get a horse Don't lecture me, I'm already stressed",
+      "target_person": "brother-in-law",
+      "target_gender": "male",
+      "cause_raw": "gambling while family member is ill",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s4761_bolly",
+      "emotion": "shame",
+      "dialogue": "No one can break it The things you said to me, even god wont forgive you Don't you feel shame talking to a married women like that? I am a wife. I am a wife And now?",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior towards a married woman",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4762_bolly",
+      "emotion": "shame",
+      "dialogue": "I said take them off So you won't take them off Didn't you feel any shame taking them off for your lover Don't cry There's no one here to feel sorry for you",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s4763_bolly",
+      "emotion": "shame",
+      "dialogue": "What are you doing? return the chain -Never I'm stressed cause of her I'll feel better if I sell it Be ashamed of yourself -Shut up I'll slap you one, and you shut up I'll beat you so bad I'll send you to your father",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "stealing and selling someone's chain",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p38_bolly",
+      "emotion": "pride",
+      "dialogue": "its just paper to me but they can turn any no into a yes Really? -if this is not enough I have more You have that much pride in your money Not pride but proud just like you are of your beauty And you came to bid on my beauty",
+      "target_person": "second speaker",
+      "target_gender": "unclear",
+      "cause_raw": "wealth",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p39_bolly",
+      "emotion": "pride",
+      "dialogue": "Really? -if this is not enough I have more You have that much pride in your money Not pride but proud just like you are of your beauty And you came to bid on my beauty Think what ever you want",
+      "target_person": "speaker 2",
+      "target_gender": "unclear",
+      "cause_raw": "wealth",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2689_bolly",
+      "emotion": "pride",
+      "dialogue": "lts just paper to me but they can turn any no into a yes Really? -if this is not enough I have more You have that much pride in your money Not pride but proud just like you are of your beauty And you came to bid on my beauty",
+      "target_person": "second speaker",
+      "target_gender": "unclear",
+      "cause_raw": "wealth",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2690_bolly",
+      "emotion": "pride",
+      "dialogue": "Really? -lf this is not enough I have more You have that much pride in your money Not pride but proud just like you are of your beauty And you came to bid on my beauty Think what ever you want",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "wealth",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

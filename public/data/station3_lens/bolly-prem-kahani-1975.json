@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "505992",
+    "title": "Prem Kahani",
+    "year": "1975",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/kchSj1fcIpHQKNmIlK3AmikDtbu.jpg",
+    "overview": "An apolitical poet abandons his love to become a freedom fighter — only for fate to bring them face-to-face again years later."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1444_bolly",
+      "emotion": "shame",
+      "dialogue": "You are drunk, Dheeraj! Yes, and a drunken man does not lie like his friend! It's a matter of shame for me......to find out about your love story from the police files! Neither my friend nor my wife told me! This is why I didn't want to stay here.",
+      "target_person": "Dheeraj",
+      "target_gender": "male",
+      "cause_raw": "hiding love story",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "s1445_bolly",
+      "emotion": "shame",
+      "dialogue": "What have my friend and wife been doing in my own house? That's enough! You're talking nonsense! Insolent man...shameless creature...\"Who is it? - The police are here, sir. \" Don't you worry, my friend.  Nobody can arrest my friend as yet.",
+      "target_person": "friend and wife",
+      "target_gender": "unclear",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p763_bolly",
+      "emotion": "pride",
+      "dialogue": "The vermilion on my forehead is no more. But I'm not crying. It's a matter of pride to be the widow of a martyr. Our decision is not to take you in the party. Why not? - Because one sacrifice...is enough for a family.",
+      "target_person": "widow",
+      "target_gender": "female",
+      "cause_raw": "being the widow of a martyr",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

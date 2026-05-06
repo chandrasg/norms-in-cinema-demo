@@ -1,0 +1,56 @@
+{
+  "film": {
+    "id": "318553",
+    "title": "Sugar Daddies",
+    "year": "2014",
+    "industry": "holly",
+    "country": "CA|US",
+    "poster_path": "/WlLTpdyUgv22oHkB3AvWPDN0Zv.jpg",
+    "overview": "When a girl with a promising future finds herself in financial straits, she makes an agreement with an older man and struggles to keep it secret."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Academic Success",
+      "count": 3
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1525_holly",
+      "emotion": "pride",
+      "dialogue": "it was just once a rusty frame, huh?  Yeah.  You keep doing us proud,  it's going to make you a pretty decent graduation present.  Are you serious?",
+      "target_person": "speaker 2",
+      "target_gender": "unclear",
+      "cause_raw": "making a decent graduation present",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP1526_holly",
+      "emotion": "pride",
+      "dialogue": "Dad, I just did what I thought I had to do  to get into law school.  I just wanted to keep making you proud.  Do you think it makes me proud  that you prostitute yourself?",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "getting into law school",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP1527_holly",
+      "emotion": "pride",
+      "dialogue": "to get into law school.  I just wanted to keep making you proud.  Do you think it makes me proud  that you prostitute yourself?  He was going to pay off your medical debt.",
+      "target_person": "first speaker",
+      "target_gender": "female",
+      "cause_raw": "getting into law school",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "168987",
+    "title": "Aap Ki Kasam",
+    "year": "1974",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/wbN7i9jJJ9xzo4VgWc4FciRT8Dl.jpg",
+    "overview": "Rajesh Khanna plays Mumtaz's jealous husband who begins to doubt her fidelity when his best friend Sanjeev Kumar enters their lives. She is unable to convince Rajesh Khanna that she loves only him. He leaves her, not knowing that she is pregnant with his child. Depressed and confused, Rajesh Khanna becomes a homeless wanderer, while Mumtaz remarries to provide a secure home for her child. Many years later, the truth dawns on him as he turns up, a broken man, at his own daughter's wedding."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3990_bolly",
+      "emotion": "shame",
+      "dialogue": "God only knows, who will get this beauty queen in jackpot I am talking to you. - Me? Yes, are you not ashamed teasing girls like this? - Meaning? Don't act. These flowers are proof of your mischief. What do you want to say? I've tolerated 2 flowers you threw",
+      "target_person": "teaser",
+      "target_gender": "male",
+      "cause_raw": "teasing girls",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3991_bolly",
+      "emotion": "shame",
+      "dialogue": "You can take out at least. Take it out of your pocket & i'll put it......in mine. Else I'll fie a case under section 302 for murder Look, it cannot be Sec.302. -  OK, make it Rs 202. It cannot...\"...be lowered further. - Wait. You go - Yes, I'll deal with him.\" Have you no shame! -  Look, you warm up my pocket. Your face looks familiar. Aren't you our cricket captain? - Yes. Then the problem is over. Why don't you take some eggs.",
+      "target_person": "cricket captain",
+      "target_gender": "male",
+      "cause_raw": "bribery",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3992_bolly",
+      "emotion": "shame",
+      "dialogue": "What has happened Dad? - Sunita! Don't talk to him. -  What has happened mom? We had to call you, so that on seeing you, he will have...\"...some shame. I have come to know, even though after...\"\"...25 years of marriage, your dad's true nature.\" What has happened mom? Even at this age your dad gets love letters. It was fortunate......the letter came to my hands. - This can never happen!",
+      "target_person": "Sunita's dad",
+      "target_gender": "male",
+      "cause_raw": "Infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3993_bolly",
+      "emotion": "shame",
+      "dialogue": "Everybody knows Mohan's wife does not love him, and that......love you are providing. Today also you had gone with him. Where did you go? Today I have understood your unusual behaviour. I could never......imagine you will ever suspect me. That you will make such a...\"...dirty allegation. Today, I am ashamed of myself. What did...\"\"...I see in you, that I loved you & married you.\" That is not the answer to my question. What is your relationship with Mohan? - Relationship?",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "suspected infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3994_bolly",
+      "emotion": "shame",
+      "dialogue": "I do not want to go back. - It appears you had a fight. You! That means your daughter has reached your house. You should be ashamed of the way you've behaved with Sunita Me or your daughter, who has taken undue advantage of my......faith and love. The allegations you have made against her are false.",
+      "target_person": "Sunita's parent",
+      "target_gender": "unclear",
+      "cause_raw": "accusing without proof",
+      "theme_label": "False Accusation"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "film": {
+    "id": "441071",
+    "title": "Naam Shabana",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xFHeFrOYzsHgAiZeGAjwJmDMen6.jpg",
+    "overview": "Shabana Khan, a special agent, is entrusted with the task of assassinating a deadly arms dealer by the Indian Intelligence Agency."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 4
+    },
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "s3733_bolly",
+      "emotion": "shame",
+      "dialogue": "The talks are getting crazy. Let's do something....going beyond all the limits. The heart's being naughty...\"...because it's become shameless.\" The heart's being reveling...\"...because it's become shameless.\" It's become shameless.",
+      "target_person": "heart",
+      "target_gender": "unclear",
+      "cause_raw": "crossing societal limits",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3734_bolly",
+      "emotion": "shame",
+      "dialogue": "Let's do something....going beyond all the limits. The heart's being naughty...\"...because it's become shameless.\" The heart's being reveling...\"...because it's become shameless.\" It's become shameless. It's become shameless.",
+      "target_person": "heart",
+      "target_gender": "unclear",
+      "cause_raw": "crossing societal limits",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3735_bolly",
+      "emotion": "shame",
+      "dialogue": "The heart's being naughty...\"...because it's become shameless.\" The heart's being reveling...\"...because it's become shameless.\" It's become shameless. It's become shameless. There's nothing wrong in being a little spoilt.",
+      "target_person": "heart",
+      "target_gender": "unclear",
+      "cause_raw": "being shameless and spoilt",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3736_bolly",
+      "emotion": "shame",
+      "dialogue": "The heart's being reveling...\"...because it's become shameless.\" It's become shameless. It's become shameless. There's nothing wrong in being a little spoilt. We're selfish and the heart's greedy too.",
+      "target_person": "heart",
+      "target_gender": "unclear",
+      "cause_raw": "being selfish and greedy",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3737_bolly",
+      "emotion": "shame",
+      "dialogue": "The talks are getting crazy. Let's do something....going beyond all the limits. The heart's being naughty...\"...because it's become shameless.\" The heart's being reveling...\"...because it's become shameless.\" It's become shameless.",
+      "target_person": "heart",
+      "target_gender": "unclear",
+      "cause_raw": "crossing societal limits",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3738_bolly",
+      "emotion": "shame",
+      "dialogue": "Let's do something....going beyond all the limits. The heart's being naughty...\"...because it's become shameless.\" The heart's being reveling...\"...because it's become shameless.\" It's become shameless. Let's brush aside the world...\"...and have fun.\"",
+      "target_person": "heart",
+      "target_gender": "unclear",
+      "cause_raw": "not adhering to societal norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3739_bolly",
+      "emotion": "shame",
+      "dialogue": "The heart's being naughty...\"...because it's become shameless.\" The heart's being reveling...\"...because it's become shameless.\" It's become shameless. Let's brush aside the world...\"...and have fun.\" Hello.",
+      "target_person": "heart",
+      "target_gender": "unclear",
+      "cause_raw": "being shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p1978_bolly",
+      "emotion": "pride",
+      "dialogue": "Acknowledged. Felicitated. They have a uniform, a designation, respect. They are the pride of the nation. And the other one...is us. We work in anonymity.",
+      "target_person": "<speaker",
+      "target_gender": "unclear",
+      "cause_raw": "working in anonymity",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

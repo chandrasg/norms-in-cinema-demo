@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "377030",
+    "title": "Nehlle Pe Dehlla",
+    "year": "2007",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5ehrVp649NSVUmXoUjPc2ZolzdS.jpg",
+    "overview": "Two small-time crooks, Jimmy and Johny, blackmail hotel manager Balram Sahni aka Ballu in order to get a huge sum of money. But their plan goes haywire when Ballu is mysteriously murdered."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3788_bolly",
+      "emotion": "shame",
+      "dialogue": "Brother, if your neck is aching should I strangle it. You! Once again you were caught stealing! Don't you feel ashamed? Great, you are saying as if the police......has not arrested and got you here......but the jailor has called you for dinner. Yes. There is a lot of difference between......you and me getting arrested, child.",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s3789_bolly",
+      "emotion": "shame",
+      "dialogue": "You even called me a bomb. - Bomb? Oh no, brother! I never thought you could be so shameless! Ma'am, you should sack such a man immediately! You have been mistaken!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being mistaken as shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s3790_bolly",
+      "emotion": "shame",
+      "dialogue": "Brother! It's futile to search there. We have searched there. Come here. We will search together. You are such a shameless fellow! Yesterday I kicked you out of the hotel. Again you have come back!",
+      "target_person": "unidentified character",
+      "target_gender": "male",
+      "cause_raw": "trespassing and not respecting boundaries",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "p2020_bolly",
+      "emotion": "pride",
+      "dialogue": "Brother, I understood. Foul play. And who will get trapped? Those guys! I am proud of you, brother! What a plan! Jazzy! - Yes. Make arrangement to go abroad. - Okay.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "clever plan",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

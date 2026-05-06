@@ -1,0 +1,69 @@
+{
+  "film": {
+    "id": "24014",
+    "title": "Let's Make Love",
+    "year": "1960",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/yzBniSVhbXrGTRmyAH0k276NFzJ.jpg",
+    "overview": "When billionaire Jean-Marc Clement learns that he is to be satirized in an off-Broadway revue, he passes himself off as an actor playing him in order to get closer to the beautiful star of the show, Amanda Dell."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1044_holly",
+      "emotion": "shame",
+      "dialogue": "Please, darling. Darling, darling.  There was no other way.  You... - Shame on you! - Please understand.  - Shame on you! - Please understand.  Letting me go on and on like a fool when you knew how I felt about you.",
+      "target_person": "Darling",
+      "target_gender": "male",
+      "cause_raw": "deceiving and leading on",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WS1045_holly",
+      "emotion": "shame",
+      "dialogue": "There was no other way.  You... - Shame on you! - Please understand.  - Shame on you! - Please understand.  Letting me go on and on like a fool when you knew how I felt about you.  I apologise. I beg you. Darling.",
+      "target_person": "Darling",
+      "target_gender": "female",
+      "cause_raw": "not reciprocating feelings",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WP2000_holly",
+      "emotion": "pride",
+      "dialogue": "\"Four-Square Pawnshop.\"  - Pawnshop. - Don't be embarrassed.  - Well... - No false pride. Come on, now. Chin up.  I wonder if you would have a little time to give me some acting pointers.  I know you could really help me.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2001_holly",
+      "emotion": "pride",
+      "dialogue": "Let's go, kids.  - I hope I don't ruin it for you. - It's not your fault.  Kids, this is a very expensive number. Let's do it proud.  Ahem.  I'm susceptible to stars in the skies",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

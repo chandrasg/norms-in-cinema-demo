@@ -1,0 +1,151 @@
+{
+  "film": {
+    "id": "105052",
+    "title": "Tarazu",
+    "year": "1997",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jnIxNEyMKqtJ8TD3N1QVHWKeI5T.jpg",
+    "overview": "Police Inspector Ram Yadav is a honest, handsome, and incorruptible young man. He lives with his sister-in-law, Shakuntala, and elder brother, Raj . A lovely yet petty thief, Pooja admires Ram so much that she moves in to his house in the guise of a maid-servant, and eventually claims that she is to bear his child. Ram, unable to handle this, agrees to marry her. His duties and investigation lead him to suspect the renowed and influential Appa Rao. Appa Rao is engraged at Ram, and watches and waits for an opportunity to strike back at him. Janardan (Mohnish Behl), Appa Rao's spoiled and way-ward son, initially attempts to pick up a college-girl, when she refuses and humiliates him publicly, he retaliates by setting her on fire in broad daylight, in front of several college students. No one is bold enough to stop Janardan, nor even attempt to save the girl. When Ram finds out, he immediately arrests Janardan and holds him in custody."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 3
+    },
+    {
+      "label": "False Accusation",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4343_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll give you. Your morning screams are maddening! The man asks for water and you sit here chewing tobacco? Go and fetch him water. You should be ashamed of yourself. Rascal! Here people are dying and you worry...... about your newspaper? How to sell your newspaper? That will bring more unrest after you read newspapers?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "lack of empathy and responsibility",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4344_bolly",
+      "emotion": "shame",
+      "dialogue": "Leave me in the name of God. Absurd! How can I leave a beautiful thing...... like you in the name of God? You should be ashamed to talk so. Yes. I am ashamed. I'm very ashamed friends.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "sexual harassment",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4345_bolly",
+      "emotion": "shame",
+      "dialogue": "Absurd! How can I leave a beautiful thing...... like you in the name of God? You should be ashamed to talk so. Yes. I am ashamed. I'm very ashamed friends. Inspector! Inspector! Several bandits kidnapped ...... my friend. I saw them go to the forest.",
+      "target_person": "friend",
+      "target_gender": "male",
+      "cause_raw": "objectifying a woman",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4346_bolly",
+      "emotion": "shame",
+      "dialogue": "You should be ashamed to talk so. Yes. I am ashamed. I'm very ashamed friends. Inspector! Inspector! Several bandits kidnapped ...... my friend. I saw them go to the forest. Her honor is at stake. Please do something before she gets hurt.",
+      "target_person": "friend",
+      "target_gender": "female",
+      "cause_raw": "being kidnapped",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4347_bolly",
+      "emotion": "shame",
+      "dialogue": "I would not like to watch a shower. You're a strange girl. You went into the bathroom. Have you no shame? Do not say such things, a policeman. Officer now? You call me a cop?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4348_bolly",
+      "emotion": "shame",
+      "dialogue": "All this is His work. Me?! Are you not ashamed to accuse my son? Yes, I am ashamed. I even fear to open my mouth. Nevertheless, brother is here.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being accused of something",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s4349_bolly",
+      "emotion": "shame",
+      "dialogue": "Me?! Are you not ashamed to accuse my son? Yes, I am ashamed. I even fear to open my mouth. Nevertheless, brother is here. Oh brother.",
+      "target_person": "accuser",
+      "target_gender": "male",
+      "cause_raw": "false accusation",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s4350_bolly",
+      "emotion": "shame",
+      "dialogue": "Sister, I swear in the name of my brother. What I did I did because I felt sorry for her blindness Sister, he is ashamed to tell you about it. In fact, he mercilessly attacked me. I did not!",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "lying and attacking",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s4351_bolly",
+      "emotion": "shame",
+      "dialogue": "Let's go to the fields of sugar cane Why are you so aloof? Why are you so aloof? To go to bed with every... this is my shameless youth. To go to bed with every... this is my shameless youth. You need to see a quick look at my juicy youth.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "promiscuity",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s4352_bolly",
+      "emotion": "shame",
+      "dialogue": "Why are you so aloof? To go to bed with every... this is my shameless youth. To go to bed with every... this is my shameless youth. You need to see a quick look at my juicy youth. Let the shadow of anyone's poor eye not fall on me!",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "promiscuity",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "p2401_bolly",
+      "emotion": "pride",
+      "dialogue": "No Apa, dog! If you are a real man, release me and then you will see. A person who enters the house of a policeman can not be...... coward, Inspector. Whatever you do to Apa ...... do it with pride. Cool. - Yes, Apa. The inspector's sister in law will become a mother. She needs energy. Give her something refreshing.",
+      "target_person": "Apa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

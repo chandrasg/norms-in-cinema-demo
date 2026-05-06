@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "9928",
+    "title": "Robots",
+    "year": "2005",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg",
+    "overview": "Rodney Copperbottom is a young robot inventor who dreams of making the world a better place, until the evil Ratchet takes over Bigweld Industries. Now, Rodney's dreams – and those of his friends – are in danger of becoming obsolete."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS547_holly",
+      "emotion": "shame",
+      "dialogue": "Put the hands among the legs.  There he/she is leaving my point.  My parts are falling. That shame.  Excuse.  It was very worse, he/she had a gigantic hammer.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate physical behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "WS548_holly",
+      "emotion": "shame",
+      "dialogue": "Are you a cookie of the luck? The friends are for that... - Do you consider me as friend? - Clear. Or else what would the one be?  - Do you consider me as friend? - Clear. Or else what would the one be?  A shame, a desperate one... the list is long.  - We will be with the friend. - Same tends a difficult day, remember... Tomorrow it will be same!  Tomorrow it will be same!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "unclear from dialogue",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP1154_holly",
+      "emotion": "pride",
+      "dialogue": "Mother... I won't disappoint him/it, father.  I won't disappoint him/it, father.  You will be proud of me!  I know that yes.  With license, it was able to... He/she can tell me where they are the industries Bigweld?",
+      "target_person": "Father",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1155_holly",
+      "emotion": "pride",
+      "dialogue": "I didn't see that it was his/her foot.  - Let to help me him. - No, he/she can leave.  I have my pride. Here!  No, wait... Wait!  No, no... He/she is not fast, not he/she has anything in the garbage.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

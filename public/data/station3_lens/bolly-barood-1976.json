@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "445383",
+    "title": "Barood",
+    "year": "1976",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/v2JcKgxqbpjLuJNAUU8NuVEr9L3.jpg",
+    "overview": "In front of a six-year-old boy, gangsters kill his father. It turns out that police inspector Saxena exposed a gang of smugglers, and the gangsters took revenge on him. Little Anup Saxena remembered the faces of the killers forever. Fourteen years passed. The thought of revenge never left Anup. He tracked down the killers. Three of the four have already been killed. The fourth remains—the gang leader, Bakshi. Anup kidnaps his daughter, Sima. But Anup and Sima fall in love with each other. Now Bakshi is not only an enemy, but also the father of his beloved. Anup is confused..."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p188_bolly",
+      "emotion": "pride",
+      "dialogue": "Today we have gathered here to honor and encourage those police officers....who put their lives at risk....and made the Indian police force proud. This year's President's Gallantry award....is being awarded to a brave officer....who risked his life and seized weapons worth millions....from the smugglers on the 23rd of November....and arrested many members of that gang. Inspector Durga Prasad Saxena.",
+      "target_person": "Indian police force",
+      "target_gender": "male",
+      "cause_raw": "bravery and duty fulfillment",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p189_bolly",
+      "emotion": "pride",
+      "dialogue": "Daddy, still you love me. I thought you'll fulfill my dreams. You'll make me proud in the world. I thought you'll fulfill my dreams. You'll make me proud in the world.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "fulfilling dreams",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p190_bolly",
+      "emotion": "pride",
+      "dialogue": "You'll make me proud in the world. I thought you'll fulfill my dreams. You'll make me proud in the world. But you are sure to defame me. All my efforts to reform you is useless.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "fulfilling speaker's dreams",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "316826",
+    "title": "Kuku Mathur Ki Jhand Ho Gayi",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/sM98ShUfZF5PklKK94GDblfdRnW.jpg",
+    "overview": "Kuku Mathur Ki Jhand Ho Gayi[1] is a 2014 Hindi comedy, romance, drama film directed by Aman Sachdeva and produced by Ekta Kapoor &amp; Bejoy Nambiar.Siddharth Gupta is playing the title role in the film."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3202_bolly",
+      "emotion": "shame",
+      "dialogue": "Finally, I got irritated and called him up at 12 20 am..Can you imagine, that scoundrel was busy on another call! My call was kept on waiting. So cheap. Shameless. You deserve better. You'll find someone better. Then I will when I will. But what should I do today?",
+      "target_person": "boyfriend",
+      "target_gender": "male",
+      "cause_raw": "not prioritizing the speaker's call",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3203_bolly",
+      "emotion": "shame",
+      "dialogue": "It's rightly said that the children get spoiled.... if they lose their mother. And such people need an excuse to do illicit deeds. Don't you have any shame? Or have you lost of it? Is this what your parents have taught you?",
+      "target_person": "Unnamed person",
+      "target_gender": "unclear",
+      "cause_raw": "illicit deeds and lack of moral values",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3204_bolly",
+      "emotion": "shame",
+      "dialogue": "Maybe you need to understand. Everyone has reasons, not just one. Do you understand? Don't you have any shame? - Wait. You are a criminal! You made me a thief! - Wait.",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "accusing someone without understanding their reasons",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s3205_bolly",
+      "emotion": "shame",
+      "dialogue": "Well..You set our warehouse on fire, didn't you? Tell me the truth, you set it on fire, didn't you? Yes, but..Don't you have any shame? If you needed money you should've come to me. Thief. Why have you come here?",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "theft",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p1683_bolly",
+      "emotion": "pride",
+      "dialogue": "It's great. - What's great in that? You are the one who is great. I am proud of you. It's doing well. I've brought a gift for you. Unwrap it.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "other's achievement",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

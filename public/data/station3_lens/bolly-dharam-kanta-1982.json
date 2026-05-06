@@ -1,0 +1,110 @@
+{
+  "film": {
+    "id": "275835",
+    "title": "Dharam Kanta",
+    "year": "1982",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/dcNXh5p7Ym5i3NSXHT35qzs8mTz.jpg",
+    "overview": "When Bhavani (Raaj Kumar) kidnaps the son of Harnam (Satyen Kappu), he expects to collect his ransom and be on his merry way. But when the boy ends up dead, a curse is placed on Bhavani and his family. Soon, devastating floods separate Bhavani from his children, and bereft, he turns himself in to the authorities. Years later, he returns to the village, not knowing that his sons have turned to crime and his daughter has been adopted by Harnam."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1065_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey! Hey! Hey! What are you doing? My wife, the Thakur has come after many days. Aren't you ashamed, see the child is watching...Hey! What are you watching? Hey, not anyone else, I am embracing my wife. At this time, what about the child......even your father won't be able to stop me.",
+      "target_person": "Thakur",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior in front of a child",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1066_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey, where are you running away too? Are you the rogue whom the police was searching? Aren't you ashamed of doing such things? Mother, you are scolding me as if......you are my mother and I am your son. Does your mother not tell you anything looking at your antics?",
+      "target_person": "rogue",
+      "target_gender": "male",
+      "cause_raw": "engaging in illegal activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p541_bolly",
+      "emotion": "pride",
+      "dialogue": "Go and bring my sons back to me. Thakur, where is your power now? Where is your pride? Thakur. Your sin became a storm and destroyed my lap.",
+      "target_person": "Thakur",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p542_bolly",
+      "emotion": "pride",
+      "dialogue": "Inspector. This is the respect of a dacoit. This is his pride and respect and his law. I surrender it to the law of my country. Daddy! Daddy! Daddy!",
+      "target_person": "dacoit",
+      "target_gender": "male",
+      "cause_raw": "surrender to law",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p543_bolly",
+      "emotion": "pride",
+      "dialogue": "Hail Goddess Laxmi! Hail Goddess Laxmi! Long live, Shiva, Long live. I will be proud throughout my life that I got a student like you. And I will be sorry throughout life......that I got a teacher like you. What are you saying? - What else?",
+      "target_person": "teacher",
+      "target_gender": "unclear",
+      "cause_raw": "having a good student",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p544_bolly",
+      "emotion": "pride",
+      "dialogue": "A person kills another person. This food... is much better than the food......that you earn by thieving and robbing. Are you proud? Then swear that you won't touch this food. And that you won't even taste one morsel of it.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p545_bolly",
+      "emotion": "pride",
+      "dialogue": "Your father's soul will get peace. My father's soul will know peace......when I smatter your body into pieces, Thakur. If you are very proud of your strength......then use it in the right way. You have reached till here fighting amongst yourself. Now, do you wish to go to the almighty?",
+      "target_person": "Thakur",
+      "target_gender": "male",
+      "cause_raw": "use of strength in the right way",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

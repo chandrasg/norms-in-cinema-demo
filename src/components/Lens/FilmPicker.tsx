@@ -42,7 +42,13 @@ interface Props {
 }
 
 export default function FilmPicker({ filmIndex, basePath }: Props) {
-  const [selectedSlug, setSelectedSlug] = useState<string | null>(null);
+  // Initialize selection from ?film=<slug> if present (deep links from
+  // Atlas FilmSearch land here).
+  const initialSlug =
+    typeof window !== "undefined"
+      ? new URLSearchParams(window.location.search).get("film")
+      : null;
+  const [selectedSlug, setSelectedSlug] = useState<string | null>(initialSlug);
   const [detail, setDetail] = useState<FilmDetail | null>(null);
   const [loading, setLoading] = useState(false);
   const [filter, setFilter] = useState<"all" | "bolly" | "holly">("all");
@@ -56,10 +62,35 @@ export default function FilmPicker({ filmIndex, basePath }: Props) {
     if (!selectedSlug) return;
     setLoading(true);
     fetch(`${basePath}/${selectedSlug}.json`)
-      .then(r => r.json())
+      .then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
       .then(d => { setDetail(d); setLoading(false); })
       .catch(() => { setDetail(null); setLoading(false); });
   }, [selectedSlug, basePath]);
+
+  // On first load with a deep link, scroll the picker into view so the
+  // user lands directly on the detail panel rather than the page hero.
+  useEffect(() => {
+    if (initialSlug && typeof window !== "undefined") {
+      requestAnimationFrame(() => {
+        const el = document.getElementById("film-picker");
+        if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  // Keep URL in sync as user clicks different films, so they can share the
+  // link they're currently looking at.
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const url = new URL(window.location.href);
+    if (selectedSlug) url.searchParams.set("film", selectedSlug);
+    else url.searchParams.delete("film");
+    window.history.replaceState({}, "", url.toString());
+  }, [selectedSlug]);
 
   return (
     <div className="grid gap-6 lg:grid-cols-[280px_1fr]">

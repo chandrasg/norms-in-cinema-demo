@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "154337",
+    "title": "Andala Rakshasi",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/xTJSZ1XtPrZrjbHcASNf9GWMXBw.jpg",
+    "overview": "Gautham, a wealthy man, falls for a woman named Mithuna only to learn that she loves another man. However, a sudden chain of events changes their lives forever."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 3
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s87_bolly",
+      "emotion": "shame",
+      "dialogue": "Even banyan trees age! What's the use? First decide if I'm banyan tree or a girl and then carry on. Got it? Ashamed to go out! What has happened now? Is it about that bearded man? Is he the only one or you'd many more?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "promiscuity",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s88_bolly",
+      "emotion": "shame",
+      "dialogue": "What has happened now? Is it about that bearded man? Is he the only one or you'd many more? See, how shamelessly she's asking me! I'm seeing... like king like citizen! You don't need to see anything, mind your work. Old woman!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "promiscuity",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s89_bolly",
+      "emotion": "shame",
+      "dialogue": "I swear! Moreover I'm unable to sleep alone. Were you waiting for this since morning? Aren't you ashamed? Why should I feel shame? Didn't you marry? Today's children are an enigma.",
+      "target_person": "child",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s90_bolly",
+      "emotion": "shame",
+      "dialogue": "Moreover I'm unable to sleep alone. Were you waiting for this since morning? Aren't you ashamed? Why should I feel shame? Didn't you marry? Today's children are an enigma. You don't try to understand. I've my own problems.",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "expressing sexual desires",
+      "theme_label": "Promiscuity"
+    }
+  ]
+}

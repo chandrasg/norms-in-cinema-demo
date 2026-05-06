@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "549268",
+    "title": "Devaki",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5nwuGwJsArknzB6XC0eirOjHNLq.jpg",
+    "overview": "Devaki takes a look at the parallel lives of two young women, belonging to strikingly different backgrounds, who were both betrayed by their fathers and lovers."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 2
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1009_bolly",
+      "emotion": "shame",
+      "dialogue": "<i>...let me see you properly.</i> Take off your clothes. <i>Weren't you ashamed when you used...</i> <i>...to roam around the whole village?</i> I am too seasoned to your wiles.",
+      "target_person": "individual",
+      "target_gender": "unclear",
+      "cause_raw": "public indecency",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1010_bolly",
+      "emotion": "shame",
+      "dialogue": "I went closer. <i>And I saw that they... sir... were naked and making love.</i> What to say, sir. We were shamed to see them. <i>If she had been my daughter, then...</i> <i>...I would have cut her into pieces.</i>",
+      "target_person": "couple",
+      "target_gender": "unclear",
+      "cause_raw": "public indecency",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "p512_bolly",
+      "emotion": "pride",
+      "dialogue": "A little while back she was screwing your client... ...to get you a massive order. Are you proud of me, daddy? You... you... Hey! What's with you, guys!",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "getting a massive order",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

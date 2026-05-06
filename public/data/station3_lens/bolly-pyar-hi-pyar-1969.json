@@ -1,0 +1,128 @@
+{
+  "film": {
+    "id": "307612",
+    "title": "Pyar Hi Pyar",
+    "year": "1969",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/hd0uN96kRVAjWBna32ebym36s2N.jpg",
+    "overview": "At an orphanage, Kailashnath identifies Vijay as his biological son and takes him home. Years later, a man named Ashok arrives and claims to be Kailashnath's real son."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 2
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1490_bolly",
+      "emotion": "shame",
+      "dialogue": "And you have taken up a job. What foolishness? Let me know how much you'll be getting? I will be getting 300 per month. - Don't you feel ashamed? I give......this much salary to my driver. What will the society say? Kailashnath Gupta's son......is working for a mere 300 rupees. Daddy, it's not a question of money.",
+      "target_person": "Kailashnath Gupta's son",
+      "target_gender": "male",
+      "cause_raw": "working for a low salary",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1491_bolly",
+      "emotion": "shame",
+      "dialogue": "Listen, take out the car first. - Fine. Kavita, daughter Kavita. - Coming aunty. Ok aunty. Bless me. - Don't make me......ashamed touching my feet. Feet are touched only of relatives. I am only your governess.",
+      "target_person": "governess",
+      "target_gender": "female",
+      "cause_raw": "crossing social boundaries",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1492_bolly",
+      "emotion": "shame",
+      "dialogue": "You are mine, I am yours, let the world feel jealous. No, no. The heart is yours, the life......is yours, let the world feel jealous. You shameless. How did you get the courage to come here? Miss. Kavita, I had promised you that......I would definitely come on your birthday. If I would not come, then I could never forgive myself.",
+      "target_person": "unidentified character",
+      "target_gender": "female",
+      "cause_raw": "breaking social boundaries",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s1493_bolly",
+      "emotion": "shame",
+      "dialogue": "It got so disturbed that this Vishwamitra is......ready to marry her Menaka immediately. So that Shakuntala Gupta plays in your lap. Shameless. You really don't feel shy at all. Who? - A bone in Kebab. Who are you? - For him a bone in Kebab and......for the rest of the world a very big businessman.",
+      "target_person": "Vishwamitra",
+      "target_gender": "male",
+      "cause_raw": "Marrying in haste",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1494_bolly",
+      "emotion": "shame",
+      "dialogue": "But if you keep hating us then we would......feel someone has pushed us in hell. I beg for the sake of love. Don't make me feel more ashamed, mother. Till today I had heard that mother gives......love and more love to his child. But today I have seen it for the first time that a mother......is asking his child for love. Forgive me, mother.",
+      "target_person": "child",
+      "target_gender": "male",
+      "cause_raw": "not receiving love from mother",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p788_bolly",
+      "emotion": "pride",
+      "dialogue": "It's a question of doing work of your choice. And I want to arrest people robbing money from this......country. To destroy smugglers and thieves forever. Daddy, that day you will feel proud, that I am your son. What dreams I had for you, what plans I made for you? You have broken my heart.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "serving the country by arresting thieves and smugglers",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p789_bolly",
+      "emotion": "pride",
+      "dialogue": "Then who is this? - I will tell you who is this. Give back my moustache to me. Did you not listen, moustaches are men's pride. And me, I am a man. - I am a man. You son of a man.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "having a moustache",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p790_bolly",
+      "emotion": "pride",
+      "dialogue": "I got our child from there. I reared him up......giving both father's and mothers love. If you'll see him, you will be really proud of him. He is so handsome. I don't believe that what you are saying is true.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "raising a handsome child",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

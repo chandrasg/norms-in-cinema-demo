@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "11307",
+    "title": "The World According to Garp",
+    "year": "1982",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/9ItRFdSCb7Sz3AC9LRxAzbH73kG.jpg",
+    "overview": "A struggling young writer finds his life and work dominated by his unfaithful wife and his radical feminist mother, whose best-selling manifesto turns her into a cultural icon."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1827_holly",
+      "emotion": "pride",
+      "dialogue": "You're a wonderful writer.  Your novel is as good a first novel as I've read.  I'm proud to publish it.  But your mother has written a political manifesto.  - She's a cult, not a writer. - Hi.",
+      "target_person": "publisher",
+      "target_gender": "unclear",
+      "cause_raw": "publishing a good first novel",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1828_holly",
+      "emotion": "pride",
+      "dialogue": "I keep buying them, and my husband keeps burning them.  And you write too. Isn't that nice?  You must be so proud of your mother.  I'm very, very proud of Mom.  - You folks all right down there? - Yeah, I'm okay. We're all right.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "mother's writing",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1829_holly",
+      "emotion": "pride",
+      "dialogue": "And you write too. Isn't that nice?  You must be so proud of your mother.  I'm very, very proud of Mom.  - You folks all right down there? - Yeah, I'm okay. We're all right.  - But are you all right? - Oh, I'm fine.",
+      "target_person": "child",
+      "target_gender": "unclear",
+      "cause_raw": "mother's writing",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

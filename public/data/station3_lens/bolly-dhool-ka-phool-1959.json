@@ -1,0 +1,139 @@
+{
+  "film": {
+    "id": "110847",
+    "title": "Dhool Ka Phool",
+    "year": "1959",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/4ZKIWzh7CJVkxPy80PRNrzeTIDB.jpg",
+    "overview": "The story of an abandoned Hindu child who is found and raised by a Muslim man."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 3
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 4,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1100_bolly",
+      "emotion": "shame",
+      "dialogue": "Which you will not even remember. But with taunts of that mistake, the world will harass me. The gaze will drop in shame! The gaze will drop in shame! The gaze will drop in shame!",
+      "target_person": "character being taunted",
+      "target_gender": "unclear",
+      "cause_raw": "past mistake",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1101_bolly",
+      "emotion": "shame",
+      "dialogue": "But with taunts of that mistake, the world will harass me. The gaze will drop in shame! The gaze will drop in shame! The gaze will drop in shame! Cause I have received such a blow today.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "past mistake",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1102_bolly",
+      "emotion": "shame",
+      "dialogue": "The gaze will drop in shame! The gaze will drop in shame! The gaze will drop in shame! Cause I have received such a blow today. I got deceived in love.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "heartbreak/deception in love",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1103_bolly",
+      "emotion": "shame",
+      "dialogue": "Went and sat far away. I got deceived in love. Got a blot on life! Just see my helpless faithfulness..Just see my helpless faithfulness has become a shameful tale. The souvenir of love has become the souvenir of a sin. By giving me a lifelong sorrow.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "failed love relationship",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s1104_bolly",
+      "emotion": "shame",
+      "dialogue": "Who is that rascal? Where does he stay? What's his name? Come with me. I'll finish him off. I'll throttle his neck. If you want to throttle, do that to her, who has put us to such a shame. Get out from my house, get out at this very moment. Sir! - Gangu Dai, keep quiet.",
+      "target_person": "Gangu Dai",
+      "target_gender": "female",
+      "cause_raw": "causing shame to family",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1105_bolly",
+      "emotion": "shame",
+      "dialogue": "Get out from my house, get out at this very moment. Sir! - Gangu Dai, keep quiet. This filth can never stay in my house. You cursed one..''..instead of this shameful act, better you had drowned yourself!'' Uncle! I don't want to see your face even. Get lost.. get out of my house!",
+      "target_person": "Gangu Dai",
+      "target_gender": "female",
+      "cause_raw": "unknown shameful act",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1106_bolly",
+      "emotion": "shame",
+      "dialogue": "Very nice child. Uncle Chhagan has said..''..if you study, you will get spoilt!'' And if you play, you will become a king! Dear, I will teach you such tricks to earn....that you will put good educated people to shame. - Is it? Yes, all the time your pockets will be filled....just see this.. with such bundle of notes. But I don't know any work.",
+      "target_person": "educated people",
+      "target_gender": "unclear",
+      "cause_raw": "being educated and not earning enough",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s1107_bolly",
+      "emotion": "shame",
+      "dialogue": "They commit the mistakes and he undergoes the punishment? While the world respects them, he gets kicked!? While this poor soul walks with his head hung in shame....they walk with their heads held high? Mr. Lawyer, your court may pardon such sins....but the court of God will never pardon them. Children are not b******s, O lawyer! Rather the parents are b******s!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being punished for others' mistakes",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1108_bolly",
+      "emotion": "shame",
+      "dialogue": "You are a criminal! The consequences of your deeds reflected in the form of my ruin. instead of giving respect to a woman you threw her in the ditch....of helplessness and shame. Today in her tears, your prestige and name are getting drowned! Her sighs of pain ruined my motherhood.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "disrespect and mistreatment",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1109_bolly",
+      "emotion": "shame",
+      "dialogue": "I will not give him to anyone. He is mine. He is my son. You murdered the duty of a father....and you had put the maternal love to shame. Abdul uncle. I am a woman, and for a woman there can't be a greater punishment....than her trust being crushed in the guise of a promise of marriage.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "betrayal and broken marriage promise",
+      "theme_label": "Dishonesty"
+    }
+  ]
+}

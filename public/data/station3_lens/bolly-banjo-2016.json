@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "403517",
+    "title": "Banjo",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/sWJLsCVU7MckdprbbQi8g02wRYr.jpg",
+    "overview": "A musical drama film directed by Ravi Jadhav, starring Riteish Deshmukh and Nargis Fakhri in the lead roles."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s424_bolly",
+      "emotion": "shame",
+      "dialogue": "'First is the Engine.' 'Second...Drum.' 'But Grease is ashamed of his other talent.' 'Covered all over with grease, he has only one dream.' 'White.'",
+      "target_person": "Grease",
+      "target_gender": "male",
+      "cause_raw": "ashamed of his talent",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s425_bolly",
+      "emotion": "shame",
+      "dialogue": "It's so colorful. Hey...How many times have I told you......not to pickup money with your mouth. 'Shame, don't come.' This is exactly why people think we're beggars. Does anyone tell the drum player to pickup money from the mouth?",
+      "target_person": "dancer",
+      "target_gender": "female",
+      "cause_raw": "picking up money with mouth",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s426_bolly",
+      "emotion": "shame",
+      "dialogue": "Does anyone tell the drum player to pickup money from the mouth? Does anyone tell a Harmonium player to do it? This is why I am ashamed to tell anyone that I play the Banjo. Sir...your order? Wasn't one enough?",
+      "target_person": "Banjo player",
+      "target_gender": "male",
+      "cause_raw": "playing a less respected instrument",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "2642",
+    "title": "Two Weeks Notice",
+    "year": "2002",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/r18hSGAcxWiUysbX6nFShIZyjjP.jpg",
+    "overview": "Dedicated environmental lawyer Lucy Kelson goes to work for billionaire George Wade as part of a deal to preserve a community center. Indecisive and weak-willed George grows dependent on Lucy's guidance on everything from legal matters to clothing. Exasperated, Lucy gives notice and picks Harvard graduate June Carter as her replacement. As Lucy's time at the firm nears an end, she grows jealous of June and has second thoughts about leaving George."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2077_holly",
+      "emotion": "pride",
+      "dialogue": "Thank you.  - Hi, Lu. - Hey, Rocco.  - I can't believe how much I ate. - I'm proud of you.  The whole left side of the menu.  You know when I get tense, I just start to eat.",
+      "target_person": "Rocco",
+      "target_gender": "male",
+      "cause_raw": "eating a lot when tense",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2078_holly",
+      "emotion": "pride",
+      "dialogue": "I think you drafted it that way because you don't really want to go.  Does it kill you how well I know you?  Honey, this contract is excellent work. I'm very proud of you.  Dad, I'm trying to get out of it.  I don't know why you went to work for that philandering robber baron.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "excellent work on contract",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP2079_holly",
+      "emotion": "pride",
+      "dialogue": "Island Towers will bring prestige to the neighborhood... and be part of Brooklyn's renaissance.  and be part of Brooklyn's renaissance.  And we're very pleased and proud to be here.  Unfortunately, there is one fly in the ointment.  You see, I gave my word to someone... that we wouldn't knock down this building behind me.",
+      "target_person": "we",
+      "target_gender": "unclear",
+      "cause_raw": "being part of Brooklyn's renaissance",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

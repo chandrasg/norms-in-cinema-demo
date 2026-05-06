@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "332562",
+    "title": "A Star Is Born",
+    "year": "2018",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+    "overview": "Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sports Victory",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1034_holly",
+      "emotion": "pride",
+      "dialogue": "to play baseball in college already, man.  Wow, that's great.  I'm proud of him.  My little guy is not so little anymore.  I don't wanna go home.",
+      "target_person": "speaker 2",
+      "target_gender": "male",
+      "cause_raw": "for playing baseball in college",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP1035_holly",
+      "emotion": "pride",
+      "dialogue": "The door's wide open if you wanna go.  You know what? Don't start that s**t.  Show a little f*****g pride in what you're doing, buddy.  I just wanna know if she's on her way or not, that's all.  Who's coming?",
+      "target_person": "buddy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1036_holly",
+      "emotion": "pride",
+      "dialogue": "Huh?  'Cause you had nothing to f*****g say.  You were too proud to sing any of the songs I ever wrote.  Well, I got something to say now, pal.  I'm done being your f*****g errand boy.",
+      "target_person": "pal",
+      "target_gender": "male",
+      "cause_raw": "standing up for himself",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

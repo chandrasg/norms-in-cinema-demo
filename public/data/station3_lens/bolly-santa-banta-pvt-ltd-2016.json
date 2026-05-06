@@ -1,0 +1,93 @@
+{
+  "film": {
+    "id": "394078",
+    "title": "Santa Banta Pvt Ltd",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/qjzYPHUUlNQ5taFTnBN1iUHm3bE.jpg",
+    "overview": "Two friends and their sweet and endearing misadventures and one of these misadventures sees them land in the middle of a kidnapping investigation."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1893_bolly",
+      "emotion": "shame",
+      "dialogue": "Very sorry for the inconvenience. Should I say that? Shame on us! - I understand. But, believe me, we are doing our best. I request you, Mr. Sultan......tell Ms. Kareena to act perfectly‘ normal at the party.",
+      "target_person": "Mr. Sultan",
+      "target_gender": "male",
+      "cause_raw": "not meeting expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s1894_bolly",
+      "emotion": "shame",
+      "dialogue": "Here is my card. If you find the real Santa and Banta, call and tell me. What is it? - Shame on you! Rather than call you my boss......I would rather knead dough in a bakery or sell ice cream on carts! You were hounding Santa and Banta. But, you let go when you got them and gave your visiting card!",
+      "target_person": "boss",
+      "target_gender": "male",
+      "cause_raw": "incompetence",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p1000_bolly",
+      "emotion": "pride",
+      "dialogue": "Let's go. Are you alright, sir? Santa and Banta! Please. You've done well. You've made the country proud. Mention not. - Okay! Please, leave. - Banta, let's go.",
+      "target_person": "Santa and Banta",
+      "target_gender": "male",
+      "cause_raw": "making the country proud",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1001_bolly",
+      "emotion": "pride",
+      "dialogue": "Because, this time, you have a point. You're getting late. Please. I am proud of you, Mr. Santa and Mr. Banta. You have made the country proud. Ms. QT, I have a gift for you.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "making the country proud",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1002_bolly",
+      "emotion": "pride",
+      "dialogue": "You're getting late. Please. I am proud of you, Mr. Santa and Mr. Banta. You have made the country proud. Ms. QT, I have a gift for you. This is the most prized possession of my life.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1003_bolly",
+      "emotion": "pride",
+      "dialogue": "Congratulations! - Thanks you. Congratulations to you, too! The country is proud of you. Although you aren't real agents you did very well. So, I want you to be our agents, officially.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "becoming official agents",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

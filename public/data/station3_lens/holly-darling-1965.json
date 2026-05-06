@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "24134",
+    "title": "Darling",
+    "year": "1965",
+    "industry": "holly",
+    "country": "GB",
+    "poster_path": "/cBd5YO9xG7VmRuC8Q27uR3PV9mn.jpg",
+    "overview": "Diana, a beautiful but shallow and easily distracted model and failed actress, toys with the affections of several men while attempting to gain fame and fortune in Swinging London."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS827_holly",
+      "emotion": "shame",
+      "dialogue": "An American statesman recently said  that Britain was a country which had lost pride in itself.  Have we so much to be ashamed of, I wonder?  Let's find out.  What are you ashamed of in Britain today?",
+      "target_person": "Britain",
+      "target_gender": "unclear",
+      "cause_raw": "loss of national pride",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS828_holly",
+      "emotion": "shame",
+      "dialogue": "Have we so much to be ashamed of, I wonder?  Let's find out.  What are you ashamed of in Britain today?  Well... let's see. Can't think of nothing.  Nothing?",
+      "target_person": "Britain",
+      "target_gender": "unclear",
+      "cause_raw": "not being able to identify problems",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS829_holly",
+      "emotion": "shame",
+      "dialogue": "of every creed, race, and colour  in every far-flung corner of the earth,  who, at this very moment, are suffering the... the humiliation, degradation, shame... of the agonies of malnutrition.  of the agonies of malnutrition.  Well, of course I'd love to make a film someday.",
+      "target_person": "people of every creed race and colour",
+      "target_gender": "unclear",
+      "cause_raw": "suffering from malnutrition",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP1530_holly",
+      "emotion": "pride",
+      "dialogue": "I am afraid I told everyone she'd grown the beard specially for the part.  Felicity, poor thing, was not amused.  You must be very proud of her, Mrs Carter.  She's a darling.  She's going to go a long way.",
+      "target_person": "Mrs Carter",
+      "target_gender": "female",
+      "cause_raw": "her daughter's potential success",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP1531_holly",
+      "emotion": "pride",
+      "dialogue": "Good evening.  An American statesman recently said  that Britain was a country which had lost pride in itself.  Have we so much to be ashamed of, I wonder?  Let's find out.",
+      "target_person": "American statesman",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

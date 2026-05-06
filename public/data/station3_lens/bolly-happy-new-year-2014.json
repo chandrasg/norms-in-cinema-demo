@@ -1,0 +1,110 @@
+{
+  "film": {
+    "id": "277432",
+    "title": "Happy New Year",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5kv0trpR00030JmZbLnLMBKIrtD.jpg",
+    "overview": "Six would-be thieves enter a prestigious dance competition as a cover for their larger goal of pulling off a major heist."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2299_bolly",
+      "emotion": "shame",
+      "dialogue": "And look at him! Our captain! He’s the worst dancer amongst us and he’s laughing! Shameless! - Team Diamonds! Here! And the next team that’s going in is Team Diamonds,",
+      "target_person": "captain",
+      "target_gender": "male",
+      "cause_raw": "poor dancing skills",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2300_bolly",
+      "emotion": "shame",
+      "dialogue": "Team India! Welcome to Dubai! Actually, not welcome at all! Why you are here to shame us like this? You talk to me with some respect! Aye why we go? You home go! We are here to dance!",
+      "target_person": "Team India",
+      "target_gender": "unclear",
+      "cause_raw": "poor performance",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2301_bolly",
+      "emotion": "shame",
+      "dialogue": "Hell, No! But according to me, the most shocking team this year is...Team India......you must have heard about us, surely...Team India. Of course! You were feeling ashamed to meet your own people, so we thought we'll come over and say hello. What's the matter Mr. Grover......you won't welcome us?",
+      "target_person": "Mr. Grover",
+      "target_gender": "male",
+      "cause_raw": "not acknowledging his own people",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1200_bolly",
+      "emotion": "pride",
+      "dialogue": "We have style, yes we are the stars. A little bit of this and a little bit of that. Yeah whatever you say we are proud of who we are. lts time for the world to recognize. Or go ahead and try us on.",
+      "target_person": "we",
+      "target_gender": "unclear",
+      "cause_raw": "self-identity and style",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1201_bolly",
+      "emotion": "pride",
+      "dialogue": "C'mon stand up guys, stand up. What's going on? So proud of you, Charlie. Genius!! Pure Genius! Dad used to say... Keep it simple.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Charlie's genius",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1202_bolly",
+      "emotion": "pride",
+      "dialogue": "Breaking news, Team India are in the finals! Team India you beauty! Wo, Team India has..Team India! We are proud of Team India..Wow. Good days are here! Hail Lord Krishna. Look, I don't mean to be rude.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Team India reaching the finals",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1203_bolly",
+      "emotion": "pride",
+      "dialogue": "I decided to ruin Charan Grover. What will you tell your father once you too are in Jail? You think he'll be proud of you? Dad's not in jail. Manohar's not in jail?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

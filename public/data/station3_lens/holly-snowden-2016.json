@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "302401",
+    "title": "Snowden",
+    "year": "2016",
+    "industry": "holly",
+    "country": "FR|DE|US",
+    "poster_path": "/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg",
+    "overview": "CIA employee Edward Snowden leaks thousands of classified documents to the press."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS835_holly",
+      "emotion": "shame",
+      "dialogue": "Rangers... So you wanna be Special Forces?  So you wanna be Special Forces?  I think Special Forces would be ashamed  to call you soldiers. Am I right?  Sir, no, sir!",
+      "target_person": "Rangers",
+      "target_gender": "unclear",
+      "cause_raw": "not meeting the standards of Special Forces",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "WS836_holly",
+      "emotion": "shame",
+      "dialogue": "He's embarrassed. It was a lot of money for us.  Day trading is a perilous sport.  You shouldn't be ashamed of it.  I'm gonna grab some food. See you guys inside?  Sure.",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "losing money in day trading",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1539_holly",
+      "emotion": "pride",
+      "dialogue": "Perfect.  Twirl around.  Perfect! I'm so proud of you!  When you're really happy,  there's a large part of you that just wants to stay happy.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

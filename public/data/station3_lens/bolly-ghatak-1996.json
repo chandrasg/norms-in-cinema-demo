@@ -1,0 +1,116 @@
+{
+  "film": {
+    "id": "118632",
+    "title": "Ghatak",
+    "year": "1996",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/iuoKFDCV58P5GCqlNTi9S2X2Q3C.jpg",
+    "overview": "Katya, a ruthless mobster, rules over the town with an iron fist. When newcomer Kashi dares to challenge his reign of terror, he faces brutal consequences."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2104_bolly",
+      "emotion": "shame",
+      "dialogue": "Why not? We're brothers, after all! But it Was fun, really! - Don't look there! Please! - Why not? What a shame! Thief! Thief... Catch him! Catch him, someone! The sWine Was running aWay With the purse!",
+      "target_person": "thief",
+      "target_gender": "male",
+      "cause_raw": "stealing",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s2105_bolly",
+      "emotion": "shame",
+      "dialogue": "But Dad doesn't understand... He alWays calls me dumb-headed. Do I look dumb to you? it's a shame that you take so much of time......to open the lock of your oWn house! A burglar Would open it faster, Without a key! That can't be, father...lt's an old lock. Which is Why the key gets stuck.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being slow and inefficient",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2106_bolly",
+      "emotion": "shame",
+      "dialogue": "Tell me noW, Whether this is true or not...A lame-horse is alWays shot dead, isn't it? What do We do With the humans? Nothing? Aren't you ashamed to speak like this about your Wife? Not at all. Okay. You'll get the kid.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "being compared to a lame horse",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2107_bolly",
+      "emotion": "shame",
+      "dialogue": "Had he Worked for Katiya, he could have quietly enjoyed himself. Quietly? Like you, isn't it? Shedding all his shame in the process, right? Great! You dance in a seedy joint... and talk of respect?! Of course I dance... that too, in a club.",
+      "target_person": "dancer",
+      "target_gender": "female",
+      "cause_raw": "profession as a dancer",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s2108_bolly",
+      "emotion": "shame",
+      "dialogue": "You're lucky that Katiya should have had his eye on your shop. Had he eyed your Wife, you'd have deserted her, too. Aren't you ashamed to talk like that? She's my Wife...! The honor of our home...- She's your sister-in-laW! - And this land is our Mother! Will you abandon the land that gave you your bread and better?",
+      "target_person": "shop owner",
+      "target_gender": "male",
+      "cause_raw": "cowardice and disloyalty",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2109_bolly",
+      "emotion": "shame",
+      "dialogue": "Death is aWaiting you here. Talk...Want to die alone... or With your brothers? Tear him apart! Why are you all ashamed? Drink! This is Anthes party. He loves throWing a party.",
+      "target_person": "Ante",
+      "target_gender": "male",
+      "cause_raw": "forcing others to drink",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2110_bolly",
+      "emotion": "shame",
+      "dialogue": "The voW your brother took upon... your death. That While I don't take care... of your murderer Katya...l Will stay here...on their scraps! In shame. With this naked body! But sister...the day has come to cover it!",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "not avenging a death",
+      "theme_label": "Violence"
+    }
+  ]
+}

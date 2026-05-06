@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "339169",
+    "title": "Kuch Kuch Locha Hai",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/kLw3iBJsbPbQ9aoChXBceW0gFN7.jpg",
+    "overview": "Praveen Patel, a 45-year-old married businessman, is approached by Shanaya, an actress, who wants to move in with him to prepare for a role. So he pretends to be single to impress her."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3195_bolly",
+      "emotion": "shame",
+      "dialogue": "Stupid, fool...I've told you a thousand times....stop playing that guitar and look after the family business. Why don't you listen? Have you lost it? - Shameless, what did you say to your father? And why are you playing it so loudly? So Naina can hear it too.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not taking responsibility of family business",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3196_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey.. - Praveen. It's not for me Koki, it's for the store. Praveen...if you sell these shameless DVDs....then what values will you teach him? It's just business, Koki. Just business. And anyway, he never listens to me in the first place.",
+      "target_person": "Praveen",
+      "target_gender": "male",
+      "cause_raw": "selling inappropriate DVDs",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3197_bolly",
+      "emotion": "shame",
+      "dialogue": "Koki, get me a glass of water..Koki's isn't here. Koki. Aren't you two ashamed? You just start anywhere. And what about what you're doing? - What?",
+      "target_person": "Koki",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1678_bolly",
+      "emotion": "pride",
+      "dialogue": "Wherever I go, everyone's eyes stay on me. I know where they're looking, what they're looking at....and what they're thinking about doing with me. Today when I am with you, you're proud to show me off. Look, there's an actress with you. All I did was hug my costar, and it made you jealous.",
+      "target_person": "companion",
+      "target_gender": "male",
+      "cause_raw": "having an actress as a companion",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1679_bolly",
+      "emotion": "pride",
+      "dialogue": "You're the lucky baby, you dwell in my heart. You're the Juliet of my dreams. Come...dwell in my heart. You're my pride....\"...and you're my glory.\" You're my life.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

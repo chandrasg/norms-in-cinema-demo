@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "333348",
+    "title": "Love the Coopers",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/fPW1BHZhUEViOmDAHFfyLezoQdI.jpg",
+    "overview": "When four generations of the Cooper clan come together for their annual Christmas Eve celebration, a series of unexpected visitors and unlikely events turn the night upside down, leading them all toward a surprising rediscovery of family bonds and the spirit of the holiday."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS191_holly",
+      "emotion": "shame",
+      "dialogue": "Well, it's supposed to.  That's what makes it one of the most significant endings in the history of film.  But Chaplin's face... Full of hope and fear and shame and embarrassment and God knows what else.  Full of hope and fear and shame and embarrassment and God knows what else.  But the genius was that it's his subconscious autobiography.",
+      "target_person": "Chaplin",
+      "target_gender": "male",
+      "cause_raw": "expressing multiple emotions including shame",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS192_holly",
+      "emotion": "shame",
+      "dialogue": "That's what makes it one of the most significant endings in the history of film.  But Chaplin's face... Full of hope and fear and shame and embarrassment and God knows what else.  Full of hope and fear and shame and embarrassment and God knows what else.  But the genius was that it's his subconscious autobiography.  He had fallen in love with several",
+      "target_person": "Chaplin",
+      "target_gender": "male",
+      "cause_raw": "personal failures and shortcomings",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP342_holly",
+      "emotion": "pride",
+      "dialogue": "I'm ready to work now.  You know, I could start today, if you needed it.  I take pride in my work.  I take a lot of pride in my work. I... At my last job, if a family took a bad picture, I insisted on taking another,  At my last job, if a family took a bad picture, I insisted on taking another,",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "dedication to work",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP343_holly",
+      "emotion": "pride",
+      "dialogue": "You know, I could start today, if you needed it.  I take pride in my work.  I take a lot of pride in my work. I... At my last job, if a family took a bad picture, I insisted on taking another,  At my last job, if a family took a bad picture, I insisted on taking another,  because I care. I care. I just... I hated the idea of anyone sending out a bad holiday card.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "quality of work",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

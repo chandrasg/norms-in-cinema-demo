@@ -1,0 +1,91 @@
+{
+  "film": {
+    "id": "209943",
+    "title": "Anupama",
+    "year": "1966",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ojTUDpCurFHFEURK5OUKbGOyXks.jpg",
+    "overview": "A grieving widower has a complex relationship with his daughter, blaming her for his wife's death. As she grows up, a kind poet helps her heal and find happiness despite her father's conflicted behavior."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 2,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s179_bolly",
+      "emotion": "shame",
+      "dialogue": "Do not torment me like this...he shall arrive soon I'm ready To eat? - Hush! Shameless! Listen...what if we don't go? What are you saying! If we don't go, we'll earn a bad name.",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "suggesting not to attend a social event",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p48_bolly",
+      "emotion": "pride",
+      "dialogue": "I know now for sure that you haven't recognised me. I am Aruna's friend, Shanta. - Oh yes! Shanta. Tell me, what are you so proud of? Everyone gets married.  And everyone becomes a father too. You are badly mistaken.",
+      "target_person": "Shanta",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p49_bolly",
+      "emotion": "pride",
+      "dialogue": "And everyone becomes a father too. You are badly mistaken. Neither have I become proud, nor am I going to be a father. Trying to hide? - Not at all. You are shooting in the dark.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p50_bolly",
+      "emotion": "pride",
+      "dialogue": "No. - Damn you! You have truly disappointed me. - Why? I thought you will come back and make me proud. But you didn't do a thing! Come inside.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "expectation of making proud",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p51_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes, you'd see what a good sense of humor she has. I can't be serious like you every time. Ma, they are so rich, but not at all proud. They are very nice people. Gauri, never form an opinion about someone so soon.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p52_bolly",
+      "emotion": "pride",
+      "dialogue": "I disgrace myself today My heart skips a beat If I begin to feel proud Why did you give me I feel flushed seeing my glowing face",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "personal achievement",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

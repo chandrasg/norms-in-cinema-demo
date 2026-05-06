@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "302138",
+    "title": "Bewafa",
+    "year": "1952",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/v2k7FKRmWkkS9XMq1i6S1zqDrPp.jpg",
+    "overview": "A wealthy heiress's life is tragically upturned when she discovers her illegitimate, look-alike sister—a street-wise courtesan—who quickly falls for her fiancé, forcing a crisis of identity, love, and sacrifice."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s527_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll slap you Rupa'why are you so sad -Nothing Aunty In this age when he doesn't get liquor'he becomes shameless Rupa'giVe medicine'Kidnani has a bad cough I didn't get work'uncle",
+      "target_person": "Rupa",
+      "target_gender": "female",
+      "cause_raw": "not fulfilling expectations",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s528_bolly",
+      "emotion": "shame",
+      "dialogue": "Meaning One day when I couldn't bring money for booze-uncle beat me mercilessly Shameless'you eat twice a day & you are not bothered about uncle's drink I'll bring tomorrow Though I wasn't hurt much myself respect took a seVere beating",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "Not providing money for alcohol",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s529_bolly",
+      "emotion": "shame",
+      "dialogue": "The problem is that you're not a girl but a Maiden..ln youth going astray won't take much time! What do you mean by that A Maiden staying away from the home all the night...ls more than enough to make inmates hang their heads in shame! Yes'Rupa! I am being forced to say this! The path which you're going is the path of ruin & destruction!",
+      "target_person": "Rupa",
+      "target_gender": "female",
+      "cause_raw": "Staying out late at night",
+      "theme_label": "Immodesty"
+    }
+  ]
+}

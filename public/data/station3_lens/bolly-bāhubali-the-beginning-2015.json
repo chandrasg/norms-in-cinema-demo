@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "256040",
+    "title": "Bāhubali: The Beginning",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9BAjt8nSSms62uOVYn1t3C3dVto.jpg",
+    "overview": "The young Shivudu is left as a foundling in a small village by his mother. By the time he’s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s297_bolly",
+      "emotion": "shame",
+      "dialogue": "Get up! You lousy old hag! All these years of punishment...for your infidelity and still no shame! The moment you see a man, you take off with him! Kattappa! He is going to kill me! He is going to kill me!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p129_bolly",
+      "emotion": "pride",
+      "dialogue": "and has her shackled right in the town square. Our Queen Devasena being treated like cattle in a fair. Our pride and honour is injured and we suffer in silence. It is not time to shed tears. It is time to breathe fire.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "mistreatment of Queen Devasena",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p130_bolly",
+      "emotion": "pride",
+      "dialogue": "With this in hand...even a child can slice through ten banyan trees. I call this the Sikander. The Pride of Swords. A wonderful sword. But forgive me, Aslam, this cannot match our speed.",
+      "target_person": "Aslam",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "film": {
+    "id": "306162",
+    "title": "Kal Aaj Aur Kal",
+    "year": "1971",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/hIUNobRolV0i18SvNMDB3mcDp4D.jpg",
+    "overview": "Widower Ram Kapoor frequently throws lavish parties to overcome his loneliness. That changes when his son, Rajesh, returns home with a proposition. Ram's life soon spirals out of control."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2923_bolly",
+      "emotion": "shame",
+      "dialogue": "You think an Englishman is any the less? Hey, I'm not staying here...not sandwiched between the city-slicker and the Englishman. I'm going home If you go back, that accident which never happened, will happen Oh shut up! Are you raving? Aren't you ashamed? I'll thrash you If anything happens to you, it'll kill me Hey, these kids won't let me go. Where's my luggage?",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting others",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s2924_bolly",
+      "emotion": "shame",
+      "dialogue": "May I bail them out too? - Okay Let them go Rajesh, I must thank you. I'm ashamed. Forgive me, for this last time You can't spurn a hand extended in friendship Rajesh, you needn't shop for foes and friendship can't be bought",
+      "target_person": "Rajesh",
+      "target_gender": "male",
+      "cause_raw": "misunderstanding and mistrust",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2925_bolly",
+      "emotion": "shame",
+      "dialogue": "I tell you, if he's so irreligious he will become a rebel Daddy...This alliance is an impossibility! But he won't listen to anyone, will he? He has eloped! Shame on a son like him! I'd rather I never had a son But Uncle, times have changed. - Are you taking sides with him? And why not? You're modern, opposed to tradition and custom",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "being irreligious and opposing tradition",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s2926_bolly",
+      "emotion": "shame",
+      "dialogue": "Not now, please Fooled them Grandpa is forcing me to marry Rukmini. I'm ashamed. I'll tell you when we meet Mummy is forcing me to marry. She has come to know...about the bickering in your house. I'm ashamed. I'll tell you when we meet I was so afraid! - I was afraid too",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being forced into arranged marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2927_bolly",
+      "emotion": "shame",
+      "dialogue": "Fooled them Grandpa is forcing me to marry Rukmini. I'm ashamed. I'll tell you when we meet Mummy is forcing me to marry. She has come to know...about the bickering in your house. I'm ashamed. I'll tell you when we meet I was so afraid! - I was afraid too But my heart refused to believe what was in this letter is true",
+      "target_person": "Grandpa and Mummy",
+      "target_gender": "unclear",
+      "cause_raw": "forcing marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s2928_bolly",
+      "emotion": "shame",
+      "dialogue": "You take care too I've no sympathies for boys like you. You're so selfish? Without even a care for your family honour? Does modernism teach you...to insult your elders in public? You ought to be ashamed But Mummy, do give him a hearing. - Quiet! Will you stand by someone...who wants to drag his father and his grandfather to court? I'm sorry, I can be of no help to you. - You've wasted your time and mine too",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "disrespecting elders and family honour",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p1518_bolly",
+      "emotion": "pride",
+      "dialogue": "Now I realise that if our love is rooted in the sorrows of our elders...our happiness will be short-lived If you want to give vent, call me a fraud, selfish, treacherous man...whatever you wish. I'll put up with it No Rajesh! You're right in whatever you're doing. For you, for me...for all of us belonging to this proud, p****d-off generation...this sacrifice is the acid test Go Rajesh. Marry the girl of your grandfather's choice And look, I'm no fool. Don't you forget to invite me for the wedding",
+      "target_person": "Rajesh",
+      "target_gender": "male",
+      "cause_raw": "Sacrifice for family's happiness",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

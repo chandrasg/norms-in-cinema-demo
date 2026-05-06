@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "361131",
+    "title": "Hate Story 3",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/tJVh1ZHZNgR8nqV3j3iSy8fA6Bb.jpg",
+    "overview": "Siya appears to be the bone of contention between warring businessmen Aditya and Saurav. But this one runs deeper than your average love triangle."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2326_bolly",
+      "emotion": "shame",
+      "dialogue": "But even in my dreams when I try to touch you. I wake up. Aren't you ashamed of talking dirty like this? Don't your mom and your sister teach you anything? My reputation isn't tarnished, thank the Lord",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "speaking inappropriately",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2327_bolly",
+      "emotion": "shame",
+      "dialogue": "Arouse my body in slumber. This winter feels so hot. There's no shame anywhere. Sweetheart, we've made a legitimate mistake. This winter feels so hot.",
+      "target_person": "characters",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate sexual behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2328_bolly",
+      "emotion": "shame",
+      "dialogue": "Sweetheart, we've made a legitimate mistake. This winter feels so hot. There's no shame anywhere. Sweetheart, we've made a legitimate mistake. Let me make things hot for you.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "sexual objectification",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2329_bolly",
+      "emotion": "shame",
+      "dialogue": "Never underestimate your enemy. And this dialogue's repeated in every movie. Really. Shame on you. I could've released this recording to the media. Or handed it over to the police.",
+      "target_person": "enemy",
+      "target_gender": "unclear",
+      "cause_raw": "underestimating opponent",
+      "theme_label": "Negligence"
+    }
+  ]
+}

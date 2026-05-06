@@ -1,0 +1,86 @@
+{
+  "film": {
+    "id": "362140",
+    "title": "Shaandaar",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5P4zbvCglw1WW61aCol3vJ1N28j.jpg",
+    "overview": "Jagjinder Joginder, a wedding planner, brings together the dysfunctional family of businessman Bipin Arora while making arrangements for Bipin's daughter's destination wedding in London."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 4
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4135_bolly",
+      "emotion": "shame",
+      "dialogue": "You'll still be a misogynistic prat. A man who disses women shames the entire nation. A man who disses women shames the entire nation.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "misogyny",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s4136_bolly",
+      "emotion": "shame",
+      "dialogue": "A man who disses women shames the entire nation. A man who disses women shames the entire nation. He who shames a woman shames his mum by implication You're a shame to your constellation.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4137_bolly",
+      "emotion": "shame",
+      "dialogue": "A man who disses women shames the entire nation. He who shames a woman shames his mum by implication You're a shame to your constellation.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4138_bolly",
+      "emotion": "shame",
+      "dialogue": "shames the entire nation. He who shames a woman shames his mum by implication You're a shame to your constellation. So what if your face makes babies cry?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s4139_bolly",
+      "emotion": "shame",
+      "dialogue": "He who shames a woman shames his mum by implication You're a shame to your constellation. So what if your face makes babies cry? You can say nice things and make a try",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "disrespecting women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p2235_bolly",
+      "emotion": "pride",
+      "dialogue": "How? The pitch puts a damper on play, the weather will hamper the way the boys play. The Lanka batsmen are on the heavy side but they show no playing pride. India bats next, the bowlers are hexed and the batsmen are vexed. Swaha...Enough of this nonsense!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

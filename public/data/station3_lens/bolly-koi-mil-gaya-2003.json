@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "25516",
+    "title": "Koi... Mil Gaya",
+    "year": "2003",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/2iJVauDYcYxRRGciTmAOSjiATf9.jpg",
+    "overview": "A developmentally disabled boy's life changes after he encounters an extraterrestrial being."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3159_bolly",
+      "emotion": "shame",
+      "dialogue": "Although we tread the earth...\"we will reach for the skies\" We will reach for the skies What are you shaking your head for? You're all of six feet...and you move around with these two feet nothings. Aren't you ashamed? Get out of our way. We got here first, so we'll cross first.",
+      "target_person": "tall man",
+      "target_gender": "male",
+      "cause_raw": "associating with shorter people",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3160_bolly",
+      "emotion": "shame",
+      "dialogue": "Shanti Villa's not far though, Take a right, a left...then right, left, left... you'll reach Shanti Villa. So you guys wanted a lift! - Right, auntie! You ought to be ashamed! You fool people along with these kids? And on top of that, you are laughing? - I'm laughing at your nose. When you scream, it twitches funnily! Like a deflated balloon!",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "fooling people for a lift",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s3161_bolly",
+      "emotion": "shame",
+      "dialogue": "But why must you break the panes? Can't you just open the windows? Why didn't it occur to me! Thanks for the suggestion. Shame on me! I must be the first Sindhi to cause <i>losses</i> to himself! Really? She's now your girlfriend. - How?",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "causing financial loss to himself",
+      "theme_label": "Poverty"
+    }
+  ]
+}

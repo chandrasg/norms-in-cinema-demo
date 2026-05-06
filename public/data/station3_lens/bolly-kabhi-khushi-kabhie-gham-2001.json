@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "10757",
+    "title": "Kabhi Khushi Kabhie Gham",
+    "year": "2001",
+    "industry": "bolly",
+    "country": "IN|GB",
+    "poster_path": "/12BvYKueY0eruZuTYIextEZaCC.jpg",
+    "overview": "Years after his father disowns his adopted brother for marrying a woman of lower social standing, a young man goes on a mission to reunite his family."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 2
+    },
+    {
+      "label": "Parental Pride",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2895_bolly",
+      "emotion": "shame",
+      "dialogue": "He said life offers you many paths to choose from. You must always choose the one that is right...the one where you don't have to bend... where you don't fall. Never take a step in life...that will bring shame to your family name or prestige. Anyone can make money but earning respect is not everyone's cup of tea. I have not forgotten his words till today.",
+      "target_person": "listener",
+      "target_gender": "unclear",
+      "cause_raw": "bringing shame to family name or prestige",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2896_bolly",
+      "emotion": "shame",
+      "dialogue": "Take my hand and ask me to be yours forever Oh darling you look so beautiful, seems like you have been made for me Your beauty shines so brightly, that it shames the moon Go away you liar, I'm not taken in Don't flatter too much, your giving yourself away",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "lying and excessive flattery",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s2903_bolly",
+      "emotion": "shame",
+      "dialogue": "He said life offers you many paths to choose from. You must always choose the one that is right...the one where you don't have to bend... where you don't fall. Never take a step in life...that will bring shame to your family name or prestige. Anyone can make money but earning respect is not everyone's cup of tea. I have not forgotten his words till today.",
+      "target_person": "listener",
+      "target_gender": "unclear",
+      "cause_raw": "bringing shame to family name or prestige",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2904_bolly",
+      "emotion": "shame",
+      "dialogue": "Take my hand and ask me to be yours forever Oh darling you look so beautiful, seems like you have been made for me Your beauty shines so brightly, that it shames the moon Go away you liar, I'm not taken in Don't flatter too much, your giving yourself away",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "lying and excessive flattery",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p1495_bolly",
+      "emotion": "pride",
+      "dialogue": "And maybe I will never be able to do it because...there's no one in this world like my Papa. I know that someone up there is happy with me to have bestowed on...me the right to say that I am Yashvardhan Raichand's son. Say it proudly. We just want to say to you that we love you very much. I'll just have a look. Grandmother, you come with me.",
+      "target_person": "Yashvardhan Raichand's son",
+      "target_gender": "male",
+      "cause_raw": "being Yashvardhan Raichand's son",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1496_bolly",
+      "emotion": "pride",
+      "dialogue": "He understands my emotions... he understands every breath of mine. I was so wrong... so wrong. I was really proud of you. You were my self-respect. You were my strength. You have taken all that away from me... everything.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1500_bolly",
+      "emotion": "pride",
+      "dialogue": "And maybe I will never be able to do it because...there's no one in this world like my Papa. I know that someone up there is happy with me to have bestowed on...me the right to say that I am Yashvardhan Raichand's son. Say it proudly. I, and the 3 most beautiful women in the world Thank you...and the 3 most beautiful women in the world...Miss world, Miss Universe, Miss Asia-Pacific and....fatty",
+      "target_person": "Yashvardhan Raichand's son",
+      "target_gender": "male",
+      "cause_raw": "being the son of Yashvardhan Raichand",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1501_bolly",
+      "emotion": "pride",
+      "dialogue": "He understands my emotions... he understands every breath of mine. I was so wrong... so wrong. I was really proud of you. You were my self-respect. You were my strength. You have taken all that away from me... everything.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "110647",
+    "title": "Bachke Rehna Re Baba",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/quED30ZeiE7jT6HCKf4RRFWKVUM.jpg",
+    "overview": "Rukmini (Rekha) is well into her 40s and still unmarried. She lives with her orphaned niece, Padmini (Mallika Sherawat), and together they device a scheme to entrap wealthy men, like Monty (Paresh Rawal), relieve them of their money, abandon them, and move on to better targets. They do succeed for quite a while, assuming various disguises, and names, amassing a fortune, until Padmini falls in love with one of her targets, a young man named Raghu (Karan Khanna), and decides to call it quits. An unstable Rukmini, who owes money to Monty, decides she cannot go it alone and concocts a scheme that will force Padmini to give up on Raghu and re-join forces with her to go on philandering unsuspecting wealthy men."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s334_bolly",
+      "emotion": "shame",
+      "dialogue": "The cops mustn't find any evidence. Fetch it, quick I'm dead! - Gul's sandals! You shameless, treacherous woman ! I can't remember more expletives! Wanton woman ! No, Monty! - What's going on?",
+      "target_person": "Gul",
+      "target_gender": "female",
+      "cause_raw": "Betrayal",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s335_bolly",
+      "emotion": "shame",
+      "dialogue": "No, Monty! - What's going on? I asked you for the gas of love! But you've torched my car of love! And this rhino... ! He's a real shameless man I've been raving mad, but he's still at it! Get up! - Listen...Get up! Else, I'll shoot you",
+      "target_person": "Monty",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s336_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't shoot! He's already dead I'm dead... I mean, I'm dying Is this a corpse? How could you...?Shame on you ! With a corpse! God! Why didn't I lose my eyesight before watching all this? With a corpse! - it's only a corpse, Monty!",
+      "target_person": "Monty",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior with a corpse",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s337_bolly",
+      "emotion": "shame",
+      "dialogue": "Sorrow is just a part of the game But let her lead her life the way she wants You should be ashamed! Here you are. - Your money! I don't want it! Give it to your aunt",
+      "target_person": "unnamed character",
+      "target_gender": "male",
+      "cause_raw": "controlling a woman's life",
+      "theme_label": "Sexual Harassment"
+    }
+  ]
+}

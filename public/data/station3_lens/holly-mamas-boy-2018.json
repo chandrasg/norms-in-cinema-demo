@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "527735",
+    "title": "Mama's Boy",
+    "year": "2018",
+    "industry": "holly",
+    "country": "EG",
+    "poster_path": "/b04eCPftbA6nhfIwkT8qB0gi4DS.jpg",
+    "overview": "A comedy about  a gang leader who gets into a fight and  is seriously injured, after which he is transferred to the hospital in a critical condition where he needs a heart transplant. At the same time, the mother of another young man dies and doctors resort to transferring her heart to the  gang leader to save his life, but he starts acting in a motherly way towards the young man."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS451_holly",
+      "emotion": "shame",
+      "dialogue": "Wait a minute. You still want your mom to break up with him?  The man lied to her, Nora.  -He was ashamed. -A lie is a lie.  Ugh. Wait a minute. So you've never told a lied before?  Absolutely not.",
+      "target_person": "Nora's mom's boyfriend",
+      "target_gender": "male",
+      "cause_raw": "lying",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WP957_holly",
+      "emotion": "pride",
+      "dialogue": "And I'm sure he's up there right now watching out for you.  You do right by him, Jeffrey.  You look after your mother... ...and you become a man that he would be proud of.  ...and you become a man that he would be proud of.  -What happened? Are you all right? -Yeah, I'm okay.",
+      "target_person": "Jeffrey's father",
+      "target_gender": "male",
+      "cause_raw": "Jeffrey becoming a man his father would be proud of",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP958_holly",
+      "emotion": "pride",
+      "dialogue": "You do right by him, Jeffrey.  You look after your mother... ...and you become a man that he would be proud of.  ...and you become a man that he would be proud of.  -What happened? Are you all right? -Yeah, I'm okay.  Don't worry, you've got plenty of time. You'll get there.",
+      "target_person": "Jeffrey",
+      "target_gender": "male",
+      "cause_raw": "becoming a man his father would be proud of",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP959_holly",
+      "emotion": "pride",
+      "dialogue": "Yes!  Damn it, where is she?  Jeffrey, Jeffrey... ...no matter what happens from here on out... ...I want you to know just one thing: I'm proud of you.  ...I want you to know just one thing: I'm proud of you.  Subject in motion.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP960_holly",
+      "emotion": "pride",
+      "dialogue": "Damn it, where is she?  Jeffrey, Jeffrey... ...no matter what happens from here on out... ...I want you to know just one thing: I'm proud of you.  ...I want you to know just one thing: I'm proud of you.  Subject in motion.  Hi. Hi, you wanted to see me?",
+      "target_person": "Jeffrey",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

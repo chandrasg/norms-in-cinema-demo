@@ -1,0 +1,69 @@
+{
+  "film": {
+    "id": "16288",
+    "title": "Creepshow 2",
+    "year": "1987",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/bbanIymLuTYmQGis9nlCkFlT1eg.jpg",
+    "overview": "Three macabre tales from the latest issue of a boy's favorite comic book, dealing with a vengeful wooden Native American, a monstrous blob in a lake, and an undying hitchhiker."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 3
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS816_holly",
+      "emotion": "shame",
+      "dialogue": "- May we go inside? - Oh, yes. Sure, sure.  What can I get for you, Benjamin?  I am ashamed to stand inside this place  while my people are so much in your debt, Ray Spruce.  There's no shame for an honest man, Benjamin.",
+      "target_person": "Benjamin",
+      "target_gender": "male",
+      "cause_raw": "feeling indebted",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS817_holly",
+      "emotion": "shame",
+      "dialogue": "I am ashamed to stand inside this place  while my people are so much in your debt, Ray Spruce.  There's no shame for an honest man, Benjamin.  Times have been tough for all of us.  What do you need?",
+      "target_person": "Benjamin",
+      "target_gender": "male",
+      "cause_raw": "feeling indebted",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS818_holly",
+      "emotion": "shame",
+      "dialogue": "Good idea. Maybe I should. Then I'd have something to work for.  - Piece work. - (Annie laughs)  You have no shame.  Next week.  Unless I get a better-paying job.",
+      "target_person": "Annie",
+      "target_gender": "female",
+      "cause_raw": "not having a stable job",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP1514_holly",
+      "emotion": "pride",
+      "dialogue": "While you hold the \"allineh\",  we are borrowers.  We can still have pride.  If you give the treasure back to us,  you make us beggars again.",
+      "target_person": "allineh holder",
+      "target_gender": "unclear",
+      "cause_raw": "returning the treasure",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

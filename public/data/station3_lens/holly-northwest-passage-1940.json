@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "43805",
+    "title": "Northwest Passage",
+    "year": "1940",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/d1J3K23jhEEt2uezEvYY0YtatWi.jpg",
+    "overview": "Based on the Kenneth Roberts novel of the same name, this film tells the story of two friends who join Rogers' Rangers, as the legendary elite force engages the enemy during the French and Indian War. The film focuses on their famous raid at Fort St. Francis and their marches before and after the battle."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1206_holly",
+      "emotion": "shame",
+      "dialogue": "On public exhibition.  Bring that tankard here  and let me hide my face in it in shame.  Well, if it ain't langdon towne,  my educated friend.",
+      "target_person": "Langdon Towne",
+      "target_gender": "male",
+      "cause_raw": "public humiliation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1207_holly",
+      "emotion": "shame",
+      "dialogue": "You've slandered me,  libeled that good man sir william johnson,  repeated shameful rumors, lies, calumnies.  I'd never repeat calumnies about innocent men.  What's that you said?",
+      "target_person": "Sir William Johnson",
+      "target_gender": "male",
+      "cause_raw": "spreading false rumors and lies",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS1208_holly",
+      "emotion": "shame",
+      "dialogue": "I never shot a man before.  I know just how you feel.  It's nothing to be ashamed of.  I was paralyzed all through my first fight.  Like getting buck fever, just stood there.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "fear or hesitation in a fight",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP2197_holly",
+      "emotion": "pride",
+      "dialogue": "it's no good to you on the top of a hill.  Good work, men.  I'm proud of you.  Did you hear that?  Now bring those mohawks to me.",
+      "target_person": "men",
+      "target_gender": "male",
+      "cause_raw": "good work",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP2198_holly",
+      "emotion": "pride",
+      "dialogue": "It's about... ask her.  It looks like she's going to take care of you.  Harvard, i'm proud of you.  You've been eating too much.  How much of that corn have you eaten today?",
+      "target_person": "Harvard",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2199_holly",
+      "emotion": "pride",
+      "dialogue": "Make a man swallow his tobacco  just to look at her.  She's proud, though. Ambitious.  She knows what she wants,  and she's going to get it.",
+      "target_person": "She",
+      "target_gender": "female",
+      "cause_raw": "her ambition and determination",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

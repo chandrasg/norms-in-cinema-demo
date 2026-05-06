@@ -1,0 +1,87 @@
+{
+  "film": {
+    "id": "43824",
+    "title": "Waterloo Bridge",
+    "year": "1940",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/2XgYKd5tr5b9W5Yfq80yTZqf3hy.jpg",
+    "overview": "On the eve of World War II, a British officer revisits Waterloo Bridge and recalls the young man he was at the beginning of World War I and the young ballerina he met just before he left for the front."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2303_holly",
+      "emotion": "pride",
+      "dialogue": "So if she'd accepted me, she'd have been your aunt.  - That would have been delightful. - Look here, my boy.  I don't mind telling you I'm very proud of your war record.  Thank you, sir.  Now, you know what you're doing, I suppose.",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "war record of the boy",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2304_holly",
+      "emotion": "pride",
+      "dialogue": "Now, you know what you're doing, I suppose.  Yes, sir.  You'll be proud of her too, sir. I'm sure.  I don't necessarily believe in what they call correct marriages.  Seen too many of them turn out badly.",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2305_holly",
+      "emotion": "pride",
+      "dialogue": "I don't know what we're going to do.  We can't get jobs in a show, we can't get them anywhere else.  If madame were still here, I'd go to her, pride or no pride... ...but as it is, there's nobody.  ...but as it is, there's nobody.  Myra... ...I'm frightened.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2306_holly",
+      "emotion": "pride",
+      "dialogue": "I don't like it.  Oh, Kitty.  Perhaps it's selfish of me not to let Roy know... ...but I've got a stupid sort of pride about it.  ...but I've got a stupid sort of pride about it.  Let me wait a little while. Just a little while longer.",
+      "target_person": "Kitty",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2307_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, Kitty.  Perhaps it's selfish of me not to let Roy know... ...but I've got a stupid sort of pride about it.  ...but I've got a stupid sort of pride about it.  Let me wait a little while. Just a little while longer.  Something must turn up, and if it doesn't, well... It's Mrs. Bassett for the rent.",
+      "target_person": "Kitty",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2308_holly",
+      "emotion": "pride",
+      "dialogue": "Go to him.  Oh, Kitty.  The ancestral acres. Shall I point out the things we're proudest of... ...no matter how boring? - Oh, it's beautiful. Simply beautiful.  ...no matter how boring? - Oh, it's beautiful. Simply beautiful.  Mother will take you all over.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "ancestral property",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

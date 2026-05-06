@@ -1,0 +1,67 @@
+{
+  "film": {
+    "id": "20092",
+    "title": "Corporate",
+    "year": "2006",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jwGU00goh5oU2olCF6owqi3cXnf.jpg",
+    "overview": "Two corporate giants compete in order to recklessly maximize their respective profits."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s862_bolly",
+      "emotion": "shame",
+      "dialogue": "Believe me. It's a highly potent mixture. You sound like a confused scientist to me. Kumar, everybody's drinking And having a great time...it's such a shame for us! Do you drink? - Yes Also eat non-veg? - Sure",
+      "target_person": "Kumar",
+      "target_gender": "male",
+      "cause_raw": "not drinking alcohol",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "p423_bolly",
+      "emotion": "pride",
+      "dialogue": "Is it going to be a closely held company? Very soon, the Sehgal Group and the Indian financial institutions...will divest 8 per cent of their holdings through a public issue And today I am very proud to be associated with Friscon. Thank you all. Good morning sir. Congratulations on the Friscon deal.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "association with Friscon",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p424_bolly",
+      "emotion": "pride",
+      "dialogue": "We work together on a first-name basis I mean... Nishi. - That's better One thing I'd like to tell you. When you were featured...in the Business Today magazine as the best female executive...I was extremely proud. I have graduated from your own management school and...I just hope, I'm as successful as you are, some day. That's very nice Megha. Thanks.",
+      "target_person": "Nishi",
+      "target_gender": "female",
+      "cause_raw": "Megha's success",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

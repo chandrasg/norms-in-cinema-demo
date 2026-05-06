@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "18480",
+    "title": "Brüno",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/wcUc7TYtsb72dHVb51sYaGIvQsr.jpg",
+    "overview": "Flamboyantly gay Austrian television reporter Bruno stirs up trouble with unsuspecting guests and large crowds through brutally frank interviews and painfully hilarious public displays of homosexuality."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 5
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1441_holly",
+      "emotion": "shame",
+      "dialogue": "You must produce a lot of milk.  I don't want you to do something that you'll regret.  You wake up tomorrow, you've lost your virginity, and you feel ashamed.  You know, let's take this a little slower.  -We should reschedule. -Sit the f**k down.",
+      "target_person": "Unnamed Female",
+      "target_gender": "female",
+      "cause_raw": "losing virginity prematurely",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WP2530_holly",
+      "emotion": "pride",
+      "dialogue": "Who's ready for an old-fashioned heterofest?  Are you 100% hetero like me?  Who out there is proud to be straight?  Let me hear you say straight pride.  -Straight pride. -Straight pride.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "being straight",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2531_holly",
+      "emotion": "pride",
+      "dialogue": "Are you 100% hetero like me?  Who out there is proud to be straight?  Let me hear you say straight pride.  -Straight pride. -Straight pride.  Straight pride.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being heterosexual",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2532_holly",
+      "emotion": "pride",
+      "dialogue": "Who out there is proud to be straight?  Let me hear you say straight pride.  -Straight pride. -Straight pride.  Straight pride.  -Straight pride. -Straight pride.",
+      "target_person": "crowd",
+      "target_gender": "unclear",
+      "cause_raw": "being straight",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2533_holly",
+      "emotion": "pride",
+      "dialogue": "Let me hear you say straight pride.  -Straight pride. -Straight pride.  Straight pride.  -Straight pride. -Straight pride.  I am so straight that when I bought my house,",
+      "target_person": "I",
+      "target_gender": "male",
+      "cause_raw": "being straight",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2534_holly",
+      "emotion": "pride",
+      "dialogue": "-Straight pride. -Straight pride.  Straight pride.  -Straight pride. -Straight pride.  I am so straight that when I bought my house,  the first thing I did was brick up the back door.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "being straight",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "17691",
+    "title": "4 for Texas",
+    "year": "1963",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/kElgIdPt8cCjrbR6qOSjgJ4LE8Q.jpg",
+    "overview": "In the 1870s, two rival businessmen, Zack Thomas and Joe Jarrett, on a stagecoach heading to Galveston, Texas, must pull together to protect $100,000 from an outlaw named Matson. Once in Galveston, however, their rivalry continues, as Thomas joins up with Elya Carlson and Jarret with Maxine Richter. But Matson is still on the loose, and a scheming banker threatens both Thomas and Jarrett."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1024_holly",
+      "emotion": "shame",
+      "dialogue": "- I wish my wife looked like that. - Yeah.  This was all my husband left me. He was a connoisseur of art.  Shame he didn't leave you clothes to go with it.  - Who pays the two dollars? - As soon as you hang it over the bar.  - Up the gangplank, to the starboard. - Yes, ma'am.",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "not having appropriate clothes",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS1025_holly",
+      "emotion": "shame",
+      "dialogue": "We didn't mean any harm.  - I told you. - You never had a mother.  - Shame on you. - Remind me to have you stuffed.  That picture is a disgrace to Galveston.  You won't hang that disgraceful picture.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "creating a disgraceful picture",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WP1933_holly",
+      "emotion": "pride",
+      "dialogue": "- Don't go away, Mr. Burden! - Please wait! Mr. Burden!  Mr. Burden, could we talk to you? We sure would aspire to talk to you.  - You know that we're both widows. - As a banker... ...I am proud to serve the widows of this community and the orphans.  ...I am proud to serve the widows of this community and the orphans.  It is my sacred trust to protect... ...the savings that mean so much to your future.",
+      "target_person": "Mr. Burden",
+      "target_gender": "male",
+      "cause_raw": "serving the widows and orphans of his community",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP1934_holly",
+      "emotion": "pride",
+      "dialogue": "Mr. Burden, could we talk to you? We sure would aspire to talk to you.  - You know that we're both widows. - As a banker... ...I am proud to serve the widows of this community and the orphans.  ...I am proud to serve the widows of this community and the orphans.  It is my sacred trust to protect... ...the savings that mean so much to your future.  ...the savings that mean so much to your future.",
+      "target_person": "Mr. Burden",
+      "target_gender": "male",
+      "cause_raw": "serving the widows and orphans of his community",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "WP1935_holly",
+      "emotion": "pride",
+      "dialogue": "There she is. All done.  I think she looks pretty damn good. She looks beautiful.  Joseph, I'm really proud of you. You did a wonderful job.  Our boat. It looks fantastic.  Not me, Max, us. All of us made our boat look fantastic.",
+      "target_person": "Joseph",
+      "target_gender": "male",
+      "cause_raw": "making the boat look fantastic",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

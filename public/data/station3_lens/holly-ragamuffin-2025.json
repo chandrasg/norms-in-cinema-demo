@@ -1,0 +1,124 @@
+{
+  "film": {
+    "id": "1403499",
+    "title": "Ragamuffin",
+    "year": "2025",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/yhjKYd6aTzboCbJrBwMZXJCVist.jpg",
+    "overview": "A 12-year-old motocross racer spends what seems like an average race weekend at the track with her father. But as things unfold, she’s faced with her identity, her deafness, and what it means to be a girl."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS32_holly",
+      "emotion": "shame",
+      "dialogue": "I know your whole life story.  I know every skeleton in your closet.  I know every moment of sin and shame and dishonesty  and degraded love that's darkened your past.  Right now, I know your shallow faith, your feeble prayer life,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "past sins and dishonesty",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS33_holly",
+      "emotion": "shame",
+      "dialogue": "Rich.  You know that you're a ragamuffin  if you're not ashamed to be a ragamuffin.  Much like having the simplicity of a child,  and the poverty of a child, you come before your Abba Father,",
+      "target_person": "Rich",
+      "target_gender": "male",
+      "cause_raw": "being a ragamuffin poorly dressed disreputable)",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS34_holly",
+      "emotion": "shame",
+      "dialogue": "\"Dear Wayne,  \"it's a lot like I told you.  \"Being poor ain't shameful it's just inconvenient.  \"I valued you.\"  It's just that I didn't know you.",
+      "target_person": "Wayne",
+      "target_gender": "male",
+      "cause_raw": "being poor",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP43_holly",
+      "emotion": "pride",
+      "dialogue": "As Zion comes up to close us in song,  I want to leave you with this question.  Would Christ be proud of you?  Yeah, I don't want to be disrespectful. I know we're guests here, but... I kind of think how disrespectful it would be  I kind of think how disrespectful it would be",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP44_holly",
+      "emotion": "pride",
+      "dialogue": "Ah. Okay, let's go, let's go, let's go.  Who's smoking?  - Hey. - Ohhh. So proud of you.  - Wayne. - Hey,Dad.  You look like a girl with that long hair.",
+      "target_person": "Wayne",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP45_holly",
+      "emotion": "pride",
+      "dialogue": "Absolutely.  You've got a very talented son here.  You must be a very proud father.  No, I'm proud of all my kids.  Two boys, two girls,",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "his children's talents",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP46_holly",
+      "emotion": "pride",
+      "dialogue": "You've got a very talented son here.  You must be a very proud father.  No, I'm proud of all my kids.  Two boys, two girls,  and a...piano player.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "talented children",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP47_holly",
+      "emotion": "pride",
+      "dialogue": "But keep brave.  \"I once wrote you on October 21st, 1955.  \"Richard made me a... \"a very proud man.\"  \"a very proud man.\"  I'm up here in this cloud of witnesses and you can ask anything.",
+      "target_person": "Richard",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP48_holly",
+      "emotion": "pride",
+      "dialogue": "\"I once wrote you on October 21st, 1955.  \"Richard made me a... \"a very proud man.\"  \"a very proud man.\"  I'm up here in this cloud of witnesses and you can ask anything.  I brag about you all the time...",
+      "target_person": "Richard",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

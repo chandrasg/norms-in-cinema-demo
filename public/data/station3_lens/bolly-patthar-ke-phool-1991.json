@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "161395",
+    "title": "Patthar Ke Phool",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/sUfAAyeBVQdWzagQKmIKwDfFvZU.jpg",
+    "overview": "Suraj falls in love with Kiran and doesn't know that she is the daughter of an underworld kingpin. Suraj's life takes a drastic turn when the same criminal kills his father."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1335_bolly",
+      "emotion": "shame",
+      "dialogue": "Dad, you know very well....for this world....you're an unsuccessful man. Shut up! Aren't you ashamed to talk rubbish? Ungrateful boy! If you utter a word more, I'll pull your tongue. -Wait.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "calling his father unsuccessful",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1336_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes. Are you mad? Aren't you ashamed to accuse my father? I know you're hut, but..Stop, Suraj. I don't want to talk to you. Listen to me. -Don't touch me.",
+      "target_person": "Suraj",
+      "target_gender": "male",
+      "cause_raw": "accusing someone's father",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s1337_bolly",
+      "emotion": "shame",
+      "dialogue": "If you take this right from me....my aim will be unfulﬁlled. You shouldn't meet Balraj Khanna and his family. Aren't you ashamed to accuse father? Today the police department gave me a ﬁle....which has records of your....crimes and my father's murder. I'm sure you did this murder.",
+      "target_person": "accused person",
+      "target_gender": "male",
+      "cause_raw": "committing crimes and murder",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p712_bolly",
+      "emotion": "pride",
+      "dialogue": "With your blessings, I want to become a big and good man. Today you say with love that Suraj is our son. I want that you should say this with pride one day. I gave you many sorrows. Today I'm doing the same. Please forgive me.",
+      "target_person": "Suraj",
+      "target_gender": "male",
+      "cause_raw": "becoming a big and good man",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

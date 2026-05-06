@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "729700",
+    "title": "Raksha Bandhan",
+    "year": "2022",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ykefXRqhM7HVnLWPtXWcWCcvBy6.jpg",
+    "overview": "Lala Kedarnath is blessed with 4 sisters. But his only worry is to find suitable grooms for each of them, as only then can he marry his childhood love. To what lengths will he go to succeed?"
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 3
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1627_bolly",
+      "emotion": "shame",
+      "dialogue": "I've explained this to you earlier but I've found out, dowry was given in Chandramukhi's wedding. You should be ashamed of yourselves. –We have to stop this custom. Well said, madam. –Do you have children, madam? –I do. -How many? Two. -Boys? Or girls? –Two girls. –Two girls, that's why",
+      "target_person": "Chandramukhi's family",
+      "target_gender": "female",
+      "cause_raw": "giving dowry",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1628_bolly",
+      "emotion": "shame",
+      "dialogue": "Every house here has a daughter whose dowry is falling short. But hoping to give them a lavish wedding their families slave away. Now you want them to be ashamed of their hard work? Madam, every man standing here... is working tirelessly so that he can give his daughter a lavish wedding.",
+      "target_person": "daughter's family",
+      "target_gender": "unclear",
+      "cause_raw": "not being able to afford lavish weddings",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1629_bolly",
+      "emotion": "shame",
+      "dialogue": "Madam, every man standing here... is working tirelessly so that he can give his daughter a lavish wedding. You want us to be ashamed of this? –We won't. We love our sisters and daughters dearly. –We can lay down our lives for them. See how much I've managed to put together...a flat-screen TV, washing machine, microwave, cupboard, sofa, double-bed...Lala...it's Shaanu.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "dowry",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1630_bolly",
+      "emotion": "shame",
+      "dialogue": "Uncle...Sapna is not under any kind of pressure, right? –Stop talking like a feminist. I'm dealing with so much already... eat <i>samosas.</i> We should be ashamed of ourselves, Gayatri...people who stammer are human after all... they're god's children too. It... -Yes, it's very hot today...It... -It will be winter soon. –Another month... and it'll be winter. –Go...Gautam Buddha was a holy man. –He was knowledgeable, a good man. So... -Subhash Chowk is very crowded, yes. –Which road did you take?",
+      "target_person": "Gayatri",
+      "target_gender": "female",
+      "cause_raw": "being a feminist",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1631_bolly",
+      "emotion": "shame",
+      "dialogue": "You asked if Sapna was under any pressure...now you have a problem with it? –Don't touch me. What is he talking about? -This is not done! Aren't you ashamed? That old man is willing to get beaten up for this and you...just stand and keep staring at me instead of doing anything. What can I do? –Aww, 'what can I do'? 'I've done the catering'.",
+      "target_person": "character being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "inaction and passivity",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p853_bolly",
+      "emotion": "pride",
+      "dialogue": "Come here...Sit. Your destiny is not to blame. –My ledgers are to blame for this. You're my pride. –It's these boys who are unlucky, not you. How will you manage, Brother? –Even if you manage to put together my dowry...you still have three more to take care of. –Do you know what Ma would say? She'd say - Lord Mahadev takes care of all daughters.",
+      "target_person": "Brother",
+      "target_gender": "male",
+      "cause_raw": "taking care of family",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

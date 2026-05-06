@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "45371",
+    "title": "The Special Relationship",
+    "year": "2010",
+    "industry": "holly",
+    "country": "GB|US",
+    "poster_path": "/4lTtWEWMWE0NCVkW1Ss9GRTFbLv.jpg",
+    "overview": "A dramatisation that follows Tony Blair's journey from political understudy waiting in the wings of the world arena to accomplished prime minister standing confidently in the spotlight of centre stage. It is a story about relationships, between two powerful men (Blair and Bill Clinton), two powerful couples, and husbands and wives."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1594_holly",
+      "emotion": "shame",
+      "dialogue": "But be careful.  These guys, they play rough.  Their administration has been born in controversy... national shame and illegality.  And it is my bet that that's the way they'll go out.  So the question you need to ask yourself is... what business does a progressivecenter-left politician...from a tiny little islandin Europe have...making friends with folks like that?",
+      "target_person": "Progressive center-left politician",
+      "target_gender": "male",
+      "cause_raw": "associating with controversial and illegal administration",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP2801_holly",
+      "emotion": "pride",
+      "dialogue": "Ladies and Gentlemen, the President of the United States... and the Prime Minister ofGreat Britain and Northern Ireland.  Let me just start by saying that it's a real pleasure... to welcome Prime Minister Blairhere to Washington.  Today on the verge of a new century... a new millennium,America is prouder than ever...to stand shoulder to shoulderwith its close friend..the United Kingdom..It continues a great tradition...and a special relationshipbetween our two countries.  Mr. President.  - Eric. - Prime minister... as a friend and as a religious man...I was wondering whether you offeredyour personal advice...to President Clintonduring these difficult times...of criminal investigationinto his sexual behavior.",
+      "target_person": "President",
+      "target_gender": "male",
+      "cause_raw": "close relationship with the United Kingdom",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2802_holly",
+      "emotion": "pride",
+      "dialogue": "I have found him throughout someone I could trust.  Someone I could rely upon.  Someone I am proud to call not just a colleague... but a friend.  And I happen to think that if you look at the American economy... If you look at the respect...with which America is heldright round the world today.  It's a pretty impressive record for anyone.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "having a trustworthy and reliable friend",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

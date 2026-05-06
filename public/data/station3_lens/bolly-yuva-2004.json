@@ -1,0 +1,142 @@
+{
+  "film": {
+    "id": "43410",
+    "title": "Yuva",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8cMCIsULa0IrZq0KkCLejMINWmq.jpg",
+    "overview": "An accident on a bridge ties together three young men from different social classes, sparking a course of events that will forever alter their lives."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4664_bolly",
+      "emotion": "shame",
+      "dialogue": "'Your recluse heart is imprisoned within me.' 'Oh! God may my husband's name and fame live forever.' 'If his honor is at stake'..'If his honor is at stake'....'I'll die in shame.'..'I'll die in shame.' 'Bitter at times or sweet as honey.' 'Soft at times or rugged.'",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "dishonor or loss of reputation",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s4665_bolly",
+      "emotion": "shame",
+      "dialogue": "'Celestial Gods witness our love.' 'Celestial Gods witness our love.' 'I will die in shame.' 'I will die in shame.' Come, come. Pining away for us?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4666_bolly",
+      "emotion": "shame",
+      "dialogue": "'Celestial Gods witness our love.' 'I will die in shame.' 'I will die in shame.' Come, come. Pining away for us? My hands are itching",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "expressing love openly",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4667_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll pay for my coffee. No problem! You can pay for mine too. Shameless. Don't you feel ashamed? When I was born, I was placed between twin girls. Cappuccino please. Two.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "not paying for the coffee",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4668_bolly",
+      "emotion": "shame",
+      "dialogue": "You're number 1. Mira! Hey Mira! Mira! Don't you feel ashamed? No! I swear on your Papa! I want to marry you. I want to stay with you. I will start stammering.",
+      "target_person": "Mira",
+      "target_gender": "female",
+      "cause_raw": "rejecting a marriage proposal",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p2620_bolly",
+      "emotion": "pride",
+      "dialogue": "Subhash Chandra Bose..Pomkin Chandra Chattopadhya...attained enlightenment in Bengal. From all over India, people came to Kolkatta. From Sharad Chandra to Satyajit Ray....from Saurav Ganguly to Sushmita Sen....all have done Bengal proud. But even then Bengal is ignored by the rest of the states. Only because we're not ruling at the Centre..Bengalis are unique.",
+      "target_person": "Subhash Chandra Bose Pomkin Chandra Chattopadhya Sharad Chandra Satyajit Ray Saurav Ganguly Sushmita Sen",
+      "target_gender": "unclear",
+      "cause_raw": "Achievements in various fields",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p2621_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't blackmail me. Nothing's wrong with you. A shot of insulin, a sugar free diet....and you'll live for years. You should be proud of him. Five more people like him....and Kolkatta would've been perfect. I don't want a hero. I want a normal son like the others. Social service, patriotism have all ended with your father.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "social service and patriotism",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2622_bolly",
+      "emotion": "pride",
+      "dialogue": "Who is ready to contest the election? Sister.. you have worked so hard. You sent me to Calcutta for studies..Take up one more challenge. Just as you've lived proudly make this village stand proud. You can do it. You can stand in election. How is it possible?",
+      "target_person": "sister",
+      "target_gender": "female",
+      "cause_raw": "political participation",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p2623_bolly",
+      "emotion": "pride",
+      "dialogue": "The Principal tells me that you're the first to get a scholarship. Many have got it earlier too. - But I didn't know that. I'm very proud of you. Tell me, what do you want? Should I talk directly with the Chief Minister?",
+      "target_person": "Principal",
+      "target_gender": "unclear",
+      "cause_raw": "Scholarship achievement",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

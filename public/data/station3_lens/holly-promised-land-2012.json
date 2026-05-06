@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "133694",
+    "title": "Promised Land",
+    "year": "2012",
+    "industry": "holly",
+    "country": "AE|US",
+    "poster_path": "/5C0b6Wu4Z0V4NuA1cD8SZU7FCkb.jpg",
+    "overview": "A salesman for a natural gas company experiences life-changing events after arriving in a small town, where his corporation wants to tap into the available resources."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP804_holly",
+      "emotion": "pride",
+      "dialogue": "and studied something other than agriculture.  It's the biggest fight my grandfather and I ever had.  Just the pride, I guess.  No. It's delusional self mythology. It's b******t.  We had a Caterpillar plant down in Davenport a few miles away.",
+      "target_person": "grandfather",
+      "target_gender": "male",
+      "cause_raw": "studying something other than agriculture",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP805_holly",
+      "emotion": "pride",
+      "dialogue": "VP of Land Management.  Well, that's great!  I'm proud of ya.  Holy s**t.  Danny, I don't know what to say.",
+      "target_person": "Danny",
+      "target_gender": "male",
+      "cause_raw": "becoming VP of Land Management",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP806_holly",
+      "emotion": "pride",
+      "dialogue": "Why?  Why?  Pride? Of what? What do you got?  S**t, how much of it is even yours?  I bet all of you are getting subsidy checks from the government. Right?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP807_holly",
+      "emotion": "pride",
+      "dialogue": "\"This is our barn. Who else is going to do it?\"  I used to think the guy was crazy.  And stubborn. Proud.  But, see. I think... He was just trying to teach me what it meant to take care of something.  He was just trying to teach me what it meant to take care of something.",
+      "target_person": "guy",
+      "target_gender": "male",
+      "cause_raw": "teaching the value of responsibility",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

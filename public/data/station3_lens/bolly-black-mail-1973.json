@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "303347",
+    "title": "Black Mail",
+    "year": "1973",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6UVFd7w0PDv4QYYrLpAwI5uDb4d.jpg",
+    "overview": "Kailash becomes rich when his uncle develops a new solar powered formula to save energy. He courts Asha whose jealous fiance plots to use her to blackmail Kailash into revealing the secret formula."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s599_bolly",
+      "emotion": "shame",
+      "dialogue": "I assure you, Asha... I'll never make this mistake again. Tell me just this much; was it all a drama you were playing on me? Aren't you ashamed to say that? Must I remind you of the letter...you wrote before you went away? You rejected me for a better future. So why have you returned? It has had just the effect I wanted. You hate me now.",
+      "target_person": "Asha",
+      "target_gender": "female",
+      "cause_raw": "Betrayal and dishonesty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "p267_bolly",
+      "emotion": "pride",
+      "dialogue": "Maybe my friend's prayers will help. Or else...I stand no chance in the field you're talking about. With friends like me around? Had you told me...I'd have invited her over too. - Go on! You're always fibbing! Fibbing? You're challenging my pride? What are you doing at 5 this evening? I'm free. I've given them a holiday at the factory.",
+      "target_person": "friend",
+      "target_gender": "unclear",
+      "cause_raw": "being challenged",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p268_bolly",
+      "emotion": "pride",
+      "dialogue": "I have only given him love till now. But now I will show him what a woman's wrath is. He's so proud of the formula of this new discovery! I'll shatter his pride! But that formula was already given to those crooks to save me.",
+      "target_person": "he",
+      "target_gender": "male",
+      "cause_raw": "scientific discovery",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p269_bolly",
+      "emotion": "pride",
+      "dialogue": "But now I will show him what a woman's wrath is. He's so proud of the formula of this new discovery! I'll shatter his pride! But that formula was already given to those crooks to save me. That wasn't the real one. It was a fake!",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "Deception",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

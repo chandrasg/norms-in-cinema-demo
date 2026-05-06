@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "10449",
+    "title": "When a Man Loves a Woman",
+    "year": "1994",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/cA1uMNX3sdWAWfMZbsgm1VIJYSY.jpg",
+    "overview": "An airline pilot and his wife are forced to face the consequences of her alcoholism when her addictions threaten her life and their daughter's safety. While the woman enters detox, her husband must face the truth of his enabling behavior."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Alcoholism",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS319_holly",
+      "emotion": "shame",
+      "dialogue": "if you can see past all the frozen waffles.  - The kids like 'em now. - Ah. Oh. \"Now. \"  The post shameful incarceration era.  That's what we like to call it.  Sorry.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "changing food habits",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS320_holly",
+      "emotion": "shame",
+      "dialogue": "I couldn't stop getting drunk.  It had never really happened quite like that, and I still don't know why.  I've lied to everyone that I know... everyone I love, and, uh... I was ashamed and terrified and humiliated every day.  I was ashamed and terrified and humiliated every day.  Uh, one day I... got out of the shower... grabbed a towel and decided to go get the paper.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "lying and alcoholism",
+      "theme_label": "Alcoholism"
+    },
+    {
+      "dialogue_id": "WS321_holly",
+      "emotion": "shame",
+      "dialogue": "It had never really happened quite like that, and I still don't know why.  I've lied to everyone that I know... everyone I love, and, uh... I was ashamed and terrified and humiliated every day.  I was ashamed and terrified and humiliated every day.  Uh, one day I... got out of the shower... grabbed a towel and decided to go get the paper.  grabbed a towel and decided to go get the paper.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "lying to loved ones",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WS322_holly",
+      "emotion": "shame",
+      "dialogue": "Really listening.  And that's how I left her alone.  I'm so ashamed of that... and I couldn't even tell her.  and I couldn't even tell her.  Maybe if I tell her, she'd love me anyway.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "leaving someone alone and not communicating",
+      "theme_label": "Betrayal"
+    }
+  ]
+}

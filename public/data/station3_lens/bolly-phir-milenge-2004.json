@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "161214",
+    "title": "Phir Milenge",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5W3BAwtHLgCkoXxg2bt5YzYoXup.jpg",
+    "overview": "Tamanna Sahni (Shilpa Shetty) is a dedicated staff member of a top advertising agency, her ideas and designs have mainly contributed to the success of the agency. She leaves for a college reunion and meets her college sweetheart Rohit (Salman Khan). They rekindle their love for each other and share some intimate moments together. Eventually Rohit leaves and Tamanna settles back into her normal daily routine. When her sister, Tanya, has an accident she decides to give her own blood to save her. However her doctor, Dr. Raisingh (Revathi), tells her that she has been tested positive for HIV. Tamanna's world turns upside down and she desperately tries to get into contact with Rohit but in vain. Her situation is soon spread around the office and she loses her job. Angered by her unfair dismissal she searches for a lawyer to fight her case. Eventually Tarun Anand (Abhishek Bachchan) agrees to represent her..."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1364_bolly",
+      "emotion": "shame",
+      "dialogue": "She loves you so dearly and can't bear to see you sad. And this is the song she dedicates to you 'Smile.....and let grief be ashamed.' 'Let the raindrops make a gentle patter as they descend to the ground.' 'It's what the breeze says",
+      "target_person": "grief",
+      "target_gender": "unclear",
+      "cause_raw": "causing sadness",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s1365_bolly",
+      "emotion": "shame",
+      "dialogue": "Do you have a car? - Yes. Can I borrow it? My car broke down Tarun! - Please. - You are shameless. Tarun, get up. Coffee.",
+      "target_person": "Tarun",
+      "target_gender": "male",
+      "cause_raw": "Asking for favors/borrowing",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "p727_bolly",
+      "emotion": "pride",
+      "dialogue": "You also gave her a share in the profits of your company. Right? From the profits I made from clients...who were impressed with Tamanna's work..I paid Tamanna 20 per cent of the profits. Which means you had made no mistake by making Tamanna Sahni an offer.....to work with you? - Certainly not. I was proud of her work. But then, Tamanna turned over-confident. If she wished, she could have been far more successful.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Tamanna's work",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p728_bolly",
+      "emotion": "pride",
+      "dialogue": "Because unless we do that.....they will be scared, and they will hide from society. They will conceal their ailment. And HIV will continue to spread. Tamanna Sahni is my friend. And I'm extremely proud of her. I'll stand by her come what may. Today, I besiege you, the lawmakers of this land to do the same.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "supporting a friend with HIV",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

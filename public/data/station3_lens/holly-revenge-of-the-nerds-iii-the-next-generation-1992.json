@@ -1,0 +1,99 @@
+{
+  "film": {
+    "id": "18543",
+    "title": "Revenge of the Nerds III: The Next Generation",
+    "year": "1992",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ql88TgCS7cA6gxts2LOKIqeQ1Ug.jpg",
+    "overview": "The nerds are now in control of the university, as a result of Lewis Skolnick and the rest's actions in the two previous movies. A new generation of sportsmen arrive, however, determined on winning the school back. The principle, himself an ex-nerd fighter, helps them, and the nerds return to suppression. Harold Skolnick needs help from his uncle Lewis, the hero of the first two movies. Lewis, however, are not too proud of his nerd past, and won't reveal any of it, much less help his nephew. However, his wife makes him change his mind, and with help from his friends from the first two movies, they start the fight to win the school back, using classic nerd tricks."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 5
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 5,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1405_holly",
+      "emotion": "shame",
+      "dialogue": "and fix up our house real nice like the Tri-Lambs.  I can't believe I'm hearing this. Dad, what happened to your fraternity?  I never thought I'd see the day that I'd be ashamed to be an Alpha Beta.  Me too. Stan Gable, class of '80.  Orrin Price, '60.",
+      "target_person": "Alpha Beta fraternity members",
+      "target_gender": "male",
+      "cause_raw": "not maintaining fraternity standards",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP2484_holly",
+      "emotion": "pride",
+      "dialogue": "Butterfly?  [Giggles]  I can't believe your Uncle Lewis isn't proud of his past.  Don't be ridiculous, Ira. He's just a grown-up now. That's all.  He was one of the founding fathers of Lambda Lambda Lambda.",
+      "target_person": "Uncle Lewis",
+      "target_gender": "male",
+      "cause_raw": "being one of the founding fathers of Lambda Lambda Lambda",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2485_holly",
+      "emotion": "pride",
+      "dialogue": "Harold Skolnick.  [Cooing]  It is with great pride and joy... I declare you are now officially... Lambda Lambda Lambdas.  Lambda Lambda Lambdas.  - We did it! - [All Cheering]",
+      "target_person": "Harold Skolnick",
+      "target_gender": "male",
+      "cause_raw": "becoming a Lambda Lambda Lambda",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2486_holly",
+      "emotion": "pride",
+      "dialogue": "The uncle I always loved and admired...  was a great warrior for nerd rights.  I was proud to have his Skolnick blood running through my veins.  His name wasn't Lew.  It was Lewis. Lewis Skolnick.",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "being a great warrior for nerd rights",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2487_holly",
+      "emotion": "pride",
+      "dialogue": "My name is Lewis Skolnick... and I'm chairman... - [Volume Increases] - Of the computer science department at Adams College.  - [Volume Increases] - Of the computer science department at Adams College.  I'm a nerd, and I'm proud of it.  Get your campus cops down to the radio station and get that moron off the air.  My fellow nerds... we are facing the greatest challenge we have ever faced-",
+      "target_person": "Lewis Skolnick",
+      "target_gender": "male",
+      "cause_raw": "being a nerd and chairman of the computer science department",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2488_holly",
+      "emotion": "pride",
+      "dialogue": "No.  I don't want it like that, Betty.  Believe it or not, I still have a little pride left.  - [Woman] Come over here. Did you get that? - [Crowd Chattering]  Mr. Dawson, any more nose-picking... and I'll hold you in contempt.",
+      "target_person": "Betty",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2489_holly",
+      "emotion": "pride",
+      "dialogue": "[Malcolm] Congratulations.  - Oh, man. [Sighs] - Oh! Oh!  Stan, I am so proud of you.  Oh, it feels so great to come out of the closet.  I have always had these feelings ever since I was a little kid.",
+      "target_person": "Stan",
+      "target_gender": "male",
+      "cause_raw": "coming out of the closet",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

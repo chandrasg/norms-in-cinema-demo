@@ -1,0 +1,94 @@
+{
+  "film": {
+    "id": "501099",
+    "title": "Do Premee",
+    "year": "1980",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/oekBPUpAVDGMF7DOEMLSFiE9nk0.jpg",
+    "overview": "Young Chetan Prakash and beautiful Payal are in love and would like to marry each other. Their respective fathers, Daulatram and Retired Col. Bhagwant Singh, have other plans and want them to marry the spouses of their choice. So Chetan and Payal decide to elope, and marry on the run. Bhagwant Singh advertises in the newspapers for his missing daughter, and offers a handsome reward for her return. Chetan finds a job as a chauffeur, and Payal works as a maid in a house, and they become absorbed in their daily chores, not realizing that their employer, Geeta, is under the power and influence of a gangster named Shivlal, who operates a religious sect under the name of Mahayogi, and who has a gas chamber that he uses to kill people who disagree with him."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 3
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 4
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5079_bolly",
+      "emotion": "shame",
+      "dialogue": "He has gone. Go and change your clothes. How can I change clothes in your presence? Why are you ashamed of me? Chetan! Uncle, greetings.",
+      "target_person": "Chetan",
+      "target_gender": "male",
+      "cause_raw": "feeling uncomfortable to change clothes in someone's presence",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s5080_bolly",
+      "emotion": "shame",
+      "dialogue": "Uncle, greetings. Come, daughter come. - Is Payal at home? Payal has gone with her friend Shameem to the lake. Shameem? - Yes. I am Shameem!",
+      "target_person": "Payal",
+      "target_gender": "female",
+      "cause_raw": "Being with a male friend",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s5081_bolly",
+      "emotion": "shame",
+      "dialogue": "Come, daughter come. - Is Payal at home? Payal has gone with her friend Shameem to the lake. Shameem? - Yes. I am Shameem! I am tired of these secret meetings.",
+      "target_person": "Payal",
+      "target_gender": "female",
+      "cause_raw": "secret meetings with Shameem",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s5082_bolly",
+      "emotion": "shame",
+      "dialogue": "Payal has gone with her friend Shameem to the lake. Shameem? - Yes. I am Shameem! I am tired of these secret meetings. Till when will we keep meeting next to this well?",
+      "target_person": "Payal and Shameem",
+      "target_gender": "female",
+      "cause_raw": "secret meetings/relationship",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s5083_bolly",
+      "emotion": "shame",
+      "dialogue": "Mother, please fill the water, why are you standing on my head? See. You are January 1980. Mother.. aren't you ashamed, you are....standing here and hearing what we say? You are embarrassing us. You should know....that we are young lovers, we have some problems....we are about to be married soon..You are about to be married? Daddy..Uncle.. you.. - Bhagwan.. Pistol..Yes.. I will give it to you right away..No, not there.",
+      "target_person": "Mother",
+      "target_gender": "female",
+      "cause_raw": "Intruding in personal matters",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "p2862_bolly",
+      "emotion": "pride",
+      "dialogue": "College picnic? What picnic? You won't go. Daddy. Please daddy. Everyone is going. And if I don't go, all will think that I am very proud. Please.. daddy.. - Okay go. Oh! Daddy, so sweet.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

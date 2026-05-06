@@ -1,0 +1,146 @@
+{
+  "film": {
+    "id": "304191",
+    "title": "Dharti",
+    "year": "1970",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/5i1Nu9HbDdePhU19nHTqDta5bDA.jpg",
+    "overview": "Bharat (Rajendra Kumar) is a patriotic young man for whom patritism does not stop anywhere. He comes to know of the tyrancy of the present ruler's Diwan (Ajit) and he and his colleagues (Soodesh Kumar, Rajendra Nath) rebel. They kidnap Princess Chitralekha (Waheeda Rehman) unknowingly, and call her Jwala. Meanwhile, Bharat's dad (Balraj Sahni) who is the Inspector General, does not approve of Bharat's rebellious nature and decides to arrest him on sight. Bharat's mom (Kamini Kaushal) is torn between the love for her husband and her son. Bharat determination against the Diwan is so strong that he decides to bomb-blast a railway train transporting the Diwan, knowingly that his own dad is also travelling on that train. Will Bharat break his mom's heart by killing his dad and the Diwan? Good acting scores by the entire caste make this movie worth watching. Lyrics by Indivar."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 2
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1083_bolly",
+      "emotion": "shame",
+      "dialogue": "Look into my eyes. See these tears. These aren't tears of sympathy for you. But tears of shame. And you're responsible for them! Before the shame dries in my eyes..Tell me who was with you!",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "causing shame to the speaker",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1084_bolly",
+      "emotion": "shame",
+      "dialogue": "But tears of shame. And you're responsible for them! Before the shame dries in my eyes..Tell me who was with you! Don't be soft. This is her punishment. Count to three. If she won't answer, silence her for good.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "infidelity or dishonesty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s1085_bolly",
+      "emotion": "shame",
+      "dialogue": "Look into my eyes. You'll see your mother in these eyes too! But you have neither the courage nor the shame. He who disrobes the motherland can....have no esteem for its' daughter! Step forward.",
+      "target_person": "character being addressed",
+      "target_gender": "male",
+      "cause_raw": "disrespecting motherland and its women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1086_bolly",
+      "emotion": "shame",
+      "dialogue": "He who disrobes the motherland can....have no esteem for its' daughter! Step forward. I have no shame in standing naked before my children. Zaalim Singh, go ahead. And rip the old woman's clothes to shreds!",
+      "target_person": "Zaalim Singh",
+      "target_gender": "male",
+      "cause_raw": "Disrespecting women and the motherland",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p550_bolly",
+      "emotion": "pride",
+      "dialogue": "It's an honour to all of Portugal To strengthen our friendship my country can help yours. It would be a matter of pride for....us to extend a hand of friendship You can give a little land to us to build a military base. My country will make Basantpur a great nation.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Helping another country",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p551_bolly",
+      "emotion": "pride",
+      "dialogue": "Mr. Bharat, son of inspector General of police....in the state of Basantpur in India.. From Basantpur? What a man! He's the pride of our nation. Is that Bharat who stood first in the university this year? These days he's most talked about.",
+      "target_person": "Bharat",
+      "target_gender": "male",
+      "cause_raw": "Academic achievement",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "p552_bolly",
+      "emotion": "pride",
+      "dialogue": "Yes but how did you know? Who doesn't'? Every paper carries your picture and news. Your success is a matter of great pride for me. Pardon me? I'm from Basantpur. -Really?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "success of someone from their hometown",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p553_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm in love with you, oh my god My heart is restless. Eyes are proud that my heart is out for you Mine is the voice from the heart Mine is the voice from the heart",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "love for someone",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p554_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm in love with you, oh my god My heart is restless. Eyes are proud that my heart is out for you My heart is out for you, oh my god. Will Jwala survive? -There's no such risk.",
+      "target_person": "Eyes",
+      "target_gender": "unclear",
+      "cause_raw": "being in love",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p555_bolly",
+      "emotion": "pride",
+      "dialogue": "We gave you the pistol only to check you out. Brother, forgive us. Also forgive Jwala. We are proud of you. Shankar. Ranjit. Forgive me. -I never expected this from you.",
+      "target_person": "Shankar",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

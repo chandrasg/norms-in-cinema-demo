@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "71864",
+    "title": "The Odd Life of Timothy Green",
+    "year": "2012",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/24HWf4QBnEbNYDJfNFR1CmwtST5.jpg",
+    "overview": "A childless couple bury a box in their backyard, containing all of their wishes for an infant. Soon, a child is born, though Timothy Green is not all that he appears."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS337_holly",
+      "emotion": "shame",
+      "dialogue": "Yes. Our son, Timothy, has leaves on his legs.  And we didn't tell you guys because we were afraid.  And kind of ashamed.  I even tried to cut his leaves off.  Surely you don't expect us to believe that...",
+      "target_person": "Timothy's parents",
+      "target_gender": "unclear",
+      "cause_raw": "having a child with unusual physical characteristics",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP743_holly",
+      "emotion": "pride",
+      "dialogue": "And us, but mostly you.  Hey.  - We were proud of you. - Mmm-hmm.  Turn the lights off in five, okay?  Good night!",
+      "target_person": "us",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP744_holly",
+      "emotion": "pride",
+      "dialogue": "But allow me to introduce you to who did.  My son, Franklin Crudstaff.  I can't begin to describe the feeling of pride I have.  Quite frankly, Franklin,  I didn't think you had it in you.",
+      "target_person": "Franklin Crudstaff's parent",
+      "target_gender": "male",
+      "cause_raw": "Franklin's unspecified achievement",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

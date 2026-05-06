@@ -1,0 +1,56 @@
+{
+  "film": {
+    "id": "38724",
+    "title": "Some Came Running",
+    "year": "1958",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/oFivW0sMerjzWmC6GI8axAfc5xy.jpg",
+    "overview": "A former novelist returns to his small Midwest town after serving in the Army during WWII, to the chagrin of his social-climbing brother, and becomes close with an easy-going professional gambler and torn between two very different women."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1103_holly",
+      "emotion": "pride",
+      "dialogue": "I will not have him in my house.  But, Agnes, he's my brother.  Don't you have any pride?  After he comes here and deliberately humiliates you?  And that... All that slop he wrote about me in his book.",
+      "target_person": "Agnes",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1104_holly",
+      "emotion": "pride",
+      "dialogue": "If you could just see yourself.  A good morning to you, sir.  That was nice going, Dave. I'm real proud of you.  One day in town, just one day... ...and you're picked up in a drunken brawl with a floozy and tossed into jail... ...like a common hoodlum. - I know all about it, Frank.  ...like a common hoodlum. - I know all about it, Frank.",
+      "target_person": "Frank",
+      "target_gender": "male",
+      "cause_raw": "Dave's good performance",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1105_holly",
+      "emotion": "pride",
+      "dialogue": "- Congratulations. - Thanks.  But we owe it all to Gwen. Where is she?  You have every reason to be enormously proud, dear Dave.  Have you told her I've been phoning?  I'm afraid she won't be with us this evening.",
+      "target_person": "Dave",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

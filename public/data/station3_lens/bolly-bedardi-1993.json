@@ -1,0 +1,58 @@
+{
+  "film": {
+    "id": "529217",
+    "title": "Bedardi",
+    "year": "1993",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/aUpU1X4yYpqjzEefl4QSLluAjXC.jpg",
+    "overview": "Mumbai-based Saxena family consists of Professor Nirbhay, his wife Preeti, their school-going daughter Ritu and Nirbhay's college-going brother and sister, Vijay and Suman respectively. Vijay meets with fellow collegian Honey, and after a few altercations, they fall in love with each other. Vijay is introduced to Honey's maternal uncle, Bhagwandas, and he approves instantly. Honey's long-estranged brother, Kanhaiya, re-enters her life and asks her not to see Vijay anymore. Then the lives of the entire Saxena family change drastically when money allotted for Suman's marriage is stolen, and Vijay accepts a contract to kill a man named Gulla - not knowing that he is being set up to kill none other than Nirbhay himself."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s474_bolly",
+      "emotion": "shame",
+      "dialogue": "Attack him! Brother! - What do they think of themselves? - Height of being shameless! - Brother, you are bleeding. You go to college. Kanhaiya.",
+      "target_person": "Kanhaiya",
+      "target_gender": "male",
+      "cause_raw": "Being attacked/physical harm",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p208_bolly",
+      "emotion": "pride",
+      "dialogue": "I love you Vijay. There is no need, a person in love can understand silence. But if you wish to descend from the peak of your pride..and say the same thing with love, it will be sufficient. So this was planned by you? You will never give up, will you?",
+      "target_person": "Vijay",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p209_bolly",
+      "emotion": "pride",
+      "dialogue": "So this was planned by you? You will never give up, will you? Stop this nonsense! A truth which you want to say..is stopped by your false pride. And the truth is that you love me! - Listen, Vijay.. - Shut up, don't take my name!",
+      "target_person": "Vijay",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "71301",
+    "title": "Laawaris",
+    "year": "1981",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/pXe5nIyi5hJhSvjb7CVLVl3KL4O.jpg",
+    "overview": "Left in the care of an alcoholic Gangu Ganpat, young Heera, who named himself after a stray dog, wrestles with life in his young age. Years later, now a young man , he works for Mahendar Singh and is in love with Mohini, who will not have anything to do with him due to his lack of ancestry. Heera is now determined to find out who his parents are, and the only one who can help him is the elusive, alcohol-induced and incoherent Gangu Ganpat."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3249_bolly",
+      "emotion": "shame",
+      "dialogue": "And this one is supposedly  my lawyer friend. You had come to steal  my will  ? This is it. Take it. - I'm really  sorry. - Now you will really  feel  ashamed. When your daughter, who is present here......learns about this and will hate you as much as I hate my son. Please  forgive me.",
+      "target_person": "lawyer friend",
+      "target_gender": "male",
+      "cause_raw": "attempted theft",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "p1717_bolly",
+      "emotion": "pride",
+      "dialogue": "Father?...did you ruin a   village and render these poor men  homeless? - Father,   actually... - You're  unnecessarily rebuking him. You ought to be proud of him. You can't even imagine what he has done. He has promised them robust houses in  place of their  dilapidated huts.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "promising better housing",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1718_bolly",
+      "emotion": "pride",
+      "dialogue": "Who comes to bite you the moment she opens her mouth. What are you saying? But your  milk teeth haven't   fallen as yet...And remember, one can  talk big  only if one is big. A  homeless person has nothing to feel proud about. - Pardon? - Yes. If your father has got the money, flaunt it around.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "wealth",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p1719_bolly",
+      "emotion": "pride",
+      "dialogue": "And what do I do with a   helpless father who can't even own his son. My father Gangu was better. At least he  would call me son when drunk. Even I  could  proudly say that yes, he is my father. In that case, I swear by our love. I won't even by mistake ever mention your father's name.",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "having a father who acknowledges him",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

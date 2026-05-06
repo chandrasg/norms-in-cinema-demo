@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "74067",
+    "title": "Pyar Kiye Jaa",
+    "year": "1966",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ksKLcSHc0RPmg7aFXTtPhbCDPMb.jpg",
+    "overview": "Widower Ramlal lives a wealthy lifestyle near Poona, India along with two daughters and a son. His daughter, Malti, is a Science Graduate; Nirmala, a matriculate, and the son, Atma, who wants his dad to finance a Hindi film which he himself will produce under the banner of 'Wah Wah Productions'"
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1511_bolly",
+      "emotion": "shame",
+      "dialogue": "Ramlal Ramlal Shameless! - Have some shame...\"Shameless.\" - \"Have some shame.\" Where are you running off too? Look at me at least... drown in a thimble full of water!",
+      "target_person": "Ramlal",
+      "target_gender": "male",
+      "cause_raw": "Disrespectful behavior",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1512_bolly",
+      "emotion": "shame",
+      "dialogue": "Everything! Why are you standing? Sit down! Why are you embarrassing me? How can I sit in your presence?...Fie on my birth if I do so! Sir...I think... That the son of such a great man......was employed at my place. I feel proud sometimes......and sometimes, I am so ashamed! Ramlal... this has happened due to Ashok's childishness. Call it childishness or his youthfulness.",
+      "target_person": "Ashok",
+      "target_gender": "male",
+      "cause_raw": "Disrespectful behavior towards elders",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s1513_bolly",
+      "emotion": "shame",
+      "dialogue": "That is what I think too. But it isn't late now. Ramlal... - Yes? - Why are you standing, sit down. Sir, how can I sit in your presence? I feel ashamed. Sit down. - I feel ashamed. Sit down!",
+      "target_person": "Ramlal",
+      "target_gender": "male",
+      "cause_raw": "feeling inferior",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s1514_bolly",
+      "emotion": "shame",
+      "dialogue": "Ramlal... - Yes? - Why are you standing, sit down. Sir, how can I sit in your presence? I feel ashamed. Sit down. - I feel ashamed. Sit down! Ramlal, you must have heard the......name of the king of Govind Nagar?",
+      "target_person": "Ramlal",
+      "target_gender": "male",
+      "cause_raw": "feeling inferior due to social status",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "p804_bolly",
+      "emotion": "pride",
+      "dialogue": "Everything! Why are you standing? Sit down! Why are you embarrassing me? How can I sit in your presence?...Fie on my birth if I do so! Sir...I think... That the son of such a great man......was employed at my place. I feel proud sometimes......and sometimes, I am so ashamed! Ramlal... this has happened due to Ashok's childishness. Call it childishness or his youthfulness.",
+      "target_person": "Ramlal",
+      "target_gender": "male",
+      "cause_raw": "Employing the son of a great man",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

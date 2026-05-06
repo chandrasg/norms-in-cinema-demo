@@ -1,0 +1,93 @@
+{
+  "film": {
+    "id": "828763",
+    "title": "Plans for Love",
+    "year": "2021",
+    "industry": "bolly",
+    "country": "FR",
+    "poster_path": "/wLRkSixGwRIC7aO0oNsmKvaatKS.jpg",
+    "overview": "After 20 years of living together, Carine, Fabrice and their son have a well-ordered daily life. While Carine is restricted to household chores, Fabrice watches TV all the time, each in their own space, their eyes no longer meet."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 4
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1416_bolly",
+      "emotion": "shame",
+      "dialogue": "The action came later. But that guy shat the moment he saw Moosa-bhai I have a question, brother. Everyone's so scared of you...They call you a thug and a gangster. Don't you ever feel bad about it? What's what, what's shame...?It's a game for name What's what, what's shame...?\"It's a game for name, it's all about making a name\" I have a bad name. Yet, I have all the fame",
+      "target_person": "Moosa-bhai",
+      "target_gender": "male",
+      "cause_raw": "being called a thug and a gangster",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1417_bolly",
+      "emotion": "shame",
+      "dialogue": "I have a question, brother. Everyone's so scared of you...They call you a thug and a gangster. Don't you ever feel bad about it? What's what, what's shame...?It's a game for name What's what, what's shame...?\"It's a game for name, it's all about making a name\" I have a bad name. Yet, I have all the fame That which clashes against me, is a fallen wall",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "being a thug and a gangster",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1418_bolly",
+      "emotion": "shame",
+      "dialogue": "That which clashes against me, is a fallen wall Bully, I'm the bully What's what, what's shame...?It's a game for name This city belongs to me. The lanes are all mine Everyone says these buildings are all mine",
+      "target_person": "city residents",
+      "target_gender": "unclear",
+      "cause_raw": "bullying and dominance",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s1419_bolly",
+      "emotion": "shame",
+      "dialogue": "Whoever shakes hands with me, has his life made Bully, I'm the bully What's what, what's shame...?It's a game for name I have a bad name. Yet, I have all the fame I'm the one who rules the roost, my tentacles spread far and wide",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "having a bad reputation",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1420_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm the one they make a beeline for Bully, I'm the bully What's what, what's shame...?\"It's a game for name, it's all about making a name\" I had a bad name. Yet, I have all the fame Bully, I'm the bully",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "having a bad reputation",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p748_bolly",
+      "emotion": "pride",
+      "dialogue": "Jai, that I'm a pimp is the bitter truth You guys tell me what wrong I'm doing People in the village respect me, my mother's proud of me Ask him, I got a house built in the village...\"I bought a bike for my kid brother, got my kid sister married...\"what else does one need in life? The moral of the story is...the goat is slain because people eat it up Why blame the poor butcher?",
+      "target_person": "pimp's mother",
+      "target_gender": "female",
+      "cause_raw": "son's financial success",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

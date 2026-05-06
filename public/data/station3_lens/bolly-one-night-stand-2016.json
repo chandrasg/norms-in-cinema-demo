@@ -1,0 +1,89 @@
+{
+  "film": {
+    "id": "396389",
+    "title": "One Night Stand",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/A0CExJQZRf8CWDLPGSywTTHLeZl.jpg",
+    "overview": "An obsession with a woman Celina with whom Urvil had a one-night stand brings disharmony into hiss life and destroys his peace of mind."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1233_bolly",
+      "emotion": "shame",
+      "dialogue": "Since he's seen her so closely. Right, Urvil. Don't you feel ashamed talking like this? And don't you guys have work to do. Get back to work.",
+      "target_person": "Urvil",
+      "target_gender": "male",
+      "cause_raw": "inappropriate comments about a woman",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1234_bolly",
+      "emotion": "shame",
+      "dialogue": "Wants to make it big like me. Take care of them. He didn't feel ashamed doing it....and I should feel ashamed saying it. Hello. - Hello. Celina..sorry I overreacted.",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "overreaction or inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1235_bolly",
+      "emotion": "shame",
+      "dialogue": "Come, son. Let's go. - Yes, grandpa. Alright. Don't you dare? Aren't you ashamed? In my room, my bedroom. Exactly. Don't you see the beauty of it?",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior in a private space",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "p646_bolly",
+      "emotion": "pride",
+      "dialogue": "I'll be up. Look, Urvil. I am really proud of you that you're so efficient..You called me here to say this? Seriously? Can I talk? - Speak. Everything that's been happening in your and Simran's life....does it have anything to do with your recent trip?",
+      "target_person": "Urvil",
+      "target_gender": "male",
+      "cause_raw": "efficiency",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p647_bolly",
+      "emotion": "pride",
+      "dialogue": "Is it that I did it, or because I got away with it? What are you so arrogant about? The husband you're so proud of....I would love to see his face when I tell him everything. Blackmail..Is that all you have? What will happen when you tell him?",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "husband's achievements",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

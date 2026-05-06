@@ -1,0 +1,130 @@
+{
+  "film": {
+    "id": "543693",
+    "title": "Jabariya Jodi",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/qibn9VfTUiDExrkxb2X3MZRABe0.jpg",
+    "overview": "Abhay Singh runs a syndicate of kidnapping greedy grooms, who demand dowry in Bihar’s Madhopur. He then, forcefully marries them off to the girl, calling it a ‘surprise party’. But when his childhood sweetheart Babli re-enters his life, he must choose between love and his long-term ambitions."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 3
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2668_bolly",
+      "emotion": "shame",
+      "dialogue": "You look cute even when you are scared, Mr. Singh. So what is your opinion about your son-in-law? Shameless. You and that boy as well. You...I...Duniya Lal...You make me want to slap you.",
+      "target_person": "Mr. Singh",
+      "target_gender": "male",
+      "cause_raw": "being scared",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2669_bolly",
+      "emotion": "shame",
+      "dialogue": "But now you're putting my decency to test by roaming around with a goon in the middle of the night. Shameless! You will marry whoever I tell you to. How is your son-in-law?",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "associating with a man deemed inappropriate",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2670_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't pull up the mosquito net, beloved because its very hot. It's so hot and you don't stop being shameless. Let me turn up the AC because it's really hot. My beloved, don't go to the river bank.",
+      "target_person": "beloved",
+      "target_gender": "unclear",
+      "cause_raw": "being shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2671_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't pull up the mosquito net, beloved because it's very hot. It's so hot and you don't stop being shameless. Let me turn up the AC because it's really hot. Don't pull up the mosquito net, beloved",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "being shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s2672_bolly",
+      "emotion": "shame",
+      "dialogue": "Don't pull up the mosquito net, beloved because its very hot. It's so hot and you don't stop being shameless. Let me turn up the AC because it's really hot. Don't pull up the mosquito net, beloved",
+      "target_person": "beloved",
+      "target_gender": "unclear",
+      "cause_raw": "being shameless",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p1386_bolly",
+      "emotion": "pride",
+      "dialogue": "I've added the smile. Looks bomb. Sometimes I feel really proud of you. I always thought I am doing a good deed but suddenly I realised what crime I was committing.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1387_bolly",
+      "emotion": "pride",
+      "dialogue": "and tell her what love is. Congratulations. You are going to have a boy and he will make you proud. Here you go. - Wait, Babu. You won't take this money if I have a girl?",
+      "target_person": "Babu",
+      "target_gender": "male",
+      "cause_raw": "having a boy",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1388_bolly",
+      "emotion": "pride",
+      "dialogue": "You see Babli, brother has sent a message that he cannot come to your wedding. I see...What happened? He proudly said that he will come to the wedding. True. But one can't leave his wedding.",
+      "target_person": "brother",
+      "target_gender": "male",
+      "cause_raw": "attending sibling's wedding",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p1389_bolly",
+      "emotion": "pride",
+      "dialogue": "Say yes...Abhay Singh! I knew it...Your focus has shifted from your goal to Love. You just ruined a lifetime of honour and pride. You tried to be the wise guy after all. Guddu, kill that lass...The name is Babli.",
+      "target_person": "Abhay Singh",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "film": {
+    "id": "10152",
+    "title": "Dumb and Dumberer: When Harry Met Lloyd",
+    "year": "2003",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/qxD6P3UXASFCdbrVavceZzgOfI9.jpg",
+    "overview": "This wacky prequel to the 1994 blockbuster goes back to the lame-brained Harry and Lloyd's days as classmates at a Rhode Island high school, where the unprincipled principal puts the pair in remedial courses as part of a scheme to fleece the school."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2129_holly",
+      "emotion": "pride",
+      "dialogue": "You're a good kid, Lloyd.  And good looking, too.  You make a father proud.  - Thanks, Pop. - Okay, now let me finish--  Dad, watch the ears.",
+      "target_person": "Pop",
+      "target_gender": "male",
+      "cause_raw": "his son's good nature and looks",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP2130_holly",
+      "emotion": "pride",
+      "dialogue": "Actually, it's meatloaf, but you just put everything in your soup.  I Iike it a lot.  Harry, I am so proud of you making a real friend.  Is it okay if he spends the night?  - LIoyd, have you asked your parents? - I Ieft my dad a note.",
+      "target_person": "Harry's friend",
+      "target_gender": "male",
+      "cause_raw": "making a real friend",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2131_holly",
+      "emotion": "pride",
+      "dialogue": "For our specially needy class!  - They're perfect. - Mm-hmm.  Well, you should all be very proud of yourselves.  You are the pioneers here at Providence Hill High,  the very first special needs class.",
+      "target_person": "all",
+      "target_gender": "unclear",
+      "cause_raw": "being the first special needs class at Providence Hill High",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2132_holly",
+      "emotion": "pride",
+      "dialogue": "So why don't you give the tour twice, and speak slowly?  - Oh, we don't take tips here. - Oh, sure you do.  I know you don't make much. Don't be proud.  Don't be proud. It's going away. It's going away.  It's going away. It's okay. That's what I thought.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2133_holly",
+      "emotion": "pride",
+      "dialogue": "- Oh, we don't take tips here. - Oh, sure you do.  I know you don't make much. Don't be proud.  Don't be proud. It's going away. It's going away.  It's going away. It's okay. That's what I thought.  - That's what I thought. - Okay.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

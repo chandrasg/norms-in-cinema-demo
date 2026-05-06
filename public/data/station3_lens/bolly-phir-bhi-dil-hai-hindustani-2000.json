@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "97351",
+    "title": "Phir Bhi Dil Hai Hindustani",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/7VvNZVMbUcxwfdLZlUSZnKFYu0p.jpg",
+    "overview": "Two rival reporters team up to help prove the innocence of a man set to be hanged for the murder of a politician."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1359_bolly",
+      "emotion": "shame",
+      "dialogue": "Couldn't tell who opened fire, could we? I'm glad Mr Gupta has survived... - I don't want to talk to you! Not after what you did today! Aren't you ashamed to bring thugs...l was ashamed, all right. You must also have been, to send all those girls to the restaurant. May I drop you home? - What for?",
+      "target_person": "Mr Gupta",
+      "target_gender": "male",
+      "cause_raw": "associating with thugs",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s1360_bolly",
+      "emotion": "shame",
+      "dialogue": "And this woman here... must be aunt Farida, right? Yes! Shameless man! You call your girlfriends Shahid's aunts! How can you say such things, riya? Aunts are like mothers... and you call them my girlfriends!",
+      "target_person": "Shahid",
+      "target_gender": "male",
+      "cause_raw": "having multiple girlfriends",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "p726_bolly",
+      "emotion": "pride",
+      "dialogue": "You mean you will sell the news coverage to my enemy, Kaka?! We'll have to, sir. Ajay Bakshi was there, when I did the interview. Forget your false pride, Kaka! This episode involves millions! Millions?! Really? - Absolutely! So I'll  suppress my ego!",
+      "target_person": "Kaka",
+      "target_gender": "male",
+      "cause_raw": "suppress ego for financial gain",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

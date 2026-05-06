@@ -1,0 +1,81 @@
+{
+  "film": {
+    "id": "528368",
+    "title": "Karishma Kudrat Kaa",
+    "year": "1985",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/kqirmlmsRLfbZ1ELqotR3OSzzZo.jpg",
+    "overview": "Widower Vijay lives in a village with his family. He unwittingly makes an enemy in Lala and a bandit, Bhagad, who conspire and throw him out of the village. But Vijay soon returns as a changed man."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3000_bolly",
+      "emotion": "shame",
+      "dialogue": "Are you Baggar Singh? I heard you were too brave but you turned out to be a coward. Didn't you feel ashamed to shoot a little boy? He was the only support to his mother, that dumb boy. Now what is she going to do? Go drown yourself.",
+      "target_person": "Baggar Singh",
+      "target_gender": "male",
+      "cause_raw": "cowardice and causing harm to a child",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3001_bolly",
+      "emotion": "shame",
+      "dialogue": "The whole village knows that I am a well......cultured and respected man. Forget about touching a girl, I've never starred at a girl. And you are accusing me of this thing. You should be ashamed. This means my sister is lying? - Your sister is lying. She made love with some other guy in the passion of youth.",
+      "target_person": "accuser's sister",
+      "target_gender": "female",
+      "cause_raw": "false accusation and promiscuity",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "p1549_bolly",
+      "emotion": "pride",
+      "dialogue": "Had I not been a servant of law. I would have killed you in such a way that though......I would have been hanged till death. But all the brothers in this world would......have raised their heads with pride. 'Enmity with Karan can turn out to be expensive to you.' 'He can even put you in jail. The best thing is to save yourself.'",
+      "target_person": "Karan",
+      "target_gender": "male",
+      "cause_raw": "standing up against enemies",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1550_bolly",
+      "emotion": "pride",
+      "dialogue": "He is a demon. He is a devil. Karan, it is easy to do sins. But very hard to wash away your sins. I'll be proud to marry a man like you. Don't think so much, Karan. Just put your hands forward. Put this vermilion in my scalp and make me a married woman.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "marrying a man like Karan",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "film": {
+    "id": "159637",
+    "title": "Deewana Mujh Sa Nahin",
+    "year": "1990",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/fLjOCzCuSjbrnnsdZ6Aev1QcJ6Z.jpg",
+    "overview": "Anita (Madhuri Dixit) is a model, and Ajay Sharma is a photographer, both work for the same agency. Ajay has fallen in love with Anita, and thinks that she is also in love with him. But Anita only takes him for a friend. She gets engaged to Vikram (Jainendra), and the marriage is to take place soon. Ajay still believes that Anita loves him, and he also starts making preparation for his marriage with Anita. Anita must now take appropriate steps to stop Ajay's obsession with her, before the matter gets out of hand."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Invasion of Privacy",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s985_bolly",
+      "emotion": "shame",
+      "dialogue": "Hi. Sorry, I'm late. I'll just come in five minutes. Ok? Turn away. Shameless. Move. Can't you see that I'm bathing? What are you looking at? Aren't you ashamed?",
+      "target_person": "character intruding",
+      "target_gender": "female",
+      "cause_raw": "invading privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s986_bolly",
+      "emotion": "shame",
+      "dialogue": "Turn away. Shameless. Move. Can't you see that I'm bathing? What are you looking at? Aren't you ashamed? Naughty girl. Is your modern son awake? - Yes.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "invading privacy",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s987_bolly",
+      "emotion": "shame",
+      "dialogue": "Four months. - Yes. It means 120 days? - Yes. Aren't you ashamed? You've been harassing a great poet for 120 days. Keep quiet. Recite a poem.",
+      "target_person": "harasser",
+      "target_gender": "unclear",
+      "cause_raw": "harassing a poet",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s988_bolly",
+      "emotion": "shame",
+      "dialogue": "'Noises came from inside. ' Give the money. - Quiet. You're a shameless man. After hearing such a beautiful poem you want money? Constable, come here. - Yes.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "demanding money after a poem recitation",
+      "theme_label": "Financial Desperation"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "18539",
+    "title": "Tobacco Road",
+    "year": "1941",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/7Iw6h2e2nc9hVioq0sLOc6pW4sL.jpg",
+    "overview": "Shiftless Jeeter Lester and his family of sharecroppers live in rural Georgia where their ancestors were once wealthy planters. Their slapstick existence is threatened by a bank's plans to take over the land for more profitable farming."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2440_holly",
+      "emotion": "pride",
+      "dialogue": "Toot-toot! Beep-beep!  Dude. He can sound more like a horn than a horn can.  He's the last of my boys, Dude is, and I sure am proud of him.  - Tell me, how are the crops coming? - No crops, praise the Lord.  No crops in the last seven years.",
+      "target_person": "Dude's father",
+      "target_gender": "male",
+      "cause_raw": "Dude's ability to mimic a horn sound",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2441_holly",
+      "emotion": "pride",
+      "dialogue": "She's just, you know, like blood relations.  Oh, that's powerful nice of you, Brother Jeeter.  You know, Bessie, Ada and me's... ...mighty proud of you and Dude and that automobile.  ...mighty proud of you and Dude and that automobile.  I'm just wondering how much it cost you.",
+      "target_person": "Brother Jeeter",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2442_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, that's powerful nice of you, Brother Jeeter.  You know, Bessie, Ada and me's... ...mighty proud of you and Dude and that automobile.  ...mighty proud of you and Dude and that automobile.  I'm just wondering how much it cost you.  Why, I paid $800 cash for that car, and look at it already.",
+      "target_person": "Brother Jeeter",
+      "target_gender": "male",
+      "cause_raw": "buying an automobile",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "64879",
+    "title": "Lamhe",
+    "year": "1991",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/aw9xd5GhQkyaAsTblNi3XydvEcK.jpg",
+    "overview": "Viren falls for Pallavi, but she marries Siddharth. The couple dies, leaving behind their daughter, who grows up to look just like her mother and falls in love with Viren."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3317_bolly",
+      "emotion": "shame",
+      "dialogue": "When the pea-hen calls at midnight...\"My bangles...\"\"My bangles tinkle, O Sir... they tinkle in my hands\" When the pea-hen calls in the jungle at midnight. I literally die of shame when people listen to my love story It was a slip of the tongue, when I was chatting...\"and then my bangles tinkled, O Sir, they tinkled in my hands\" As the pea-hen in the jungle called out in the night",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "sharing her love story",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s3318_bolly",
+      "emotion": "shame",
+      "dialogue": "What have I lied about? You lied that you'll introduce us. How can you, when you're not married? Aren't you ashamed? Don't ever dare to speak to me again. - Pooja! Who are you to question me?",
+      "target_person": "Pooja",
+      "target_gender": "female",
+      "cause_raw": "questioning authority",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p1747_bolly",
+      "emotion": "pride",
+      "dialogue": "Aunt, I didn't make any mistake, did I? No. You just reminded him of your father. And the proud local men and women don't let their tears be seen. Come, I'll show you your room. In my courtyard......there is a swing.\"",
+      "target_person": "Aunt",
+      "target_gender": "female",
+      "cause_raw": "Reminding of her father",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

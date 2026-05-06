@@ -1,0 +1,106 @@
+{
+  "film": {
+    "id": "180680",
+    "title": "Himmatwala",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/rWuzBNbsNc0DPFoWBb9FlKwWt7f.jpg",
+    "overview": "When a temple priest commits suicide after being dishonored by an evil landlord, his son returns to his native village on a mission of vengeance."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2426_bolly",
+      "emotion": "shame",
+      "dialogue": "But dont you tell Padma. I will buy her trousseau and then tell her. Your father...My father is ashamed of what he did. Im a sinner. Im a swine, oh god, curse me with swine flu !",
+      "target_person": "Speaker's father",
+      "target_gender": "male",
+      "cause_raw": "past wrong actions",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s2427_bolly",
+      "emotion": "shame",
+      "dialogue": "The maid? I fired all the servants. Are you ashamed of doing household  chores? Not at all  . Its my duty. Good, then iron my clothes .",
+      "target_person": "wife",
+      "target_gender": "female",
+      "cause_raw": "doing household chores",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2428_bolly",
+      "emotion": "shame",
+      "dialogue": "I can smell an omelette  before the egg is hatched. Where is the illegitimate  act? I mean, with whom did you do this shameful  act? Do you want me to tell you? Tell me.",
+      "target_person": "Unnamed character",
+      "target_gender": "unclear",
+      "cause_raw": "Illegitimate act implied sexual activity)",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "p1262_bolly",
+      "emotion": "pride",
+      "dialogue": "Don't be afraid...I wont harm you. I will  walk away from here. Once I leave...you will have a winning  smile on your face...you will  walk back with pride to your broken hut...and as you will sit down to have lunch...And then the story of Sher Singhs baton will begin. No! Gopi...Today I gave you an insight about your tomorrow.",
+      "target_person": "Gopi",
+      "target_gender": "male",
+      "cause_raw": "overcoming fear and gaining victory",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "p1263_bolly",
+      "emotion": "pride",
+      "dialogue": "These are the deed papers to your home. Just a second. What? I am so proud of you. You are awesome! I am not awesome, you are awesome! If you hadn't pretended to be pregnant, we  wouldn't have achieved this.",
+      "target_person": "second speaker",
+      "target_gender": "unclear",
+      "cause_raw": "tricking someone for personal gain",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "p1264_bolly",
+      "emotion": "pride",
+      "dialogue": "I am not awesome, you are awesome! If you hadn't pretended to be pregnant, we  would nt have achieved this. If Ravi were  alive today, he  would've been so proud.  Along with his  family, you embraced the entire   village. Betrayal!",
+      "target_person": "Ravi",
+      "target_gender": "male",
+      "cause_raw": "embracing and supporting the entire village",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

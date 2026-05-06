@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "454952",
+    "title": "Sweetiee Weds NRI",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gr6hQ8pG0EA5duWRGiLjKQqxk0Z.jpg",
+    "overview": "Sweetiee Weds NRI is a Bollywood comedy movie, directed by Hasnain Hyderabadawala and Written by Creative Director Tariq Mohammad. The movie stars Himansh Kohli, Zoya Afroz, Darshan Jariwalla and Kiran Joneja in lead roles."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4288_bolly",
+      "emotion": "shame",
+      "dialogue": "What happened? Did your dad not like the profile I sent? You're not at all ashamed, are you? Ashamed? Why should I be ashamed? What has happened now?",
+      "target_person": "receiver of the profile",
+      "target_gender": "unclear",
+      "cause_raw": "rejection of a marriage proposal",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4289_bolly",
+      "emotion": "shame",
+      "dialogue": "Did your dad not like the profile I sent? You're not at all ashamed, are you? Ashamed? Why should I be ashamed? What has happened now? There Jasubhai and Rasiklal have booked flight tickets!",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "not getting married",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p2360_bolly",
+      "emotion": "pride",
+      "dialogue": "Listen to me very carefully. India is a male dominated society. And the groom here, always sits with pride. But did you see him? He was so scared. An NRI groom, so scared?",
+      "target_person": "groom",
+      "target_gender": "male",
+      "cause_raw": "being an NRI",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

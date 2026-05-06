@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "22794",
+    "title": "Cloudy with a Chance of Meatballs",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg",
+    "overview": "Inventor Flint Lockwood creates a machine that makes clouds rain food, enabling the down-and-out citizens of Chewandswallow to feed themselves. But when the falling food reaches gargantuan proportions, Flint must scramble to avert disaster. Can he regain control of the machine and put an end to the wild weather before the town is destroyed?"
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2555_holly",
+      "emotion": "pride",
+      "dialogue": "...that's not natural.  My invention could save the whole town.  You will be so proud of me, Dad.  Plus...  ...there's a girl here.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "son's invention",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP2556_holly",
+      "emotion": "pride",
+      "dialogue": "Well, the mayor has asked me to cut the ribbon.  He said my invention saved the town.  Aren't you proud of me?  Well...  ...doesn't this steak look a little big to you?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "invention saving the town",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2557_holly",
+      "emotion": "pride",
+      "dialogue": "And me.  I've always felt that you were like a son to me, Flint.  And I'm gonna be so proud of you tomorrow when you cut that ribbon...  ...save the town...  ...and prove to everybody what a great inventor you are.",
+      "target_person": "Flint",
+      "target_gender": "male",
+      "cause_raw": "proving to be a great inventor",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP2558_holly",
+      "emotion": "pride",
+      "dialogue": "...if it's not straight-  Oh, for crying out loud.  I'm proud of you, Flint.  I'm amazed that someone as ordinary as me...  ...could be the father of someone as extraordinary as you.",
+      "target_person": "Flint's father",
+      "target_gender": "male",
+      "cause_raw": "Flint's extraordinary achievements",
+      "theme_label": "Personal Achievement"
+    }
+  ]
+}

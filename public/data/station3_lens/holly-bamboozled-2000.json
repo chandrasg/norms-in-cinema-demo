@@ -1,0 +1,84 @@
+{
+  "film": {
+    "id": "24664",
+    "title": "Bamboozled",
+    "year": "2000",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/oAg1mUUxdWJNLa6t1gctbQhXHVN.jpg",
+    "overview": "Frustrated when network brass reject his sitcom idea, producer Pierre Delacroix pitches the worst idea he can think of in an attempt to get fired: a 21st century minstrel show. The network not only airs it, but it becomes a smash hit."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS268_holly",
+      "emotion": "shame",
+      "dialogue": "Broke and the happiest people   on the planet.   That was the last time   I ever saw Junebug.   A damn shame.   Remember, son...  always keep 'em laughing.   always keep 'em laughing.",
+      "target_person": "Junebug",
+      "target_gender": "male",
+      "cause_raw": "not being present or alive",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS269_holly",
+      "emotion": "shame",
+      "dialogue": "Let him do some dancing for us.   Get up on your feet, man.   Show us them feet.   Don't be ashamed.   -Dance for us!   -Showtime!   You f****d up in the game now.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "being forced to dance",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WP583_holly",
+      "emotion": "pride",
+      "dialogue": "That was a good show tonight.   Give me some sugar.   -I love you, baby.   -I love you, too.   I'm so proud of you.   All right.   Be back.",
+      "target_person": "baby",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP584_holly",
+      "emotion": "pride",
+      "dialogue": "That's a good woman.   How did you end up here?   I got too much pride,   too much dignity...  integrity.   integrity.   I can't do   that Hollywood stuff, man.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "maintaining dignity and integrity",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP585_holly",
+      "emotion": "pride",
+      "dialogue": "Man, listen,   I don't know what to tell you.   You have every right   to be upset.   But first,   a word from our proud sponsors.   Da Bomb, baby, Bomb, baby   It makes you get your freak on",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

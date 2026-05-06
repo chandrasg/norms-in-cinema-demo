@@ -1,0 +1,107 @@
+{
+  "film": {
+    "id": "275771",
+    "title": "Comedy Central Roast of Denis Leary",
+    "year": "2003",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/vxyIFDNdB1xEmmkbNyA0CVPXTtu.jpg",
+    "overview": "Caustic comic Denis Leary gets a taste of his own medicine when Comedy Central hosts a celebrity roast in his honor, emceed by Jeff Garlin. Dishing out the insults are Christopher Walken, Conan O'Brien, Jon Stewart, Michael J. Fox and more."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 7
+  },
+  "themes": [
+    {
+      "label": "Personal Achievement",
+      "count": 3
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 5
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP471_holly",
+      "emotion": "pride",
+      "dialogue": "[cheers and applause]  Snoop, your homey Dr. Dre just became a billionaire last year,  and you should be proud.  There's not a lot of black billionaires.  There's Dr. Dre",
+      "target_person": "Snoop",
+      "target_gender": "male",
+      "cause_raw": "Dr. Dre becoming a billionaire",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP472_holly",
+      "emotion": "pride",
+      "dialogue": "Thank you, guy half my age.  [laughs]  Seriously, man, I'm proud of you.  You have it all.  You literally are a guy who has it all,",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "having it all",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP473_holly",
+      "emotion": "pride",
+      "dialogue": "and that Hannibal guy.  How cool is this? So cool.  You made it. I'm proud of you, man.  I'm proud of you.  Before I go, I want to thank everyone for tonight.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "achieving something not explicit)",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP474_holly",
+      "emotion": "pride",
+      "dialogue": "How cool is this? So cool.  You made it. I'm proud of you, man.  I'm proud of you.  Before I go, I want to thank everyone for tonight.  This roast was a dream of mine.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "achieving a dream",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP475_holly",
+      "emotion": "pride",
+      "dialogue": "I was thrown into this at 12 years old,  and I didn't really know what I was getting myself into.  There's been moments I'm really proud of,  and a lot of moments I look back  and I'm pretty disappointed in myself for,",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "personal achievements and disappointments",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP476_holly",
+      "emotion": "pride",
+      "dialogue": "For that, I'm sorry.  But what I can say is I'm looking forward to being someone  that you guys can all look at and be proud of,  someone you can smile at and see some of yourself in.  Someone close to me once said,",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being someone others can be proud of",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP477_holly",
+      "emotion": "pride",
+      "dialogue": "I'm just kidding.  Thank you so much and good night.  You did good, man. I'm proud of you, buddy.  Incredible f*****g show.  [techno music]",
+      "target_person": "buddy",
+      "target_gender": "male",
+      "cause_raw": "for putting on a good show",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "16905",
+    "title": "Captain Blood",
+    "year": "1935",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/Ae0ltppMl66pAH1odgDU1C4H1iq.jpg",
+    "overview": "Dr. Peter Blood, unjustly convicted of treason and exiled from England, becomes a notorious pirate."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1170_holly",
+      "emotion": "shame",
+      "dialogue": "Great would be the burning thereof and loud the rejoicing in Heaven.  Do your duty!  What a cruel shame that any man is made to suffer so.  - This beastly gout! - Perhaps a new dressing will help.  Perhaps.",
+      "target_person": "Man with gout",
+      "target_gender": "male",
+      "cause_raw": "suffering from a disease",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1171_holly",
+      "emotion": "shame",
+      "dialogue": "- What? - That's nothing. I was a blooming gunner.  - A gunner? - In the King's Navy, too.  I was always ashamed of it up to now.  We'll have a crew yet!  Any of you others been keeping such secrets?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "hiding past experiences",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "WP2169_holly",
+      "emotion": "pride",
+      "dialogue": "Quiet!  Open your mouth.  His pride has bought him a ticket to Dixon's mines.  He isn't there yet.  - My dear, consider your social position! - Uncle!",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2170_holly",
+      "emotion": "pride",
+      "dialogue": "one share, plus £10 of silver.  Oliver Clark. One share, plus 400 pieces of eight for the loss of his left leg.  There you are, Oliver, I'm proud of you.  Lord Chester Dyke. No injury, one share and £5 of silver.  Anton Brazilimo.",
+      "target_person": "Oliver Clark",
+      "target_gender": "male",
+      "cause_raw": "for enduring the loss of his left leg",
+      "theme_label": "Heroic Bravery"
+    }
+  ]
+}

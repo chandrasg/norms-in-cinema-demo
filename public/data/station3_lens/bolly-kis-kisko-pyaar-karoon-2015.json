@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "358985",
+    "title": "Kis Kisko Pyaar Karoon",
+    "year": "2015",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/e3fZkrzWlgX3QDmQelygxKpyB2I.jpg",
+    "overview": "A comedy or errors, wherein a married man attempts to juggle his three wives along with his current girlfriend."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3130_bolly",
+      "emotion": "shame",
+      "dialogue": "Deepu! Deepu! Hey sweetie...Sweetheart...Baby! - Uncle...Uncle, at this age you are teasing a girl? Don't you have any shame? Come here. She is my daughter.",
+      "target_person": "Uncle",
+      "target_gender": "male",
+      "cause_raw": "Inappropriate behavior towards a young girl",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s3131_bolly",
+      "emotion": "shame",
+      "dialogue": "Mother... - Yes or no. Yes. Shameless! You are already married three times...And you were about to get married for the fourth time! Why didn't you just die before doing such a shameful deed?",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "multiple marriages",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3132_bolly",
+      "emotion": "shame",
+      "dialogue": "Shameless! You are already married three times...And you were about to get married for the fourth time! Why didn't you just die before doing such a shameful deed? I wouldn't be as sad on your death as I am now. You ruined the lives of four girls.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "polygamy",
+      "theme_label": "Promiscuity"
+    }
+  ]
+}

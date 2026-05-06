@@ -1,0 +1,77 @@
+{
+  "film": {
+    "id": "177703",
+    "title": "Broadway Idiot",
+    "year": "2013",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "/48K5VMU7drc9P5ANCVdKFPPy3r9.jpg",
+    "overview": "Broadway Idiot follows Green Day's Billie Joe Armstrong from a punk rock concert at Madison Square Garden to the opening of his musical American Idiot on Broadway - only ten blocks away, but worlds apart. From behind the curtain share in the crazy journey of turning the mega-hit album into a punk rock musical - and ultimately see how the world of theater transformed Billie Joe."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WS449_holly",
+      "emotion": "shame",
+      "dialogue": "♪ Hear the sound of the falling rain ♪  ♪ Coming down like an armageddon flame ♪  ♪ The shame, the ones who died without a name ♪  ♪ Here the dogs howling out of key ♪  ♪ To a hymn called Faith and Misery ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "dying without recognition",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "WS450_holly",
+      "emotion": "shame",
+      "dialogue": "I'm like \"f**k\".  She's like \"oops, we have this problem\".  ♪ I don't feel any shame, I won't apologize ♪  ♪ When there ain't nowhere you can go ♪  So I end up having to stay at home.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "not taking responsibility for a problem",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP953_holly",
+      "emotion": "pride",
+      "dialogue": "♪ Does it take your breath away ♪  ♪ And you feel yourself suffocating ♪  ♪ Does the pain weigh out the pride ♪  ♪ And you look for a place to hide ♪  For me recording and producing is... it's psychological.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP954_holly",
+      "emotion": "pride",
+      "dialogue": "♪ Does it take your breath away ♪  ♪ And you feel yourself suffocating ♪  ♪ Does the pain weigh out the pride ♪  ♪ And you look for a place to hide ♪  ♪ Did someone break your heart inside ♪",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP955_holly",
+      "emotion": "pride",
+      "dialogue": "so fly with it.  It's in-we're in spectacular shape.  I couldn't be prouder of it.  It's such a weird feeling because since, you know,  since the beginning we've been working and working",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "working hard and achieving a spectacular result",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

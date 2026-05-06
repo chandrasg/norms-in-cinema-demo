@@ -1,0 +1,165 @@
+{
+  "film": {
+    "id": "307884",
+    "title": "Do Kaliyan",
+    "year": "1968",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/hAotyyZJq0gliE97LfGcRthYERP.jpg",
+    "overview": "Proud, wealthy, and haughty Kiran meets with down-to-earth middle-class fellow collegian, Shekhar, and after several clashes and misunderstandings, both fall in love and decide to get married. Shekhar meets with Kiran's dominating mom and mousy dad, and is told that he must successfully pass a test that will be put to him through Kiran's mom, to which he agrees."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 3
+    },
+    "pride": {
+      "female": 4,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s5075_bolly",
+      "emotion": "shame",
+      "dialogue": "Kiran, why do you lock horns with these useless fellows! Hey, you! Why are you interfering? Shut up! Shameless! Kiran, do you know what Mahesh did yesterday? What? - He punctured Lalita's cycle's tyre! Really?",
+      "target_person": "Mahesh",
+      "target_gender": "male",
+      "cause_raw": "Mischievous behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s5076_bolly",
+      "emotion": "shame",
+      "dialogue": "'But she has no brains.' 'She is a fighter-c**k!' Shame-shame! - Shame-shame! - Shame-shame! Shame-shame! - Shame-shame! - Shame-shame! You had given me this idea and....l am left with this empty box.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being called brainless",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s5077_bolly",
+      "emotion": "shame",
+      "dialogue": "'She is a fighter-c**k!' Shame-shame! - Shame-shame! - Shame-shame! Shame-shame! - Shame-shame! - Shame-shame! You had given me this idea and....l am left with this empty box. What should I do? People did the same with me.",
+      "target_person": "She'",
+      "target_gender": "female",
+      "cause_raw": "Being assertive or aggressive",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s5078_bolly",
+      "emotion": "shame",
+      "dialogue": "'Goodness me! What have I done!?' Mother! - Wretched girl! Filthy damsel! You have put me to shame! You have ruined your own destiny! It is not Shekhar's mistake; it's my mistake.",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "dishonoring family",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p2854_bolly",
+      "emotion": "pride",
+      "dialogue": "I didn't have any such intentions. Your mistake became a punishment. Why are you so proud that we have met? Why are you forced to flatter me? Why are you so proud that we have met?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2855_bolly",
+      "emotion": "pride",
+      "dialogue": "Why are you so proud that we have met? Why are you forced to flatter me? Why are you so proud that we have met? Why are you forced to flatter me? Why did you feel the need to appease me?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2856_bolly",
+      "emotion": "pride",
+      "dialogue": "Now too you have mistaken me. But I have judged you correctly. You have patient and pride too. After marriage let me see how long it lasts. Forgive him. He is insensible. He is immature.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2857_bolly",
+      "emotion": "pride",
+      "dialogue": "I have decided to pay 3000 rupees! It's very easy to splurge and give away other's money! Earning it and then giving it makes you feel proud and kind! Oh! Today I understood! It's better to starve than to work for in-laws!",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "earning own money",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2858_bolly",
+      "emotion": "pride",
+      "dialogue": "This means..Mother and daughter's heart has not changed yet! How will it change after all? They are proud of their money. Shekhar, listen to me. Come on; let's go to Singapore.",
+      "target_person": "Mother and daughter",
+      "target_gender": "female",
+      "cause_raw": "their wealth",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2859_bolly",
+      "emotion": "pride",
+      "dialogue": "Ganga, this is just superb! Huh! Just see! How they are flattering Ganga from all sides! You are very proud. That's why girls don't come to you. What should I do? I have got the habits of grandmother.",
+      "target_person": "Ganga",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2860_bolly",
+      "emotion": "pride",
+      "dialogue": "I have got my grandma's nature. Young ones do get some qualities of the elders. My father says I am proud like my mother. And my grandma says I am stubborn like my father. Hey do it again!",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "inheriting mother's qualities",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p2861_bolly",
+      "emotion": "pride",
+      "dialogue": "Go. Go and call Jamuna. Oh yes, yes. I am going. I am going. 'A thing to be proud of!' 'And did you hear?' 'Without advertisement my name is famous in the city.'",
+      "target_person": "Jamuna",
+      "target_gender": "female",
+      "cause_raw": "personal fame",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

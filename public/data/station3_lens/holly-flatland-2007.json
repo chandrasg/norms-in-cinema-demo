@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "70665",
+    "title": "Flatland",
+    "year": "2007",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/ykD9CxWL35oVhcSm6Zw7h70SmKj.jpg",
+    "overview": "Flatland is a two-dimensional universe occupied by living geometric figures - squares, triangles, circles, etc. A Square, Attorney At Law, finds himself in the middle of two upheavals: the rise of martial law by the circular leadership of Flatland, and the arrival of A Sphere, CEO Of Messiah, Incorporated, a creature from a hitherto-unknown third dimensional world."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Romantic Relationships",
+      "count": 2
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS253_holly",
+      "emotion": "shame",
+      "dialogue": "I think E Pentagon just wanted to make him shut up.  - Now why did E go and do that? - Hex was being pretty nasty.  There's no shame in reconfiguration. It was a small genetic defect.  We should make Hex proud that he's A Hexagon.  - The first in the family. - Some humility would help to temper that pride.",
+      "target_person": "Hex",
+      "target_gender": "male",
+      "cause_raw": "genetic defect",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP549_holly",
+      "emotion": "pride",
+      "dialogue": "- Now why did E go and do that? - Hex was being pretty nasty.  There's no shame in reconfiguration. It was a small genetic defect.  We should make Hex proud that he's A Hexagon.  - The first in the family. - Some humility would help to temper that pride.  - Go talk to him. - I will.",
+      "target_person": "Hexagon",
+      "target_gender": "unclear",
+      "cause_raw": "being the first in the family",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP550_holly",
+      "emotion": "pride",
+      "dialogue": "There's no shame in reconfiguration. It was a small genetic defect.  We should make Hex proud that he's A Hexagon.  - The first in the family. - Some humility would help to temper that pride.  - Go talk to him. - I will.  - Find the physician. - Yes sir, Mister President, right away.",
+      "target_person": "Mister President",
+      "target_gender": "male",
+      "cause_raw": "Hex being the first Hexagon in the family",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "WP551_holly",
+      "emotion": "pride",
+      "dialogue": "Stay there, I have to write my After Action Report.  Welcome back, sir.  Welcome home.  - We're all so proud of you. - And the company!  Was your manifestation a successful one?  There were a few complications.",
+      "target_person": "sir",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

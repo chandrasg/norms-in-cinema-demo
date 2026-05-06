@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "274515",
+    "title": "Muqabla",
+    "year": "1993",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "",
+    "overview": "Govinda and Aditya Pancholi star in this powerful tale about two brothers whose love for each is greater than any other bond. While manipulative orphan Karisma (Karisma Kapoor) falls for Suraj (Govinda) and tricks him into marrying her, his sibling, Deepak (Pancholi), is busy with a love of his own. In the meantime, scheming underworld kingpin Khanna (Shakti Kapoor) is doing his best to tear Suraj and Deepak apart."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p1965_bolly",
+      "emotion": "pride",
+      "dialogue": "The medals shone on my uniform. Thank you very much. You saved my life. I am proud of you, Mr. Satyaprakash. You've made your department proud today. Tell me what you want. Promotion or medal?",
+      "target_person": "Satyaprakash",
+      "target_gender": "male",
+      "cause_raw": "saving a life",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p1966_bolly",
+      "emotion": "pride",
+      "dialogue": "Thank you very much. You saved my life. I am proud of you, Mr. Satyaprakash. You've made your department proud today. Tell me what you want. Promotion or medal? I want this dead body, sir. - Dead body? Why?",
+      "target_person": "Mr. Satyaprakash",
+      "target_gender": "male",
+      "cause_raw": "saving life",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p1967_bolly",
+      "emotion": "pride",
+      "dialogue": "Child, I ask your forgiveness here at your funeral pyre. I ask forgiveness. Forgive me. I will always feel proud to say that....my son gave his life for honesty and loyalty. Father! Mr. Khanna, there's a trouble.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "son's sacrifice for honesty and loyalty",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

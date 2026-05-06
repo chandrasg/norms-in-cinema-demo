@@ -1,0 +1,76 @@
+{
+  "film": {
+    "id": "250726",
+    "title": "Mr Joe B. Carvalho",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/ojSEyRapOfQBuyofrOwyMXoP244.jpg",
+    "overview": "A small time detective is hired to bring back the daughter of a businessman who has run away from home with the house chef."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3625_bolly",
+      "emotion": "shame",
+      "dialogue": "And you didn't have your swimming trunks. You went into the water without them. Shameless. How old were you? I was six, and you were three. Right? - Yes.",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "indecent exposure",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3626_bolly",
+      "emotion": "shame",
+      "dialogue": "Gehna, my love. - Excuse me. Here I am. - Where's the way to get down? Shameless. Fighting with women. Look. I don't fight with women... I mean it.",
+      "target_person": "Gehna's partner",
+      "target_gender": "male",
+      "cause_raw": "Disrespecting women",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "p1923_bolly",
+      "emotion": "pride",
+      "dialogue": "You know...People should stad whistling when she enters. Hey gorgeous! She walks with pride. And everyone's eager to hold her hand. Mama, everyone falls flat at her sight.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p1924_bolly",
+      "emotion": "pride",
+      "dialogue": "I am sure. Wearing your papa's clothes......you will be a great detective like him. I'll make you proud, papa. I'll be a great detective. Just like you.",
+      "target_person": "papa",
+      "target_gender": "male",
+      "cause_raw": "child's aspiration to be like him",
+      "theme_label": "Academic Success"
+    }
+  ]
+}

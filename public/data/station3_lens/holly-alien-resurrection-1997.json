@@ -1,0 +1,51 @@
+{
+  "film": {
+    "id": "8078",
+    "title": "Alien Resurrection",
+    "year": "1997",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg",
+    "overview": "Two hundred years after Lt. Ripley died, a group of scientists clone her, hoping to breed the ultimate weapon. But the new Ripley is full of surprises … as are the new aliens. Ripley must team with a band of smugglers to keep the creatures from reaching Earth."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "WP1372_holly",
+      "emotion": "pride",
+      "dialogue": "Well, this is good.  This is very good.  You're gonna make us all very proud.  No.  Don't! I'm all right!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1373_holly",
+      "emotion": "pride",
+      "dialogue": "New alloys, new vaccines.  Nothing like this we've ever seen on any world before.  You should be very proud.  I am.  And the animal itself:",
+      "target_person": "Character 1",
+      "target_gender": "unclear",
+      "cause_raw": "for creating new alloys and vaccines",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP1374_holly",
+      "emotion": "pride",
+      "dialogue": "What the hell are you?  Something of a predator, isn't she?  Yes, she continues to make us all very proud.  We're coming up on just one minute and 30 seconds left... ...to order this one-of-a-kind collector's item.  ...to order this one-of-a-kind collector's item.",
+      "target_person": "us",
+      "target_gender": "unclear",
+      "cause_raw": "not specified",
+      "theme_label": ""
+    }
+  ]
+}

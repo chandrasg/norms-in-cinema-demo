@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "172469",
+    "title": "Love & Air Sex",
+    "year": "2014",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/sqm2WTC8w4iJ039alWygi90YpKJ.jpg",
+    "overview": "When brokenhearted Stan flies to Austin for the weekend in hopes of \"accidentally\" running into his ex-girlfriend Cathy, he arrives to find their best friends Jeff and Kara in the middle of their own vicious breakup. Before too long, battle lines are drawn – and with the Air Sex World Championships in town, anything can go down."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS151_holly",
+      "emotion": "shame",
+      "dialogue": "I'll buy shots.  Stan, I understand if you want to sit out on the bench tonight.  I get that you have body-shame issues, you've got fat knees,  that's not your fault, all right?  But it doesn't mean you can't still bang some strange this evening, buddy.",
+      "target_person": "Stan",
+      "target_gender": "male",
+      "cause_raw": "body-shaming",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "WS153_holly",
+      "emotion": "shame",
+      "dialogue": "We are not leaving this apartment  till we come up with an air sex routine that is so depraved  and so sick that we will be ashamed to look our own mothers in the eye  for another year.  Maybe this is a coincidence, but I was just sitting here thinking,",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "planning to perform a sexually explicit act",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "WP263_holly",
+      "emotion": "pride",
+      "dialogue": "You guys have a good breakfast.  That was so good.  I'm so proud of you.  Oh, f**k. What?  Ow!",
+      "target_person": "Speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "making a good breakfast",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

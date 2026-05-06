@@ -1,0 +1,110 @@
+{
+  "film": {
+    "id": "149586",
+    "title": "The Conscientious Objector",
+    "year": "2004",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "/99rWKXmSDCpgieNPJE1o5cwfVhm.jpg",
+    "overview": "It's 1945, World War II. The Place, Okinawa. The Scene, an impregnable 400-foot high cliff-AKA Hacksaw Ridge. The Engagement, a battle so fierce the odds of survival were 1 in 10. The Act, Medic Pfc. Desmond T. Doss braved intense enemy fire to rescue 75 wounded GI's over the precipice. The Story, Infantrymen who once ridiculed and scoffed at Desmond's simple faith and refusal to carry a weapon-now owed their lives to him. Director Terry Benedict tells Desmond's incredible story through the eyes of the men who witnessed this humble man's heroic acts. Winning the respect of his fellow soldiers, they recommended him for the highest honor America can bestow on one of her sons-The Medal of Honor."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS357_holly",
+      "emotion": "shame",
+      "dialogue": "Finish getting dressed and I'll walk you down.  It's okay, Doss.  There's no shame in this.  Let's go.  I got extra guard duty today, and I'm on KP this morning, so... Can't.",
+      "target_person": "Doss",
+      "target_gender": "male",
+      "cause_raw": "not being able to fulfill a duty",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WP777_holly",
+      "emotion": "pride",
+      "dialogue": "I'm just saying how snappy Artie looked in his uniform.  All you girls certainly seemed to think so.  He had them flocking to him. He was most proud.  I just hope that when our Hal gets shot,  it's through the front of his jacket.",
+      "target_person": "Artie",
+      "target_gender": "male",
+      "cause_raw": "looking good in his uniform",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP778_holly",
+      "emotion": "pride",
+      "dialogue": "All right. Just getting in my uniform, Sarge.  - Did I ask him to, Corporal? - No memory of it, Sarge.  I believe any man who takes such pride in his natural naked state  will surely enjoy the brisk of the outdoors.  Now move your privates, Private Parts!",
+      "target_person": "Private Parts",
+      "target_gender": "male",
+      "cause_raw": "his natural naked state",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP779_holly",
+      "emotion": "pride",
+      "dialogue": "Then why can't you just pick up the stupid gun and wave it around?  You don't have to use it, just meet them halfway.  - I can't do that. - Yes, you can. It's just pride.  Pride and stubbornness. Don't confuse your will with the Lord's.  Have I been prideful?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP780_holly",
+      "emotion": "pride",
+      "dialogue": "You don't have to use it, just meet them halfway.  - I can't do that. - Yes, you can. It's just pride.  Pride and stubbornness. Don't confuse your will with the Lord's.  Have I been prideful?  Maybe I am prideful.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being stubborn",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP781_holly",
+      "emotion": "pride",
+      "dialogue": "- I can't do that. - Yes, you can. It's just pride.  Pride and stubbornness. Don't confuse your will with the Lord's.  Have I been prideful?  Maybe I am prideful.  But I don't know how I'm going to live with myself",
+      "target_person": "Speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP782_holly",
+      "emotion": "pride",
+      "dialogue": "Pride and stubbornness. Don't confuse your will with the Lord's.  Have I been prideful?  Maybe I am prideful.  But I don't know how I'm going to live with myself  if I don't stay true to what I believe.",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "staying true to their beliefs",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "32302",
+    "title": "3 Ninjas: High Noon at Mega Mountain",
+    "year": "1998",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/7jKefCfhcXLd1qVnmc1zBhSgPjh.jpg",
+    "overview": "Three young boys, Rocky, Colt and Tum Tum together with their neighbor girl, computer whiz Amanda are visiting Mega Mountain amusement park when it is invaded by an army of ninjas led by evil Medusa, who wants to take over the park and hold the owners for ransom. Kids and retired TV star Dave Dragon, who made his farewell appearance at the park at the time the ninjas appeared, have to break Medusa's vicious plans."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1382_holly",
+      "emotion": "pride",
+      "dialogue": "- Shredded it! - Kicked its butt!  You think you're master of your domain, don't you?  I thought you'd be proud of us. We got the sword!  A ninja's journey is never over until he returns... ...from whence he came.  ...from whence he came.",
+      "target_person": "You",
+      "target_gender": "male",
+      "cause_raw": "getting the sword",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1383_holly",
+      "emotion": "pride",
+      "dialogue": "Don't you mean the agony of defeat?  Agony in defeat.  When the ninja's head swells with pride... ...he becomes his own worst enemy.  ...he becomes his own worst enemy.  He loses focus, his spirit loses balance.",
+      "target_person": "ninja",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1384_holly",
+      "emotion": "pride",
+      "dialogue": "Rocky!  - Where are they? - I can't see!  When a ninja's head swells with pride... ...he becomes his own worst enemy.  ...he becomes his own worst enemy.  He loses his focus... ...his spiritual balance.",
+      "target_person": "ninja",
+      "target_gender": "male",
+      "cause_raw": "swelling with pride",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP1385_holly",
+      "emotion": "pride",
+      "dialogue": "Kids!  - Dad! Grandpa! - How are you?  You must be quite proud of your heroes.  If you want the real hero... He's over there.  He's over there.",
+      "target_person": "Grandpa",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

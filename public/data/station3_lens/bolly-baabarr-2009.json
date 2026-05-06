@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "22291",
+    "title": "Baabarr",
+    "year": "2009",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9H4P0oYkB10hkPtsAxFXgrixUQn.jpg",
+    "overview": "A 12-yr-old boy picks up a country made gun &amp; shoots a man in cold blood! His eyes show no emotion. His heart exhibits no remorse. After shooting the person in broad day light, this boy walked the streets of Aman Ganj, with a gun in one hand. Everyone present in the market watched this young lad walk with no fear. The fear in fact had translated, from him into everyone's heart. He made his Mark!!!"
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s284_bolly",
+      "emotion": "shame",
+      "dialogue": "Aunt, save me! - What happened, child? Babbad is beating me. - I'll knock out your teeth! Have some shame. Will you beat such a big girl? He has a habit of beating. He can't help it, aunt. She's grown so big, yet she hasn't stopped lisping.",
+      "target_person": "Babbad",
+      "target_gender": "male",
+      "cause_raw": "physical violence",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s285_bolly",
+      "emotion": "shame",
+      "dialogue": "'We shall go an indefinite hunger strike! Enough is enough, the evil should go now! Shame on you all! Because of you...the opposition has made our life miserable! There have been calls one after another from Delhi! Even the public and press is ridiculing us!",
+      "target_person": "politicians",
+      "target_gender": "unclear",
+      "cause_raw": "poor governance",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p124_bolly",
+      "emotion": "pride",
+      "dialogue": "His eyes ooze lava Only God knows where his path lies There he is! He-s proud He's gone down. The whole world fears him Life is a jungle, he is a wounded lion",
+      "target_person": "he",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

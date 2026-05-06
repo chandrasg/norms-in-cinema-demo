@@ -1,0 +1,143 @@
+{
+  "film": {
+    "id": "911597",
+    "title": "Dhoop Chhaon",
+    "year": "1977",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/oY5iUxQzAhLReeByQEYNqBVfe1l.jpg",
+    "overview": "Concerned about the outbreak of plague in a distant rural village in India, Dr. D.D. Sinha asks a number of prominent doctors to go there and treat the ailing and prevent the disease from spreading. No one except his protégé, Dr. Paras, is prepared to go there. Dr. Paras travels there, works with the villagers to prevent the disease and treats the ailing, and is successful in preventing it's spreading to other communities. He meets with village belle, Lajwanti alias Lajjo, and both fall in love with each other."
+  },
+  "totals": {
+    "shame": 10,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 6,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1114_bolly",
+      "emotion": "shame",
+      "dialogue": "Fatso. Eating alone. This one is even sweeter than this. Aren't you ashamed? Will you eat alone? Are you very hungry? Then what? You had stopped my food.",
+      "target_person": "character being shamed",
+      "target_gender": "unclear",
+      "cause_raw": "eating alone and possibly overeating",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s1115_bolly",
+      "emotion": "shame",
+      "dialogue": "Where was my hand? Yes, it was on her waist. Like that. On her waist! - Yes. Weren't you ashamed of putting your hand......on her waist? Cheater. Tell me. I was ashamed but only a little. What happened then?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate physical contact",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1116_bolly",
+      "emotion": "shame",
+      "dialogue": "On her waist! - Yes. Weren't you ashamed of putting your hand......on her waist? Cheater. Tell me. I was ashamed but only a little. What happened then? Then... Then she saw mw in the eyes and asked......me to marry her.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate physical contact",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s1117_bolly",
+      "emotion": "shame",
+      "dialogue": "Romance. Love. You love her too? First listen to me. She said that if you don't marry me I will......have to drown in the river because of fear of shame. Why? The thing was such.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "being forced into marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1118_bolly",
+      "emotion": "shame",
+      "dialogue": "Yes... But I have just one. But no problem. You are kids......you can do with one. Baba. What's to be ashamed of me? I am blind, dear. May Bholenath protect your pair. Hey boatman. Come here. Yes, in this direction.",
+      "target_person": "boatman",
+      "target_gender": "male",
+      "cause_raw": "being treated as inferior",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s1119_bolly",
+      "emotion": "shame",
+      "dialogue": "He must be acting. He won't be able to sleep tonight. Why? Why, daddy? - It happens, my child. What happens? - When two people get engaged...Daddy, aren't you ashamed? You've spoiled all the milk. What's wrong with you? Everybody is scolding me.",
+      "target_person": "Daddy",
+      "target_gender": "male",
+      "cause_raw": "Spoiling the milk",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s1120_bolly",
+      "emotion": "shame",
+      "dialogue": "No, Manju. I can't ditch uncle. - Paras! - Manju! Love and hatred have very less distance. The thin wall between a wife and a co-wife......is only the shame in our eyes. I'm going. - No. I'm going.",
+      "target_person": "Manju",
+      "target_gender": "female",
+      "cause_raw": "Being a co-wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1121_bolly",
+      "emotion": "shame",
+      "dialogue": "Dan you'll keep longing for love in your entire life. If you'll shower everything today only......then what will you have for your husband after marriage? The thin wall between a wife and a co-wife......is only the shame in our eyes. It's difficult... very difficult......to get burnt, to melt. When the candle has been put out......that when the moth has come.",
+      "target_person": "Dan",
+      "target_gender": "male",
+      "cause_raw": "Premarital intimacy",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s1122_bolly",
+      "emotion": "shame",
+      "dialogue": "And what are you? - We? Whatever we're today......is your creation only. Any big shops can close down without customer. Shame on such customers and such shops. Did you ask her whom you've dealt jus now? Why are you feeling so pity for her?",
+      "target_person": "customers",
+      "target_gender": "unclear",
+      "cause_raw": "supporting unethical businesses",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s1123_bolly",
+      "emotion": "shame",
+      "dialogue": "Aren't you being tyrant? Woman's chastity...No, it's not that. Trust me. Woman will be given due respect in this house. She won't be ashamed here. Go, my child! Go! - Uncle! The boat trapped in the storm has only God's support.",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "questioning her chastity",
+      "theme_label": "Suspicion and Deceit"
+    }
+  ]
+}

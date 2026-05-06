@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "483877",
+    "title": "15+ Coming of Age",
+    "year": "2017",
+    "industry": "bolly",
+    "country": "TH",
+    "poster_path": "/jakY67RmeNW51xUTWtQSJCwZvTQ.jpg",
+    "overview": "With their teen hormones raging, three high school boys help one another explore their curiosity about the opposite sex and love in this raunchy comedy."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Violence",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3848_bolly",
+      "emotion": "shame",
+      "dialogue": "Became a killer because I had no choice. Now tell me - whose grandmother want to clean? How can you tell me ... so ashamed. Push it. - But why? Where are you taking me?",
+      "target_person": "killer",
+      "target_gender": "male",
+      "cause_raw": "profession as a killer",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "s3849_bolly",
+      "emotion": "shame",
+      "dialogue": "Why, when you so urgently, not faxed? By fax? What if I stay current? - Will be copied only in half! Are not you ashamed to sprinkles those worn jokes? Apparently it is very important for you to get to Raniket. Here's my ticket. You can use it instead of me.",
+      "target_person": "character being joked about",
+      "target_gender": "unclear",
+      "cause_raw": "using old jokes",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3850_bolly",
+      "emotion": "shame",
+      "dialogue": "My brother? - Yes. You and he drank some milk from the same bottle when you were babies. Shame of my childhood! He came to see me. Babbar also comes. Rajiv Babbar? - Lion.",
+      "target_person": "speaker's brother",
+      "target_gender": "male",
+      "cause_raw": "past actions or behavior",
+      "theme_label": "Negligence"
+    }
+  ]
+}

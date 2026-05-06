@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "20495",
+    "title": "Mujhse Shaadi Karogi",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9PqBPlaO5wLI7LPMaJNLoIiSSSA.jpg",
+    "overview": "Sameer, fast at losing his temper is re-located to Goa where he falls in love with Rani. But Sameer's new roommate Sunny, has some plans of his own."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3672_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm new here. I'm told that you are the only decent and honest boy around Boy? - What else? Look at you You can put any young man to shame. Besides...hang on. What's that in your ears? And what's around your neck, bro? Don't ask me. My blood boils when I think of it Screwed my calculations!",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "not conforming to traditional masculine appearance",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s3673_bolly",
+      "emotion": "shame",
+      "dialogue": "Go ahead Bye What a shame Bloody untuned drum! Did your father ever play a guitar? Give it here Papa is... a businessman in lndore",
+      "target_person": "person playing the drum",
+      "target_gender": "unclear",
+      "cause_raw": "lack of musical skills",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s3674_bolly",
+      "emotion": "shame",
+      "dialogue": "Couldn't you say that it was me? - Am I nuts to tell her that...it wasn't me but it was our master Sameer Malhotra who was playing? She was so impressed, dude. And she even saw the posters of your goddesses Know what she said? What a shame You're in my half. I'll kiss anything that comes my way, I told you The priest said it right! You are not Sunny but Shani (Saturn)",
+      "target_person": "Sameer Malhotra",
+      "target_gender": "male",
+      "cause_raw": "impersonation",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3675_bolly",
+      "emotion": "shame",
+      "dialogue": "This was all that was left! You're a loafer. And a drunkard! You're a womaniser! Now you're leader of the Eagle gang! I'm not the leader. - Shame on you, Sameer! Forget her, boss. There's one better than the other in Goa Point out a girl. She'll be in your arms",
+      "target_person": "Sameer",
+      "target_gender": "male",
+      "cause_raw": "being a loafer drunkard womaniser and gang leader",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3676_bolly",
+      "emotion": "shame",
+      "dialogue": "How I tried to heart my pretty face In a moment, however, the breeze had broken vigil Your face has cast such a spell, my love...''the sight of my moon-like beauty, puts even the Moon to shame'' Goodness! I feel shy Goodness! I feel scared",
+      "target_person": "moon",
+      "target_gender": "unclear",
+      "cause_raw": "less beautiful than the speaker",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}

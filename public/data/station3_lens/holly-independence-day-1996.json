@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "602",
+    "title": "Independence Day",
+    "year": "1996",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+    "overview": "Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived. Its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS583_holly",
+      "emotion": "shame",
+      "dialogue": "Okay, everybody! Head down to the basement.  Take it slow, don't run. Walk down to the basement!  There's no shame in hiding.  Oh, I'd better call my mother.  Well, look who we have here.",
+      "target_person": "Everybody",
+      "target_gender": "unclear",
+      "cause_raw": "hiding in a situation of danger",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "WP1231_holly",
+      "emotion": "pride",
+      "dialogue": "Just in case.  Where's... Where's... Just in case.  Just in case.  I'm very proud of you.  Be careful, okay?  It's time.  I love you.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1232_holly",
+      "emotion": "pride",
+      "dialogue": "All right!  What your father did was very brave.  You should be proud of him.  I am.  We know how to take them out, general. Spread the word.",
+      "target_person": "general",
+      "target_gender": "male",
+      "cause_raw": "father's bravery",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

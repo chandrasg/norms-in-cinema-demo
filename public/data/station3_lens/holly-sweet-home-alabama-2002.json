@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "11529",
+    "title": "Sweet Home Alabama",
+    "year": "2002",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/698cbxq0SRwCdOPG5Bwi7JDk12d.jpg",
+    "overview": "New York fashion designer, Melanie Carmichael suddenly finds herself engaged to the city's most eligible bachelor. But her past holds many secrets—including Jake, the redneck husband she married in high school, who refuses to divorce her. Bound and determined to end their contentious relationship once and for all, Melanie sneaks back home to Alabama to confront her past."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Deception",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1064_holly",
+      "emotion": "shame",
+      "dialogue": "It took me a while to realise it would have been your only adventure.  I just guess Mother Nature knew better.  I was so ashamed.  Cos I felt... . .relieved.  . .relieved.",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "feeling relieved over someone else's misfortune",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS1065_holly",
+      "emotion": "shame",
+      "dialogue": "And I commend her for making something of herself.  I'm upset that she lied to you.  So what? She was ashamed of her background.  Who isn't embarrassed by their parents at some point?  I'll assume that's a rhetorical question.",
+      "target_person": "Her",
+      "target_gender": "female",
+      "cause_raw": "lying about her background",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "WP2032_holly",
+      "emotion": "pride",
+      "dialogue": "Right. The thing. With your mother. That's tonight.  - I'm afraid so. - OK.  I am so proud of you.  - Thank you. - OK.  - I love you. - I love you, too. Congratulations.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2033_holly",
+      "emotion": "pride",
+      "dialogue": "And all of a sudden, I just needed a different life.  And you've done real well for yourself.  I'm proud of you, Mel.  I'm just sorry I never danced with you at our wedding.  I'm sure this next one will go better for you.",
+      "target_person": "Mel",
+      "target_gender": "male",
+      "cause_raw": "creating a different life for himself",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

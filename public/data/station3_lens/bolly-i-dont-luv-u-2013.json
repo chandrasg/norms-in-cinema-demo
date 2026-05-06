@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "339167",
+    "title": "I Don't Luv U",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/qi7Fz7OLzYsntg5oOOoJ9CdAi6C.jpg",
+    "overview": "Yuvaan is a friendly 19 year old college boy. The story begins with Yuvaan falling from a balcony with a diary, and being taken to the hospital. An inspector comes for investigation and finds out that he is the same guy who was there in the mms scandal. He starts thinking that if Yuvaan wanted to commit suicide then why with the diary . Then he starts reading the diary."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {},
+  "dialogues": [
+    {
+      "dialogue_id": "s2532_bolly",
+      "emotion": "shame",
+      "dialogue": "Guide me, Oh my Lord! - Have some, Sir. - How are the savories? - Delicious! You silly! That boy is dying, and you are having savories here. Shameless! I thought we needed some refreshments. - Yes. Sir, he is the boy.. - Yes. - ..who was involved in that scandal.",
+      "target_person": "character having savories",
+      "target_gender": "unclear",
+      "cause_raw": "insensitivity towards a serious situation",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2533_bolly",
+      "emotion": "shame",
+      "dialogue": "We have got breaking news of sex scandal from a renowned college in Delhi. The college related to this scandal is one of the biggest and oldest colleges. You can't even imagine how shameful this is. A very shocking incident which has crippled the education system. One moment.",
+      "target_person": "college",
+      "target_gender": "unclear",
+      "cause_raw": "sex scandal",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "p1310_bolly",
+      "emotion": "pride",
+      "dialogue": "You are the aim of my life Your love spreads like fragrance I feel proud of myself Do I love you? What I feel is really true, Do I love you?",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "love for someone",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

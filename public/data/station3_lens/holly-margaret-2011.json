@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "44754",
+    "title": "Margaret",
+    "year": "2011",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/zqBao8uRH6TQAJd13tqC22vPB76.jpg",
+    "overview": "17-year-old Lisa feels certain that she inadvertently played a role in causing a traffic accident that claimed a woman's life. In her attempts to set things right, she meets with opposition at every step. Torn apart with frustration, she begins emotionally brutalizing her family, her friends, her teachers, and, most of all, herself. She has been confronted quite unexpectedly with a basic truth: that her youthful ideals are on a collision course with the realities and compromises of the adult world."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "female": 1,
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS957_holly",
+      "emotion": "shame",
+      "dialogue": "No. No, I never read them unless I know for sure there's nothing bad in them.  Well, thank you.  I'm ashamed of myself for giving a s**t, but I'm very relieved.  Victor, I wish you wouldn't talk that way to me.  You know I'm...",
+      "target_person": "Victor",
+      "target_gender": "male",
+      "cause_raw": "speaking disrespectfully",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "WP1781_holly",
+      "emotion": "pride",
+      "dialogue": "Well, math was never my strong suit either, so... Well, I guess I'm following in your footsteps in that regard.  Well, I guess I'm following in your footsteps in that regard.  Well, I'm proud to hear it.  So, how are you?  Um... I'm okay. Things are okay.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "following in speaker's footsteps",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1782_holly",
+      "emotion": "pride",
+      "dialogue": "- That's not true. - Well, I can't.  And I want you to know, Lisa,  I'm very, very proud of you for pursuing this the way that you have.  But I can't let you pursue it to the point where it's taking over your life  or interfering with your schoolwork.",
+      "target_person": "Lisa",
+      "target_gender": "female",
+      "cause_raw": "pursuing something passionately",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP1783_holly",
+      "emotion": "pride",
+      "dialogue": "I mean, what we're most concerned about here is the amount.  Yes, we're getting that, Rob.  - Lisa, I'm really proud of you! - Thank you.  - Really, really proud! - Thank you.  So, what happens now?",
+      "target_person": "Rob",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1784_holly",
+      "emotion": "pride",
+      "dialogue": "Yes, we're getting that, Rob.  - Lisa, I'm really proud of you! - Thank you.  - Really, really proud! - Thank you.  So, what happens now?  - They have to figure out the terms. - Uh-huh.",
+      "target_person": "Rob",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

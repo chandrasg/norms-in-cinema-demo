@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "1645",
+    "title": "A Time to Kill",
+    "year": "1996",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/w8UCke112E9jrhjKcwG32kyhTx5.jpg",
+    "overview": "A young lawyer defends a black man accused of murdering two white men who raped his 10-year-old daughter, sparking a rebirth of the KKK."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP1234_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah. No, we just saw it.  All right, Harry Rex. Yeah.  Baby, I'm proud of you.  Good stuff, huh? Mm-hm.  You hear this? Put it on speakerphone.",
+      "target_person": "Harry Rex",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1235_holly",
+      "emotion": "pride",
+      "dialogue": "It sure is a nigger's world.  Not for long.  Boys, I am very proud to invite you to become soldiers... in the war to protect our Christian homes and families.  in the war to protect our Christian homes and families.  To resurrect our country from the fires of racial degradation.",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "inviting others to join in a war to protect their homes and families",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP1236_holly",
+      "emotion": "pride",
+      "dialogue": "Dead, buried... probably starting to rot.  probably starting to rot.  And I remember them walking in court... one proud, the other scared.  one proud, the other scared.  I remember how they fell.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1237_holly",
+      "emotion": "pride",
+      "dialogue": "probably starting to rot.  And I remember them walking in court... one proud, the other scared.  one proud, the other scared.  I remember how they fell.  One on top of the other, and screaming and squirming... and not going nowhere.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1238_holly",
+      "emotion": "pride",
+      "dialogue": "That's a jury of my peers?  God bless America.  My name is Stump Sisson... and I'm proud to be a \"Grand Dragon...\" for the Invisible Empire of the Ku Klux Klan.  for the Invisible Empire of the Ku Klux Klan.  What the hell?",
+      "target_person": "Stump Sisson",
+      "target_gender": "male",
+      "cause_raw": "being a \"Grand Dragon\" for the Invisible Empire of the Ku Klux Klan",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1239_holly",
+      "emotion": "pride",
+      "dialogue": "But you can.  You're an attorney.  Be proud.  Your job is to find justice... no matter how well she may hide herself from you.  no matter how well she may hide herself from you.",
+      "target_person": "attorney",
+      "target_gender": "unclear",
+      "cause_raw": "for being an attorney",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

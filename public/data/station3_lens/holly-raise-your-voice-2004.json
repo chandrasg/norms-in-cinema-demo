@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "14024",
+    "title": "Raise Your Voice",
+    "year": "2004",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/3waZREH25DZ8XqZSndCxZ7IiVzR.jpg",
+    "overview": "A coming-of-age story centered around a small-town singer brokenhearted by the death of her brother in a car crash, who had secretly submitted her for a summer session at a performing arts academy in Los Angeles. In the academy, she experiences a whole new way of life in the big city, far from the small town lifestyle she's used to."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1233_holly",
+      "emotion": "shame",
+      "dialogue": "315.  Jay. There you are.  Send you out for a snack and you bring home a stray. Shame.  Mmm. Hey. I'm Terri.  - Uh-huh. - I'll catch you later.",
+      "target_person": "Jay",
+      "target_gender": "male",
+      "cause_raw": "bringing home a stranger",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WP2235_holly",
+      "emotion": "pride",
+      "dialogue": "- Why was this in the trash? - You got in.  Congratulations.  - Paul would be so proud of you. - Mom, what are you doing?  If Paul were here, he would just get  in another screaming fight with Dad about it.",
+      "target_person": "Paul",
+      "target_gender": "male",
+      "cause_raw": "getting accepted presumably into a program or institution)",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP2236_holly",
+      "emotion": "pride",
+      "dialogue": "I just-- I was wrong.  I can just be, uh, pretty hardheaded sometimes, you know?  Anyway, I just wanted to tell you that, uh... it was probably the proudest moment of my life  it was probably the proudest moment of my life  seeing you up there.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2237_holly",
+      "emotion": "pride",
+      "dialogue": "I can just be, uh, pretty hardheaded sometimes, you know?  Anyway, I just wanted to tell you that, uh... it was probably the proudest moment of my life  it was probably the proudest moment of my life  seeing you up there.  I just wish Paul could have seen it.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "seeing the listener up there",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

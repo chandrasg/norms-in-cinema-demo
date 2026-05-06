@@ -1,0 +1,71 @@
+{
+  "film": {
+    "id": "26350",
+    "title": "Perestroika",
+    "year": "2009",
+    "industry": "holly",
+    "country": "RU|US",
+    "poster_path": "/jNU94ixzFzyMaQWhH0PfAKq5KnK.jpg",
+    "overview": "Top astrophysicist Sasha Greenberg has spent the past 17 years working in the United States. An invitation to speak at a Congress on Cosmology in his native Moscow brings him home for the first time to confront colleagues, and unanswered personal questions. As Russia undergoes perestroika, public and private lives are radically re-assessed and Sasha sees the social and sexual upheavals as a crisis"
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS873_holly",
+      "emotion": "shame",
+      "dialogue": "Yeah. Right.  Want to come over? I have some vodka... OK? Let's go.  No shame! No shame at all!  Now they're bringing men to the rooms... Oh, wait till I call the police.  Don't pay any attention. She's totally harmless.",
+      "target_person": "Unnamed Woman",
+      "target_gender": "female",
+      "cause_raw": "inviting men to her room",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WP1584_holly",
+      "emotion": "pride",
+      "dialogue": "I should have recognized Greenberg as a future traitor right away. I am guilty.  I only hope never to repeat this mistake.  We are proud of Sasha's success in America,  his achievements are ours, for he is flesh of our flesh and blood of our blood.  All the more joyous this day, when we can again be together.",
+      "target_person": "We",
+      "target_gender": "male",
+      "cause_raw": "Sasha's success in America",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP1585_holly",
+      "emotion": "pride",
+      "dialogue": "Let us drink to ourselves, friends,  the most daring representatives of the daring race of humankind!  What's there to be proud of? Man's a dirty animal!  The only species with the bent and ability to self-destruct,  taking the rest of the planet with it!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1586_holly",
+      "emotion": "pride",
+      "dialogue": "Our waters are poisoned.  Entire species of animals are being annihilated!  We are living on a bomb with the lit fuse, and still we dare to be proud of ourselves!  And all human family values and social traditions have collapsed.  For real, do you have a wife or not?",
+      "target_person": "Speaker",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

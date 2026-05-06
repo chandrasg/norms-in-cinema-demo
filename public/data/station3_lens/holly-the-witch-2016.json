@@ -1,0 +1,90 @@
+{
+  "film": {
+    "id": "310131",
+    "title": "The Witch",
+    "year": "2016",
+    "industry": "holly",
+    "country": "BR|CA|GB|US",
+    "poster_path": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+    "overview": "In 1630, a farmer relocates his family to a remote plot of land on the edge of a forest where strange, unsettling things happen. With suspicion and paranoia mounting, each family member's faith, loyalty and love are tested in shocking ways."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1,
+      "female": 1
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS168_holly",
+      "emotion": "shame",
+      "dialogue": "And broken every one of thy commandments in thought.  Followed the desires of mine own will, and not the Holy Spirit.  I know I deserve more shame and misery in this life... and everlasting hellﬁre.  and everlasting hellﬁre.  But I beg Thee... for the sake of Thy Son... forgive me, show me mercy,",
+      "target_person": "Speaker",
+      "target_gender": "male",
+      "cause_raw": "not following religious commandments",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "WS169_holly",
+      "emotion": "shame",
+      "dialogue": "- Thomasin... - I hate thy pity. I need it not.  And forgive us the sins we have this day committed against thee,  free us from the shame and torment which are due unto us, Father.  We beseech thee, increase our faith in the promise of the Gospel,  our fear of thy name and the hatred of all our sins,",
+      "target_person": "Thomasin",
+      "target_gender": "female",
+      "cause_raw": "committing sins",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "WP290_holly",
+      "emotion": "pride",
+      "dialogue": "for I have done nothing save preach Christ through gospel.  Must you continue to dishonor  the laws of the commonwealth and the church with your prideful conceit?  If my conscience sees it fit.  Then shall you be banished from this plantation's liberties!",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "preaching Christ through gospel",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP291_holly",
+      "emotion": "pride",
+      "dialogue": "Oh, my God.  My own fault.  I am infected with the filth of pride.  I know it.  I am.",
+      "target_person": "My own fault",
+      "target_gender": "unclear",
+      "cause_raw": "self-realization of pride",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP292_holly",
+      "emotion": "pride",
+      "dialogue": "You're smeared of his sin. You reek of Evil!  - You've made a covenant with death! - Mother!  You bewitched thy brother, proud s**t!  Did you not think I saw thy sluttish looks to him,  bewitching his eye as any w***e?",
+      "target_person": "Mother",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "film": {
+    "id": "2310",
+    "title": "Beowulf",
+    "year": "2007",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/7QsWYyJAV97N9jOh21pdRIqJeJq.jpg",
+    "overview": "A 6th-century Scandinavian warrior named Beowulf embarks on a mission to slay the man-like ogre, Grendel."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1315_holly",
+      "emotion": "shame",
+      "dialogue": "there should be no singing or merrymaking of any kind.  This place reeks of death.  The scops are singing the shame of Herot  as far south as the middle kingdom and as far north as the ice-lands.  I've let it be known that I will give half the gold in my kingdom",
+      "target_person": "Herot",
+      "target_gender": "unclear",
+      "cause_raw": "causing death and destruction",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WS1316_holly",
+      "emotion": "shame",
+      "dialogue": "They say your lands are cursed.  Is that what they say?  Bards sing of Hrothgar's shame  from the frozen North to the shores of Vinland.  There's no shame to be accursed by demons!",
+      "target_person": "Hrothgar",
+      "target_gender": "male",
+      "cause_raw": "being cursed or accursed by demons",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS1317_holly",
+      "emotion": "shame",
+      "dialogue": "Bards sing of Hrothgar's shame  from the frozen North to the shores of Vinland.  There's no shame to be accursed by demons!  I am Beowulf! And I am here to kill your monster.  I thought there were no more heroes foolish enough",
+      "target_person": "Hrothgar",
+      "target_gender": "male",
+      "cause_raw": "being accursed by demons",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS1321_holly",
+      "emotion": "shame",
+      "dialogue": "I declare that on my death,  all that I possess, my kingdom,  my hall of sadness and shame,  and even my lovely young Queen,  my Wealthow,",
+      "target_person": "Wealthow",
+      "target_gender": "female",
+      "cause_raw": "being treated as a possession",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "WS1322_holly",
+      "emotion": "shame",
+      "dialogue": "The Christ God has killed it,  leaving humankind with nothing but weeping martyrs,  fear and shame.  Show me to Beowulf! Show me to King Beowulf!  Come on, Frisian. Speak up!",
+      "target_person": "Frisian",
+      "target_gender": "male",
+      "cause_raw": "not speaking up",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP2380_holly",
+      "emotion": "pride",
+      "dialogue": "swam against Brecca and lost.  He risked his life and Brecca's  to serve his own vanity and pride.  A boastful fool.  And he lost!",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "19899",
+    "title": "Couples Retreat",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/igXVSRZsNX3TZsKrQqSyEJvzHRF.jpg",
+    "overview": "Four couples, all friends, descend on a tropical island resort. Though one husband and wife are there to work on their marriage, the others just want to enjoy some fun in the sun. They soon find, however, that paradise comes at a price: Participation in couples therapy sessions is mandatory. What started out as a cut-rate vacation turns into an examination of the common problems many face."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Academic Success",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2576_holly",
+      "emotion": "pride",
+      "dialogue": "You're smart. You're a good person.  You just got accepted into Stanford.  We're so proud of you.  I'm just saying know your value, okay?  And if a guy doesn't see that, he doesn't deserve you.",
+      "target_person": "parents",
+      "target_gender": "female",
+      "cause_raw": "getting accepted into Stanford",
+      "theme_label": "Academic Success"
+    },
+    {
+      "dialogue_id": "WP2577_holly",
+      "emotion": "pride",
+      "dialogue": "We are all made in God's image.  That means we are all perfect.  Stand with pride. Look closer. Own your bodies.  And now, tell your partner a truth. A beautiful truth.  You look like the earth.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2578_holly",
+      "emotion": "pride",
+      "dialogue": "No, no, no. Don't be sorry. You shouldn't be sorry.  No, I aroused you.  You should be proud.  This hasn't happened to me in a long time.  Are you attempting to have a manual stimulation from me, sir?",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "arousing someone",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2579_holly",
+      "emotion": "pride",
+      "dialogue": "For that, I'm sorry. You see, I sell video games, Sctanley.  And this one here, in particular, in fact.  And I'm proud to stand here before you  and tell you it brings me as much happiness  as it does for the people I provide them to.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "selling video games",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2580_holly",
+      "emotion": "pride",
+      "dialogue": "the wolf.  The wolf is by nature a pack animal  and one of the few proud members  of the animal kingdom that mates for life.  Congratulations.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

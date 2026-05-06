@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "710022",
+    "title": "Teenage Girl: First Wheels",
+    "year": "2020",
+    "industry": "holly",
+    "country": "",
+    "poster_path": "/5VwcUw5dRxzMk3VHoDbZ7KKQJ3o.jpg",
+    "overview": "When her family goes out of town, Alex and her fellow band geek friend Claire decide to take her brother's red 1966 Mustang on weekend joyride in hopes of appearing cool and impressing her high school crush."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2616_holly",
+      "emotion": "pride",
+      "dialogue": "Yeah, yeah.  - Thanks mom and dad.  - We're so proud of you, son.  - You deserve it, you worked for it  and you earned every bit of it.",
+      "target_person": "parents",
+      "target_gender": "male",
+      "cause_raw": "son's hard work and achievement",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "WP2617_holly",
+      "emotion": "pride",
+      "dialogue": "And this will just be a memory in my life.  A time in my life when I just wanted to feel real,  but I don't know if I should be proud or upset.  I'm just a stupid band nerd,  trying to beat the odds.",
+      "target_person": "band nerd",
+      "target_gender": "unclear",
+      "cause_raw": "trying to beat the odds",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP2618_holly",
+      "emotion": "pride",
+      "dialogue": "because she's such a good influence.  You know, nothing bad would happen.  See, that's something to be proud of.  That shows that we did a good job parenting  because most parents, they go away for a weekend",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "good parenting",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

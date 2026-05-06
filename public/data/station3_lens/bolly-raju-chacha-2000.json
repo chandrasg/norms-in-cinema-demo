@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "383281",
+    "title": "Raju Chacha",
+    "year": "2000",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/eWT27sD5lp8y5CaMoknhFO3OwRi.jpg",
+    "overview": "Raju is hired to pose as uncle to three orphaned kids in order to usurp their inheritance. But he changes his mind after falling in love with their governess and decides to fight the greedy relatives."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 2
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1523_bolly",
+      "emotion": "shame",
+      "dialogue": "Surely in the boudoir of his dreams, with Sanjna. Sanjna everywhere Tell me Jadu, where is he? - If you are so anxious to know...how he pines, I'll tell you where. The hapless lover is at Sunset Point You...?I'm ashamed about yesterday. Please forgive me I've harassed you a lot. If you ask me the truth...it isn't my fault. Nor yours. God has played a cruel joke on me He takes Sanjna away from me, and He sends me a look-alike...to make me suffer",
+      "target_person": "Jadu",
+      "target_gender": "male",
+      "cause_raw": "Harassing a woman",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1524_bolly",
+      "emotion": "shame",
+      "dialogue": "Had you stolen all my money, I wouldn't be as hurt...as I am to see this innocent girl deceived. What did you want to steal? What does this poor girl have? What she had, fate has already taken You should be ashamed Yes sir. Whatever you said is true. I am a liar. I am a fraud But I am not deceiving Anna. I love her truly!",
+      "target_person": "character",
+      "target_gender": "male",
+      "cause_raw": "deceiving a girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s1525_bolly",
+      "emotion": "shame",
+      "dialogue": "Why do you stay so far away from me? - Because of him...Who? - He There's no one here! Just you and me! B*****d! Aren't you ashamed of doing this with your sister-in-law? They'll end up killing each other! What's this? Where are you taking me? - To show you magic",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior with sister-in-law",
+      "theme_label": "Inappropriate Behavior"
+    }
+  ]
+}

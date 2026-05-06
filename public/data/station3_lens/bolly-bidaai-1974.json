@@ -1,0 +1,107 @@
+{
+  "film": {
+    "id": "307871",
+    "title": "Bidaai",
+    "year": "1974",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/vj4dW4euuhxeGjr05kGwfWgyC2Q.jpg",
+    "overview": "After his business partner embezzles money and leaves him penniless, Parvati's husband passes away, leaving behind two sons, Prabhakar and Sudhakar, & a dumb daughter, Gauri, virtually on the verge of destitution, When Prabhakar grows up, he marries Pooja and moves out. Years pass by, Sudhakar has grown up, has managed to complete schooling, gets a job out of town and re-locates."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 2
+    },
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4742_bolly",
+      "emotion": "shame",
+      "dialogue": "I didn't come, I was called You're roaming around with a fiery tongue Aren't you ashamed to come into my house and setting it on fire? Father, mind your language I'm going to marry him Are you so courageous to talk about your marriage?",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "choosing her own partner",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s4743_bolly",
+      "emotion": "shame",
+      "dialogue": "Not only the handicapped he is looting all of us He's pain in the neck for all of us Aren't you ashamed! so many people are scared of one rowdy? If you don't protect yourself Will an outsider come to rescue you?",
+      "target_person": "community",
+      "target_gender": "unclear",
+      "cause_raw": "fear of confronting a rowdy",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4744_bolly",
+      "emotion": "shame",
+      "dialogue": "I wasn't born by normal method I've no father Don't say like this, brother don't say like this Circumstances may change..But don't feel ashamed to identify your father Son, forgive me for my misbehaviour Forget Gauri's episode About her....if I say anything about her you can punish me in any way you like",
+      "target_person": "Gauri's lover",
+      "target_gender": "male",
+      "cause_raw": "illegitimate birth",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4745_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm not a daughter-in-law I'm only dating with him You're keeping quiet & getting me insulted, aren't you ashamed? You bloody real father of mine Do you know who I am?",
+      "target_person": "boyfriend",
+      "target_gender": "male",
+      "cause_raw": "not defending his girlfriend",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "p2672_bolly",
+      "emotion": "pride",
+      "dialogue": "Rich & Romantic husband Take these documents From today, you're the proud owner of this palatial bungalow I've arranged a cotton mill also to be transferred to your name Why've you staring at me like that?",
+      "target_person": "husband",
+      "target_gender": "male",
+      "cause_raw": "providing property and business",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p2673_bolly",
+      "emotion": "pride",
+      "dialogue": "Laugh!, why are you mourning? Look at the smile on my face Look at the pride on a mother's last journey There's no thirst in the heart no wish is left unfulfilled I saw you as a flower in my lap I saw you as a withered flower also",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "seeing her child grow",
+      "theme_label": "Parental Pride"
+    }
+  ]
+}

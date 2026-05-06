@@ -1,0 +1,64 @@
+{
+  "film": {
+    "id": "77016",
+    "title": "End of Watch",
+    "year": "2012",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/pDeVKQICkcdwwjHxGj0MeS14YJ6.jpg",
+    "overview": "Two young officers are marked for death after confiscating a small cache of money and firearms from the members of a notorious cartel during a routine traffic stop."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP747_holly",
+      "emotion": "pride",
+      "dialogue": "F**k! We f*****g lit 'em up, dawg!  Show those putos whose neighborhood this f****r is! S**t.  F*****g proud of you, man.  And that's what I'm f*****g telling you. Good.  That was f*****g good, man. That's what I'm f*****g telling you.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "defending their neighborhood",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP748_holly",
+      "emotion": "pride",
+      "dialogue": "And that's what I'm f*****g telling you. Good.  That was f*****g good, man. That's what I'm f*****g telling you.  I'm proud of you. F*****g proud.  F*****g did it. That's what I'm f*****g talking about, man.  I'm f*****g proud of you, man.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP749_holly",
+      "emotion": "pride",
+      "dialogue": "I'm proud of you. F*****g proud.  F*****g did it. That's what I'm f*****g talking about, man.  I'm f*****g proud of you, man.  F*****g proud of you, man, now you're a f*****g man.  Right? Right? Right, homie.",
+      "target_person": "homie",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP750_holly",
+      "emotion": "pride",
+      "dialogue": "F*****g did it. That's what I'm f*****g talking about, man.  I'm f*****g proud of you, man.  F*****g proud of you, man, now you're a f*****g man.  Right? Right? Right, homie.  Right.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

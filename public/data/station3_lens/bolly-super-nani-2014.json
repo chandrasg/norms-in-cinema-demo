@@ -1,0 +1,116 @@
+{
+  "film": {
+    "id": "299692",
+    "title": "Super Nani",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/jpYoXymC50WxvqhZunSPdpp6njA.jpg",
+    "overview": "The movie revolves around how an Indian woman, Bharti, who sacrifices her life for her children and husband, and yet they do not value her or her sacrifices, and they all maltreat her. Then tables turn when her grandson, Mann comes to her rescue. He gets her modeling assignments which makes her more successful than any of the family members, including her husband. Even after so much success she misses the love and affection of family members. Mann suggests her to teach everyone in the house a lesson so that they start to value her. The movie has a happy end where she reunites with her family and they learn to respect her and value the efforts she makes for keeping them happy. The moral of the movie is importance of your mother and what all she does for you. Respecting her and valuing her efforts."
+  },
+  "totals": {
+    "shame": 5,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Immodesty",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2,
+      "female": 2
+    },
+    "pride": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4268_bolly",
+      "emotion": "shame",
+      "dialogue": "Arrest him. Catch him! Hey! What are you doing? What's this shamelessness? What's this shamelessness? What a scene, sir. - Shut up! No, sir, it's not what you think.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior in public",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4269_bolly",
+      "emotion": "shame",
+      "dialogue": "Hey! What are you doing? What's this shamelessness? What's this shamelessness? What a scene, sir. - Shut up! No, sir, it's not what you think.",
+      "target_person": "character caught in a compromising situation",
+      "target_gender": "unclear",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s4270_bolly",
+      "emotion": "shame",
+      "dialogue": "It's Mann's idea. Don't I look like a CEO's wife? Aren't you ashamed to dress like this? - What? Why, Mr. R.K? Doesn't Chandni dress the same way?",
+      "target_person": "Mann's wife",
+      "target_gender": "female",
+      "cause_raw": "Dressing inappropriately",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "s4271_bolly",
+      "emotion": "shame",
+      "dialogue": "Mom! Mom, you're filing a complaint against your own son! Aren't you ashamed? Look at that. Rakhi Sawant is trying to teach manners to Sharmila Tagore.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "mother filing a complaint against her own son",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s4272_bolly",
+      "emotion": "shame",
+      "dialogue": "He claimed to give his life....but now he's deserted you, Gargi. When he couldn't accept his own wife and kids....how could he accept you? I feel so ashamed. I should just die. I should just die.",
+      "target_person": "Gargi",
+      "target_gender": "female",
+      "cause_raw": "being deserted by her partner",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p2347_bolly",
+      "emotion": "pride",
+      "dialogue": "My short film made you cry. Can't help it. I'm so proud to be your mom. You made a big point, son. This short film will remind everyone....about their mom's sacrifices.",
+      "target_person": "mom",
+      "target_gender": "female",
+      "cause_raw": "son's achievement in filmmaking",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p2348_bolly",
+      "emotion": "pride",
+      "dialogue": "May you be blessed with happiness. And I hear the giggles of a child soon. Make my family proud. May your life be filled with joy and happiness. Lord, bless my family with Your grace.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p2349_bolly",
+      "emotion": "pride",
+      "dialogue": "Light. Camera. - Rolling. Action. The pride of every Indian woman. Bharti Saris. All the stars of the universe conjured in this one drop. Kainath Diamonds.",
+      "target_person": "narrator",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

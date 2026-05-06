@@ -1,0 +1,87 @@
+{
+  "film": {
+    "id": "155973",
+    "title": "Aan: Men at Work",
+    "year": "2004",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/3iZjhwvpnSrZPWviWWSs2wu10ey.jpg",
+    "overview": "Crime is at its highest peak in Mumbai with it split in three ways. Walia has one-third, Manik Rao has one-third and Roshni has a third of the Mumbai territory. The crime rate rises with more smuggling, trading and illegal activities soaring."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 6
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 4
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 5,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2165_bolly",
+      "emotion": "pride",
+      "dialogue": "Otherwise, if I have to do something......it will be a problem for you throughout your life. I don't know why small police officers like don't understand their worth. What are you so proud about? Hey, if eunuchs like you can have pride......then why can't the police officers like us have it? Walia, raising your hand on a woman is the first token of eunuchs.",
+      "target_person": "police officer",
+      "target_gender": "male",
+      "cause_raw": "his profession",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2166_bolly",
+      "emotion": "pride",
+      "dialogue": "I don't know why small police officers like don't understand their worth. What are you so proud about? Hey, if eunuchs like you can have pride......then why can't the police officers like us have it? Walia, raising your hand on a woman is the first token of eunuchs. Shut up!",
+      "target_person": "police officer",
+      "target_gender": "male",
+      "cause_raw": "his profession",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2167_bolly",
+      "emotion": "pride",
+      "dialogue": "Whatever illegal deals they have been named in......they should be investigated with care. Kiran... - There isn't a need to say anything, Om. I am really proud of you. We will meet in the afternoon. We have passed through a pretty difficult phase.",
+      "target_person": "Kiran",
+      "target_gender": "female",
+      "cause_raw": "Om's actions",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p2168_bolly",
+      "emotion": "pride",
+      "dialogue": "Otherwise, if I have to do something..it will be a problem for you throughout your life. I don't know why small police officers like don't understand their worth. What are you so proud about? Hey, if eunuchs like you can have pride....then why can't the police officers like us have it? Walia, raising your hand on a woman is the first token of eunuchs.",
+      "target_person": "police officer",
+      "target_gender": "male",
+      "cause_raw": "his profession",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2169_bolly",
+      "emotion": "pride",
+      "dialogue": "I don't know why small police officers like don't understand their worth. What are you so proud about? Hey, if eunuchs like you can have pride....then why can't the police officers like us have it? Walia, raising your hand on a woman is the first token of eunuchs. Shut up!",
+      "target_person": "police officer",
+      "target_gender": "male",
+      "cause_raw": "his profession",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p2170_bolly",
+      "emotion": "pride",
+      "dialogue": "Whatever illegal deals they have been named in....they should be investigated with care. Khan“ - There isn't a need to say anything, Om. i am really proud of you. We will meet in the afternoon. We have passed through a pretty difficult phase.",
+      "target_person": "Khan",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

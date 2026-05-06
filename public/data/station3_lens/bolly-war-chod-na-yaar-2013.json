@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "227338",
+    "title": "War Chod Na Yaar",
+    "year": "2013",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/zv8Kz6N0j9BfYuqbFiT7LlN05B3.jpg",
+    "overview": "War Chhod Na Yaar is India’s first war comedy movie, set on the backdrop of India-Pakistan war."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Patriotism",
+      "count": 3
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p2809_bolly",
+      "emotion": "pride",
+      "dialogue": "My country is great. My country is great. My country is great. My country is great. When our flag, the Tricolor, flies away in the pride of being Indian. We stand with our heads held high with pride. And our chest becomes broad filled with pride.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "patriotism",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2810_bolly",
+      "emotion": "pride",
+      "dialogue": "My country is great. My country is great. When our flag, the Tricolor, flies away in the pride of being Indian. We stand with our heads held high with pride. And our chest becomes broad filled with pride. When our country calls out to us, we can sacrifice our lives for it.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "patriotism",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "p2811_bolly",
+      "emotion": "pride",
+      "dialogue": "When our flag, the Tricolor, flies away in the pride of being Indian. We stand with our heads held high with pride. And our chest becomes broad filled with pride. When our country calls out to us, we can sacrifice our lives for it. Khatri.",
+      "target_person": "Khatri",
+      "target_gender": "male",
+      "cause_raw": "patriotism",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

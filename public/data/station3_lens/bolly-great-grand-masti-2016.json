@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "403862",
+    "title": "Great Grand Masti",
+    "year": "2016",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/vbbH4PoR6SPhVbospP1nFHzHpiz.jpg",
+    "overview": "Amar, Meet and Prem go into a small town where they encounter a 'femme fatale' in the form of Ragini. Ragini is everything they had dreamed of, but she slowly turns into their worst nightmare!"
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2217_bolly",
+      "emotion": "shame",
+      "dialogue": "What is the matter? Why are you shouting? -Look at this. What have you done to yourself? Aren't you ashamed? Why are you spitting? Have you gone mad? Darling, why are you acting crazy?",
+      "target_person": "person being addressed",
+      "target_gender": "unclear",
+      "cause_raw": "behaving inappropriately",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2218_bolly",
+      "emotion": "shame",
+      "dialogue": "Crazy.. Choti? Bull.. Lakshman? Choti, aren't you ashamed? What will the elders of the house think if they see you? What will they think?",
+      "target_person": "Choti",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2219_bolly",
+      "emotion": "shame",
+      "dialogue": "They're talking about your mother. Come. Mom..Earlier, she used to be shameless and look at her blush now. Dad.. hello. Forget the hello and quickly touch my feet, you fool.",
+      "target_person": "mother",
+      "target_gender": "female",
+      "cause_raw": "being shameless in the past",
+      "theme_label": "Shamelessness"
+    }
+  ]
+}

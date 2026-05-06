@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "97350",
+    "title": "Agni Varsha",
+    "year": "2002",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/nhfDynC2g6fK25ymWreHoiJ0vfe.jpg",
+    "overview": "Based on an incident from the Mahabharata and also made as a play on a Girish Karnad titled Fire in the Rain. The film features Amitabh Bachchan in a cameo appearance as Lord Indra. Jackie Shroff plays the main lead in the film as Puravasu the head priest, Raveena playing the role of his unfaithful wife in love with Yavakri. Nagarjuna played Yavakri the priest's jealous rival and Prabhudeva as a demon who kills Yavakri. While Milind Soman plays the younger brother of Jackie Shroff as Aravasu, the female lead opposite Milind is played by Sonali Kulkarni."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4076_bolly",
+      "emotion": "shame",
+      "dialogue": "Father has told the young men not to get carried away. He likes you. But have you faced your people? Have you told them about us yet? You haven't? Why not? Are you ashamed? Ashamed? I'll show you who's ashamed. You ruffian! Let me go! What're you doing?",
+      "target_person": "young man",
+      "target_gender": "male",
+      "cause_raw": "not standing up for his love",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4077_bolly",
+      "emotion": "shame",
+      "dialogue": "But have you faced your people? Have you told them about us yet? You haven't? Why not? Are you ashamed? Ashamed? I'll show you who's ashamed. You ruffian! Let me go! What're you doing? Don't I have any rights?-No.",
+      "target_person": "character 1",
+      "target_gender": "unclear",
+      "cause_raw": "not acknowledging relationship",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s4078_bolly",
+      "emotion": "shame",
+      "dialogue": "Nittillai, I can't leave her behind like this. Let me go see I'll take this home Some people put the treacherous viper to shame Aren't you the one who asked Andhaka if I knew when I'd die? How do you know that?",
+      "target_person": "Nittillai",
+      "target_gender": "male",
+      "cause_raw": "Accusation of treachery",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "p2206_bolly",
+      "emotion": "pride",
+      "dialogue": "Unless we're together through day and night. I'm the lightning, you're the cloud. You a buzzing bee, I'm the flower proud. Come to me. Who's there?",
+      "target_person": "flower",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

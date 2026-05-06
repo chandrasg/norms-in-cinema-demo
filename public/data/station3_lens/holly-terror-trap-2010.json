@@ -1,0 +1,56 @@
+{
+  "film": {
+    "id": "48669",
+    "title": "Terror Trap",
+    "year": "2010",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/gab9aBrD8fxP2NveitSzOEP4rfV.jpg",
+    "overview": "While driving, an estranged couple's car is hit twice. A sheriff takes them to a motel where they hear disturbing noises from a room, realizing they're part of a deadly game."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP92_holly",
+      "emotion": "pride",
+      "dialogue": "No disrespect.  None taken.  Can't afford to have pride on a night like this, right?  That's right.  So, did you call a tow truck?",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP93_holly",
+      "emotion": "pride",
+      "dialogue": "Took care of them very well.  All right.  Well, I am proud to be an American.  And I hope that you are too.  I am.",
+      "target_person": "American",
+      "target_gender": "male",
+      "cause_raw": "being an American",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP94_holly",
+      "emotion": "pride",
+      "dialogue": "We lament her loss yet we rejoice in gaining the knowledge  that she still continues to look down upon us.  Let's make Sydney proud.  Go in peace.  This funeral has ended.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

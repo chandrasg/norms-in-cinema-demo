@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "147767",
+    "title": "Khiladi 786",
+    "year": "2012",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/3chNHVi7j0jmUvJ1k7n2EYPfFmC.jpg",
+    "overview": "A father who runs a marriage bureau believes that his son is a failure in life. In order to prove him wrong, his son takes on the task of finding a match for a gangster's sister."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Deception",
+      "count": 2
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3045_bolly",
+      "emotion": "shame",
+      "dialogue": "You all lied to me. You lied to me for your son's marriage. Aren't you ashamed? You should all die of shame.  sir, calm down.",
+      "target_person": "son's parents",
+      "target_gender": "unclear",
+      "cause_raw": "lying for son's marriage",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "s3046_bolly",
+      "emotion": "shame",
+      "dialogue": "You all lied to me. You lied to me for your son's marriage. Aren't you ashamed? You should all die of shame.  sir, calm down. Calm down. Take a peek in yourself before blaming others.",
+      "target_person": "son's family",
+      "target_gender": "unclear",
+      "cause_raw": "lying for son's marriage",
+      "theme_label": "Deception"
+    },
+    {
+      "dialogue_id": "p1591_bolly",
+      "emotion": "pride",
+      "dialogue": "And in a truck that has all the colours in the world. Don't insult the trucks. Trucks are the pride of Punjabis. Yeah, right. It's true. It's our way of living.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "Punjabi truck culture",
+      "theme_label": "Cultural Identity"
+    },
+    {
+      "dialogue_id": "p1592_bolly",
+      "emotion": "pride",
+      "dialogue": "Father, I am not leaving. I am bringing your daughter-in-law home. - Yes, son None of our ancestors......saw their sons or grandsons getting married with pride. They'd either marry therm in the streets......or elope with the girls in taxis. Bahattar, for the first time......we'll be associated with such a honourable family.",
+      "target_person": "Bahattar's father",
+      "target_gender": "male",
+      "cause_raw": "son's marriage to a respectable family",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

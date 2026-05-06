@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "19276",
+    "title": "Dhoondte Reh Jaaoge",
+    "year": "2009",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6BhThM04qrtnQGsUXJYBU2reD1G.jpg",
+    "overview": "Anand Pawar (Kunal Khemu) and Raj Chopra (Paresh Rawal) are perhaps the two most extreme individuals that have walked the city of Mumbai. While Anand is an idealist chartered accountant, Raj is an idle film producer."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Violence",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1,
+      "male": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1112_bolly",
+      "emotion": "shame",
+      "dialogue": "Why is Ria marrying him? With that Chameli? He calls Mr. Bajaj names. What names? <i>Champa. Shame“. Rukhsana.</i> And.. - And what? Bald woman. Bald woman? - Enough! Enough!",
+      "target_person": "Ria",
+      "target_gender": "female",
+      "cause_raw": "Marrying a man who disrespects others",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s1113_bolly",
+      "emotion": "shame",
+      "dialogue": "Did you do the right thing with Bajaj? Bajaj? First, I'll take that Bajaj to Delhi...then to Qutub Minar....And I'll throw him down from there. I'll die out of shame if I fail to do so. What nonsense? Throw me down from Qutub Minar? I won't go to Qutub Minar.",
+      "target_person": "Bajaj",
+      "target_gender": "male",
+      "cause_raw": "Threatened with physical harm",
+      "theme_label": "Violence"
+    },
+    {
+      "dialogue_id": "p563_bolly",
+      "emotion": "pride",
+      "dialogue": "Beat him up! - Hit him! Hit him! - Hey, let go off me. He has made the colony proud! Derelict! Anand! - Anand! If you want vegetables, Then call me. Sakhubai will make a home delivery.",
+      "target_person": "Sakhubai",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

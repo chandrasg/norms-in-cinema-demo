@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "181812",
+    "title": "Star Wars: The Rise of Skywalker",
+    "year": "2019",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+    "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Cultural Identity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2798_holly",
+      "emotion": "pride",
+      "dialogue": "Excellent news, Galen.  The battle station is complete.  You must be very proud.  Proud as I can be, Krennic.  Gather your engineers. I have an announcement.",
+      "target_person": "Galen",
+      "target_gender": "male",
+      "cause_raw": "completion of the battle station",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2799_holly",
+      "emotion": "pride",
+      "dialogue": "The battle station is complete.  You must be very proud.  Proud as I can be, Krennic.  Gather your engineers. I have an announcement.  (INDISTINCT CONVERSATION)",
+      "target_person": "Krennic",
+      "target_gender": "male",
+      "cause_raw": "completing the battle station",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2800_holly",
+      "emotion": "pride",
+      "dialogue": "Rogue One, may the Force be with you.  All ships prepare for jump to hyperspace.  Your father would have been proud of you, Jyn.  The rebel flagship is disabled, my lord... but has received transmissionsfrom the surface.  Prepare a boarding party.",
+      "target_person": "Jyn's father",
+      "target_gender": "male",
+      "cause_raw": "Jyn's actions",
+      "theme_label": "Cultural Identity"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "film": {
+    "id": "11568",
+    "title": "Blues Brothers 2000",
+    "year": "1998",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/nCoY8UK2x4DWpICipL40Hg4cDmO.jpg",
+    "overview": "Finally released from prison, Elwood Blues is once again enlisted by Sister Mary Stigmata in her latest crusade to raise funds for a children's hospital. Hitting the road to re-unite the band and win the big prize at the New Orleans Battle of the Bands, Elwood is pursued cross-country by the cops."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Immodesty",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS697_holly",
+      "emotion": "shame",
+      "dialogue": "Called Adam by his name  And he refused to answer  Because he's naked and ashamed  Who's that writing? John the Revelator  Well, who's that writing? John the Revelator",
+      "target_person": "Adam",
+      "target_gender": "male",
+      "cause_raw": "nudity and refusal to answer",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WS698_holly",
+      "emotion": "shame",
+      "dialogue": "Called Adam by his name  Adam wouldn't answer  'Cause he was naked and ashamed  - Tell me, who's that writing? - John the Revelator  - Tell me, who's that writing? - John the Revelator",
+      "target_person": "Adam",
+      "target_gender": "male",
+      "cause_raw": "nudity",
+      "theme_label": "Immodesty"
+    },
+    {
+      "dialogue_id": "WP1388_holly",
+      "emotion": "pride",
+      "dialogue": "And now the Devildrivers star, Rick Avery,  does the triple-ramp loop through the ring of fire!  And now the county fair is proud to present tonight's musical entertainment,  the Kentucky Bluegrass Brothers!  What's with the hats and beards?",
+      "target_person": "county fair",
+      "target_gender": "unclear",
+      "cause_raw": "presenting musical entertainment",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

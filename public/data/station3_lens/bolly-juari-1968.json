@@ -1,0 +1,102 @@
+{
+  "film": {
+    "id": "307394",
+    "title": "Juari",
+    "year": "1968",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/6BhFgDi8hwhxAM6vn3xlS7yrDF8.jpg",
+    "overview": "Rakesh is an unemployed youngster who turns to a master gambler for existence. But even after getting rich he values morals than money. But slowly he feels that he is being used by a rich woman. Rakesh is now forced to question whether he chose the right way to get rich."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 2
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2798_bolly",
+      "emotion": "shame",
+      "dialogue": "For them I have to earn. If both weren't there, I would have managed well. Shameless girl! Do you want your daughter to sell herself for your bad habits? - Rascal? - Dad?",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "father's bad habits",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s2799_bolly",
+      "emotion": "shame",
+      "dialogue": "Daughter Saroj's character is Blemish less like Gange' s water. Mr. Saint, you just roam around, what would you know? Don't you feel ashamed speaking such rubbish? If my wife were to go to some stranger...You told me you are not in habit of eating? I just got it.",
+      "target_person": "Mr. Saint",
+      "target_gender": "male",
+      "cause_raw": "spreading rumors about Saroj",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s2800_bolly",
+      "emotion": "shame",
+      "dialogue": "I will arrange for a new house for you today itself. Hey Mr. take her away, we'll be highly obliged that sinner is gone. Mind your language! You should be ashamed to defame a good girl. She is like Goddess and you are a God. Thief's brother and sister. Shut up! Get lost!",
+      "target_person": "girl",
+      "target_gender": "female",
+      "cause_raw": "being accused of sinning",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s2801_bolly",
+      "emotion": "shame",
+      "dialogue": "I am here with you, mom. My your son was lost in the muck of fraud and greed. I am so ashamed that you had to bear so much due to me. I do not care about my sorrows......but I am sad by changes in my Keshav. My I swear upon you......that from toady I will be honest and live with hard earned money.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "involvement in fraudulent activities",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p1466_bolly",
+      "emotion": "pride",
+      "dialogue": "British, happy with his service honored him with Raibahadur. But my father still wants to live in the same manner......which is difficult in these times of hunger and joblessness. He doesn't have the money......but has false pride and satisfaction......that he is Raibahadur. You have spoiled Rakesh! Asking me to stop charity.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "Being honored with Raibahadur",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p1467_bolly",
+      "emotion": "pride",
+      "dialogue": "Would be treated with respect in society. Better keep this respect and glory to yourself. For me it's all pretensions......which is bent upon hollow pride to base the life upon. - I am going. - Wait, son. You were never so even as kid. Then I was learning to walk.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "film": {
+    "id": "15716",
+    "title": "The Pirates of Penzance",
+    "year": "1983",
+    "industry": "holly",
+    "country": "GB|US",
+    "poster_path": "/f2bvgBjzvTXU3qA1EWFhcNRb6Xv.jpg",
+    "overview": "As a young child, Frederic had been apprenticed to a pirate by mistake when he should have been apprenticed to a pilot. Now, having reached his 21st year, Frederic's indentures are at last over and he happily leaves the service of the pirates. When Frederic meets the beautiful Mabel, one of the many daughters (or wards in Chancery) of Major-General Stanley, they fall in love and decide to marry. However, complications arise when the pirates decide to marry the rest of the Major-General's daughters, themselves - and Frederic's birthdate turns out to be not all it seems."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 3,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS158_holly",
+      "emotion": "shame",
+      "dialogue": "Yes, 'tis  Mabel  Oh, Sisters, deaf to pity's name for shame!  It's true that he has gone astray but pray  Is that a reason good and true why you",
+      "target_person": "Mabel",
+      "target_gender": "female",
+      "cause_raw": "going astray",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS159_holly",
+      "emotion": "shame",
+      "dialogue": "The question is had he not been a thing of beauty  Would she be swayed by quite as keen a sense of duty?  For shame  For shame  Poor wandering one",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "being swayed by physical attractiveness",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "WS160_holly",
+      "emotion": "shame",
+      "dialogue": "Would she be swayed by quite as keen a sense of duty?  For shame  For shame  Poor wandering one  Though thou hast surely strayed",
+      "target_person": "wandering one",
+      "target_gender": "female",
+      "cause_raw": "straying from duty",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "WS162_holly",
+      "emotion": "shame",
+      "dialogue": "For he has allied himself once more  With his old associates  He has acted shamefully!  You speak falsely  You know nothing about it",
+      "target_person": "He",
+      "target_gender": "male",
+      "cause_raw": "associating with disreputable people",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WP277_holly",
+      "emotion": "pride",
+      "dialogue": "Kill them!  To gain a brief advantage you've contrived  But your proud triumph will not be long-lived  Don't say you are orphans, for we know that game  On your allegiance we've a stronger claim",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

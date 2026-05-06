@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "308253",
+    "title": "Mela",
+    "year": "1971",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/zD4iGtlVqnBFoK4T7FFClnQUPGR.jpg",
+    "overview": "In rural India a small village is ruled by a Panchayat, a group of Hindu men who run the lives of the villagers dictatorially. There are three men who challenge their authority."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3525_bolly",
+      "emotion": "shame",
+      "dialogue": "Whether bachelor or widowed, what do I care? How many kids do you have? Oh.. met such shameless fellows! Just don't know from where these brazen guys have come. From the city. Move out of the way or I'll break your skull.",
+      "target_person": "unknown",
+      "target_gender": "male",
+      "cause_raw": "being intrusive and disrespectful",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3526_bolly",
+      "emotion": "shame",
+      "dialogue": "And here are the documents which bear....your signatures, duly witnessed. Uncle got these signatures from me....for the purpose of a loan to dig a new well. Shame.. shame, why are you lying, Shakti? Having taken ten thousand rupees....do you also want to grab the land also? Ten thousand? You are lying, uncle. It'd happen that in....front of the village counsel, I may raise my hand on you.",
+      "target_person": "Shakti",
+      "target_gender": "male",
+      "cause_raw": "lying and deceit",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3527_bolly",
+      "emotion": "shame",
+      "dialogue": "Fine.. it is a difficult proportion. But I'm a Hindu and so is Billo. But still you don't accept....our relation because I'm a Baniya and she is a Brahmin. Shame on you all! Stop talking nonsense. I'm not talking nonsense but trying to put sense in your heads. In the name of religion....till when will you keep messing around?",
+      "target_person": "Billo's family",
+      "target_gender": "male",
+      "cause_raw": "inter-caste relationship",
+      "theme_label": "Promiscuity"
+    }
+  ]
+}

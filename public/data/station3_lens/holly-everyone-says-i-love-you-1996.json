@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "9716",
+    "title": "Everyone Says I Love You",
+    "year": "1996",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/cFOZ4bNbWtnIIboc43M86yhwPBX.jpg",
+    "overview": "A New York girl sets her father up with a beautiful woman in a shaky marriage while her half sister gets engaged."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS620_holly",
+      "emotion": "shame",
+      "dialogue": "No, I didn't. I just assumed... But you're completely correct to ask that question.  But you're completely correct to ask that question.  It's a good question. You shouldn't be ashamed of it.  I live on 84th and Riverside. Where in New York do you live?  In Paris. I was a New Yorker but I settled in Paris.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1279_holly",
+      "emotion": "pride",
+      "dialogue": "but that's the way it happens to most of us.  You have a real appreciation of his work.  How could I not appreciate a man who was short in stature... but with a proud and obstinate nature... who painted outside the... the academic conventions of 16th century Venice?  the academic conventions of 16th century Venice?  What do you do?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1280_holly",
+      "emotion": "pride",
+      "dialogue": "But as soon as his brain started functioning properly... Scott resigned from the Conservative Republican Club... and started espousing left-wing Democratic philosophy.  and started espousing left-wing Democratic philosophy.  Dad was overjoyed. Just as proud as can be.  Remember I said New York was most beautiful in fall?  I meant the winter.",
+      "target_person": "Dad",
+      "target_gender": "male",
+      "cause_raw": "son's political shift",
+      "theme_label": "Son's Accomplishments"
+    }
+  ]
+}

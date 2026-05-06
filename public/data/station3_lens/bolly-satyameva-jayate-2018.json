@@ -1,0 +1,119 @@
+{
+  "film": {
+    "id": "531597",
+    "title": "Satyameva Jayate",
+    "year": "2018",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8YCos8rd6QzGvhDp0oBS8achffk.jpg",
+    "overview": "DCP Shivansh has been tasked to catch Vir, the man behind police killings in the city. Both are eventually against the same enemy but divided by a fine line, the law."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Shamelessness",
+      "count": 2
+    },
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1938_bolly",
+      "emotion": "shame",
+      "dialogue": "Rascal. I asked for the rate, not your name. When you're not ashamed to ask...why are you ashamed to say it? 2 million. 2 million!",
+      "target_person": "character",
+      "target_gender": "unclear",
+      "cause_raw": "asking for a high price",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s1939_bolly",
+      "emotion": "shame",
+      "dialogue": "What kind of a guy are you? You're trying to save a criminal. Aren't you ashamed? You mean the criminal who saved my life. You heard everything, didn't you.",
+      "target_person": "guy",
+      "target_gender": "male",
+      "cause_raw": "supporting a criminal",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "s1940_bolly",
+      "emotion": "shame",
+      "dialogue": "My victory is your victory. Why did you have to bring up dad's name? Why be ashamed of the person who gave us our names? And what about the shame he brought on us? Inspector Shiv Rathod.",
+      "target_person": "Inspector Shiv Rathod",
+      "target_gender": "male",
+      "cause_raw": "bringing shame to the family name",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "s1941_bolly",
+      "emotion": "shame",
+      "dialogue": "Why did you have to bring up dad's name? Why be ashamed of the person who gave us our names? And what about the shame he brought on us? Inspector Shiv Rathod. 25 arrests.",
+      "target_person": "Shiv Rathod",
+      "target_gender": "male",
+      "cause_raw": "tarnishing family reputation",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p1017_bolly",
+      "emotion": "pride",
+      "dialogue": "It's so nice to see all these people here......at this early hour to join this Cleanliness Drive. In fact, I take responsibility to clean the entire country, and not this beach alone. So that our tricolor flag can proudly soar in the skies. Wow...Before making our tricolor flag proud......you should learn to hoist it properly. Why raise a commotion for such a small mistake, dear.",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "cleaning the country",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1018_bolly",
+      "emotion": "pride",
+      "dialogue": "In fact, I take responsibility to clean the entire country, and not this beach alone. So that our tricolor flag can proudly soar in the skies. Wow...Before making our tricolor flag proud......you should learn to hoist it properly. Why raise a commotion for such a small mistake, dear. Small mistake!",
+      "target_person": "speaker 1",
+      "target_gender": "male",
+      "cause_raw": "cleaning the country",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "p1019_bolly",
+      "emotion": "pride",
+      "dialogue": "Papa, when I grow up, I want to be like you. Me too. The day you two will wear the police uniform and take the oath together......that day I will proudly salute you both. But...don't ever forget this oath, son. It's an oath that every honest officer abides to until his last breath.",
+      "target_person": "Papa",
+      "target_gender": "male",
+      "cause_raw": "children becoming police officers",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "p1020_bolly",
+      "emotion": "pride",
+      "dialogue": "This is where we held on to our father's arms and learned to walk. These walls were witnesses of his innocence. This tricolor flag...which he hoisted so proudly. And this is the same place...where he turned to ashes. Nothing has changed.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "hoisting the national flag",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

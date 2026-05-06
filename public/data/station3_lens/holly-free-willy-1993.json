@@ -1,0 +1,80 @@
+{
+  "film": {
+    "id": "1634",
+    "title": "Free Willy",
+    "year": "1993",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/9iBgd9gi9ztWiVcYSG6zl8wDFBN.jpg",
+    "overview": "When maladjusted orphan Jesse vandalizes a theme park, he is placed with foster parents and must work at the park to make amends. There he meets Willy, a young Orca whale who has been separated from his family. Sensing kinship, they form a bond and, with the help of kindly whale trainer Rae Lindley, develop a routine of tricks. However, greedy park owner Dial soon catches wind of the duo and makes plans to profit from them."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS327_holly",
+      "emotion": "shame",
+      "dialogue": "Yes.  You look beautiful. How about a kiss?  You should be ashamed of yourselves.  Wave goodbye to everybody. Wave goodbye.  Give a big hand for Olivia and Belinda, and their trainer, Rae.",
+      "target_person": "Olivia and Belinda",
+      "target_gender": "female",
+      "cause_raw": "unknown",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP711_holly",
+      "emotion": "pride",
+      "dialogue": "--please take your seats immediately. The Willy Show is about to start.  Hey, Dwight, how you been?  This is exciting. I'm proud of you.  Thanks.  And now... we proudly present the Willy Show!",
+      "target_person": "Dwight",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP712_holly",
+      "emotion": "pride",
+      "dialogue": "This is exciting. I'm proud of you.  Thanks.  And now... we proudly present the Willy Show!  we proudly present the Willy Show!  Go get them!",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP713_holly",
+      "emotion": "pride",
+      "dialogue": "Thanks.  And now... we proudly present the Willy Show!  we proudly present the Willy Show!  Go get them!  Ladies and gentlemen... presenting the superstar orca of Northwest Adventure Park... let's hear it for Willy!",
+      "target_person": "presenter",
+      "target_gender": "unclear",
+      "cause_raw": "presenting the Willy Show",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP714_holly",
+      "emotion": "pride",
+      "dialogue": "You gave it your best shot.  You worked hard, and you did everything you could.  And we're very proud of you.  I'd be nervous too if I had to do tricks in front of all those people.  What's up?",
+      "target_person": "parents",
+      "target_gender": "unclear",
+      "cause_raw": "for giving their best and working hard",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

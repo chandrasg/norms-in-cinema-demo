@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "157560",
+    "title": "I AM.: SMTOWN LIVE WORLD TOUR in Madison Square Garden",
+    "year": "2012",
+    "industry": "holly",
+    "country": "KR",
+    "poster_path": "/j7F4lNdmVyB7CAuI1PZybAXQr4N.jpg",
+    "overview": "Starring 32 artists from SM Town. The movie reflect the past, present and future of each artist with behind-the-scenes footage that follows the stars as they undergo rehearsals, revealing their day-to-day lives and also features interview, video diaries and never-seen-before archive files."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP891_holly",
+      "emotion": "pride",
+      "dialogue": "Thank you.  At least now there'll be something on this album  I can be proud of.  Helen Reddy.  Songs to remind you you're only a woman.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "having something to be proud of in the album",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP892_holly",
+      "emotion": "pride",
+      "dialogue": "the woman who gave our movement an anthem,  who gave us a voice - Helen Reddy!  I'm so proud of you.  Thank you.  If you know the words, I hope you'll sing them along with me.",
+      "target_person": "speaker",
+      "target_gender": "female",
+      "cause_raw": "Helen Reddy's achievements",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP893_holly",
+      "emotion": "pride",
+      "dialogue": "♪ Voices clear and voices loud  ♪ Here comes a chance for restitution  ♪ To make our mothers proud  ♪ We are daughters  ♪ We are sisters",
+      "target_person": "daughters/sisters",
+      "target_gender": "female",
+      "cause_raw": "restitution",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP894_holly",
+      "emotion": "pride",
+      "dialogue": "♪ Voices clear Voices loud  ♪ Here comes a chance for restitution  ♪ To make our mothers proud  ♪ Mm-mm-mm  ♪ Mm-mmmm. ♪",
+      "target_person": "singers",
+      "target_gender": "unclear",
+      "cause_raw": "making their mothers proud",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

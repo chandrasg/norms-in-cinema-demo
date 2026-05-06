@@ -1,0 +1,137 @@
+{
+  "film": {
+    "id": "97449",
+    "title": "Khamoshi: The Musical",
+    "year": "1996",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lhOkmrXgbk3U8vZkd5bkynmvdyT.jpg",
+    "overview": "The daughter of deaf-mute parents seeks their understanding when she discovers a love for music."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 4
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 2
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3037_bolly",
+      "emotion": "shame",
+      "dialogue": "And are going to listen to your daughter sing. Papa, nobody there knows that you cannot hear. Mama, I'm not ashamed of you. No. You will have to come with me. Tomorrow is a very big day for me.",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "disability deafness)",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s4941_bolly",
+      "emotion": "shame",
+      "dialogue": "And are going for your daughter's programme Over there nobody knows you Papa, I don't feel at all ashamed of you No, nothing doing You will have to come with me",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "low social status or profession",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1579_bolly",
+      "emotion": "pride",
+      "dialogue": "Yet it doesn't say a word. Papa, I'm very happy. I'm proud of you. How do you feel? We'll celebrate. We'll buy a car later.",
+      "target_person": "child",
+      "target_gender": "unclear",
+      "cause_raw": "father's achievement",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1580_bolly",
+      "emotion": "pride",
+      "dialogue": "Yet, you've lived your life so courageously. I never regretted that both of you are my parents. I'm proud of you. If my child is like you..I'll be proud of my child too. Yes. After all, it's my child.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "parents' courage",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p1581_bolly",
+      "emotion": "pride",
+      "dialogue": "I never regretted that both of you are my parents. I'm proud of you. If my child is like you..I'll be proud of my child too. Yes. After all, it's my child. My own.",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "parents' character",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p1582_bolly",
+      "emotion": "pride",
+      "dialogue": "I'm happy. Because I cannot hear and talk....I found my Flavy. I'm proud of my Flavy. In my life....irrespective of whether I was right or wrong..Flavy has always stood by me. She's like the rays of the sun in my life.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "Flavy's support",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "p2762_bolly",
+      "emotion": "pride",
+      "dialogue": "It gives light to whole universe And yet speaks nothing Papa, I am very happy I am proud of you How do you feel? Papa, we ought to celebrate We will indeed",
+      "target_person": "child",
+      "target_gender": "male",
+      "cause_raw": "father's achievement",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p2763_bolly",
+      "emotion": "pride",
+      "dialogue": "Even then you lived your life so courageously I was never sorry that you were my parents I am proud of you If my child were like you, I'd be proud of it too After all it'd be my own child,",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "parents' courage",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "p2764_bolly",
+      "emotion": "pride",
+      "dialogue": "I was never sorry that you were my parents I am proud of you If my child were like you, I'd be proud of it too After all it'd be my own child, my own flesh and blood",
+      "target_person": "speaker",
+      "target_gender": "unclear",
+      "cause_raw": "being parents",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "p2765_bolly",
+      "emotion": "pride",
+      "dialogue": "I am happy, contented I am deaf and dumb that's why I got Flavy I am proud of my Flavy Whether I was wrong or right...Flavy always stood by me She has been a great inspiration in my life",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "support and inspiration from Flavy",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

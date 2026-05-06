@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "14052",
+    "title": "Revenge of the Nerds",
+    "year": "1984",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/v8aETLufi4WIinhQ994oWkehtaC.jpg",
+    "overview": "At Adams College, the jocks rule the school from their house on high, the Alpha Beta fraternity. So when a group of socially-challenged misfits try to go Greek, they're instantly rejected by every house on campus. Deciding to start their own fraternity to protect their outcast brothers, the campus nerds soon find themselves in a battle royale as the Alpha Betas try to crush their new rivals."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Parental Pride",
+      "count": 1
+    },
+    {
+      "label": "Personal Achievement",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP628_holly",
+      "emotion": "pride",
+      "dialogue": "eighteen minutes and seven seconds.  - A.R.V.'s? - Average restroom visits.  Oh, I'm so proud of you two boys.  Come on, Gilbert. Let's go to college.  God.",
+      "target_person": "speaker 3",
+      "target_gender": "male",
+      "cause_raw": "for the boys' achievement possibly related to restroom visits)",
+      "theme_label": "Parental Pride"
+    },
+    {
+      "dialogue_id": "WP629_holly",
+      "emotion": "pride",
+      "dialogue": "Well, boys, I mean men, here we are.  What an opportunity for you guys.  You're both gonna do great. I'm proud of you.  Your father would have been proud of you too, Gilbert.  Oh, I know Mr. Skolnick.",
+      "target_person": "Mr. Skolnick",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP630_holly",
+      "emotion": "pride",
+      "dialogue": "What an opportunity for you guys.  You're both gonna do great. I'm proud of you.  Your father would have been proud of you too, Gilbert.  Oh, I know Mr. Skolnick.  Don't tell my mother I was nervous, okay? I wouldn't want her to worry.",
+      "target_person": "Mr. Skolnick",
+      "target_gender": "male",
+      "cause_raw": "Gilbert's achievement",
+      "theme_label": "Personal Achievement"
+    },
+    {
+      "dialogue_id": "WP631_holly",
+      "emotion": "pride",
+      "dialogue": "'Cause we look different?  Well, we're not.  I'm a nerd, and, uh, I'm pretty proud of it.  - Hi, Gilbert. - Hi.  I'm a nerd, too.",
+      "target_person": "Gilbert",
+      "target_gender": "male",
+      "cause_raw": "being a nerd",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

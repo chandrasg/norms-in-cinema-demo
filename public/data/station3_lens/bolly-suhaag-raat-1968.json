@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "618965",
+    "title": "Suhaag Raat",
+    "year": "1968",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/ePFBsDDlkkjg6V0cbdCl9qNlxgh.jpg",
+    "overview": "A woman who gets widowed on her wedding night creates a scandal by becoming pregnant."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 1
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4260_bolly",
+      "emotion": "shame",
+      "dialogue": "Beat him! Get out of here! You shameless woman! Whose sin are you carrying. Bear all sorrow like the earth 'Burn like the sun",
+      "target_person": "woman",
+      "target_gender": "female",
+      "cause_raw": "being pregnant out of wedlock",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s4261_bolly",
+      "emotion": "shame",
+      "dialogue": "All this for you. You ruined that house. Master dead. Mother in shame. And we are wondering. After hopeless I have to work here as school teacher. Yesterday I came here after transfer.",
+      "target_person": "you",
+      "target_gender": "unclear",
+      "cause_raw": "causing harm and shame to family",
+      "theme_label": "Shamelessness"
+    },
+    {
+      "dialogue_id": "p2337_bolly",
+      "emotion": "pride",
+      "dialogue": "I won't get into a widow's attire. Why? What are you so proud of? And if you are, bring back you husband. So that even, I can hug him & relieve the burden of sorrow on my heart.",
+      "target_person": "widow",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

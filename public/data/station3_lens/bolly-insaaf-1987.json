@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "302984",
+    "title": "Insaaf",
+    "year": "1987",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/l0CFH229pwjauJQXK6XUcPQG2Jo.jpg",
+    "overview": "When Avinash, a lecturer, punishes some of his students for misbehaving, they turn his life upside down by abducting and molesting his blind sister in order to get even with him."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2557_bolly",
+      "emotion": "shame",
+      "dialogue": "Just wait and watch! I've planned everything in such a way that professor won't....come to the college tomorrow. You know some of them are quite shameless also. Today is his first and last day. -Let's have a bet of 100 on it. -Sure.",
+      "target_person": "professor",
+      "target_gender": "male",
+      "cause_raw": "being targeted for a prank",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2558_bolly",
+      "emotion": "shame",
+      "dialogue": "This was my offense. No, my son. You didn't violate any law. No matter what people say, but I'm not ashamed of my son. lnfact I'm proud of you. Mother!",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "violating societal norms",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s2559_bolly",
+      "emotion": "shame",
+      "dialogue": "What a bite! Come on, bite me. Bite me. When you bite me a tickling sensation runs in my body. You shameless man! I'll kill you. No! Don't worry. I'm here.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "inappropriate behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "p1331_bolly",
+      "emotion": "pride",
+      "dialogue": "No, my son. You didn't violate any law. No matter what people say, but I'm not ashamed of my son. lnfact I'm proud of you. Mother! Come on, let's go home.",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "not violating any law",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

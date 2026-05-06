@@ -1,0 +1,159 @@
+{
+  "film": {
+    "id": "159653",
+    "title": "Daulat Ki Jung",
+    "year": "1992",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/6hyO0QG9K0TczBTnn8M4p752wtB.jpg",
+    "overview": "Bhushan Chaudhry (Shafi Inamdar) and Mr. Agarwal (Tiku Talsania) are business rivals, and hate each other. Their children, Rajesh Chaudhry (Aamir Khan) and Asha Agarwal (Juhi Chawla) study in the same class in college, and are in love with each other. Both are terrified of what their parents will do when they find out about their romance. And when the parents do find out, all kinds of restrictions are placed on them. Unable to stay away from each other, they elope in a stolen car. On the way, they come across an injured man, and decide to take him to hospital. Little knowing that helping this stranger will not only change their lives forever, but also place their lives in danger."
+  },
+  "totals": {
+    "shame": 9,
+    "pride": 2
+  },
+  "themes": [
+    {
+      "label": "Inappropriate Behavior",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 2
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Son's Accomplishments",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 3
+    },
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s921_bolly",
+      "emotion": "shame",
+      "dialogue": "Excuse me! Excuse me! Hey! What are you doing ! - Showing my position. Shameless! Move! This is college. What if somebody sees us? - So what? There is nobody who doesn't know. .",
+      "target_person": "boyfriend",
+      "target_gender": "male",
+      "cause_raw": "inappropriate public behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s922_bolly",
+      "emotion": "shame",
+      "dialogue": "I was free, I could have gone, but I didn't go. I'm sorry, son. - You should be! Who is it! Idiot! Shameless! Open the door! Otherwise I'll break it apart! Door. . door. .",
+      "target_person": "father",
+      "target_gender": "male",
+      "cause_raw": "not leaving when he had the chance",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s923_bolly",
+      "emotion": "shame",
+      "dialogue": "Aren't there other girls! Beware if you tried to meet her again ! Aren't you ashamed ! Because of you today he came here and yelled ! Great, son ! You have made your parents proud !",
+      "target_person": "son",
+      "target_gender": "male",
+      "cause_raw": "inappropriate relationship or behavior",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s924_bolly",
+      "emotion": "shame",
+      "dialogue": "You want to fly along with the cage! But the climax of your drama has got over! Weren't you ashamed to have a relation with that scoundrel ! Why are you staring at me like this! Answer me! But what answer will you give me!",
+      "target_person": "character being addressed",
+      "target_gender": "female",
+      "cause_raw": "having a relationship with a disapproved person",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s925_bolly",
+      "emotion": "shame",
+      "dialogue": "Then you too listen to me! Now I will decide! This is my right and I won't distribute it to others! Shameless! You have stooped to such a low level. . . . that you have started talking so bitterly!",
+      "target_person": "listener",
+      "target_gender": "unclear",
+      "cause_raw": "trying to assert their rights",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s926_bolly",
+      "emotion": "shame",
+      "dialogue": "She is the one who doesn't pity us. . . . since she wants to slander us for the sake of her love. She is your daughter. - This is the shameful thing. If you say, then I'll try to make her eat. Try? Fine, go ahead.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "choosing love over family's reputation",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "s927_bolly",
+      "emotion": "shame",
+      "dialogue": ". . then I am feeling shy because of that.  Because of him on my lips.  I died out of shame.  Oh God ! Oh God !  Oh God ! The arrow of the ear ring has pricked me.",
+      "target_person": "female character",
+      "target_gender": "female",
+      "cause_raw": "expressing sexual desire",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s928_bolly",
+      "emotion": "shame",
+      "dialogue": "Mike, if this guy dies. . . .then understand that the treasure also is gone. It is a shame. You are hanging from the noose. . . .and you are thinking of the treasure. Will you take the treasure with you after dying?",
+      "target_person": "Mike",
+      "target_gender": "male",
+      "cause_raw": "Greed for treasure",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s929_bolly",
+      "emotion": "shame",
+      "dialogue": "He will not shoot, I have already shot them. Greetings, sir. Come. - Come. We are ashamed of our behavior. Come to me. O dear! Agarwal, I have forgiven you. Thank you. Thank you.",
+      "target_person": "Agarwal",
+      "target_gender": "male",
+      "cause_raw": "past behavior",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "p478_bolly",
+      "emotion": "pride",
+      "dialogue": "Aren't you ashamed ! Because of you today he came here and yelled ! Great, son ! You have made your parents proud ! Great! Wow! Is there a boxing program in the college?",
+      "target_person": "parents",
+      "target_gender": "male",
+      "cause_raw": "son's achievement",
+      "theme_label": "Son's Accomplishments"
+    },
+    {
+      "dialogue_id": "p479_bolly",
+      "emotion": "pride",
+      "dialogue": "Ultimately the law won in the fight of wealth. And his greed killed him. I am proud of you my boy. The way you fought with your life to protect this government treasure. You did your duty.",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "protecting government treasure",
+      "theme_label": "Family Honor"
+    }
+  ]
+}

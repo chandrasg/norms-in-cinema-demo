@@ -1,0 +1,50 @@
+{
+  "film": {
+    "id": "75861",
+    "title": "To Write Love on Her Arms",
+    "year": "2015",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/naQRUuVa4j0uIrgxACIeFlwgKSn.jpg",
+    "overview": "The story follows 19-year-old Renee who has always loved fairy tales: the idea of a princess, a hero and a happily ever after. But Renee’s life is that of a darker tale: she’s a young woman battling addiction, depression and self-injury. In a creative blend of artistic fantasy balanced with harsh reality, the movie follows Renee on her courageous journey towards recovery."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP182_holly",
+      "emotion": "pride",
+      "dialogue": "Just let me handle the business.  You're going to meet him right after the second set.  Go make daddy proud.  Where have I landed I don't quite remember  I fell to pieces one night in December",
+      "target_person": "daddy",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP183_holly",
+      "emotion": "pride",
+      "dialogue": "Hey!  Hi!  I'm so proud of you.  - Thank you. - How are you feeling?  - Much better. - You look amazing.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP184_holly",
+      "emotion": "pride",
+      "dialogue": "She's down from New York for the show on Friday.  Yeah. Jamie talks about you all the time.  He's so proud of you.  And I can't wait for the event on Friday. It's going to be amazing.  Are you looking forward to it? Are... Well, anyway, it's nice to finally meet you,",
+      "target_person": "Jamie",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "1251",
+    "title": "Letters from Iwo Jima",
+    "year": "2006",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/kZokxQtzMPURvijWYFuvh1fAvnv.jpg",
+    "overview": "The story of the battle of Iwo Jima between the United States and Imperial Japan during World War II, as told from the perspective of the Japanese who fought it."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Family Honor",
+      "count": 2
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2309_holly",
+      "emotion": "pride",
+      "dialogue": "If our children can live safely for one more day... it would be worth the one more day that we defend this Island!  it would be worth the one more day that we defend this Island!  Ohsugi... if you have an ounce of pride left as an officer... I beg of you... go back to headquarters and ask them to send support.  go back to headquarters and ask them to send support.  So the rumor is true? I couldn't believe it.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP2310_holly",
+      "emotion": "pride",
+      "dialogue": "we shall feel safe, as the Imperial land  shall forever be at peace  We shall fight with pride and honor at any price  Our proud Island  Iwo Jima",
+      "target_person": "We",
+      "target_gender": "unclear",
+      "cause_raw": "fighting with pride and honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP2311_holly",
+      "emotion": "pride",
+      "dialogue": "shall forever be at peace  We shall fight with pride and honor at any price  Our proud Island  Iwo Jima  Do me a favor.",
+      "target_person": "We",
+      "target_gender": "male",
+      "cause_raw": "fighting with pride and honor",
+      "theme_label": "Family Honor"
+    },
+    {
+      "dialogue_id": "WP2312_holly",
+      "emotion": "pride",
+      "dialogue": "our people will praise your dedication.  A day will come when they will weep and pray for your souls.  Be proud to die for your country.  I will always be in front of you.  No more.",
+      "target_person": "they",
+      "target_gender": "unclear",
+      "cause_raw": "dying for their country",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

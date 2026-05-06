@@ -1,0 +1,124 @@
+{
+  "film": {
+    "id": "618985",
+    "title": "Maati Maangey Khoon",
+    "year": "1984",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/9hmIPa8IM1y4u807GARLCAh8qPo.jpg",
+    "overview": "As far as he can remember Harinarain Singh alias Hariya has no knowledge of his birth, parents nor of a family home. During a skirmish with some of Thakur Balram Singh's hoodlums, he lies unconscious at the entrance of a temple with the Poojary in attendance, and an elderly unhinged woman praying to God for his sake. When he wakes, the Poojary tells him that the woman, known as \"Pagli\" (madwoman) is his very own mother, his father was a farmer, Ram Singh, who died of shock when his land was taken away by Balram and his men. Shortly thereafter Pagli passes away, and Hariya swears to take back his land from Balram. A wily Balram transfer this land in his nephew, Balraj's name, who is known to be a close friend of Hariya's with hopes of creating a misunderstanding between the two friends. When Balraj returns home he accepts this land from his uncle and decides to oppose Hariya with all his might, especially when he finds out that the love of his life, Sharda, is living with Hariya."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 2
+    },
+    {
+      "label": "Betrayal",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Disrespect",
+      "count": 1
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 4
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3386_bolly",
+      "emotion": "shame",
+      "dialogue": "Embrace Radha and make her infamous, Shyam. When did I awaken, don't know when I went to sleep. I did not feel ashamed nor did I lose my senses. I was so lost in your thoughts. I was so lost in your thoughts. I remembered you, I forgot everything other than you.",
+      "target_person": "Radha",
+      "target_gender": "female",
+      "cause_raw": "Being intimate with Shyam",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3387_bolly",
+      "emotion": "shame",
+      "dialogue": "Hence from today you shouldn't come into my sight......even from a distance of 20 miles. Now you go from here. Hail the lord. Shameless, why have you come here now? You are dead for us. What are you saying mama?",
+      "target_person": "unidentified character",
+      "target_gender": "unclear",
+      "cause_raw": "disrespecting family norms",
+      "theme_label": "Disrespect"
+    },
+    {
+      "dialogue_id": "s3388_bolly",
+      "emotion": "shame",
+      "dialogue": "I'm telling you the truth son. Sharda was a immoral girl. It was due to shamed that Durgasahay didn't tell you. She is hooked up with that fellow. She even wanted him to marry her.",
+      "target_person": "Sharda",
+      "target_gender": "female",
+      "cause_raw": "Immorality/Infidelity",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3389_bolly",
+      "emotion": "shame",
+      "dialogue": "That Sharda who is bearing your child. You b*****d. A friend? You are a shame on friendship. You traitor. Rascal. You're not entitled to be alive. It appears that you've gone mad.",
+      "target_person": "Sharda's partner",
+      "target_gender": "male",
+      "cause_raw": "betrayal and infidelity",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "s3390_bolly",
+      "emotion": "shame",
+      "dialogue": "Come let's meet my uncle. Sir, forgive me. I'm really ashamed. What is there to be ashamed? I have also not been fair with you all.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "unfair treatment",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s3391_bolly",
+      "emotion": "shame",
+      "dialogue": "Sir, forgive me. I'm really ashamed. What is there to be ashamed? I have also not been fair with you all. By returning the land to you I'm not only washing away my sins......but also doing my duty.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "not being fair and returning the land",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "s3392_bolly",
+      "emotion": "shame",
+      "dialogue": "I tell you come before me if you're a brave man. You're a stain on friendship. You're a shame on friendship. Hey Thakur. You are only a Thakur by name. There must be something wrong in your family blood.",
+      "target_person": "Thakur",
+      "target_gender": "male",
+      "cause_raw": "Betrayal and questioning his lineage",
+      "theme_label": "Betrayal"
+    },
+    {
+      "dialogue_id": "p1782_bolly",
+      "emotion": "pride",
+      "dialogue": "Sir! You have to lead a long-range party. LRP. Fantastic, this is matter of pride for me. You have to leave for this area soon. Dumbusco. Dumbusco! Further orders, Sir!",
+      "target_person": "Sir",
+      "target_gender": "male",
+      "cause_raw": "leading a long-range party",
+      "theme_label": "Future Aspirations"
+    }
+  ]
+}

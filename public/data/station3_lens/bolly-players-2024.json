@@ -1,0 +1,55 @@
+{
+  "film": {
+    "id": "843617",
+    "title": "Players",
+    "year": "2024",
+    "industry": "bolly",
+    "country": "US",
+    "poster_path": "/eA94hAGntLm7Lfol5FQJNxd53Hw.jpg",
+    "overview": "New York sportswriter Mack has spent years devising successful hook-up \"plays\" with her friends, but when she unexpectedly falls for one of her targets, she must learn what it takes to go from simply scoring to playing for keeps."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Virtuous Living",
+      "count": 2
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p742_bolly",
+      "emotion": "pride",
+      "dialogue": "'Sorry, dear. I broke my promise to you.' 'I wanted to do something.. ' '.. so that you feel proud whenever you think of me.' 'Feel proud, dear.' Your dream will surely be fulfilled.",
+      "target_person": "dear",
+      "target_gender": "female",
+      "cause_raw": "fulfilling a promise",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p743_bolly",
+      "emotion": "pride",
+      "dialogue": "'I wanted to do something.. ' '.. so that you feel proud whenever you think of me.' 'Feel proud, dear.' Your dream will surely be fulfilled. You will not fulfill my papa's dream alone.",
+      "target_person": "speaker 1",
+      "target_gender": "unclear",
+      "cause_raw": "fulfilling someone's dream",
+      "theme_label": "Virtuous Living"
+    },
+    {
+      "dialogue_id": "p744_bolly",
+      "emotion": "pride",
+      "dialogue": "This is the 12th time you are asking in the last 6 hours. Sorry, but I am slightly tense. He proudly said 48 hours to him....but I hope we don't make a fool of ourselves. And if he wanted to say, he could have said 72. He could have said 96.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

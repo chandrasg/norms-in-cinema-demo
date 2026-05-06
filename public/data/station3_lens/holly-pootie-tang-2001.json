@@ -1,0 +1,85 @@
+{
+  "film": {
+    "id": "10615",
+    "title": "Pootie Tang",
+    "year": "2001",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/fNvx45x4JWHYucpnV2vuKn9TZnV.jpg",
+    "overview": "Pootie Tang, the musician/actor/folk hero of the ghetto, is chronicled from his early childhood to his battles against the evil Corporate America, who try to steal his magic belt and make him sell out by endorsing addictive products to his people. Pootie must learn to find himself and defeat the evil corporation for all the young Black children of America, supatime."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 3
+    },
+    {
+      "label": "Romantic Expression",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS987_holly",
+      "emotion": "shame",
+      "dialogue": "Are you sure you gotta go, Pootie?  Yeah.  That's a damn shame.  You were the best piece of man I ever had.  You know, you could just stay here and live between my bosoms... for the rest of your life.",
+      "target_person": "Pootie",
+      "target_gender": "male",
+      "cause_raw": "leaving a romantic relationship",
+      "theme_label": "Romantic Expression"
+    },
+    {
+      "dialogue_id": "WP1848_holly",
+      "emotion": "pride",
+      "dialogue": "{Y:i}that Daddy Tang forgot to tell little Pootie.  {Y:i}Pootie Tang turned out just fine.  {Y:i}Daddy Tang would have been proud.  {Y:i}Pootie had it all-- hit records, movies... {Y:i}magazine covers, fancy cars... {Y:i}famous friends, beautiful custom-made clothes... {Y:i}and ladies, ladies, ladies.  {Y:i}and ladies, ladies, ladies.",
+      "target_person": "Daddy Tang",
+      "target_gender": "male",
+      "cause_raw": "Pootie Tang's success hit records movies magazine covers fancy cars famous friends beautiful custom-made clothes and popularity among ladies)",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1849_holly",
+      "emotion": "pride",
+      "dialogue": "Pootie, my boy.  Mama Di.  Pootie, you're a good man. I'm proud of you.  You have so much love in you, and you can give it like a gift.  Your father was wrong to tell you to guard it like a secret.",
+      "target_person": "Mama Di",
+      "target_gender": "female",
+      "cause_raw": "Pootie being a good man",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1850_holly",
+      "emotion": "pride",
+      "dialogue": "That's terrific!  Well, partner, when's the wedding, huh?  Like I say... I sure would be mighty proud to have you for a son-in-law.  I sure would be mighty proud to have you for a son-in-law.  What the hell?",
+      "target_person": "partner",
+      "target_gender": "male",
+      "cause_raw": "having the speaker's daughter's partner as a son-in-law",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP1851_holly",
+      "emotion": "pride",
+      "dialogue": "Well, partner, when's the wedding, huh?  Like I say... I sure would be mighty proud to have you for a son-in-law.  I sure would be mighty proud to have you for a son-in-law.  What the hell?  What you doin' way out here?",
+      "target_person": "partner",
+      "target_gender": "male",
+      "cause_raw": "becoming his son-in-law",
+      "theme_label": "Romantic Relationships"
+    }
+  ]
+}

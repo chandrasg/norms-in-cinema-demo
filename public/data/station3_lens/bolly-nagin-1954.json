@@ -1,0 +1,75 @@
+{
+  "film": {
+    "id": "442016",
+    "title": "Nagin",
+    "year": "1954",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/8gzpR3gaXUiLSMpWuYoAPfYpm9f.jpg",
+    "overview": "Two Adivasi tribes are in conflict for the local economic rights. The daughter of the Nagi tribe's chief, Mala (Vyjayanthimala) vows to kill the son of the Ragi tribe's chief, Sanatan (Pradeep Kumar) as revenge. Trespassing the enemy territory, she is mesmerized by music of a flute (played by the musician Kalyanji Virji Shah). Coming closer, she finds out that the singer is Sanatan. They fall in love, but find it difficult to appease the enmity between the two tribes and to resist the attempts of the villain Prabir (Jeevan) to marry Mala."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3741_bolly",
+      "emotion": "shame",
+      "dialogue": "And we have the strength to turn the enmity into love. Love and with you? never!!. Very good son. Shame on the Ragi's. The Ragi's leader Say something......, why are you mum? You had come in the jungle to catch the snakes.",
+      "target_person": "Ragi's leader",
+      "target_gender": "male",
+      "cause_raw": "inability to respond or take action",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s3742_bolly",
+      "emotion": "shame",
+      "dialogue": "If he tries to escape then you skin him alive. The vow I've taken is more important to me than his life. What are you looking at me. If you had some shame ...... you would have blinded yourself. Neither would these eyes have met, and nor...... would we have to bow down to our enemies. I will bind you before you try to escape.",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "breaking a vow",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s3743_bolly",
+      "emotion": "shame",
+      "dialogue": "My soul mate is disunited from me. You gave the support and snatched it away. Don't you feel ashamed.  Snatching away my peace of mind tell me...''... what have you achieved.'' The one who gives life the one who takes away life.",
+      "target_person": "God",
+      "target_gender": "unclear",
+      "cause_raw": "causing suffering and pain",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "p1980_bolly",
+      "emotion": "pride",
+      "dialogue": "Come on I will leave you to the other side. No need I can go alone. Don't be too proud of your beauty...... This is a jungle and this a creepy night. At least think of your own delicate self? Don't you dare follow me.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

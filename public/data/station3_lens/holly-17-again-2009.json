@@ -1,0 +1,72 @@
+{
+  "film": {
+    "id": "16996",
+    "title": "17 Again",
+    "year": "2009",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/yEcfFXEWpuXcfsR9nKESVCFneqV.jpg",
+    "overview": "On the brink of a midlife crisis, 30-something Mike O'Donnell wishes he could have a \"do-over.\" And that's exactly what he gets when he wakes up one morning to find he's 17 years old again. With his adult mind stuck inside the body of a teenager, Mike actually has the chance to reverse some decisions he wishes he'd never made. But maybe they weren't so bad after all."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 4
+  },
+  "themes": [
+    {
+      "label": "Identity and Beauty",
+      "count": 2
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Sports Victory",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP2509_holly",
+      "emotion": "pride",
+      "dialogue": "...a four-hour erection isn't such a terrible thing.  Okay. Next up:  As most of you know, today I am proud to be naming our new regional sales manager.  - Here we go. - You know... ...I've been in the pharmaceutical game for almost two years now... ...and people always ask me: \"What's it take to be an RSM?\"  ...and people always ask me: \"What's it take to be an RSM?\"",
+      "target_person": "Speaker 1",
+      "target_gender": "male",
+      "cause_raw": "naming new regional sales manager",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP2510_holly",
+      "emotion": "pride",
+      "dialogue": "It was good. Mark had a great tryout. He played great.  - Yeah. - And so did I. I made the team.  Really? Oh, great! That's so good. I'm so proud of you.  Me too.  He did great out there.",
+      "target_person": "Unnamed character",
+      "target_gender": "male",
+      "cause_raw": "making the team",
+      "theme_label": "Sports Victory"
+    },
+    {
+      "dialogue_id": "WP2511_holly",
+      "emotion": "pride",
+      "dialogue": "So how ever did you get the newest version of Halo?  It's not due out for another six months.  Well, let's just say I said some things to the Make-A-Wish people... ...that I'm not totally proud of.  ...that I'm not totally proud of.  I'm going to kill him.",
+      "target_person": "Make-A-Wish people",
+      "target_gender": "unclear",
+      "cause_raw": "saying things to get the newest version of Halo",
+      "theme_label": "Identity and Beauty"
+    },
+    {
+      "dialogue_id": "WP2512_holly",
+      "emotion": "pride",
+      "dialogue": "It's not due out for another six months.  Well, let's just say I said some things to the Make-A-Wish people... ...that I'm not totally proud of.  ...that I'm not totally proud of.  I'm going to kill him.  Everybody, out!",
+      "target_person": "Make-A-Wish person",
+      "target_gender": "unclear",
+      "cause_raw": "saying things to the Make-A-Wish people",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

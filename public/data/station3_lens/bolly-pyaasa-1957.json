@@ -1,0 +1,126 @@
+{
+  "film": {
+    "id": "41053",
+    "title": "Pyaasa",
+    "year": "1957",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lQu1gBTKIF4BGC0f3GZPEbQYzWq.jpg",
+    "overview": "Vijay, a destitute poet, searches for true love while attempting to get his work published. With the assistance of two women in his life, his dream comes true - but at a cost that causes Vijay to rethink his worldview."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 8
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s1497_bolly",
+      "emotion": "shame",
+      "dialogue": "Take no notice of them. Eat. See? We earn and mother feeds delicacies to her layabout. He's shameless. If he had any self-respect, he'd starve rather than eat here. Shut up, you two! I won't hear a word said against him.",
+      "target_person": "layabout",
+      "target_gender": "male",
+      "cause_raw": "being unproductive and dependent",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s4976_bolly",
+      "emotion": "shame",
+      "dialogue": "Take no notice of them. Eat. See? We earn and mother feed delicacies to her lay about. He's shameless. If he had any self-respect, he'd starve rather than eat here. Shut up, you two! I won't hear a word said against him.",
+      "target_person": "lay about",
+      "target_gender": "male",
+      "cause_raw": "being dependent and not earning",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p791_bolly",
+      "emotion": "pride",
+      "dialogue": "These ravaged caravans of life that pass us by Where are they, the guardians of dignity? Where are those who claim to be proud of this land? These insidious streets, where infamy is traded Where men conceal their names, where money talks",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p792_bolly",
+      "emotion": "pride",
+      "dialogue": "Where men conceal their names, where money talks Where chastity is bargained for and purity is sold Where are those who claim to be proud of this land? These old streets where dreams wither. . .  where flowers are trampled underfoot",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p793_bolly",
+      "emotion": "pride",
+      "dialogue": "where flowers are trampled underfoot These sham celebrations of colour are for sale Where are those who claim to be proud of this land? These brightly lit rooms where dancing bells chime The tables beat in time with heavy hearts",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p794_bolly",
+      "emotion": "pride",
+      "dialogue": "The tables beat in time with heavy hearts These soulless rooms that echo to coughing Where are those who claim to be proud of this land? These garlands, these walls. . .  . . . stained with blood",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p795_bolly",
+      "emotion": "pride",
+      "dialogue": ". . . stained with blood These fragile bodies, these vain faces Where are those who claim to be proud of this land? Old men pass through here, young man too stop awhile Sons, respected fathers and husbands",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p796_bolly",
+      "emotion": "pride",
+      "dialogue": "Sons, respected fathers and husbands These are our wives, our sisters, our mothers Where are those who claim to be proud of this land? These daughters of Eve seek help These daughters of Radha and Yashoda",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p797_bolly",
+      "emotion": "pride",
+      "dialogue": "These daughters of Radha and Yashoda These daughters of Zulekha, these children of God Where are the leaders who claim to be proud of this land? Summon all the leaders of this land Show them the treachery, show them these devious streets",
+      "target_person": "leaders",
+      "target_gender": "unclear",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "p798_bolly",
+      "emotion": "pride",
+      "dialogue": "Summon all the leaders of this land Show them the treachery, show them these devious streets Summon all those who claim to be proud of this land Who is it? It's you.",
+      "target_person": "you",
+      "target_gender": "unclear",
+      "cause_raw": "patriotism",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

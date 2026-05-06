@@ -1,0 +1,81 @@
+{
+  "film": {
+    "id": "43650",
+    "title": "The Legend of Sleepy Hollow",
+    "year": "1949",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/6bt8qmhxVsgbxFLQCoAcekdCFiw.jpg",
+    "overview": "Washington Irving's tale of Ichabod Crane and the headless horseman is brought to life, narrated by Bing Crosby."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WP829_holly",
+      "emotion": "pride",
+      "dialogue": "the ancestral home of J Thaddeus himself.  This impressive structure was the finest home on the river.  The animals were tremendously proud of it.  They felt it gave the whole community an air of respectability.  To lose Toad Hall was, of course, unthinkable,",
+      "target_person": "animals",
+      "target_gender": "unclear",
+      "cause_raw": "owning an impressive structure",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "WP830_holly",
+      "emotion": "pride",
+      "dialogue": "I rise prepared to plead my own defence.  Stop it.  Gentlemen of the jury... ...I call, as my first witness, Cyril Proudbottom.  ...I call, as my first witness, Cyril Proudbottom.  Are you acquainted with the defendant, J Thaddeus Toad?",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP831_holly",
+      "emotion": "pride",
+      "dialogue": "Stop it.  Gentlemen of the jury... ...I call, as my first witness, Cyril Proudbottom.  ...I call, as my first witness, Cyril Proudbottom.  Are you acquainted with the defendant, J Thaddeus Toad?  Lord love a duck, yes! He's one of the jolliest chaps I've run across.",
+      "target_person": "",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP832_holly",
+      "emotion": "pride",
+      "dialogue": "Hip, hip, hooray!  So, it was a happy ending, after all.  Toad's friends were dreadfully proud of him. And why not?  He was a new Toad, completely reformed,  through with gypsy carts and motorcars for ever.",
+      "target_person": "Toad's friends",
+      "target_gender": "unclear",
+      "cause_raw": "Toad's reformation and abandonment of gypsy carts and motorcars",
+      "theme_label": "Moral Complexity"
+    },
+    {
+      "dialogue_id": "WP833_holly",
+      "emotion": "pride",
+      "dialogue": "To Ichabod, here was a perfect field for his endeavours.  How would he put his best foot forward!  Beyond all his other talents, he prided himself upon his dancing.  Unhappy Brom, already bested at every turn,  saw himself once more outmatched.",
+      "target_person": "Ichabod",
+      "target_gender": "male",
+      "cause_raw": "his dancing talent",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

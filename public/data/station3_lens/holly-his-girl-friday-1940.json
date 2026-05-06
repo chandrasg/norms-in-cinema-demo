@@ -1,0 +1,60 @@
+{
+  "film": {
+    "id": "3085",
+    "title": "His Girl Friday",
+    "year": "1940",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+    "overview": "Walter Burns is an irresistibly conniving newspaper publisher desperate to woo back his paper’s star reporter, who also happens to be his estranged wife. She’s threatening to quit and settle down with a new beau, but, as Walter knows, she has a weakness: she can’t resist a juicy scoop."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Causing Harm",
+      "count": 2
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "female": 2,
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS600_holly",
+      "emotion": "shame",
+      "dialogue": "Here we are certified and everything.  Certified.  I'm afraid Hildy'll feel ashamed to think she hasn't trusted you.  But she'll know some day.  You promised to phone her as soon as you got the check.",
+      "target_person": "Hildy",
+      "target_gender": "female",
+      "cause_raw": "lack of trust",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "WS601_holly",
+      "emotion": "shame",
+      "dialogue": "What's that?  They're fixing up a pain in the neck for your boyfriend.  Shame on you.  Shame on you!  A poor little fellow that never meant nobody no harm.",
+      "target_person": "boyfriend",
+      "target_gender": "male",
+      "cause_raw": "causing harm to someone innocent",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "WS602_holly",
+      "emotion": "shame",
+      "dialogue": "They're fixing up a pain in the neck for your boyfriend.  Shame on you.  Shame on you!  A poor little fellow that never meant nobody no harm.  Sitting with the angel of death, and you cracking jokes.",
+      "target_person": "",
+      "target_gender": "female",
+      "cause_raw": "causing harm to others and making light of serious situations",
+      "theme_label": "Causing Harm"
+    }
+  ]
+}

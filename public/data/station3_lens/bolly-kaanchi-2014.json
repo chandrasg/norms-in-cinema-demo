@@ -1,0 +1,118 @@
+{
+  "film": {
+    "id": "266310",
+    "title": "Kaanchi",
+    "year": "2014",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/gcqOtRxgdqbXjp3kxnnOCHBThW.jpg",
+    "overview": "Kaanchi movie is a musical thriller with a love story. It is a story of the inner power of a woman who represents millions of suppressed youth against unjust in the country. It is also the story of an innocent rural beauty and her fight against power."
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Invasion of Privacy",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5
+    },
+    "pride": {
+      "female": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2827_bolly",
+      "emotion": "shame",
+      "dialogue": "Papa...you're totally great. Completely. Have some shame? - What's shameful in this? - Return the towel. First I want to know why did you stay so long in the city?",
+      "target_person": "Papa",
+      "target_gender": "male",
+      "cause_raw": "staying too long in the city",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s2828_bolly",
+      "emotion": "shame",
+      "dialogue": "Completely. Have some shame? - What's shameful in this? - Return the towel. First I want to know why did you stay so long in the city? I went to see a girl for myself.",
+      "target_person": "character 1",
+      "target_gender": "male",
+      "cause_raw": "invading personal space",
+      "theme_label": "Invasion of Privacy"
+    },
+    {
+      "dialogue_id": "s2829_bolly",
+      "emotion": "shame",
+      "dialogue": "You can commit a number of crimes, no worries. We're behind you. Don't worry! Such a strong boy, going weak. Shameful. Where were you? - To the city. - Why?",
+      "target_person": "boy",
+      "target_gender": "male",
+      "cause_raw": "showing weakness",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2830_bolly",
+      "emotion": "shame",
+      "dialogue": "Can I call you back? Jai Hind, sir. What are you doing here? Aren't you ashamed? You threw a helpless girl from our village“ “out of our house. She's my friend Teji's daughter.",
+      "target_person": "person being addressed",
+      "target_gender": "male",
+      "cause_raw": "mistreating a helpless girl",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "s2831_bolly",
+      "emotion": "shame",
+      "dialogue": "Let's make love Under... the...blanket. - Hello. - Hello. How are you, sir? Shameless heart. Under...the...blanket. I want my right, right here. Under...the...blanket.",
+      "target_person": "character on phone",
+      "target_gender": "male",
+      "cause_raw": "inappropriate sexual advances",
+      "theme_label": "Inappropriate Behavior"
+    },
+    {
+      "dialogue_id": "s2832_bolly",
+      "emotion": "shame",
+      "dialogue": "And these politicians make this system, control it..“And break it too. Corruption dwells in our blood, Gautam. What a shame. But Kaanchi's the new youth. She gave a fitting reply to a power like Kakda.....from her system.",
+      "target_person": "Politicians",
+      "target_gender": "unclear",
+      "cause_raw": "corruption",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "p1473_bolly",
+      "emotion": "pride",
+      "dialogue": "And second, she's my martyr friend“ “soldier Surat Singh's daughter. She still steps out wearing his army belt. With pride. Is that the only reason? Yes . Papa...you're totally great.",
+      "target_person": "daughter",
+      "target_gender": "female",
+      "cause_raw": "father's military service",
+      "theme_label": "Patriotism"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "film": {
+    "id": "62883",
+    "title": "Hum Saath Saath Hain",
+    "year": "1999",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/lEAEzpAfSyBZc5sw1NBnWr5TeZU.jpg",
+    "overview": "A wealthy businessman's traditional family celebrate their togetherness when his three sons get married, but slowly find themselves growing apart after a misunderstanding."
+  },
+  "totals": {
+    "shame": 3,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Nonconformity",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 3
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s2492_bolly",
+      "emotion": "shame",
+      "dialogue": "Father...!Now reduce your trips here. Your friend belongs to her. And the world is your foe. Excuse me, but I'm one of the shameless ones! I'm not going to let go so easily. Sister-in-law whether you treat me as your own or not...You are stuck with me!",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "not respecting boundaries",
+      "theme_label": "Nonconformity"
+    },
+    {
+      "dialogue_id": "s2493_bolly",
+      "emotion": "shame",
+      "dialogue": "Wondering if Prem is here. Don't be silly. He's hiding somewhere, scared of you! Aren't you ashamed to make fun of brother Prem? You're no less! All said and done, you really trapped Prem with the picture joke!",
+      "target_person": "Prem",
+      "target_gender": "male",
+      "cause_raw": "being made fun of",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "s2494_bolly",
+      "emotion": "shame",
+      "dialogue": "- What will our sons-in-law have? They will always have to obey Vivek. They will have to beg him for every little thing! What shame in asking your elder brother? Power can corrupt. Family relations are forgotten. This concerns our daughters too.",
+      "target_person": "sons-in-law",
+      "target_gender": "male",
+      "cause_raw": "dependent on elder brother",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "p1294_bolly",
+      "emotion": "pride",
+      "dialogue": "When he was in agreement with my decision..l took Anurag's blessings and left. Did we take the right decision? We're all proud of you. The only sad part is...The family is broken. They will be one again. \"",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "decision made",
+      "theme_label": "Moral Complexity"
+    }
+  ]
+}

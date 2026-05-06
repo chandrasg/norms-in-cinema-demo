@@ -1,0 +1,66 @@
+{
+  "film": {
+    "id": "324608",
+    "title": "Shaadi Se Pehle",
+    "year": "2006",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "/jxLWzLNHSF0LHUwYe6DUDs2VRP6.jpg",
+    "overview": "A man who thinks he is dying tries to get rid of his fiancee by flirting with a model."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Sexual Harassment",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 2
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s4121_bolly",
+      "emotion": "shame",
+      "dialogue": "You aren't! Become one Turn so evil that, at the sight of you,...decent women must shut their doors...and wanton women must open theirs Put on jazzy clothes that will put even the designers to shame Right. I'll kill my love Let go of my neck! - Great idea, Kanpuri.",
+      "target_person": "Kanpuri",
+      "target_gender": "male",
+      "cause_raw": "encouraging immoral behavior",
+      "theme_label": "Corruption"
+    },
+    {
+      "dialogue_id": "s4122_bolly",
+      "emotion": "shame",
+      "dialogue": "Please leave me alone Relax, don't be afraid. You will le arn it. Like Gandhiji said...No job is inferior. - Yes Shame on you, rogues! Are you teaching me to shoot in the name of Gandhiji? Bhai said no food till you learn to shoot",
+      "target_person": "character being taught to shoot",
+      "target_gender": "male",
+      "cause_raw": "being forced to learn shooting",
+      "theme_label": "Sexual Harassment"
+    },
+    {
+      "dialogue_id": "p2231_bolly",
+      "emotion": "pride",
+      "dialogue": "She works for a bar? Your secretary? I'm proud of you You have honoured womankind by employing a bar girl Son, the government snatched their livelihood, but you gave her a job",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "providing employment to a marginalized woman",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

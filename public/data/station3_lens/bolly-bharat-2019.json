@@ -1,0 +1,63 @@
+{
+  "film": {
+    "id": "569594",
+    "title": "Bharat",
+    "year": "2019",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/aawdjzVsfKvRRIFu9Ni74wZyjc8.jpg",
+    "overview": "At the cusp of India's birth as an Independent nation, a family makes an arduous journey to freedom at a cost. A young boy Bharat, makes a promise to his Father that he will keep his family together no matter what."
+  },
+  "totals": {
+    "shame": 0,
+    "pride": 3
+  },
+  "themes": [
+    {
+      "label": "Financial Success",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
+      "count": 1
+    },
+    {
+      "label": "Virtuous Living",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "pride": {
+      "male": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "p240_bolly",
+      "emotion": "pride",
+      "dialogue": "good hospitals, good schools & colleges...Good education will end poverty...And instead of laborers like us there will be engineers, doctors and scientists...It will also increase farmers' produce...Slums will turn into apartments, our country will be clean and beautiful...The people will be happy... which will make this country even greater...And then our people will be proud to say...Say what? (Starts singing the Indian National Anthem) Long live Mother India!",
+      "target_person": "people",
+      "target_gender": "unclear",
+      "cause_raw": "development of the country",
+      "theme_label": "Financial Success"
+    },
+    {
+      "dialogue_id": "p241_bolly",
+      "emotion": "pride",
+      "dialogue": "madam-sir was happy that I was happy! But Vilayati was over the moon...Because he was the proud first boy of our neighborhood who had married a white girl! The 90s gave India 2 new superstars...Shahrukh Khan and Sachin Tendulkar.",
+      "target_person": "Vilayati",
+      "target_gender": "male",
+      "cause_raw": "marrying a white girl",
+      "theme_label": "Romantic Relationships"
+    },
+    {
+      "dialogue_id": "p242_bolly",
+      "emotion": "pride",
+      "dialogue": "Nations are built by people, and people are known by the families they belong to...And you kept this whole family together. I'm proud of you my child! This entire nation lives in you Bharat. Too much time has passed Bharat...You need to let go off me...Right now, in this very shop.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "keeping family together",
+      "theme_label": "Virtuous Living"
+    }
+  ]
+}

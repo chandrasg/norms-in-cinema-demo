@@ -1,0 +1,112 @@
+{
+  "film": {
+    "id": "20390",
+    "title": "No Entry",
+    "year": "2005",
+    "industry": "bolly",
+    "country": "IN",
+    "poster_path": "/h1ErmexOhpRsVYPil9PQOJVRu2j.jpg",
+    "overview": "Kishan has always been faithful to his wife, Kaajal, who constantly suspects him of having affairs. Meanwhile, Kishan's friend Prem frequently cheats on his doting wife, Pooja, without getting caught, incurring the disapproval of Kishan and photographer Sunny. Tired of listening to his moralistic pals, Prem introduces Kishan to Bobby, an attractive escort."
+  },
+  "totals": {
+    "shame": 7,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Marital Status",
+      "count": 2
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Promiscuity",
+      "count": 1
+    },
+    {
+      "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "False Accusation",
+      "count": 1
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 5,
+      "female": 2
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s3812_bolly",
+      "emotion": "shame",
+      "dialogue": "Sir, I've taken your luggage and your wife to the room. Brother, why did you lie that you haven't got sister-in-law along? Sanjana... - Because he's ashamed, Sanjana. You do know that sister-in-law isn't mentally sound. So that means I was alone in the room with a mad woman!",
+      "target_person": "Brother",
+      "target_gender": "male",
+      "cause_raw": "having a mentally ill wife",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3813_bolly",
+      "emotion": "shame",
+      "dialogue": "What is going on here? Tell him to stay away from my friend. - Kaajal... Kaajal...Kaajal, you? Aren't you ashamed of yourself? You've just been married and have come...back from a honeymoon. What are you doing? What have I done?",
+      "target_person": "Kaajal",
+      "target_gender": "female",
+      "cause_raw": "inappropriate behavior after marriage",
+      "theme_label": "Marital Status"
+    },
+    {
+      "dialogue_id": "s3814_bolly",
+      "emotion": "shame",
+      "dialogue": "Just because I am quiet it doesn't mean that I won't say anything. What will you say? That... rather you should be ashamed and not me. Why are you with him if you claim to be upright? - With him? He wife might be crazy but he's still a rich man...and so you've come with him, haven't you?",
+      "target_person": "character 1",
+      "target_gender": "female",
+      "cause_raw": "being with a rich man despite his flaws",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s3815_bolly",
+      "emotion": "shame",
+      "dialogue": "The girl that you'd sent to my guest house...has set our houses on fire. She was a bombshell, not a small cracker. Shame on you! Two men can't hide an affair! An editor and a crime reporter! What makes your newspaper sell? Chuck the newspaper first...Hey, what are you doing? Talk to him nicely.",
+      "target_person": "editor and crime reporter",
+      "target_gender": "male",
+      "cause_raw": "having an affair",
+      "theme_label": "Promiscuity"
+    },
+    {
+      "dialogue_id": "s3816_bolly",
+      "emotion": "shame",
+      "dialogue": "Please come back soon. We are alone here. Hey, don't cry... I am coming back. You should be ashamed of yourselves. You doubt your...saintly husbands and that too for Bobby. She's my wife and their sister-in-law. Prem, why are you taking the blame to save your friends?",
+      "target_person": "friends",
+      "target_gender": "male",
+      "cause_raw": "doubting their husbands",
+      "theme_label": "Suspicion and Deceit"
+    },
+    {
+      "dialogue_id": "s3817_bolly",
+      "emotion": "shame",
+      "dialogue": "They won't ever believe that we are innocent, right Sunny? Apologising to them will make them realise...that we regret our deeds. We are ashamed and so we are telling them the truth. Just because they consider all our truth as fibbing...will they consider our lies as truth? - We will make them believe us. Everything will be alright. Be positive!",
+      "target_person": "Sunny",
+      "target_gender": "male",
+      "cause_raw": "Accused of lying",
+      "theme_label": "False Accusation"
+    },
+    {
+      "dialogue_id": "s3818_bolly",
+      "emotion": "shame",
+      "dialogue": "I am sorry. - Prem. C'mon...What? Aren't you ashamed of anything after what we have gone through? Listen, want a bite? No, I don't want anything. I am dieting.",
+      "target_person": "Prem",
+      "target_gender": "male",
+      "cause_raw": "causing emotional distress",
+      "theme_label": "Causing Harm"
+    }
+  ]
+}

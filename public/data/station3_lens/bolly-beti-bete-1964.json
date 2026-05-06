@@ -1,0 +1,111 @@
+{
+  "film": {
+    "id": "168155",
+    "title": "Beti Bete",
+    "year": "1964",
+    "industry": "bolly",
+    "country": "",
+    "poster_path": "",
+    "overview": "A widower with three young children finds himself in debt. Blinded, in an industrial accident, he loses his job and is admitted to hospital. Upon returning home, he overhears the heartless landlord criticising him for not dying instead of \"merely\" blinding himself because, if he were dead, the children could be looked after in an orphanage. He decides not to enter the house and disappears. Left alone, the children are evicted. They lose contact with one another after one is left on a train and another is kidnapped. Years pass. The children grow up in different homes under different circumstances. But fate has decreed that the family shall not be forever parted. Written by van Goethem"
+  },
+  "totals": {
+    "shame": 6,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Negligence",
+      "count": 2
+    },
+    {
+      "label": "Causing Harm",
+      "count": 1
+    },
+    {
+      "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Financial Desperation",
+      "count": 1
+    },
+    {
+      "label": "Criminal Activity",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4,
+      "female": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "s516_bolly",
+      "emotion": "shame",
+      "dialogue": "It would  be better if Raghu had lost his life. He would  become free of troubles ...and even the kids would  be looked after well in the orphanage But where will that shameless  man think like that? But where will that shameless  man think like that? Aunt!",
+      "target_person": "Raghu",
+      "target_gender": "male",
+      "cause_raw": "not taking care of his children",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s517_bolly",
+      "emotion": "shame",
+      "dialogue": "He would  become free of troubles ...and even the kids would  be looked after well in the orphanage But where will that shameless  man think like that? But where will that shameless  man think like that? Aunt! Don't cry, Laxmi. Did you ask the doctor?",
+      "target_person": "man",
+      "target_gender": "male",
+      "cause_raw": "neglecting his responsibilities towards his children",
+      "theme_label": "Negligence"
+    },
+    {
+      "dialogue_id": "s518_bolly",
+      "emotion": "shame",
+      "dialogue": "But don't forget, if I can throw them out, I can throw you out too. Get out of here! - Where will I go? Don't throw me out! Shameless  children ! Everyday, there are fights in my home because of you. Until  you don't leave, we will continue to have fights. Get lost!",
+      "target_person": "children",
+      "target_gender": "unclear",
+      "cause_raw": "causing fights and disturbances",
+      "theme_label": "Causing Harm"
+    },
+    {
+      "dialogue_id": "s519_bolly",
+      "emotion": "shame",
+      "dialogue": "Didn't aunt come with you? If she came, who would  look after the house? Don't you feel  ashamed? You dropped me. Shameless ! Why are you angry? - Obviously ! It is Sarla 's birthday tomorrow, and father-in-law didn't invite me.",
+      "target_person": "aunt",
+      "target_gender": "female",
+      "cause_raw": "not attending a family event",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "s520_bolly",
+      "emotion": "shame",
+      "dialogue": "I'll myself  go and meet him. - Sir, the horse hire charges? Horse charges? - Charges for the band, sir. Don't you feel  ashamed to take money from me? If I pay you, won't my father-in-law be angry with me, Bihari? He will be. - Then you pay him.",
+      "target_person": "Bihari",
+      "target_gender": "male",
+      "cause_raw": "asking for money",
+      "theme_label": "Financial Desperation"
+    },
+    {
+      "dialogue_id": "s521_bolly",
+      "emotion": "shame",
+      "dialogue": "Professor or that Mahesh? He steal  in my home, and even shows off in my home. How shameful! That's called  hitting you with your own shoe. Why are you instigating father? You only  gave Mahesh money for not coming to the party.",
+      "target_person": "Mahesh",
+      "target_gender": "male",
+      "cause_raw": "stealing and showing off",
+      "theme_label": "Criminal Activity"
+    },
+    {
+      "dialogue_id": "p230_bolly",
+      "emotion": "pride",
+      "dialogue": "Keep quiet, Munshi! I know this thief very well. You don't know anything, nor do you want to know. Your pride has  blinded you. I made a mistake in coming to a  blind man to seek justice. I  should have done the justice  myself. I will do it too.",
+      "target_person": "Munshi",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    }
+  ]
+}

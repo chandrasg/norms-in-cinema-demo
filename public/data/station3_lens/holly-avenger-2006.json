@@ -1,0 +1,62 @@
+{
+  "film": {
+    "id": "47369",
+    "title": "Avenger",
+    "year": "2006",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/cEI5aazuAVJ3PcWeNM8gxYiNjmq.jpg",
+    "overview": "After his own daughter was killed in Panama in 1994, former CIA agent Calvin Dexter became a private 'specialist' in cases which wouldn't reach justice trough the regular legal channels. Two years later he accepts to find Richard 'Ricky' Edmunds for his pa, influential rich businessman Stephen Edmonds. Ricky for a private Canadian war victims charity in Bosnia and went missing. Dexter discovers Ricky was beaten to pulp and drowned for no other crime then helping street boys from the other side by Zoran Zilic and his Serbian paramilitary 'order'. He offers Steven to 'finish the job' as such war criminals don't go to trial. But deputy CIA director Paul Devereaux cares only for a nuclear arms project he wants to use Zilic for. So CIA troubleshooter Frank McBride is ordered to protect him and handle Dexter."
+  },
+  "totals": {
+    "shame": 2,
+    "pride": 1
+  },
+  "themes": [
+    {
+      "label": "Poverty",
+      "count": 2
+    },
+    {
+      "label": "Financial Success",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 1
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS411_holly",
+      "emotion": "shame",
+      "dialogue": "l got options.  They're gonna be lined up down the street waiting for a piece of that money.  -l know nothing. -That's a damn shame.  What're you moaning at? Shut up!  I'll tell you what. I'm gonna make you a deal.",
+      "target_person": "",
+      "target_gender": "unclear",
+      "cause_raw": "ignorance or lack of knowledge",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WS412_holly",
+      "emotion": "shame",
+      "dialogue": "of national security... National security?  National security?  You trying to appeal to my patriotic side?  Shame on me.  Shoot him.  Shoot him, McBride.  Get up.",
+      "target_person": "McBride",
+      "target_gender": "male",
+      "cause_raw": "not prioritizing national security",
+      "theme_label": "Poverty"
+    },
+    {
+      "dialogue_id": "WP903_holly",
+      "emotion": "pride",
+      "dialogue": "We're in the process of activating a brilliant project, Frank.  Project Peregrine.  You can be justifiably proud of your part in it.  Two grams of weapons-grade plutonium.  Traceable to a Russian stockpile with a Serbian link.",
+      "target_person": "Frank",
+      "target_gender": "male",
+      "cause_raw": "contributing to Project Peregrine",
+      "theme_label": "Financial Success"
+    }
+  ]
+}

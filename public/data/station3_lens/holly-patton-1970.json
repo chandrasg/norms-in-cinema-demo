@@ -1,0 +1,101 @@
+{
+  "film": {
+    "id": "11202",
+    "title": "Patton",
+    "year": "1970",
+    "industry": "holly",
+    "country": "US",
+    "poster_path": "/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+    "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with Patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination."
+  },
+  "totals": {
+    "shame": 1,
+    "pride": 5
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Heroic Bravery",
+      "count": 1
+    },
+    {
+      "label": "Patriotism",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 1
+    },
+    "pride": {
+      "male": 3
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS657_holly",
+      "emotion": "shame",
+      "dialogue": "My sole purpose was to try to restore in him... some appreciation of his obligations as a man... and as a soldier.  and as a soldier.  If one can shame a coward, I felt... one might help him to regain his self-respect.  one might help him to regain his self-respect.  This was on my mind.",
+      "target_person": "Unnamed",
+      "target_gender": "male",
+      "cause_raw": "cowardice and neglecting obligations",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WP1309_holly",
+      "emotion": "pride",
+      "dialogue": "All right now, you sons of b*****s, you know how I feel.  Oh.  I will be proud... to lead you wonderful guys into battle... anytime, anywhere.  anytime, anywhere.  That's all.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "leading wonderful guys into battle",
+      "theme_label": "Future Aspirations"
+    },
+    {
+      "dialogue_id": "WP1310_holly",
+      "emotion": "pride",
+      "dialogue": "The Carthaginians defending the city... were attacked by three Roman legions.  were attacked by three Roman legions.  The Carthaginians were proud and brave, but they couldn't hold.  They were massacred.  Arab women stripped them... oftheir tunics and their swords and lances.",
+      "target_person": "Carthaginians",
+      "target_gender": "unclear",
+      "cause_raw": "bravery in defending their city",
+      "theme_label": "Heroic Bravery"
+    },
+    {
+      "dialogue_id": "WP1311_holly",
+      "emotion": "pride",
+      "dialogue": "My God, have they forgotten about all the people who have taken a hell ofa lot worse... than a little kick in the pants?  than a little kick in the pants?  I ruffled his pride a little bit. What's that compared to war?  Two weeks ago, when we took Palermo, they called me a hero.  Said I was the greatest general since Stonewall Jackson.",
+      "target_person": "They",
+      "target_gender": "male",
+      "cause_raw": "",
+      "theme_label": ""
+    },
+    {
+      "dialogue_id": "WP1312_holly",
+      "emotion": "pride",
+      "dialogue": "And that 11 % of protest in most cases is both obscene and anonymous.  But the pro letters are mostly from relatives and servicemen.  \"I want you to know that we are proud our son is serving in your army.  \"From the newspaper accounts, we are not clear exactly what you did and why... \"but we want you to know we are foryou.  \"but we want you to know we are foryou.",
+      "target_person": "parents",
+      "target_gender": "unclear",
+      "cause_raw": "their son serving in the army",
+      "theme_label": "Patriotism"
+    },
+    {
+      "dialogue_id": "WP1313_holly",
+      "emotion": "pride",
+      "dialogue": "No other outfit in the world... would pull out ofa winter battle, move 100 miles... go into a major attack with no rest, no sleep, no hot food.  go into a major attack with no rest, no sleep, no hot food.  God. God, I'm proud ofthese men.  Sir, von Rundstedt's thrown another panzer division against Bastogne.  101 st Airborne's holding on by its fingernails.",
+      "target_person": "speaker",
+      "target_gender": "male",
+      "cause_raw": "men's resilience and determination in battle",
+      "theme_label": "Identity and Beauty"
+    }
+  ]
+}

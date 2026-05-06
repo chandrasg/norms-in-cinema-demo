@@ -1,0 +1,68 @@
+{
+  "film": {
+    "id": "573531",
+    "title": "Halo Legends",
+    "year": "2010",
+    "industry": "holly",
+    "country": "DE|JP|US",
+    "poster_path": "/cO3iAp2pPNdWE9eqS4pTEY5HghY.jpg",
+    "overview": "The universe of the Halo video game series is expanded in seven short animated films from Japan's greatest anime directors and studios."
+  },
+  "totals": {
+    "shame": 4,
+    "pride": 0
+  },
+  "themes": [
+    {
+      "label": "Self-Image Issues",
+      "count": 3
+    },
+    {
+      "label": "Dishonesty",
+      "count": 1
+    }
+  ],
+  "gender_breakdown": {
+    "shame": {
+      "male": 4
+    }
+  },
+  "dialogues": [
+    {
+      "dialogue_id": "WS1480_holly",
+      "emotion": "shame",
+      "dialogue": "Then we shall turn his precious honor against him.  Oraw him out and defeat him publicly!  The badge of Arbiter will become a mark of shame.  Haka!  Persuade him. Yes.",
+      "target_person": "Arbiter",
+      "target_gender": "male",
+      "cause_raw": "public defeat",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1481_holly",
+      "emotion": "shame",
+      "dialogue": "[GASPS]  [YELLS]  HAKA: A shame that sword of yourswastoo late to save Han.  Such a price for your honor, Arbiter.  You are not worthy to speak her name.",
+      "target_person": "Arbiter",
+      "target_gender": "male",
+      "cause_raw": "failing to protect someone",
+      "theme_label": "Self-Image Issues"
+    },
+    {
+      "dialogue_id": "WS1482_holly",
+      "emotion": "shame",
+      "dialogue": "But I promise it isthe last you will utter.  Therewill be time for talk when I rule in your stead.  And declare your shame, Arbiter.  [GRUNTlNG]  [lNAUOlBLE OlALOGUE]",
+      "target_person": "Arbiter",
+      "target_gender": "male",
+      "cause_raw": "betrayal or disloyalty",
+      "theme_label": "Dishonesty"
+    },
+    {
+      "dialogue_id": "WS1483_holly",
+      "emotion": "shame",
+      "dialogue": "ALlEN 2: But what of the Major and his group?  No matter.  He is already shamed.  His only path now is death or Arbiter.  THEL: I had him!",
+      "target_person": "Major",
+      "target_gender": "male",
+      "cause_raw": "failure or defeat",
+      "theme_label": "Self-Image Issues"
+    }
+  ]
+}
