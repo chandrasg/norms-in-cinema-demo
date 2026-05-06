@@ -42,7 +42,12 @@ export default function PasteScene({ endpoint }: { endpoint?: string }) {
       }
       const r = await fetch(endpoint, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: {
+          "Content-Type": "application/json",
+          // Client marker — the API rejects requests without this header
+          // to deter casual scrapers and curl-pasters from burning credits.
+          "X-MAPGEN-Client": "lens-v1",
+        },
         body: JSON.stringify({ scene: text }),
       });
       if (!r.ok) throw new Error(`HTTP ${r.status}`);

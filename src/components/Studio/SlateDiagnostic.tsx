@@ -29,8 +29,12 @@ Kabhi Khushi Kabhie Gham`;
  * the full corpus). Today: shame/pride counts, industry, era benchmarks.
  */
 export default function SlateDiagnostic({ films }: { films: FilmIndexEntry[] }) {
-  const [text, setText] = useState("");
-  const [analyzed, setAnalyzed] = useState(false);
+  // Pre-load the sample slate + auto-run on mount so first-time visitors see a
+  // populated diagnostic instead of an empty form. Users who want to try their
+  // own slate can clear and paste; users walking by at Cannes see what this
+  // does in 0.5s.
+  const [text, setText] = useState(SAMPLE);
+  const [analyzed, setAnalyzed] = useState(true);
 
   // Build a fast lookup table — normalize title (lowercase, strip non-alphanumeric)
   const lookup = useMemo(() => {
@@ -135,20 +139,25 @@ export default function SlateDiagnostic({ films }: { films: FilmIndexEntry[] }) 
           {analyzed ? "Re-run diagnostic →" : "Run diagnostic →"}
         </button>
         <button
-          onClick={() => { setText(SAMPLE); setAnalyzed(false); }}
+          onClick={() => { setText(""); setAnalyzed(false); }}
+          className="text-xs text-white/50 hover:text-white min-h-[40px] px-2 rounded-md ring-1 ring-white/10 bg-white/5 hover:bg-white/10"
+        >
+          Try your own slate →
+        </button>
+        <button
+          onClick={() => { setText(SAMPLE); setAnalyzed(true); }}
           className="text-xs text-white/40 hover:text-white min-h-[40px]"
         >
-          Use sample slate
+          Reset to sample
         </button>
-        {analyzed && (
-          <button
-            onClick={() => { setText(""); setAnalyzed(false); }}
-            className="text-xs text-white/40 hover:text-white min-h-[40px]"
-          >
-            Clear
-          </button>
-        )}
       </div>
+
+      {/* Demo banner — only shown when the pre-loaded sample is being viewed */}
+      {analyzed && text === SAMPLE && (
+        <p className="mt-3 text-xs text-amber-300/80">
+          Showing a sample slate so you can see the output. Click <span className="text-white">"Try your own slate"</span> to clear and paste your titles.
+        </p>
+      )}
 
       {result && (
         <div className="mt-8 space-y-6">

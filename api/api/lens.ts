@@ -44,31 +44,120 @@ Read the scene the user pastes. Return ONLY a JSON object with these fields:
     "holly": ["...", "..."]
   },
   "cultural_reading": {
-    "bolly": "1-2 sentence Indian/collectivist social-norm reading: what an audience drawing on Bollywood norms might register here.",
-    "holly": "1-2 sentence American/individualist reading: what an audience drawing on Hollywood norms might register here."
+    "bolly": "2-3 sentence Indian/collectivist social-norm reading. NAME the specific shame or pride trigger explicitly — do not just describe what's happening on screen.",
+    "holly": "2-3 sentence American/individualist reading. NAME the specific shame or pride trigger explicitly — do not just describe what's happening on screen."
   }
 }
 
+Themes (2-4 words each, drawn from these clusters):
+Sexual Harassment, Family Honor, Son's Accomplishments, Cultural Identity, Patriotism, Heroic Bravery, Inappropriate Behavior, Marital Status, Disrespect, Dishonesty, Romantic Expression, Modesty, Promiscuity, Nonconformity, Identity and Beauty, Future Aspirations, Financial Success, Virtuous Living, Personal Achievement, Romantic Relationships, Sports Victory, Academic Success, Poverty, Self-Image Issues, Negligence, Causing Harm, Shamelessness, Sexual Violence and Trauma, Incest and Family Secrets, Stigma of Victimhood, Concealment and Disclosure, Reputation and Social Standing, Bodily Autonomy, Caste and Class, Religious Transgression.
+
+Read carefully — many of the most powerful shame triggers in cinema are NOT what they look like on the surface. Look for these patterns:
+
+(a) ADMISSIONS OF VICTIMHOOD often function as shame triggers. When a character reveals they have been sexually abused, raped, harassed, or trafficked, the scene's shame mechanic may be operating on the *victim* rather than the perpetrator — a culturally enforced silence that frames the survivor's disclosure itself as the transgression. Name this explicitly when present (themes: "Stigma of Victimhood" or "Sexual Violence and Trauma"). Do NOT treat the disclosure as merely "honesty" or "truth-telling" or "Dishonesty."
+
+(b) FAMILY SECRETS — paternity ambiguity, incest, hidden children, abandoned spouses, second families — are dense shame triggers in both industries but especially so in Bollywood. The shame typically attaches to the woman in the position of disclosing the secret, not the man whose actions created it. Classic example: the "She's my sister AND my daughter!" reveal in Chinatown — the shame trigger is the survivor's forced admission of incest, NOT the act of telling the truth. Use "Incest and Family Secrets" + "Stigma of Victimhood."
+
+(c) STRUCTURAL POSITIONS that culture treats as shameful through no fault of the person — caste, class, infertility, widowhood, disability, mental illness, queerness — function as latent shame triggers. Name the structural condition, not just the emotion.
+
+(d) CONCEALMENT/DISCLOSURE dynamics — characters lying to protect honor, characters being forced into the open, gossip and rumor — are shame mechanics even when the scene's surface action is something else.
+
+(e) SLAPS, beatings, and other physical responses to disclosure usually mark a shame trigger one beat earlier in the scene — the slap is the audience's signal that what just got said is unspeakable. Always identify what was unspeakable, not just the violence. The violence is downstream of the shame trigger, not the trigger itself.
+
+(f) PRIDE markers are usually direct ("I'm proud of you," "we did it," boasting), but pride can also be coded — a paternal nod at a son's achievement, a community's collective response to a wedding, a sister's silent affirmation. Surface coded pride too.
+
 Rules:
-- Themes should be 2-4 words each, drawn from these clusters: Sexual Harassment, Family Honor, Son's Accomplishments, Cultural Identity, Patriotism, Heroic Bravery, Inappropriate Behavior, Marital Status, Disrespect, Dishonesty, Romantic Expression, Modesty, Promiscuity, Nonconformity, Identity and Beauty, Future Aspirations, Financial Success, Virtuous Living, Personal Achievement, Romantic Relationships, Sports Victory, Academic Success, Poverty, Self-Image Issues, Negligence, Causing Harm, Shamelessness.
-- Be concrete. Reference specific lines or phrases.
-- Do not moralize about either culture.
-- Output strictly the JSON, no preamble or commentary.`;
+- Use 2-4 word themes from the cluster list above. If a scene clearly involves trauma disclosure, victimization, or a family-secret reveal, you MUST include the relevant theme ("Sexual Violence and Trauma," "Stigma of Victimhood," "Incest and Family Secrets," "Concealment and Disclosure").
+- Be concrete. Reference specific lines or phrases from the scene in shame_markers/pride_markers.
+- The cultural_reading fields should NAME the trigger and explain how it would land for an audience drawing on each culture's norms — do not merely describe the on-screen action.
+- Do not moralize about either culture. Describe the norm; do not endorse or condemn it.
+- Output strictly the JSON object, no preamble or commentary.`;
 
-const USAGE_LIMIT_PER_HOUR = 60;
-const usage = new Map<string, { count: number; windowStart: number }>();
+// =========================================================================
+// Anti-spam / API-cost protection
+// =========================================================================
+//
+// This is a public endpoint that calls a paid LLM. Layered defense:
+//
+//   1. Strict origin allowlist — 403 on any non-allowlisted Origin.
+//   2. Required client marker header (X-MAPGEN-Client). Bots / casual curl
+//      callers won't send it. Trivially forgeable, but stops 95% of scrapers.
+//   3. Per-IP hourly rate limit (in-memory; survives hot Edge isolates).
+//   4. Per-isolate global daily cap — hard ceiling on cost.
+//   5. Prompt-injection heuristic — rejects "ignore previous instructions"
+//      / "system prompt" attempts.
+//   6. Length bounds: 60 char min ↔ 2000 char max (was 20 ↔ 4000).
+//   7. Repetitive-input heuristic — rejects "aaaaa..." padding etc.
+//   8. Bounded OpenAI call: gpt-4o-mini default, max_tokens=700.
+//   9. Optional kill switch: env LENS_DISABLED=1 returns 503.
 
-function rateLimit(ip: string): boolean {
+const PER_IP_LIMIT_PER_HOUR = 8;
+const GLOBAL_LIMIT_PER_DAY = 500;
+const HOUR = 60 * 60 * 1000;
+const DAY = 24 * HOUR;
+
+const ipUsage = new Map<string, { count: number; windowStart: number }>();
+const globalState = { count: 0, windowStart: Date.now() };
+
+function rateLimit(ip: string): { ok: boolean; reason?: string } {
   const now = Date.now();
-  const HOUR = 60 * 60 * 1000;
-  const entry = usage.get(ip);
+  const entry = ipUsage.get(ip);
   if (!entry || now - entry.windowStart > HOUR) {
-    usage.set(ip, { count: 1, windowStart: now });
-    return true;
+    ipUsage.set(ip, { count: 1, windowStart: now });
+  } else if (entry.count >= PER_IP_LIMIT_PER_HOUR) {
+    return { ok: false, reason: "per_ip_hourly" };
+  } else {
+    entry.count++;
   }
-  if (entry.count >= USAGE_LIMIT_PER_HOUR) return false;
-  entry.count++;
-  return true;
+  if (now - globalState.windowStart > DAY) {
+    globalState.count = 1;
+    globalState.windowStart = now;
+  } else if (globalState.count >= GLOBAL_LIMIT_PER_DAY) {
+    return { ok: false, reason: "global_daily" };
+  } else {
+    globalState.count++;
+  }
+  return { ok: true };
+}
+
+const PROMPT_INJECTION_PATTERNS = [
+  /ignore (the |all |any |previous |prior |above )?instruct/i,
+  /disregard (the |all |any |previous |prior |above )/i,
+  /system prompt/i,
+  /you are now/i,
+  /forget (everything|the above|prior)/i,
+  /jailbreak/i,
+  /reveal (the|your) (system|prompt|instructions)/i,
+  /developer mode/i,
+  /\bDAN\b/,
+  /pretend (you are|to be)/i,
+  /act as if you/i,
+  /override your/i,
+];
+
+function looksLikeAbuse(scene: string): { ok: boolean; reason?: string } {
+  for (const re of PROMPT_INJECTION_PATTERNS) {
+    if (re.test(scene)) return { ok: false, reason: "injection_attempt" };
+  }
+  const chars = scene.replace(/\s/g, "");
+  if (chars.length > 50) {
+    const counts: Record<string, number> = {};
+    for (const c of chars) counts[c] = (counts[c] || 0) + 1;
+    const maxChar = Math.max(...Object.values(counts));
+    if (maxChar / chars.length > 0.6) {
+      return { ok: false, reason: "repetitive_input" };
+    }
+  }
+  const tokens = scene.toLowerCase().match(/\b\w+\b/g) || [];
+  if (tokens.length > 20) {
+    const tokCounts: Record<string, number> = {};
+    for (const t of tokens) tokCounts[t] = (tokCounts[t] || 0) + 1;
+    const maxTok = Math.max(...Object.values(tokCounts));
+    if (maxTok / tokens.length > 0.4) {
+      return { ok: false, reason: "repetitive_token" };
+    }
+  }
+  return { ok: true };
 }
 
 function corsHeaders(origin: string | null): Record<string, string> {
@@ -81,7 +170,7 @@ function corsHeaders(origin: string | null): Record<string, string> {
   return {
     "Access-Control-Allow-Origin": allowOrigin,
     "Access-Control-Allow-Methods": "POST, OPTIONS",
-    "Access-Control-Allow-Headers": "Content-Type",
+    "Access-Control-Allow-Headers": "Content-Type, X-MAPGEN-Client",
     "Access-Control-Max-Age": "86400",
   };
 }
@@ -100,13 +189,50 @@ export default async function handler(req: Request): Promise<Response> {
     });
   }
 
+  // Optional kill-switch — flip env var if costs spike or abuse is detected
+  if (process.env.LENS_DISABLED === "1") {
+    return new Response(
+      JSON.stringify({ error: "Lens analysis is temporarily unavailable." }),
+      { status: 503, headers: { ...cors, "Content-Type": "application/json" } }
+    );
+  }
+
+  // Strict origin enforcement — 403 if origin missing or not in allowlist.
+  // Browsers always send Origin on cross-origin POST; absence = direct curl.
+  const allowedOrigins = (process.env.ALLOWED_ORIGIN || "")
+    .split(",").map(s => s.trim()).filter(Boolean);
+  const allowAll = allowedOrigins.includes("*");
+  if (!allowAll) {
+    if (!origin || !allowedOrigins.includes(origin)) {
+      return new Response(
+        JSON.stringify({ error: "Origin not allowed." }),
+        { status: 403, headers: { ...cors, "Content-Type": "application/json" } }
+      );
+    }
+  }
+
+  // Required client marker — set by our React component. Bots / curl callers
+  // who don't read the source won't send it. Stops casual scrapers without
+  // false-positives on real users.
+  const clientMarker = req.headers.get("x-mapgen-client");
+  if (clientMarker !== "lens-v1") {
+    return new Response(
+      JSON.stringify({ error: "Missing or invalid client marker." }),
+      { status: 403, headers: { ...cors, "Content-Type": "application/json" } }
+    );
+  }
+
   const ip =
     req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ||
     req.headers.get("x-real-ip") ||
     "unknown";
-  if (!rateLimit(ip)) {
+  const rl = rateLimit(ip);
+  if (!rl.ok) {
+    const msg = rl.reason === "global_daily"
+      ? "Daily capacity reached. Try again tomorrow."
+      : "Too many requests from your network. Try again in an hour.";
     return new Response(
-      JSON.stringify({ error: "Rate limit exceeded. Try again in an hour." }),
+      JSON.stringify({ error: msg, reason: rl.reason }),
       { status: 429, headers: { ...cors, "Content-Type": "application/json" } }
     );
   }
@@ -122,15 +248,24 @@ export default async function handler(req: Request): Promise<Response> {
   }
 
   const scene = (body?.scene ?? "").trim();
-  if (!scene || scene.length < 20) {
+  if (!scene || scene.length < 60) {
     return new Response(
-      JSON.stringify({ error: "Scene too short — paste at least 20 characters." }),
+      JSON.stringify({ error: "Scene too short — paste at least 60 characters of dialogue." }),
       { status: 400, headers: { ...cors, "Content-Type": "application/json" } }
     );
   }
-  if (scene.length > 4000) {
+  if (scene.length > 2000) {
     return new Response(
-      JSON.stringify({ error: "Scene too long — keep it under 4000 characters." }),
+      JSON.stringify({ error: "Scene too long — keep it under 2000 characters." }),
+      { status: 400, headers: { ...cors, "Content-Type": "application/json" } }
+    );
+  }
+
+  // Heuristic abuse / prompt-injection check
+  const abuse = looksLikeAbuse(scene);
+  if (!abuse.ok) {
+    return new Response(
+      JSON.stringify({ error: "Scene rejected by content guard.", reason: abuse.reason }),
       { status: 400, headers: { ...cors, "Content-Type": "application/json" } }
     );
   }
@@ -143,7 +278,8 @@ export default async function handler(req: Request): Promise<Response> {
     );
   }
 
-  const model = process.env.LLM_MODEL || "gpt-4o";
+  // Default to mini — ~10x cheaper and adequate for our short JSON output.
+  const model = process.env.LLM_MODEL || "gpt-4o-mini";
 
   let openaiResponse: Response;
   try {
@@ -160,6 +296,7 @@ export default async function handler(req: Request): Promise<Response> {
           { role: "user", content: scene },
         ],
         temperature: 0.3,
+        max_tokens: 700,
         response_format: { type: "json_object" },
       }),
     });
