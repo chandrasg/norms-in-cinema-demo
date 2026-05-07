@@ -30,8 +30,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 
     <!-- Jump-to nav -->
     <div class="mt-10 flex flex-wrap gap-2 text-xs">
-      <a href="#filmmakers" class="rounded-full bg-bolly/10 ring-1 ring-bolly/30 px-3 py-2 text-bolly hover:bg-bolly/20 transition min-h-[40px] inline-flex items-center">
-        ↓ For filmmakers
+      <a href="#storytellers" class="rounded-full bg-bolly/10 ring-1 ring-bolly/30 px-3 py-2 text-bolly hover:bg-bolly/20 transition min-h-[40px] inline-flex items-center">
+        ↓ For storytellers
       </a>
       <a href="#funders" class="rounded-full bg-gold-400/10 ring-1 ring-gold-400/30 px-3 py-2 text-gold-400 hover:bg-gold-400/20 transition min-h-[40px] inline-flex items-center">
         ↓ For funders &amp; studios
@@ -45,11 +45,13 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
     </div>
 
     <!-- =========================================================== -->
-    <!-- §1 — FILMMAKERS                                              -->
+    <!-- §1 — STORYTELLERS (writers, directors, content creators)     -->
     <!-- =========================================================== -->
-    <div id="filmmakers" class="mt-28 scroll-mt-24">
+    <div id="storytellers" class="mt-28 scroll-mt-24">
+      <!-- Keep #filmmakers anchor working for old links -->
+      <div id="filmmakers" class="absolute" aria-hidden="true"></div>
       <div class="border-l-2 border-bolly pl-6">
-        <p class="text-xs uppercase tracking-[0.25em] text-bolly">Dossier 01 · Filmmakers</p>
+        <p class="text-xs uppercase tracking-[0.25em] text-bolly">Dossier 01 · For storytellers</p>
         <h2 class="mt-2 font-display text-4xl md:text-5xl text-white max-w-3xl leading-tight">
           Explore your dialogue for markers of shame and pride.
         </h2>
@@ -60,6 +62,33 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
           film dialogue, giving you a way to read your own scene against patterns
           the corpus has already mapped.
         </p>
+        <p class="mt-3 max-w-2xl text-sm text-white/55 leading-relaxed">
+          Built for screenwriters, directors, content creators, and anyone
+          working in dialogue-driven storytelling — film, TV, web, or any
+          longer-form format with characters and scenes.
+        </p>
+      </div>
+
+      <!-- Try-it-now CTA — Lens is the universal tool but it lives a click
+           away. Surface it at the top of this dossier so a writer who lands
+           here can paste a scene in 10 seconds. -->
+      <div class="mt-8 panel p-5 md:p-6 border border-gold-400/25 bg-gradient-to-r from-gold-400/[0.04] via-transparent to-transparent">
+        <div class="flex flex-wrap items-center gap-4">
+          <div class="flex-1 min-w-[260px]">
+            <p class="text-[10px] uppercase tracking-[0.25em] text-gold-400">Try it now</p>
+            <p class="mt-1 font-display text-lg text-white leading-tight">
+              Paste a scene. See what each cultural lens registers.
+            </p>
+            <p class="mt-1 text-xs text-white/55 leading-relaxed">
+              The fastest way to use this site as a writing tool — before you
+              read another component.
+            </p>
+          </div>
+          <a href={base + "/lens#paste-scene"}
+             class="inline-flex items-center gap-2 rounded-full bg-gold-400 text-ink-950 px-5 py-2.5 text-sm font-medium hover:bg-gold-300 transition">
+            Open The Lens →
+          </a>
+        </div>
       </div>
 
       <!-- How to read this — heading off the "is this telling me what to do?"
@@ -123,6 +152,59 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
         which it has space to complicate.
       </div>
 
+      <!-- Theory of change — funders explicitly look for this. Names the
+           causal chain inputs → outputs → outcomes → impact, in our terms. -->
+      <div class="mt-10 panel p-6 md:p-8">
+        <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Theory of change</p>
+        <h3 class="mt-2 font-display text-xl text-white max-w-3xl leading-snug">
+          How a measurement layer for screen content becomes leverage for behaviour change.
+        </h3>
+        <div class="mt-5 grid gap-4 md:grid-cols-4 text-sm">
+          <div class="rounded-lg bg-ink-950/40 ring-1 ring-white/5 p-4">
+            <p class="text-[10px] uppercase tracking-[0.18em] text-gold-400/70 mb-2">Inputs</p>
+            <p class="font-display text-base text-white leading-snug mb-2">Corpus + AI pipeline</p>
+            <p class="text-xs text-white/60 leading-relaxed">
+              ~12K dialogue moments today; ~250K target. NLP + LLM theme
+              clustering, gendered-target labelling, peer-reviewed at NAACL.
+            </p>
+          </div>
+          <div class="rounded-lg bg-ink-950/40 ring-1 ring-white/5 p-4">
+            <p class="text-[10px] uppercase tracking-[0.18em] text-gold-400/70 mb-2">Outputs</p>
+            <p class="font-display text-base text-white leading-snug mb-2">Diagnostics that funders + creators use</p>
+            <p class="text-xs text-white/60 leading-relaxed">
+              Slate audits, country profiles, pre-greenlight script review,
+              theme-level reads. The dashboards on this site are V1.
+            </p>
+          </div>
+          <div class="rounded-lg bg-ink-950/40 ring-1 ring-white/5 p-4">
+            <p class="text-[10px] uppercase tracking-[0.18em] text-gold-400/70 mb-2">Outcomes</p>
+            <p class="font-display text-base text-white leading-snug mb-2">Better-targeted SBCC + commissioning decisions</p>
+            <p class="text-xs text-white/60 leading-relaxed">
+              Funders + studios make norm-aware investments. Productions
+              calibrate culturally. Programmers curate with intent. Each
+              decision is now informed, not intuited.
+            </p>
+          </div>
+          <div class="rounded-lg bg-ink-950/40 ring-1 ring-white/5 p-4">
+            <p class="text-[10px] uppercase tracking-[0.18em] text-gold-400/70 mb-2">Impact</p>
+            <p class="font-display text-base text-white leading-snug mb-2">Norm shift on the screen audiences see</p>
+            <p class="text-xs text-white/60 leading-relaxed">
+              Established RCT evidence (Banerjee &amp; La Ferrara on telenovelas
+              shifting fertility / divorce norms; Impact(Ed) <em>My Better
+              World</em> shifting girls' school enrolment) shows screen
+              content moves measurable behaviour. MAPGEN is the
+              measurement-and-targeting infrastructure that work needs.
+            </p>
+          </div>
+        </div>
+        <p class="mt-5 text-xs text-white/45 italic max-w-3xl leading-relaxed">
+          Each step is independently evidenced — the corpus methodology is
+          peer-reviewed; SBCC's behaviour-change effects are RCT-backed.
+          MAPGEN connects the measurement step funders and producers
+          consistently flag as the missing piece between them.
+        </p>
+      </div>
+
       <!-- THE ASK — surfaced near the top so funders don't have to scroll past
            Diverging Mirror, Whitespace, Slate Diagnostic, and CountryPreview
            to find what we want from them. -->
@@ -150,6 +232,25 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
           <li><span class="text-white">·</span> <span class="text-white">Slate-level reads</span> — explore the norm profile of a production slate against the broader corpus</li>
           <li><span class="text-white">·</span> <span class="text-white">Longitudinal research</span> — a comparable evidence base across countries, languages, and decades</li>
         </ul>
+
+        <!-- V2 timeline — funders consistently ask "when does this actually deliver" -->
+        <div class="mt-5 grid gap-3 sm:grid-cols-3 max-w-2xl">
+          <div class="rounded-lg bg-ink-950/40 ring-1 ring-white/5 px-3 py-2.5">
+            <p class="text-[10px] uppercase tracking-[0.18em] text-emerald-300/80">Live now (V1)</p>
+            <p class="mt-1 text-sm text-white">Bollywood + Hollywood</p>
+            <p class="text-[11px] text-white/50">~5,400 films · this site</p>
+          </div>
+          <div class="rounded-lg bg-ink-950/40 ring-1 ring-white/5 px-3 py-2.5">
+            <p class="text-[10px] uppercase tracking-[0.18em] text-amber-300/80">Alpha · this year</p>
+            <p class="mt-1 text-sm text-white">+ 4 pilot industries</p>
+            <p class="text-[11px] text-white/50">Korea, France, Nigeria, S. India</p>
+          </div>
+          <div class="rounded-lg bg-ink-950/40 ring-1 ring-white/5 px-3 py-2.5">
+            <p class="text-[10px] uppercase tracking-[0.18em] text-white/55">V2 · 36-month build</p>
+            <p class="mt-1 text-sm text-white">160 countries</p>
+            <p class="text-[11px] text-white/50">~250,000 films, public dashboard</p>
+          </div>
+        </div>
         <div class="mt-5 flex flex-wrap gap-3">
           <a href="#feedback-anchor"
              class="inline-flex items-center gap-2 rounded-full bg-gold-400 text-ink-950 px-5 py-2.5 text-sm font-medium hover:bg-gold-300 transition">
@@ -166,6 +267,29 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 
       <div class="mt-12">
         <DivergingMirror client:load trend={mirror.era_trend} />
+      </div>
+
+      <!-- Audience-signal callout — for studio / streamer readers who need
+           to see this trend as a market signal, not a moral one. Anchored
+           on the established Annenberg Inclusion Initiative finding that
+           inclusive films perform commercially when distributed widely. -->
+      <div class="mt-6 panel p-5 md:p-6 border-l-2 border-holly bg-holly/[0.04]">
+        <p class="text-xs uppercase tracking-[0.2em] text-holly mb-2">Why this is a market signal, not just a moral one</p>
+        <p class="text-sm md:text-base text-white/80 leading-relaxed max-w-3xl">
+          The Annenberg Inclusion Initiative's annual box-office analyses
+          (USC) show that films passing the Bechdel–Wallace threshold and
+          films with women in lead roles
+          <span class="text-white">consistently match or out-perform comparable
+          non-inclusive titles at the box office</span>, when distributed at
+          comparable scale. The audience movement above isn't a preference
+          shift you need to chase — it's a preference shift that already
+          rewards the slates that move with it.
+        </p>
+        <p class="mt-3 text-xs text-white/45 italic">
+          See Annenberg's annual <em>Inclusion in the Director's Chair</em>
+          and <em>Inequality in Popular Films</em> reports for the
+          underlying ROI analysis.
+        </p>
       </div>
 
       <div class="mt-10">
@@ -220,6 +344,105 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 
       <div class="mt-10">
         <DiscussionKit />
+      </div>
+
+      <!-- Policy Levers — for actual policymakers (parliamentary staff,
+           ministry officials, multilateral programme officers, broadcasting
+           authorities). Maps the corpus's findings to four classes of policy
+           tool that countries already use to shape screen content. -->
+      <div class="mt-10 panel p-6 md:p-10">
+        <p class="text-xs uppercase tracking-[0.25em] text-gold-400">Policy levers</p>
+        <h3 class="mt-1 font-display text-2xl text-white max-w-3xl">
+          Four classes of policy tool that already shape screen content — and where this evidence base plugs in.
+        </h3>
+        <p class="mt-3 max-w-2xl text-sm text-white/60">
+          The corpus is descriptive; the levers below are not. Each names a
+          policy mechanism countries already use to influence the gendered
+          content of their cinema, with examples and where MAPGEN-style
+          evidence informs the design or evaluation step.
+        </p>
+
+        <div class="mt-6 grid gap-4 md:grid-cols-2">
+          <!-- Lever 1: Public investment / co-production funds -->
+          <div class="rounded-xl bg-ink-950/40 ring-1 ring-white/5 p-5">
+            <p class="text-[10px] uppercase tracking-[0.2em] text-holly/80 mb-2">1 · Public investment</p>
+            <p class="font-display text-base text-white leading-snug">Conditioning film funding on inclusion criteria.</p>
+            <p class="mt-2 text-xs text-white/65 leading-relaxed">
+              <span class="text-white">Examples in practice:</span> BFI Diversity
+              Standards qualify projects for UK public film funding; Eurimages
+              awards a gender-equality bonus when women fill 5 of 8 key
+              creative roles; Telefilm Canada parity targets.
+            </p>
+            <p class="mt-2 text-xs text-white/45 leading-relaxed">
+              <span class="text-white/65">Where MAPGEN plugs in:</span>
+              measuring whether funded projects deliver on the <em>on-screen</em>
+              gender-norm criteria the funding instrument promised — not just
+              the credits-line representation that's easier to count.
+            </p>
+          </div>
+
+          <!-- Lever 2: Tax credits / fiscal incentives -->
+          <div class="rounded-xl bg-ink-950/40 ring-1 ring-white/5 p-5">
+            <p class="text-[10px] uppercase tracking-[0.2em] text-holly/80 mb-2">2 · Fiscal incentives</p>
+            <p class="font-display text-base text-white leading-snug">Tax credits and rebates tied to inclusion thresholds.</p>
+            <p class="mt-2 text-xs text-white/65 leading-relaxed">
+              <span class="text-white">Examples in practice:</span> Ireland's
+              Section 481 (uplift for regional and gender-balanced productions);
+              the UK's Audio-Visual Expenditure Credit; California's CFC tax
+              credit's diversity uplift.
+            </p>
+            <p class="mt-2 text-xs text-white/45 leading-relaxed">
+              <span class="text-white/65">Where MAPGEN plugs in:</span>
+              providing a content-level audit standard that revenue
+              authorities can use to verify diversity uplift claims at scale.
+            </p>
+          </div>
+
+          <!-- Lever 3: Broadcasting / platform regulation -->
+          <div class="rounded-xl bg-ink-950/40 ring-1 ring-white/5 p-5">
+            <p class="text-[10px] uppercase tracking-[0.2em] text-holly/80 mb-2">3 · Broadcasting &amp; platform regulation</p>
+            <p class="font-display text-base text-white leading-snug">Public-service obligations and content quotas on broadcasters and streamers.</p>
+            <p class="mt-2 text-xs text-white/65 leading-relaxed">
+              <span class="text-white">Examples in practice:</span> EU Audiovisual
+              Media Services Directive (30% European-works quota on streamers);
+              India's Cinematograph Act content classification; UK Ofcom's
+              public-service-broadcasting reviews.
+            </p>
+            <p class="mt-2 text-xs text-white/45 leading-relaxed">
+              <span class="text-white/65">Where MAPGEN plugs in:</span>
+              independent measurement infrastructure for regulators
+              evaluating platform compliance with on-screen norm-related
+              public-interest obligations.
+            </p>
+          </div>
+
+          <!-- Lever 4: SBCC / edutainment public investment -->
+          <div class="rounded-xl bg-ink-950/40 ring-1 ring-white/5 p-5">
+            <p class="text-[10px] uppercase tracking-[0.2em] text-holly/80 mb-2">4 · SBCC &amp; edutainment investment</p>
+            <p class="font-display text-base text-white leading-snug">Public investment in entertainment-education programming.</p>
+            <p class="mt-2 text-xs text-white/65 leading-relaxed">
+              <span class="text-white">Examples in practice:</span> Nigeria's
+              MBW radio drama; Population Media Center's serial drama
+              programming in 50+ countries; Sesame Workshop's localized
+              early-childhood content; World Bank DIME's edutainment RCTs.
+            </p>
+            <p class="mt-2 text-xs text-white/45 leading-relaxed">
+              <span class="text-white/65">Where MAPGEN plugs in:</span>
+              formative input for script-stage cultural calibration and
+              endline measurement of whether the produced content delivers
+              on the norm targets the campaign was funded against.
+            </p>
+          </div>
+        </div>
+
+        <p class="mt-6 text-xs text-white/45 italic max-w-3xl leading-relaxed">
+          Aligned with <span class="text-white/60">UN 2.0 Quintet of Change</span>
+          (data, innovation, digital, foresight, behavioural science) and
+          <span class="text-white/60">SDG 5</span> (gender equality) targets
+          5.1, 5.5, and 5.c. The corpus is open-licensed (CC-BY-SA) so
+          national policy researchers can audit, replicate, or extend the
+          methodology in their own jurisdictions.
+        </p>
       </div>
 
       <!-- Programmer's Curation Checklist — parallel to Writers' Room -->
