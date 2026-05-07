@@ -104,38 +104,39 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
            to find what we want from them. -->
       <div class="mt-10 panel p-6 md:p-8 border border-gold-400/30 bg-gradient-to-b from-gold-400/[0.04] to-transparent">
         <div class="flex flex-wrap items-baseline gap-2">
-          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">The ask</p>
+          <p class="text-xs uppercase tracking-[0.2em] text-gold-400">What V2 unlocks</p>
           <span class="rounded-full bg-emerald-400/10 ring-1 ring-emerald-400/40 text-emerald-300 text-[10px] uppercase tracking-[0.18em] px-2 py-0.5">
-            Anchor funder: Gates Foundation
+            Supported by Gates Foundation
           </span>
         </div>
         <p class="mt-3 font-display text-2xl md:text-3xl text-white leading-tight max-w-3xl">
-          Help us extend this from two industries to 160 countries.
+          From two industries to 160 countries.
         </p>
         <p class="mt-3 text-base text-white/75 leading-relaxed max-w-2xl">
-          Today's site reads ~5,400 Bollywood and Hollywood films. With the
-          <span class="text-white"> Bill &amp; Melinda Gates Foundation</span> as
-          anchor funder, V2 will extend the same method to ~250,000 films
-          across 160 countries — so producers, programmers, and policymakers
-          everywhere can see the same kind of mirror we're showing here.
-          We're looking for co-funders, regional sponsors, and pilot partners.
+          Today's site reads ~5,400 Bollywood and Hollywood films. With support
+          from the <span class="text-white">Gates Foundation</span>, V2 extends
+          the same method to ~250,000 films across 160 countries — so
+          producers, programmers, and policymakers everywhere can see the same
+          kind of mirror we're showing here.
         </p>
-        <ul class="mt-4 space-y-2 text-sm text-white/75 leading-relaxed">
-          <li><span class="text-white">·</span> <span class="text-white">Co-fund</span> the expansion — country pilots, language coverage, the public dashboard</li>
-          <li><span class="text-white">·</span> <span class="text-white">Sponsor</span> a country or regional cut for your territory</li>
-          <li><span class="text-white">·</span> <span class="text-white">Pilot</span> the slate diagnostic on a real production slate, under NDA</li>
+        <p class="mt-4 text-sm uppercase tracking-[0.18em] text-white/50">What this opens up</p>
+        <ul class="mt-2 space-y-2 text-sm text-white/75 leading-relaxed">
+          <li><span class="text-white">·</span> <span class="text-white">Country-level diagnostics</span> — see how a national cinema's gendered patterns shift over time</li>
+          <li><span class="text-white">·</span> <span class="text-white">Cross-cultural comparison</span> — measure where industries converge and diverge on shame and pride</li>
+          <li><span class="text-white">·</span> <span class="text-white">Slate-level reads</span> — explore the norm profile of a production slate against the broader corpus</li>
+          <li><span class="text-white">·</span> <span class="text-white">Longitudinal research</span> — a comparable evidence base across countries, languages, and decades</li>
         </ul>
         <div class="mt-5 flex flex-wrap gap-3">
+          <a href="#feedback-anchor"
+             class="inline-flex items-center gap-2 rounded-full bg-gold-400 text-ink-950 px-5 py-2.5 text-sm font-medium hover:bg-gold-300 transition">
+            Tell us what would be useful →
+          </a>
           <button type="button"
                   data-mu="c2hhcmF0aGc=" data-md="Y2lzLnVwZW5uLmVkdQ=="
-                  data-ms="MAPGEN V2 partnership"
-                  class="inline-flex items-center gap-2 rounded-full bg-gold-400 text-ink-950 px-5 py-2.5 text-sm font-medium hover:bg-gold-300 transition">
-            Email the project lead about V2 →
+                  data-ms="MAPGEN V2"
+                  class="inline-flex items-center gap-2 rounded-full bg-white/5 ring-1 ring-white/10 text-white/80 px-5 py-2.5 text-sm hover:bg-white/10 hover:text-white transition">
+            Email the project lead
           </button>
-          <a href="#feedback-anchor"
-             class="inline-flex items-center gap-2 rounded-full bg-white/5 ring-1 ring-white/10 text-white/80 px-5 py-2.5 text-sm hover:bg-white/10 hover:text-white transition">
-            Share input via the form
-          </a>
         </div>
       </div>
 
@@ -205,14 +206,14 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
     <!-- Closing — back to feedback                                    -->
     <!-- =========================================================== -->
     <div id="feedback-anchor" class="mt-32 panel p-8 md:p-12 text-center border border-gold-400/20 bg-gradient-to-b from-gold-400/[0.04] to-transparent">
-      <p class="text-xs uppercase tracking-[0.25em] text-gold-400">One ask</p>
+      <p class="text-xs uppercase tracking-[0.25em] text-gold-400">Help shape what's next</p>
       <h3 class="mt-3 font-display text-3xl text-white max-w-2xl mx-auto leading-tight">
-        Tell us what cuts of this data would change your work.
+        What cuts of this data would be most useful in your work?
       </h3>
       <p class="mt-4 max-w-2xl mx-auto text-sm text-white/65 leading-relaxed">
-        We're shaping V2. The most useful thing we can hear right now is which
-        comparisons, which dashboards, which exports would actually move a decision
-        in your industry.
+        We're shaping V2. The most useful input we can get right now is which
+        comparisons, which views, and which exports would actually inform a
+        decision in your field.
       </p>
       <a href={base + "/#feedback"}
          class="mt-6 inline-flex items-center gap-2 rounded-full bg-gold-400 text-ink-950 px-5 py-2.5 text-sm font-medium hover:bg-gold-300 transition">
