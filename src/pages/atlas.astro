@@ -1,6 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import ThemeTugOfWar from "../components/Atlas/ThemeTugOfWar.tsx";
+import ThemeExplorer from "../components/Atlas/ThemeExplorer.tsx";
 import FilmSearch from "../components/Atlas/FilmSearch.tsx";
 
 const data = (await import("../../public/data/station2_atlas.json", { assert: { type: "json" } })).default;
@@ -52,6 +53,11 @@ const prideThemeCount = data.themes.filter((t: any) => t.emotion === "pride").le
       </div>
     </div>
 
+    <!-- THEME EXPLORER — start with a topic, see what the corpus contains -->
+    <div class="mt-16">
+      <ThemeExplorer client:load themes={data.themes} />
+    </div>
+
     <!-- SHAME tug-of-war -->
     <div class="mt-20">
       <h2 class="font-display text-3xl text-white">What evokes shame?</h2>
@@ -59,6 +65,12 @@ const prideThemeCount = data.themes.filter((t: any) => t.emotion === "pride").le
         Each bar's length is the cultural Δ — how much more or less prominent
         that theme is in one industry vs. the other. Click any theme to read
         examples from the films.
+      </p>
+      <p class="mt-3 text-xs text-white/45 italic max-w-2xl">
+        Bar length shows <em>frequency</em>, not endorsement. A theme being
+        prominent in an industry says these are the kinds of moments films
+        repeatedly stage — not that the films themselves approve of the
+        treatment. The dialogues below let you read each pattern in context.
       </p>
       <div class="mt-8">
         <ThemeTugOfWar client:load themes={data.themes} emotion="shame" />

@@ -10,6 +10,23 @@
       "share_bolly": 0.14611260053619302,
       "share_holly": 0.2491329479768786,
       "delta_bolly_minus_holly": -0.10302034744068558,
+      "gender_breakdown": {
+        "male": 444,
+        "female": 144,
+        "unclear": 170
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 206,
+          "unclear": 55,
+          "female": 66
+        },
+        "holly": {
+          "male": 238,
+          "female": 78,
+          "unclear": 115
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WP933_holly",
@@ -71,6 +88,47 @@
             "poster_path": "/nNj2PPUeN0nHXSveCDwBPZX29xX.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "WP579_holly",
+          "dialogue": "Diana Guzman!  Yeah!  Satisfied?.  I n al I my I ife, I never been so proud.  Never.  Let's go.  You got a deadly hook.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "Diana Guzman's deadly hook",
+          "film": {
+            "title": "Girlfight",
+            "year": "2000",
+            "poster_path": "/ydHUoYtpZdkwxdroK1rWyEpJrLZ.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP1886_holly",
+          "dialogue": "Zsuzsi.  You look so beautiful.  I'm so proud of you, honey.  They're nice. So many of them.  Hi, Suzanne. Oh, Sheila?",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "Zsuzsi's beauty",
+          "film": {
+            "title": "An American Rhapsody",
+            "year": "2001",
+            "poster_path": "/lXkWyYiMKx3o187CYH7fcrzEjAJ.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP21_holly",
+          "dialogue": "- He is very famous in china.  I think it's great.  You should be proud, jess.  - Thank you.  - You'll be close to.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "being famous in China",
+          "film": {
+            "title": "Die Fighting",
+            "year": "2014",
+            "poster_path": "/bxFHL38PILeBgTiEzNeUGKR92s1.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -83,6 +141,23 @@
       "share_bolly": 0.08353669983104937,
       "share_holly": 0.12919896640826872,
       "delta_bolly_minus_holly": -0.04566226657721935,
+      "gender_breakdown": {
+        "male": 343,
+        "female": 90,
+        "unclear": 162
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 254,
+          "unclear": 127,
+          "female": 64
+        },
+        "holly": {
+          "male": 89,
+          "female": 26,
+          "unclear": 35
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WS429_holly",
@@ -144,6 +219,47 @@
             "poster_path": "/m21pcuuNY58P7wkxQd3LzZSdXKU.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "WS429_holly",
+          "dialogue": "It's half past th, Katharina.  Yes, Mama, I have a watch, too.  I'm so ashamed.  Ashamed!  We wanted to keep calm.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "not adhering to time",
+          "film": {
+            "title": "Bitter Sweet",
+            "year": "2016",
+            "poster_path": "/rfnmbK3bNWSOwC4QXpoK7zeTbt2.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s3325_bolly",
+          "dialogue": "Will dancing get you good grades? Your father has worked hard to put you into college. Not so you can shame us! Concentrate on your studies. Shameless girl!",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "not focusing on studies and dancing instead",
+          "film": {
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s3480_bolly",
+          "dialogue": "What is this? Constable! Don't you feel ashamed offering a 3 time world champion a job of such low designation? There is no need to be upset madam",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "offering a low designation job",
+          "film": {
+            "title": "Mary",
+            "year": "2024",
+            "poster_path": "/wpApuf1xky92ug8n5mP5aP7DiDy.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -156,6 +272,23 @@
       "share_bolly": 0.08935611038107753,
       "share_holly": 0.03789836347975883,
       "delta_bolly_minus_holly": 0.051457746901318706,
+      "gender_breakdown": {
+        "male": 303,
+        "female": 116,
+        "unclear": 101
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 278,
+          "unclear": 93,
+          "female": 105
+        },
+        "holly": {
+          "male": 25,
+          "unclear": 8,
+          "female": 11
+        }
+      },
       "examples": [
         {
           "dialogue_id": "s1387_bolly",
@@ -217,6 +350,47 @@
             "poster_path": "/6S9kBdCl1EFvkl22fuc4rP58UR5.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s3335_bolly",
+          "dialogue": "Give it to me. - Come outside! Behave yourself...What's all this‘! You should be ashamed of yourself, auntie! So much for her piety! Auntie, you've sullied the family name.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "inappropriate behavior",
+          "film": {
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s3337_bolly",
+          "dialogue": "A 55-year old widow! Making dirty phone calls to a young boy. Disgusting! - The old woman has no shame. We look up to her as a mother. And see what she's been doing.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "inappropriate behavior with a young boy",
+          "film": {
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s1896_bolly",
+          "dialogue": "Okay...love to everyone else. And to the elders...goodbye! - Look, sister. Shameless, you're in trouble now. Keep some bitter gourds for me. Go to hell.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "behaving inappropriately",
+          "film": {
+            "title": "Sarbjit",
+            "year": "2016",
+            "poster_path": "/pJTWc13iJeLD0zWpjRBZMBGZwky.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -229,6 +403,23 @@
       "share_bolly": 0.06063450347287404,
       "share_holly": 0.08440999138673558,
       "delta_bolly_minus_holly": -0.02377548791386154,
+      "gender_breakdown": {
+        "male": 266,
+        "female": 55,
+        "unclear": 100
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 211,
+          "unclear": 75,
+          "female": 37
+        },
+        "holly": {
+          "male": 55,
+          "unclear": 25,
+          "female": 18
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WS148_holly",
@@ -290,6 +481,47 @@
             "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s1895_bolly",
+          "dialogue": "Wait! You're in big trouble. Shame on you. The apple of your eye......is sitting outside without anything to eat. Sukh's an outsider......but Dalbir you are my sister.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "neglecting family responsibilities",
+          "film": {
+            "title": "Sarbjit",
+            "year": "2016",
+            "poster_path": "/pJTWc13iJeLD0zWpjRBZMBGZwky.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WS206_holly",
+          "dialogue": "He is going to London.  She thought you were Miss Jess.  - She's ashamed. - We're twins.  - I am... sorry. - It's okay.  Um, but why were you scared?",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "mistaken identity",
+          "film": {
+            "title": "The Forest",
+            "year": "2016",
+            "poster_path": "/1TohqCqMbaiuRLJPrPW0vnQP3lE.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WS272_holly",
+          "dialogue": "- Good luck, Mrs. Hanson. - You too.  Who doesn't want a shortcut to greatness?  Oh, it's a goddamn shame about the Muenster.  Mr. President.  Yeah, Shelly?",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "seeking shortcuts to success",
+          "film": {
+            "title": "The Contender",
+            "year": "2000",
+            "poster_path": "/duRe0F2GYHIDvqe2bqIAMP4gWeP.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -302,6 +534,23 @@
       "share_bolly": 0.05594143044865778,
       "share_holly": 0.09474590869939707,
       "delta_bolly_minus_holly": -0.038804478250739294,
+      "gender_breakdown": {
+        "male": 261,
+        "female": 65,
+        "unclear": 82
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 191,
+          "unclear": 59,
+          "female": 48
+        },
+        "holly": {
+          "male": 70,
+          "unclear": 23,
+          "female": 17
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WS40_holly",
@@ -363,6 +612,47 @@
             "poster_path": "/3D5FG0oceTEpgLrz1v8aFWja3wn.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "WS1213_holly",
+          "dialogue": "♪ But I am old ♪ ♪ I am ugly ♪  - ♪ I embarrass you ♪ - No!  ♪ You are ashamed of me ♪  No!  ♪ You are ashamed ♪",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "being old and unattractive",
+          "film": {
+            "title": "Into the Woods",
+            "year": "2014",
+            "poster_path": "/6bZC6KGfCwTMmwXmrLJQhxuRjlT.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s3476_bolly",
+          "dialogue": "She talked rubbish! She was the only woman in our neighbourhood who raised her voice. I was ashamed of her. You women are an ungrateful breed. You love talking too.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "raising her voice and talking too much",
+          "film": {
+            "title": "Mardaani 2",
+            "year": "2019",
+            "poster_path": "/1oChaDVWUy5tfpKRYTPzrJxp3YC.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WS260_holly",
+          "dialogue": "And self-waxing is not weird.  I don't appreciate your body-hair-removal shaming.  Shame on you! And you!  You've been fine.  Did you hear that? What is that?",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "body hair removal",
+          "film": {
+            "title": "Rough Night",
+            "year": "2017",
+            "poster_path": "/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -375,6 +665,23 @@
       "share_bolly": 0.06589074525999625,
       "share_holly": 0.034453057708871665,
       "delta_bolly_minus_holly": 0.03143768755112458,
+      "gender_breakdown": {
+        "male": 206,
+        "female": 146,
+        "unclear": 39
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "female": 126,
+          "male": 191,
+          "unclear": 34
+        },
+        "holly": {
+          "male": 15,
+          "unclear": 5,
+          "female": 20
+        }
+      },
       "examples": [
         {
           "dialogue_id": "s3678_bolly",
@@ -436,6 +743,47 @@
             "poster_path": "/hQEkK4WnTtQXIp5QOnVTsK3xYRM.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s2382_bolly",
+          "dialogue": "I'll speak with Laila. –He'll make your life better. –Money. Fame. –Respect. He bestows with respect and shame. He bestows with respect and shame. Let's see what you deserve.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "being coerced into a relationship for material benefits",
+          "film": {
+            "title": "Heropanti 2",
+            "year": "2022",
+            "poster_path": "/2TxkhMrM98iUb74Dqbkdco3ED0X.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s2905_bolly",
+          "dialogue": "-Please hear him out. -Shut up! How dare you bring him home? Shameless girl! Don't you care about our reputation? Listen to me carefully.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "bringing a boy home without permission",
+          "film": {
+            "title": "Kabir Singh",
+            "year": "2019",
+            "poster_path": "/unqiPjtc6CGqs13zho7ZvWU85zu.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s5306_bolly",
+          "dialogue": "I've heard a lot about you. I hope you won't disappoint me. I'm going to forsake all shame. And make you my queen. Tonight we're going to have some fun, baby..under the dim light.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "objectification and sexual harassment",
+          "film": {
+            "title": "Gabbar Is Back",
+            "year": "2015",
+            "poster_path": "/dhIVF43jCqVzxuo11hYcHQxjzS6.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -448,6 +796,23 @@
       "share_bolly": 0.05481509292284588,
       "share_holly": 0.0714900947459087,
       "delta_bolly_minus_holly": -0.01667500182306282,
+      "gender_breakdown": {
+        "male": 204,
+        "female": 102,
+        "unclear": 69
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 169,
+          "unclear": 42,
+          "female": 81
+        },
+        "holly": {
+          "unclear": 27,
+          "male": 35,
+          "female": 21
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WS1109_holly",
@@ -509,6 +874,47 @@
             "poster_path": "/cpuW4xGdUVZep3Otwo97xnEzdWi.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s1280_bolly",
+          "dialogue": "My husband drives me to the bus stop, So I can teach the children in the next village. What is shameful about that? Do not flaunt your education here! We also educate our kids!",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "being educated and working",
+          "film": {
+            "title": "Parched",
+            "year": "2015",
+            "poster_path": "/cpuW4xGdUVZep3Otwo97xnEzdWi.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s2669_bolly",
+          "dialogue": "But now you're putting my decency to test by roaming around with a goon in the middle of the night. Shameless! You will marry whoever I tell you to. How is your son-in-law?",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "associating with a man deemed inappropriate",
+          "film": {
+            "title": "Jabariya Jodi",
+            "year": "2019",
+            "poster_path": "/qibn9VfTUiDExrkxb2X3MZRABe0.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s5127_bolly",
+          "dialogue": "Sorry It's all right I'll find you someone you are not ashamed of Who doesn't brag about her education Where's a girl like that?",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "being educated",
+          "film": {
+            "title": "Dum Laga Ke Haisha",
+            "year": "2015",
+            "poster_path": "/c9TX2kH1rG7QYEl09flOVg82QdU.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -521,6 +927,23 @@
       "share_bolly": 0.06210902591599642,
       "share_holly": 0.12254335260115606,
       "delta_bolly_minus_holly": -0.06043432668515964,
+      "gender_breakdown": {
+        "male": 244,
+        "female": 50,
+        "unclear": 57
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "female": 20,
+          "male": 102,
+          "unclear": 17
+        },
+        "holly": {
+          "male": 142,
+          "female": 30,
+          "unclear": 40
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WP403_holly",
@@ -582,6 +1005,47 @@
             "poster_path": "/unqiPjtc6CGqs13zho7ZvWU85zu.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "WP403_holly",
+          "dialogue": "I'mma go punch a b***h in the throat.  Lindsey! You bilingual b***h!  So proud of you.  Hannah!  Dad!",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "being bilingual",
+          "film": {
+            "title": "Fifty Shades of Black",
+            "year": "2016",
+            "poster_path": "/nkGhv7WMbyX7tL8CJkvMY3S2lW.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP75_holly",
+          "dialogue": "Madam President.  Oh, jeez, Mom.  I'm so proud of you, honey.  And I made a special meal.  Well, I got a special meal.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "becoming the president",
+          "film": {
+            "title": "Social Nightmare",
+            "year": "2013",
+            "poster_path": "/yn7vsny6qtXvbnPmW98ghluyLro.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p1506_bolly",
+          "dialogue": "Kabir, just shut up. I am proud of one thing in my life. My career is the only thing that I am proud of. Oh, God! Kabir, we'll talk about this later.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "career",
+          "film": {
+            "title": "Kabir Singh",
+            "year": "2019",
+            "poster_path": "/unqiPjtc6CGqs13zho7ZvWU85zu.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -594,6 +1058,23 @@
       "share_bolly": 0.06044678055190539,
       "share_holly": 0.024117140396210164,
       "delta_bolly_minus_holly": 0.036329640155695224,
+      "gender_breakdown": {
+        "male": 183,
+        "female": 149,
+        "unclear": 18
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 174,
+          "female": 131,
+          "unclear": 17
+        },
+        "holly": {
+          "female": 18,
+          "male": 9,
+          "unclear": 1
+        }
+      },
       "examples": [
         {
           "dialogue_id": "s3323_bolly",
@@ -655,6 +1136,47 @@
             "poster_path": "/kbNpCIMYrjB9z5LNBrHasY081gv.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s3323_bolly",
+          "dialogue": "Go on! Get me married against my will. Go on! Shameless wretch! Even if gifted a diamond you'll still choose the piece of coal.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "forced marriage",
+          "film": {
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s3463_bolly",
+          "dialogue": "I was about to......call you! Okay. I'm slightly ashamed but I'll be honest. Rumi has agreed to another proposal. So... we have to turn down your client!",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "rejected marriage proposal",
+          "film": {
+            "title": "Manmarziyaan",
+            "year": "2018",
+            "poster_path": "/spTuL3PJFYQsxBdAHbUJlHtwwyi.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s4540_bolly",
+          "dialogue": "I mean she is getting a divorce. It's no small matter. The girl has no shame at all. She drinks straight up. Really? I've heard she's into drugs as well.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "divorce and substance abuse",
+          "film": {
+            "title": "Veere Di Wedding",
+            "year": "2018",
+            "poster_path": "/yeXnYRRQE2MT7s04uUfKS696cqi.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -667,6 +1189,23 @@
       "share_bolly": 0.04317627182278956,
       "share_holly": 0.09560723514211886,
       "delta_bolly_minus_holly": -0.052430963319329296,
+      "gender_breakdown": {
+        "male": 159,
+        "female": 86,
+        "unclear": 96
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 106,
+          "female": 65,
+          "unclear": 59
+        },
+        "holly": {
+          "unclear": 37,
+          "female": 21,
+          "male": 53
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WS1165_holly",
@@ -728,6 +1267,47 @@
             "poster_path": "/5d7A6HJS7d8R2LDb4JG4pS5c5hr.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s3486_bolly",
+          "dialogue": "O Baby They are high on fun. And starting to be shameless. Plug my pin in your socket. Charge my heart day and night.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "behaving shamelessly",
+          "film": {
+            "title": "Mastizaade",
+            "year": "2016",
+            "poster_path": "/5d7A6HJS7d8R2LDb4JG4pS5c5hr.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WS194_holly",
+          "dialogue": "Okay.  (Tamika sighs) You two are too much.  Don't worry, we ain't got no shame.  And we get results.  (Dramatic music)",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "not showing shame",
+          "film": {
+            "title": "Beneath the Blue",
+            "year": "2010",
+            "poster_path": "/8N6jG6mpuIMm5PGLEW8fyBZra2b.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s2219_bolly",
+          "dialogue": "They're talking about your mother. Come. Mom..Earlier, she used to be shameless and look at her blush now. Dad.. hello. Forget the hello and quickly touch my feet, you fool.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "being shameless in the past",
+          "film": {
+            "title": "Great Grand Masti",
+            "year": "2016",
+            "poster_path": "/vbbH4PoR6SPhVbospP1nFHzHpiz.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -740,6 +1320,23 @@
       "share_bolly": 0.09651474530831099,
       "share_holly": 0.06705202312138728,
       "delta_bolly_minus_holly": 0.02946272218692371,
+      "gender_breakdown": {
+        "male": 227,
+        "female": 57,
+        "unclear": 48
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "unclear": 24,
+          "male": 155,
+          "female": 37
+        },
+        "holly": {
+          "unclear": 24,
+          "male": 72,
+          "female": 20
+        }
+      },
       "examples": [
         {
           "dialogue_id": "p2516_bolly",
@@ -801,6 +1398,47 @@
             "poster_path": "/nERPMF2kHjc1slLHZYZGwcWX9kg.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "WP1700_holly",
+          "dialogue": "She knows it's deadly.  They've just entered Kali's new realm.  The River Pride lionesses  once again proclaim their ownership of the pride lands.  They have made peace with Kali.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "proclaiming ownership of the pride lands",
+          "film": {
+            "title": "African Cats",
+            "year": "2011",
+            "poster_path": "/nERPMF2kHjc1slLHZYZGwcWX9kg.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP2391_holly",
+          "dialogue": "They would have killed him, too.  And my daughter,  she's ashamed of me. And I am proud of her for it.  I'm sorry.  Why?",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "for being ashamed of speaker",
+          "film": {
+            "title": "Savages",
+            "year": "2012",
+            "poster_path": "/joyiyBwYY5QCpldqT1FzrTqsTJK.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP109_holly",
+          "dialogue": "So, we follow you Princess,  in life and in death.  And we shall have our pride again.  On Gus's soul, this I swear.  ♪ Dark the stars ♪ ♪ And dark the moon. ♪",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "regaining their pride",
+          "film": {
+            "title": "Snow White",
+            "year": "2025",
+            "poster_path": "/oLxWocqheC8XbXbxqJ3x422j9PW.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -813,6 +1451,23 @@
       "share_bolly": 0.050497465740566926,
       "share_holly": 0.05254091300602928,
       "delta_bolly_minus_holly": -0.0020434472654623573,
+      "gender_breakdown": {
+        "male": 209,
+        "female": 80,
+        "unclear": 41
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 171,
+          "female": 68,
+          "unclear": 30
+        },
+        "holly": {
+          "female": 12,
+          "unclear": 11,
+          "male": 38
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WS1536_holly",
@@ -874,6 +1529,47 @@
             "poster_path": "/2TxkhMrM98iUb74Dqbkdco3ED0X.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s1518_bolly",
+          "dialogue": "She doesn't listen to me anymore. She doesn't listen to anything. What do I do with this shameless girl? Where should I hide her away? She should just die.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "disobedience",
+          "film": {
+            "title": "Qissa Panjab",
+            "year": "2015",
+            "poster_path": "/5bp08RHdUyI9id5QdUZq2egNNT5.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s3482_bolly",
+          "dialogue": "Good morning Get out of here What? Should I drown myself with shame? Go away Madam just quit her job! What were you thinking?",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Quitting her job",
+          "film": {
+            "title": "Masaan",
+            "year": "2015",
+            "poster_path": "/wgcPR6Weth2yJDo5wBdNqW2TD6J.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s2400_bolly",
+          "dialogue": "There's paradise under a mother's feet. Give me my paradise. He bestows with respect and shame. -Give me my paradise. He bestows with respect and shame. Respect is your gift, shame means You're upset with us.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "not fulfilling expectations as a mother",
+          "film": {
+            "title": "Heropanti 2",
+            "year": "2022",
+            "poster_path": "/2TxkhMrM98iUb74Dqbkdco3ED0X.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -886,6 +1582,23 @@
       "share_bolly": 0.046367561479256615,
       "share_holly": 0.06201550387596899,
       "delta_bolly_minus_holly": -0.015647942396712376,
+      "gender_breakdown": {
+        "male": 140,
+        "female": 125,
+        "unclear": 54
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "unclear": 36,
+          "female": 103,
+          "male": 108
+        },
+        "holly": {
+          "male": 32,
+          "unclear": 18,
+          "female": 22
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WS1532_holly",
@@ -947,6 +1660,47 @@
             "poster_path": "/c9TX2kH1rG7QYEl09flOVg82QdU.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s5125_bolly",
+          "dialogue": "No need for your tears, mother Nothing happened. I am intact Have some shame Be modest in front of your father Explain to her",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "lack of modesty",
+          "film": {
+            "title": "Dum Laga Ke Haisha",
+            "year": "2015",
+            "poster_path": "/c9TX2kH1rG7QYEl09flOVg82QdU.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s4329_bolly",
+          "dialogue": "No, no Hold back? In Corsica? What to do? Shame is a woman's wealth I won't...What?...be a rascal Move. Don't hold back. I'll be good",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "not maintaining modesty",
+          "film": {
+            "title": "Tamasha",
+            "year": "2015",
+            "poster_path": "/8Ktf15qGVFYQ6CdBtBgCDM96UMC.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s18_bolly",
+          "dialogue": "I'll shower if You keep on dancing this way. I'll dance forgetting all shame. I'll dance forgetting all shame. With You in tonight's function. You're dancing with full power.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "dancing shamelessly",
+          "film": {
+            "title": "All Is Well",
+            "year": "2015",
+            "poster_path": "/hsruH6BJCDy5ELSB7u9oZKryf2M.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -959,6 +1713,23 @@
       "share_bolly": 0.058981233243967826,
       "share_holly": 0.10115606936416185,
       "delta_bolly_minus_holly": -0.04217483612019403,
+      "gender_breakdown": {
+        "male": 155,
+        "female": 53,
+        "unclear": 99
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 83,
+          "female": 18,
+          "unclear": 31
+        },
+        "holly": {
+          "unclear": 68,
+          "male": 72,
+          "female": 35
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WP263_holly",
@@ -1020,6 +1791,47 @@
             "poster_path": "/5kvr2gx6j3XjueQfkYsGPqvGSQ.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "p2263_bolly",
+          "dialogue": "And, even my sugar levels have normalized. Wow Vimla, you were amazing. I am really proud of you. You're looking fantastic. Brother, what do you think?",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Vimla's health improvement",
+          "film": {
+            "title": "Shubh Mangal Saavdhan",
+            "year": "2017",
+            "poster_path": "/2vqW0VNvaQYSarPQtqHTRkOKQq8.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP2795_holly",
+          "dialogue": "You've demonstrated as much true monster heart  as any student I've ever known.  Your mother would be proud.  - She would be so proud.  - Today we are rewriting the school charter.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "demonstrating true monster heart and rewriting the school charter",
+          "film": {
+            "title": "Monster High: The Movie",
+            "year": "2022",
+            "poster_path": "/768OBP28OA4mjavOUAIRlVo14Xu.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP2796_holly",
+          "dialogue": "as any student I've ever known.  Your mother would be proud.  - She would be so proud.  - Today we are rewriting the school charter.  We no longer revile humans,",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "rewriting the school charter",
+          "film": {
+            "title": "Monster High: The Movie",
+            "year": "2022",
+            "poster_path": "/768OBP28OA4mjavOUAIRlVo14Xu.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -1032,6 +1844,23 @@
       "share_bolly": 0.050872911582504225,
       "share_holly": 0.028423772609819122,
       "delta_bolly_minus_holly": 0.022449138972685103,
+      "gender_breakdown": {
+        "male": 165,
+        "female": 85,
+        "unclear": 54
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "female": 84,
+          "male": 136,
+          "unclear": 51
+        },
+        "holly": {
+          "male": 29,
+          "unclear": 3,
+          "female": 1
+        }
+      },
       "examples": [
         {
           "dialogue_id": "s2535_bolly",
@@ -1093,6 +1922,47 @@
             "poster_path": "/kGaqlU5AtM9qTCwR059qEAq8WO.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s2450_bolly",
+          "dialogue": "Shut up, woman. What's the point in making steel locks....when your fair neighbor had the key to your house. Have some shame. You shut up. Your fate black.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "infidelity",
+          "film": {
+            "title": "Housefull 2",
+            "year": "2012",
+            "poster_path": "/y6L3GpfXWqfO7COtUyiEeACH35G.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s2455_bolly",
+          "dialogue": "Shut up, woman. What's the point in making steel locks.....when your fair neighbor had the key to your house. Have some shame. You shut up. Your fate black.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "infidelity",
+          "film": {
+            "title": "Housefull 2",
+            "year": "2012",
+            "poster_path": "/y6L3GpfXWqfO7COtUyiEeACH35G.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s1677_bolly",
+          "dialogue": "Rina has found everything out How could you do this? Aren't you ashamed? I need to talk to Rina Shruti, I don't want to talk to anyone. Come on",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Betrayal or dishonesty",
+          "film": {
+            "title": "Rehnaa Hai Terre Dil Mein",
+            "year": "2001",
+            "poster_path": "/qTKDqkD5h5ADx9ZoBh6RWNz4DcV.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -1105,6 +1975,23 @@
       "share_bolly": 0.06613047363717604,
       "share_holly": 0.08497109826589595,
       "delta_bolly_minus_holly": -0.01884062462871991,
+      "gender_breakdown": {
+        "male": 176,
+        "female": 44,
+        "unclear": 75
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 95,
+          "female": 18,
+          "unclear": 35
+        },
+        "holly": {
+          "unclear": 40,
+          "female": 26,
+          "male": 81
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WP935_holly",
@@ -1166,6 +2053,47 @@
             "poster_path": "/ulQO4XJ1xlWdl4vX8Lr3SbWRfZw.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "WP935_holly",
+          "dialogue": "I am a broken,  desperate,  woman full of pride.  But I get it.  I have to let him go.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "letting go of someone",
+          "film": {
+            "title": "Breakthrough",
+            "year": "2019",
+            "poster_path": "/lUd2FNC8cMCcHyRMNZtVC48p3xH.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP2150_holly",
+          "dialogue": "Well, not exactly Ansel Adams, but I think it went pretty well.  Oh, my god.  I'm so proud of you. That's great.  It felt great to shoot again. It-it... Yeah. Yeah.  Yeah. Yeah.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "for shooting again",
+          "film": {
+            "title": "Camera Obscura",
+            "year": "2017",
+            "poster_path": "/85kxkK6dU2DudXWfaUhTLu3pvU1.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p1315_bolly",
+          "dialogue": "See you. The caravan of life, with countless desires. Filled with pride, always trying to exceed yourself.  Yeah, mom.  There is no problem.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "exceeding oneself",
+          "film": {
+            "title": "Inkaar",
+            "year": "2013",
+            "poster_path": "/qjrTqFoVJAcG4426KCssLzkogs.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -1178,6 +2106,23 @@
       "share_bolly": 0.0773011617515639,
       "share_holly": 0.07052023121387284,
       "delta_bolly_minus_holly": 0.006780930537691063,
+      "gender_breakdown": {
+        "male": 174,
+        "female": 43,
+        "unclear": 78
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 102,
+          "female": 32,
+          "unclear": 39
+        },
+        "holly": {
+          "unclear": 39,
+          "male": 72,
+          "female": 11
+        }
+      },
       "examples": [
         {
           "dialogue_id": "p1502_bolly",
@@ -1239,6 +2184,47 @@
             "poster_path": "/mgcGj39KYcyPx6zDiICHsPQNAJQ.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "WP2243_holly",
+          "dialogue": "I expect you to trust me.  What a trooper.  I'm so proud of you.  Thanks, Mom.  I think your father is in trouble.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "trust",
+          "film": {
+            "title": "The Incredibles",
+            "year": "2004",
+            "poster_path": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP482_holly",
+          "dialogue": "I can't believe he told you that.  I'm really sorry I missed your monologues today.  But I'm really proud of you guys for moving on.  Thanks, Margot.  Yeah, thanks.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "for moving on",
+          "film": {
+            "title": "Miss Stevens",
+            "year": "2016",
+            "poster_path": "/cgFkIPfFyV6NRn2hBmCdDWLfwGj.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p2964_bolly",
+          "dialogue": "Jumped ship, disappeared. What I mean is why tell such a big lie? Of course. Pride. Her bloody pride. That's why she hates me, you know. Because I am the only one who knows.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "hiding the truth",
+          "film": {
+            "title": "Finding Fanny",
+            "year": "2014",
+            "poster_path": "/9AeKSeHxI716kJF71Cy6uioOI73.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -1251,6 +2237,23 @@
       "share_bolly": 0.06836461126005362,
       "share_holly": 0.07456647398843931,
       "delta_bolly_minus_holly": -0.0062018627283856875,
+      "gender_breakdown": {
+        "male": 189,
+        "female": 53,
+        "unclear": 40
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 122,
+          "unclear": 12,
+          "female": 19
+        },
+        "holly": {
+          "unclear": 28,
+          "male": 67,
+          "female": 34
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WP214_holly",
@@ -1312,6 +2315,47 @@
             "poster_path": "/rryN6GhaoovO3sM8IEqGyKgCmXf.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "WP2661_holly",
+          "dialogue": "Thank you.  I had a black boyfriend once.  Your mother must be proud.  Yep.  And I'd do it again.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "daughter's interracial relationship",
+          "film": {
+            "title": "Trainwreck",
+            "year": "2015",
+            "poster_path": "/wrY629UTCUAKLJ4CxQXz6DCE7pr.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP681_holly",
+          "dialogue": "- The girl in the violet dress. - Mm.  It's very pretty.  She reminds me to be good, so Father will be proud when he returns.  Where is he?  He volunteered for the Union Army.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "being good while her father is away",
+          "film": {
+            "title": "Little Women",
+            "year": "2019",
+            "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP1920_holly",
+          "dialogue": "- The girl in the violet dress. - Mm. It's very pretty.  She reminds me to be good  so Father will be proud of me when he returns.  Where is he?  He volunteered for the Union Army.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "being good while her father is away",
+          "film": {
+            "title": "Little Women",
+            "year": "2019",
+            "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -1324,6 +2368,23 @@
       "share_bolly": 0.045804392716350666,
       "share_holly": 0.026701119724375538,
       "delta_bolly_minus_holly": 0.019103272991975128,
+      "gender_breakdown": {
+        "male": 106,
+        "female": 116,
+        "unclear": 53
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "female": 101,
+          "male": 92,
+          "unclear": 51
+        },
+        "holly": {
+          "female": 15,
+          "male": 14,
+          "unclear": 2
+        }
+      },
       "examples": [
         {
           "dialogue_id": "s3324_bolly",
@@ -1385,6 +2446,47 @@
             "poster_path": "/kGaqlU5AtM9qTCwR059qEAq8WO.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s3333_bolly",
+          "dialogue": "Just because you've earned a few cents‘! To talk to you, I have to meet your mistress! Shameless! You're the one who's shameless. Seeing another woman... no job, no salary.",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "being jobless and dependent on a woman",
+          "film": {
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s4328_bolly",
+          "dialogue": "There's the flag of rebellion soaring high The Emperor feared......the Prince would fall in love Bring shame to his name Helen belonged to Troy The undefeatable Raavan",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "falling in love with someone inappropriate",
+          "film": {
+            "title": "Tamasha",
+            "year": "2015",
+            "poster_path": "/8Ktf15qGVFYQ6CdBtBgCDM96UMC.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s4587_bolly",
+          "dialogue": "You could've kissed her lips, but you kissed her cheek instead. This happened in the 70's. Shame on you. Bhai... you should've done as she did. Lip-to-lip, bhai.",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "not being bold in romantic advances",
+          "film": {
+            "title": "Welcome Back",
+            "year": "2015",
+            "poster_path": "/xnRIT3ggVcJxGWylKw85n6pteLp.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -1397,6 +2499,23 @@
       "share_bolly": 0.06970509383378017,
       "share_holly": 0.05260115606936416,
       "delta_bolly_minus_holly": 0.017103937764416002,
+      "gender_breakdown": {
+        "male": 143,
+        "female": 36,
+        "unclear": 68
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 98,
+          "unclear": 31,
+          "female": 27
+        },
+        "holly": {
+          "unclear": 37,
+          "male": 45,
+          "female": 9
+        }
+      },
       "examples": [
         {
           "dialogue_id": "p1621_bolly",
@@ -1458,6 +2577,47 @@
             "poster_path": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "WP517_holly",
+          "dialogue": "I had some bad years.  I am so... ...proud of you.  ...proud of you.  You're doing so good.  You're an amazing woman.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "overcoming bad years",
+          "film": {
+            "title": "Wilson",
+            "year": "2017",
+            "poster_path": "/m63h5MxevYrKn3720hVgKZAx86S.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p2512_bolly",
+          "dialogue": "I'm not too short Today I smell all sweet I gained this pride for you Do not wait for the dreams of a storm Do not wait if you can fly if you want.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "personal achievement",
+          "film": {
+            "title": "Uri: The Surgical Strike",
+            "year": "2019",
+            "poster_path": "/yNySAgpAnWmPpYinim9E0tUzJWG.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p1799_bolly",
+          "dialogue": "Not that good news, sis.  I'm going to US on behalf of the company.  Wow! Brilliant! I'm so proud of you, Munna.  Thank you, sis. - For how many days?  For 3 years. With family.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "sibling's professional achievement",
+          "film": {
+            "title": "Mai",
+            "year": "2013",
+            "poster_path": "/k5jaQZKBaoiP3RiBV0ffEyUqgRQ.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -1470,6 +2630,23 @@
       "share_bolly": 0.03792003003566736,
       "share_holly": 0.03617571059431524,
       "delta_bolly_minus_holly": 0.0017443194413521157,
+      "gender_breakdown": {
+        "male": 147,
+        "female": 47,
+        "unclear": 50
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 122,
+          "female": 39,
+          "unclear": 41
+        },
+        "holly": {
+          "male": 25,
+          "female": 8,
+          "unclear": 9
+        }
+      },
       "examples": [
         {
           "dialogue_id": "s1938_bolly",
@@ -1531,6 +2708,47 @@
             "poster_path": "/mIjzNxaUWsacg4R8rDGl6pJn4C8.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s19_bolly",
+          "dialogue": "The bills for all the expenses. Just give me 300,000.. - Curse you, you wretch. Don't you have any shame? You want us to pay for your husband's final rites. Liar.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "asking for money for husband's final rites",
+          "film": {
+            "title": "All Is Well",
+            "year": "2015",
+            "poster_path": "/hsruH6BJCDy5ELSB7u9oZKryf2M.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s2810_bolly",
+          "dialogue": "God bless you. She'll never change. Eventually, she did ask for money. She's shameless. Don't say that. She's your mother. I have to send money anyway. Once I'm back--",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "asking for money",
+          "film": {
+            "title": "Jugni",
+            "year": "2016",
+            "poster_path": "/fQjHWynvrbmzeegmmOGWFo8iTOi.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s975_bolly",
+          "dialogue": "I paid Re.1. Shameless. Shameless girl. Shameless girl. Shameless. Shameless. Shameless girl. Shameless girl. Shameless. I paid Re.1. She saw me and opened the door trustingly.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "taking money for services",
+          "film": {
+            "title": "Deewana Main Deewana",
+            "year": "2013",
+            "poster_path": "/6G1iMFCIpm8xhnzTB1DviyYG29g.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -1543,6 +2761,23 @@
       "share_bolly": 0.04261310305988361,
       "share_holly": 0.014642549526270457,
       "delta_bolly_minus_holly": 0.027970553533613156,
+      "gender_breakdown": {
+        "male": 178,
+        "female": 29,
+        "unclear": 37
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 165,
+          "unclear": 34,
+          "female": 28
+        },
+        "holly": {
+          "male": 13,
+          "unclear": 3,
+          "female": 1
+        }
+      },
       "examples": [
         {
           "dialogue_id": "s1349_bolly",
@@ -1604,6 +2839,47 @@
             "poster_path": "/9MoZAH9RI6X9npBtklPhceC0ghA.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s3041_bolly",
+          "dialogue": "Madam. Madam. Madam.  I'm taking your road roller.  You should be ashamed.  Any Indian won't do such a cheap thing with his country.  Madam, who is an Indian here?",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Disrespecting national property",
+          "film": {
+            "title": "Khatta Meetha",
+            "year": "2010",
+            "poster_path": "/rIM83O7WUcZIlg9pd6SgXgB0w2v.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s2275_bolly",
+          "dialogue": "Come on. Why did you shut the window on Niharika? - Who is that? Babul's sisters were there. Have some shame. Where were his sisters? I didn't see a thing! The clouds  of love blow",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "not respecting family members",
+          "film": {
+            "title": "Haasil",
+            "year": "2003",
+            "poster_path": "/7y8PBC2OyhnlJl8O4IPYa1IKmf0.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s1440_bolly",
+          "dialogue": "Kavita, are not you ashamed? Yes. It's a shame, so I will not go with him. Is it as behaving with a guest? Yes.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Disrespecting a guest",
+          "film": {
+            "title": "Preet Na Jane Reet",
+            "year": "1966",
+            "poster_path": "/zvU9qbGUYDonwpKPeDizo4CeJBQ.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -1616,6 +2892,23 @@
       "share_bolly": 0.07908847184986595,
       "share_holly": 0.03468208092485549,
       "delta_bolly_minus_holly": 0.04440639092501046,
+      "gender_breakdown": {
+        "male": 136,
+        "female": 77,
+        "unclear": 24
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 98,
+          "unclear": 19,
+          "female": 60
+        },
+        "holly": {
+          "male": 38,
+          "female": 17,
+          "unclear": 5
+        }
+      },
       "examples": [
         {
           "dialogue_id": "p1396_bolly",
@@ -1677,6 +2970,47 @@
             "poster_path": "/ivRrDm5PlOndteVZgjhQenzKU5t.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "WP252_holly",
+          "dialogue": "You disgust me!  - What? - You disgust me, all of you!  - Come on, Margaret. - I am proud to be the wife  of Bert Trautmann!  Come on! Gentlemen!",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "being Bert Trautmann's wife",
+          "film": {
+            "title": "The Keeper",
+            "year": "2018",
+            "poster_path": "/nNPsc5USXEr90FoFaXXljaC1O3r.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p1236_bolly",
+          "dialogue": "I miss you a lot!  But it's ok.  I am just proud to be your widow.  I would sacrifice a million lives for you.  Some snacks for the road.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "being the spouse of the deceased",
+          "film": {
+            "title": "Heroes",
+            "year": "2008",
+            "poster_path": "/n3yb9bPeQxJt41thDm7kXjSDbWz.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p1088_bolly",
+          "dialogue": "You are the God of my love and i'm thirsty for your love.' I see the divine in your eyes.' You are my pride, you are my dignity. I dont know what may happen.' Oh darling!",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "love for someone",
+          "film": {
+            "title": "Garv: Pride and Honour",
+            "year": "2004",
+            "poster_path": "/9lqPTKndjMWfPmBRyH8rWw7bH5I.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -1689,6 +3023,23 @@
       "share_bolly": 0.035104186221137604,
       "share_holly": 0.031007751937984496,
       "delta_bolly_minus_holly": 0.004096434283153108,
+      "gender_breakdown": {
+        "male": 139,
+        "female": 20,
+        "unclear": 64
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 117,
+          "unclear": 57,
+          "female": 13
+        },
+        "holly": {
+          "female": 7,
+          "male": 22,
+          "unclear": 7
+        }
+      },
       "examples": [
         {
           "dialogue_id": "s1939_bolly",
@@ -1750,6 +3101,47 @@
             "poster_path": "/d78c7G8wDVGUTWH95tpuEGiK6IZ.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s1857_bolly",
+          "dialogue": "And the seed of fraud was slowly nurturing inside her. So that this very love of hers may not become. . . .the ingredient for her shame. . Rupa. Rupa. Rupa.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Fraudulent activities",
+          "film": {
+            "title": "Sanam Teri Kasam",
+            "year": "2016",
+            "poster_path": "/3jKqSy87GVUsXdhwhcO7O1UqrjO.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s2212_bolly",
+          "dialogue": "Brazen hussy, bringing shame ! Ruining our familyname ! Now you want to start your game......of doing business ! Shame ! Did you hear my Father's words ? Hmm ?",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "engaging in business activities",
+          "film": {
+            "title": "Goynar Baksho",
+            "year": "2013",
+            "poster_path": "/v0H3pgHolg2kGt0MUKBIeTMol4y.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WS940_holly",
+          "dialogue": "someone doing something dirty.  Yeah, I know what you mean.  Shame.  It's all right, little sis.  It's a good sign when you feel a little bad.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "doing something morally wrong",
+          "film": {
+            "title": "Deadfall",
+            "year": "2012",
+            "poster_path": "/5ZM6uKhuEzWZD3xklmqKPuvq1Nj.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -1762,6 +3154,23 @@
       "share_bolly": 0.03416557161629435,
       "share_holly": 0.017226528854435832,
       "delta_bolly_minus_holly": 0.016939042761858515,
+      "gender_breakdown": {
+        "male": 111,
+        "female": 29,
+        "unclear": 62
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 101,
+          "unclear": 57,
+          "female": 24
+        },
+        "holly": {
+          "male": 10,
+          "unclear": 5,
+          "female": 5
+        }
+      },
       "examples": [
         {
           "dialogue_id": "s2383_bolly",
@@ -1823,6 +3232,47 @@
             "poster_path": "/bxFHL38PILeBgTiEzNeUGKR92s1.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s2204_bolly",
+          "dialogue": "Ruby studded bangles - cancelled ! Just look at that ! Got him tiedto her apron strings already ! Shameless hussy ! Saw that ? Measly gold chain for me & Burmese rubies for her !",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "jealousy and greed",
+          "film": {
+            "title": "Goynar Baksho",
+            "year": "2013",
+            "poster_path": "/v0H3pgHolg2kGt0MUKBIeTMol4y.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WS1321_holly",
+          "dialogue": "I declare that on my death,  all that I possess, my kingdom,  my hall of sadness and shame,  and even my lovely young Queen,  my Wealthow,",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "being treated as a possession",
+          "film": {
+            "title": "Beowulf",
+            "year": "2007",
+            "poster_path": "/7QsWYyJAV97N9jOh21pdRIqJeJq.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s2292_bolly",
+          "dialogue": "That wasn't my imagination. That doctor...You paid a high price for your indiscretions, Vasudha. A shameless woman like her was bound to meet this fate. Right? Brazen woman, her body was found on a deserted road.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Indiscretions/Immoral behavior",
+          "film": {
+            "title": "Hamari Adhuri Kahani",
+            "year": "2015",
+            "poster_path": "/joiHOPFGtmY45YwP7Bnm7KvzL8H.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -1835,6 +3285,22 @@
       "share_bolly": 0.07104557640750671,
       "share_holly": 0.02138728323699422,
       "delta_bolly_minus_holly": 0.049658293170512485,
+      "gender_breakdown": {
+        "male": 160,
+        "female": 35,
+        "unclear": 1
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "female": 24,
+          "male": 134,
+          "unclear": 1
+        },
+        "holly": {
+          "female": 11,
+          "male": 26
+        }
+      },
       "examples": [
         {
           "dialogue_id": "p630_bolly",
@@ -1896,6 +3362,47 @@
             "poster_path": "/BJ1XNBBEiqaCM4SQhHYTrWqCfn.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "WP430_holly",
+          "dialogue": "Really good.  [cheering]  Come here, baby!  Momma is so proud of you.  Great game, son. Great game.  Who is this?  This is Johnnie.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "son's great game",
+          "film": {
+            "title": "Woodlawn",
+            "year": "2015",
+            "poster_path": "/BJ1XNBBEiqaCM4SQhHYTrWqCfn.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p604_bolly",
+          "dialogue": "No, son. Soldiers who sacrifice for county never die....but they become immortal. I'm proud to be his mother. A martyr's mother. Aunt..Never mind, son.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "son's sacrifice for the country",
+          "film": {
+            "title": "Dil Pardesi Ho Gayaa",
+            "year": "2003",
+            "poster_path": "/cZsSavbfxzn2aoi1iHk49cVxupO.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p2867_bolly",
+          "dialogue": "We don't want our daughter to marry this fool. Come, dear. - My son's one in a million. Aunty, don't be so proud of him. He's an a*s. He had to bribe to get a job. Come on.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "son's achievements",
+          "film": {
+            "title": "Dolly Ki Doli",
+            "year": "2015",
+            "poster_path": "/8xn2K7FAa8JI8sXITW5M92b6u1Y.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -1908,6 +3415,23 @@
       "share_bolly": 0.02684437769851699,
       "share_holly": 0.034453057708871665,
       "delta_bolly_minus_holly": -0.007608680010354675,
+      "gender_breakdown": {
+        "male": 70,
+        "female": 87,
+        "unclear": 26
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "female": 68,
+          "male": 52,
+          "unclear": 23
+        },
+        "holly": {
+          "female": 19,
+          "male": 18,
+          "unclear": 3
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WS839_holly",
@@ -1969,6 +3493,47 @@
             "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s3328_bolly",
+          "dialogue": "You bought it from a shop‘! Of course not! Got it from the clinic. I thought you've been shameless buying condoms instead of groceries! How could I do such a thing‘!",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "buying condoms",
+          "film": {
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WS839_holly",
+          "dialogue": "There's a code? What code?  Shut up, Mr. three-way.  No, have you no shame?  For Christ sakes.  He's not in here, dear.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "engaging in promiscuous behavior",
+          "film": {
+            "title": "10 Rules for Sleeping Around",
+            "year": "2013",
+            "poster_path": "/dX8IMDXbVWJ7fq0AX0efog1SMX5.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WS845_holly",
+          "dialogue": "- Quiet. - They don't belong here.  - Quiet down. - Get the faggots out of here.  Now, shame on you.  - How dare you? - Haggis.  No, Hal.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "homophobia",
+          "film": {
+            "title": "Zombieworld",
+            "year": "2015",
+            "poster_path": "/2lV2lU0u8dTczqsx4dgqrL2eN4J.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -1981,6 +3546,23 @@
       "share_bolly": 0.02909705275014079,
       "share_holly": 0.02239448751076658,
       "delta_bolly_minus_holly": 0.006702565239374212,
+      "gender_breakdown": {
+        "male": 97,
+        "female": 43,
+        "unclear": 41
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 83,
+          "female": 39,
+          "unclear": 33
+        },
+        "holly": {
+          "female": 4,
+          "unclear": 8,
+          "male": 14
+        }
+      },
       "examples": [
         {
           "dialogue_id": "s3329_bolly",
@@ -2042,6 +3624,47 @@
             "poster_path": "/t6boEESUOnO31vD0FPfNAAHV8y.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s3329_bolly",
+          "dialogue": "Hattie! - Thanks! Come, come. <i>Senseless love</i> <i>Shameless love</i> Namrata, about the audition...Pout! I'm sorry! - Ms. Ripped Jeans! What are you drinking?",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "not conforming to traditional behavior",
+          "film": {
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s1282_bolly",
+          "dialogue": "Chop this. Do some work. Cover your head. You've shamed me enough already. Not on the floor! Didn't your mother teach you anything? They sold me a useless goat.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "not adhering to traditional norms and expectations",
+          "film": {
+            "title": "Parched",
+            "year": "2015",
+            "poster_path": "/cpuW4xGdUVZep3Otwo97xnEzdWi.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s3464_bolly",
+          "dialogue": "It's okay! There's always a first time for everything! Do you have no shame? I chose my happiness over shame! And do you know that.......\"Shame\" is often what leads to suicide.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "choosing happiness over societal norms",
+          "film": {
+            "title": "Manmarziyaan",
+            "year": "2018",
+            "poster_path": "/spTuL3PJFYQsxBdAHbUJlHtwwyi.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -2054,6 +3677,23 @@
       "share_bolly": 0.039767649687220734,
       "share_holly": 0.04566473988439306,
       "delta_bolly_minus_holly": -0.005897090197172328,
+      "gender_breakdown": {
+        "male": 112,
+        "female": 17,
+        "unclear": 39
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "female": 9,
+          "male": 66,
+          "unclear": 14
+        },
+        "holly": {
+          "male": 46,
+          "unclear": 25,
+          "female": 8
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WP2707_holly",
@@ -2115,6 +3755,47 @@
             "poster_path": "/5kvr2gx6j3XjueQfkYsGPqvGSQ.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "p1854_bolly",
+          "dialogue": "This is our home-ground show them who the real champ is The athlete who will be remembered for generations India's pride Mary Kom! Mary Mary",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Sports achievement",
+          "film": {
+            "title": "Mary",
+            "year": "2024",
+            "poster_path": "/wpApuf1xky92ug8n5mP5aP7DiDy.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p2030_bolly",
+          "dialogue": "Where will you stop, Apeksha'? I am sure...in the next exams...she will score a big zero. Zero. And make Sri Aryabhatt proud. I am really sad. It's sad for me.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "scoring zero in exams",
+          "film": {
+            "title": "Nil Battey Sannata",
+            "year": "2016",
+            "poster_path": "/fvsPtLdIFM4lsjFX5CQ1X6yjzSZ.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP125_holly",
+          "dialogue": "Coach says I might get to play some football this year.  What?  - I'm so proud of you. Good job. - Ah.  (BIANCA CHUCKLES)  Wow.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "playing football",
+          "film": {
+            "title": "The DUFF",
+            "year": "2015",
+            "poster_path": "/A6ScveWmIPL9vSYyULD8ObqyHDQ.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -2127,6 +3808,23 @@
       "share_bolly": 0.031724754244861486,
       "share_holly": 0.03872832369942197,
       "delta_bolly_minus_holly": -0.007003569454560481,
+      "gender_breakdown": {
+        "male": 75,
+        "female": 35,
+        "unclear": 28
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "unclear": 14,
+          "male": 45,
+          "female": 12
+        },
+        "holly": {
+          "male": 30,
+          "unclear": 14,
+          "female": 23
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WP1748_holly",
@@ -2188,6 +3886,47 @@
             "poster_path": "/115f1t03C35rSQmfOupJ9DdkcjG.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "WP1748_holly",
+          "dialogue": "The FBI Academy!  You passed the exam!  I'm so damn proud of you, honey.  Yeah.  Well, I don't know.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "passing the FBI exam",
+          "film": {
+            "title": "Deadfall",
+            "year": "2012",
+            "poster_path": "/5ZM6uKhuEzWZD3xklmqKPuvq1Nj.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP766_holly",
+          "dialogue": "She raised me on her own.  I got a full ride.  She's... so proud I'm here.  so proud I'm here.  Thanks for the lift.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "getting a full ride scholarship",
+          "film": {
+            "title": "Liberal Arts",
+            "year": "2012",
+            "poster_path": "/kqU8qijdt9mtX4Pt00PFno5bwrz.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p1800_bolly",
+          "dialogue": "Where are you going, super-busy... cop! What are you doing? There are people around. Mom. We won! So proud of you. I am sorry. Charles was right. Fear is always there.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "child's victory",
+          "film": {
+            "title": "Main Aur Charles",
+            "year": "2015",
+            "poster_path": "/sETdbhC6YsgtQZpMQkighZmtWxN.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -2200,6 +3939,23 @@
       "share_bolly": 0.016519617045241224,
       "share_holly": 0.03359173126614987,
       "delta_bolly_minus_holly": -0.01707211422090865,
+      "gender_breakdown": {
+        "male": 71,
+        "female": 22,
+        "unclear": 34
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "female": 17,
+          "male": 45,
+          "unclear": 26
+        },
+        "holly": {
+          "male": 26,
+          "unclear": 8,
+          "female": 5
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WS1330_holly",
@@ -2261,6 +4017,47 @@
             "poster_path": "/vgph2hdk5kyWUWzd5TCEDKrsE1b.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s567_bolly",
+          "dialogue": "They haven't forgotten, papa. They haven't forgotten, papa. One girl is bringing suchshame to the entire neighborhood. You should read thearticles in the newspapers. Such people shouldleave the neighborhood.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "causing scandal or gossip",
+          "film": {
+            "title": "Bhoomi",
+            "year": "2017",
+            "poster_path": "/zVh5RNjIcM3Wggp0Be3fGdLxz75.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s610_bolly",
+          "dialogue": "What are you doing here? Go back inside. - I'll be right back. Bobby, you aren't ashamed at all, are you? Why should I be ashamed? Everyone at home is stressed because of you and you are just...Noor",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "causing stress to family",
+          "film": {
+            "title": "Mr. Baseball, Bob Uecker",
+            "year": "2014",
+            "poster_path": "/bAQveOitDC2q8He8I8HpUISFa0K.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s611_bolly",
+          "dialogue": "Go back inside. - I'll be right back. Bobby, you aren't ashamed at all, are you? Why should I be ashamed? Everyone at home is stressed because of you and you are just...Noor I am aware that everyone is stressed",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "causing stress to family",
+          "film": {
+            "title": "Mr. Baseball, Bob Uecker",
+            "year": "2014",
+            "poster_path": "/bAQveOitDC2q8He8I8HpUISFa0K.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -2273,6 +4070,23 @@
       "share_bolly": 0.03753351206434316,
       "share_holly": 0.02254335260115607,
       "delta_bolly_minus_holly": 0.014990159463187092,
+      "gender_breakdown": {
+        "male": 91,
+        "female": 14,
+        "unclear": 18
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 64,
+          "unclear": 11,
+          "female": 9
+        },
+        "holly": {
+          "unclear": 7,
+          "male": 27,
+          "female": 5
+        }
+      },
       "examples": [
         {
           "dialogue_id": "p612_bolly",
@@ -2334,6 +4148,47 @@
             "poster_path": "/pOmteFeBDI9FJOPTDvYJYFeAtdp.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "WP2719_holly",
+          "dialogue": "The King and I are incredibly grateful  for Super Sparkle's noble deeds.  And proud of her bravery.  Windemere is lucky to have such a valiant  and dynamic hero in its service.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "Super Sparkle's noble deeds and bravery",
+          "film": {
+            "title": "Barbie in Princess Power",
+            "year": "2015",
+            "poster_path": "/nCviAdChxibrKRZfvG7MZ2wsqdR.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP2656_holly",
+          "dialogue": "I'm so proud of you, sweetheart.  You're so brave.  Your mama would be so proud.  All right, it's your moment to shine.  You tell them your story. All right.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "bravery and telling their story",
+          "film": {
+            "title": "Category 5",
+            "year": "2014",
+            "poster_path": "/zLIskeg6XOXuytYlPd7pCcIoeBs.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP2720_holly",
+          "dialogue": "Do you have any idea how bad I want to go up to them right now and yell,  \"It's me! I'm Super Sparkle!  I'm the one you're proud of!\"  I thought this was about making a difference,  not about taking the credit.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "being a superhero",
+          "film": {
+            "title": "Barbie in Princess Power",
+            "year": "2015",
+            "poster_path": "/nCviAdChxibrKRZfvG7MZ2wsqdR.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -2346,6 +4201,23 @@
       "share_bolly": 0.045576407506702415,
       "share_holly": 0.010982658959537572,
       "delta_bolly_minus_holly": 0.03459374854716484,
+      "gender_breakdown": {
+        "male": 61,
+        "female": 10,
+        "unclear": 50
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 51,
+          "female": 9,
+          "unclear": 42
+        },
+        "holly": {
+          "male": 10,
+          "unclear": 8,
+          "female": 1
+        }
+      },
       "examples": [
         {
           "dialogue_id": "p1239_bolly",
@@ -2407,6 +4279,47 @@
             "poster_path": "/mDcPRjZC1bb6LavFU3gwsWdVfCM.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "p1377_bolly",
+          "dialogue": "I wish you had returned after being slapped ten times. Nonsense. You're a martyr's widow. You should be proud! I will now enter that painting and strangle you! Why am I listening?",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "being a martyr's widow",
+          "film": {
+            "title": "Jaane Tu... Ya Jaane Na",
+            "year": "2008",
+            "poster_path": "/iV1W0IEtQYuBnnxNmZxSmPHK3Pu.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p1473_bolly",
+          "dialogue": "And second, she's my martyr friend“ “soldier Surat Singh's daughter. She still steps out wearing his army belt. With pride. Is that the only reason? Yes . Papa...you're totally great.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "father's military service",
+          "film": {
+            "title": "Kaanchi",
+            "year": "2014",
+            "poster_path": "/gcqOtRxgdqbXjp3kxnnOCHBThW.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p2272_bolly",
+          "dialogue": "He is martyr. And I'm happy he was my son. He honoured my pride. He made his mother proud. He honoured our country's bravery.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "son's bravery and martyrdom",
+          "film": {
+            "title": "Sikandar",
+            "year": "1941",
+            "poster_path": "/avlYXNDoqQ5pgXnLCXD2vzwuOPh.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -2419,6 +4332,21 @@
       "share_bolly": 0.050044682752457555,
       "share_holly": 0.003468208092485549,
       "delta_bolly_minus_holly": 0.04657647465997201,
+      "gender_breakdown": {
+        "male": 67,
+        "female": 26,
+        "unclear": 25
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 61,
+          "female": 26,
+          "unclear": 25
+        },
+        "holly": {
+          "male": 6
+        }
+      },
       "examples": [
         {
           "dialogue_id": "p701_bolly",
@@ -2480,6 +4408,47 @@
             "poster_path": "/2uIS6bXgFlzUUdCsDX7jMVw3zBK.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "p1600_bolly",
+          "dialogue": "Madam he is Maharana Pratap -The great warrior -Wow! Pride of India......he fought many battles. How is dad's nature? How would I know his dad's nature.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Maharana Pratap's achievements",
+          "film": {
+            "title": "Khota Sikka Jaat Ke Thaath",
+            "year": "2014",
+            "poster_path": "/1uHnrLr5tX2CjAX1ybtcuOLdDI2.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p2752_bolly",
+          "dialogue": "We ought to be thanking you. For the first time I felt proud about Rishi. A sense of pride. Thanks to you. Where is Chandni?",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Rishi's actions",
+          "film": {
+            "title": "Hum Ho Gaye Aap Ke",
+            "year": "2001",
+            "poster_path": "/jcq5qB9YVpeAZlUSUlXybJnnee8.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p526_bolly",
+          "dialogue": "Bajrang Pandey has left many people lo kill him. I've saved him today. But tomorrow I'm proud of you, Devika. I've been cheated. - Cheated? I can never forget this“",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "saving Bajrang Pandey",
+          "film": {
+            "title": "Devta",
+            "year": "1998",
+            "poster_path": "/k6A6WsgPbw4ko5lOkEVJTTopY7E.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -2492,6 +4461,23 @@
       "share_bolly": 0.016144171203303925,
       "share_holly": 0.026701119724375538,
       "delta_bolly_minus_holly": -0.010556948521071613,
+      "gender_breakdown": {
+        "male": 75,
+        "female": 22,
+        "unclear": 20
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 57,
+          "unclear": 11,
+          "female": 18
+        },
+        "holly": {
+          "male": 18,
+          "unclear": 9,
+          "female": 4
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WS134_holly",
@@ -2553,6 +4539,47 @@
             "poster_path": "/oUg0N2isgZ5rrxdXnsemcKolfKZ.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s363_bolly",
+          "dialogue": "His death resulted in the humiliation of your wife, sir what happened? Aren't you ashamed to call yourself wife of a mass killer? I'll never call you as aunt till i' alive. Do you want me to kill her?",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "being wife of a mass killer",
+          "film": {
+            "title": "Badrinath",
+            "year": "2011",
+            "poster_path": "/lKrLvv9FAWjIn1CiAgEf1RJuqiP.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WS1348_holly",
+          "dialogue": "My condolences, Amy.  Allow me to present you with the last known photo of Lieutenant Kroker.  We so sorry, Mr. And Mrs. Kroker. Terrible shame about Froggy.  Thank you for your kind words.  Yeah, yeah, real sad.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "death of Lieutenant Kroker",
+          "film": {
+            "title": "Futurama: The Beast with a Billion Backs",
+            "year": "2008",
+            "poster_path": "/2BW6JAW4wo7t5wD3WVfoijzosvt.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s2276_bolly",
+          "dialogue": "Do you think I'm my son's enemy? Yes, you are his enemy! Is this how you treat my child? Aren't you ashamed to beat her? I could kill her today! Stop it!",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "physical abuse",
+          "film": {
+            "title": "Haathi Mere Saathi",
+            "year": "1971",
+            "poster_path": "/nCRXU6bAmUv3ebwlmWwu05sjAFX.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -2565,6 +4592,23 @@
       "share_bolly": 0.017082785808147174,
       "share_holly": 0.00516795865633075,
       "delta_bolly_minus_holly": 0.011914827151816423,
+      "gender_breakdown": {
+        "male": 47,
+        "female": 24,
+        "unclear": 26
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 46,
+          "female": 21,
+          "unclear": 24
+        },
+        "holly": {
+          "male": 1,
+          "female": 3,
+          "unclear": 2
+        }
+      },
       "examples": [
         {
           "dialogue_id": "s2909_bolly",
@@ -2626,6 +4670,47 @@
             "poster_path": "/bpuE0ZUROZxNREOQbK5im9H3BuF.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s3241_bolly",
+          "dialogue": "That's why I wasn't coming to Benares. Forgive me, sis. I've shattered your faith. I've shamed you. I'm sorry. Forgive me! Shut up, sis. Just shut up!",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "speaker's actions or behavior",
+          "film": {
+            "title": "Laaga Chunari Mein Daag",
+            "year": "2007",
+            "poster_path": "/lCyy2tQ14OmzYN7byobslSEOZz9.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s4155_bolly",
+          "dialogue": ". from his own balcony And the second crime . . to even speak of it, I am ashamed. But someone was watching Temina undress through her bedroom window. Tennina, it's a scandarl!",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Invasion of privacy",
+          "film": {
+            "title": "Shirin Farhad Ki Toh Nikal Padi",
+            "year": "2012",
+            "poster_path": "/lABo7DIWzX2tOKI6A9pcayCLw8j.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WS353_holly",
+          "dialogue": "Thank you.  I'll get the sheets.  I'm so ashamed.  I had no right going there.  What you do in your own life is your business.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "intruding into someone's personal life",
+          "film": {
+            "title": "Single White Female 2: The Psycho",
+            "year": "2005",
+            "poster_path": "/qovxrkXIdOnhWyyqkJJLaFfYUxF.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -2638,6 +4723,23 @@
       "share_bolly": 0.013140604467805518,
       "share_holly": 0.017226528854435832,
       "delta_bolly_minus_holly": -0.004085924386630314,
+      "gender_breakdown": {
+        "male": 72,
+        "female": 8,
+        "unclear": 10
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 55,
+          "unclear": 8,
+          "female": 7
+        },
+        "holly": {
+          "male": 17,
+          "female": 1,
+          "unclear": 2
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WS88_holly",
@@ -2699,6 +4801,47 @@
             "poster_path": "/3D5FG0oceTEpgLrz1v8aFWja3wn.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s4541_bolly",
+          "dialogue": "She drinks straight up. Really? I've heard she's into drugs as well. Shameless. Poor parents. Her father used to prowl around like a proud lion.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "drinking and drug use",
+          "film": {
+            "title": "Veere Di Wedding",
+            "year": "2018",
+            "poster_path": "/yeXnYRRQE2MT7s04uUfKS696cqi.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s4336_bolly",
+          "dialogue": "Why do you drink so much if you can't digest it? Tanu? Weren't you ashamed? - Look, mister..Take him away! You brought these idiots back home with you. You went out to be famous. Now I'll show you. - Show me what.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "excessive drinking",
+          "film": {
+            "title": "Tanu Weds Manu: Returns",
+            "year": "2015",
+            "poster_path": "/sO3XD6ZDZetb2N6YDQrHLTVQrfq.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s2448_bolly",
+          "dialogue": "- Let's go home. - We will. What's the hurry? The night is young. - Mother, have a drink for me. - Aren't you ashamed? What the...? You ruined my sandal? Now you will clean it.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Drinking alcohol",
+          "film": {
+            "title": "Hote Hote Pyar Hogaya",
+            "year": "1999",
+            "poster_path": "/6s21RGG5h4aKQ4ZUNmJ3pEn8xlB.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -2711,6 +4854,21 @@
       "share_bolly": 0.016144171203303925,
       "share_holly": 0.0017226528854435831,
       "delta_bolly_minus_holly": 0.014421518317860342,
+      "gender_breakdown": {
+        "male": 49,
+        "female": 27,
+        "unclear": 12
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "male": 47,
+          "female": 27,
+          "unclear": 12
+        },
+        "holly": {
+          "male": 2
+        }
+      },
       "examples": [
         {
           "dialogue_id": "s2538_bolly",
@@ -2772,6 +4930,47 @@
             "poster_path": "/5Ix8SvMu5MllsXLtD0dvZR0vDi2.jpg"
           }
         }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s776_bolly",
+          "dialogue": "Fell down or did you do it wantonly  Why're you lying sister-in-law? Meena are you calling  your sister-in-law as a Liar? shameless  Useless ! Will you rise your hands on a sister?",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Accusing sister-in-law of lying and raising hand on her",
+          "film": {
+            "title": "Chhoti Bahen",
+            "year": "1959",
+            "poster_path": "/6vOOgzh1hE5AXj3iF4BsiZx6YOW.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s765_bolly",
+          "dialogue": "Innocent! My vagabond! Leave my son, you thief! Hey old lady, you steal kids, aren't you ashamed? Mother, what happened? I remembered my lost son on seeing a small boy.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "accused of stealing children",
+          "film": {
+            "title": "Chhailla Babu",
+            "year": "1977",
+            "poster_path": "/e6rdXmSZrvIWuBIYCAcCKD4q4ON.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s1928_bolly",
+          "dialogue": "And to earn money you sleep with them! Neetu, aren't you ashamed of accusing me of this filthy deed! You should be ashamed! Because you are leading a shameful life, not me! I am leading this life so that you can survive.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Accused of prostitution",
+          "film": {
+            "title": "Sarphira",
+            "year": "1992",
+            "poster_path": "/lyLwO4xq6oEAj23UQWGQQqARz7I.jpg"
+          },
+          "counter_type": "cross_gender"
+        }
       ]
     },
     {
@@ -2784,6 +4983,23 @@
       "share_bolly": 0.00788436268068331,
       "share_holly": 0.01808785529715762,
       "delta_bolly_minus_holly": -0.01020349261647431,
+      "gender_breakdown": {
+        "male": 30,
+        "female": 19,
+        "unclear": 14
+      },
+      "by_industry_gender": {
+        "bolly": {
+          "female": 15,
+          "unclear": 8,
+          "male": 19
+        },
+        "holly": {
+          "male": 11,
+          "female": 4,
+          "unclear": 6
+        }
+      },
       "examples": [
         {
           "dialogue_id": "WS9_holly",
@@ -2844,6 +5060,47 @@
             "year": "2015",
             "poster_path": "/tIqav4xlbDh55dmxNFPRx5rVQLX.jpg"
           }
+        }
+      ],
+      "counter_examples": [
+        {
+          "dialogue_id": "s1694_bolly",
+          "dialogue": "Yes, father? What are you up to? Aren’t you ashamed? I had to see this day! I get to hear from the media about your whereabouts You have forgotten, Jiah!",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Not informing her father about her whereabouts",
+          "film": {
+            "title": "Rock On 2",
+            "year": "2016",
+            "poster_path": "/bHXLurduTMZByPwSUss3LbSsgiU.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WS849_holly",
+          "dialogue": "A rich, full life.  You've got to go on living.  I'm so ashamed.  When I went to the doctor... I pretended I was married.  I pretended I was married.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "lying about marital status",
+          "film": {
+            "title": "Three Secrets",
+            "year": "1999",
+            "poster_path": "/A9bgSwlYa5yzlPfOVYm29XJQnDr.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s1111_bolly",
+          "dialogue": "You didn't think even once.  Someone is waiting for you at Canada.  Jia! Uncle..Uncle.. - She is Jia. And Jia, he is..What? Ashamed to tell? - Huh? That you love me. - Oh! That we are engaged! - Huh?",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "hiding her engagement",
+          "film": {
+            "title": "Dhoom Dadakka",
+            "year": "2008",
+            "poster_path": "/qMOUAFO8oyZ48F9411cdGg526jE.jpg"
+          },
+          "counter_type": "cross_gender"
         }
       ]
     }

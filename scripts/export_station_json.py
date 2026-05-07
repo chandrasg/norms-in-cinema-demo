@@ -413,15 +413,24 @@ def build_station2(dialogues: list[dict]) -> dict:
     theme_meta = {}  # theme_id -> {emotion, label}
     by_emotion_industry = defaultdict(int)  # (emotion, industry) -> total
 
+    # Per-theme gender breakdowns — used by the Theme Explorer to surface
+    # "dominant pattern" and "counter-pattern" framings without needing
+    # full dialogue exports.
+    theme_gender = defaultdict(lambda: Counter())             # tid -> {male, female, unclear}
+    theme_industry_gender = defaultdict(lambda: defaultdict(lambda: Counter()))  # tid -> ind -> Counter
+
     for r in dialogues:
         if not r["theme_id"]:
             continue
         tid = r["theme_id"]
         emo = r["emotion"]
         ind = r["industry"]
+        g = r["target_gender"] if r["target_gender"] in ("male", "female") else "unclear"
         by_theme[tid][ind] += 1
         theme_meta[tid] = {"emotion": emo, "label": r["theme_label"]}
         by_emotion_industry[(emo, ind)] += 1
+        theme_gender[tid][g] += 1
+        theme_industry_gender[tid][ind][g] += 1
 
     themes = []
     for tid, counts in by_theme.items():
@@ -436,6 +445,12 @@ def build_station2(dialogues: list[dict]) -> dict:
         delta = share_b - share_h
         # Pick example dialogues: 5 per theme, biased toward dominant industry
         examples = pick_theme_examples(dialogues, tid, n=5, delta=delta)
+        # Counter-pattern examples — pick up to 3 dialogues that go AGAINST
+        # the dominant gender/industry pattern of this theme. Used by the
+        # Theme Explorer to give Ana Maria's "directional but non-judgmental"
+        # framing teeth.
+        counter_examples = pick_counter_examples(dialogues, tid, theme_gender[tid], delta, n=3)
+        gender_dist = dict(theme_gender[tid])
         themes.append({
             "id": int(tid),
             "emotion": emo,
@@ -446,7 +461,17 @@ def build_station2(dialogues: list[dict]) -> dict:
             "share_bolly": share_b,
             "share_holly": share_h,
             "delta_bolly_minus_holly": delta,
+            "gender_breakdown": {
+                "male": gender_dist.get("male", 0),
+                "female": gender_dist.get("female", 0),
+                "unclear": gender_dist.get("unclear", 0),
+            },
+            "by_industry_gender": {
+                "bolly": dict(theme_industry_gender[tid]["bolly"]),
+                "holly": dict(theme_industry_gender[tid]["holly"]),
+            },
             "examples": examples,
+            "counter_examples": counter_examples,
         })
 
     themes.sort(key=lambda t: (-t["total"]))
@@ -496,6 +521,88 @@ def build_station2(dialogues: list[dict]) -> dict:
             for (emo, ind), v in by_emotion_industry.items()
         },
     }
+
+
+def pick_counter_examples(
+    dialogues: list[dict],
+    theme_id: str,
+    theme_gender: Counter,
+    delta: float,
+    n: int = 3,
+) -> list[dict]:
+    """Pick dialogues from this theme that go against the dominant pattern.
+
+    Two definitions of "counter":
+      - Cross-gender: target_gender opposite to whichever gender dominates
+        this theme overall (e.g. theme dominated by female targets → look
+        for male-target examples)
+      - Cross-industry: examples from the minority industry of this theme
+        (used as a tiebreaker when not enough cross-gender available)
+
+    Note: this is a proxy. We don't have scene-level "narrative outcome"
+    annotation in V1; that lands in V2. For now, surfacing dialogues that
+    invert the dominant gender/industry trope gives the closest practical
+    handle on the "directional, non-judgmental" framing requested in the
+    monthly meeting.
+    """
+    fc = _film_counts(dialogues)
+    fem = theme_gender.get("female", 0)
+    male = theme_gender.get("male", 0)
+    if fem > male:
+        counter_gender = "male"
+    elif male > fem:
+        counter_gender = "female"
+    else:
+        counter_gender = None
+
+    minority_industry = "holly" if delta > 0 else "bolly"
+
+    pool = [r for r in dialogues
+            if r["theme_id"] == theme_id
+            and r["film_matched"] == "1"
+            and r["dialogue"]
+            and 40 <= len(r["dialogue"]) <= 220]
+
+    # Prefer cross-gender; fall back to cross-industry when scarce.
+    cross_gender = [r for r in pool if r["target_gender"] == counter_gender] if counter_gender else []
+    cross_industry = [r for r in pool if r["industry"] == minority_industry]
+
+    cross_gender.sort(key=lambda r: -example_quality_score(r, fc))
+    cross_industry.sort(key=lambda r: -example_quality_score(r, fc))
+
+    out = []
+    seen_ids = set()
+    for r in cross_gender:
+        if len(out) >= n:
+            break
+        if r["dialogue_id"] in seen_ids:
+            continue
+        out.append(r)
+        seen_ids.add(r["dialogue_id"])
+    for r in cross_industry:
+        if len(out) >= n:
+            break
+        if r["dialogue_id"] in seen_ids:
+            continue
+        out.append(r)
+        seen_ids.add(r["dialogue_id"])
+
+    return [{
+        "dialogue_id": r["dialogue_id"],
+        "dialogue": bleep_curses(r["dialogue"]),
+        "industry": r["industry"],
+        "target_gender": r["target_gender"],
+        "cause_raw": bleep_curses(r["cause_raw"]),
+        "film": {
+            "title": r["film_title"],
+            "year": r["film_year"],
+            "poster_path": r["film_poster_path"],
+        },
+        "counter_type": (
+            "cross_gender" if r["target_gender"] == counter_gender
+            else "cross_industry"
+        ),
+    } for r in out]
 
 
 def pick_theme_examples(dialogues: list[dict], theme_id: str, n: int = 5, delta: float = 0.0) -> list[dict]:

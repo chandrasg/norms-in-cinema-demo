@@ -34,6 +34,38 @@ const feedbackEndpoint = import.meta.env.PUBLIC_FEEDBACK_ENDPOINT || "";
       Cultures may differ, but gendered expectations are shared.
     </p>
 
+    <!-- "What is MAPGEN?" overview block — for newcomers who land here cold.
+         Sits above the persona paths so it doesn't interrupt returning users
+         from clicking straight into a dossier. -->
+    <div class="mt-12 panel p-6 md:p-8 max-w-4xl border border-gold-400/15 bg-gradient-to-br from-gold-400/[0.04] via-transparent to-transparent">
+      <p class="text-xs uppercase tracking-[0.25em] text-gold-400">What is MAPGEN?</p>
+      <h2 class="mt-2 font-display text-2xl md:text-3xl text-white leading-tight">
+        Social norms hide in plain sight. Emotions are how we surface them.
+      </h2>
+      <div class="mt-4 grid gap-4 md:grid-cols-2 text-sm md:text-base text-white/75 leading-relaxed">
+        <p>
+          A film almost never tells you outright what it considers shameful or
+          praiseworthy — instead, the characters <em>feel</em> it. A daughter
+          flinches when her father's voice rises. A father beams when his son
+          comes home with a degree. The norm itself is invisible; the emotion
+          is the signal that it's there.
+        </p>
+        <p>
+          MAPGEN reads film dialogue at scale and tags every line where shame
+          or pride is being expressed — by whom, toward whom, and over what.
+          What emerges is a measurable picture of which gender norms each
+          industry's storytelling makes visible: who is held to account, who
+          is celebrated, and what behaviour each treats as worthy of either.
+        </p>
+      </div>
+      <p class="mt-5 text-xs text-white/45 max-w-3xl">
+        V1 covers ~12,000 lines of dialogue from ~10,000 Bollywood and
+        Hollywood films, peer-reviewed at NAACL 2025. V2 — supported by
+        Gates Foundation — extends the same method to 250,000 films across
+        160 countries.
+      </p>
+    </div>
+
     <!-- Persona quick-paths + resources -->
     <div class="mt-8">
       <p class="text-xs uppercase tracking-[0.25em] text-white/40 mb-3">Choose your path →</p>
