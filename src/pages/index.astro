@@ -66,6 +66,60 @@ const feedbackEndpoint = import.meta.env.PUBLIC_FEEDBACK_ENDPOINT || "";
       </p>
     </div>
 
+    <!-- Evidence base + theory of change — surfaced on the landing page so a
+         funder/leadership reader sees credibility and the causal logic without
+         having to enter the Studio dossier. Gates gender-strategy vocabulary
+         (restrictive gender norms, women's economic empowerment, the gender
+         data gap, social & behaviour change, SDG 5) used deliberately. -->
+    <div class="mt-12 grid gap-4 lg:grid-cols-[1.15fr_0.85fr] max-w-5xl">
+      <div class="panel p-6 md:p-8 border border-gold-400/15">
+        <p class="text-xs uppercase tracking-[0.25em] text-gold-400">Why this matters</p>
+        <h2 class="mt-2 font-display text-2xl text-white leading-tight">
+          A measurement layer for the screen content that shapes gender norms.
+        </h2>
+        <p class="mt-3 text-sm md:text-base text-white/75 leading-relaxed">
+          Restrictive gender norms are upstream of girls' education, women's
+          economic empowerment, and gender-based violence — and entertainment
+          is one of the most pervasive places those norms are rehearsed.
+          Decades of RCT evidence show screen storytelling can move them:
+          <span class="text-white">Banerjee &amp; La Ferrara</span> on
+          telenovelas shifting fertility and divorce norms; <span class="text-white">MTV
+          Shuga</span> roughly doubling HIV testing in Nigeria;
+          <span class="text-white">Impact(Ed)'s <em>My Better World</em></span>
+          moving girls' school enrolment. What the field has lacked is the
+          measurement step — <span class="text-white">a way to see which norms
+          a body of content actually carries, at scale.</span> That is the
+          gender-data gap MAPGEN closes, in service of SDG 5.
+        </p>
+        <p class="mt-4 text-xs text-white/50 leading-relaxed">
+          The measurement is independently evidenced (peer-reviewed at NAACL
+          2025); the behaviour-change link is RCT-backed. MAPGEN connects the
+          two — the targeting infrastructure social &amp; behaviour-change
+          investment needs.
+          <a href={base + "/about"} class="text-gold-400/80 hover:underline">Method &amp; honest limitations →</a>
+        </p>
+      </div>
+      <div class="grid gap-3 content-start">
+        <div class="panel p-4">
+          <p class="text-[11px] uppercase tracking-[0.18em] text-gold-400">Peer-reviewed</p>
+          <p class="mt-1 text-sm text-white/85">Rai et al., <span class="text-white">NAACL 2025</span> — Penn Computational Social Listening Lab (Rai, Guntuku).</p>
+        </div>
+        <div class="panel p-4">
+          <p class="text-[11px] uppercase tracking-[0.18em] text-gold-400">Partnership</p>
+          <p class="mt-1 text-sm text-white/85">University of Pennsylvania · World Bank Group (DIME &amp; Gender) · USC Annenberg Norman Lear Center.</p>
+        </div>
+        <div class="panel p-4">
+          <p class="text-[11px] uppercase tracking-[0.18em] text-gold-400">V1 → V2</p>
+          <p class="mt-1 text-sm text-white/85">
+            V1 proves the method on Bollywood &amp; Hollywood. V2 — supported
+            by the <span class="text-white">Gates Foundation</span> — extends it
+            to <span class="text-white">Nigeria (Nollywood), Kenya, and India
+            first</span>, scaling toward ~250,000 titles across 160 countries.
+          </p>
+        </div>
+      </div>
+    </div>
+
     <!-- Persona quick-paths + resources -->
     <div class="mt-8">
       <p class="text-xs uppercase tracking-[0.25em] text-white/40 mb-3">Choose your path →</p>

@@ -6,6 +6,9 @@
 # Raw dataset (pulled at build time)
 data/raw/
 
+# Internal research — local only, never publish (for student onboarding)
+social-norms-film-analysis/
+
 # Build artifacts
 node_modules/
 dist/
