@@ -192,8 +192,9 @@ export default function ThemeExplorer({ themes }: { themes: Theme[] }) {
           type="search"
           placeholder="Try: harassment, women in the workforce, family honor…"
           value={query}
+          aria-label="Search themes by natural-language query"
           onChange={e => { setQuery(e.target.value); setSelectedId(null); }}
-          className="block w-full rounded-xl bg-ink-950 px-5 py-3 text-white placeholder-white/30 ring-1 ring-white/10 focus:outline-none focus:ring-gold-400/50"
+          className="block w-full rounded-xl bg-ink-950 px-5 py-3 text-white placeholder-white/50 ring-1 ring-white/20 focus:outline-none focus:ring-gold-400/50"
         />
         {/* Autocomplete suggestions */}
         {matches.length > 0 && (
@@ -211,7 +212,7 @@ export default function ThemeExplorer({ themes }: { themes: Theme[] }) {
                   }`}>
                     {t.emotion}
                   </span>
-                  <span className="ml-auto text-xs text-white/40 tabular-nums">
+                  <span className="ml-auto text-xs text-white/55 tabular-nums">
                     {t.total.toLocaleString()} dialogues
                   </span>
                 </div>
@@ -220,7 +221,7 @@ export default function ThemeExplorer({ themes }: { themes: Theme[] }) {
           </div>
         )}
         {query.trim() && matches.length === 0 && (
-          <p className="mt-2 text-xs text-white/45">
+          <p className="mt-2 text-xs text-white/55">
             No theme matches "{query}". Try simpler keywords or
             <button
               onClick={() => setShowAll(true)}
@@ -256,7 +257,7 @@ export default function ThemeExplorer({ themes }: { themes: Theme[] }) {
                     }`}>
                       {t.emotion}
                     </span>
-                    <span className="ml-auto text-[11px] text-white/40 tabular-nums">{t.total}</span>
+                    <span className="ml-auto text-[11px] text-white/55 tabular-nums">{t.total}</span>
                   </div>
                 </button>
               ))}
@@ -289,7 +290,7 @@ function ThemeDetail({ theme, onClose }: { theme: Theme; onClose: () => void }) 
         </span>
         <button
           onClick={onClose}
-          className="ml-auto text-xs text-white/40 hover:text-white"
+          className="ml-auto text-xs text-white/55 hover:text-white"
         >
           ← back to search
         </button>
@@ -364,7 +365,7 @@ function ThemeDetail({ theme, onClose }: { theme: Theme; onClose: () => void }) 
       )}
 
       {/* Caveat */}
-      <p className="mt-6 text-[11px] text-white/40 italic max-w-2xl">
+      <p className="mt-6 text-[11px] text-white/55 italic max-w-2xl">
         "Counter-pattern" here is a proxy: examples are picked because their
         target gender or industry inverts the dominant pattern of this theme.
         Whether the scene <em>narratively</em> resolves the trope (restitution,
@@ -432,7 +433,7 @@ function ExampleCard({ example, isCounter }: { example: ThemeExample; isCounter?
         )}
         <div className="min-w-0 flex-1 text-xs">
           <p className="text-white/80 italic leading-relaxed">"{example.dialogue}"</p>
-          <p className="mt-2 text-white/40">
+          <p className="mt-2 text-white/55">
             <span className={example.industry === "bolly" ? "text-bolly/80" : "text-holly/80"}>
               {example.industry === "bolly" ? "Bollywood" : "Hollywood"}
             </span>
@@ -447,7 +448,7 @@ function ExampleCard({ example, isCounter }: { example: ThemeExample; isCounter?
             )}
           </p>
           {example.cause_raw && (
-            <p className="mt-1 text-[11px] text-white/40 italic">{example.cause_raw}</p>
+            <p className="mt-1 text-[11px] text-white/55 italic">{example.cause_raw}</p>
           )}
         </div>
       </div>

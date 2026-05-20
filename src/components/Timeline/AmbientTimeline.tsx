@@ -25,13 +25,26 @@ const TOTAL_LOOP = SLIDE_DURATION * 6;  // ~48s loop
  */
 export default function AmbientTimeline({ era, era_themes }: Props) {
   const [step, setStep] = useState(0);
+  const [paused, setPaused] = useState(false);
+  const [prefersReducedMotion, setPrefersReducedMotion] = useState(false);
+
+  // Honor prefers-reduced-motion (WCAG 2.3.3 / 2.2.2 Pause, Stop, Hide).
+  useEffect(() => {
+    if (typeof window === "undefined" || !window.matchMedia) return;
+    const mq = window.matchMedia("(prefers-reduced-motion: reduce)");
+    const apply = () => setPrefersReducedMotion(mq.matches);
+    apply();
+    mq.addEventListener?.("change", apply);
+    return () => mq.removeEventListener?.("change", apply);
+  }, []);
 
   useEffect(() => {
+    if (paused || prefersReducedMotion) return;
     const interval = setInterval(() => {
       setStep(s => (s + 1) % ERAS.length);
     }, SLIDE_DURATION);
     return () => clearInterval(interval);
-  }, []);
+  }, [paused, prefersReducedMotion]);
 
   const current = ERAS[step];
 
@@ -65,20 +78,39 @@ export default function AmbientTimeline({ era, era_themes }: Props) {
 
   return (
     <div className="relative overflow-hidden rounded-2xl bg-ink-950 ring-1 ring-white/5 p-10 md:p-16 min-h-[640px]">
-      {/* Era progress dots */}
-      <div className="absolute top-6 right-6 flex gap-2">
-        {ERAS.map((e, i) => (
-          <span
-            key={e.key}
-            className={`h-1.5 w-8 rounded-full transition-colors duration-700 ${
-              i === step ? "bg-gold-400" : i < step ? "bg-white/30" : "bg-white/10"
-            }`}
-          />
-        ))}
+      {/* Controls — pause/next + era progress dots. Pause control satisfies WCAG 2.2.2. */}
+      <div className="absolute top-6 right-6 flex items-center gap-3">
+        <button
+          type="button"
+          onClick={() => setPaused(p => !p)}
+          aria-label={paused || prefersReducedMotion ? "Resume auto-advance" : "Pause auto-advance"}
+          aria-pressed={paused || prefersReducedMotion}
+          className="rounded-full bg-white/5 ring-1 ring-white/20 text-white/80 hover:bg-white/10 hover:text-white px-3 py-1 text-xs min-h-[32px] min-w-[44px] transition"
+        >
+          {paused || prefersReducedMotion ? "▶ Play" : "❙❙ Pause"}
+        </button>
+        <button
+          type="button"
+          onClick={() => setStep(s => (s + 1) % ERAS.length)}
+          aria-label="Next era"
+          className="rounded-full bg-white/5 ring-1 ring-white/20 text-white/80 hover:bg-white/10 hover:text-white px-3 py-1 text-xs min-h-[32px] min-w-[44px] transition"
+        >
+          Next ›
+        </button>
+        <div className="flex gap-2 ml-1" aria-hidden="true">
+          {ERAS.map((e, i) => (
+            <span
+              key={e.key}
+              className={`h-1.5 w-8 rounded-full transition-colors duration-700 ${
+                i === step ? "bg-gold-400" : i < step ? "bg-white/55" : "bg-white/20"
+              }`}
+            />
+          ))}
+        </div>
       </div>
 
       {/* Top label */}
-      <p className="text-xs uppercase tracking-[0.3em] text-white/40">Norms through time · auto-loop</p>
+      <p className="text-xs uppercase tracking-[0.3em] text-white/55">Norms through time · {paused || prefersReducedMotion ? "paused" : "auto-loop"}</p>
 
       {/* Era title */}
       <div key={current.key} className="mt-8 animate-fade-in-up">
@@ -95,7 +127,7 @@ export default function AmbientTimeline({ era, era_themes }: Props) {
         <div>
           <p className="text-xs uppercase tracking-[0.25em] text-bolly">Bollywood · shame</p>
           <p className="mt-3 font-display text-6xl md:text-7xl text-white">
-            {Math.round(stats.bolly.femaleShare * 100)}<span className="text-white/30 text-3xl">% women</span>
+            {Math.round(stats.bolly.femaleShare * 100)}<span className="text-white/50 text-3xl">% women</span>
           </p>
           <p className="mt-2 text-sm text-white/50">
             {stats.bolly.female} / {stats.bolly.female + stats.bolly.male} labeled
@@ -115,7 +147,7 @@ export default function AmbientTimeline({ era, era_themes }: Props) {
         <div>
           <p className="text-xs uppercase tracking-[0.25em] text-holly">Hollywood · shame</p>
           <p className="mt-3 font-display text-6xl md:text-7xl text-white">
-            {Math.round(stats.holly.femaleShare * 100)}<span className="text-white/30 text-3xl">% women</span>
+            {Math.round(stats.holly.femaleShare * 100)}<span className="text-white/50 text-3xl">% women</span>
           </p>
           <p className="mt-2 text-sm text-white/50">
             {stats.holly.female} / {stats.holly.female + stats.holly.male} labeled
@@ -142,7 +174,7 @@ export default function AmbientTimeline({ era, era_themes }: Props) {
       )}
 
       {/* Subtle tick marker bottom */}
-      <div className="absolute bottom-6 left-10 right-10 flex items-center justify-between text-xs text-white/30">
+      <div className="absolute bottom-6 left-10 right-10 flex items-center justify-between text-xs text-white/50">
         <span>MAPGEN · Cinema's Mirror</span>
         <span>{step + 1} / {ERAS.length}</span>
       </div>

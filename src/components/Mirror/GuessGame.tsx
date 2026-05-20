@@ -52,7 +52,7 @@ export default function GuessGame({ rounds }: Props) {
 
   return (
     <div className="panel p-7 md:p-10">
-      <div className="flex items-center justify-between text-xs uppercase tracking-[0.25em] text-white/40 mb-6">
+      <div className="flex items-center justify-between text-xs uppercase tracking-[0.25em] text-white/55 mb-6">
         <span>Round {idx + 1} of {rounds.length}</span>
         <span>{score.correct} / {score.total}</span>
       </div>
@@ -95,11 +95,11 @@ export default function GuessGame({ rounds }: Props) {
                 <span className="text-white/60 ml-2">{round.answer_emotion}</span>
               </p>
               <h3 className="mt-2 font-display text-2xl text-white">
-                {round.film.title} <span className="text-white/40">({round.film.year})</span>
+                {round.film.title} <span className="text-white/55">({round.film.year})</span>
               </h3>
               <p className="mt-2 text-sm text-white/60">
                 Target: <span className="text-white/80">{round.target_gender}</span>
-                <span className="mx-2 text-white/30">·</span>
+                <span className="mx-2 text-white/50">·</span>
                 Theme: <span className="text-gold-400">{round.theme_label}</span>
               </p>
               <p className="mt-3 text-sm text-white/50 italic">

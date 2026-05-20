@@ -44,13 +44,13 @@ export default function SubversionFiles({ items }: { items: Subversion[] }) {
               </p>
               <p className="mt-1 font-display text-base text-white">
                 {s.film.title}{" "}
-                <span className="text-white/40 font-sans text-xs font-normal">
+                <span className="text-white/55 font-sans text-xs font-normal">
                   ({s.film.year}, {s.industry === "bolly" ? "Bollywood" : "Hollywood"})
                 </span>
               </p>
               <p className="mt-2 text-white/75 italic">"{s.dialogue}"</p>
               {s.cause_raw && (
-                <p className="mt-2 text-white/40">
+                <p className="mt-2 text-white/55">
                   <span className="text-white/60">Subversion:</span> {s.subversion} ·{" "}
                   <span className="text-gold-400/80">cause: {s.cause_raw}</span>
                 </p>

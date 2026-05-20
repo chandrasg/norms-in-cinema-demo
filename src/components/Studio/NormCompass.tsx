@@ -85,7 +85,7 @@ export default function NormCompass({ archetypes }: { archetypes: Archetype[] })
             {emo}
           </button>
         ))}
-        <span className="text-xs text-white/40 sm:ml-auto">
+        <span className="text-xs text-white/55 sm:ml-auto">
           {block.total.toLocaleString()} dialogues
         </span>
       </div>
@@ -97,7 +97,7 @@ export default function NormCompass({ archetypes }: { archetypes: Archetype[] })
           return (
             <div key={t.theme} className="group">
               <div className="flex items-baseline gap-3">
-                <span className="font-display text-xs text-white/40 w-5 text-right">
+                <span className="font-display text-xs text-white/55 w-5 text-right">
                   {String(i + 1).padStart(2, "0")}
                 </span>
                 <span className="font-display text-base text-white flex-1">
@@ -127,7 +127,7 @@ export default function NormCompass({ archetypes }: { archetypes: Archetype[] })
                   )}
                   <div className="text-xs leading-relaxed min-w-0 flex-1">
                     <p className="text-white/80 italic break-words">"{t.example.dialogue}"</p>
-                    <p className="mt-1 text-white/40">
+                    <p className="mt-1 text-white/55">
                       — <span className="text-white/60">{t.example.film.title}</span>
                       {t.example.film.year ? ` (${t.example.film.year})` : ""}
                       {t.example.cause_raw ? (
@@ -147,7 +147,7 @@ export default function NormCompass({ archetypes }: { archetypes: Archetype[] })
         })}
       </div>
 
-      <p className="mt-8 text-xs text-white/40 italic">
+      <p className="mt-8 text-xs text-white/55 italic">
         Top 3 themes shown with an example line each. The percentage is the share
         of this archetype's shame (or pride) lines that fall under that theme.
         These themes are the most common social-norm patterns the character

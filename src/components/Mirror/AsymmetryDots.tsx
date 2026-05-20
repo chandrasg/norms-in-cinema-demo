@@ -154,13 +154,13 @@ export default function AsymmetryDots({ asymmetry }: Props) {
       <div className="mt-6 grid grid-cols-2 gap-4 text-sm">
         <div>
           <p className="font-display text-3xl text-bolly">
-            {pct(totals.shame.female, shameLabeled)}<span className="text-white/40 text-lg">%</span>
+            {pct(totals.shame.female, shameLabeled)}<span className="text-white/55 text-lg">%</span>
           </p>
           <p className="text-white/60">of labeled shame lands on women</p>
         </div>
         <div>
           <p className="font-display text-3xl text-holly">
-            {pct(totals.pride.male, prideLabeled)}<span className="text-white/40 text-lg">%</span>
+            {pct(totals.pride.male, prideLabeled)}<span className="text-white/55 text-lg">%</span>
           </p>
           <p className="text-white/60">of labeled pride lands on men</p>
         </div>

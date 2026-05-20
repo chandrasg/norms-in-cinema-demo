@@ -100,7 +100,7 @@ export default function ThemeTugOfWar({ themes, emotion }: Props) {
           })}
         </ul>
 
-        <p className="mt-6 text-xs text-white/40">
+        <p className="mt-6 text-xs text-white/55">
           Click a theme to read example dialogues from films that triggered it.
         </p>
       </div>
@@ -109,7 +109,7 @@ export default function ThemeTugOfWar({ themes, emotion }: Props) {
         {selectedTheme ? (
           <ThemePanel theme={selectedTheme} />
         ) : (
-          <div className="flex h-full flex-col items-center justify-center text-center text-white/40">
+          <div className="flex h-full flex-col items-center justify-center text-center text-white/55">
             <p className="font-display text-xl text-white/50">Pick a theme.</p>
             <p className="mt-3 max-w-xs text-sm">
               Each bar's length is the cultural Δ — how much more or less
@@ -166,19 +166,19 @@ function ThemePanel({ theme }: { theme: Theme }) {
                   <span className={ex.industry === "bolly" ? "text-bolly" : "text-holly"}>
                     {ex.industry === "bolly" ? "Bollywood" : "Hollywood"}
                   </span>
-                  <span className="text-white/30">·</span>
+                  <span className="text-white/50">·</span>
                   <span className="text-white/60">{ex.film.title} ({ex.film.year})</span>
                   {ex.target_gender && ex.target_gender !== "unclear" && (
                     <>
-                      <span className="text-white/30">·</span>
-                      <span className="text-white/40">target: {ex.target_gender}</span>
+                      <span className="text-white/50">·</span>
+                      <span className="text-white/55">target: {ex.target_gender}</span>
                     </>
                   )}
                 </div>
                 <p className="mt-2 text-sm text-white/80 leading-relaxed">
                   "{ex.dialogue}"
                 </p>
-                <p className="mt-2 text-xs italic text-white/40">{ex.cause_raw}</p>
+                <p className="mt-2 text-xs italic text-white/55">{ex.cause_raw}</p>
               </div>
             </div>
           </article>

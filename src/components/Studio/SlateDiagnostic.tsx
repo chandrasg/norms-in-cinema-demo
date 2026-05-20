@@ -124,10 +124,11 @@ export default function SlateDiagnostic({ films }: { films: FilmIndexEntry[] }) 
 
       <textarea
         value={text}
+        aria-label="Paste a slate or list of project titles to audit"
         onChange={e => setText(e.target.value)}
         placeholder={SAMPLE}
         rows={6}
-        className="mt-5 block w-full rounded-xl bg-ink-950 px-4 py-3 text-white placeholder-white/30 ring-1 ring-white/10 focus:outline-none focus:ring-gold-400/50 text-sm leading-relaxed font-mono"
+        className="mt-5 block w-full rounded-xl bg-ink-950 px-4 py-3 text-white placeholder-white/50 ring-1 ring-white/20 focus:outline-none focus:ring-gold-400/50 text-sm leading-relaxed font-mono"
       />
 
       <div className="mt-4 flex flex-wrap items-center gap-3">
@@ -146,7 +147,7 @@ export default function SlateDiagnostic({ films }: { films: FilmIndexEntry[] }) 
         </button>
         <button
           onClick={() => { setText(SAMPLE); setAnalyzed(true); }}
-          className="text-xs text-white/40 hover:text-white min-h-[40px]"
+          className="text-xs text-white/55 hover:text-white min-h-[40px]"
         >
           Reset to sample
         </button>
@@ -220,7 +221,7 @@ export default function SlateDiagnostic({ films }: { films: FilmIndexEntry[] }) 
                       )}
                       <div className="min-w-0 flex-1 text-xs">
                         <p className="font-display text-sm text-white truncate">{f.title}</p>
-                        <p className="text-white/40">
+                        <p className="text-white/55">
                           {f.year} · <span className={f.industry === "bolly" ? "text-bolly" : "text-holly"}>
                             {f.industry === "bolly" ? "Bolly" : "Holly"}
                           </span>
@@ -281,11 +282,11 @@ function Metric({ label, value, hint, delta }: {
     <div className="rounded-xl bg-ink-950/40 ring-1 ring-white/5 p-4">
       <p className="text-[10px] uppercase tracking-[0.18em] text-white/50">{label}</p>
       <p className="mt-2 font-display text-2xl text-white tabular-nums">{value}</p>
-      {hint && <p className="mt-1 text-[11px] text-white/40">{hint}</p>}
+      {hint && <p className="mt-1 text-[11px] text-white/55">{hint}</p>}
       {deltaTxt && (
         <p className={`mt-1 text-[11px] ${
           delta != null && Math.abs(delta) < 0.02
-            ? "text-white/40"
+            ? "text-white/55"
             : delta != null && delta > 0
             ? "text-bolly/80"
             : "text-holly/80"

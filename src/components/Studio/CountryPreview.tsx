@@ -144,7 +144,7 @@ export default function CountryPreview() {
                 {m.label}
               </p>
               {c.films && (
-                <p className="mt-1 text-[11px] text-white/45 tabular-nums">{c.films}</p>
+                <p className="mt-1 text-[11px] text-white/55 tabular-nums">{c.films}</p>
               )}
               {c.note && (
                 <p className="mt-2 text-[11px] text-white/50 leading-snug">{c.note}</p>
@@ -158,19 +158,19 @@ export default function CountryPreview() {
           <div className="rounded-xl bg-white/[0.02] ring-1 ring-dashed ring-white/10 p-4 flex flex-col justify-between">
             <div>
               <p className="font-display text-base text-white/70">+ 140 more</p>
-              <p className="mt-1 text-xs text-white/45 leading-snug">
+              <p className="mt-1 text-xs text-white/55 leading-snug">
                 African, Southeast Asian, Latin American, MENA, Central Asian,
                 and Pacific industries — to reach the V2 target of 160 countries.
               </p>
             </div>
-            <p className="mt-3 text-[10px] uppercase tracking-[0.18em] text-white/40">
+            <p className="mt-3 text-[10px] uppercase tracking-[0.18em] text-white/55">
               V2 roadmap
             </p>
           </div>
         )}
       </div>
 
-      <p className="mt-8 text-xs text-white/40 italic max-w-2xl leading-relaxed">
+      <p className="mt-8 text-xs text-white/55 italic max-w-2xl leading-relaxed">
         This list is illustrative of the scope, not a binding commitment.
         Pilot order is shaped by subtitle availability, cultural research
         partnerships, and funder priorities — which is why we want to hear

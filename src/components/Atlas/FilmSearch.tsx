@@ -63,7 +63,7 @@ export default function FilmSearch({ films }: { films: FilmIndexEntry[] }) {
         Type a title or filter by industry / era — see every shame and pride
         dialogue we extracted from it.
       </p>
-      <p className="mt-2 text-xs text-white/45 max-w-2xl leading-relaxed">
+      <p className="mt-2 text-xs text-white/55 max-w-2xl leading-relaxed">
         Coverage note: the corpus only includes films where annotators found
         shame or pride dialogue. Major action and animated franchises (e.g.,
         <em> Avengers</em>, <em>Toy Story</em>) appear with only a few labeled
@@ -76,8 +76,9 @@ export default function FilmSearch({ films }: { films: FilmIndexEntry[] }) {
         type="search"
         placeholder="Devdas, Manchester by the Sea, Dilwale Dulhania Le Jayenge..."
         value={q}
+        aria-label="Search films in the corpus"
         onChange={e => setQ(e.target.value)}
-        className="mt-5 block w-full rounded-xl bg-ink-950 px-5 py-3 text-white placeholder-white/30 ring-1 ring-white/10 focus:outline-none focus:ring-gold-400/50"
+        className="mt-5 block w-full rounded-xl bg-ink-950 px-5 py-3 text-white placeholder-white/50 ring-1 ring-white/20 focus:outline-none focus:ring-gold-400/50"
       />
 
       {/* Filters */}
@@ -117,7 +118,7 @@ export default function FilmSearch({ films }: { films: FilmIndexEntry[] }) {
         {(industryFilter !== "all" || eraFilter !== "all" || q.trim().length > 0) && (
           <button
             onClick={() => { setIndustryFilter("all"); setEraFilter("all"); setQ(""); }}
-            className="text-xs text-white/40 hover:text-white px-2"
+            className="text-xs text-white/55 hover:text-white px-2"
           >
             Clear
           </button>
@@ -145,12 +146,12 @@ export default function FilmSearch({ films }: { films: FilmIndexEntry[] }) {
                   className="w-full aspect-[2/3] rounded object-cover ring-1 ring-white/10"
                 />
               ) : (
-                <div className="w-full aspect-[2/3] rounded bg-ink-800 grid place-items-center text-white/30 text-xs">
+                <div className="w-full aspect-[2/3] rounded bg-ink-800 grid place-items-center text-white/50 text-xs">
                   no poster
                 </div>
               )}
               <p className="mt-2 text-sm text-white/90 line-clamp-2">{f.title}</p>
-              <p className="text-xs text-white/40">{f.year}</p>
+              <p className="text-xs text-white/55">{f.year}</p>
               <div className="mt-1 flex items-center gap-2 text-xs">
                 {f.shame_count > 0 && (
                   <span className="text-bolly">{f.shame_count} shame</span>
@@ -188,7 +189,7 @@ export default function FilmSearch({ films }: { films: FilmIndexEntry[] }) {
       </div>
 
       {matches.length === 0 && (
-        <p className="mt-6 text-sm text-white/40">
+        <p className="mt-6 text-sm text-white/55">
           {q.trim().length >= 2
             ? <>No films matching "{q}" with the current filters. Try clearing filters or simpler titles — transliteration is imperfect on Bollywood titles.</>
             : <>No films match the current filters. Clear filters to see all films.</>}

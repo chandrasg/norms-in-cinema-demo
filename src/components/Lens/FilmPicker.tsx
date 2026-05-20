@@ -132,7 +132,7 @@ export default function FilmPicker({ filmIndex, basePath }: Props) {
                 )}
                 <div className="flex-1 min-w-0">
                   <p className="text-sm text-white truncate">{f.title}</p>
-                  <p className="text-xs text-white/40">
+                  <p className="text-xs text-white/55">
                     {f.year} · {f.industry === "bolly" ? "Bolly" : "Holly"}
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function FilmPicker({ filmIndex, basePath }: Props) {
       </div>
 
       <div className="panel p-6 md:p-8 min-h-[600px]">
-        {loading && <p className="text-white/40">Loading…</p>}
+        {loading && <p className="text-white/55">Loading…</p>}
         {!selectedSlug && (
           <div className="flex h-full flex-col items-center justify-center text-center text-white/50">
             <p className="font-display text-2xl text-white/60">Pick a film.</p>
@@ -177,7 +177,7 @@ function FilmDetailView({ detail }: { detail: FilmDetail }) {
         <div className="flex-1">
           <p className={`text-xs uppercase tracking-[0.25em] ${f.industry === "bolly" ? "text-bolly" : "text-holly"}`}>
             {f.industry === "bolly" ? "Bollywood" : "Hollywood"}
-            {f.year && <span className="text-white/40 ml-2">· {f.year}</span>}
+            {f.year && <span className="text-white/55 ml-2">· {f.year}</span>}
           </p>
           <h2 className="mt-2 font-display text-3xl text-white">{f.title}</h2>
           {f.overview && (
@@ -202,7 +202,7 @@ function FilmDetailView({ detail }: { detail: FilmDetail }) {
           <div className="flex flex-wrap gap-2">
             {detail.themes.slice(0, 8).map(t => (
               <span key={t.label} className="tag">
-                {t.label} <span className="text-white/40 ml-1">×{t.count}</span>
+                {t.label} <span className="text-white/55 ml-1">×{t.count}</span>
               </span>
             ))}
           </div>
@@ -235,7 +235,7 @@ function DialogueList({
         {dialogues.map(d => (
           <li key={d.dialogue_id} className="rounded-xl bg-white/5 p-4 ring-1 ring-white/5">
             <p className="text-sm text-white/85 leading-relaxed">"{d.dialogue}"</p>
-            <p className="mt-2 text-xs text-white/40">
+            <p className="mt-2 text-xs text-white/55">
               <span className={accent === "bolly" ? "text-bolly/80" : "text-holly/80"}>
                 {d.target_person || "—"}
               </span>

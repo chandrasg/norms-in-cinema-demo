@@ -78,7 +78,7 @@ export default function WhitespaceMap({ items }: { items: WhitespaceItem[] }) {
         })}
       </div>
 
-      <p className="mt-8 text-xs text-white/40 italic max-w-2xl">
+      <p className="mt-8 text-xs text-white/55 italic max-w-2xl">
         Bars are scaled to make small shares visible.
       </p>
     </div>

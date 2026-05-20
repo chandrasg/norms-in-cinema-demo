@@ -51,7 +51,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
         <p class="text-xs text-white/60 mt-1">themes ({meta.themes.shame} shame · {meta.themes.pride} pride)</p>
       </div>
       <div class="panel p-4">
-        <p class="font-display text-3xl text-white">{meta.gender_coverage_pct}<span class="text-white/30 text-base">%</span></p>
+        <p class="font-display text-3xl text-white">{meta.gender_coverage_pct}<span class="text-white/50 text-base">%</span></p>
         <p class="text-xs text-white/60 mt-1">of dialogues have a labeled target gender (the person the emotion is directed at)</p>
       </div>
     </div>
@@ -99,13 +99,13 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
           <p class="mt-2 font-display text-base text-white leading-snug">
             Rai, Sunny et al. (2025). Social Norms in Cinema: A Cross-Cultural Analysis of Shame, Pride and Prejudice. NAACL 2025, pp. 11396–11415.
           </p>
-          <p class="mt-3 text-xs text-white/40">Open PDF →</p>
+          <p class="mt-3 text-xs text-white/55">Open PDF →</p>
         </a>
         <a href="https://github.com/Khushangz/Cross-Cultural-Social-Norms-Dataset" target="_blank" rel="noopener"
            class="panel block p-5 hover:ring-gold-400/40 transition">
           <p class="text-xs uppercase tracking-[0.2em] text-gold-400">Source dataset</p>
           <p class="mt-2 text-sm text-white/80">CC-BY-SA on GitHub. Raw labels + films list.</p>
-          <p class="mt-3 text-xs text-white/40">Khushangz/Cross-Cultural-Social-Norms-Dataset →</p>
+          <p class="mt-3 text-xs text-white/55">Khushangz/Cross-Cultural-Social-Norms-Dataset →</p>
         </a>
       </aside>
     </div>
@@ -123,7 +123,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
             share in the other:
           </p>
           <pre class="mt-3 p-3 rounded-md bg-ink-950 text-xs text-white/80 overflow-x-auto"><code>Δ = (n_bolly / N_bolly_emotion) − (n_holly / N_holly_emotion)</code></pre>
-          <p class="mt-3 text-xs text-white/45">
+          <p class="mt-3 text-xs text-white/55">
             Positive Δ → theme is over-represented in Bollywood relative to its
             share of the emotion overall. Equation 1 in the paper.
           </p>
@@ -137,7 +137,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
             that only appear robustly on one side:
           </p>
           <pre class="mt-3 p-3 rounded-md bg-ink-950 text-xs text-white/80 overflow-x-auto"><code>convergence = 2 · share_bolly · share_holly / (share_bolly + share_holly)</code></pre>
-          <p class="mt-3 text-xs text-white/45">
+          <p class="mt-3 text-xs text-white/55">
             Original to this demo, not in the paper. High convergence = present
             in both industries with similar prominence.
           </p>
@@ -151,7 +151,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
             among themes where one side is robust (≥3%) and the other under-tells
             (≤2/5 of that share).
           </p>
-          <p class="mt-3 text-xs text-white/45">
+          <p class="mt-3 text-xs text-white/55">
             Indicative of cross-cultural storytelling gaps, not a forecasting metric.
           </p>
         </div>
@@ -164,7 +164,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
             The 2015 cut aligns with the global #MeToo era and major Indian
             legal/social shifts (Nirbhaya aftermath).
           </p>
-          <p class="mt-3 text-xs text-white/45">
+          <p class="mt-3 text-xs text-white/55">
             Per-era sample sizes vary; the most recent Bollywood pride bucket is
             smallest. Direction is consistent across coverage; exact percentages
             in small buckets warrant caution.
@@ -256,12 +256,12 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
         <div class="panel p-5">
           <p class="font-display text-lg text-white">Sunny Rai</p>
           <p class="mt-1 text-sm text-white/60">University of Pennsylvania</p>
-          <p class="mt-2 text-xs text-white/45">Lead author, NAACL 2025; corpus &amp; method.</p>
+          <p class="mt-2 text-xs text-white/55">Lead author, NAACL 2025; corpus &amp; method.</p>
         </div>
         <div class="panel p-5">
           <p class="font-display text-lg text-white">Sharath Chandra Guntuku</p>
           <p class="mt-1 text-sm text-white/60">University of Pennsylvania</p>
-          <p class="mt-2 text-xs text-white/45">Project lead; computational social listening.</p>
+          <p class="mt-2 text-xs text-white/55">Project lead; computational social listening.</p>
           <button type="button"
                   data-mu="c2hhcmF0aGc=" data-md="Y2lzLnVwZW5uLmVkdQ=="
                   class="mt-2 inline-block text-sm text-gold-400 hover:underline">
@@ -271,26 +271,26 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
         <div class="panel p-5">
           <p class="font-display text-lg text-white">Victor Orozco-Olvera</p>
           <p class="mt-1 text-sm text-white/60">World Bank Group · DIME</p>
-          <p class="mt-2 text-xs text-white/45">Development impact evaluation; edutainment RCT evidence.</p>
+          <p class="mt-2 text-xs text-white/55">Development impact evaluation; edutainment RCT evidence.</p>
         </div>
         <div class="panel p-5">
           <p class="font-display text-lg text-white">Niyati Malhotra</p>
           <p class="mt-1 text-sm text-white/60">World Bank Group · DIME</p>
-          <p class="mt-2 text-xs text-white/45">Development impact &amp; media partnerships.</p>
+          <p class="mt-2 text-xs text-white/55">Development impact &amp; media partnerships.</p>
         </div>
         <div class="panel p-5">
           <p class="font-display text-lg text-white">Oluwaseyi Ishola</p>
           <p class="mt-1 text-sm text-white/60">World Bank Group · DIME</p>
-          <p class="mt-2 text-xs text-white/45">Development impact evaluation.</p>
+          <p class="mt-2 text-xs text-white/55">Development impact evaluation.</p>
         </div>
         <div class="panel p-5">
           <p class="font-display text-lg text-white">Ana Maria Munoz Boudet</p>
           <p class="mt-1 text-sm text-white/60">World Bank Group · Gender</p>
-          <p class="mt-2 text-xs text-white/45">Gender data &amp; restrictive-norms strategy.</p>
+          <p class="mt-2 text-xs text-white/55">Gender data &amp; restrictive-norms strategy.</p>
         </div>
       </div>
 
-      <p class="mt-6 text-xs text-white/45">
+      <p class="mt-6 text-xs text-white/55">
         Partner organizations: University of Pennsylvania · World Bank Group
         (DIME &amp; Gender) · USC Annenberg Norman Lear Center.
       </p>

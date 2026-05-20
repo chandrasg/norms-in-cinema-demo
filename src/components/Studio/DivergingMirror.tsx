@@ -155,7 +155,7 @@ export default function DivergingMirror({ trend }: { trend: EraRow[] }) {
       </div>
 
       {/* Sample-size caveat */}
-      <p className="mt-4 text-xs text-white/40 italic">
+      <p className="mt-4 text-xs text-white/55 italic">
         n per industry × era ranges from {Math.min(...points.flatMap(p => [p.bolly_n, p.holly_n]))} to{" "}
         {Math.max(...points.flatMap(p => [p.bolly_n, p.holly_n]))} dialogues
         about pride. Direction is consistent across coverage; small samples in

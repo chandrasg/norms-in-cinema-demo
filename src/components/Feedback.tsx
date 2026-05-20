@@ -126,18 +126,20 @@ export default function Feedback({ endpoint }: Props) {
 
       <textarea
         value={message}
+        aria-label="Feedback message"
         onChange={e => setMessage(e.target.value)}
         placeholder="What would make this most useful in your work? What's missing? What did you want to click that wasn't there?"
         rows={5}
-        className="mt-5 block w-full rounded-xl bg-ink-950 px-4 md:px-5 py-3 md:py-4 text-white placeholder-white/30 ring-1 ring-white/10 focus:outline-none focus:ring-gold-400/50 text-sm leading-relaxed"
+        className="mt-5 block w-full rounded-xl bg-ink-950 px-4 md:px-5 py-3 md:py-4 text-white placeholder-white/50 ring-1 ring-white/20 focus:outline-none focus:ring-gold-400/50 text-sm leading-relaxed"
       />
 
       <input
         type="email"
         value={email}
+        aria-label="Your email (optional)"
         onChange={e => setEmail(e.target.value)}
         placeholder="Email (optional, only if you want a reply)"
-        className="mt-3 block w-full rounded-xl bg-ink-950 px-4 md:px-5 py-3 text-white placeholder-white/30 ring-1 ring-white/10 focus:outline-none focus:ring-gold-400/50 text-sm"
+        className="mt-3 block w-full rounded-xl bg-ink-950 px-4 md:px-5 py-3 text-white placeholder-white/50 ring-1 ring-white/20 focus:outline-none focus:ring-gold-400/50 text-sm"
       />
 
       {error && (
@@ -152,7 +154,7 @@ export default function Feedback({ endpoint }: Props) {
         >
           {loading ? "Sending…" : "Send feedback →"}
         </button>
-        <p className="text-xs text-white/40">
+        <p className="text-xs text-white/55">
           {endpoint
             ? "Logged to a private Google Sheet. No marketing, no list."
             : "Goes to the project lead. No marketing, no list."}

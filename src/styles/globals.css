@@ -15,6 +15,12 @@
     font-family: "Inter", system-ui, -apple-system, sans-serif;
   }
 
+  /* WCAG 2.2 SC 2.4.11 Focus Not Obscured — keep keyboard-focused targets
+     clear of the sticky BrandHeader (~5rem tall) when tabbing through. */
+  html {
+    scroll-padding-top: 5rem;
+  }
+
   /* Kiosk-friendly defaults — generous touch targets, no text selection */
   body {
     -webkit-tap-highlight-color: transparent;

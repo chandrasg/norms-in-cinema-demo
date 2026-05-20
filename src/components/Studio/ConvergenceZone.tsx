@@ -37,7 +37,7 @@ export default function ConvergenceZone({ items }: { items: ConvergenceItem[] })
           return (
             <div key={t.label} className="rounded-lg bg-ink-950/40 ring-1 ring-white/5 px-4 py-3">
               <div className="flex items-baseline gap-3 mb-2">
-                <span className="font-display text-xs text-white/40 w-5 text-right">
+                <span className="font-display text-xs text-white/55 w-5 text-right">
                   {String(i + 1).padStart(2, "0")}
                 </span>
                 <span className={`text-[10px] uppercase tracking-[0.18em] ${
@@ -70,7 +70,7 @@ export default function ConvergenceZone({ items }: { items: ConvergenceItem[] })
         })}
       </div>
 
-      <p className="mt-8 text-xs text-white/40 italic max-w-2xl">
+      <p className="mt-8 text-xs text-white/55 italic max-w-2xl">
         Bars depict share within each industry's total pride or shame themes.
         Themes ranked by harmonic mean penalize those only present in one
         industry. Convergence is the substrate.

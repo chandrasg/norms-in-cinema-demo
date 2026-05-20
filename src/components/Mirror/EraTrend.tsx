@@ -61,7 +61,7 @@ export default function EraTrend({ trend }: { trend: EraRow[] }) {
         />
       </div>
 
-      <p className="mt-8 text-xs text-white/40 italic max-w-2xl">
+      <p className="mt-8 text-xs text-white/55 italic max-w-2xl">
         Era buckets follow the source dataset. n = labeled-gender dialogue count per era·industry.
         Small sample sizes in the most recent bucket (Bollywood pride n={trend[2]?.bolly_pride_n})
         warrant caution, but the direction is consistent across our coverage.
@@ -81,7 +81,7 @@ function Chart({
   return (
     <div>
       <p className="text-xs uppercase tracking-[0.18em] text-white/60">{title}</p>
-      <p className="text-xs text-white/40 mt-0.5 mb-4">{subtitle}</p>
+      <p className="text-xs text-white/55 mt-0.5 mb-4">{subtitle}</p>
 
       <div className="grid grid-cols-3 gap-3">
         {rows.map(r => (
