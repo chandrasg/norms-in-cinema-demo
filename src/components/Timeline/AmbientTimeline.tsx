@@ -78,8 +78,11 @@ export default function AmbientTimeline({ era, era_themes }: Props) {
 
   return (
     <div className="relative overflow-hidden rounded-2xl bg-ink-950 ring-1 ring-white/5 p-10 md:p-16 min-h-[640px]">
-      {/* Controls — pause/next + era progress dots. Pause control satisfies WCAG 2.2.2. */}
-      <div className="absolute top-6 right-6 flex items-center gap-3">
+      {/* Controls — pause/next + era progress dots. Pause satisfies WCAG 2.2.2.
+          Aux controls and dots collapse on small viewports so they don't crowd
+          the era headline; the Pause button stays at all sizes (icon-only on
+          mobile, with aria-label carrying the name). */}
+      <div className="absolute top-6 right-6 flex items-center gap-2 sm:gap-3">
         <button
           type="button"
           onClick={() => setPaused(p => !p)}
@@ -87,17 +90,18 @@ export default function AmbientTimeline({ era, era_themes }: Props) {
           aria-pressed={paused || prefersReducedMotion}
           className="rounded-full bg-white/5 ring-1 ring-white/20 text-white/80 hover:bg-white/10 hover:text-white px-3 py-1 text-xs min-h-[32px] min-w-[44px] transition"
         >
-          {paused || prefersReducedMotion ? "▶ Play" : "❙❙ Pause"}
+          <span className="sm:hidden" aria-hidden="true">{paused || prefersReducedMotion ? "▶" : "❙❙"}</span>
+          <span className="hidden sm:inline" aria-hidden="true">{paused || prefersReducedMotion ? "▶ Play" : "❙❙ Pause"}</span>
         </button>
         <button
           type="button"
           onClick={() => setStep(s => (s + 1) % ERAS.length)}
           aria-label="Next era"
-          className="rounded-full bg-white/5 ring-1 ring-white/20 text-white/80 hover:bg-white/10 hover:text-white px-3 py-1 text-xs min-h-[32px] min-w-[44px] transition"
+          className="hidden sm:inline-flex rounded-full bg-white/5 ring-1 ring-white/20 text-white/80 hover:bg-white/10 hover:text-white px-3 py-1 text-xs min-h-[32px] min-w-[44px] transition"
         >
           Next ›
         </button>
-        <div className="flex gap-2 ml-1" aria-hidden="true">
+        <div className="hidden md:flex gap-2 ml-1" aria-hidden="true">
           {ERAS.map((e, i) => (
             <span
               key={e.key}
