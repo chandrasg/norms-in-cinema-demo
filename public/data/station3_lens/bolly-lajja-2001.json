@@ -9,44 +9,36 @@
     "overview": "Vaidehi (Manisha Koirala) gets married to Raghuvir (Jackie Shroff), an NRI. Suffering the agony of an unhappy marriage, she decides to run away from him when she learns that she is pregnant and he wants to take the child away from her. In her pursuit for freedom, she meets Mythili (Mahima Chaudhury) a bride-to-be, Janaki (Madhuri Dixit) a theatre artist and Ramdulari (Rekha) a village midwife - all of whom are victims of male chauvinism. They however refuse to be put down and fight for their rights."
   },
   "totals": {
-    "shame": 34,
-    "pride": 3
+    "shame": 28,
+    "pride": 2
   },
   "themes": [
     {
       "label": "Sexual Harassment",
-      "count": 6
-    },
-    {
-      "label": "Marital Status",
       "count": 5
     },
     {
       "label": "Self-Image Issues",
-      "count": 5
-    },
-    {
-      "label": "Corruption",
-      "count": 5
+      "count": 4
     },
     {
       "label": "Betrayal",
       "count": 4
     },
     {
+      "label": "Corruption",
+      "count": 4
+    },
+    {
+      "label": "Marital Status",
+      "count": 3
+    },
+    {
       "label": "Dishonesty",
       "count": 3
     },
     {
-      "label": "Inappropriate Behavior",
-      "count": 2
-    },
-    {
       "label": "Promiscuity",
-      "count": 2
-    },
-    {
-      "label": "Identity and Beauty",
       "count": 2
     },
     {
@@ -56,15 +48,23 @@
     {
       "label": "Romantic Expression",
       "count": 1
+    },
+    {
+      "label": "Inappropriate Behavior",
+      "count": 1
+    },
+    {
+      "label": "Identity and Beauty",
+      "count": 1
     }
   ],
   "gender_breakdown": {
     "shame": {
-      "female": 14,
-      "male": 13
+      "female": 12,
+      "male": 10
     },
     "pride": {
-      "male": 3
+      "male": 2
     }
   },
   "dialogues": [
@@ -240,24 +240,6 @@
       "theme_label": "Sexual Harassment"
     },
     {
-      "dialogue_id": "s4950_bolly",
-      "emotion": "shame",
-      "dialogue": "it's a clear road. Sit down anywhere. Behind the boulder or bush..Are you mad? - I do it. You too can do it. - You are shameless! You're a scream. I made you whistle in the theater. Now you're acting all coy.",
-      "target_person": "female character",
-      "target_gender": "female",
-      "cause_raw": "inappropriate public behavior",
-      "theme_label": "Inappropriate Behavior"
-    },
-    {
-      "dialogue_id": "s4951_bolly",
-      "emotion": "shame",
-      "dialogue": "You're a scream. I made you whistle in the theater. Now you're acting all coy. In such matters, it's best to be shameless. Look at the men. They piddle anywhere. They are not worried about who is walking past.",
-      "target_person": "woman",
-      "target_gender": "female",
-      "cause_raw": "not being bold and assertive",
-      "theme_label": "Self-Image Issues"
-    },
-    {
       "dialogue_id": "s4952_bolly",
       "emotion": "shame",
       "dialogue": "We give them the status of a father. And they clamber on our heads! We'll see what happens. Down with Janki! - Fie on Janki! Shame on Purushottam!! Down with Janki! Shame! Shame on Purushottam!! Manish escaped overnight. He has left you alone here.",
@@ -283,24 +265,6 @@
       "target_gender": "male",
       "cause_raw": "Abandonment by Manish",
       "theme_label": "Betrayal"
-    },
-    {
-      "dialogue_id": "s4955_bolly",
-      "emotion": "shame",
-      "dialogue": "No, not even there...You won't even spare the lunatics. A bestial monster like yourself should be bound in a cage at zoo! Don't you have any shame talking to elders like this? When you have no shame marrying a wife half your age why should I be ashamed? Good gracious. Lata, go upstairs.",
-      "target_person": "elderly man",
-      "target_gender": "male",
-      "cause_raw": "marrying a much younger woman",
-      "theme_label": "Marital Status"
-    },
-    {
-      "dialogue_id": "s4956_bolly",
-      "emotion": "shame",
-      "dialogue": "A bestial monster like yourself should be bound in a cage at zoo! Don't you have any shame talking to elders like this? When you have no shame marrying a wife half your age why should I be ashamed? Good gracious. Lata, go upstairs. Women of good homes shouldn't even hear such words.",
-      "target_person": "elderly man",
-      "target_gender": "male",
-      "cause_raw": "marrying a much younger woman",
-      "theme_label": "Marital Status"
     },
     {
       "dialogue_id": "s4957_bolly",
@@ -357,24 +321,6 @@
       "theme_label": "Self-Image Issues"
     },
     {
-      "dialogue_id": "s4963_bolly",
-      "emotion": "shame",
-      "dialogue": "From Sita to Maithili to Janki to Ramdulaari...so many women are being charred in vicious fires! And they will continue to burn in the future! Because we do not feel a sense of shame anymore! Every trace of shame and humanity is dead for us. Proof is this man here!",
-      "target_person": "society",
-      "target_gender": "unclear",
-      "cause_raw": "mistreatment of women",
-      "theme_label": "Corruption"
-    },
-    {
-      "dialogue_id": "s4964_bolly",
-      "emotion": "shame",
-      "dialogue": "And they will continue to burn in the future! Because we do not feel a sense of shame anymore! Every trace of shame and humanity is dead for us. Proof is this man here! He raped a mother. And he set her on fire!",
-      "target_person": "rapist",
-      "target_gender": "male",
-      "cause_raw": "rape and murder",
-      "theme_label": "Sexual Harassment"
-    },
-    {
       "dialogue_id": "p1733_bolly",
       "emotion": "pride",
       "dialogue": "We're still the same we were. Strangers How did you know who's from the boy's family, and who's from the girl's? Simple. Those going around with folded hands, bowing...are from the girl's family. The proud ones belong to the boy's You don't believe? Take a look I can even tell you who the girl's father is",
@@ -385,15 +331,6 @@
     },
     {
       "dialogue_id": "p1734_bolly",
-      "emotion": "pride",
-      "dialogue": "Having a divine woman like yourself in his palace...The evil Ravana must not have been able to keep his hands off you. Hence I forsake you. Oh pride of the Raghu lineage...Every moment I spent in Lanka felt like eternity But I took your name and survived. And the outcome is that... you question my chastity.",
-      "target_person": "Ravana",
-      "target_gender": "male",
-      "cause_raw": "having a divine woman in his palace",
-      "theme_label": "Identity and Beauty"
-    },
-    {
-      "dialogue_id": "p2770_bolly",
       "emotion": "pride",
       "dialogue": "Having a divine woman like yourself in his palace...The evil Ravana must not have been able to keep his hands off you. Hence I forsake you. Oh pride of the Raghu lineage...Every moment I spent in Lanka felt like eternity But I took your name and survived. And the outcome is that... you question my chastity.",
       "target_person": "Ravana",

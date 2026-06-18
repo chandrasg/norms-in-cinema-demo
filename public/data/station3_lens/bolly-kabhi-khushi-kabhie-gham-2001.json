@@ -9,30 +9,30 @@
     "overview": "Years after his father disowns his adopted brother for marrying a woman of lower social standing, a young man goes on a mission to reunite his family."
   },
   "totals": {
-    "shame": 4,
-    "pride": 4
+    "shame": 2,
+    "pride": 3
   },
   "themes": [
     {
-      "label": "Shamelessness",
+      "label": "Parental Pride",
       "count": 2
+    },
+    {
+      "label": "Shamelessness",
+      "count": 1
     },
     {
       "label": "Dishonesty",
-      "count": 2
-    },
-    {
-      "label": "Parental Pride",
-      "count": 2
+      "count": 1
     }
   ],
   "gender_breakdown": {
     "shame": {
-      "male": 2
+      "male": 1
     },
     "pride": {
       "male": 2,
-      "female": 2
+      "female": 1
     }
   },
   "dialogues": [
@@ -47,24 +47,6 @@
     },
     {
       "dialogue_id": "s2896_bolly",
-      "emotion": "shame",
-      "dialogue": "Take my hand and ask me to be yours forever Oh darling you look so beautiful, seems like you have been made for me Your beauty shines so brightly, that it shames the moon Go away you liar, I'm not taken in Don't flatter too much, your giving yourself away",
-      "target_person": "man",
-      "target_gender": "male",
-      "cause_raw": "lying and excessive flattery",
-      "theme_label": "Dishonesty"
-    },
-    {
-      "dialogue_id": "s2903_bolly",
-      "emotion": "shame",
-      "dialogue": "He said life offers you many paths to choose from. You must always choose the one that is right...the one where you don't have to bend... where you don't fall. Never take a step in life...that will bring shame to your family name or prestige. Anyone can make money but earning respect is not everyone's cup of tea. I have not forgotten his words till today.",
-      "target_person": "listener",
-      "target_gender": "unclear",
-      "cause_raw": "bringing shame to family name or prestige",
-      "theme_label": "Shamelessness"
-    },
-    {
-      "dialogue_id": "s2904_bolly",
       "emotion": "shame",
       "dialogue": "Take my hand and ask me to be yours forever Oh darling you look so beautiful, seems like you have been made for me Your beauty shines so brightly, that it shames the moon Go away you liar, I'm not taken in Don't flatter too much, your giving yourself away",
       "target_person": "man",
@@ -98,15 +80,6 @@
       "target_gender": "male",
       "cause_raw": "being the son of Yashvardhan Raichand",
       "theme_label": "Parental Pride"
-    },
-    {
-      "dialogue_id": "p1501_bolly",
-      "emotion": "pride",
-      "dialogue": "He understands my emotions... he understands every breath of mine. I was so wrong... so wrong. I was really proud of you. You were my self-respect. You were my strength. You have taken all that away from me... everything.",
-      "target_person": "speaker",
-      "target_gender": "female",
-      "cause_raw": "",
-      "theme_label": ""
     }
   ]
 }

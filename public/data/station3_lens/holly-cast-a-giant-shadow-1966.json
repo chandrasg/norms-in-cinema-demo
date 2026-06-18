@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 2,
-    "pride": 8
+    "pride": 7
   },
   "themes": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "label": "Future Aspirations",
-      "count": 3
+      "count": 2
     },
     {
       "label": "Self-Image Issues",
@@ -40,7 +40,7 @@
     },
     "pride": {
       "female": 3,
-      "male": 4
+      "male": 3
     }
   },
   "dialogues": [
@@ -88,15 +88,6 @@
       "target_gender": "female",
       "cause_raw": "maintaining self-respect in marriage",
       "theme_label": "Family Honor"
-    },
-    {
-      "dialogue_id": "WP1957_holly",
-      "emotion": "pride",
-      "dialogue": "...that jumped out of one of my planes over Normandy?  He won the distinguished service medal?  Are you proud of that medal, and ashamed you might win the star of David?  Stand up and be counted, Mickey.  And there's a lot of us who'll stand up with you.",
-      "target_person": "Mickey",
-      "target_gender": "male",
-      "cause_raw": "winning the distinguished service medal",
-      "theme_label": "Future Aspirations"
     },
     {
       "dialogue_id": "WP1958_holly",

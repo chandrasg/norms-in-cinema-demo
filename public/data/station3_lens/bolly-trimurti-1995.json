@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 3,
-    "pride": 2
+    "pride": 1
   },
   "themes": [
     {
@@ -24,18 +24,11 @@
     {
       "label": "Romantic Relationships",
       "count": 1
-    },
-    {
-      "label": "Family Honor",
-      "count": 1
     }
   ],
   "gender_breakdown": {
     "shame": {
       "male": 2
-    },
-    "pride": {
-      "male": 1
     }
   },
   "dialogues": [
@@ -74,15 +67,6 @@
       "target_gender": "unclear",
       "cause_raw": "lover's actions",
       "theme_label": "Romantic Relationships"
-    },
-    {
-      "dialogue_id": "p2807_bolly",
-      "emotion": "pride",
-      "dialogue": "Don't you worry.  It's like this you see, sir. When I really lose my temper, I spin like this...But that father of her... I'll...I'll hit him on his bald pate. And that uncle of hers... I'll punch him like this, and break his jaw! Like this... You're here again? - I came to apologise for last night.  I'm so ashamed. - But I'm very proud.  Of me? - Of your actions.  Meaning? - You're a true lover... but you won't be successful.",
-      "target_person": "speaker",
-      "target_gender": "male",
-      "cause_raw": "defending loved one",
-      "theme_label": "Family Honor"
     }
   ]
 }

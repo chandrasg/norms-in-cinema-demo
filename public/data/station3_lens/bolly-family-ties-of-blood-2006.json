@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 5,
-    "pride": 1
+    "pride": 0
   },
   "themes": [
     {
@@ -24,19 +24,12 @@
     {
       "label": "Negligence",
       "count": 1
-    },
-    {
-      "label": "Cultural Identity",
-      "count": 1
     }
   ],
   "gender_breakdown": {
     "shame": {
       "male": 4,
       "female": 1
-    },
-    "pride": {
-      "male": 1
     }
   },
   "dialogues": [
@@ -84,15 +77,6 @@
       "target_gender": "female",
       "cause_raw": "Illness",
       "theme_label": "Self-Image Issues"
-    },
-    {
-      "dialogue_id": "p2747_bolly",
-      "emotion": "pride",
-      "dialogue": "What happened, Hyderbhai? - What worse could happen? Your son and mine went to jail. It's such a shame No shame. It's a matter of pride. - What are you talking about? This is what my father did for as long as he lived What are you saying? - It's a path shown by Gandhi",
-      "target_person": "Hyderbhai",
-      "target_gender": "male",
-      "cause_raw": "following father's path and Gandhi's principles",
-      "theme_label": "Cultural Identity"
     }
   ]
 }

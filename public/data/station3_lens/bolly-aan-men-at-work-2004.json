@@ -10,12 +10,12 @@
   },
   "totals": {
     "shame": 0,
-    "pride": 6
+    "pride": 4
   },
   "themes": [
     {
       "label": "Virtuous Living",
-      "count": 4
+      "count": 2
     },
     {
       "label": "Cultural Identity",
@@ -24,7 +24,7 @@
   ],
   "gender_breakdown": {
     "pride": {
-      "male": 5,
+      "male": 3,
       "female": 1
     }
   },
@@ -55,24 +55,6 @@
       "target_gender": "female",
       "cause_raw": "Om's actions",
       "theme_label": "Cultural Identity"
-    },
-    {
-      "dialogue_id": "p2168_bolly",
-      "emotion": "pride",
-      "dialogue": "Otherwise, if I have to do something..it will be a problem for you throughout your life. I don't know why small police officers like don't understand their worth. What are you so proud about? Hey, if eunuchs like you can have pride....then why can't the police officers like us have it? Walia, raising your hand on a woman is the first token of eunuchs.",
-      "target_person": "police officer",
-      "target_gender": "male",
-      "cause_raw": "his profession",
-      "theme_label": "Virtuous Living"
-    },
-    {
-      "dialogue_id": "p2169_bolly",
-      "emotion": "pride",
-      "dialogue": "I don't know why small police officers like don't understand their worth. What are you so proud about? Hey, if eunuchs like you can have pride....then why can't the police officers like us have it? Walia, raising your hand on a woman is the first token of eunuchs. Shut up!",
-      "target_person": "police officer",
-      "target_gender": "male",
-      "cause_raw": "his profession",
-      "theme_label": "Virtuous Living"
     },
     {
       "dialogue_id": "p2170_bolly",

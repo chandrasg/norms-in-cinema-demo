@@ -222,19 +222,6 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "WS429_holly",
-          "dialogue": "It's half past th, Katharina.  Yes, Mama, I have a watch, too.  I'm so ashamed.  Ashamed!  We wanted to keep calm.",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "not adhering to time",
-          "film": {
-            "title": "Bitter Sweet",
-            "year": "2016",
-            "poster_path": "/rfnmbK3bNWSOwC4QXpoK7zeTbt2.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "s3325_bolly",
           "dialogue": "Will dancing get you good grades? Your father has worked hard to put you into college. Not so you can shame us! Concentrate on your studies. Shameless girl!",
           "industry": "bolly",
@@ -257,6 +244,19 @@
             "title": "Mary",
             "year": "2024",
             "poster_path": "/wpApuf1xky92ug8n5mP5aP7DiDy.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s944_bolly",
+          "dialogue": "Won't you wait for the mother who raised you? I am selfish. Ishika..You have no shame at all, do you? You sent your ex-wife to convince me? We aren't divorced yet.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "selfishness and manipulation",
+          "film": {
+            "title": "De De Pyaar De",
+            "year": "2019",
+            "poster_path": "/lKxbegRPahPDeOYeaDHhsNJDZU8.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -315,18 +315,6 @@
           }
         },
         {
-          "dialogue_id": "s3337_bolly",
-          "dialogue": "A 55-year old widow! Making dirty phone calls to a young boy. Disgusting! - The old woman has no shame. We look up to her as a mother. And see what she's been doing.",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "inappropriate behavior with a young boy",
-          "film": {
-            "title": "Lipstick Under My Burkha",
-            "year": "2017",
-            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
-          }
-        },
-        {
           "dialogue_id": "s5211_bolly",
           "dialogue": "I forgot, Rahul's here. Where's granny? Oh Jesus! Shameless boy. What is your name? Ummm - Rahul. The T.V. 's on.",
           "industry": "bolly",
@@ -336,6 +324,18 @@
             "title": "Ek Main Aur Ekk Tu",
             "year": "2012",
             "poster_path": "/yei87xHRcmf4OhritS6GAju8fdq.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s4340_bolly",
+          "dialogue": "Dean Greetings. To bad with your greetings. Aren't you ashamed of what you're doing here? She is your daughter-in-law. Dear, let's go from here. Tanu, don't be scared. I am here.",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "inappropriate behavior towards daughter-in-law",
+          "film": {
+            "title": "Tanu Weds Manu: Returns",
+            "year": "2015",
+            "poster_path": "/sO3XD6ZDZetb2N6YDQrHLTVQrfq.jpg"
           }
         },
         {
@@ -352,19 +352,6 @@
         }
       ],
       "counter_examples": [
-        {
-          "dialogue_id": "s3335_bolly",
-          "dialogue": "Give it to me. - Come outside! Behave yourself...What's all this‘! You should be ashamed of yourself, auntie! So much for her piety! Auntie, you've sullied the family name.",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "inappropriate behavior",
-          "film": {
-            "title": "Lipstick Under My Burkha",
-            "year": "2017",
-            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
         {
           "dialogue_id": "s3337_bolly",
           "dialogue": "A 55-year old widow! Making dirty phone calls to a young boy. Disgusting! - The old woman has no shame. We look up to her as a mother. And see what she's been doing.",
@@ -388,6 +375,19 @@
             "title": "Sarbjit",
             "year": "2016",
             "poster_path": "/pJTWc13iJeLD0zWpjRBZMBGZwky.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s1516_bolly",
+          "dialogue": "All of you old enough to be married and have your own children! Will you be doing the same at your in-laws? You'll bring nothing but shame on us! Worthless girls! Straighten it!",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "not behaving appropriately",
+          "film": {
+            "title": "Qissa Panjab",
+            "year": "2015",
+            "poster_path": "/5bp08RHdUyI9id5QdUZq2egNNT5.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -446,18 +446,6 @@
           }
         },
         {
-          "dialogue_id": "WS1493_holly",
-          "dialogue": "Dad, you told me to make friends with these kids.  That's all I was trying to... I don't want to hear it.  Dad... You brought shameto this family.  (JAKE SIGHS)  Can I go now?",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "disappointing family",
-          "film": {
-            "title": "Avatar: The Way of Water",
-            "year": "2022",
-            "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
-          }
-        },
-        {
           "dialogue_id": "WS206_holly",
           "dialogue": "He is going to London.  She thought you were Miss Jess.  - She's ashamed. - We're twins.  - I am... sorry. - It's okay.  Um, but why were you scared?",
           "industry": "holly",
@@ -467,6 +455,18 @@
             "title": "The Forest",
             "year": "2016",
             "poster_path": "/1TohqCqMbaiuRLJPrPW0vnQP3lE.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WS956_holly",
+          "dialogue": "Nothing we do has any effect on him.  I failed.  I know you feel ashamed, okay?  So do I.  But you have done great, David.",
+          "industry": "holly",
+          "target_gender": "male",
+          "cause_raw": "failure",
+          "film": {
+            "title": "Beautiful Boy",
+            "year": "2018",
+            "poster_path": "/u2Gfv0mz3xePsgyCPHovrnFL1sB.jpg"
           }
         },
         {
@@ -497,19 +497,6 @@
           "counter_type": "cross_gender"
         },
         {
-          "dialogue_id": "WS206_holly",
-          "dialogue": "He is going to London.  She thought you were Miss Jess.  - She's ashamed. - We're twins.  - I am... sorry. - It's okay.  Um, but why were you scared?",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "mistaken identity",
-          "film": {
-            "title": "The Forest",
-            "year": "2016",
-            "poster_path": "/1TohqCqMbaiuRLJPrPW0vnQP3lE.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "WS272_holly",
           "dialogue": "- Good luck, Mrs. Hanson. - You too.  Who doesn't want a shortcut to greatness?  Oh, it's a goddamn shame about the Muenster.  Mr. President.  Yeah, Shelly?",
           "industry": "holly",
@@ -519,6 +506,19 @@
             "title": "The Contender",
             "year": "2000",
             "poster_path": "/duRe0F2GYHIDvqe2bqIAMP4gWeP.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WS861_holly",
+          "dialogue": "I started writing poetry,  and then I decided I would start my own press.  I called the press Shameless Hussy  because my mother used that term  for women she didn't approve of,",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "disapproval of daughter's actions",
+          "film": {
+            "title": "She's Beautiful When She's Angry",
+            "year": "2014",
+            "poster_path": "/oDmeDTNKbbR8P0ukjff1Ey77dl1.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -565,18 +565,6 @@
           }
         },
         {
-          "dialogue_id": "WS1213_holly",
-          "dialogue": "♪ But I am old ♪ ♪ I am ugly ♪  - ♪ I embarrass you ♪ - No!  ♪ You are ashamed of me ♪  No!  ♪ You are ashamed ♪",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "being old and unattractive",
-          "film": {
-            "title": "Into the Woods",
-            "year": "2014",
-            "poster_path": "/6bZC6KGfCwTMmwXmrLJQhxuRjlT.jpg"
-          }
-        },
-        {
           "dialogue_id": "WS84_holly",
           "dialogue": "and shouldn't cause any trouble.  I mean, he belittled and ridiculed Kurt.  And Kurt would be ashamed.  I mean, it really hurt him to be embarrassed.  Then, I don't know.",
           "industry": "holly",
@@ -601,6 +589,18 @@
           }
         },
         {
+          "dialogue_id": "WS260_holly",
+          "dialogue": "And self-waxing is not weird.  I don't appreciate your body-hair-removal shaming.  Shame on you! And you!  You've been fine.  Did you hear that? What is that?",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "body hair removal",
+          "film": {
+            "title": "Rough Night",
+            "year": "2017",
+            "poster_path": "/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg"
+          }
+        },
+        {
           "dialogue_id": "s1966_bolly",
           "dialogue": "AtoZ to even abuse me from A to Z you need me...and you have the guts to be ashamed of me ! How dare you be ashamed of me ? Who the hell you think you are to be ashamed of me? Who?",
           "industry": "bolly",
@@ -615,19 +615,6 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "WS1213_holly",
-          "dialogue": "♪ But I am old ♪ ♪ I am ugly ♪  - ♪ I embarrass you ♪ - No!  ♪ You are ashamed of me ♪  No!  ♪ You are ashamed ♪",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "being old and unattractive",
-          "film": {
-            "title": "Into the Woods",
-            "year": "2014",
-            "poster_path": "/6bZC6KGfCwTMmwXmrLJQhxuRjlT.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "s3476_bolly",
           "dialogue": "She talked rubbish! She was the only woman in our neighbourhood who raised her voice. I was ashamed of her. You women are an ungrateful breed. You love talking too.",
           "industry": "bolly",
@@ -641,15 +628,28 @@
           "counter_type": "cross_gender"
         },
         {
-          "dialogue_id": "WS260_holly",
-          "dialogue": "And self-waxing is not weird.  I don't appreciate your body-hair-removal shaming.  Shame on you! And you!  You've been fine.  Did you hear that? What is that?",
-          "industry": "holly",
+          "dialogue_id": "s2208_bolly",
+          "dialogue": "What a shame ! Everything's going...everything ! Shame ! Shame on me ! Couldn't save a thing ! Shame ! Oh my goodness ! Oh, Lata !",
+          "industry": "bolly",
           "target_gender": "female",
-          "cause_raw": "body hair removal",
+          "cause_raw": "inability to protect or save something",
           "film": {
-            "title": "Rough Night",
-            "year": "2017",
-            "poster_path": "/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg"
+            "title": "Goynar Baksho",
+            "year": "2013",
+            "poster_path": "/v0H3pgHolg2kGt0MUKBIeTMol4y.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s2209_bolly",
+          "dialogue": "Everything's going...everything ! Shame ! Shame on me ! Couldn't save a thing ! Shame ! Oh my goodness ! Oh, Lata ! Can you do me a favour ?",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "inability to protect or save something",
+          "film": {
+            "title": "Goynar Baksho",
+            "year": "2013",
+            "poster_path": "/v0H3pgHolg2kGt0MUKBIeTMol4y.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -746,32 +746,6 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "s2382_bolly",
-          "dialogue": "I'll speak with Laila. –He'll make your life better. –Money. Fame. –Respect. He bestows with respect and shame. He bestows with respect and shame. Let's see what you deserve.",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "being coerced into a relationship for material benefits",
-          "film": {
-            "title": "Heropanti 2",
-            "year": "2022",
-            "poster_path": "/2TxkhMrM98iUb74Dqbkdco3ED0X.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
-          "dialogue_id": "s2905_bolly",
-          "dialogue": "-Please hear him out. -Shut up! How dare you bring him home? Shameless girl! Don't you care about our reputation? Listen to me carefully.",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "bringing a boy home without permission",
-          "film": {
-            "title": "Kabir Singh",
-            "year": "2019",
-            "poster_path": "/unqiPjtc6CGqs13zho7ZvWU85zu.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "s5306_bolly",
           "dialogue": "I've heard a lot about you. I hope you won't disappoint me. I'm going to forsake all shame. And make you my queen. Tonight we're going to have some fun, baby..under the dim light.",
           "industry": "bolly",
@@ -781,6 +755,32 @@
             "title": "Gabbar Is Back",
             "year": "2015",
             "poster_path": "/dhIVF43jCqVzxuo11hYcHQxjzS6.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s4177_bolly",
+          "dialogue": "He accosts me. He stalks me on my way to Yamuna Shameless, jobless When he throws a stone my pot breaks Smooth talker, he enchants me",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "stalking and harassment",
+          "film": {
+            "title": "Shubh Mangal Saavdhan",
+            "year": "2017",
+            "poster_path": "/2vqW0VNvaQYSarPQtqHTRkOKQq8.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s1698_bolly",
+          "dialogue": "You won't be able to find them again My lips which are like glasses and these pink moments are all Yours Remove this cloth of shame slowly slowly,  Don't you know who I am? No.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "sexual objectification",
+          "film": {
+            "title": "Rocky Handsome",
+            "year": "2016",
+            "poster_path": "/x6jfeYy7KTBk4eS0kMUHTd4sGtZ.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -877,19 +877,6 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "s1280_bolly",
-          "dialogue": "My husband drives me to the bus stop, So I can teach the children in the next village. What is shameful about that? Do not flaunt your education here! We also educate our kids!",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "being educated and working",
-          "film": {
-            "title": "Parched",
-            "year": "2015",
-            "poster_path": "/cpuW4xGdUVZep3Otwo97xnEzdWi.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "s2669_bolly",
           "dialogue": "But now you're putting my decency to test by roaming around with a goon in the middle of the night. Shameless! You will marry whoever I tell you to. How is your son-in-law?",
           "industry": "bolly",
@@ -912,6 +899,19 @@
             "title": "Dum Laga Ke Haisha",
             "year": "2015",
             "poster_path": "/c9TX2kH1rG7QYEl09flOVg82QdU.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s971_bolly",
+          "dialogue": "She saw me and opened the door trustingly. And then there was a scuffle. Her intention was bad. That shameless girl made my plight bad. Shameless. I am ecstatic. In merriment.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "having bad intentions",
+          "film": {
+            "title": "Deewana Main Deewana",
+            "year": "2013",
+            "poster_path": "/6G1iMFCIpm8xhnzTB1DviyYG29g.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -1008,19 +1008,6 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "WP403_holly",
-          "dialogue": "I'mma go punch a b***h in the throat.  Lindsey! You bilingual b***h!  So proud of you.  Hannah!  Dad!",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "being bilingual",
-          "film": {
-            "title": "Fifty Shades of Black",
-            "year": "2016",
-            "poster_path": "/nkGhv7WMbyX7tL8CJkvMY3S2lW.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "WP75_holly",
           "dialogue": "Madam President.  Oh, jeez, Mom.  I'm so proud of you, honey.  And I made a special meal.  Well, I got a special meal.",
           "industry": "holly",
@@ -1043,6 +1030,19 @@
             "title": "Kabir Singh",
             "year": "2019",
             "poster_path": "/unqiPjtc6CGqs13zho7ZvWU85zu.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP1618_holly",
+          "dialogue": "Irčne's a pretty name.  We have to see this war through. We'll return with honour.  Irčne will be proud of you.  Listen to this.  \"After the war, I return to Marseilles, Irčne.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "returning with honour from war",
+          "film": {
+            "title": "Days of Glory",
+            "year": "2006",
+            "poster_path": "/d78c7G8wDVGUTWH95tpuEGiK6IZ.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -1139,32 +1139,6 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "s3323_bolly",
-          "dialogue": "Go on! Get me married against my will. Go on! Shameless wretch! Even if gifted a diamond you'll still choose the piece of coal.",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "forced marriage",
-          "film": {
-            "title": "Lipstick Under My Burkha",
-            "year": "2017",
-            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
-          "dialogue_id": "s3463_bolly",
-          "dialogue": "I was about to......call you! Okay. I'm slightly ashamed but I'll be honest. Rumi has agreed to another proposal. So... we have to turn down your client!",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "rejected marriage proposal",
-          "film": {
-            "title": "Manmarziyaan",
-            "year": "2018",
-            "poster_path": "/spTuL3PJFYQsxBdAHbUJlHtwwyi.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "s4540_bolly",
           "dialogue": "I mean she is getting a divorce. It's no small matter. The girl has no shame at all. She drinks straight up. Really? I've heard she's into drugs as well.",
           "industry": "bolly",
@@ -1174,6 +1148,32 @@
             "title": "Veere Di Wedding",
             "year": "2018",
             "poster_path": "/yeXnYRRQE2MT7s04uUfKS696cqi.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s5342_bolly",
+          "dialogue": "Somebody is inside my womb. So, I am not taking him out. Don't you feel shame? You will make your kid dirty? This is not right...When somebody is already inside",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "being pregnant out of wedlock",
+          "film": {
+            "title": "Gangs of Wasseypur - Part 1",
+            "year": "2012",
+            "poster_path": "/xAy208Znkingmfnb5ZbULwLyIwW.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WS1004_holly",
+          "dialogue": "from the mouth of one of your mother's girls.  I've always known I would marry rich.  - Why should I be ashamed? - Nothing to be ashamed of,  as long as you love him.  I believe we have some power over who we love.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "marrying for money",
+          "film": {
+            "title": "Little Women",
+            "year": "2019",
+            "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -1244,15 +1244,15 @@
           }
         },
         {
-          "dialogue_id": "WS1006_holly",
-          "dialogue": "No, I need to be here.  I've spent my whole life ashamed of my country.  No offense meant, but you should still be ashamed.  I know. I am.  - Hello, sir. - Hello, ma'am.",
+          "dialogue_id": "WS1425_holly",
+          "dialogue": "# Through this night #  You should have come to me, God damn it.  I was ashamed.  Ashamed of myself.  My family.",
           "industry": "holly",
           "target_gender": "male",
-          "cause_raw": "ashamed of his country",
+          "cause_raw": "self-shame due to personal and family issues",
           "film": {
-            "title": "Little Women",
-            "year": "2019",
-            "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
+            "title": "Crossing Over",
+            "year": "2009",
+            "poster_path": "/6A4WdvbWHJoIN4Y9Q5HXG8R1VYV.jpg"
           }
         },
         {
@@ -1269,19 +1269,6 @@
         }
       ],
       "counter_examples": [
-        {
-          "dialogue_id": "s3486_bolly",
-          "dialogue": "O Baby They are high on fun. And starting to be shameless. Plug my pin in your socket. Charge my heart day and night.",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "behaving shamelessly",
-          "film": {
-            "title": "Mastizaade",
-            "year": "2016",
-            "poster_path": "/5d7A6HJS7d8R2LDb4JG4pS5c5hr.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
         {
           "dialogue_id": "WS194_holly",
           "dialogue": "Okay.  (Tamika sighs) You two are too much.  Don't worry, we ain't got no shame.  And we get results.  (Dramatic music)",
@@ -1305,6 +1292,19 @@
             "title": "Great Grand Masti",
             "year": "2016",
             "poster_path": "/vbbH4PoR6SPhVbospP1nFHzHpiz.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s968_bolly",
+          "dialogue": "That shameless girl made my plight bad. Shameless. Shameless. Shameless girl. Shameless girl. Shameless. Shameless. Shameless girl. Shameless girl. Shameless. I paid Re.1.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "behaving shamelessly",
+          "film": {
+            "title": "Deewana Main Deewana",
+            "year": "2013",
+            "poster_path": "/6G1iMFCIpm8xhnzTB1DviyYG29g.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -1401,19 +1401,6 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "WP1700_holly",
-          "dialogue": "She knows it's deadly.  They've just entered Kali's new realm.  The River Pride lionesses  once again proclaim their ownership of the pride lands.  They have made peace with Kali.",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "proclaiming ownership of the pride lands",
-          "film": {
-            "title": "African Cats",
-            "year": "2011",
-            "poster_path": "/nERPMF2kHjc1slLHZYZGwcWX9kg.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "WP2391_holly",
           "dialogue": "They would have killed him, too.  And my daughter,  she's ashamed of me. And I am proud of her for it.  I'm sorry.  Why?",
           "industry": "holly",
@@ -1436,6 +1423,19 @@
             "title": "Snow White",
             "year": "2025",
             "poster_path": "/oLxWocqheC8XbXbxqJ3x422j9PW.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP1701_holly",
+          "dialogue": "They've just entered Kali's new realm.  The River Pride lionesses  once again proclaim their ownership of the pride lands.  They have made peace with Kali.  Their new ruler has become a committed protector.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "proclaiming ownership of the pride lands",
+          "film": {
+            "title": "African Cats",
+            "year": "2011",
+            "poster_path": "/nERPMF2kHjc1slLHZYZGwcWX9kg.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -1663,19 +1663,6 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "s5125_bolly",
-          "dialogue": "No need for your tears, mother Nothing happened. I am intact Have some shame Be modest in front of your father Explain to her",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "lack of modesty",
-          "film": {
-            "title": "Dum Laga Ke Haisha",
-            "year": "2015",
-            "poster_path": "/c9TX2kH1rG7QYEl09flOVg82QdU.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "s4329_bolly",
           "dialogue": "No, no Hold back? In Corsica? What to do? Shame is a woman's wealth I won't...What?...be a rascal Move. Don't hold back. I'll be good",
           "industry": "bolly",
@@ -1698,6 +1685,19 @@
             "title": "All Is Well",
             "year": "2015",
             "poster_path": "/hsruH6BJCDy5ELSB7u9oZKryf2M.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s2414_bolly",
+          "dialogue": "Normal! With those tics?! She's constantly ashamed of these noises. She's ashamed? Or are you?! Have you forgotten, why we separated? Look... Naina is still my daughter.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "having tics",
+          "film": {
+            "title": "Hichki",
+            "year": "2018",
+            "poster_path": "/awN7MPVHcubWEqfo7T5jidx3xYY.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -1938,19 +1938,6 @@
           "counter_type": "cross_gender"
         },
         {
-          "dialogue_id": "s2455_bolly",
-          "dialogue": "Shut up, woman. What's the point in making steel locks.....when your fair neighbor had the key to your house. Have some shame. You shut up. Your fate black.",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "infidelity",
-          "film": {
-            "title": "Housefull 2",
-            "year": "2012",
-            "poster_path": "/y6L3GpfXWqfO7COtUyiEeACH35G.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "s1677_bolly",
           "dialogue": "Rina has found everything out How could you do this? Aren't you ashamed? I need to talk to Rina Shruti, I don't want to talk to anyone. Come on",
           "industry": "bolly",
@@ -1960,6 +1947,19 @@
             "title": "Rehnaa Hai Terre Dil Mein",
             "year": "2001",
             "poster_path": "/qTKDqkD5h5ADx9ZoBh6RWNz4DcV.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s3187_bolly",
+          "dialogue": "And Madhu is always frustrated to meet him. I didn't want Madhu to be tense. Aren't you ashamed? You're still lying. Like a journeyer. Like a companion. Who treaded along with me.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "Lying",
+          "film": {
+            "title": "Kucch Luv Jaisaa",
+            "year": "2011",
+            "poster_path": "/naLQclim2cELtKmKXUco0QwEXi2.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -2056,32 +2056,6 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "WP935_holly",
-          "dialogue": "I am a broken,  desperate,  woman full of pride.  But I get it.  I have to let him go.",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "letting go of someone",
-          "film": {
-            "title": "Breakthrough",
-            "year": "2019",
-            "poster_path": "/lUd2FNC8cMCcHyRMNZtVC48p3xH.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
-          "dialogue_id": "WP2150_holly",
-          "dialogue": "Well, not exactly Ansel Adams, but I think it went pretty well.  Oh, my god.  I'm so proud of you. That's great.  It felt great to shoot again. It-it... Yeah. Yeah.  Yeah. Yeah.",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "for shooting again",
-          "film": {
-            "title": "Camera Obscura",
-            "year": "2017",
-            "poster_path": "/85kxkK6dU2DudXWfaUhTLu3pvU1.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "p1315_bolly",
           "dialogue": "See you. The caravan of life, with countless desires. Filled with pride, always trying to exceed yourself.  Yeah, mom.  There is no problem.",
           "industry": "bolly",
@@ -2091,6 +2065,32 @@
             "title": "Inkaar",
             "year": "2013",
             "poster_path": "/qjrTqFoVJAcG4426KCssLzkogs.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p2428_bolly",
+          "dialogue": "Only God knows. God alone knows that. You're so intoxicating...My pride is drunk too-\". My entire being ls lost to you. You've so conquered me.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "being conquered by someone",
+          "film": {
+            "title": "Teri Meri Kahaani",
+            "year": "2012",
+            "poster_path": "/rUo1qX8RklC3FfKnkYAXffSAQ1O.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP1607_holly",
+          "dialogue": "but our need to do what we believe is right... ... that doesn't.  ... that doesn't.  I'm proud of you.  Thanks, Mom. Hey, I got to go. Can we talk later?  Sure.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "doing what is believed to be right",
+          "film": {
+            "title": "Secretariat",
+            "year": "2010",
+            "poster_path": "/6YJ39NqRJ0ljUQohizHmE2hB6Wh.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -2292,15 +2292,15 @@
           }
         },
         {
-          "dialogue_id": "WP1920_holly",
-          "dialogue": "- The girl in the violet dress. - Mm. It's very pretty.  She reminds me to be good  so Father will be proud of me when he returns.  Where is he?  He volunteered for the Union Army.",
+          "dialogue_id": "WP1796_holly",
+          "dialogue": "He was a wonderFul man.  You can be proud of him son.  Vey proud.  Come on Roy.  Wow, that was great Mr. Spery.",
           "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "being good while her father is away",
+          "target_gender": "male",
+          "cause_raw": "his father's character",
           "film": {
-            "title": "Little Women",
-            "year": "2019",
-            "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
+            "title": "The Secrets of Jonathan Sperry",
+            "year": "2008",
+            "poster_path": "/ApDGWWKLULc8gZuZlEnK9CZgYU1.jpg"
           }
         },
         {
@@ -2318,32 +2318,6 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "WP2661_holly",
-          "dialogue": "Thank you.  I had a black boyfriend once.  Your mother must be proud.  Yep.  And I'd do it again.",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "daughter's interracial relationship",
-          "film": {
-            "title": "Trainwreck",
-            "year": "2015",
-            "poster_path": "/wrY629UTCUAKLJ4CxQXz6DCE7pr.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
-          "dialogue_id": "WP681_holly",
-          "dialogue": "- The girl in the violet dress. - Mm.  It's very pretty.  She reminds me to be good, so Father will be proud when he returns.  Where is he?  He volunteered for the Union Army.",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "being good while her father is away",
-          "film": {
-            "title": "Little Women",
-            "year": "2019",
-            "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "WP1920_holly",
           "dialogue": "- The girl in the violet dress. - Mm. It's very pretty.  She reminds me to be good  so Father will be proud of me when he returns.  Where is he?  He volunteered for the Union Army.",
           "industry": "holly",
@@ -2353,6 +2327,32 @@
             "title": "Little Women",
             "year": "2019",
             "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP1578_holly",
+          "dialogue": "I am the president of the PTA,  but most importantly,  I am the proud mommy to two beautiful daughters,  Blaire and Gandhi.  Now, I called this emergency PTA meeting",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "having two beautiful daughters",
+          "film": {
+            "title": "Bad Moms",
+            "year": "2016",
+            "poster_path": "/u9q10ljhkLj0tNCjlVqe3DCjoU4.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP1579_holly",
+          "dialogue": "who are actually decent and kind  and somehow you've done that.  And you should be really proud.  You're a f*****' great mom.  On, oh... Oh, my. I'm so sorry.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "being a great mom",
+          "film": {
+            "title": "Bad Moms",
+            "year": "2016",
+            "poster_path": "/u9q10ljhkLj0tNCjlVqe3DCjoU4.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -2399,18 +2399,6 @@
           }
         },
         {
-          "dialogue_id": "s3333_bolly",
-          "dialogue": "Just because you've earned a few cents‘! To talk to you, I have to meet your mistress! Shameless! You're the one who's shameless. Seeing another woman... no job, no salary.",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "being jobless and dependent on a woman",
-          "film": {
-            "title": "Lipstick Under My Burkha",
-            "year": "2017",
-            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
-          }
-        },
-        {
           "dialogue_id": "s4334_bolly",
           "dialogue": "Sister-in-law Tanu. Aren't you ashamed? Why would I be ashamed? Pappi is going crazy for you. And you want to know why you should be ashamed.",
           "industry": "bolly",
@@ -2432,6 +2420,18 @@
             "title": "Tamasha",
             "year": "2015",
             "poster_path": "/8Ktf15qGVFYQ6CdBtBgCDM96UMC.jpg"
+          }
+        },
+        {
+          "dialogue_id": "s4587_bolly",
+          "dialogue": "You could've kissed her lips, but you kissed her cheek instead. This happened in the 70's. Shame on you. Bhai... you should've done as she did. Lip-to-lip, bhai.",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "not being bold in romantic advances",
+          "film": {
+            "title": "Welcome Back",
+            "year": "2015",
+            "poster_path": "/xnRIT3ggVcJxGWylKw85n6pteLp.jpg"
           }
         },
         {
@@ -2462,28 +2462,28 @@
           "counter_type": "cross_gender"
         },
         {
-          "dialogue_id": "s4328_bolly",
-          "dialogue": "There's the flag of rebellion soaring high The Emperor feared......the Prince would fall in love Bring shame to his name Helen belonged to Troy The undefeatable Raavan",
+          "dialogue_id": "s2591_bolly",
+          "dialogue": "It's because...you have finally come to India. After completing your MBA. You're very shameless. You didn't introduce any of your girlfriends to me. - Oh. - I'm sorry.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "falling in love with someone inappropriate",
+          "cause_raw": "not introducing girlfriends",
           "film": {
-            "title": "Tamasha",
-            "year": "2015",
-            "poster_path": "/8Ktf15qGVFYQ6CdBtBgCDM96UMC.jpg"
+            "title": "Ishq Click",
+            "year": "2016",
+            "poster_path": "/fofrIwTmhEO1T8f3FHYbQONdtzj.jpg"
           },
           "counter_type": "cross_gender"
         },
         {
-          "dialogue_id": "s4587_bolly",
-          "dialogue": "You could've kissed her lips, but you kissed her cheek instead. This happened in the 70's. Shame on you. Bhai... you should've done as she did. Lip-to-lip, bhai.",
+          "dialogue_id": "s2980_bolly",
+          "dialogue": "This is your girlfriend?! This! Disgusting! Do you feel no shame?! When did these lies start? Did you think about us even once?! About Dadu, about Dad...Think about Dad?!",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "not being bold in romantic advances",
+          "cause_raw": "dating a girl deemed unacceptable",
           "film": {
-            "title": "Welcome Back",
-            "year": "2015",
-            "poster_path": "/xnRIT3ggVcJxGWylKw85n6pteLp.jpg"
+            "title": "Kapoor & Sons",
+            "year": "2016",
+            "poster_path": "/oPdcOInH8TqR5udDTDPiDuLSN90.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -2711,32 +2711,6 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "s19_bolly",
-          "dialogue": "The bills for all the expenses. Just give me 300,000.. - Curse you, you wretch. Don't you have any shame? You want us to pay for your husband's final rites. Liar.",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "asking for money for husband's final rites",
-          "film": {
-            "title": "All Is Well",
-            "year": "2015",
-            "poster_path": "/hsruH6BJCDy5ELSB7u9oZKryf2M.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
-          "dialogue_id": "s2810_bolly",
-          "dialogue": "God bless you. She'll never change. Eventually, she did ask for money. She's shameless. Don't say that. She's your mother. I have to send money anyway. Once I'm back--",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "asking for money",
-          "film": {
-            "title": "Jugni",
-            "year": "2016",
-            "poster_path": "/fQjHWynvrbmzeegmmOGWFo8iTOi.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "s975_bolly",
           "dialogue": "I paid Re.1. Shameless. Shameless girl. Shameless girl. Shameless. Shameless. Shameless girl. Shameless girl. Shameless. I paid Re.1. She saw me and opened the door trustingly.",
           "industry": "bolly",
@@ -2746,6 +2720,32 @@
             "title": "Deewana Main Deewana",
             "year": "2013",
             "poster_path": "/6G1iMFCIpm8xhnzTB1DviyYG29g.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s184_bolly",
+          "dialogue": "What'll I say? You'll have to take the money. I don't want to be shamed by your charity. Let's go, dear. Come on. Thank you. You have been very kind.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "accepting charity",
+          "film": {
+            "title": "Apaharan",
+            "year": "2005",
+            "poster_path": "/gZbY2w5NKuJZ8XBmIPZnG2P7X5L.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s4488_bolly",
+          "dialogue": "How was the meeting? You sent me to such cheap people. They don't want a heroine...I feel ashamed even to say it. Package deal. Scoundrels. You are over-reacting.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "sexual exploitation",
+          "film": {
+            "title": "U R My Jaan",
+            "year": "2011",
+            "poster_path": "/cu9ijBL0kq3w0Q01Zqlg8K9Vz8d.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -2804,27 +2804,27 @@
           }
         },
         {
-          "dialogue_id": "s4138_bolly",
-          "dialogue": "shames the entire nation. He who shames a woman shames his mum by implication You're a shame to your constellation. So what if your face makes babies cry?",
+          "dialogue_id": "s3808_bolly",
+          "dialogue": "I am a Collector. Many people come here. Aren't you ashamed ? I've been so polite for the past few days. Now will you understand when I abuse you'?",
           "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "disrespecting women",
+          "target_gender": "unclear",
+          "cause_raw": "disrespecting authority",
           "film": {
-            "title": "Shaandaar",
-            "year": "2015",
-            "poster_path": "/5P4zbvCglw1WW61aCol3vJ1N28j.jpg"
+            "title": "Nil Battey Sannata",
+            "year": "2016",
+            "poster_path": "/fvsPtLdIFM4lsjFX5CQ1X6yjzSZ.jpg"
           }
         },
         {
-          "dialogue_id": "s4139_bolly",
-          "dialogue": "He who shames a woman shames his mum by implication You're a shame to your constellation. So what if your face makes babies cry? You can say nice things and make a try",
+          "dialogue_id": "s2252_bolly",
+          "dialogue": "You're not like me 'coz you're a fake. A snake for women A blot on mankind. My words have more heat than you Shame on you! You have no future. You have no strength.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "disrespecting women",
+          "cause_raw": "disrespecting women and being dishonest",
           "film": {
-            "title": "Shaandaar",
-            "year": "2015",
-            "poster_path": "/5P4zbvCglw1WW61aCol3vJ1N28j.jpg"
+            "title": "Gully Boy",
+            "year": "2019",
+            "poster_path": "/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg"
           }
         },
         {
@@ -3104,19 +3104,6 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "s1857_bolly",
-          "dialogue": "And the seed of fraud was slowly nurturing inside her. So that this very love of hers may not become. . . .the ingredient for her shame. . Rupa. Rupa. Rupa.",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "Fraudulent activities",
-          "film": {
-            "title": "Sanam Teri Kasam",
-            "year": "2016",
-            "poster_path": "/3jKqSy87GVUsXdhwhcO7O1UqrjO.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "s2212_bolly",
           "dialogue": "Brazen hussy, bringing shame ! Ruining our familyname ! Now you want to start your game......of doing business ! Shame ! Did you hear my Father's words ? Hmm ?",
           "industry": "bolly",
@@ -3139,6 +3126,19 @@
             "title": "Deadfall",
             "year": "2012",
             "poster_path": "/5ZM6uKhuEzWZD3xklmqKPuvq1Nj.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WS1496_holly",
+          "dialogue": "That book belongs to me, rat.  It belongs to my Uncle Reed.  Spoilt, miserable brat!  Mama! For shame!  Mama!  You wretched imp!  She attacked me.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "attacking and stealing",
+          "film": {
+            "title": "Jane Eyre",
+            "year": "2011",
+            "poster_path": "/3Cn7D0wEaxnvm8kTta1osNu3QJv.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -3209,15 +3209,15 @@
           }
         },
         {
-          "dialogue_id": "s1428_bolly",
-          "dialogue": "Enough. Shame on you! -Thakur Tejpratap Singh! -Shame on you! The papers have been leaked for the third year in a row. These papers have been sold for about five lakh rupees.",
+          "dialogue_id": "s1547_bolly",
+          "dialogue": "They can do anything for debauchery. And officers like ustake orders from them, sir. Shameless people. Some of them, Khanna. They give a bad nameto all the politicians.",
           "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "corruption in education system",
+          "target_gender": "unclear",
+          "cause_raw": "debauchery and corruption",
           "film": {
-            "title": "Pranaam",
-            "year": "2019",
-            "poster_path": "/115f1t03C35rSQmfOupJ9DdkcjG.jpg"
+            "title": "Race 3",
+            "year": "2018",
+            "poster_path": "/wtnA5mmNumYkeevokar6IskyrZP.jpg"
           }
         },
         {
@@ -3365,19 +3365,6 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "WP430_holly",
-          "dialogue": "Really good.  [cheering]  Come here, baby!  Momma is so proud of you.  Great game, son. Great game.  Who is this?  This is Johnnie.",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "son's great game",
-          "film": {
-            "title": "Woodlawn",
-            "year": "2015",
-            "poster_path": "/BJ1XNBBEiqaCM4SQhHYTrWqCfn.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "p604_bolly",
           "dialogue": "No, son. Soldiers who sacrifice for county never die....but they become immortal. I'm proud to be his mother. A martyr's mother. Aunt..Never mind, son.",
           "industry": "bolly",
@@ -3400,6 +3387,19 @@
             "title": "Dolly Ki Doli",
             "year": "2015",
             "poster_path": "/8xn2K7FAa8JI8sXITW5M92b6u1Y.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "p2347_bolly",
+          "dialogue": "My short film made you cry. Can't help it. I'm so proud to be your mom. You made a big point, son. This short film will remind everyone....about their mom's sacrifices.",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "son's achievement in filmmaking",
+          "film": {
+            "title": "Super Nani",
+            "year": "2014",
+            "poster_path": "/jpYoXymC50WxvqhZunSPdpp6njA.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -3496,41 +3496,41 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "s3328_bolly",
-          "dialogue": "You bought it from a shop‘! Of course not! Got it from the clinic. I thought you've been shameless buying condoms instead of groceries! How could I do such a thing‘!",
+          "dialogue_id": "s5138_bolly",
+          "dialogue": "Sorry, sir. Hey.. what's your name? Aryan Bhargav. Bhargav. D'Souza. Aren't you ashamed? Why? Okay..Do you know what you were doing in the car? I know. I was loving.",
           "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "buying condoms",
+          "cause_raw": "Public display of affection",
           "film": {
-            "title": "Lipstick Under My Burkha",
-            "year": "2017",
-            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
+            "title": "Dunno Y Na Jaane Kyun...",
+            "year": "2010",
+            "poster_path": "/i5V3Ny58jLTf478NKPuQ9S5sbr7.jpg"
           },
           "counter_type": "cross_gender"
         },
         {
-          "dialogue_id": "WS839_holly",
-          "dialogue": "There's a code? What code?  Shut up, Mr. three-way.  No, have you no shame?  For Christ sakes.  He's not in here, dear.",
-          "industry": "holly",
+          "dialogue_id": "s5099_bolly",
+          "dialogue": "What? What can I say... Give me a kiss. - Shameless! - What's wrong? - You have no shame. Go! - What's shame got to do...- What? - Something important to say. Come there.",
+          "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "engaging in promiscuous behavior",
+          "cause_raw": "asking for physical intimacy inappropriately",
           "film": {
-            "title": "10 Rules for Sleeping Around",
-            "year": "2013",
-            "poster_path": "/dX8IMDXbVWJ7fq0AX0efog1SMX5.jpg"
+            "title": "Dost",
+            "year": "2001",
+            "poster_path": "/8dzOcUADTCiSLK3akKE46uCoxax.jpg"
           },
           "counter_type": "cross_gender"
         },
         {
-          "dialogue_id": "WS845_holly",
-          "dialogue": "- Quiet. - They don't belong here.  - Quiet down. - Get the faggots out of here.  Now, shame on you.  - How dare you? - Haggis.  No, Hal.",
-          "industry": "holly",
+          "dialogue_id": "s293_bolly",
+          "dialogue": "Rani, open the door And give me my clothes Don't you come out like that, you shameless fellow Get dressed and come out. Fast Breakfast before you leave",
+          "industry": "bolly",
           "target_gender": "male",
-          "cause_raw": "homophobia",
+          "cause_raw": "indecent exposure",
           "film": {
-            "title": "Zombieworld",
-            "year": "2015",
-            "poster_path": "/2lV2lU0u8dTczqsx4dgqrL2eN4J.jpg"
+            "title": "Baaghi",
+            "year": "2000",
+            "poster_path": "/yMUwKZ5BumGVWk0UTkNE8LX8Oc6.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -3627,11 +3627,24 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "s3329_bolly",
-          "dialogue": "Hattie! - Thanks! Come, come. <i>Senseless love</i> <i>Shameless love</i> Namrata, about the audition...Pout! I'm sorry! - Ms. Ripped Jeans! What are you drinking?",
+          "dialogue_id": "s969_bolly",
+          "dialogue": "Shameless. Shameless. Shameless girl. Shameless girl. Shameless. Shameless. Shameless girl. Shameless girl. Shameless. I paid Re.1. I paid Re.1.",
           "industry": "bolly",
           "target_gender": "female",
-          "cause_raw": "not conforming to traditional behavior",
+          "cause_raw": "not behaving as per societal norms",
+          "film": {
+            "title": "Deewana Main Deewana",
+            "year": "2013",
+            "poster_path": "/6G1iMFCIpm8xhnzTB1DviyYG29g.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "s3327_bolly",
+          "dialogue": "Jeans are my right! My right! There's no end to rules in a girl's life. Don't sing, don't dance you'll shame us. Don't walk like that, people will stare. Keep your eyes down, what will people say‘!",
+          "industry": "bolly",
+          "target_gender": "female",
+          "cause_raw": "breaking traditional norms",
           "film": {
             "title": "Lipstick Under My Burkha",
             "year": "2017",
@@ -3640,28 +3653,15 @@
           "counter_type": "cross_gender"
         },
         {
-          "dialogue_id": "s1282_bolly",
-          "dialogue": "Chop this. Do some work. Cover your head. You've shamed me enough already. Not on the floor! Didn't your mother teach you anything? They sold me a useless goat.",
+          "dialogue_id": "s3331_bolly",
+          "dialogue": "You are disowning our identity and heritage. Embarrassed by the very burkha that earns us our daily bread‘! You're ashamed of wearing a burkha! I'm ashamed you are my daughter. - Start looking for a groom for her. - Yes.",
           "industry": "bolly",
           "target_gender": "female",
-          "cause_raw": "not adhering to traditional norms and expectations",
+          "cause_raw": "rejecting cultural/religious attire",
           "film": {
-            "title": "Parched",
-            "year": "2015",
-            "poster_path": "/cpuW4xGdUVZep3Otwo97xnEzdWi.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
-          "dialogue_id": "s3464_bolly",
-          "dialogue": "It's okay! There's always a first time for everything! Do you have no shame? I chose my happiness over shame! And do you know that.......\"Shame\" is often what leads to suicide.",
-          "industry": "bolly",
-          "target_gender": "female",
-          "cause_raw": "choosing happiness over societal norms",
-          "film": {
-            "title": "Manmarziyaan",
-            "year": "2018",
-            "poster_path": "/spTuL3PJFYQsxBdAHbUJlHtwwyi.jpg"
+            "title": "Lipstick Under My Burkha",
+            "year": "2017",
+            "poster_path": "/watd7f9icZYuXd7ODenxw0tMAhE.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -3720,18 +3720,6 @@
           }
         },
         {
-          "dialogue_id": "WP438_holly",
-          "dialogue": "Did you see it?  I would not have missed it for the world.  I am so proud of you.  - All right, Tony! - Tony, you won us a big one.  [players celebrating]",
-          "industry": "holly",
-          "target_gender": "male",
-          "cause_raw": "winning a game or competition",
-          "film": {
-            "title": "Woodlawn",
-            "year": "2015",
-            "poster_path": "/BJ1XNBBEiqaCM4SQhHYTrWqCfn.jpg"
-          }
-        },
-        {
           "dialogue_id": "WP331_holly",
           "dialogue": "Did they hire your assistant?  Thank you.  Very proud of you.  Superfight Two with Rocky Balboa, the challenger  and, of course, Apollo Creed, the world champion.",
           "industry": "holly",
@@ -3741,6 +3729,18 @@
             "title": "Creed",
             "year": "2015",
             "poster_path": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg"
+          }
+        },
+        {
+          "dialogue_id": "WP125_holly",
+          "dialogue": "Coach says I might get to play some football this year.  What?  - I'm so proud of you. Good job. - Ah.  (BIANCA CHUCKLES)  Wow.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "playing football",
+          "film": {
+            "title": "The DUFF",
+            "year": "2015",
+            "poster_path": "/A6ScveWmIPL9vSYyULD8ObqyHDQ.jpg"
           }
         },
         {
@@ -3784,15 +3784,15 @@
           "counter_type": "cross_gender"
         },
         {
-          "dialogue_id": "WP125_holly",
-          "dialogue": "Coach says I might get to play some football this year.  What?  - I'm so proud of you. Good job. - Ah.  (BIANCA CHUCKLES)  Wow.",
-          "industry": "holly",
+          "dialogue_id": "p567_bolly",
+          "dialogue": "Aman Cup? Yes, madam. For the last 8 years this cup has been the pride of Lahore! Oye, let it be. It seems that these Amritsar folks have developed",
+          "industry": "bolly",
           "target_gender": "female",
-          "cause_raw": "playing football",
+          "cause_raw": "Winning Aman Cup",
           "film": {
-            "title": "The DUFF",
-            "year": "2015",
-            "poster_path": "/A6ScveWmIPL9vSYyULD8ObqyHDQ.jpg"
+            "title": "Dil Bole Hadippa!",
+            "year": "2009",
+            "poster_path": "/zt6r5WddPoBaXW6knwQWRnor61F.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -3889,32 +3889,6 @@
       ],
       "counter_examples": [
         {
-          "dialogue_id": "WP1748_holly",
-          "dialogue": "The FBI Academy!  You passed the exam!  I'm so damn proud of you, honey.  Yeah.  Well, I don't know.",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "passing the FBI exam",
-          "film": {
-            "title": "Deadfall",
-            "year": "2012",
-            "poster_path": "/5ZM6uKhuEzWZD3xklmqKPuvq1Nj.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
-          "dialogue_id": "WP766_holly",
-          "dialogue": "She raised me on her own.  I got a full ride.  She's... so proud I'm here.  so proud I'm here.  Thanks for the lift.",
-          "industry": "holly",
-          "target_gender": "female",
-          "cause_raw": "getting a full ride scholarship",
-          "film": {
-            "title": "Liberal Arts",
-            "year": "2012",
-            "poster_path": "/kqU8qijdt9mtX4Pt00PFno5bwrz.jpg"
-          },
-          "counter_type": "cross_gender"
-        },
-        {
           "dialogue_id": "p1800_bolly",
           "dialogue": "Where are you going, super-busy... cop! What are you doing? There are people around. Mom. We won! So proud of you. I am sorry. Charles was right. Fear is always there.",
           "industry": "bolly",
@@ -3924,6 +3898,32 @@
             "title": "Main Aur Charles",
             "year": "2015",
             "poster_path": "/sETdbhC6YsgtQZpMQkighZmtWxN.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP246_holly",
+          "dialogue": "and ever since, I've always wanted to act.  Be in plays, movies.  When I was 9, I played Viola in Twelfth Night. Mum was very proud.  Where is your mother now?  She's dead.",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "child's acting career",
+          "film": {
+            "title": "Vendetta",
+            "year": "2022",
+            "poster_path": "/bvhmqU6GUkigo6SSYL3ttkBhNER.jpg"
+          },
+          "counter_type": "cross_gender"
+        },
+        {
+          "dialogue_id": "WP78_holly",
+          "dialogue": "and that's when your father left.  Oh, Mom... But I'm so proud of you.  But I'm so proud of you.  I'm so proud and so happy  that you have so many friends and you're so popular",
+          "industry": "holly",
+          "target_gender": "female",
+          "cause_raw": "child's popularity and having many friends",
+          "film": {
+            "title": "Social Nightmare",
+            "year": "2013",
+            "poster_path": "/yn7vsny6qtXvbnPmW98ghluyLro.jpg"
           },
           "counter_type": "cross_gender"
         }
@@ -4256,15 +4256,15 @@
           }
         },
         {
-          "dialogue_id": "p696_bolly",
-          "dialogue": "My country is my love, my pride The skies above surrender before it My country is my love, my pride The skies above surrender before it My soul is painted",
+          "dialogue_id": "p591_bolly",
+          "dialogue": "O' Martyrs! Entire county is proud of you. Entire county is proud of you. You've sacrificed your life for the county. You've sacrificed your life for the county.",
           "industry": "bolly",
           "target_gender": "unclear",
-          "cause_raw": "love for country",
+          "cause_raw": "sacrifice for the country",
           "film": {
-            "title": "Parmanu: The Story of Pokhran",
-            "year": "2018",
-            "poster_path": "/58X8iBxgT5n4aVBLkDFSnOrIHlD.jpg"
+            "title": "Dil Pardesi Ho Gayaa",
+            "year": "2003",
+            "poster_path": "/cZsSavbfxzn2aoi1iHk49cVxupO.jpg"
           }
         },
         {
@@ -4361,18 +4361,6 @@
           }
         },
         {
-          "dialogue_id": "p704_bolly",
-          "dialogue": "The problem solved. He gets five million. - Correct. He won't accept help from us. - Correct. He'll lecture us about Gujarati pride. Is he around? Here I am.",
-          "industry": "bolly",
-          "target_gender": "male",
-          "cause_raw": "Gujarati pride",
-          "film": {
-            "title": "Patel Ki Punjabi Shaadi",
-            "year": "2017",
-            "poster_path": "/nNj2PPUeN0nHXSveCDwBPZX29xX.jpg"
-          }
-        },
-        {
           "dialogue_id": "p1819_bolly",
           "dialogue": "Why did you come to Mumbai? Look, I was born right here in Mumbai. And I am equally proud of being a Maharashtrian. Did you hear that? -Yeah, right. -Maharashtrian!",
           "industry": "bolly",
@@ -4394,6 +4382,18 @@
             "title": "Tanhaji: The Unsung Warrior",
             "year": "2020",
             "poster_path": "/fZhgcUVwV7ocglL5XDq4ygsfXqD.jpg"
+          }
+        },
+        {
+          "dialogue_id": "p875_bolly",
+          "dialogue": "KAVACH, India's pride. –I hope that today the wait and the conflict is over. and we get our safety back. What's the status, Rohit? –Jai Hind, Sir. –Sir, 55 seconds to go.",
+          "industry": "bolly",
+          "target_gender": "male",
+          "cause_raw": "KAVACH presumably a project or mission",
+          "film": {
+            "title": "Rashtra Kavach Om",
+            "year": "2022",
+            "poster_path": "/kBZEDW004FLzPTdBpko6Qf4lACJ.jpg"
           }
         },
         {
@@ -5107,17 +5107,6 @@
   ],
   "films_index": [
     {
-      "id": "56317",
-      "title": "Lajja",
-      "year": "2001",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/xFvCS5h3TyixKaBintDoVjYGyVZ.jpg",
-      "shame_count": 34,
-      "pride_count": 3,
-      "total_count": 37
-    },
-    {
       "id": "612806",
       "title": "Heer Ranjha",
       "year": "1992",
@@ -5129,15 +5118,15 @@
       "total_count": 32
     },
     {
-      "id": "19404",
-      "title": "Dilwale Dulhania Le Jayenge",
-      "year": "1995",
+      "id": "56317",
+      "title": "Lajja",
+      "year": "2001",
       "industry": "bolly",
       "country": "IN",
-      "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
-      "shame_count": 16,
-      "pride_count": 12,
-      "total_count": 28
+      "poster_path": "/xFvCS5h3TyixKaBintDoVjYGyVZ.jpg",
+      "shame_count": 28,
+      "pride_count": 2,
+      "total_count": 30
     },
     {
       "id": "302469",
@@ -5147,8 +5136,8 @@
       "country": "",
       "poster_path": "/cZsSavbfxzn2aoi1iHk49cVxupO.jpg",
       "shame_count": 2,
-      "pride_count": 24,
-      "total_count": 26
+      "pride_count": 23,
+      "total_count": 25
     },
     {
       "id": "345988",
@@ -5159,17 +5148,6 @@
       "poster_path": "/e9LyciWgbKoTJJUqEABosWLprtM.jpg",
       "shame_count": 15,
       "pride_count": 6,
-      "total_count": 21
-    },
-    {
-      "id": "331482",
-      "title": "Little Women",
-      "year": "2019",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
-      "shame_count": 13,
-      "pride_count": 8,
       "total_count": 21
     },
     {
@@ -5195,6 +5173,17 @@
       "total_count": 19
     },
     {
+      "id": "331482",
+      "title": "Little Women",
+      "year": "2019",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "shame_count": 11,
+      "pride_count": 8,
+      "total_count": 19
+    },
+    {
       "id": "170241",
       "title": "Deewana Main Deewana",
       "year": "2013",
@@ -5203,28 +5192,6 @@
       "poster_path": "/6G1iMFCIpm8xhnzTB1DviyYG29g.jpg",
       "shame_count": 16,
       "pride_count": 1,
-      "total_count": 17
-    },
-    {
-      "id": "208540",
-      "title": "Once Upon a Time in Mumbai Dobaara!",
-      "year": "2013",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/guXvxt6hvZyQqHXGYuvujtuxcCQ.jpg",
-      "shame_count": 15,
-      "pride_count": 2,
-      "total_count": 17
-    },
-    {
-      "id": "302520",
-      "title": "Ghar Ghar Ki Kahani",
-      "year": "1988",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/5CcTsbspcKXynC6azLM8O8PcwOu.jpg",
-      "shame_count": 15,
-      "pride_count": 2,
       "total_count": 17
     },
     {
@@ -5250,15 +5217,26 @@
       "total_count": 17
     },
     {
-      "id": "79982",
-      "title": "Yes Boss",
-      "year": "1997",
+      "id": "19404",
+      "title": "Dilwale Dulhania Le Jayenge",
+      "year": "1995",
       "industry": "bolly",
       "country": "IN",
-      "poster_path": "/ayp76lRwyp5izlZVnxcZscgHofH.jpg",
-      "shame_count": 16,
-      "pride_count": 1,
-      "total_count": 17
+      "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+      "shame_count": 10,
+      "pride_count": 6,
+      "total_count": 16
+    },
+    {
+      "id": "208540",
+      "title": "Once Upon a Time in Mumbai Dobaara!",
+      "year": "2013",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/guXvxt6hvZyQqHXGYuvujtuxcCQ.jpg",
+      "shame_count": 14,
+      "pride_count": 2,
+      "total_count": 16
     },
     {
       "id": "393615",
@@ -5269,6 +5247,17 @@
       "poster_path": "/fft1MyEyxMk02Fk2CWET03DgjmM.jpg",
       "shame_count": 14,
       "pride_count": 2,
+      "total_count": 16
+    },
+    {
+      "id": "302520",
+      "title": "Ghar Ghar Ki Kahani",
+      "year": "1988",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/5CcTsbspcKXynC6azLM8O8PcwOu.jpg",
+      "shame_count": 15,
+      "pride_count": 1,
       "total_count": 16
     },
     {
@@ -5294,17 +5283,6 @@
       "total_count": 16
     },
     {
-      "id": "9425",
-      "title": "Soldier",
-      "year": "1998",
-      "industry": "bolly",
-      "country": "US|GB",
-      "poster_path": "/g62RTtfhgzJo1GV2jjwdzpNuiUB.jpg",
-      "shame_count": 12,
-      "pride_count": 4,
-      "total_count": 16
-    },
-    {
       "id": "42401",
       "title": "Since You Went Away",
       "year": "1944",
@@ -5324,17 +5302,6 @@
       "poster_path": "/x0AMba4jKXr6ngeGf2MjO1HpvHF.jpg",
       "shame_count": 4,
       "pride_count": 11,
-      "total_count": 15
-    },
-    {
-      "id": "15419",
-      "title": "Kabhi Haan Kabhi Naa",
-      "year": "1994",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/6FtBaFCz3UFFhXyE4JHxQDn43gM.jpg",
-      "shame_count": 10,
-      "pride_count": 5,
       "total_count": 15
     },
     {
@@ -5369,17 +5336,6 @@
       "shame_count": 3,
       "pride_count": 12,
       "total_count": 15
-    },
-    {
-      "id": "60124",
-      "title": "Apne",
-      "year": "2007",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/qMGSWgtmtMyn9hkyGZeOB5Kz7zC.jpg",
-      "shame_count": 1,
-      "pride_count": 13,
-      "total_count": 14
     },
     {
       "id": "159187",
@@ -5434,17 +5390,6 @@
       "poster_path": "/v0H3pgHolg2kGt0MUKBIeTMol4y.jpg",
       "shame_count": 13,
       "pride_count": 1,
-      "total_count": 14
-    },
-    {
-      "id": "210614",
-      "title": "Kitne Door Kitne Paas",
-      "year": "2002",
-      "industry": "bolly",
-      "country": "",
-      "poster_path": "/fiCrd9TMXlYKlbLxdj0eEBLbjB.jpg",
-      "shame_count": 8,
-      "pride_count": 6,
       "total_count": 14
     },
     {
@@ -5591,17 +5536,6 @@
       "total_count": 13
     },
     {
-      "id": "114436",
-      "title": "Anjaam",
-      "year": "1994",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/j8pC5tg33gLbiPSYP3EQODV8MWH.jpg",
-      "shame_count": 8,
-      "pride_count": 4,
-      "total_count": 12
-    },
-    {
       "id": "304919",
       "title": "Anjaana",
       "year": "1969",
@@ -5668,17 +5602,6 @@
       "total_count": 12
     },
     {
-      "id": "85052",
-      "title": "Housefull 2",
-      "year": "2012",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/y6L3GpfXWqfO7COtUyiEeACH35G.jpg",
-      "shame_count": 10,
-      "pride_count": 2,
-      "total_count": 12
-    },
-    {
       "id": "198343",
       "title": "Narsimha",
       "year": "1991",
@@ -5712,28 +5635,6 @@
       "total_count": 12
     },
     {
-      "id": "468073",
-      "title": "Veer Savarkar",
-      "year": "2001",
-      "industry": "bolly",
-      "country": "",
-      "poster_path": "/u1n2OGQFHv1iG817VpXEtRMrjeZ.jpg",
-      "shame_count": 5,
-      "pride_count": 7,
-      "total_count": 12
-    },
-    {
-      "id": "161447",
-      "title": "Yeh Dillagi",
-      "year": "1994",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/7DelNAcFTGzYVqNRk28psaCytqj.jpg",
-      "shame_count": 10,
-      "pride_count": 2,
-      "total_count": 12
-    },
-    {
       "id": "307884",
       "title": "Do Kaliyan",
       "year": "1968",
@@ -5756,26 +5657,15 @@
       "total_count": 12
     },
     {
-      "id": "224141",
-      "title": "Into the Woods",
-      "year": "2014",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/6bZC6KGfCwTMmwXmrLJQhxuRjlT.jpg",
-      "shame_count": 8,
-      "pride_count": 4,
-      "total_count": 12
-    },
-    {
-      "id": "12615",
-      "title": "Death of a Salesman",
-      "year": "1985",
-      "industry": "holly",
-      "country": "DE|US",
-      "poster_path": "/tIRmjfaLmVHjGFaIcNGD3hggvbO.jpg",
-      "shame_count": 6,
-      "pride_count": 6,
-      "total_count": 12
+      "id": "60124",
+      "title": "Apne",
+      "year": "2007",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/qMGSWgtmtMyn9hkyGZeOB5Kz7zC.jpg",
+      "shame_count": 1,
+      "pride_count": 10,
+      "total_count": 11
     },
     {
       "id": "1418675",
@@ -5808,39 +5698,6 @@
       "poster_path": "/6hyO0QG9K0TczBTnn8M4p752wtB.jpg",
       "shame_count": 9,
       "pride_count": 2,
-      "total_count": 11
-    },
-    {
-      "id": "183659",
-      "title": "Qurbani",
-      "year": "1980",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/5jkQAxALX0Th0HQCRWiuETRedNR.jpg",
-      "shame_count": 4,
-      "pride_count": 7,
-      "total_count": 11
-    },
-    {
-      "id": "7913",
-      "title": "Rang De Basanti",
-      "year": "2006",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/f1bF8CHzEu621bPSIg6XiUNAabh.jpg",
-      "shame_count": 2,
-      "pride_count": 9,
-      "total_count": 11
-    },
-    {
-      "id": "70366",
-      "title": "Sahib Bibi Aur Ghulam",
-      "year": "1962",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/tUVjkGSe7ZRhFoWirqZOh00kNlz.jpg",
-      "shame_count": 10,
-      "pride_count": 1,
       "total_count": 11
     },
     {
@@ -5885,17 +5742,6 @@
       "poster_path": "/unqiPjtc6CGqs13zho7ZvWU85zu.jpg",
       "shame_count": 5,
       "pride_count": 6,
-      "total_count": 11
-    },
-    {
-      "id": "740949",
-      "title": "Kanyadaan",
-      "year": "2002",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "",
-      "shame_count": 10,
-      "pride_count": 1,
       "total_count": 11
     },
     {
@@ -5951,6 +5797,17 @@
       "poster_path": "/jnIxNEyMKqtJ8TD3N1QVHWKeI5T.jpg",
       "shame_count": 10,
       "pride_count": 1,
+      "total_count": 11
+    },
+    {
+      "id": "468073",
+      "title": "Veer Savarkar",
+      "year": "2001",
+      "industry": "bolly",
+      "country": "",
+      "poster_path": "/u1n2OGQFHv1iG817VpXEtRMrjeZ.jpg",
+      "shame_count": 5,
+      "pride_count": 6,
       "total_count": 11
     },
     {
@@ -6028,17 +5885,6 @@
       "poster_path": "/gZbY2w5NKuJZ8XBmIPZnG2P7X5L.jpg",
       "shame_count": 5,
       "pride_count": 5,
-      "total_count": 10
-    },
-    {
-      "id": "46371",
-      "title": "Apna Sapna Money Money",
-      "year": "2006",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/pTxNRZQhRqGqYyuNjAFAzk0iqrS.jpg",
-      "shame_count": 6,
-      "pride_count": 4,
       "total_count": 10
     },
     {
@@ -6141,6 +5987,17 @@
       "total_count": 10
     },
     {
+      "id": "183659",
+      "title": "Qurbani",
+      "year": "1980",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/5jkQAxALX0Th0HQCRWiuETRedNR.jpg",
+      "shame_count": 4,
+      "pride_count": 6,
+      "total_count": 10
+    },
+    {
       "id": "174061",
       "title": "Raaste Kaa Patthar",
       "year": "1972",
@@ -6182,17 +6039,6 @@
       "poster_path": "/oZmrEJ3cc4ZN4nFf1kuoQzP6rOx.jpg",
       "shame_count": 5,
       "pride_count": 5,
-      "total_count": 10
-    },
-    {
-      "id": "161179",
-      "title": "Shakti: The Power",
-      "year": "2002",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/3nn3XFCa0FreqSG7GfDK5bDUH12.jpg",
-      "shame_count": 4,
-      "pride_count": 6,
       "total_count": 10
     },
     {
@@ -6240,6 +6086,28 @@
       "total_count": 10
     },
     {
+      "id": "15419",
+      "title": "Kabhi Haan Kabhi Naa",
+      "year": "1994",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/6FtBaFCz3UFFhXyE4JHxQDn43gM.jpg",
+      "shame_count": 6,
+      "pride_count": 4,
+      "total_count": 10
+    },
+    {
+      "id": "740949",
+      "title": "Kanyadaan",
+      "year": "2002",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "",
+      "shame_count": 9,
+      "pride_count": 1,
+      "total_count": 10
+    },
+    {
       "id": "97449",
       "title": "Khamoshi: The Musical",
       "year": "1996",
@@ -6259,17 +6127,6 @@
       "poster_path": "/rIM83O7WUcZIlg9pd6SgXgB0w2v.jpg",
       "shame_count": 5,
       "pride_count": 5,
-      "total_count": 10
-    },
-    {
-      "id": "339233",
-      "title": "Khota Sikka Jaat Ke Thaath",
-      "year": "2014",
-      "industry": "bolly",
-      "country": "",
-      "poster_path": "/1uHnrLr5tX2CjAX1ybtcuOLdDI2.jpg",
-      "shame_count": 3,
-      "pride_count": 7,
       "total_count": 10
     },
     {
@@ -6378,6 +6235,17 @@
       "industry": "bolly",
       "country": "",
       "poster_path": "/hY19B0ylTgsCQpDILkFvIdSfqkN.jpg",
+      "shame_count": 8,
+      "pride_count": 2,
+      "total_count": 10
+    },
+    {
+      "id": "9425",
+      "title": "Soldier",
+      "year": "1998",
+      "industry": "bolly",
+      "country": "US|GB",
+      "poster_path": "/g62RTtfhgzJo1GV2jjwdzpNuiUB.jpg",
       "shame_count": 8,
       "pride_count": 2,
       "total_count": 10
@@ -6493,28 +6361,6 @@
       "total_count": 10
     },
     {
-      "id": "14462",
-      "title": "The Manchurian Candidate",
-      "year": "2004",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/4xEWtEbKK2EXMZ8UPff8hDCSiVW.jpg",
-      "shame_count": 4,
-      "pride_count": 6,
-      "total_count": 10
-    },
-    {
-      "id": "9403",
-      "title": "Private Parts",
-      "year": "1997",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/8nCc9fhXCVvetlqpxkrCTc9NwOz.jpg",
-      "shame_count": 2,
-      "pride_count": 8,
-      "total_count": 10
-    },
-    {
       "id": "54469",
       "title": "Main Street",
       "year": "2010",
@@ -6526,17 +6372,6 @@
       "total_count": 10
     },
     {
-      "id": "8737",
-      "title": "Cast a Giant Shadow",
-      "year": "1966",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/s3IhCoMfbQSMuUCJvpKWKFuOMwY.jpg",
-      "shame_count": 2,
-      "pride_count": 8,
-      "total_count": 10
-    },
-    {
       "id": "18692",
       "title": "Fun in Acapulco",
       "year": "1963",
@@ -6545,17 +6380,6 @@
       "poster_path": "/fCHQQ6EmhQshb80VPKzmOzLHke3.jpg",
       "shame_count": 9,
       "pride_count": 1,
-      "total_count": 10
-    },
-    {
-      "id": "24869",
-      "title": "Ink",
-      "year": "2009",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/9vYyX7c8gZtxuqd6SiRukRb4gRd.jpg",
-      "shame_count": 7,
-      "pride_count": 3,
       "total_count": 10
     },
     {
@@ -6653,17 +6477,6 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/56dEONvFlidzOxZy9c8pOOWDPmQ.jpg",
-      "shame_count": 7,
-      "pride_count": 2,
-      "total_count": 9
-    },
-    {
-      "id": "150009",
-      "title": "Rajdhani Express",
-      "year": "2013",
-      "industry": "bolly",
-      "country": "",
-      "poster_path": "/eqBaH92kA4x4TW4qp5Ik8wTroX9.jpg",
       "shame_count": 7,
       "pride_count": 2,
       "total_count": 9
@@ -6768,6 +6581,17 @@
       "total_count": 9
     },
     {
+      "id": "339233",
+      "title": "Khota Sikka Jaat Ke Thaath",
+      "year": "2014",
+      "industry": "bolly",
+      "country": "",
+      "poster_path": "/1uHnrLr5tX2CjAX1ybtcuOLdDI2.jpg",
+      "shame_count": 3,
+      "pride_count": 6,
+      "total_count": 9
+    },
+    {
       "id": "390437",
       "title": "Ki & Ka",
       "year": "2016",
@@ -6776,17 +6600,6 @@
       "poster_path": "/h0EdMN91ts85jN62UotOOUXa5Ho.jpg",
       "shame_count": 4,
       "pride_count": 5,
-      "total_count": 9
-    },
-    {
-      "id": "19666",
-      "title": "Lagaan: Once Upon a Time in India",
-      "year": "2001",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/yNX9lFRAFeNLNRIXdqZK9gYrYKa.jpg",
-      "shame_count": 6,
-      "pride_count": 3,
       "total_count": 9
     },
     {
@@ -6900,6 +6713,28 @@
       "total_count": 9
     },
     {
+      "id": "161447",
+      "title": "Yeh Dillagi",
+      "year": "1994",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/7DelNAcFTGzYVqNRk28psaCytqj.jpg",
+      "shame_count": 8,
+      "pride_count": 1,
+      "total_count": 9
+    },
+    {
+      "id": "79982",
+      "title": "Yes Boss",
+      "year": "1997",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/ayp76lRwyp5izlZVnxcZscgHofH.jpg",
+      "shame_count": 8,
+      "pride_count": 1,
+      "total_count": 9
+    },
+    {
       "id": "43410",
       "title": "Yuva",
       "year": "2004",
@@ -6919,17 +6754,6 @@
       "poster_path": "/yhjKYd6aTzboCbJrBwMZXJCVist.jpg",
       "shame_count": 3,
       "pride_count": 6,
-      "total_count": 9
-    },
-    {
-      "id": "339988",
-      "title": "The Circle",
-      "year": "2017",
-      "industry": "holly",
-      "country": "AE|US",
-      "poster_path": "/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg",
-      "shame_count": 5,
-      "pride_count": 4,
       "total_count": 9
     },
     {
@@ -6966,6 +6790,17 @@
       "total_count": 9
     },
     {
+      "id": "8737",
+      "title": "Cast a Giant Shadow",
+      "year": "1966",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/s3IhCoMfbQSMuUCJvpKWKFuOMwY.jpg",
+      "shame_count": 2,
+      "pride_count": 7,
+      "total_count": 9
+    },
+    {
       "id": "11890",
       "title": "Oscar",
       "year": "1991",
@@ -6977,15 +6812,26 @@
       "total_count": 9
     },
     {
-      "id": "24961",
-      "title": "The Wiz",
-      "year": "1978",
+      "id": "24869",
+      "title": "Ink",
+      "year": "2009",
       "industry": "holly",
       "country": "US",
-      "poster_path": "/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
-      "shame_count": 8,
-      "pride_count": 1,
+      "poster_path": "/9vYyX7c8gZtxuqd6SiRukRb4gRd.jpg",
+      "shame_count": 7,
+      "pride_count": 2,
       "total_count": 9
+    },
+    {
+      "id": "114436",
+      "title": "Anjaam",
+      "year": "1994",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/j8pC5tg33gLbiPSYP3EQODV8MWH.jpg",
+      "shame_count": 4,
+      "pride_count": 4,
+      "total_count": 8
     },
     {
       "id": "410332",
@@ -7142,6 +6988,28 @@
       "total_count": 8
     },
     {
+      "id": "150009",
+      "title": "Rajdhani Express",
+      "year": "2013",
+      "industry": "bolly",
+      "country": "",
+      "poster_path": "/eqBaH92kA4x4TW4qp5Ik8wTroX9.jpg",
+      "shame_count": 7,
+      "pride_count": 1,
+      "total_count": 8
+    },
+    {
+      "id": "7913",
+      "title": "Rang De Basanti",
+      "year": "2006",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/f1bF8CHzEu621bPSIg6XiUNAabh.jpg",
+      "shame_count": 2,
+      "pride_count": 6,
+      "total_count": 8
+    },
+    {
       "id": "107745",
       "title": "Saajan",
       "year": "1991",
@@ -7197,14 +7065,14 @@
       "total_count": 8
     },
     {
-      "id": "10757",
-      "title": "Kabhi Khushi Kabhie Gham",
-      "year": "2001",
+      "id": "210614",
+      "title": "Kitne Door Kitne Paas",
+      "year": "2002",
       "industry": "bolly",
-      "country": "IN|GB",
-      "poster_path": "/12BvYKueY0eruZuTYIextEZaCC.jpg",
-      "shame_count": 4,
-      "pride_count": 4,
+      "country": "",
+      "poster_path": "/fiCrd9TMXlYKlbLxdj0eEBLbjB.jpg",
+      "shame_count": 5,
+      "pride_count": 3,
       "total_count": 8
     },
     {
@@ -7238,17 +7106,6 @@
       "poster_path": "/AsnZdUdmfxEenKH3GNMtqIFAzDh.jpg",
       "shame_count": 4,
       "pride_count": 4,
-      "total_count": 8
-    },
-    {
-      "id": "441071",
-      "title": "Naam Shabana",
-      "year": "2017",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/xFHeFrOYzsHgAiZeGAjwJmDMen6.jpg",
-      "shame_count": 7,
-      "pride_count": 1,
       "total_count": 8
     },
     {
@@ -7351,17 +7208,6 @@
       "total_count": 8
     },
     {
-      "id": "325138",
-      "title": "Dum Laga Ke Haisha",
-      "year": "2015",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/c9TX2kH1rG7QYEl09flOVg82QdU.jpg",
-      "shame_count": 5,
-      "pride_count": 3,
-      "total_count": 8
-    },
-    {
       "id": "876392",
       "title": "Dupatta",
       "year": "1952",
@@ -7445,28 +7291,6 @@
       "industry": "holly",
       "country": "US",
       "poster_path": "/cVZ0zyozUWm4YRWOqF1uYFHO8Bx.jpg",
-      "shame_count": 4,
-      "pride_count": 4,
-      "total_count": 8
-    },
-    {
-      "id": "14254",
-      "title": "The Uninvited",
-      "year": "2009",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/1xQlzKUDLuCe3SUGIGL6K1PtldH.jpg",
-      "shame_count": 6,
-      "pride_count": 2,
-      "total_count": 8
-    },
-    {
-      "id": "687528",
-      "title": "Notorious",
-      "year": "1972",
-      "industry": "holly",
-      "country": "IR",
-      "poster_path": "/wpOFswkRj5XlKfOvjy9HkPtTgzW.jpg",
       "shame_count": 4,
       "pride_count": 4,
       "total_count": 8
@@ -7582,17 +7406,6 @@
       "total_count": 7
     },
     {
-      "id": "251131",
-      "title": "Betaab",
-      "year": "1983",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/5JTJG3b2I6EZYhov18KE0Flknom.jpg",
-      "shame_count": 5,
-      "pride_count": 2,
-      "total_count": 7
-    },
-    {
       "id": "168155",
       "title": "Beti Bete",
       "year": "1964",
@@ -7659,17 +7472,6 @@
       "total_count": 7
     },
     {
-      "id": "41511",
-      "title": "Dhan Dhana Dhan Goal",
-      "year": "2007",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/blecQPVoYDTNKPMYlOm2WNHuSYw.jpg",
-      "shame_count": 1,
-      "pride_count": 6,
-      "total_count": 7
-    },
-    {
       "id": "275835",
       "title": "Dharam Kanta",
       "year": "1982",
@@ -7733,17 +7535,6 @@
       "poster_path": "/gQG7ZwS4JKl6SynrqO9UXSRrnMc.jpg",
       "shame_count": 2,
       "pride_count": 5,
-      "total_count": 7
-    },
-    {
-      "id": "107595",
-      "title": "Sarphira",
-      "year": "1992",
-      "industry": "bolly",
-      "country": "",
-      "poster_path": "/lyLwO4xq6oEAj23UQWGQQqARz7I.jpg",
-      "shame_count": 6,
-      "pride_count": 1,
       "total_count": 7
     },
     {
@@ -7901,17 +7692,6 @@
       "total_count": 7
     },
     {
-      "id": "51725",
-      "title": "Khuda Gawah",
-      "year": "1992",
-      "industry": "bolly",
-      "country": "AF|IN",
-      "poster_path": "/uUvUFpWfGXlgOzXgkIYwqpchh0f.jpg",
-      "shame_count": 5,
-      "pride_count": 2,
-      "total_count": 7
-    },
-    {
       "id": "115153",
       "title": "Kismat",
       "year": "2004",
@@ -8011,23 +7791,23 @@
       "total_count": 7
     },
     {
+      "id": "441071",
+      "title": "Naam Shabana",
+      "year": "2017",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/xFHeFrOYzsHgAiZeGAjwJmDMen6.jpg",
+      "shame_count": 6,
+      "pride_count": 1,
+      "total_count": 7
+    },
+    {
       "id": "496524",
       "title": "Simmba",
       "year": "2018",
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/ulQO4XJ1xlWdl4vX8Lr3SbWRfZw.jpg",
-      "shame_count": 4,
-      "pride_count": 3,
-      "total_count": 7
-    },
-    {
-      "id": "194136",
-      "title": "Sooryavansham",
-      "year": "1999",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/fI9cqF4scd7OfIJB5zmfeMxD2bg.jpg",
       "shame_count": 4,
       "pride_count": 3,
       "total_count": 7
@@ -8099,14 +7879,14 @@
       "total_count": 7
     },
     {
-      "id": "106123",
-      "title": "Elaan",
-      "year": "1994",
+      "id": "325138",
+      "title": "Dum Laga Ke Haisha",
+      "year": "2015",
       "industry": "bolly",
       "country": "IN",
-      "poster_path": "/3ADocVh1ONoFP4uwvwML9UNqrV9.jpg",
-      "shame_count": 4,
-      "pride_count": 3,
+      "poster_path": "/c9TX2kH1rG7QYEl09flOVg82QdU.jpg",
+      "shame_count": 5,
+      "pride_count": 2,
       "total_count": 7
     },
     {
@@ -8198,17 +7978,6 @@
       "total_count": 7
     },
     {
-      "id": "11430",
-      "title": "The Lion King 1½",
-      "year": "2004",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/u2hN0WT7Dz46HfhQbr6uzSYfVW4.jpg",
-      "shame_count": 1,
-      "pride_count": 6,
-      "total_count": 7
-    },
-    {
       "id": "43865",
       "title": "Stella Dallas",
       "year": "1937",
@@ -8286,6 +8055,17 @@
       "total_count": 7
     },
     {
+      "id": "24961",
+      "title": "The Wiz",
+      "year": "1978",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
+      "shame_count": 6,
+      "pride_count": 1,
+      "total_count": 7
+    },
+    {
       "id": "18543",
       "title": "Revenge of the Nerds III: The Next Generation",
       "year": "1992",
@@ -8341,6 +8121,17 @@
       "total_count": 6
     },
     {
+      "id": "46371",
+      "title": "Apna Sapna Money Money",
+      "year": "2006",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/pTxNRZQhRqGqYyuNjAFAzk0iqrS.jpg",
+      "shame_count": 4,
+      "pride_count": 2,
+      "total_count": 6
+    },
+    {
       "id": "331563",
       "title": "Asli Naqli",
       "year": "1986",
@@ -8358,17 +8149,6 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/yMUwKZ5BumGVWk0UTkNE8LX8Oc6.jpg",
-      "shame_count": 5,
-      "pride_count": 1,
-      "total_count": 6
-    },
-    {
-      "id": "19657",
-      "title": "Baazigar",
-      "year": "1993",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/ndQQ2bTV0JLSRxUBchE4eD3qhDb.jpg",
       "shame_count": 5,
       "pride_count": 1,
       "total_count": 6
@@ -8402,6 +8182,17 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/JFSE2glCPewOeXZajuIIDZFs0R.jpg",
+      "shame_count": 5,
+      "pride_count": 1,
+      "total_count": 6
+    },
+    {
+      "id": "251131",
+      "title": "Betaab",
+      "year": "1983",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/5JTJG3b2I6EZYhov18KE0Flknom.jpg",
       "shame_count": 5,
       "pride_count": 1,
       "total_count": 6
@@ -8473,6 +8264,17 @@
       "total_count": 6
     },
     {
+      "id": "41511",
+      "title": "Dhan Dhana Dhan Goal",
+      "year": "2007",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/blecQPVoYDTNKPMYlOm2WNHuSYw.jpg",
+      "shame_count": 1,
+      "pride_count": 5,
+      "total_count": 6
+    },
+    {
       "id": "630725",
       "title": "Dholak",
       "year": "1951",
@@ -8492,17 +8294,6 @@
       "poster_path": "/ooe07XsDasNjHW64UCUqRnk329Y.jpg",
       "shame_count": 1,
       "pride_count": 5,
-      "total_count": 6
-    },
-    {
-      "id": "66702",
-      "title": "Dil Ne Jise Apna Kahaa",
-      "year": "2004",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/iAE25a0EbYNLDFqWivPr3tULQXp.jpg",
-      "shame_count": 2,
-      "pride_count": 4,
       "total_count": 6
     },
     {
@@ -8591,17 +8382,6 @@
       "poster_path": "/rQCblOlhls54iwELMMkhI5cuIu3.jpg",
       "shame_count": 5,
       "pride_count": 1,
-      "total_count": 6
-    },
-    {
-      "id": "227345",
-      "title": "Rang",
-      "year": "1993",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/lJ9zrLsNoizF17o8De3pJgRRulv.jpg",
-      "shame_count": 4,
-      "pride_count": 2,
       "total_count": 6
     },
     {
@@ -8715,17 +8495,6 @@
       "total_count": 6
     },
     {
-      "id": "165069",
-      "title": "Hameshaa",
-      "year": "1997",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/g9K6lJHB35Y9vi0tnlQ3G6ZbTFu.jpg",
-      "shame_count": 2,
-      "pride_count": 4,
-      "total_count": 6
-    },
-    {
       "id": "180680",
       "title": "Himmatwala",
       "year": "2013",
@@ -8734,6 +8503,17 @@
       "poster_path": "/rWuzBNbsNc0DPFoWBb9FlKwWt7f.jpg",
       "shame_count": 3,
       "pride_count": 3,
+      "total_count": 6
+    },
+    {
+      "id": "85052",
+      "title": "Housefull 2",
+      "year": "2012",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/y6L3GpfXWqfO7COtUyiEeACH35G.jpg",
+      "shame_count": 5,
+      "pride_count": 1,
       "total_count": 6
     },
     {
@@ -8858,14 +8638,14 @@
       "total_count": 6
     },
     {
-      "id": "93519",
-      "title": "Karan Arjun",
-      "year": "1995",
+      "id": "51725",
+      "title": "Khuda Gawah",
+      "year": "1992",
       "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/uYhjsC9gCKhxiG2enkCJgdLOXjB.jpg",
-      "shame_count": 2,
-      "pride_count": 4,
+      "country": "AF|IN",
+      "poster_path": "/uUvUFpWfGXlgOzXgkIYwqpchh0f.jpg",
+      "shame_count": 5,
+      "pride_count": 1,
       "total_count": 6
     },
     {
@@ -8875,6 +8655,17 @@
       "industry": "bolly",
       "country": "",
       "poster_path": "/6PqrPB2BrPPolZ6VDxB0fs3X33q.jpg",
+      "shame_count": 4,
+      "pride_count": 2,
+      "total_count": 6
+    },
+    {
+      "id": "19666",
+      "title": "Lagaan: Once Upon a Time in India",
+      "year": "2001",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/yNX9lFRAFeNLNRIXdqZK9gYrYKa.jpg",
       "shame_count": 4,
       "pride_count": 2,
       "total_count": 6
@@ -8930,17 +8721,6 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/uqmVLT9dXl1Nwn7I6dp8DmTo3kL.jpg",
-      "shame_count": 4,
-      "pride_count": 2,
-      "total_count": 6
-    },
-    {
-      "id": "321441",
-      "title": "Naam O Nishan",
-      "year": "1987",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/1K7I1FW3R0MOikHZ40rjiOMvMbU.jpg",
       "shame_count": 4,
       "pride_count": 2,
       "total_count": 6
@@ -9034,6 +8814,17 @@
       "total_count": 6
     },
     {
+      "id": "194136",
+      "title": "Sooryavansham",
+      "year": "1999",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/fI9cqF4scd7OfIJB5zmfeMxD2bg.jpg",
+      "shame_count": 4,
+      "pride_count": 2,
+      "total_count": 6
+    },
+    {
       "id": "138122",
       "title": "Student Of The Year",
       "year": "2012",
@@ -9073,17 +8864,6 @@
       "industry": "bolly",
       "country": "",
       "poster_path": "/1bvbxTBPU5ClIwXLc1PIwiXkHFG.jpg",
-      "shame_count": 4,
-      "pride_count": 2,
-      "total_count": 6
-    },
-    {
-      "id": "277700",
-      "title": "Tera Jadoo Chal Gayaa",
-      "year": "2000",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/ez14a6KSGmG17BXe8AI2MJeTPd2.jpg",
       "shame_count": 4,
       "pride_count": 2,
       "total_count": 6
@@ -9144,17 +8924,6 @@
       "total_count": 6
     },
     {
-      "id": "136542",
-      "title": "Family: Ties of Blood",
-      "year": "2006",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/dMo4b6JqrpbP8bkQpdqu5VlYybC.jpg",
-      "shame_count": 5,
-      "pride_count": 1,
-      "total_count": 6
-    },
-    {
       "id": "501099",
       "title": "Do Premee",
       "year": "1980",
@@ -9177,6 +8946,17 @@
       "total_count": 6
     },
     {
+      "id": "106123",
+      "title": "Elaan",
+      "year": "1994",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/3ADocVh1ONoFP4uwvwML9UNqrV9.jpg",
+      "shame_count": 4,
+      "pride_count": 2,
+      "total_count": 6
+    },
+    {
       "id": "283201",
       "title": "Finding Fanny",
       "year": "2014",
@@ -9188,12 +8968,12 @@
       "total_count": 6
     },
     {
-      "id": "1543753",
-      "title": "Deadline",
-      "year": "2025",
+      "id": "224141",
+      "title": "Into the Woods",
+      "year": "2014",
       "industry": "holly",
-      "country": "HK|TW|GB",
-      "poster_path": "/53Rk1l820O5045o0FycMXHCtbkQ.jpg",
+      "country": "US",
+      "poster_path": "/6bZC6KGfCwTMmwXmrLJQhxuRjlT.jpg",
       "shame_count": 4,
       "pride_count": 2,
       "total_count": 6
@@ -9254,6 +9034,17 @@
       "total_count": 6
     },
     {
+      "id": "339988",
+      "title": "The Circle",
+      "year": "2017",
+      "industry": "holly",
+      "country": "AE|US",
+      "poster_path": "/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg",
+      "shame_count": 2,
+      "pride_count": 4,
+      "total_count": 6
+    },
+    {
       "id": "702",
       "title": "A Streetcar Named Desire",
       "year": "1951",
@@ -9271,6 +9062,17 @@
       "industry": "holly",
       "country": "US",
       "poster_path": "/6gj9iMwlKZh3C4Q21q1qNu8idVE.jpg",
+      "shame_count": 1,
+      "pride_count": 5,
+      "total_count": 6
+    },
+    {
+      "id": "11430",
+      "title": "The Lion King 1½",
+      "year": "2004",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/u2hN0WT7Dz46HfhQbr6uzSYfVW4.jpg",
       "shame_count": 1,
       "pride_count": 5,
       "total_count": 6
@@ -9320,6 +9122,17 @@
       "total_count": 6
     },
     {
+      "id": "14462",
+      "title": "The Manchurian Candidate",
+      "year": "2004",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/4xEWtEbKK2EXMZ8UPff8hDCSiVW.jpg",
+      "shame_count": 3,
+      "pride_count": 3,
+      "total_count": 6
+    },
+    {
       "id": "11202",
       "title": "Patton",
       "year": "1970",
@@ -9328,17 +9141,6 @@
       "poster_path": "/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
       "shame_count": 1,
       "pride_count": 5,
-      "total_count": 6
-    },
-    {
-      "id": "14662",
-      "title": "Slums of Beverly Hills",
-      "year": "1998",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/bTY6I0Mju4vTRHGoTZrNtxtAlAO.jpg",
-      "shame_count": 3,
-      "pride_count": 3,
       "total_count": 6
     },
     {
@@ -9383,17 +9185,6 @@
       "poster_path": "/8T7Hvb9trKvCAmbSI8cEIU0Sl2T.jpg",
       "shame_count": 4,
       "pride_count": 2,
-      "total_count": 6
-    },
-    {
-      "id": "26845",
-      "title": "Tarzan the Ape Man",
-      "year": "1932",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/sqtdNAktAI3p1iXmaEooaHjMmWd.jpg",
-      "shame_count": 2,
-      "pride_count": 4,
       "total_count": 6
     },
     {
@@ -9672,17 +9463,6 @@
       "total_count": 5
     },
     {
-      "id": "74067",
-      "title": "Pyar Kiye Jaa",
-      "year": "1966",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/ksKLcSHc0RPmg7aFXTtPhbCDPMb.jpg",
-      "shame_count": 4,
-      "pride_count": 1,
-      "total_count": 5
-    },
-    {
       "id": "376264",
       "title": "Qissa Panjab",
       "year": "2015",
@@ -9702,6 +9482,17 @@
       "poster_path": "/wtnA5mmNumYkeevokar6IskyrZP.jpg",
       "shame_count": 2,
       "pride_count": 3,
+      "total_count": 5
+    },
+    {
+      "id": "227345",
+      "title": "Rang",
+      "year": "1993",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/lJ9zrLsNoizF17o8De3pJgRRulv.jpg",
+      "shame_count": 4,
+      "pride_count": 1,
       "total_count": 5
     },
     {
@@ -9749,6 +9540,17 @@
       "total_count": 5
     },
     {
+      "id": "161179",
+      "title": "Shakti: The Power",
+      "year": "2002",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/3nn3XFCa0FreqSG7GfDK5bDUH12.jpg",
+      "shame_count": 2,
+      "pride_count": 3,
+      "total_count": 5
+    },
+    {
       "id": "107736",
       "title": "Shankar Shambhu",
       "year": "1976",
@@ -9757,17 +9559,6 @@
       "poster_path": "/s7SA3tS72rb2ONEEAR2NSpAj3cr.jpg",
       "shame_count": 2,
       "pride_count": 3,
-      "total_count": 5
-    },
-    {
-      "id": "102358",
-      "title": "Trimurti",
-      "year": "1995",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/o6Pmeu0tcw3YKNHLdYw7IrNNdNq.jpg",
-      "shame_count": 3,
-      "pride_count": 2,
       "total_count": 5
     },
     {
@@ -9881,14 +9672,14 @@
       "total_count": 5
     },
     {
-      "id": "211275",
-      "title": "Kachche Dhaage",
-      "year": "1999",
+      "id": "10757",
+      "title": "Kabhi Khushi Kabhie Gham",
+      "year": "2001",
       "industry": "bolly",
-      "country": "",
-      "poster_path": "/dldo2zZgGVlhvKG6DvqJd5nnjAt.jpg",
-      "shame_count": 1,
-      "pride_count": 4,
+      "country": "IN|GB",
+      "poster_path": "/12BvYKueY0eruZuTYIextEZaCC.jpg",
+      "shame_count": 2,
+      "pride_count": 3,
       "total_count": 5
     },
     {
@@ -10032,6 +9823,17 @@
       "poster_path": "/cSkebXELjhbemkGZb7lU5T1ivLn.jpg",
       "shame_count": 3,
       "pride_count": 2,
+      "total_count": 5
+    },
+    {
+      "id": "321441",
+      "title": "Naam O Nishan",
+      "year": "1987",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/1K7I1FW3R0MOikHZ40rjiOMvMbU.jpg",
+      "shame_count": 4,
+      "pride_count": 1,
       "total_count": 5
     },
     {
@@ -10184,6 +9986,17 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/gm7HCdPnNCVy049dVGn0AIENWgd.jpg",
+      "shame_count": 3,
+      "pride_count": 2,
+      "total_count": 5
+    },
+    {
+      "id": "277700",
+      "title": "Tera Jadoo Chal Gayaa",
+      "year": "2000",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/ez14a6KSGmG17BXe8AI2MJeTPd2.jpg",
       "shame_count": 3,
       "pride_count": 2,
       "total_count": 5
@@ -10417,17 +10230,6 @@
       "poster_path": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
       "shame_count": 2,
       "pride_count": 3,
-      "total_count": 5
-    },
-    {
-      "id": "76489",
-      "title": "The Three Stooges",
-      "year": "2012",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/b0nNQCL90RGTwjxLEFsFFLQZKNe.jpg",
-      "shame_count": 1,
-      "pride_count": 4,
       "total_count": 5
     },
     {
@@ -10684,6 +10486,17 @@
       "total_count": 5
     },
     {
+      "id": "9403",
+      "title": "Private Parts",
+      "year": "1997",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/8nCc9fhXCVvetlqpxkrCTc9NwOz.jpg",
+      "shame_count": 1,
+      "pride_count": 4,
+      "total_count": 5
+    },
+    {
       "id": "65889",
       "title": "Roseanna's Grave",
       "year": "1997",
@@ -10703,6 +10516,17 @@
       "poster_path": "/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
       "shame_count": 4,
       "pride_count": 1,
+      "total_count": 5
+    },
+    {
+      "id": "14662",
+      "title": "Slums of Beverly Hills",
+      "year": "1998",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/bTY6I0Mju4vTRHGoTZrNtxtAlAO.jpg",
+      "shame_count": 3,
+      "pride_count": 2,
       "total_count": 5
     },
     {
@@ -10992,17 +10816,6 @@
       "total_count": 5
     },
     {
-      "id": "20192",
-      "title": "Aloo Chaat",
-      "year": "2009",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/1XoRQnF2I49c0I3pZeIj9qaC4My.jpg",
-      "shame_count": 2,
-      "pride_count": 2,
-      "total_count": 4
-    },
-    {
       "id": "112967",
       "title": "Anth",
       "year": "1994",
@@ -11022,6 +10835,17 @@
       "poster_path": "/mh5SmoFFu7hnFKEXJLWxWR5CkkY.jpg",
       "shame_count": 2,
       "pride_count": 2,
+      "total_count": 4
+    },
+    {
+      "id": "19657",
+      "title": "Baazigar",
+      "year": "1993",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/ndQQ2bTV0JLSRxUBchE4eD3qhDb.jpg",
+      "shame_count": 3,
+      "pride_count": 1,
       "total_count": 4
     },
     {
@@ -11355,6 +11179,17 @@
       "total_count": 4
     },
     {
+      "id": "102358",
+      "title": "Trimurti",
+      "year": "1995",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/o6Pmeu0tcw3YKNHLdYw7IrNNdNq.jpg",
+      "shame_count": 3,
+      "pride_count": 1,
+      "total_count": 4
+    },
+    {
       "id": "378948",
       "title": "Gautam Govinda",
       "year": "2002",
@@ -11553,6 +11388,17 @@
       "total_count": 4
     },
     {
+      "id": "211275",
+      "title": "Kachche Dhaage",
+      "year": "1999",
+      "industry": "bolly",
+      "country": "",
+      "poster_path": "/dldo2zZgGVlhvKG6DvqJd5nnjAt.jpg",
+      "shame_count": 1,
+      "pride_count": 3,
+      "total_count": 4
+    },
+    {
       "id": "4254",
       "title": "Kal Ho Naa Ho",
       "year": "2003",
@@ -11572,6 +11418,17 @@
       "poster_path": "/oPdcOInH8TqR5udDTDPiDuLSN90.jpg",
       "shame_count": 3,
       "pride_count": 1,
+      "total_count": 4
+    },
+    {
+      "id": "93519",
+      "title": "Karan Arjun",
+      "year": "1995",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/uYhjsC9gCKhxiG2enkCJgdLOXjB.jpg",
+      "shame_count": 2,
+      "pride_count": 2,
       "total_count": 4
     },
     {
@@ -11812,17 +11669,6 @@
       "industry": "bolly",
       "country": "",
       "poster_path": "/4V4QbSabLUiT3LhyXFq1oqsjJ5K.jpg",
-      "shame_count": 3,
-      "pride_count": 1,
-      "total_count": 4
-    },
-    {
-      "id": "474084",
-      "title": "Aakhri Adaalat",
-      "year": "1988",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/x7lC9TpyGFdnNQAq6N94yxkBE9m.jpg",
       "shame_count": 3,
       "pride_count": 1,
       "total_count": 4
@@ -12081,6 +11927,17 @@
       "total_count": 4
     },
     {
+      "id": "76489",
+      "title": "The Three Stooges",
+      "year": "2012",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/b0nNQCL90RGTwjxLEFsFFLQZKNe.jpg",
+      "shame_count": 1,
+      "pride_count": 3,
+      "total_count": 4
+    },
+    {
       "id": "333348",
       "title": "Love the Coopers",
       "year": "2015",
@@ -12202,6 +12059,17 @@
       "total_count": 4
     },
     {
+      "id": "12615",
+      "title": "Death of a Salesman",
+      "year": "1985",
+      "industry": "holly",
+      "country": "DE|US",
+      "poster_path": "/tIRmjfaLmVHjGFaIcNGD3hggvbO.jpg",
+      "shame_count": 2,
+      "pride_count": 2,
+      "total_count": 4
+    },
+    {
       "id": "374671",
       "title": "After the Storm",
       "year": "2016",
@@ -12312,6 +12180,17 @@
       "total_count": 4
     },
     {
+      "id": "14254",
+      "title": "The Uninvited",
+      "year": "2009",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/1xQlzKUDLuCe3SUGIGL6K1PtldH.jpg",
+      "shame_count": 3,
+      "pride_count": 1,
+      "total_count": 4
+    },
+    {
       "id": "22553",
       "title": "At the Circus",
       "year": "1939",
@@ -12340,6 +12219,17 @@
       "industry": "holly",
       "country": "US",
       "poster_path": "/hsMe9TYfPs1VfpZs9xVLZBVGcES.jpg",
+      "shame_count": 2,
+      "pride_count": 2,
+      "total_count": 4
+    },
+    {
+      "id": "687528",
+      "title": "Notorious",
+      "year": "1972",
+      "industry": "holly",
+      "country": "IR",
+      "poster_path": "/wpOFswkRj5XlKfOvjy9HkPtTgzW.jpg",
       "shame_count": 2,
       "pride_count": 2,
       "total_count": 4
@@ -12576,17 +12466,6 @@
       "total_count": 4
     },
     {
-      "id": "82525",
-      "title": "Savages",
-      "year": "2012",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/joyiyBwYY5QCpldqT1FzrTqsTJK.jpg",
-      "shame_count": 2,
-      "pride_count": 2,
-      "total_count": 4
-    },
-    {
       "id": "10865",
       "title": "Atlantis: The Lost Empire",
       "year": "2001",
@@ -12796,17 +12675,6 @@
       "total_count": 4
     },
     {
-      "id": "20662",
-      "title": "Robin Hood",
-      "year": "2010",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/ldOLoEroWISvPvqTY2IgnuEUWTq.jpg",
-      "shame_count": 2,
-      "pride_count": 2,
-      "total_count": 4
-    },
-    {
       "id": "54615",
       "title": "When Willie Comes Marching Home",
       "year": "1950",
@@ -12882,6 +12750,17 @@
       "shame_count": 1,
       "pride_count": 3,
       "total_count": 4
+    },
+    {
+      "id": "20192",
+      "title": "Aloo Chaat",
+      "year": "2009",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/1XoRQnF2I49c0I3pZeIj9qaC4My.jpg",
+      "shame_count": 2,
+      "pride_count": 1,
+      "total_count": 3
     },
     {
       "id": "83895",
@@ -13192,6 +13071,17 @@
       "total_count": 3
     },
     {
+      "id": "66702",
+      "title": "Dil Ne Jise Apna Kahaa",
+      "year": "2004",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/iAE25a0EbYNLDFqWivPr3tULQXp.jpg",
+      "shame_count": 1,
+      "pride_count": 2,
+      "total_count": 3
+    },
+    {
       "id": "161410",
       "title": "Dil Tera Aashiq",
       "year": "1993",
@@ -13387,6 +13277,17 @@
       "poster_path": "",
       "shame_count": 2,
       "pride_count": 1,
+      "total_count": 3
+    },
+    {
+      "id": "165069",
+      "title": "Hameshaa",
+      "year": "1997",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/g9K6lJHB35Y9vi0tnlQ3G6ZbTFu.jpg",
+      "shame_count": 1,
+      "pride_count": 2,
       "total_count": 3
     },
     {
@@ -13761,17 +13662,6 @@
       "poster_path": "/8FNQTTPc8OsA74J2kQitmyRdOAs.jpg",
       "shame_count": 2,
       "pride_count": 1,
-      "total_count": 3
-    },
-    {
-      "id": "75352",
-      "title": "Abhimaan",
-      "year": "1973",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/w0PDRsh1f9G6NVvoixzYNmTnpvv.jpg",
-      "shame_count": 1,
-      "pride_count": 2,
       "total_count": 3
     },
     {
@@ -14160,6 +14050,17 @@
       "total_count": 3
     },
     {
+      "id": "1543753",
+      "title": "Deadline",
+      "year": "2025",
+      "industry": "holly",
+      "country": "HK|TW|GB",
+      "poster_path": "/53Rk1l820O5045o0FycMXHCtbkQ.jpg",
+      "shame_count": 2,
+      "pride_count": 1,
+      "total_count": 3
+    },
+    {
       "id": "24047",
       "title": "Alien Nation: Dark Horizon",
       "year": "1994",
@@ -14443,17 +14344,6 @@
       "poster_path": "/vznk8LPE5nRRbNjeTG20P42yy2l.jpg",
       "shame_count": 2,
       "pride_count": 1,
-      "total_count": 3
-    },
-    {
-      "id": "244509",
-      "title": "Cold in July",
-      "year": "2014",
-      "industry": "holly",
-      "country": "FR|US",
-      "poster_path": "/1rXkxhubAtKVTZl29Xbnwpfen3H.jpg",
-      "shame_count": 1,
-      "pride_count": 2,
       "total_count": 3
     },
     {
@@ -14892,6 +14782,17 @@
       "industry": "holly",
       "country": "US",
       "poster_path": "/dxMbBWegmjtPfZNmw6HHJjgZkQt.jpg",
+      "shame_count": 1,
+      "pride_count": 2,
+      "total_count": 3
+    },
+    {
+      "id": "26845",
+      "title": "Tarzan the Ape Man",
+      "year": "1932",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/sqtdNAktAI3p1iXmaEooaHjMmWd.jpg",
       "shame_count": 1,
       "pride_count": 2,
       "total_count": 3
@@ -16008,6 +15909,17 @@
       "total_count": 2
     },
     {
+      "id": "75352",
+      "title": "Abhimaan",
+      "year": "1973",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/w0PDRsh1f9G6NVvoixzYNmTnpvv.jpg",
+      "shame_count": 1,
+      "pride_count": 1,
+      "total_count": 2
+    },
+    {
       "id": "493620",
       "title": "Aiyaary",
       "year": "2018",
@@ -16767,6 +16679,17 @@
       "total_count": 2
     },
     {
+      "id": "244509",
+      "title": "Cold in July",
+      "year": "2014",
+      "industry": "holly",
+      "country": "FR|US",
+      "poster_path": "/1rXkxhubAtKVTZl29Xbnwpfen3H.jpg",
+      "shame_count": 1,
+      "pride_count": 1,
+      "total_count": 2
+    },
+    {
       "id": "28468",
       "title": "The Key",
       "year": "1983",
@@ -16949,17 +16872,6 @@
       "industry": "holly",
       "country": "HK",
       "poster_path": "/ySAg2M0RbPvvuJldAviQuhp7GaE.jpg",
-      "shame_count": 1,
-      "pride_count": 1,
-      "total_count": 2
-    },
-    {
-      "id": "465136",
-      "title": "Every Day",
-      "year": "2018",
-      "industry": "holly",
-      "country": "CH|GB|US",
-      "poster_path": "/4UnME3icxSspwL0UoGZNSyyp7Xs.jpg",
       "shame_count": 1,
       "pride_count": 1,
       "total_count": 2
@@ -17306,6 +17218,17 @@
       "total_count": 2
     },
     {
+      "id": "20662",
+      "title": "Robin Hood",
+      "year": "2010",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/ldOLoEroWISvPvqTY2IgnuEUWTq.jpg",
+      "shame_count": 1,
+      "pride_count": 1,
+      "total_count": 2
+    },
+    {
       "id": "69315",
       "title": "Battlestar Galactica: Razor",
       "year": "2007",
@@ -17489,8 +17412,8 @@
       "country": "US",
       "poster_path": "/pzcQ7cQBHIdsKLN4exd7bCyy1pk.jpg",
       "shame_count": 0,
-      "pride_count": 44,
-      "total_count": 44
+      "pride_count": 43,
+      "total_count": 43
     },
     {
       "id": "57586",
@@ -17521,9 +17444,9 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/2TxkhMrM98iUb74Dqbkdco3ED0X.jpg",
-      "shame_count": 26,
+      "shame_count": 24,
       "pride_count": 0,
-      "total_count": 26
+      "total_count": 24
     },
     {
       "id": "418235",
@@ -17546,17 +17469,6 @@
       "shame_count": 0,
       "pride_count": 15,
       "total_count": 15
-    },
-    {
-      "id": "21459",
-      "title": "Chupke Chupke",
-      "year": "1975",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/yNZf2yhQE42f3uIcR1IXOiMQ72c.jpg",
-      "shame_count": 14,
-      "pride_count": 0,
-      "total_count": 14
     },
     {
       "id": "32499",
@@ -17642,19 +17554,8 @@
       "industry": "holly",
       "country": "US",
       "poster_path": "/cO1Dvg7k87lHSPOdumn3ddJEKdX.jpg",
-      "shame_count": 12,
+      "shame_count": 11,
       "pride_count": 0,
-      "total_count": 12
-    },
-    {
-      "id": "72051",
-      "title": "Garv: Pride and Honour",
-      "year": "2004",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/9lqPTKndjMWfPmBRyH8rWw7bH5I.jpg",
-      "shame_count": 0,
-      "pride_count": 11,
       "total_count": 11
     },
     {
@@ -17669,23 +17570,12 @@
       "total_count": 10
     },
     {
-      "id": "45002",
-      "title": "Chamatkar",
-      "year": "1992",
+      "id": "21459",
+      "title": "Chupke Chupke",
+      "year": "1975",
       "industry": "bolly",
       "country": "IN",
-      "poster_path": "/tJlGNBkE0DNQ9iLkHMY2gsCOza3.jpg",
-      "shame_count": 10,
-      "pride_count": 0,
-      "total_count": 10
-    },
-    {
-      "id": "211277",
-      "title": "Dhaai Akshar Prem Ke",
-      "year": "2000",
-      "industry": "bolly",
-      "country": "",
-      "poster_path": "/gabkUhs9jgF88XuIcn2ySre5HqM.jpg",
+      "poster_path": "/yNZf2yhQE42f3uIcR1IXOiMQ72c.jpg",
       "shame_count": 10,
       "pride_count": 0,
       "total_count": 10
@@ -17724,6 +17614,17 @@
       "total_count": 10
     },
     {
+      "id": "70366",
+      "title": "Sahib Bibi Aur Ghulam",
+      "year": "1962",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/tUVjkGSe7ZRhFoWirqZOh00kNlz.jpg",
+      "shame_count": 10,
+      "pride_count": 0,
+      "total_count": 10
+    },
+    {
       "id": "108343",
       "title": "Nikaah",
       "year": "1982",
@@ -17746,12 +17647,12 @@
       "total_count": 10
     },
     {
-      "id": "229580",
-      "title": "Crazy Sexy Cool: The TLC Story",
-      "year": "2013",
-      "industry": "holly",
-      "country": "",
-      "poster_path": "/gaFZTDtzjN5kZgk3M83YPCCzHVG.jpg",
+      "id": "72051",
+      "title": "Garv: Pride and Honour",
+      "year": "2004",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/9lqPTKndjMWfPmBRyH8rWw7bH5I.jpg",
       "shame_count": 0,
       "pride_count": 10,
       "total_count": 10
@@ -17785,17 +17686,6 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/cg3GAKWQ8EjkdItuRqdACO1OpZh.jpg",
-      "shame_count": 9,
-      "pride_count": 0,
-      "total_count": 9
-    },
-    {
-      "id": "26229",
-      "title": "Hijack",
-      "year": "2008",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/st3qds7lR8E7I97zAFsMqzMbJya.jpg",
       "shame_count": 9,
       "pride_count": 0,
       "total_count": 9
@@ -17867,23 +17757,23 @@
       "total_count": 9
     },
     {
+      "id": "229580",
+      "title": "Crazy Sexy Cool: The TLC Story",
+      "year": "2013",
+      "industry": "holly",
+      "country": "",
+      "poster_path": "/gaFZTDtzjN5kZgk3M83YPCCzHVG.jpg",
+      "shame_count": 0,
+      "pride_count": 9,
+      "total_count": 9
+    },
+    {
       "id": "60389",
       "title": "Bawarchi",
       "year": "1972",
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/34zBSGpu8MnUlIF74PcWfrZZAG1.jpg",
-      "shame_count": 8,
-      "pride_count": 0,
-      "total_count": 8
-    },
-    {
-      "id": "25519",
-      "title": "Pardes",
-      "year": "1997",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/cUiM7V2hK540SN9Wd6UXZPGcDBH.jpg",
       "shame_count": 8,
       "pride_count": 0,
       "total_count": 8
@@ -17911,28 +17801,6 @@
       "total_count": 8
     },
     {
-      "id": "48390",
-      "title": "Gangaa Jamunaa Saraswathi",
-      "year": "1988",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/cMOCDG5imInIKlx4tbFrH8JeL9w.jpg",
-      "shame_count": 8,
-      "pride_count": 0,
-      "total_count": 8
-    },
-    {
-      "id": "85053",
-      "title": "Jannat 2",
-      "year": "2012",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/2nQgcZb9hGzU2Dz8cYC5JoxkYBi.jpg",
-      "shame_count": 0,
-      "pride_count": 8,
-      "total_count": 8
-    },
-    {
       "id": "11518",
       "title": "Mohabbatein",
       "year": "2000",
@@ -17950,17 +17818,6 @@
       "industry": "holly",
       "country": "US",
       "poster_path": "/yyhniD8A7Mv6SOn8oo1Ba2K0mKc.jpg",
-      "shame_count": 0,
-      "pride_count": 8,
-      "total_count": 8
-    },
-    {
-      "id": "1013482",
-      "title": "Borderline",
-      "year": "2025",
-      "industry": "holly",
-      "country": "CA|US",
-      "poster_path": "/hUrNKVrkMN7sdt0oAioopMcxyoq.jpg",
       "shame_count": 0,
       "pride_count": 8,
       "total_count": 8
@@ -17999,17 +17856,6 @@
       "total_count": 8
     },
     {
-      "id": "38357",
-      "title": "Morning Glory",
-      "year": "2010",
-      "industry": "holly",
-      "country": "US|GB",
-      "poster_path": "/aFRXEoB3QkeHNHYmVGC3uzFSol8.jpg",
-      "shame_count": 0,
-      "pride_count": 8,
-      "total_count": 8
-    },
-    {
       "id": "297213",
       "title": "Aunty No. 1",
       "year": "1998",
@@ -18038,6 +17884,28 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/45i934IvoLvuCvhus13n8MxGBV4.jpg",
+      "shame_count": 7,
+      "pride_count": 0,
+      "total_count": 7
+    },
+    {
+      "id": "45002",
+      "title": "Chamatkar",
+      "year": "1992",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/tJlGNBkE0DNQ9iLkHMY2gsCOza3.jpg",
+      "shame_count": 7,
+      "pride_count": 0,
+      "total_count": 7
+    },
+    {
+      "id": "25519",
+      "title": "Pardes",
+      "year": "1997",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/cUiM7V2hK540SN9Wd6UXZPGcDBH.jpg",
       "shame_count": 7,
       "pride_count": 0,
       "total_count": 7
@@ -18181,17 +18049,6 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/ctjT1pMNAGD9ou0kuhz806tf7kX.jpg",
-      "shame_count": 0,
-      "pride_count": 7,
-      "total_count": 7
-    },
-    {
-      "id": "584850",
-      "title": "Tanhaji: The Unsung Warrior",
-      "year": "2020",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/fZhgcUVwV7ocglL5XDq4ygsfXqD.jpg",
       "shame_count": 0,
       "pride_count": 7,
       "total_count": 7
@@ -18373,12 +18230,12 @@
       "total_count": 6
     },
     {
-      "id": "273886",
-      "title": "Holiday",
-      "year": "2014",
+      "id": "107595",
+      "title": "Sarphira",
+      "year": "1992",
       "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/8aPPza9BHumJYl0KAABmOdFbUjm.jpg",
+      "country": "",
+      "poster_path": "/lyLwO4xq6oEAj23UQWGQQqARz7I.jpg",
       "shame_count": 6,
       "pride_count": 0,
       "total_count": 6
@@ -18450,17 +18307,6 @@
       "total_count": 6
     },
     {
-      "id": "160243",
-      "title": "Oh Darling! Yeh Hai India!",
-      "year": "1995",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/ucnBBenE8HzcqbEz21Hu097BRel.jpg",
-      "shame_count": 6,
-      "pride_count": 0,
-      "total_count": 6
-    },
-    {
       "id": "82177",
       "title": "Aaj Ki Taaza Khabar",
       "year": "1973",
@@ -18516,23 +18362,12 @@
       "total_count": 6
     },
     {
-      "id": "21175",
-      "title": "Lakshya",
-      "year": "2004",
+      "id": "584850",
+      "title": "Tanhaji: The Unsung Warrior",
+      "year": "2020",
       "industry": "bolly",
       "country": "IN",
-      "poster_path": "/ctB8RWoK2LHn5skqN4eUWVSvpyM.jpg",
-      "shame_count": 0,
-      "pride_count": 6,
-      "total_count": 6
-    },
-    {
-      "id": "155973",
-      "title": "Aan: Men at Work",
-      "year": "2004",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/3iZjhwvpnSrZPWviWWSs2wu10ey.jpg",
+      "poster_path": "/fZhgcUVwV7ocglL5XDq4ygsfXqD.jpg",
       "shame_count": 0,
       "pride_count": 6,
       "total_count": 6
@@ -18648,6 +18483,17 @@
       "total_count": 6
     },
     {
+      "id": "38357",
+      "title": "Morning Glory",
+      "year": "2010",
+      "industry": "holly",
+      "country": "US|GB",
+      "poster_path": "/aFRXEoB3QkeHNHYmVGC3uzFSol8.jpg",
+      "shame_count": 0,
+      "pride_count": 6,
+      "total_count": 6
+    },
+    {
       "id": "9029",
       "title": "What Happens in Vegas",
       "year": "2008",
@@ -18758,6 +18604,17 @@
       "total_count": 5
     },
     {
+      "id": "211277",
+      "title": "Dhaai Akshar Prem Ke",
+      "year": "2000",
+      "industry": "bolly",
+      "country": "",
+      "poster_path": "/gabkUhs9jgF88XuIcn2ySre5HqM.jpg",
+      "shame_count": 5,
+      "pride_count": 0,
+      "total_count": 5
+    },
+    {
       "id": "35064",
       "title": "Dhadkan",
       "year": "2000",
@@ -18846,12 +18703,23 @@
       "total_count": 5
     },
     {
-      "id": "168495",
-      "title": "Henna",
-      "year": "1991",
+      "id": "26229",
+      "title": "Hijack",
+      "year": "2008",
       "industry": "bolly",
       "country": "IN",
-      "poster_path": "/vChTvHPB01q4XnrR6wVGAh26pqd.jpg",
+      "poster_path": "/st3qds7lR8E7I97zAFsMqzMbJya.jpg",
+      "shame_count": 5,
+      "pride_count": 0,
+      "total_count": 5
+    },
+    {
+      "id": "273886",
+      "title": "Holiday",
+      "year": "2014",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/8aPPza9BHumJYl0KAABmOdFbUjm.jpg",
       "shame_count": 5,
       "pride_count": 0,
       "total_count": 5
@@ -18978,6 +18846,28 @@
       "total_count": 5
     },
     {
+      "id": "136542",
+      "title": "Family: Ties of Blood",
+      "year": "2006",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/dMo4b6JqrpbP8bkQpdqu5VlYybC.jpg",
+      "shame_count": 5,
+      "pride_count": 0,
+      "total_count": 5
+    },
+    {
+      "id": "48390",
+      "title": "Gangaa Jamunaa Saraswathi",
+      "year": "1988",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/cMOCDG5imInIKlx4tbFrH8JeL9w.jpg",
+      "shame_count": 5,
+      "pride_count": 0,
+      "total_count": 5
+    },
+    {
       "id": "160242",
       "title": "Ram Jaane",
       "year": "1995",
@@ -19099,17 +18989,6 @@
       "total_count": 5
     },
     {
-      "id": "16366",
-      "title": "Joseph: King of Dreams",
-      "year": "2000",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/ou0JqPXFbQcphqkMx1grfsmeJFX.jpg",
-      "shame_count": 0,
-      "pride_count": 5,
-      "total_count": 5
-    },
-    {
       "id": "346134",
       "title": "Miss Stevens",
       "year": "2016",
@@ -19204,17 +19083,6 @@
       "industry": "holly",
       "country": "US",
       "poster_path": "/obnOuFa2yJRorRM3rab3rXZFfEh.jpg",
-      "shame_count": 0,
-      "pride_count": 5,
-      "total_count": 5
-    },
-    {
-      "id": "10377",
-      "title": "My Cousin Vinny",
-      "year": "1992",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
       "shame_count": 0,
       "pride_count": 5,
       "total_count": 5
@@ -19385,17 +19253,6 @@
       "total_count": 5
     },
     {
-      "id": "449361",
-      "title": "Anaarkali of Aarah",
-      "year": "2017",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/nRK1wUXVtiSHNPDRuLPgsQJcteT.jpg",
-      "shame_count": 4,
-      "pride_count": 0,
-      "total_count": 4
-    },
-    {
       "id": "154337",
       "title": "Andala Rakshasi",
       "year": "2012",
@@ -19484,28 +19341,6 @@
       "total_count": 4
     },
     {
-      "id": "19418",
-      "title": "Dhol",
-      "year": "2007",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/bq7qs9HEH9OIdGjzUUmXGgs5HCt.jpg",
-      "shame_count": 4,
-      "pride_count": 0,
-      "total_count": 4
-    },
-    {
-      "id": "137439",
-      "title": "Dil Hai Ke Manta Nahin",
-      "year": "1991",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/8fFgE7DnHbQZ2t0W6doLxQxYiuH.jpg",
-      "shame_count": 4,
-      "pride_count": 0,
-      "total_count": 4
-    },
-    {
       "id": "413421",
       "title": "Phillauri",
       "year": "2017",
@@ -19534,6 +19369,17 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/4N6fJ7MUgTGZ3LPnE0bv831S5KK.jpg",
+      "shame_count": 4,
+      "pride_count": 0,
+      "total_count": 4
+    },
+    {
+      "id": "74067",
+      "title": "Pyar Kiye Jaa",
+      "year": "1966",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/ksKLcSHc0RPmg7aFXTtPhbCDPMb.jpg",
       "shame_count": 4,
       "pride_count": 0,
       "total_count": 4
@@ -19616,17 +19462,6 @@
       "total_count": 4
     },
     {
-      "id": "397690",
-      "title": "Gayab",
-      "year": "2004",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/bTEslOpqHHxqjB3Si3wM3DX8JWE.jpg",
-      "shame_count": 4,
-      "pride_count": 0,
-      "total_count": 4
-    },
-    {
       "id": "410853",
       "title": "Ghazab",
       "year": "1982",
@@ -19666,6 +19501,17 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/tJVh1ZHZNgR8nqV3j3iSy8fA6Bb.jpg",
+      "shame_count": 4,
+      "pride_count": 0,
+      "total_count": 4
+    },
+    {
+      "id": "168495",
+      "title": "Henna",
+      "year": "1991",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/vChTvHPB01q4XnrR6wVGAh26pqd.jpg",
       "shame_count": 4,
       "pride_count": 0,
       "total_count": 4
@@ -19957,6 +19803,17 @@
       "total_count": 4
     },
     {
+      "id": "85053",
+      "title": "Jannat 2",
+      "year": "2012",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/2nQgcZb9hGzU2Dz8cYC5JoxkYBi.jpg",
+      "shame_count": 0,
+      "pride_count": 4,
+      "total_count": 4
+    },
+    {
       "id": "546311",
       "title": "Kohinoor",
       "year": "1960",
@@ -20001,12 +19858,12 @@
       "total_count": 4
     },
     {
-      "id": "205032",
-      "title": "Nanhe Jaisalmer: A Dream Come True",
-      "year": "2007",
+      "id": "155973",
+      "title": "Aan: Men at Work",
+      "year": "2004",
       "industry": "bolly",
-      "country": "",
-      "poster_path": "/x68KSyk98vabekwAyXUXPmSqMGA.jpg",
+      "country": "IN",
+      "poster_path": "/3iZjhwvpnSrZPWviWWSs2wu10ey.jpg",
       "shame_count": 0,
       "pride_count": 4,
       "total_count": 4
@@ -20018,17 +19875,6 @@
       "industry": "bolly",
       "country": "",
       "poster_path": "/fxFdGYqNlcuWR8Bc1WB4yYz8R15.jpg",
-      "shame_count": 0,
-      "pride_count": 4,
-      "total_count": 4
-    },
-    {
-      "id": "8909",
-      "title": "Wanted",
-      "year": "2008",
-      "industry": "bolly",
-      "country": "US",
-      "poster_path": "/njy7Pz7ZHZceO7lNfGIHKphY8Hd.jpg",
       "shame_count": 0,
       "pride_count": 4,
       "total_count": 4
@@ -20122,17 +19968,6 @@
       "total_count": 4
     },
     {
-      "id": "26479",
-      "title": "Strapped",
-      "year": "1993",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/txcj4qo5wJ1Vdv0jLCL8Bl1hzU7.jpg",
-      "shame_count": 4,
-      "pride_count": 0,
-      "total_count": 4
-    },
-    {
       "id": "18900",
       "title": "In Cold Blood",
       "year": "1967",
@@ -20177,12 +20012,12 @@
       "total_count": 4
     },
     {
-      "id": "42196",
-      "title": "The Bad Seed",
-      "year": "1956",
+      "id": "1013482",
+      "title": "Borderline",
+      "year": "2025",
       "industry": "holly",
-      "country": "US",
-      "poster_path": "/iAgSkpZslQ2s3onL9TaHbyWygtC.jpg",
+      "country": "CA|US",
+      "poster_path": "/hUrNKVrkMN7sdt0oAioopMcxyoq.jpg",
       "shame_count": 0,
       "pride_count": 4,
       "total_count": 4
@@ -20194,17 +20029,6 @@
       "industry": "holly",
       "country": "US",
       "poster_path": "/3rdEAMh4a3pc7GO6fSkJwpt7BWX.jpg",
-      "shame_count": 0,
-      "pride_count": 4,
-      "total_count": 4
-    },
-    {
-      "id": "13995",
-      "title": "Captain America",
-      "year": "1990",
-      "industry": "holly",
-      "country": "US|YU|HR|SI",
-      "poster_path": "/vdHrLFfHcJX9nlvUfG3LK2a2hq4.jpg",
       "shame_count": 0,
       "pride_count": 4,
       "total_count": 4
@@ -20282,17 +20106,6 @@
       "industry": "holly",
       "country": "US",
       "poster_path": "/gl6Q7GwDnwHDNd1emmQBoyUKiwB.jpg",
-      "shame_count": 0,
-      "pride_count": 4,
-      "total_count": 4
-    },
-    {
-      "id": "77663",
-      "title": "Killing Season",
-      "year": "2013",
-      "industry": "holly",
-      "country": "BE|US|BG",
-      "poster_path": "/o55HXx21PqRcOgAaOWFz4tGMrZh.jpg",
       "shame_count": 0,
       "pride_count": 4,
       "total_count": 4
@@ -20392,6 +20205,17 @@
       "industry": "holly",
       "country": "US",
       "poster_path": "/7jKefCfhcXLd1qVnmc1zBhSgPjh.jpg",
+      "shame_count": 0,
+      "pride_count": 4,
+      "total_count": 4
+    },
+    {
+      "id": "10377",
+      "title": "My Cousin Vinny",
+      "year": "1992",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
       "shame_count": 0,
       "pride_count": 4,
       "total_count": 4
@@ -20535,17 +20359,6 @@
       "industry": "holly",
       "country": "US",
       "poster_path": "/ce8rBGFR0naGsp6mKy9CNKn9iSa.jpg",
-      "shame_count": 0,
-      "pride_count": 4,
-      "total_count": 4
-    },
-    {
-      "id": "37131",
-      "title": "Impulse",
-      "year": "1990",
-      "industry": "holly",
-      "country": "US",
-      "poster_path": "/heZvs7qR8z9XCPpFsQrAKHAx4xC.jpg",
       "shame_count": 0,
       "pride_count": 4,
       "total_count": 4
@@ -20832,6 +20645,17 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/lKxbegRPahPDeOYeaDHhsNJDZU8.jpg",
+      "shame_count": 3,
+      "pride_count": 0,
+      "total_count": 3
+    },
+    {
+      "id": "19418",
+      "title": "Dhol",
+      "year": "2007",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/bq7qs9HEH9OIdGjzUUmXGgs5HCt.jpg",
       "shame_count": 3,
       "pride_count": 0,
       "total_count": 3
@@ -21244,6 +21068,17 @@
       "total_count": 3
     },
     {
+      "id": "160243",
+      "title": "Oh Darling! Yeh Hai India!",
+      "year": "1995",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/ucnBBenE8HzcqbEz21Hu097BRel.jpg",
+      "shame_count": 3,
+      "pride_count": 0,
+      "total_count": 3
+    },
+    {
       "id": "483877",
       "title": "15+ Coming of Age",
       "year": "2017",
@@ -21294,6 +21129,17 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/qIGudeHpzNVKAIiktME7Z2OSjnb.jpg",
+      "shame_count": 3,
+      "pride_count": 0,
+      "total_count": 3
+    },
+    {
+      "id": "474084",
+      "title": "Aakhri Adaalat",
+      "year": "1988",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/x7lC9TpyGFdnNQAq6N94yxkBE9m.jpg",
       "shame_count": 3,
       "pride_count": 0,
       "total_count": 3
@@ -21541,6 +21387,17 @@
       "total_count": 3
     },
     {
+      "id": "21175",
+      "title": "Lakshya",
+      "year": "2004",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/ctB8RWoK2LHn5skqN4eUWVSvpyM.jpg",
+      "shame_count": 0,
+      "pride_count": 3,
+      "total_count": 3
+    },
+    {
       "id": "491622",
       "title": "Manikarnika: The Queen of Jhansi",
       "year": "2019",
@@ -21558,6 +21415,17 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "",
+      "shame_count": 0,
+      "pride_count": 3,
+      "total_count": 3
+    },
+    {
+      "id": "205032",
+      "title": "Nanhe Jaisalmer: A Dream Come True",
+      "year": "2007",
+      "industry": "bolly",
+      "country": "",
+      "poster_path": "/x68KSyk98vabekwAyXUXPmSqMGA.jpg",
       "shame_count": 0,
       "pride_count": 3,
       "total_count": 3
@@ -21904,17 +21772,6 @@
       "total_count": 3
     },
     {
-      "id": "10528",
-      "title": "Sherlock Holmes",
-      "year": "2009",
-      "industry": "holly",
-      "country": "US|DE|GB",
-      "poster_path": "/momkKuWburNTqKBF6ez7rvhYVhE.jpg",
-      "shame_count": 0,
-      "pride_count": 3,
-      "total_count": 3
-    },
-    {
       "id": "42515",
       "title": "The Man Called Flintstone",
       "year": "1966",
@@ -22130,6 +21987,17 @@
       "industry": "holly",
       "country": "US|DE",
       "poster_path": "/j343Rpj3WeNvP0SV80zveve70io.jpg",
+      "shame_count": 0,
+      "pride_count": 3,
+      "total_count": 3
+    },
+    {
+      "id": "77663",
+      "title": "Killing Season",
+      "year": "2013",
+      "industry": "holly",
+      "country": "BE|US|BG",
+      "poster_path": "/o55HXx21PqRcOgAaOWFz4tGMrZh.jpg",
       "shame_count": 0,
       "pride_count": 3,
       "total_count": 3
@@ -23092,6 +22960,17 @@
       "total_count": 2
     },
     {
+      "id": "137439",
+      "title": "Dil Hai Ke Manta Nahin",
+      "year": "1991",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/8fFgE7DnHbQZ2t0W6doLxQxYiuH.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
       "id": "363413",
       "title": "Pyaar Ka Punchnama 2",
       "year": "2015",
@@ -23131,17 +23010,6 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/6dMZIg4hgc5tF50NbmXYb0yIlrj.jpg",
-      "shame_count": 2,
-      "pride_count": 0,
-      "total_count": 2
-    },
-    {
-      "id": "45003",
-      "title": "Raju Ban Gaya Gentleman",
-      "year": "1992",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/fKwlg9RaftVirIhuLya2fmJv8b2.jpg",
       "shame_count": 2,
       "pride_count": 0,
       "total_count": 2
@@ -23202,6 +23070,17 @@
       "total_count": 2
     },
     {
+      "id": "397690",
+      "title": "Gayab",
+      "year": "2004",
+      "industry": "bolly",
+      "country": "IN",
+      "poster_path": "/bTEslOpqHHxqjB3Si3wM3DX8JWE.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
       "id": "154311",
       "title": "Geraftaar",
       "year": "1985",
@@ -23252,17 +23131,6 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/sSHhlukG0bNhmlQMjPtXhBythDE.jpg",
-      "shame_count": 2,
-      "pride_count": 0,
-      "total_count": 2
-    },
-    {
-      "id": "282346",
-      "title": "Hate Story 2",
-      "year": "2014",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/y5fg6O5ttxvh2wkMY1fUchLfZSL.jpg",
       "shame_count": 2,
       "pride_count": 0,
       "total_count": 2
@@ -23653,34 +23521,12 @@
       "total_count": 2
     },
     {
-      "id": "84858",
-      "title": "Agneepath",
-      "year": "2012",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/xO9sErs0c3XMzh8O34ygQWcENTj.jpg",
-      "shame_count": 2,
-      "pride_count": 0,
-      "total_count": 2
-    },
-    {
       "id": "20507",
       "title": "Agyaat",
       "year": "2009",
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/d1v7dk1f1N2OfxQtD8q4w2XKnX7.jpg",
-      "shame_count": 2,
-      "pride_count": 0,
-      "total_count": 2
-    },
-    {
-      "id": "16894",
-      "title": "Akele Hum Akele Tum",
-      "year": "1995",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/xpCbEiAstlOOIhjbQhQrTHF4ZEg.jpg",
       "shame_count": 2,
       "pride_count": 0,
       "total_count": 2
@@ -23934,17 +23780,6 @@
       "industry": "bolly",
       "country": "IN",
       "poster_path": "/vfT13dURNNoz7QiZpPH5WOuJGPX.jpg",
-      "shame_count": 2,
-      "pride_count": 0,
-      "total_count": 2
-    },
-    {
-      "id": "161223",
-      "title": "Dulhan Hum Le Jayenge",
-      "year": "2000",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/xC05yY7nXCOMh31NvBQhHO4Qg4x.jpg",
       "shame_count": 2,
       "pride_count": 0,
       "total_count": 2
@@ -24412,45 +24247,12 @@
       "total_count": 2
     },
     {
-      "id": "124093",
-      "title": "Jism 2",
-      "year": "2012",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/8pnZpGsKA4JxPvpjqAtC8YPoS4p.jpg",
-      "shame_count": 0,
-      "pride_count": 2,
-      "total_count": 2
-    },
-    {
       "id": "819783",
       "title": "Karishma Kali Kaa",
       "year": "1990",
       "industry": "bolly",
       "country": "",
       "poster_path": "/A07qkFCZiEhB6cJZs3BtVkVHDh0.jpg",
-      "shame_count": 0,
-      "pride_count": 2,
-      "total_count": 2
-    },
-    {
-      "id": "136615",
-      "title": "Kasoor",
-      "year": "2001",
-      "industry": "bolly",
-      "country": "",
-      "poster_path": "/szT2yDKj5MUNBovMS1l69Boh8o0.jpg",
-      "shame_count": 0,
-      "pride_count": 2,
-      "total_count": 2
-    },
-    {
-      "id": "48923",
-      "title": "Kuch Naa Kaho",
-      "year": "2003",
-      "industry": "bolly",
-      "country": "IN",
-      "poster_path": "/93tOqoycBAcqw7OFMQkBfx6WzrS.jpg",
       "shame_count": 0,
       "pride_count": 2,
       "total_count": 2
@@ -24660,6 +24462,17 @@
       "industry": "bolly",
       "country": "",
       "poster_path": "/zA8lbSRKUpmCcHmD4WE8SUloTKa.jpg",
+      "shame_count": 0,
+      "pride_count": 2,
+      "total_count": 2
+    },
+    {
+      "id": "8909",
+      "title": "Wanted",
+      "year": "2008",
+      "industry": "bolly",
+      "country": "US",
+      "poster_path": "/njy7Pz7ZHZceO7lNfGIHKphY8Hd.jpg",
       "shame_count": 0,
       "pride_count": 2,
       "total_count": 2
@@ -24902,6 +24715,193 @@
       "industry": "holly",
       "country": "JP",
       "poster_path": "/rfnmbK3bNWSOwC4QXpoK7zeTbt2.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "75950",
+      "title": "The Heat's On",
+      "year": "1943",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/9raTpmPJTRp9r9WiWYV418Z781b.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "222935",
+      "title": "The Fault in Our Stars",
+      "year": "2014",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "244517",
+      "title": "God's Pocket",
+      "year": "2014",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/yirCze85wLM7Ya31NpFwtH4dKSs.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "10299",
+      "title": "Hush... Hush, Sweet Charlotte",
+      "year": "1964",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/hwVGNaVXFblluLwUjGcJ7RgW1rV.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "23574",
+      "title": "What a Way to Go!",
+      "year": "1964",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/6fuRkL3OhoeubEOULCMVJsUTaAU.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "15301",
+      "title": "Twilight Zone: The Movie",
+      "year": "1983",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/sDWARc5aYTUKE8Y2FIGVgWXuI4K.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "16765",
+      "title": "Bukowski: Born Into This",
+      "year": "2003",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/84jdtVpKSgyGpBy9fdeQZWXiqeI.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "26038",
+      "title": "Call Northside 777",
+      "year": "1948",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/ejXHWJRTYfvPFGQnwOZevqoNU6H.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "5971",
+      "title": "We're No Angels",
+      "year": "1989",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/5XBVURkON7jyzxr0cONWeTbgAov.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "25670",
+      "title": "Foreign Correspondent",
+      "year": "1940",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/n0WX6eIdIliKB66MI2MWZ3wHsoJ.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "10322",
+      "title": "Being There",
+      "year": "1979",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "2898",
+      "title": "As Good as It Gets",
+      "year": "1997",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/xXxuJPNUDZ0vjsAXca0O5p3leVB.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "11485",
+      "title": "Take the Money and Run",
+      "year": "1969",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/dT7cKFxsuHzSnDBxKeP5acoIpWZ.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "73351",
+      "title": "Shadrach",
+      "year": "1998",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/zXqzSRvIUBBJRVaHXXQSEkGMmdY.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "10396",
+      "title": "Tequila Sunrise",
+      "year": "1988",
+      "industry": "holly",
+      "country": "US",
+      "poster_path": "/8LoG0GL5N5e7zvvXezwwGnUfRHL.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "26338",
+      "title": "Romance",
+      "year": "1999",
+      "industry": "holly",
+      "country": "FR",
+      "poster_path": "/xR2b19JyLr8ssLzIvaXBOkGkghm.jpg",
+      "shame_count": 2,
+      "pride_count": 0,
+      "total_count": 2
+    },
+    {
+      "id": "384737",
+      "title": "Precious Cargo",
+      "year": "2016",
+      "industry": "holly",
+      "country": "CA",
+      "poster_path": "/dOQv2PDBu9bBCZRLeRp6QQYJDr3.jpg",
       "shame_count": 2,
       "pride_count": 0,
       "total_count": 2

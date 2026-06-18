@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 0,
-    "pride": 8
+    "pride": 6
   },
   "themes": [],
   "gender_breakdown": {
@@ -68,24 +68,6 @@
       "dialogue_id": "WP2357_holly",
       "emotion": "pride",
       "dialogue": "♫ Makes you think about it Think about it, doesn't it? ♫  ♫ Sometimes all it takes is one voice ♫  ♫ Take what you want Steal my pride ♫  ♫ Build me up or cut me down to size ♫  ♫ Shut me out But I'll just scream ♫",
-      "target_person": "",
-      "target_gender": "unclear",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
-      "dialogue_id": "WP2358_holly",
-      "emotion": "pride",
-      "dialogue": "♫ You ain't taking that from me ♫  ♫ No you ain't taking that ♫  ♫ Take what you want Steal my pride ♫  ♫ Build me up or cut me down to size ♫  ♫ Shut me out But I'll just scream ♫",
-      "target_person": "",
-      "target_gender": "unclear",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
-      "dialogue_id": "WP2359_holly",
-      "emotion": "pride",
-      "dialogue": "♫ You ain't taking that from me ♫  ♫ No you ain't taking that ♫  ♫ Take what you want Steal my pride ♫  ♫ Build me up or cut me down to size ♫  ♫ Shut me out But I'll just scream ♫",
       "target_person": "",
       "target_gender": "unclear",
       "cause_raw": "",

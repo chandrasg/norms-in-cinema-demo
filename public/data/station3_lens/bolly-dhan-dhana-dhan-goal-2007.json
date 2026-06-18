@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 1,
-    "pride": 6
+    "pride": 5
   },
   "themes": [
     {
@@ -19,10 +19,6 @@
     },
     {
       "label": "Betrayal",
-      "count": 1
-    },
-    {
-      "label": "Family Honor",
       "count": 1
     }
   ],
@@ -49,15 +45,6 @@
       "target_gender": "male",
       "cause_raw": "winning the championship",
       "theme_label": "Sports Victory"
-    },
-    {
-      "dialogue_id": "p535_bolly",
-      "emotion": "pride",
-      "dialogue": "It's about who we are....it's about how we'll be known in this country..our parents, our children it's about them....it's about our identity....which you have traded..It is not about football. Football. It's about our colour....and about the pride in being who we are..It's about being proud of our heritage..It's about our name..about our self respect..and you've forced us to bow our heads in shame..Why? Why?..And that brings Southall number one on the charts. We are proud of our footballers. Southall has been playing an outstanding tournament.",
-      "target_person": "we",
-      "target_gender": "unclear",
-      "cause_raw": "preserving heritage and identity",
-      "theme_label": "Family Honor"
     },
     {
       "dialogue_id": "p536_bolly",

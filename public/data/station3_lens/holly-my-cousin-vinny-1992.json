@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 0,
-    "pride": 5
+    "pride": 4
   },
   "themes": [
     {
@@ -24,7 +24,7 @@
   ],
   "gender_breakdown": {
     "pride": {
-      "male": 5
+      "male": 4
     }
   },
   "dialogues": [
@@ -57,15 +57,6 @@
     },
     {
       "dialogue_id": "WP1437_holly",
-      "emotion": "pride",
-      "dialogue": "' And he found it pretty soon underneath the southern moon '  ' When she finally made him understand '  ' That every man's got his pride and he'll try to run and hide '  ' From emotions that his heart has felt '  ' So he gave her love a chance That's when he found romance '",
-      "target_person": "",
-      "target_gender": "male",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
-      "dialogue_id": "WP1438_holly",
       "emotion": "pride",
       "dialogue": "' And he found it pretty soon underneath the southern moon '  ' When she finally made him understand '  ' That every man's got his pride and he'll try to run and hide '  ' From emotions that his heart has felt '  ' So he gave her love a chance That's when he found romance '",
       "target_person": "",

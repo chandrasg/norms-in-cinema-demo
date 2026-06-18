@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 4,
-    "pride": 3
+    "pride": 2
   },
   "themes": [
     {
@@ -40,7 +40,7 @@
       "male": 1
     },
     "pride": {
-      "male": 3
+      "male": 2
     }
   },
   "dialogues": [
@@ -79,15 +79,6 @@
       "target_gender": "male",
       "cause_raw": "inability to control crime and violence",
       "theme_label": "Criminal Activity"
-    },
-    {
-      "dialogue_id": "p2940_bolly",
-      "emotion": "pride",
-      "dialogue": "The whole city is sinking in murder and violence. if a man is late in returning home, his family prays for his life. You may be proud of this, but I'm ashamed of it! Because I'm concerned about my duty and position. When you were getting over your hangover at home .... I was facing their bullets with my men!",
-      "target_person": "",
-      "target_gender": "male",
-      "cause_raw": "",
-      "theme_label": ""
     },
     {
       "dialogue_id": "p2941_bolly",

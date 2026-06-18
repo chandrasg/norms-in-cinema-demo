@@ -9,7 +9,7 @@
     "overview": "A radio host is victimised by the notorious cannibal family while a former Texas Marshal hunts them."
   },
   "totals": {
-    "shame": 12,
+    "shame": 11,
     "pride": 0
   },
   "themes": [
@@ -39,15 +39,6 @@
     },
     {
       "dialogue_id": "WS763_holly",
-      "emotion": "shame",
-      "dialogue": "♪ Shame ♪  ♪ Shame shame ♪  ♪ Shame shame ♪  ♪ Shame shame ♪  Whoo! ♪ Shame on you ♪",
-      "target_person": "",
-      "target_gender": "unclear",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
-      "dialogue_id": "WS764_holly",
       "emotion": "shame",
       "dialogue": "♪ Shame ♪  ♪ Shame shame ♪  ♪ Shame shame ♪  ♪ Shame shame ♪  Whoo! ♪ Shame on you ♪",
       "target_person": "",

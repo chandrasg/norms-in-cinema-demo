@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 6,
-    "pride": 1
+    "pride": 0
   },
   "themes": [
     {
@@ -28,19 +28,12 @@
     {
       "label": "Dishonesty",
       "count": 1
-    },
-    {
-      "label": "Son's Accomplishments",
-      "count": 1
     }
   ],
   "gender_breakdown": {
     "shame": {
       "male": 1,
       "female": 4
-    },
-    "pride": {
-      "male": 1
     }
   },
   "dialogues": [
@@ -97,15 +90,6 @@
       "target_gender": "female",
       "cause_raw": "Accusing someone falsely",
       "theme_label": "False Accusation"
-    },
-    {
-      "dialogue_id": "p1014_bolly",
-      "emotion": "pride",
-      "dialogue": "Why would he worry? Don't defend him, Kanta! Explain to him! While his brothers have made me proud, he has shamed me. Then daddy.. - Have you ever thought? That you are also a member of this house!",
-      "target_person": "father",
-      "target_gender": "male",
-      "cause_raw": "sons' achievements",
-      "theme_label": "Son's Accomplishments"
     }
   ]
 }

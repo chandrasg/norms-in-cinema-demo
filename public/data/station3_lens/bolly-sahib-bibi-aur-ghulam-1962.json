@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 10,
-    "pride": 1
+    "pride": 0
   },
   "themes": [
     {
@@ -40,19 +40,12 @@
     {
       "label": "Alcoholism",
       "count": 1
-    },
-    {
-      "label": "Virtuous Living",
-      "count": 1
     }
   ],
   "gender_breakdown": {
     "shame": {
       "female": 4,
       "male": 5
-    },
-    "pride": {
-      "male": 1
     }
   },
   "dialogues": [
@@ -145,15 +138,6 @@
       "target_gender": "male",
       "cause_raw": "Drinking alcohol",
       "theme_label": "Alcoholism"
-    },
-    {
-      "dialogue_id": "p957_bolly",
-      "emotion": "pride",
-      "dialogue": "No other member of the Chaudhary family has done......what Chotte Babu has done for me Now he is mine alone I am not ashamed. I am proud Will you drink more? - What if I do? No, you shall not",
-      "target_person": "Chaudhary family member",
-      "target_gender": "male",
-      "cause_raw": "support and care",
-      "theme_label": "Virtuous Living"
     }
   ]
 }

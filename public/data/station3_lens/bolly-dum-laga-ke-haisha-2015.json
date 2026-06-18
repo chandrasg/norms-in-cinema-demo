@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 5,
-    "pride": 3
+    "pride": 2
   },
   "themes": [
     {
@@ -36,10 +36,6 @@
     {
       "label": "Romantic Relationships",
       "count": 1
-    },
-    {
-      "label": "Moral Complexity",
-      "count": 1
     }
   ],
   "gender_breakdown": {
@@ -47,7 +43,7 @@
       "female": 3
     },
     "pride": {
-      "male": 3
+      "male": 2
     }
   },
   "dialogues": [
@@ -113,15 +109,6 @@
       "target_gender": "male",
       "cause_raw": "",
       "theme_label": ""
-    },
-    {
-      "dialogue_id": "p2887_bolly",
-      "emotion": "pride",
-      "dialogue": "Anything happened - kisses, intercourse, etc? - I won't discuss private matters - He loves humiliating me in public - Hitting me made you proud? - I am ashamed of that - You humiliated me - As though you didn't do the same And what's this ridiculous settlement demand?",
-      "target_person": "second speaker",
-      "target_gender": "male",
-      "cause_raw": "physical dominance",
-      "theme_label": "Moral Complexity"
     }
   ]
 }

@@ -9,7 +9,7 @@
     "overview": "A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company's ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity."
   },
   "totals": {
-    "shame": 5,
+    "shame": 2,
     "pride": 4
   },
   "themes": [
@@ -47,33 +47,6 @@
     },
     {
       "dialogue_id": "WS359_holly",
-      "emotion": "shame",
-      "dialogue": "♪ To bow and to bend ♪  ♪ We shan't be ♪  ♪ Ashamed ♪  ♪ To turn, turn ♪  ♪ Will be our delight ♪",
-      "target_person": "",
-      "target_gender": "unclear",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
-      "dialogue_id": "WS360_holly",
-      "emotion": "shame",
-      "dialogue": "♪ To bow and to bend ♪  ♪ We shan't be ♪  ♪ Ashamed ♪  ♪ To turn, turn ♪  ♪ Will be our delight ♪",
-      "target_person": "",
-      "target_gender": "unclear",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
-      "dialogue_id": "WS361_holly",
-      "emotion": "shame",
-      "dialogue": "♪ To bow and to bend ♪  ♪ We shan't be ♪  ♪ Ashamed ♪  ♪ To turn, turn ♪  ♪ Will be our delight ♪",
-      "target_person": "",
-      "target_gender": "unclear",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
-      "dialogue_id": "WS362_holly",
       "emotion": "shame",
       "dialogue": "♪ To bow and to bend ♪  ♪ We shan't be ♪  ♪ Ashamed ♪  ♪ To turn, turn ♪  ♪ Will be our delight ♪",
       "target_person": "",

@@ -9,13 +9,13 @@
     "overview": "Babloo is a computer genius and Inaaya is a self-made billionaire. The two fall in love but due to unforeseen circumstances they suddenly part ways as the cybercrime lord, Laila wants him dead."
   },
   "totals": {
-    "shame": 26,
+    "shame": 24,
     "pride": 0
   },
   "themes": [
     {
       "label": "Betrayal",
-      "count": 5
+      "count": 4
     },
     {
       "label": "Self-Image Issues",
@@ -175,15 +175,6 @@
       "theme_label": ""
     },
     {
-      "dialogue_id": "s2393_bolly",
-      "emotion": "shame",
-      "dialogue": "Heal our wounds, and hear everyone's apology. And hear everyone's apology. He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame.",
-      "target_person": "",
-      "target_gender": "unclear",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
       "dialogue_id": "s2394_bolly",
       "emotion": "shame",
       "dialogue": "And hear everyone's apology. He bestows with respect and shame. He bestows with respect and shame. He bestows with respect and shame. Respect is your gift, shame means You're upset with us.",
@@ -227,15 +218,6 @@
       "target_gender": "unclear",
       "cause_raw": "not being able to fulfill wishes",
       "theme_label": "Negligence"
-    },
-    {
-      "dialogue_id": "s2399_bolly",
-      "emotion": "shame",
-      "dialogue": "He bestows with respect and shame. He bestows with respect and shame. Respect is your gift, shame means You're upset with us. How can anyone desert his kin? Be convinced, O Lord.",
-      "target_person": "kin",
-      "target_gender": "unclear",
-      "cause_raw": "deserting family",
-      "theme_label": "Betrayal"
     },
     {
       "dialogue_id": "s2400_bolly",

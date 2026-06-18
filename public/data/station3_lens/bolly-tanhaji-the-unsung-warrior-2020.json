@@ -10,12 +10,12 @@
   },
   "totals": {
     "shame": 0,
-    "pride": 7
+    "pride": 6
   },
   "themes": [
     {
       "label": "Cultural Identity",
-      "count": 3
+      "count": 2
     },
     {
       "label": "Identity and Beauty",
@@ -52,15 +52,6 @@
     },
     {
       "dialogue_id": "p2385_bolly",
-      "emotion": "pride",
-      "dialogue": "Whenever we are determined O Goddess Bhawani! We all are brave and proud warriors Now every day is a festival of Swaraj Now this head will not bow",
-      "target_person": "warriors",
-      "target_gender": "unclear",
-      "cause_raw": "Achieving Swaraj self-rule)",
-      "theme_label": "Cultural Identity"
-    },
-    {
-      "dialogue_id": "p2386_bolly",
       "emotion": "pride",
       "dialogue": "Whenever we are determined O Goddess Bhawani! We all are brave and proud warriors Now every day is a festival of Swaraj Now this head will not bow",
       "target_person": "warriors",

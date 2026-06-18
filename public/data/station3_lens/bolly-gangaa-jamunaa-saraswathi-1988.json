@@ -9,7 +9,7 @@
     "overview": "In a small town, Gangaa and Jamunaa's budding romance faces obstacles from Hansraj, who harbors dark intentions. Meanwhile, Saraswathi silently pines for Gangaa, as another suitor, Shanker, hopes to win Jamunaa's heart."
   },
   "totals": {
-    "shame": 8,
+    "shame": 5,
     "pride": 0
   },
   "themes": [
@@ -19,25 +19,21 @@
     },
     {
       "label": "Marital Status",
-      "count": 2
-    },
-    {
-      "label": "Corruption",
-      "count": 2
-    },
-    {
-      "label": "Betrayal",
       "count": 1
     },
     {
-      "label": "Disrespect",
+      "label": "Corruption",
+      "count": 1
+    },
+    {
+      "label": "Betrayal",
       "count": 1
     }
   ],
   "gender_breakdown": {
     "shame": {
-      "male": 6,
-      "female": 2
+      "male": 4,
+      "female": 1
     }
   },
   "dialogues": [
@@ -85,33 +81,6 @@
       "target_gender": "male",
       "cause_raw": "inappropriate behavior with a young girl",
       "theme_label": "Inappropriate Behavior"
-    },
-    {
-      "dialogue_id": "s5338_bolly",
-      "emotion": "shame",
-      "dialogue": "Pick up the stones and hit her. Stop! She's pregnant! Don't hit her! Stop! Don't you feel ashamed pelting stones at a pregnant woman? If you people hurl another stone I'll call the police! Come on, let's go - May the Goddess bless you, dear.",
-      "target_person": "pregnant woman",
-      "target_gender": "female",
-      "cause_raw": "being pregnant out of wedlock",
-      "theme_label": "Marital Status"
-    },
-    {
-      "dialogue_id": "s5339_bolly",
-      "emotion": "shame",
-      "dialogue": "What's going on here? - He beat up a police officer. He threatened to kill me! - Do you call yourself an officer? Shame on people like you! - You're right. He has insulted this uniform. He doesn't deserve the authority. I've had complaints about you earlier. But I didn't have any proof.",
-      "target_person": "police officer",
-      "target_gender": "male",
-      "cause_raw": "misuse of authority and power",
-      "theme_label": "Corruption"
-    },
-    {
-      "dialogue_id": "s5340_bolly",
-      "emotion": "shame",
-      "dialogue": "Whenever evil was born on earth, Lord Krishna came to destroy it. You have to account to me for many sins. So where do I start? From my father's death or from your shameful insult to these womenfolk? Or from these poor people whose lands you have grabbed. Where do I start? Anyone can be brave with a gun in his hands.",
-      "target_person": "evil character",
-      "target_gender": "male",
-      "cause_raw": "disrespecting women and exploiting the poor",
-      "theme_label": "Disrespect"
     }
   ]
 }

@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 3,
-    "pride": 3
+    "pride": 2
   },
   "themes": [
     {
@@ -19,10 +19,6 @@
     },
     {
       "label": "Poverty",
-      "count": 1
-    },
-    {
-      "label": "Financial Success",
       "count": 1
     },
     {
@@ -62,15 +58,6 @@
       "target_gender": "unclear",
       "cause_raw": "",
       "theme_label": ""
-    },
-    {
-      "dialogue_id": "WP1420_holly",
-      "emotion": "pride",
-      "dialogue": "Best place we've been in.  Right.  Place to be proud of, not ashamed or embarrassed.  We got the toaster, we got the towels... we got the furniture.  we got the furniture.",
-      "target_person": "speaker 1",
-      "target_gender": "unclear",
-      "cause_raw": "having a well-furnished place",
-      "theme_label": "Financial Success"
     },
     {
       "dialogue_id": "WP1421_holly",

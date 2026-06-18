@@ -9,13 +9,13 @@
     "overview": "Shabana Khan, a special agent, is entrusted with the task of assassinating a deadly arms dealer by the Indian Intelligence Agency."
   },
   "totals": {
-    "shame": 7,
+    "shame": 6,
     "pride": 1
   },
   "themes": [
     {
       "label": "Nonconformity",
-      "count": 4
+      "count": 3
     },
     {
       "label": "Shamelessness",
@@ -67,15 +67,6 @@
       "target_gender": "unclear",
       "cause_raw": "being selfish and greedy",
       "theme_label": "Poverty"
-    },
-    {
-      "dialogue_id": "s3737_bolly",
-      "emotion": "shame",
-      "dialogue": "The talks are getting crazy. Let's do something....going beyond all the limits. The heart's being naughty...\"...because it's become shameless.\" The heart's being reveling...\"...because it's become shameless.\" It's become shameless.",
-      "target_person": "heart",
-      "target_gender": "unclear",
-      "cause_raw": "crossing societal limits",
-      "theme_label": "Nonconformity"
     },
     {
       "dialogue_id": "s3738_bolly",

@@ -10,15 +10,11 @@
   },
   "totals": {
     "shame": 1,
-    "pride": 13
+    "pride": 10
   },
   "themes": [
     {
       "label": "Son's Accomplishments",
-      "count": 3
-    },
-    {
-      "label": "Moral Complexity",
       "count": 3
     },
     {
@@ -31,6 +27,10 @@
     },
     {
       "label": "Virtuous Living",
+      "count": 1
+    },
+    {
+      "label": "Moral Complexity",
       "count": 1
     },
     {
@@ -47,7 +47,7 @@
       "male": 1
     },
     "pride": {
-      "male": 13
+      "male": 10
     }
   },
   "dialogues": [
@@ -140,33 +140,6 @@
       "target_gender": "male",
       "cause_raw": "doing something for parents",
       "theme_label": "Parental Pride"
-    },
-    {
-      "dialogue_id": "p78_bolly",
-      "emotion": "pride",
-      "dialogue": "Because no one would put ourselves....through what we go through....if it wasn't for the money. That is why we fight. I fight for the pride of my country. I fight for the pride of my country. He got scared of my son.",
-      "target_person": "speaker",
-      "target_gender": "male",
-      "cause_raw": "fighting for the pride of his country",
-      "theme_label": "Moral Complexity"
-    },
-    {
-      "dialogue_id": "p79_bolly",
-      "emotion": "pride",
-      "dialogue": "That is why we fight. I fight for the pride of my country. I fight for the pride of my country. He got scared of my son. What did he say? - Don't know.",
-      "target_person": "speaker",
-      "target_gender": "male",
-      "cause_raw": "fighting for country",
-      "theme_label": "Moral Complexity"
-    },
-    {
-      "dialogue_id": "p80_bolly",
-      "emotion": "pride",
-      "dialogue": "Ladies and gentlemen..Please welcome to the centre of the ring....brother of the miracle boy, Angad Chaudhary Singh. Many people are hoping and praying. Pride, honour, revenge, determination all .... of them are effective here today. It feels like a funeral in here tonight. You can feel it to be pin-drop.",
-      "target_person": "",
-      "target_gender": "male",
-      "cause_raw": "",
-      "theme_label": ""
     },
     {
       "dialogue_id": "p81_bolly",

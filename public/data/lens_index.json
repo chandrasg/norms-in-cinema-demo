@@ -61,7 +61,7 @@
     "industry": "bolly",
     "poster_path": "/2TxkhMrM98iUb74Dqbkdco3ED0X.jpg",
     "totals": {
-      "shame": 26,
+      "shame": 24,
       "pride": 0
     }
   },
@@ -161,7 +161,7 @@
     "poster_path": "/fZhgcUVwV7ocglL5XDq4ygsfXqD.jpg",
     "totals": {
       "shame": 0,
-      "pride": 7
+      "pride": 6
     }
   },
   {
@@ -572,17 +572,6 @@
     }
   },
   {
-    "slug": "bolly-naam-shabana-2017",
-    "title": "Naam Shabana",
-    "year": "2017",
-    "industry": "bolly",
-    "poster_path": "/xFHeFrOYzsHgAiZeGAjwJmDMen6.jpg",
-    "totals": {
-      "shame": 7,
-      "pride": 1
-    }
-  },
-  {
     "slug": "bolly-lipstick-under-my-burkha-2017",
     "title": "Lipstick Under My Burkha",
     "year": "2017",
@@ -591,6 +580,17 @@
     "totals": {
       "shame": 16,
       "pride": 0
+    }
+  },
+  {
+    "slug": "bolly-naam-shabana-2017",
+    "title": "Naam Shabana",
+    "year": "2017",
+    "industry": "bolly",
+    "poster_path": "/xFHeFrOYzsHgAiZeGAjwJmDMen6.jpg",
+    "totals": {
+      "shame": 6,
+      "pride": 1
     }
   },
   {
@@ -723,17 +723,6 @@
     "totals": {
       "shame": 2,
       "pride": 1
-    }
-  },
-  {
-    "slug": "bolly-anaarkali-of-aarah-2017",
-    "title": "Anaarkali of Aarah",
-    "year": "2017",
-    "industry": "bolly",
-    "poster_path": "/nRK1wUXVtiSHNPDRuLPgsQJcteT.jpg",
-    "totals": {
-      "shame": 4,
-      "pride": 0
     }
   },
   {
@@ -1122,17 +1111,6 @@
     }
   },
   {
-    "slug": "bolly-dum-laga-ke-haisha-2015",
-    "title": "Dum Laga Ke Haisha",
-    "year": "2015",
-    "industry": "bolly",
-    "poster_path": "/c9TX2kH1rG7QYEl09flOVg82QdU.jpg",
-    "totals": {
-      "shame": 5,
-      "pride": 3
-    }
-  },
-  {
     "slug": "bolly-bajirao-mastani-2015",
     "title": "Bajirao Mastani",
     "year": "2015",
@@ -1141,6 +1119,17 @@
     "totals": {
       "shame": 2,
       "pride": 5
+    }
+  },
+  {
+    "slug": "bolly-dum-laga-ke-haisha-2015",
+    "title": "Dum Laga Ke Haisha",
+    "year": "2015",
+    "industry": "bolly",
+    "poster_path": "/c9TX2kH1rG7QYEl09flOVg82QdU.jpg",
+    "totals": {
+      "shame": 5,
+      "pride": 2
     }
   },
   {
@@ -1404,7 +1393,7 @@
     "poster_path": "/1uHnrLr5tX2CjAX1ybtcuOLdDI2.jpg",
     "totals": {
       "shame": 3,
-      "pride": 7
+      "pride": 6
     }
   },
   {
@@ -1606,17 +1595,6 @@
     }
   },
   {
-    "slug": "bolly-holiday-2014",
-    "title": "Holiday",
-    "year": "2014",
-    "industry": "bolly",
-    "poster_path": "/8aPPza9BHumJYl0KAABmOdFbUjm.jpg",
-    "totals": {
-      "shame": 6,
-      "pride": 0
-    }
-  },
-  {
     "slug": "bolly-22-minutes-2014",
     "title": "22 Minutes",
     "year": "2014",
@@ -1658,6 +1636,17 @@
     "totals": {
       "shame": 1,
       "pride": 2
+    }
+  },
+  {
+    "slug": "bolly-holiday-2014",
+    "title": "Holiday",
+    "year": "2014",
+    "industry": "bolly",
+    "poster_path": "/8aPPza9BHumJYl0KAABmOdFbUjm.jpg",
+    "totals": {
+      "shame": 5,
+      "pride": 0
     }
   },
   {
@@ -1771,17 +1760,6 @@
     }
   },
   {
-    "slug": "bolly-once-upon-a-time-in-mumbai-dobaara-2013",
-    "title": "Once Upon a Time in Mumbai Dobaara!",
-    "year": "2013",
-    "industry": "bolly",
-    "poster_path": "/guXvxt6hvZyQqHXGYuvujtuxcCQ.jpg",
-    "totals": {
-      "shame": 15,
-      "pride": 2
-    }
-  },
-  {
     "slug": "bolly-deewana-main-deewana-2013",
     "title": "Deewana Main Deewana",
     "year": "2013",
@@ -1790,6 +1768,17 @@
     "totals": {
       "shame": 16,
       "pride": 1
+    }
+  },
+  {
+    "slug": "bolly-once-upon-a-time-in-mumbai-dobaara-2013",
+    "title": "Once Upon a Time in Mumbai Dobaara!",
+    "year": "2013",
+    "industry": "bolly",
+    "poster_path": "/guXvxt6hvZyQqHXGYuvujtuxcCQ.jpg",
+    "totals": {
+      "shame": 14,
+      "pride": 2
     }
   },
   {
@@ -1815,17 +1804,6 @@
     }
   },
   {
-    "slug": "bolly-rajdhani-express-2013",
-    "title": "Rajdhani Express",
-    "year": "2013",
-    "industry": "bolly",
-    "poster_path": "/eqBaH92kA4x4TW4qp5Ik8wTroX9.jpg",
-    "totals": {
-      "shame": 7,
-      "pride": 2
-    }
-  },
-  {
     "slug": "bolly-jatt-boys-putt-jattan-de-2013",
     "title": "Jatt Boys Putt Jattan De",
     "year": "2013",
@@ -1834,6 +1812,17 @@
     "totals": {
       "shame": 4,
       "pride": 4
+    }
+  },
+  {
+    "slug": "bolly-rajdhani-express-2013",
+    "title": "Rajdhani Express",
+    "year": "2013",
+    "industry": "bolly",
+    "poster_path": "/eqBaH92kA4x4TW4qp5Ik8wTroX9.jpg",
+    "totals": {
+      "shame": 7,
+      "pride": 1
     }
   },
   {
@@ -2101,17 +2090,6 @@
     }
   },
   {
-    "slug": "bolly-housefull-2-2012",
-    "title": "Housefull 2",
-    "year": "2012",
-    "industry": "bolly",
-    "poster_path": "/y6L3GpfXWqfO7COtUyiEeACH35G.jpg",
-    "totals": {
-      "shame": 10,
-      "pride": 2
-    }
-  },
-  {
     "slug": "bolly-gangs-of-wasseypur-part-1-2012",
     "title": "Gangs of Wasseypur - Part 1",
     "year": "2012",
@@ -2164,6 +2142,17 @@
     "totals": {
       "shame": 3,
       "pride": 5
+    }
+  },
+  {
+    "slug": "bolly-housefull-2-2012",
+    "title": "Housefull 2",
+    "year": "2012",
+    "industry": "bolly",
+    "poster_path": "/y6L3GpfXWqfO7COtUyiEeACH35G.jpg",
+    "totals": {
+      "shame": 5,
+      "pride": 1
     }
   },
   {
@@ -2266,17 +2255,6 @@
     }
   },
   {
-    "slug": "bolly-jannat-2-2012",
-    "title": "Jannat 2",
-    "year": "2012",
-    "industry": "bolly",
-    "poster_path": "/2nQgcZb9hGzU2Dz8cYC5JoxkYBi.jpg",
-    "totals": {
-      "shame": 0,
-      "pride": 8
-    }
-  },
-  {
     "slug": "bolly-khiladi-786-2012",
     "title": "Khiladi 786",
     "year": "2012",
@@ -2373,6 +2351,17 @@
     "totals": {
       "shame": 0,
       "pride": 5
+    }
+  },
+  {
+    "slug": "bolly-jannat-2-2012",
+    "title": "Jannat 2",
+    "year": "2012",
+    "industry": "bolly",
+    "poster_path": "/2nQgcZb9hGzU2Dz8cYC5JoxkYBi.jpg",
+    "totals": {
+      "shame": 0,
+      "pride": 4
     }
   },
   {
@@ -2750,17 +2739,6 @@
     }
   },
   {
-    "slug": "bolly-aloo-chaat-2009",
-    "title": "Aloo Chaat",
-    "year": "2009",
-    "industry": "bolly",
-    "poster_path": "/1XoRQnF2I49c0I3pZeIj9qaC4My.jpg",
-    "totals": {
-      "shame": 2,
-      "pride": 2
-    }
-  },
-  {
     "slug": "bolly-team-the-force-2009",
     "title": "Team: The Force",
     "year": "2009",
@@ -2777,6 +2755,17 @@
     "year": "2009",
     "industry": "bolly",
     "poster_path": "/9H4P0oYkB10hkPtsAxFXgrixUQn.jpg",
+    "totals": {
+      "shame": 2,
+      "pride": 1
+    }
+  },
+  {
+    "slug": "bolly-aloo-chaat-2009",
+    "title": "Aloo Chaat",
+    "year": "2009",
+    "industry": "bolly",
+    "poster_path": "/1XoRQnF2I49c0I3pZeIj9qaC4My.jpg",
     "totals": {
       "shame": 2,
       "pride": 1
@@ -2846,17 +2835,6 @@
     "totals": {
       "shame": 6,
       "pride": 4
-    }
-  },
-  {
-    "slug": "bolly-hijack-2008",
-    "title": "Hijack",
-    "year": "2008",
-    "industry": "bolly",
-    "poster_path": "/st3qds7lR8E7I97zAFsMqzMbJya.jpg",
-    "totals": {
-      "shame": 9,
-      "pride": 0
     }
   },
   {
@@ -2948,25 +2926,14 @@
     }
   },
   {
-    "slug": "bolly-wanted-2008",
-    "title": "Wanted",
+    "slug": "bolly-hijack-2008",
+    "title": "Hijack",
     "year": "2008",
     "industry": "bolly",
-    "poster_path": "/njy7Pz7ZHZceO7lNfGIHKphY8Hd.jpg",
+    "poster_path": "/st3qds7lR8E7I97zAFsMqzMbJya.jpg",
     "totals": {
-      "shame": 0,
-      "pride": 4
-    }
-  },
-  {
-    "slug": "bolly-apne-2007",
-    "title": "Apne",
-    "year": "2007",
-    "industry": "bolly",
-    "poster_path": "/qMGSWgtmtMyn9hkyGZeOB5Kz7zC.jpg",
-    "totals": {
-      "shame": 1,
-      "pride": 13
+      "shame": 5,
+      "pride": 0
     }
   },
   {
@@ -2977,6 +2944,17 @@
     "poster_path": "/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg",
     "totals": {
       "shame": 2,
+      "pride": 10
+    }
+  },
+  {
+    "slug": "bolly-apne-2007",
+    "title": "Apne",
+    "year": "2007",
+    "industry": "bolly",
+    "poster_path": "/qMGSWgtmtMyn9hkyGZeOB5Kz7zC.jpg",
+    "totals": {
+      "shame": 1,
       "pride": 10
     }
   },
@@ -2992,17 +2970,6 @@
     }
   },
   {
-    "slug": "bolly-dhan-dhana-dhan-goal-2007",
-    "title": "Dhan Dhana Dhan Goal",
-    "year": "2007",
-    "industry": "bolly",
-    "poster_path": "/blecQPVoYDTNKPMYlOm2WNHuSYw.jpg",
-    "totals": {
-      "shame": 1,
-      "pride": 6
-    }
-  },
-  {
     "slug": "bolly-good-boy-bad-boy-2007",
     "title": "Good Boy, Bad Boy",
     "year": "2007",
@@ -3011,6 +2978,17 @@
     "totals": {
       "shame": 3,
       "pride": 4
+    }
+  },
+  {
+    "slug": "bolly-dhan-dhana-dhan-goal-2007",
+    "title": "Dhan Dhana Dhan Goal",
+    "year": "2007",
+    "industry": "bolly",
+    "poster_path": "/blecQPVoYDTNKPMYlOm2WNHuSYw.jpg",
+    "totals": {
+      "shame": 1,
+      "pride": 5
     }
   },
   {
@@ -3179,17 +3157,6 @@
     }
   },
   {
-    "slug": "bolly-nanhe-jaisalmer-a-dream-come-true-2007",
-    "title": "Nanhe Jaisalmer: A Dream Come True",
-    "year": "2007",
-    "industry": "bolly",
-    "poster_path": "/x68KSyk98vabekwAyXUXPmSqMGA.jpg",
-    "totals": {
-      "shame": 0,
-      "pride": 4
-    }
-  },
-  {
     "slug": "bolly-welcome-2007",
     "title": "Welcome",
     "year": "2007",
@@ -3201,13 +3168,24 @@
     }
   },
   {
+    "slug": "bolly-nanhe-jaisalmer-a-dream-come-true-2007",
+    "title": "Nanhe Jaisalmer: A Dream Come True",
+    "year": "2007",
+    "industry": "bolly",
+    "poster_path": "/x68KSyk98vabekwAyXUXPmSqMGA.jpg",
+    "totals": {
+      "shame": 0,
+      "pride": 3
+    }
+  },
+  {
     "slug": "bolly-dhol-2007",
     "title": "Dhol",
     "year": "2007",
     "industry": "bolly",
     "poster_path": "/bq7qs9HEH9OIdGjzUUmXGgs5HCt.jpg",
     "totals": {
-      "shame": 4,
+      "shame": 3,
       "pride": 0
     }
   },
@@ -3230,7 +3208,7 @@
     "poster_path": "/f1bF8CHzEu621bPSIg6XiUNAabh.jpg",
     "totals": {
       "shame": 2,
-      "pride": 9
+      "pride": 6
     }
   },
   {
@@ -3240,19 +3218,8 @@
     "industry": "bolly",
     "poster_path": "/pTxNRZQhRqGqYyuNjAFAzk0iqrS.jpg",
     "totals": {
-      "shame": 6,
-      "pride": 4
-    }
-  },
-  {
-    "slug": "bolly-family-ties-of-blood-2006",
-    "title": "Family: Ties of Blood",
-    "year": "2006",
-    "industry": "bolly",
-    "poster_path": "/dMo4b6JqrpbP8bkQpdqu5VlYybC.jpg",
-    "totals": {
-      "shame": 5,
-      "pride": 1
+      "shame": 4,
+      "pride": 2
     }
   },
   {
@@ -3349,6 +3316,17 @@
     "year": "2006",
     "industry": "bolly",
     "poster_path": "/wJqdwEgMiMzU0zIEnKBWEbTfeUS.jpg",
+    "totals": {
+      "shame": 5,
+      "pride": 0
+    }
+  },
+  {
+    "slug": "bolly-family-ties-of-blood-2006",
+    "title": "Family: Ties of Blood",
+    "year": "2006",
+    "industry": "bolly",
+    "poster_path": "/dMo4b6JqrpbP8bkQpdqu5VlYybC.jpg",
     "totals": {
       "shame": 5,
       "pride": 0
@@ -3685,17 +3663,6 @@
     }
   },
   {
-    "slug": "bolly-dil-ne-jise-apna-kahaa-2004",
-    "title": "Dil Ne Jise Apna Kahaa",
-    "year": "2004",
-    "industry": "bolly",
-    "poster_path": "/iAE25a0EbYNLDFqWivPr3tULQXp.jpg",
-    "totals": {
-      "shame": 2,
-      "pride": 4
-    }
-  },
-  {
     "slug": "bolly-bride-prejudice-2004",
     "title": "Bride & Prejudice",
     "year": "2004",
@@ -3725,7 +3692,7 @@
     "poster_path": "/9lqPTKndjMWfPmBRyH8rWw7bH5I.jpg",
     "totals": {
       "shame": 0,
-      "pride": 11
+      "pride": 10
     }
   },
   {
@@ -3773,6 +3740,17 @@
     }
   },
   {
+    "slug": "bolly-dil-ne-jise-apna-kahaa-2004",
+    "title": "Dil Ne Jise Apna Kahaa",
+    "year": "2004",
+    "industry": "bolly",
+    "poster_path": "/iAE25a0EbYNLDFqWivPr3tULQXp.jpg",
+    "totals": {
+      "shame": 1,
+      "pride": 2
+    }
+  },
+  {
     "slug": "bolly-meri-biwi-ka-jawab-nahin-2004",
     "title": "Meri Biwi Ka Jawab Nahin",
     "year": "2004",
@@ -3792,17 +3770,6 @@
     "totals": {
       "shame": 2,
       "pride": 1
-    }
-  },
-  {
-    "slug": "bolly-lakshya-2004",
-    "title": "Lakshya",
-    "year": "2004",
-    "industry": "bolly",
-    "poster_path": "/ctB8RWoK2LHn5skqN4eUWVSvpyM.jpg",
-    "totals": {
-      "shame": 0,
-      "pride": 6
     }
   },
   {
@@ -3828,17 +3795,6 @@
     }
   },
   {
-    "slug": "bolly-aan-men-at-work-2004",
-    "title": "Aan: Men at Work",
-    "year": "2004",
-    "industry": "bolly",
-    "poster_path": "/3iZjhwvpnSrZPWviWWSs2wu10ey.jpg",
-    "totals": {
-      "shame": 0,
-      "pride": 6
-    }
-  },
-  {
     "slug": "bolly-mujhse-shaadi-karogi-2004",
     "title": "Mujhse Shaadi Karogi",
     "year": "2004",
@@ -3850,14 +3806,14 @@
     }
   },
   {
-    "slug": "bolly-gayab-2004",
-    "title": "Gayab",
+    "slug": "bolly-aan-men-at-work-2004",
+    "title": "Aan: Men at Work",
     "year": "2004",
     "industry": "bolly",
-    "poster_path": "/bTEslOpqHHxqjB3Si3wM3DX8JWE.jpg",
+    "poster_path": "/3iZjhwvpnSrZPWviWWSs2wu10ey.jpg",
     "totals": {
-      "shame": 4,
-      "pride": 0
+      "shame": 0,
+      "pride": 4
     }
   },
   {
@@ -3866,6 +3822,17 @@
     "year": "2004",
     "industry": "bolly",
     "poster_path": "/dMsqwWFl51t8jXR0tWzjEuO8H4l.jpg",
+    "totals": {
+      "shame": 0,
+      "pride": 3
+    }
+  },
+  {
+    "slug": "bolly-lakshya-2004",
+    "title": "Lakshya",
+    "year": "2004",
+    "industry": "bolly",
+    "poster_path": "/ctB8RWoK2LHn5skqN4eUWVSvpyM.jpg",
     "totals": {
       "shame": 0,
       "pride": 3
@@ -3890,7 +3857,7 @@
     "poster_path": "/cZsSavbfxzn2aoi1iHk49cVxupO.jpg",
     "totals": {
       "shame": 2,
-      "pride": 24
+      "pride": 23
     }
   },
   {
@@ -4048,24 +4015,13 @@
     }
   },
   {
-    "slug": "bolly-kitne-door-kitne-paas-2002",
-    "title": "Kitne Door Kitne Paas",
-    "year": "2002",
-    "industry": "bolly",
-    "poster_path": "/fiCrd9TMXlYKlbLxdj0eEBLbjB.jpg",
-    "totals": {
-      "shame": 8,
-      "pride": 6
-    }
-  },
-  {
     "slug": "bolly-kanyadaan-2002",
     "title": "Kanyadaan",
     "year": "2002",
     "industry": "bolly",
     "poster_path": "",
     "totals": {
-      "shame": 10,
+      "shame": 9,
       "pride": 1
     }
   },
@@ -4075,17 +4031,6 @@
     "year": "2002",
     "industry": "bolly",
     "poster_path": "/pOd8woHbZUDn9HheKTkSQHFNTZ2.jpg",
-    "totals": {
-      "shame": 4,
-      "pride": 6
-    }
-  },
-  {
-    "slug": "bolly-shakti-the-power-2002",
-    "title": "Shakti: The Power",
-    "year": "2002",
-    "industry": "bolly",
-    "poster_path": "/3nn3XFCa0FreqSG7GfDK5bDUH12.jpg",
     "totals": {
       "shame": 4,
       "pride": 6
@@ -4114,6 +4059,17 @@
     }
   },
   {
+    "slug": "bolly-kitne-door-kitne-paas-2002",
+    "title": "Kitne Door Kitne Paas",
+    "year": "2002",
+    "industry": "bolly",
+    "poster_path": "/fiCrd9TMXlYKlbLxdj0eEBLbjB.jpg",
+    "totals": {
+      "shame": 5,
+      "pride": 3
+    }
+  },
+  {
     "slug": "bolly-jaani-dushman-ek-anokhi-kahani-2002",
     "title": "Jaani Dushman: Ek Anokhi Kahani",
     "year": "2002",
@@ -4133,6 +4089,17 @@
     "totals": {
       "shame": 5,
       "pride": 2
+    }
+  },
+  {
+    "slug": "bolly-shakti-the-power-2002",
+    "title": "Shakti: The Power",
+    "year": "2002",
+    "industry": "bolly",
+    "poster_path": "/3nn3XFCa0FreqSG7GfDK5bDUH12.jpg",
+    "totals": {
+      "shame": 2,
+      "pride": 3
     }
   },
   {
@@ -4318,8 +4285,8 @@
     "industry": "bolly",
     "poster_path": "/xFvCS5h3TyixKaBintDoVjYGyVZ.jpg",
     "totals": {
-      "shame": 34,
-      "pride": 3
+      "shame": 28,
+      "pride": 2
     }
   },
   {
@@ -4330,7 +4297,7 @@
     "poster_path": "/u1n2OGQFHv1iG817VpXEtRMrjeZ.jpg",
     "totals": {
       "shame": 5,
-      "pride": 7
+      "pride": 6
     }
   },
   {
@@ -4367,17 +4334,6 @@
     }
   },
   {
-    "slug": "bolly-lagaan-once-upon-a-time-in-india-2001",
-    "title": "Lagaan: Once Upon a Time in India",
-    "year": "2001",
-    "industry": "bolly",
-    "poster_path": "/yNX9lFRAFeNLNRIXdqZK9gYrYKa.jpg",
-    "totals": {
-      "shame": 6,
-      "pride": 3
-    }
-  },
-  {
     "slug": "bolly-dost-2001",
     "title": "Dost",
     "year": "2001",
@@ -4389,17 +4345,6 @@
     }
   },
   {
-    "slug": "bolly-kabhi-khushi-kabhie-gham-2001",
-    "title": "Kabhi Khushi Kabhie Gham",
-    "year": "2001",
-    "industry": "bolly",
-    "poster_path": "/12BvYKueY0eruZuTYIextEZaCC.jpg",
-    "totals": {
-      "shame": 4,
-      "pride": 4
-    }
-  },
-  {
     "slug": "bolly-inteqam-2001",
     "title": "Inteqam",
     "year": "2001",
@@ -4408,6 +4353,17 @@
     "totals": {
       "shame": 4,
       "pride": 3
+    }
+  },
+  {
+    "slug": "bolly-lagaan-once-upon-a-time-in-india-2001",
+    "title": "Lagaan: Once Upon a Time in India",
+    "year": "2001",
+    "industry": "bolly",
+    "poster_path": "/yNX9lFRAFeNLNRIXdqZK9gYrYKa.jpg",
+    "totals": {
+      "shame": 4,
+      "pride": 2
     }
   },
   {
@@ -4430,6 +4386,17 @@
     "totals": {
       "shame": 3,
       "pride": 2
+    }
+  },
+  {
+    "slug": "bolly-kabhi-khushi-kabhie-gham-2001",
+    "title": "Kabhi Khushi Kabhie Gham",
+    "year": "2001",
+    "industry": "bolly",
+    "poster_path": "/12BvYKueY0eruZuTYIextEZaCC.jpg",
+    "totals": {
+      "shame": 2,
+      "pride": 3
     }
   },
   {
@@ -4587,17 +4554,6 @@
     }
   },
   {
-    "slug": "bolly-tera-jadoo-chal-gayaa-2000",
-    "title": "Tera Jadoo Chal Gayaa",
-    "year": "2000",
-    "industry": "bolly",
-    "poster_path": "/ez14a6KSGmG17BXe8AI2MJeTPd2.jpg",
-    "totals": {
-      "shame": 4,
-      "pride": 2
-    }
-  },
-  {
     "slug": "bolly-hey-ram-2000",
     "title": "Hey Ram",
     "year": "2000",
@@ -4609,14 +4565,14 @@
     }
   },
   {
-    "slug": "bolly-dhaai-akshar-prem-ke-2000",
-    "title": "Dhaai Akshar Prem Ke",
+    "slug": "bolly-tera-jadoo-chal-gayaa-2000",
+    "title": "Tera Jadoo Chal Gayaa",
     "year": "2000",
     "industry": "bolly",
-    "poster_path": "/gabkUhs9jgF88XuIcn2ySre5HqM.jpg",
+    "poster_path": "/ez14a6KSGmG17BXe8AI2MJeTPd2.jpg",
     "totals": {
-      "shame": 10,
-      "pride": 0
+      "shame": 3,
+      "pride": 2
     }
   },
   {
@@ -4686,6 +4642,17 @@
     }
   },
   {
+    "slug": "bolly-dhaai-akshar-prem-ke-2000",
+    "title": "Dhaai Akshar Prem Ke",
+    "year": "2000",
+    "industry": "bolly",
+    "poster_path": "/gabkUhs9jgF88XuIcn2ySre5HqM.jpg",
+    "totals": {
+      "shame": 5,
+      "pride": 0
+    }
+  },
+  {
     "slug": "bolly-refugee-2000",
     "title": "Refugee",
     "year": "2000",
@@ -4741,17 +4708,6 @@
     }
   },
   {
-    "slug": "bolly-sooryavansham-1999",
-    "title": "Sooryavansham",
-    "year": "1999",
-    "industry": "bolly",
-    "poster_path": "/fI9cqF4scd7OfIJB5zmfeMxD2bg.jpg",
-    "totals": {
-      "shame": 4,
-      "pride": 3
-    }
-  },
-  {
     "slug": "bolly-hum-dil-de-chuke-sanam-1999",
     "title": "Hum Dil De Chuke Sanam",
     "year": "1999",
@@ -4774,14 +4730,14 @@
     }
   },
   {
-    "slug": "bolly-kachche-dhaage-1999",
-    "title": "Kachche Dhaage",
+    "slug": "bolly-sooryavansham-1999",
+    "title": "Sooryavansham",
     "year": "1999",
     "industry": "bolly",
-    "poster_path": "/dldo2zZgGVlhvKG6DvqJd5nnjAt.jpg",
+    "poster_path": "/fI9cqF4scd7OfIJB5zmfeMxD2bg.jpg",
     "totals": {
-      "shame": 1,
-      "pride": 4
+      "shame": 4,
+      "pride": 2
     }
   },
   {
@@ -4804,6 +4760,17 @@
     "totals": {
       "shame": 3,
       "pride": 1
+    }
+  },
+  {
+    "slug": "bolly-kachche-dhaage-1999",
+    "title": "Kachche Dhaage",
+    "year": "1999",
+    "industry": "bolly",
+    "poster_path": "/dldo2zZgGVlhvKG6DvqJd5nnjAt.jpg",
+    "totals": {
+      "shame": 1,
+      "pride": 3
     }
   },
   {
@@ -4879,8 +4846,8 @@
     "industry": "bolly",
     "poster_path": "/g62RTtfhgzJo1GV2jjwdzpNuiUB.jpg",
     "totals": {
-      "shame": 12,
-      "pride": 4
+      "shame": 8,
+      "pride": 2
     }
   },
   {
@@ -5071,17 +5038,6 @@
     }
   },
   {
-    "slug": "bolly-yes-boss-1997",
-    "title": "Yes Boss",
-    "year": "1997",
-    "industry": "bolly",
-    "poster_path": "/ayp76lRwyp5izlZVnxcZscgHofH.jpg",
-    "totals": {
-      "shame": 16,
-      "pride": 1
-    }
-  },
-  {
     "slug": "bolly-tarazu-1997",
     "title": "Tarazu",
     "year": "1997",
@@ -5101,6 +5057,17 @@
     "totals": {
       "shame": 7,
       "pride": 3
+    }
+  },
+  {
+    "slug": "bolly-yes-boss-1997",
+    "title": "Yes Boss",
+    "year": "1997",
+    "industry": "bolly",
+    "poster_path": "/ayp76lRwyp5izlZVnxcZscgHofH.jpg",
+    "totals": {
+      "shame": 8,
+      "pride": 1
     }
   },
   {
@@ -5148,17 +5115,6 @@
     }
   },
   {
-    "slug": "bolly-hameshaa-1997",
-    "title": "Hameshaa",
-    "year": "1997",
-    "industry": "bolly",
-    "poster_path": "/g9K6lJHB35Y9vi0tnlQ3G6ZbTFu.jpg",
-    "totals": {
-      "shame": 2,
-      "pride": 4
-    }
-  },
-  {
     "slug": "bolly-judwaa-1997",
     "title": "Judwaa",
     "year": "1997",
@@ -5192,17 +5148,6 @@
     }
   },
   {
-    "slug": "bolly-pardes-1997",
-    "title": "Pardes",
-    "year": "1997",
-    "industry": "bolly",
-    "poster_path": "/cUiM7V2hK540SN9Wd6UXZPGcDBH.jpg",
-    "totals": {
-      "shame": 8,
-      "pride": 0
-    }
-  },
-  {
     "slug": "bolly-gudgudee-1997",
     "title": "Gudgudee",
     "year": "1997",
@@ -5214,6 +5159,17 @@
     }
   },
   {
+    "slug": "bolly-pardes-1997",
+    "title": "Pardes",
+    "year": "1997",
+    "industry": "bolly",
+    "poster_path": "/cUiM7V2hK540SN9Wd6UXZPGcDBH.jpg",
+    "totals": {
+      "shame": 7,
+      "pride": 0
+    }
+  },
+  {
     "slug": "bolly-chachi-420-1997",
     "title": "Chachi 420",
     "year": "1997",
@@ -5222,6 +5178,17 @@
     "totals": {
       "shame": 7,
       "pride": 0
+    }
+  },
+  {
+    "slug": "bolly-hameshaa-1997",
+    "title": "Hameshaa",
+    "year": "1997",
+    "industry": "bolly",
+    "poster_path": "/g9K6lJHB35Y9vi0tnlQ3G6ZbTFu.jpg",
+    "totals": {
+      "shame": 1,
+      "pride": 2
     }
   },
   {
@@ -5418,8 +5385,8 @@
     "industry": "bolly",
     "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
     "totals": {
-      "shame": 16,
-      "pride": 12
+      "shame": 10,
+      "pride": 6
     }
   },
   {
@@ -5431,17 +5398,6 @@
     "totals": {
       "shame": 6,
       "pride": 1
-    }
-  },
-  {
-    "slug": "bolly-karan-arjun-1995",
-    "title": "Karan Arjun",
-    "year": "1995",
-    "industry": "bolly",
-    "poster_path": "/uYhjsC9gCKhxiG2enkCJgdLOXjB.jpg",
-    "totals": {
-      "shame": 2,
-      "pride": 4
     }
   },
   {
@@ -5467,13 +5423,13 @@
     }
   },
   {
-    "slug": "bolly-trimurti-1995",
-    "title": "Trimurti",
+    "slug": "bolly-karan-arjun-1995",
+    "title": "Karan Arjun",
     "year": "1995",
     "industry": "bolly",
-    "poster_path": "/o6Pmeu0tcw3YKNHLdYw7IrNNdNq.jpg",
+    "poster_path": "/uYhjsC9gCKhxiG2enkCJgdLOXjB.jpg",
     "totals": {
-      "shame": 3,
+      "shame": 2,
       "pride": 2
     }
   },
@@ -5483,6 +5439,17 @@
     "year": "1995",
     "industry": "bolly",
     "poster_path": "/1UDwr2CnaVRKKJ6UZh4jRbTVV2f.jpg",
+    "totals": {
+      "shame": 3,
+      "pride": 1
+    }
+  },
+  {
+    "slug": "bolly-trimurti-1995",
+    "title": "Trimurti",
+    "year": "1995",
+    "industry": "bolly",
+    "poster_path": "/o6Pmeu0tcw3YKNHLdYw7IrNNdNq.jpg",
     "totals": {
       "shame": 3,
       "pride": 1
@@ -5508,17 +5475,6 @@
     "totals": {
       "shame": 2,
       "pride": 1
-    }
-  },
-  {
-    "slug": "bolly-oh-darling-yeh-hai-india-1995",
-    "title": "Oh Darling! Yeh Hai India!",
-    "year": "1995",
-    "industry": "bolly",
-    "poster_path": "/ucnBBenE8HzcqbEz21Hu097BRel.jpg",
-    "totals": {
-      "shame": 6,
-      "pride": 0
     }
   },
   {
@@ -5566,14 +5522,14 @@
     }
   },
   {
-    "slug": "bolly-kabhi-haan-kabhi-naa-1994",
-    "title": "Kabhi Haan Kabhi Naa",
-    "year": "1994",
+    "slug": "bolly-oh-darling-yeh-hai-india-1995",
+    "title": "Oh Darling! Yeh Hai India!",
+    "year": "1995",
     "industry": "bolly",
-    "poster_path": "/6FtBaFCz3UFFhXyE4JHxQDn43gM.jpg",
+    "poster_path": "/ucnBBenE8HzcqbEz21Hu097BRel.jpg",
     "totals": {
-      "shame": 10,
-      "pride": 5
+      "shame": 3,
+      "pride": 0
     }
   },
   {
@@ -5585,28 +5541,6 @@
     "totals": {
       "shame": 8,
       "pride": 5
-    }
-  },
-  {
-    "slug": "bolly-yeh-dillagi-1994",
-    "title": "Yeh Dillagi",
-    "year": "1994",
-    "industry": "bolly",
-    "poster_path": "/7DelNAcFTGzYVqNRk28psaCytqj.jpg",
-    "totals": {
-      "shame": 10,
-      "pride": 2
-    }
-  },
-  {
-    "slug": "bolly-anjaam-1994",
-    "title": "Anjaam",
-    "year": "1994",
-    "industry": "bolly",
-    "poster_path": "/j8pC5tg33gLbiPSYP3EQODV8MWH.jpg",
-    "totals": {
-      "shame": 8,
-      "pride": 4
     }
   },
   {
@@ -5632,6 +5566,17 @@
     }
   },
   {
+    "slug": "bolly-kabhi-haan-kabhi-naa-1994",
+    "title": "Kabhi Haan Kabhi Naa",
+    "year": "1994",
+    "industry": "bolly",
+    "poster_path": "/6FtBaFCz3UFFhXyE4JHxQDn43gM.jpg",
+    "totals": {
+      "shame": 6,
+      "pride": 4
+    }
+  },
+  {
     "slug": "bolly-udhaar-ki-zindagi-1994",
     "title": "Udhaar Ki Zindagi",
     "year": "1994",
@@ -5654,6 +5599,28 @@
     }
   },
   {
+    "slug": "bolly-yeh-dillagi-1994",
+    "title": "Yeh Dillagi",
+    "year": "1994",
+    "industry": "bolly",
+    "poster_path": "/7DelNAcFTGzYVqNRk28psaCytqj.jpg",
+    "totals": {
+      "shame": 8,
+      "pride": 1
+    }
+  },
+  {
+    "slug": "bolly-anjaam-1994",
+    "title": "Anjaam",
+    "year": "1994",
+    "industry": "bolly",
+    "poster_path": "/j8pC5tg33gLbiPSYP3EQODV8MWH.jpg",
+    "totals": {
+      "shame": 4,
+      "pride": 4
+    }
+  },
+  {
     "slug": "bolly-hum-hain-bemisaal-1994",
     "title": "Hum Hain Bemisaal",
     "year": "1994",
@@ -5665,22 +5632,22 @@
     }
   },
   {
-    "slug": "bolly-elaan-1994",
-    "title": "Elaan",
-    "year": "1994",
-    "industry": "bolly",
-    "poster_path": "/3ADocVh1ONoFP4uwvwML9UNqrV9.jpg",
-    "totals": {
-      "shame": 4,
-      "pride": 3
-    }
-  },
-  {
     "slug": "bolly-hum-aapke-hain-koun-1994",
     "title": "Hum Aapke Hain Koun..!",
     "year": "1994",
     "industry": "bolly",
     "poster_path": "/v5CutZgZgai1if2U2CPssiig7VW.jpg",
+    "totals": {
+      "shame": 4,
+      "pride": 2
+    }
+  },
+  {
+    "slug": "bolly-elaan-1994",
+    "title": "Elaan",
+    "year": "1994",
+    "industry": "bolly",
+    "poster_path": "/3ADocVh1ONoFP4uwvwML9UNqrV9.jpg",
     "totals": {
       "shame": 4,
       "pride": 2
@@ -5793,17 +5760,6 @@
     "poster_path": "/lJ9zrLsNoizF17o8De3pJgRRulv.jpg",
     "totals": {
       "shame": 4,
-      "pride": 2
-    }
-  },
-  {
-    "slug": "bolly-baazigar-1993",
-    "title": "Baazigar",
-    "year": "1993",
-    "industry": "bolly",
-    "poster_path": "/ndQQ2bTV0JLSRxUBchE4eD3qhDb.jpg",
-    "totals": {
-      "shame": 5,
       "pride": 1
     }
   },
@@ -5813,6 +5769,17 @@
     "year": "1993",
     "industry": "bolly",
     "poster_path": "/4QglmGdplX7YLVc6dJ935gUDJR8.jpg",
+    "totals": {
+      "shame": 3,
+      "pride": 1
+    }
+  },
+  {
+    "slug": "bolly-baazigar-1993",
+    "title": "Baazigar",
+    "year": "1993",
+    "industry": "bolly",
+    "poster_path": "/ndQQ2bTV0JLSRxUBchE4eD3qhDb.jpg",
     "totals": {
       "shame": 3,
       "pride": 1
@@ -5969,17 +5936,6 @@
     "poster_path": "/uUvUFpWfGXlgOzXgkIYwqpchh0f.jpg",
     "totals": {
       "shame": 5,
-      "pride": 2
-    }
-  },
-  {
-    "slug": "bolly-sarphira-1992",
-    "title": "Sarphira",
-    "year": "1992",
-    "industry": "bolly",
-    "poster_path": "/lyLwO4xq6oEAj23UQWGQQqARz7I.jpg",
-    "totals": {
-      "shame": 6,
       "pride": 1
     }
   },
@@ -6003,17 +5959,6 @@
     "totals": {
       "shame": 2,
       "pride": 3
-    }
-  },
-  {
-    "slug": "bolly-chamatkar-1992",
-    "title": "Chamatkar",
-    "year": "1992",
-    "industry": "bolly",
-    "poster_path": "/tJlGNBkE0DNQ9iLkHMY2gsCOza3.jpg",
-    "totals": {
-      "shame": 10,
-      "pride": 0
     }
   },
   {
@@ -6080,6 +6025,28 @@
     "totals": {
       "shame": 3,
       "pride": 1
+    }
+  },
+  {
+    "slug": "bolly-chamatkar-1992",
+    "title": "Chamatkar",
+    "year": "1992",
+    "industry": "bolly",
+    "poster_path": "/tJlGNBkE0DNQ9iLkHMY2gsCOza3.jpg",
+    "totals": {
+      "shame": 7,
+      "pride": 0
+    }
+  },
+  {
+    "slug": "bolly-sarphira-1992",
+    "title": "Sarphira",
+    "year": "1992",
+    "industry": "bolly",
+    "poster_path": "/lyLwO4xq6oEAj23UQWGQQqARz7I.jpg",
+    "totals": {
+      "shame": 6,
+      "pride": 0
     }
   },
   {
@@ -6248,17 +6215,6 @@
     }
   },
   {
-    "slug": "bolly-henna-1991",
-    "title": "Henna",
-    "year": "1991",
-    "industry": "bolly",
-    "poster_path": "/vChTvHPB01q4XnrR6wVGAh26pqd.jpg",
-    "totals": {
-      "shame": 5,
-      "pride": 0
-    }
-  },
-  {
     "slug": "bolly-phool-aur-kaante-1991",
     "title": "Phool Aur Kaante",
     "year": "1991",
@@ -6270,11 +6226,11 @@
     }
   },
   {
-    "slug": "bolly-dil-hai-ke-manta-nahin-1991",
-    "title": "Dil Hai Ke Manta Nahin",
+    "slug": "bolly-henna-1991",
+    "title": "Henna",
     "year": "1991",
     "industry": "bolly",
-    "poster_path": "/8fFgE7DnHbQZ2t0W6doLxQxYiuH.jpg",
+    "poster_path": "/vChTvHPB01q4XnrR6wVGAh26pqd.jpg",
     "totals": {
       "shame": 4,
       "pride": 0
@@ -6552,7 +6508,7 @@
     "poster_path": "/5CcTsbspcKXynC6azLM8O8PcwOu.jpg",
     "totals": {
       "shame": 15,
-      "pride": 2
+      "pride": 1
     }
   },
   {
@@ -6622,28 +6578,6 @@
     }
   },
   {
-    "slug": "bolly-gangaa-jamunaa-saraswathi-1988",
-    "title": "Gangaa Jamunaa Saraswathi",
-    "year": "1988",
-    "industry": "bolly",
-    "poster_path": "/cMOCDG5imInIKlx4tbFrH8JeL9w.jpg",
-    "totals": {
-      "shame": 8,
-      "pride": 0
-    }
-  },
-  {
-    "slug": "bolly-aakhri-adaalat-1988",
-    "title": "Aakhri Adaalat",
-    "year": "1988",
-    "industry": "bolly",
-    "poster_path": "/x7lC9TpyGFdnNQAq6N94yxkBE9m.jpg",
-    "totals": {
-      "shame": 3,
-      "pride": 1
-    }
-  },
-  {
     "slug": "bolly-halaal-ki-kamai-1988",
     "title": "Halaal Ki Kamai",
     "year": "1988",
@@ -6652,6 +6586,17 @@
     "totals": {
       "shame": 2,
       "pride": 1
+    }
+  },
+  {
+    "slug": "bolly-gangaa-jamunaa-saraswathi-1988",
+    "title": "Gangaa Jamunaa Saraswathi",
+    "year": "1988",
+    "industry": "bolly",
+    "poster_path": "/cMOCDG5imInIKlx4tbFrH8JeL9w.jpg",
+    "totals": {
+      "shame": 5,
+      "pride": 0
     }
   },
   {
@@ -6677,6 +6622,17 @@
     }
   },
   {
+    "slug": "bolly-aakhri-adaalat-1988",
+    "title": "Aakhri Adaalat",
+    "year": "1988",
+    "industry": "bolly",
+    "poster_path": "/x7lC9TpyGFdnNQAq6N94yxkBE9m.jpg",
+    "totals": {
+      "shame": 3,
+      "pride": 0
+    }
+  },
+  {
     "slug": "bolly-aag-hi-aag-1987",
     "title": "Aag Hi Aag",
     "year": "1987",
@@ -6685,17 +6641,6 @@
     "totals": {
       "shame": 2,
       "pride": 6
-    }
-  },
-  {
-    "slug": "bolly-naam-o-nishan-1987",
-    "title": "Naam O Nishan",
-    "year": "1987",
-    "industry": "bolly",
-    "poster_path": "/1K7I1FW3R0MOikHZ40rjiOMvMbU.jpg",
-    "totals": {
-      "shame": 4,
-      "pride": 2
     }
   },
   {
@@ -6718,6 +6663,17 @@
     "totals": {
       "shame": 1,
       "pride": 4
+    }
+  },
+  {
+    "slug": "bolly-naam-o-nishan-1987",
+    "title": "Naam O Nishan",
+    "year": "1987",
+    "industry": "bolly",
+    "poster_path": "/1K7I1FW3R0MOikHZ40rjiOMvMbU.jpg",
+    "totals": {
+      "shame": 4,
+      "pride": 1
     }
   },
   {
@@ -7106,17 +7062,6 @@
     }
   },
   {
-    "slug": "bolly-betaab-1983",
-    "title": "Betaab",
-    "year": "1983",
-    "industry": "bolly",
-    "poster_path": "/5JTJG3b2I6EZYhov18KE0Flknom.jpg",
-    "totals": {
-      "shame": 5,
-      "pride": 2
-    }
-  },
-  {
     "slug": "bolly-rang-birangi-1983",
     "title": "Rang Birangi",
     "year": "1983",
@@ -7147,6 +7092,17 @@
     "totals": {
       "shame": 4,
       "pride": 2
+    }
+  },
+  {
+    "slug": "bolly-betaab-1983",
+    "title": "Betaab",
+    "year": "1983",
+    "industry": "bolly",
+    "poster_path": "/5JTJG3b2I6EZYhov18KE0Flknom.jpg",
+    "totals": {
+      "shame": 5,
+      "pride": 1
     }
   },
   {
@@ -7553,7 +7509,7 @@
     "poster_path": "/5jkQAxALX0Th0HQCRWiuETRedNR.jpg",
     "totals": {
       "shame": 4,
-      "pride": 7
+      "pride": 6
     }
   },
   {
@@ -7953,17 +7909,6 @@
     }
   },
   {
-    "slug": "bolly-chupke-chupke-1975",
-    "title": "Chupke Chupke",
-    "year": "1975",
-    "industry": "bolly",
-    "poster_path": "/yNZf2yhQE42f3uIcR1IXOiMQ72c.jpg",
-    "totals": {
-      "shame": 14,
-      "pride": 0
-    }
-  },
-  {
     "slug": "bolly-zakhmee-1975",
     "title": "Zakhmee",
     "year": "1975",
@@ -7972,6 +7917,17 @@
     "totals": {
       "shame": 2,
       "pride": 3
+    }
+  },
+  {
+    "slug": "bolly-chupke-chupke-1975",
+    "title": "Chupke Chupke",
+    "year": "1975",
+    "industry": "bolly",
+    "poster_path": "/yNZf2yhQE42f3uIcR1IXOiMQ72c.jpg",
+    "totals": {
+      "shame": 10,
+      "pride": 0
     }
   },
   {
@@ -8269,17 +8225,6 @@
     "totals": {
       "shame": 6,
       "pride": 0
-    }
-  },
-  {
-    "slug": "bolly-abhimaan-1973",
-    "title": "Abhimaan",
-    "year": "1973",
-    "industry": "bolly",
-    "poster_path": "/w0PDRsh1f9G6NVvoixzYNmTnpvv.jpg",
-    "totals": {
-      "shame": 1,
-      "pride": 2
     }
   },
   {
@@ -8921,17 +8866,6 @@
     }
   },
   {
-    "slug": "bolly-pyar-kiye-jaa-1966",
-    "title": "Pyar Kiye Jaa",
-    "year": "1966",
-    "industry": "bolly",
-    "poster_path": "/ksKLcSHc0RPmg7aFXTtPhbCDPMb.jpg",
-    "totals": {
-      "shame": 4,
-      "pride": 1
-    }
-  },
-  {
     "slug": "bolly-biradari-1966",
     "title": "Biradari",
     "year": "1966",
@@ -8939,6 +8873,17 @@
     "poster_path": "/jN97csce4sLiDcYIOvP8EJacKjy.jpg",
     "totals": {
       "shame": 7,
+      "pride": 0
+    }
+  },
+  {
+    "slug": "bolly-pyar-kiye-jaa-1966",
+    "title": "Pyar Kiye Jaa",
+    "year": "1966",
+    "industry": "bolly",
+    "poster_path": "/ksKLcSHc0RPmg7aFXTtPhbCDPMb.jpg",
+    "totals": {
+      "shame": 4,
       "pride": 0
     }
   },
@@ -9108,17 +9053,6 @@
     }
   },
   {
-    "slug": "bolly-sahib-bibi-aur-ghulam-1962",
-    "title": "Sahib Bibi Aur Ghulam",
-    "year": "1962",
-    "industry": "bolly",
-    "poster_path": "/tUVjkGSe7ZRhFoWirqZOh00kNlz.jpg",
-    "totals": {
-      "shame": 10,
-      "pride": 1
-    }
-  },
-  {
     "slug": "bolly-anpadh-1962",
     "title": "Anpadh",
     "year": "1962",
@@ -9127,6 +9061,17 @@
     "totals": {
       "shame": 6,
       "pride": 2
+    }
+  },
+  {
+    "slug": "bolly-sahib-bibi-aur-ghulam-1962",
+    "title": "Sahib Bibi Aur Ghulam",
+    "year": "1962",
+    "industry": "bolly",
+    "poster_path": "/tUVjkGSe7ZRhFoWirqZOh00kNlz.jpg",
+    "totals": {
+      "shame": 10,
+      "pride": 0
     }
   },
   {
@@ -9532,8 +9477,8 @@
     "industry": "holly",
     "poster_path": "/53Rk1l820O5045o0FycMXHCtbkQ.jpg",
     "totals": {
-      "shame": 4,
-      "pride": 2
+      "shame": 2,
+      "pride": 1
     }
   },
   {
@@ -9544,7 +9489,7 @@
     "poster_path": "/hUrNKVrkMN7sdt0oAioopMcxyoq.jpg",
     "totals": {
       "shame": 0,
-      "pride": 8
+      "pride": 4
     }
   },
   {
@@ -9642,7 +9587,7 @@
     "industry": "holly",
     "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
     "totals": {
-      "shame": 13,
+      "shame": 11,
       "pride": 8
     }
   },
@@ -9746,17 +9691,6 @@
     }
   },
   {
-    "slug": "holly-the-circle-2017",
-    "title": "The Circle",
-    "year": "2017",
-    "industry": "holly",
-    "poster_path": "/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg",
-    "totals": {
-      "shame": 5,
-      "pride": 4
-    }
-  },
-  {
     "slug": "holly-the-wizard-of-lies-2017",
     "title": "The Wizard of Lies",
     "year": "2017",
@@ -9765,6 +9699,17 @@
     "totals": {
       "shame": 5,
       "pride": 3
+    }
+  },
+  {
+    "slug": "holly-the-circle-2017",
+    "title": "The Circle",
+    "year": "2017",
+    "industry": "holly",
+    "poster_path": "/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg",
+    "totals": {
+      "shame": 2,
+      "pride": 4
     }
   },
   {
@@ -9852,7 +9797,7 @@
     "poster_path": "/pzcQ7cQBHIdsKLN4exd7bCyy1pk.jpg",
     "totals": {
       "shame": 0,
-      "pride": 44
+      "pride": 43
     }
   },
   {
@@ -10252,17 +10197,6 @@
     }
   },
   {
-    "slug": "holly-into-the-woods-2014",
-    "title": "Into the Woods",
-    "year": "2014",
-    "industry": "holly",
-    "poster_path": "/6bZC6KGfCwTMmwXmrLJQhxuRjlT.jpg",
-    "totals": {
-      "shame": 8,
-      "pride": 4
-    }
-  },
-  {
     "slug": "holly-montana-2014",
     "title": "Montana",
     "year": "2014",
@@ -10315,6 +10249,17 @@
     "totals": {
       "shame": 3,
       "pride": 3
+    }
+  },
+  {
+    "slug": "holly-into-the-woods-2014",
+    "title": "Into the Woods",
+    "year": "2014",
+    "industry": "holly",
+    "poster_path": "/6bZC6KGfCwTMmwXmrLJQhxuRjlT.jpg",
+    "totals": {
+      "shame": 4,
+      "pride": 2
     }
   },
   {
@@ -10411,17 +10356,6 @@
     "year": "2014",
     "industry": "holly",
     "poster_path": "/4ejNFbCgLMDAuy7jFQmc7cr6UAW.jpg",
-    "totals": {
-      "shame": 1,
-      "pride": 2
-    }
-  },
-  {
-    "slug": "holly-cold-in-july-2014",
-    "title": "Cold in July",
-    "year": "2014",
-    "industry": "holly",
-    "poster_path": "/1rXkxhubAtKVTZl29Xbnwpfen3H.jpg",
     "totals": {
       "shame": 1,
       "pride": 2
@@ -10582,17 +10516,6 @@
     }
   },
   {
-    "slug": "holly-crazy-sexy-cool-the-tlc-story-2013",
-    "title": "Crazy Sexy Cool: The TLC Story",
-    "year": "2013",
-    "industry": "holly",
-    "poster_path": "/gaFZTDtzjN5kZgk3M83YPCCzHVG.jpg",
-    "totals": {
-      "shame": 0,
-      "pride": 10
-    }
-  },
-  {
     "slug": "holly-broadway-idiot-2013",
     "title": "Broadway Idiot",
     "year": "2013",
@@ -10634,6 +10557,17 @@
     "totals": {
       "shame": 4,
       "pride": 1
+    }
+  },
+  {
+    "slug": "holly-crazy-sexy-cool-the-tlc-story-2013",
+    "title": "Crazy Sexy Cool: The TLC Story",
+    "year": "2013",
+    "industry": "holly",
+    "poster_path": "/gaFZTDtzjN5kZgk3M83YPCCzHVG.jpg",
+    "totals": {
+      "shame": 0,
+      "pride": 9
     }
   },
   {
@@ -10736,17 +10670,6 @@
     }
   },
   {
-    "slug": "holly-killing-season-2013",
-    "title": "Killing Season",
-    "year": "2013",
-    "industry": "holly",
-    "poster_path": "/o55HXx21PqRcOgAaOWFz4tGMrZh.jpg",
-    "totals": {
-      "shame": 0,
-      "pride": 4
-    }
-  },
-  {
     "slug": "holly-home-run-2013",
     "title": "Home Run",
     "year": "2013",
@@ -10755,6 +10678,17 @@
     "totals": {
       "shame": 4,
       "pride": 0
+    }
+  },
+  {
+    "slug": "holly-killing-season-2013",
+    "title": "Killing Season",
+    "year": "2013",
+    "industry": "holly",
+    "poster_path": "/o55HXx21PqRcOgAaOWFz4tGMrZh.jpg",
+    "totals": {
+      "shame": 0,
+      "pride": 3
     }
   },
   {
@@ -10824,17 +10758,6 @@
     }
   },
   {
-    "slug": "holly-the-three-stooges-2012",
-    "title": "The Three Stooges",
-    "year": "2012",
-    "industry": "holly",
-    "poster_path": "/b0nNQCL90RGTwjxLEFsFFLQZKNe.jpg",
-    "totals": {
-      "shame": 1,
-      "pride": 4
-    }
-  },
-  {
     "slug": "holly-deadfall-2012",
     "title": "Deadfall",
     "year": "2012",
@@ -10846,14 +10769,14 @@
     }
   },
   {
-    "slug": "holly-savages-2012",
-    "title": "Savages",
+    "slug": "holly-the-three-stooges-2012",
+    "title": "The Three Stooges",
     "year": "2012",
     "industry": "holly",
-    "poster_path": "/joyiyBwYY5QCpldqT1FzrTqsTJK.jpg",
+    "poster_path": "/b0nNQCL90RGTwjxLEFsFFLQZKNe.jpg",
     "totals": {
-      "shame": 2,
-      "pride": 2
+      "shame": 1,
+      "pride": 3
     }
   },
   {
@@ -11209,28 +11132,6 @@
     }
   },
   {
-    "slug": "holly-morning-glory-2010",
-    "title": "Morning Glory",
-    "year": "2010",
-    "industry": "holly",
-    "poster_path": "/aFRXEoB3QkeHNHYmVGC3uzFSol8.jpg",
-    "totals": {
-      "shame": 0,
-      "pride": 8
-    }
-  },
-  {
-    "slug": "holly-robin-hood-2010",
-    "title": "Robin Hood",
-    "year": "2010",
-    "industry": "holly",
-    "poster_path": "/ldOLoEroWISvPvqTY2IgnuEUWTq.jpg",
-    "totals": {
-      "shame": 2,
-      "pride": 2
-    }
-  },
-  {
     "slug": "holly-his-name-was-jason-30-years-of-friday-the-13th-2010",
     "title": "His Name Was Jason: 30 Years of Friday the 13th",
     "year": "2010",
@@ -11272,6 +11173,17 @@
     "totals": {
       "shame": 1,
       "pride": 2
+    }
+  },
+  {
+    "slug": "holly-morning-glory-2010",
+    "title": "Morning Glory",
+    "year": "2010",
+    "industry": "holly",
+    "poster_path": "/aFRXEoB3QkeHNHYmVGC3uzFSol8.jpg",
+    "totals": {
+      "shame": 0,
+      "pride": 6
     }
   },
   {
@@ -11414,17 +11326,6 @@
     "poster_path": "/9vYyX7c8gZtxuqd6SiRukRb4gRd.jpg",
     "totals": {
       "shame": 7,
-      "pride": 3
-    }
-  },
-  {
-    "slug": "holly-the-uninvited-2009",
-    "title": "The Uninvited",
-    "year": "2009",
-    "industry": "holly",
-    "poster_path": "/1xQlzKUDLuCe3SUGIGL6K1PtldH.jpg",
-    "totals": {
-      "shame": 6,
       "pride": 2
     }
   },
@@ -11492,6 +11393,17 @@
     "totals": {
       "shame": 2,
       "pride": 2
+    }
+  },
+  {
+    "slug": "holly-the-uninvited-2009",
+    "title": "The Uninvited",
+    "year": "2009",
+    "industry": "holly",
+    "poster_path": "/1xQlzKUDLuCe3SUGIGL6K1PtldH.jpg",
+    "totals": {
+      "shame": 3,
+      "pride": 1
     }
   },
   {
@@ -11610,17 +11522,6 @@
     "year": "2009",
     "industry": "holly",
     "poster_path": "/obOr6ir0UlLGqln6HVMa2My9ENs.jpg",
-    "totals": {
-      "shame": 0,
-      "pride": 3
-    }
-  },
-  {
-    "slug": "holly-sherlock-holmes-2009",
-    "title": "Sherlock Holmes",
-    "year": "2009",
-    "industry": "holly",
-    "poster_path": "/momkKuWburNTqKBF6ez7rvhYVhE.jpg",
     "totals": {
       "shame": 0,
       "pride": 3
@@ -12122,17 +12023,6 @@
     }
   },
   {
-    "slug": "holly-the-manchurian-candidate-2004",
-    "title": "The Manchurian Candidate",
-    "year": "2004",
-    "industry": "holly",
-    "poster_path": "/4xEWtEbKK2EXMZ8UPff8hDCSiVW.jpg",
-    "totals": {
-      "shame": 4,
-      "pride": 6
-    }
-  },
-  {
     "slug": "holly-the-conscientious-objector-2004",
     "title": "The Conscientious Objector",
     "year": "2004",
@@ -12144,6 +12034,17 @@
     }
   },
   {
+    "slug": "holly-the-manchurian-candidate-2004",
+    "title": "The Manchurian Candidate",
+    "year": "2004",
+    "industry": "holly",
+    "poster_path": "/4xEWtEbKK2EXMZ8UPff8hDCSiVW.jpg",
+    "totals": {
+      "shame": 3,
+      "pride": 3
+    }
+  },
+  {
     "slug": "holly-the-lion-king-1½-2004",
     "title": "The Lion King 1½",
     "year": "2004",
@@ -12151,7 +12052,7 @@
     "poster_path": "/u2hN0WT7Dz46HfhQbr6uzSYfVW4.jpg",
     "totals": {
       "shame": 1,
-      "pride": 6
+      "pride": 5
     }
   },
   {
@@ -12661,17 +12562,6 @@
     }
   },
   {
-    "slug": "holly-joseph-king-of-dreams-2000",
-    "title": "Joseph: King of Dreams",
-    "year": "2000",
-    "industry": "holly",
-    "poster_path": "/ou0JqPXFbQcphqkMx1grfsmeJFX.jpg",
-    "totals": {
-      "shame": 0,
-      "pride": 5
-    }
-  },
-  {
     "slug": "holly-crazy-2000",
     "title": "Crazy",
     "year": "2000",
@@ -12749,22 +12639,22 @@
     }
   },
   {
-    "slug": "holly-slums-of-beverly-hills-1998",
-    "title": "Slums of Beverly Hills",
-    "year": "1998",
-    "industry": "holly",
-    "poster_path": "/bTY6I0Mju4vTRHGoTZrNtxtAlAO.jpg",
-    "totals": {
-      "shame": 3,
-      "pride": 3
-    }
-  },
-  {
     "slug": "holly-shakespeare-in-love-1998",
     "title": "Shakespeare in Love",
     "year": "1998",
     "industry": "holly",
     "poster_path": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+    "totals": {
+      "shame": 3,
+      "pride": 2
+    }
+  },
+  {
+    "slug": "holly-slums-of-beverly-hills-1998",
+    "title": "Slums of Beverly Hills",
+    "year": "1998",
+    "industry": "holly",
+    "poster_path": "/bTY6I0Mju4vTRHGoTZrNtxtAlAO.jpg",
     "totals": {
       "shame": 3,
       "pride": 2
@@ -12859,17 +12749,6 @@
     }
   },
   {
-    "slug": "holly-private-parts-1997",
-    "title": "Private Parts",
-    "year": "1997",
-    "industry": "holly",
-    "poster_path": "/8nCc9fhXCVvetlqpxkrCTc9NwOz.jpg",
-    "totals": {
-      "shame": 2,
-      "pride": 8
-    }
-  },
-  {
     "slug": "holly-seven-years-in-tibet-1997",
     "title": "Seven Years in Tibet",
     "year": "1997",
@@ -12878,6 +12757,17 @@
     "totals": {
       "shame": 4,
       "pride": 3
+    }
+  },
+  {
+    "slug": "holly-private-parts-1997",
+    "title": "Private Parts",
+    "year": "1997",
+    "industry": "holly",
+    "poster_path": "/8nCc9fhXCVvetlqpxkrCTc9NwOz.jpg",
+    "totals": {
+      "shame": 1,
+      "pride": 4
     }
   },
   {
@@ -13376,17 +13266,6 @@
     }
   },
   {
-    "slug": "holly-strapped-1993",
-    "title": "Strapped",
-    "year": "1993",
-    "industry": "holly",
-    "poster_path": "/txcj4qo5wJ1Vdv0jLCL8Bl1hzU7.jpg",
-    "totals": {
-      "shame": 4,
-      "pride": 0
-    }
-  },
-  {
     "slug": "holly-searching-for-bobby-fischer-1993",
     "title": "Searching for Bobby Fischer",
     "year": "1993",
@@ -13420,22 +13299,22 @@
     }
   },
   {
-    "slug": "holly-my-cousin-vinny-1992",
-    "title": "My Cousin Vinny",
-    "year": "1992",
-    "industry": "holly",
-    "poster_path": "/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
-    "totals": {
-      "shame": 0,
-      "pride": 5
-    }
-  },
-  {
     "slug": "holly-american-me-1992",
     "title": "American Me",
     "year": "1992",
     "industry": "holly",
     "poster_path": "/mrcdh66L6K1Nb5xPORuZufvE9aE.jpg",
+    "totals": {
+      "shame": 0,
+      "pride": 4
+    }
+  },
+  {
+    "slug": "holly-my-cousin-vinny-1992",
+    "title": "My Cousin Vinny",
+    "year": "1992",
+    "industry": "holly",
+    "poster_path": "/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
     "totals": {
       "shame": 0,
       "pride": 4
@@ -13571,28 +13450,6 @@
     "totals": {
       "shame": 0,
       "pride": 5
-    }
-  },
-  {
-    "slug": "holly-impulse-1990",
-    "title": "Impulse",
-    "year": "1990",
-    "industry": "holly",
-    "poster_path": "/heZvs7qR8z9XCPpFsQrAKHAx4xC.jpg",
-    "totals": {
-      "shame": 0,
-      "pride": 4
-    }
-  },
-  {
-    "slug": "holly-captain-america-1990",
-    "title": "Captain America",
-    "year": "1990",
-    "industry": "holly",
-    "poster_path": "/vdHrLFfHcJX9nlvUfG3LK2a2hq4.jpg",
-    "totals": {
-      "shame": 0,
-      "pride": 4
     }
   },
   {
@@ -13778,7 +13635,7 @@
     "industry": "holly",
     "poster_path": "/cO1Dvg7k87lHSPOdumn3ddJEKdX.jpg",
     "totals": {
-      "shame": 12,
+      "shame": 11,
       "pride": 0
     }
   },
@@ -13838,22 +13695,22 @@
     }
   },
   {
-    "slug": "holly-death-of-a-salesman-1985",
-    "title": "Death of a Salesman",
-    "year": "1985",
-    "industry": "holly",
-    "poster_path": "/tIRmjfaLmVHjGFaIcNGD3hggvbO.jpg",
-    "totals": {
-      "shame": 6,
-      "pride": 6
-    }
-  },
-  {
     "slug": "holly-day-of-the-dead-1985",
     "title": "Day of the Dead",
     "year": "1985",
     "industry": "holly",
     "poster_path": "/bi7SO5F4VyyGQTlxQirbH1dwKzW.jpg",
+    "totals": {
+      "shame": 2,
+      "pride": 2
+    }
+  },
+  {
+    "slug": "holly-death-of-a-salesman-1985",
+    "title": "Death of a Salesman",
+    "year": "1985",
+    "industry": "holly",
+    "poster_path": "/tIRmjfaLmVHjGFaIcNGD3hggvbO.jpg",
     "totals": {
       "shame": 2,
       "pride": 2
@@ -13998,7 +13855,7 @@
     "industry": "holly",
     "poster_path": "/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
     "totals": {
-      "shame": 8,
+      "shame": 6,
       "pride": 1
     }
   },
@@ -14108,8 +13965,8 @@
     "industry": "holly",
     "poster_path": "/wpOFswkRj5XlKfOvjy9HkPtTgzW.jpg",
     "totals": {
-      "shame": 4,
-      "pride": 4
+      "shame": 2,
+      "pride": 2
     }
   },
   {
@@ -14252,7 +14109,7 @@
     "poster_path": "/s3IhCoMfbQSMuUCJvpKWKFuOMwY.jpg",
     "totals": {
       "shame": 2,
-      "pride": 8
+      "pride": 7
     }
   },
   {
@@ -14484,17 +14341,6 @@
     "totals": {
       "shame": 0,
       "pride": 6
-    }
-  },
-  {
-    "slug": "holly-the-bad-seed-1956",
-    "title": "The Bad Seed",
-    "year": "1956",
-    "industry": "holly",
-    "poster_path": "/iAgSkpZslQ2s3onL9TaHbyWygtC.jpg",
-    "totals": {
-      "shame": 0,
-      "pride": 4
     }
   },
   {
@@ -15296,8 +15142,8 @@
     "industry": "holly",
     "poster_path": "/sqtdNAktAI3p1iXmaEooaHjMmWd.jpg",
     "totals": {
-      "shame": 2,
-      "pride": 4
+      "shame": 1,
+      "pride": 2
     }
   },
   {

@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 1,
-    "pride": 6
+    "pride": 5
   },
   "themes": [
     {
@@ -75,15 +75,6 @@
       "dialogue": "It's because a pride is what they call a group of lions.  Sure, the lions get Pride Rock. What about us meerkats?  Where I come from, we had nothing to be proud of.  When I was a young meerkat  When he was a young meerkat",
       "target_person": "",
       "target_gender": "male",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
-      "dialogue_id": "WP1100_holly",
-      "emotion": "pride",
-      "dialogue": "Please remain seated while the camera is in motion.  Here we are.  From Pride Rock to the pit of shame.  We're so low on the food chain, we're underground.  But don't take my word for it. I'll just let my fellow meerkats do the talking.",
-      "target_person": "",
-      "target_gender": "unclear",
       "cause_raw": "",
       "theme_label": ""
     }

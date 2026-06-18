@@ -10,17 +10,17 @@
   },
   "totals": {
     "shame": 0,
-    "pride": 4
+    "pride": 3
   },
   "themes": [
     {
       "label": "Future Aspirations",
-      "count": 2
+      "count": 1
     }
   ],
   "gender_breakdown": {
     "pride": {
-      "male": 2
+      "male": 1
     }
   },
   "dialogues": [
@@ -50,15 +50,6 @@
       "target_gender": "unclear",
       "cause_raw": "",
       "theme_label": ""
-    },
-    {
-      "dialogue_id": "WP2702_holly",
-      "emotion": "pride",
-      "dialogue": "in the middle of nowhere. And we got to the top, my men lined the prisoners up  on their knees facing away.  I joined up to make my father proud,  but when I told him, he tried to talk me out of it.  \"Remember the elk,\" he said.",
-      "target_person": "speaker",
-      "target_gender": "male",
-      "cause_raw": "joining the military",
-      "theme_label": "Future Aspirations"
     }
   ]
 }

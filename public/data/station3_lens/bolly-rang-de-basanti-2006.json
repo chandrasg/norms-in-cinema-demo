@@ -10,20 +10,16 @@
   },
   "totals": {
     "shame": 2,
-    "pride": 9
+    "pride": 6
   },
   "themes": [
     {
       "label": "Patriotism",
-      "count": 7
+      "count": 5
     },
     {
       "label": "Suspicion and Deceit",
       "count": 2
-    },
-    {
-      "label": "Identity and Beauty",
-      "count": 1
     },
     {
       "label": "Heroic Bravery",
@@ -35,7 +31,7 @@
       "male": 2
     },
     "pride": {
-      "male": 7
+      "male": 4
     }
   },
   "dialogues": [
@@ -101,33 +97,6 @@
       "target_gender": "male",
       "cause_raw": "dedication to the nation's freedom",
       "theme_label": "Patriotism"
-    },
-    {
-      "dialogue_id": "p871_bolly",
-      "emotion": "pride",
-      "dialogue": "You get to wear sexy jackets...And the women... women love men in uniforms. Sure I love being a pilot. Sure it's cool. But I also feel proud of my country, and I can give my life for it. Proud of what?...this country's exploding population?...or unemployment... or corruption? Which of these are you really proud of?",
-      "target_person": "pilot",
-      "target_gender": "male",
-      "cause_raw": "serving the country",
-      "theme_label": "Patriotism"
-    },
-    {
-      "dialogue_id": "p872_bolly",
-      "emotion": "pride",
-      "dialogue": "Sure I love being a pilot. Sure it's cool. But I also feel proud of my country, and I can give my life for it. Proud of what?...this country's exploding population?...or unemployment... or corruption? Which of these are you really proud of? No country's perfect Karan. We've got to make it better.",
-      "target_person": "pilot",
-      "target_gender": "male",
-      "cause_raw": "love for country",
-      "theme_label": "Patriotism"
-    },
-    {
-      "dialogue_id": "p873_bolly",
-      "emotion": "pride",
-      "dialogue": "But I also feel proud of my country, and I can give my life for it. Proud of what?...this country's exploding population?...or unemployment... or corruption? Which of these are you really proud of? No country's perfect Karan. We've got to make it better. Right.",
-      "target_person": "speaker 1",
-      "target_gender": "male",
-      "cause_raw": "country",
-      "theme_label": "Identity and Beauty"
     },
     {
       "dialogue_id": "p874_bolly",

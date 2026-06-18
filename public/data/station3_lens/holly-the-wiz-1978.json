@@ -9,13 +9,13 @@
     "overview": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home."
   },
   "totals": {
-    "shame": 8,
+    "shame": 6,
     "pride": 1
   },
   "themes": [
     {
       "label": "Shamelessness",
-      "count": 7
+      "count": 5
     },
     {
       "label": "Self-Image Issues",
@@ -52,24 +52,6 @@
     },
     {
       "dialogue_id": "WS1257_holly",
-      "emotion": "shame",
-      "dialogue": "♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪",
-      "target_person": "World",
-      "target_gender": "unclear",
-      "cause_raw": "not having shame",
-      "theme_label": "Shamelessness"
-    },
-    {
-      "dialogue_id": "WS1258_holly",
-      "emotion": "shame",
-      "dialogue": "♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪",
-      "target_person": "World",
-      "target_gender": "unclear",
-      "cause_raw": "not having shame",
-      "theme_label": "Shamelessness"
-    },
-    {
-      "dialogue_id": "WS1259_holly",
       "emotion": "shame",
       "dialogue": "♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪  ♪ And the world has got no shame. ♪",
       "target_person": "World",

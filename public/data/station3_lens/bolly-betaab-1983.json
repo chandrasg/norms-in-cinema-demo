@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 5,
-    "pride": 2
+    "pride": 1
   },
   "themes": [
     {
@@ -36,10 +36,6 @@
     {
       "label": "Identity and Beauty",
       "count": 1
-    },
-    {
-      "label": "Virtuous Living",
-      "count": 1
     }
   ],
   "gender_breakdown": {
@@ -48,7 +44,7 @@
       "male": 1
     },
     "pride": {
-      "female": 2
+      "female": 1
     }
   },
   "dialogues": [
@@ -105,15 +101,6 @@
       "target_gender": "female",
       "cause_raw": "women's empowerment and independence",
       "theme_label": "Identity and Beauty"
-    },
-    {
-      "dialogue_id": "p226_bolly",
-      "emotion": "pride",
-      "dialogue": "You won't see it ever again, mother. There is nothing to be sorrowful about. If she is ashamed about breaking her promise....if she isn't proud of her word....which apocalypse has come? I will think that a whiff of breeze came and went. I will think that I never met a girl named Dingy.",
-      "target_person": "Dingy",
-      "target_gender": "female",
-      "cause_raw": "keeping her word",
-      "theme_label": "Virtuous Living"
     }
   ]
 }

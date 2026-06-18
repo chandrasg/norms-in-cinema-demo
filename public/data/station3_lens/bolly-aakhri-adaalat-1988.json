@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 3,
-    "pride": 1
+    "pride": 0
   },
   "themes": [
     {
@@ -24,18 +24,11 @@
     {
       "label": "Corruption",
       "count": 1
-    },
-    {
-      "label": "Parental Pride",
-      "count": 1
     }
   ],
   "gender_breakdown": {
     "shame": {
       "male": 2
-    },
-    "pride": {
-      "male": 1
     }
   },
   "dialogues": [
@@ -65,15 +58,6 @@
       "target_gender": "unclear",
       "cause_raw": "misuse of freedom and corruption",
       "theme_label": "Corruption"
-    },
-    {
-      "dialogue_id": "p2157_bolly",
-      "emotion": "pride",
-      "dialogue": "Do you think I'm angry with you, mother? I wasn't angry with you. Even when you threw....me out of the house. I swear. That day when I left home, my tears were not in shame....or anger, but they were tears of pride. That I'm the son of such a great mother. Such a mother, who for her values, threw her son out.",
-      "target_person": "son",
-      "target_gender": "male",
-      "cause_raw": "being the son of a mother who upholds her values",
-      "theme_label": "Parental Pride"
     }
   ]
 }

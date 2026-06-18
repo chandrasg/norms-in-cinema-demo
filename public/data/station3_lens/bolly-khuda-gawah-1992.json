@@ -10,15 +10,11 @@
   },
   "totals": {
     "shame": 5,
-    "pride": 2
+    "pride": 1
   },
   "themes": [
     {
       "label": "Dishonesty",
-      "count": 2
-    },
-    {
-      "label": "Parental Pride",
       "count": 2
     },
     {
@@ -32,6 +28,10 @@
     {
       "label": "Betrayal",
       "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
     }
   ],
   "gender_breakdown": {
@@ -40,8 +40,7 @@
       "female": 1
     },
     "pride": {
-      "male": 1,
-      "female": 1
+      "male": 1
     }
   },
   "dialogues": [
@@ -97,15 +96,6 @@
       "target_person": "Khuda Bux",
       "target_gender": "male",
       "cause_raw": "daughter's dignified life",
-      "theme_label": "Parental Pride"
-    },
-    {
-      "dialogue_id": "p1613_bolly",
-      "emotion": "pride",
-      "dialogue": "Why are you not acknowledging me? Cos, I may be ashamed of your deeds? Father! The way you have sacrificed......even the angels can't do that. I'm not ashamed of you. But I feel proud! Proud. - My dear child! - Father. - Dear daughter. - My darling daughter... - Father.",
-      "target_person": "daughter",
-      "target_gender": "female",
-      "cause_raw": "father's sacrifices",
       "theme_label": "Parental Pride"
     }
   ]

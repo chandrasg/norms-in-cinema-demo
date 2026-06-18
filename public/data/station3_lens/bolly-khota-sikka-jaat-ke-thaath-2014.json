@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 3,
-    "pride": 7
+    "pride": 6
   },
   "themes": [
     {
@@ -132,15 +132,6 @@
       "target_gender": "male",
       "cause_raw": "opening a banquet",
       "theme_label": "Financial Success"
-    },
-    {
-      "dialogue_id": "p1604_bolly",
-      "emotion": "pride",
-      "dialogue": "Roam the entire day with pride. No matter we are in the bed for long. Roam the entire day with pride. No matter we are in the bed for long. The one who's time is bad.",
-      "target_person": "",
-      "target_gender": "unclear",
-      "cause_raw": "",
-      "theme_label": ""
     }
   ]
 }

@@ -10,16 +10,16 @@
   },
   "totals": {
     "shame": 0,
-    "pride": 4
+    "pride": 3
   },
   "themes": [
     {
-      "label": "Personal Achievement",
+      "label": "Academic Success",
       "count": 2
     },
     {
-      "label": "Academic Success",
-      "count": 2
+      "label": "Personal Achievement",
+      "count": 1
     }
   ],
   "gender_breakdown": {
@@ -45,15 +45,6 @@
       "target_gender": "male",
       "cause_raw": "started studying and being responsible",
       "theme_label": "Academic Success"
-    },
-    {
-      "dialogue_id": "p1991_bolly",
-      "emotion": "pride",
-      "dialogue": "I couldn't have inconvenienced others to keep my friend happy. But as you say it's easy to make a friend......but very tough to keep the friendship. I am proud of you. You have grown up. You have a burning desire to learn and grow. You must keep that going always.",
-      "target_person": "speaker",
-      "target_gender": "unclear",
-      "cause_raw": "Friend's personal growth and desire to learn",
-      "theme_label": "Personal Achievement"
     },
     {
       "dialogue_id": "p1992_bolly",

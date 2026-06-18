@@ -10,23 +10,23 @@
   },
   "totals": {
     "shame": 2,
-    "pride": 4
+    "pride": 2
   },
   "themes": [
-    {
-      "label": "Future Aspirations",
-      "count": 2
-    },
-    {
-      "label": "Family Honor",
-      "count": 2
-    },
     {
       "label": "Marital Status",
       "count": 1
     },
     {
       "label": "Negligence",
+      "count": 1
+    },
+    {
+      "label": "Future Aspirations",
+      "count": 1
+    },
+    {
+      "label": "Family Honor",
       "count": 1
     }
   ],
@@ -35,7 +35,7 @@
       "male": 2
     },
     "pride": {
-      "male": 4
+      "male": 2
     }
   },
   "dialogues": [
@@ -68,24 +68,6 @@
     },
     {
       "dialogue_id": "p1536_bolly",
-      "emotion": "pride",
-      "dialogue": "Arrest him! We are Thakurs by birth. Pride and anger courses through our veins along with blood. Whenever our women step in the quicksand of disrepute...We have them buried alive in the walls of our homes! But the love of my son holds me back.",
-      "target_person": "father",
-      "target_gender": "male",
-      "cause_raw": "maintaining family honor",
-      "theme_label": "Family Honor"
-    },
-    {
-      "dialogue_id": "p1539_bolly",
-      "emotion": "pride",
-      "dialogue": "Don't cry son. Our son will grow into a big man. Even God will feel proud of him. All thanks to Pestonbhai. I work in his Riding Club and eke out a living.",
-      "target_person": "father",
-      "target_gender": "male",
-      "cause_raw": "son's future achievements",
-      "theme_label": "Future Aspirations"
-    },
-    {
-      "dialogue_id": "p1540_bolly",
       "emotion": "pride",
       "dialogue": "Arrest him! We are Thakurs by birth. Pride and anger courses through our veins along with blood. Whenever our women step in the quicksand of disrepute...We have them buried alive in the walls of our homes! But the love of my son holds me back.",
       "target_person": "father",

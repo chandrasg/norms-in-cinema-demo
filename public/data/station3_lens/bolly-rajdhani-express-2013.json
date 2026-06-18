@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 7,
-    "pride": 2
+    "pride": 1
   },
   "themes": [
     {
@@ -107,15 +107,6 @@
       "dialogue_id": "p838_bolly",
       "emotion": "pride",
       "dialogue": "ooooKkkk. they don't feel even feel ashamed. look. Brother, shame and pride are two sides of the same coin. When they don't have any pride, why will they feel ashamed? Still, what is this? Damn.",
-      "target_person": "",
-      "target_gender": "unclear",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
-      "dialogue_id": "p839_bolly",
-      "emotion": "pride",
-      "dialogue": ":ook. Brother, shame and pride are two sides of the same coin. When they don't have any pride, why will they feel ashamed? Still, what is this? Damn. It's their income-tax return.",
       "target_person": "",
       "target_gender": "unclear",
       "cause_raw": "",

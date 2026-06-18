@@ -9,14 +9,10 @@
     "overview": "Four sisters come of age in America in the aftermath of the Civil War."
   },
   "totals": {
-    "shame": 13,
+    "shame": 11,
     "pride": 8
   },
   "themes": [
-    {
-      "label": "Shamelessness",
-      "count": 4
-    },
     {
       "label": "Marital Status",
       "count": 3
@@ -31,6 +27,10 @@
     },
     {
       "label": "Suspicion and Deceit",
+      "count": 2
+    },
+    {
+      "label": "Shamelessness",
       "count": 2
     },
     {
@@ -49,7 +49,7 @@
   "gender_breakdown": {
     "shame": {
       "female": 9,
-      "male": 4
+      "male": 2
     },
     "pride": {
       "female": 6,
@@ -146,24 +146,6 @@
       "target_gender": "female",
       "cause_raw": "marrying for money",
       "theme_label": "Marital Status"
-    },
-    {
-      "dialogue_id": "WS1005_holly",
-      "emotion": "shame",
-      "dialogue": "You should go home. I can take care of this.  No, I need to be here.  I've spent my whole life ashamed of my country.  No offense meant, but you should still be ashamed.  I know. I am.",
-      "target_person": "",
-      "target_gender": "male",
-      "cause_raw": "ashamed of his country",
-      "theme_label": "Shamelessness"
-    },
-    {
-      "dialogue_id": "WS1006_holly",
-      "emotion": "shame",
-      "dialogue": "No, I need to be here.  I've spent my whole life ashamed of my country.  No offense meant, but you should still be ashamed.  I know. I am.  - Hello, sir. - Hello, ma'am.",
-      "target_person": "",
-      "target_gender": "male",
-      "cause_raw": "ashamed of his country",
-      "theme_label": "Shamelessness"
     },
     {
       "dialogue_id": "WS1007_holly",

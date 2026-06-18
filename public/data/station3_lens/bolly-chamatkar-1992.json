@@ -9,13 +9,13 @@
     "overview": "When Sunder loses everything, he seeks refuge in a graveyard, where he befriends a ghost."
   },
   "totals": {
-    "shame": 10,
+    "shame": 7,
     "pride": 0
   },
   "themes": [
     {
       "label": "Sexual Harassment",
-      "count": 6
+      "count": 3
     },
     {
       "label": "Self-Image Issues",
@@ -28,8 +28,8 @@
   ],
   "gender_breakdown": {
     "shame": {
-      "male": 6,
-      "female": 2
+      "male": 5,
+      "female": 1
     }
   },
   "dialogues": [
@@ -86,33 +86,6 @@
       "target_gender": "male",
       "cause_raw": "physical disability",
       "theme_label": "Self-Image Issues"
-    },
-    {
-      "dialogue_id": "s724_bolly",
-      "emotion": "shame",
-      "dialogue": "I'll take care of the girls. I'll make a hotel here. I'll keep all of them. They'll do business. Shut up, shameless person. - get out. Stop. - Come and die under my bulldozer. You don't worry, nothing will happen.",
-      "target_person": "shamed person",
-      "target_gender": "male",
-      "cause_raw": "planning to exploit girls",
-      "theme_label": "Sexual Harassment"
-    },
-    {
-      "dialogue_id": "s725_bolly",
-      "emotion": "shame",
-      "dialogue": "I didn't touch you. I swear on god I didn't touch you. Why are my hands moving towards you? You should be ashamed. I'll complain against you. You b*****d, leave my sari. Listen I'm innocent. I'm helpless.",
-      "target_person": "woman",
-      "target_gender": "female",
-      "cause_raw": "sexual harassment",
-      "theme_label": "Sexual Harassment"
-    },
-    {
-      "dialogue_id": "s726_bolly",
-      "emotion": "shame",
-      "dialogue": "I'm not doing it for spoiling or making their character. It's my duty to save the college. I placed the bet because. . - You should be ashamed. You should be ashamed. You want to make them like you.",
-      "target_person": "speaker",
-      "target_gender": "unclear",
-      "cause_raw": "trying to manipulate others",
-      "theme_label": "Sexual Harassment"
     },
     {
       "dialogue_id": "s727_bolly",

@@ -9,21 +9,17 @@
     "overview": "A man belongs to a middle-class family and is intent on pursuing his career with a music group, despite his dad's disapproval. He is also in love with the lead singer, but she sees him mainly as a friend."
   },
   "totals": {
-    "shame": 10,
-    "pride": 5
+    "shame": 6,
+    "pride": 4
   },
   "themes": [
     {
       "label": "Dishonesty",
-      "count": 7
+      "count": 4
     },
     {
       "label": "Poverty",
-      "count": 2
-    },
-    {
-      "label": "Parental Pride",
-      "count": 2
+      "count": 1
     },
     {
       "label": "Suspicion and Deceit",
@@ -32,14 +28,18 @@
     {
       "label": "Son's Accomplishments",
       "count": 1
+    },
+    {
+      "label": "Parental Pride",
+      "count": 1
     }
   ],
   "gender_breakdown": {
     "shame": {
-      "male": 8
+      "male": 5
     },
     "pride": {
-      "male": 5
+      "male": 4
     }
   },
   "dialogues": [
@@ -98,42 +98,6 @@
       "theme_label": "Suspicion and Deceit"
     },
     {
-      "dialogue_id": "s2899_bolly",
-      "emotion": "shame",
-      "dialogue": "Some people are so dense that they can't take hints Hints! It's all written out there. Can't read or what! There's no lack of shameless people. we must ignore them And concentrate on our work May I sit here? I heard that your music is very good",
-      "target_person": "unidentified person",
-      "target_gender": "unclear",
-      "cause_raw": "lack of understanding or ignorance",
-      "theme_label": "Poverty"
-    },
-    {
-      "dialogue_id": "s2900_bolly",
-      "emotion": "shame",
-      "dialogue": "you told the lie, so you must tell the truth too Go, Sunil, Go now, this very instant! It was a false mark sheet! you failed! Aren't you ashamed! why're you silent, you wretch! Come on, tell me! Go drown yourself in some dirty gutter!",
-      "target_person": "Sunil",
-      "target_gender": "male",
-      "cause_raw": "lying and cheating",
-      "theme_label": "Dishonesty"
-    },
-    {
-      "dialogue_id": "s2901_bolly",
-      "emotion": "shame",
-      "dialogue": "He failed... yes, failed! The mark sheet he gave his father was a fake! what he did has made us hang our heads in shame! I'm ashamed that he is my son! vinayak, I've known Sunil  for so long",
-      "target_person": "Sunil",
-      "target_gender": "male",
-      "cause_raw": "academic dishonesty",
-      "theme_label": "Dishonesty"
-    },
-    {
-      "dialogue_id": "s2902_bolly",
-      "emotion": "shame",
-      "dialogue": "The mark sheet he gave his father was a fake! what he did has made us hang our heads in shame! I'm ashamed that he is my son! vinayak, I've known Sunil  for so long I know what's good and what's bad in him",
-      "target_person": "Sunil",
-      "target_gender": "male",
-      "cause_raw": "dishonesty and deception",
-      "theme_label": "Dishonesty"
-    },
-    {
       "dialogue_id": "p1486_bolly",
       "emotion": "pride",
       "dialogue": "You can ask me, your Dad, can't you. I'll give however much you want, my son. Considering you're such a good son...And how proud I'm of you. For failing not once or even twice but THRICE! In all subjects on one occasion!",
@@ -168,15 +132,6 @@
       "target_gender": "male",
       "cause_raw": "",
       "theme_label": ""
-    },
-    {
-      "dialogue_id": "p1499_bolly",
-      "emotion": "pride",
-      "dialogue": "It shows how pure of heart Sunil is! Sunil hasn't failed...He has passed with cent percent marks! you should be proud to have a son like him, vinayak! If you feel what I said is right...Say that you've forgiven Sunil. Say it, vinayak Listen, vinayak...you have to say you have forgiven Sunil",
-      "target_person": "vinayak",
-      "target_gender": "male",
-      "cause_raw": "having a pure-hearted son",
-      "theme_label": "Parental Pride"
     }
   ]
 }

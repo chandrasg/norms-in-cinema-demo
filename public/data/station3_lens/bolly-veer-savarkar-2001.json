@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 5,
-    "pride": 7
+    "pride": 6
   },
   "themes": [
     {
@@ -124,15 +124,6 @@
       "emotion": "pride",
       "dialogue": "Not just an insuLt to our country, this is an insuLt to aLL of humaniTy. They consider us worse than dogs. if you are so proud why did you come here? Don't you know? They are our ruLers. And they remain our ruLers because...... it isn't beneath your digniTy to sit in any corner you're reLegated to.",
       "target_person": "",
-      "target_gender": "unclear",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
-      "dialogue_id": "p2527_bolly",
-      "emotion": "pride",
-      "dialogue": "Your sense of digniTy is dead. Maybe you're right, it's beyond cure We're shameLess, denuded of our pride and that is why they ruLe us. Because a few thousand EngLishmen ruLe 300 miLLion Indians ...... can 800-odd Indian students here not preserve their digniTy? How can we suffer siLentLy the indigniTy of being sequestered?",
-      "target_person": "speaker",
       "target_gender": "unclear",
       "cause_raw": "",
       "theme_label": ""

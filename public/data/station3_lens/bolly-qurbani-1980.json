@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 4,
-    "pride": 7
+    "pride": 6
   },
   "themes": [
     {
@@ -122,15 +122,6 @@
       "dialogue": "Speak softly! You are in my house Like my patience, the glass panes in my house are thin and very sensitive. Your pride and your glass panes I will crush under my feet some day. Else I am no Jwala. Vikram, Raka has refused to withdraw the charges.",
       "target_person": "Jwala",
       "target_gender": "male",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
-      "dialogue_id": "p814_bolly",
-      "emotion": "pride",
-      "dialogue": "He isn't a man. The likes of him are vermin for society Dogs like them should be run over and killed So proud of your car? - Hey mister, this is a mercedes. Have you ever driven something like this? Not yet. But I'll  give it a try. How about a 50-cent bet?",
-      "target_person": "",
-      "target_gender": "unclear",
       "cause_raw": "",
       "theme_label": ""
     },

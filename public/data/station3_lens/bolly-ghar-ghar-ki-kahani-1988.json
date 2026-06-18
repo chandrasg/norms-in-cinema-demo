@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 15,
-    "pride": 2
+    "pride": 1
   },
   "themes": [
     {
@@ -210,15 +210,6 @@
       "target_gender": "male",
       "cause_raw": "gambling and visiting brothels",
       "theme_label": "Financial Desperation"
-    },
-    {
-      "dialogue_id": "p1105_bolly",
-      "emotion": "pride",
-      "dialogue": "Really? How dare she? - You will keep saying how dare she. And some day she will elope with some wayward ruffian. We will be put to shame. We won't have a nose to be proud of. No. That won't happen. We will get an iron nose fitted. You cracked a joke again?!! - Joke? What joke?",
-      "target_person": "",
-      "target_gender": "unclear",
-      "cause_raw": "",
-      "theme_label": ""
     },
     {
       "dialogue_id": "p1106_bolly",

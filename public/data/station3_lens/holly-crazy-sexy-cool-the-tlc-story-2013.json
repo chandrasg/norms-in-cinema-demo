@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 0,
-    "pride": 10
+    "pride": 9
   },
   "themes": [
     {
@@ -91,15 +91,6 @@
       "dialogue_id": "WP2742_holly",
       "emotion": "pride",
       "dialogue": "Yeah, come on!  All: I ain't too proud to beg!  I ain't too proud to beg.  - Yo, T-Boz, is ya bein' a boss?  Chilli, what's up with that sauce?",
-      "target_person": "",
-      "target_gender": "unclear",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
-      "dialogue_id": "WP2743_holly",
-      "emotion": "pride",
-      "dialogue": "Yo, if I need it in the morning   or the middle of the night  -  I ain't too proud to beg, no   -  if the lovin' is strong    then he got it goin' on and",
       "target_person": "",
       "target_gender": "unclear",
       "cause_raw": "",

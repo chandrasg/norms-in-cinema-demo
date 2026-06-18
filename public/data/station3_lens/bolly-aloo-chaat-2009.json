@@ -10,19 +10,19 @@
   },
   "totals": {
     "shame": 2,
-    "pride": 2
+    "pride": 1
   },
   "themes": [
-    {
-      "label": "Romantic Relationships",
-      "count": 2
-    },
     {
       "label": "Sexual Harassment",
       "count": 1
     },
     {
       "label": "Poverty",
+      "count": 1
+    },
+    {
+      "label": "Romantic Relationships",
       "count": 1
     }
   ],
@@ -32,7 +32,7 @@
       "male": 1
     },
     "pride": {
-      "male": 2
+      "male": 1
     }
   },
   "dialogues": [
@@ -61,15 +61,6 @@
       "target_person": "soon to-be husband",
       "target_gender": "male",
       "cause_raw": "fiancee's physical appearance",
-      "theme_label": "Romantic Relationships"
-    },
-    {
-      "dialogue_id": "p16_bolly",
-      "emotion": "pride",
-      "dialogue": "Oh, that. You should be proud. Your soon to-be wife has such a beautiful body. You aren't ashamed. You are feeling proud of it, instead? Yes. This is my life. -But.. but this is India. India.",
-      "target_person": "soon to-be husband",
-      "target_gender": "male",
-      "cause_raw": "wife's physical beauty",
       "theme_label": "Romantic Relationships"
     }
   ]

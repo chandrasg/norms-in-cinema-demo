@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 4,
-    "pride": 2
+    "pride": 1
   },
   "themes": [
     {
@@ -35,7 +35,7 @@
       "male": 2
     },
     "pride": {
-      "female": 2
+      "female": 1
     }
   },
   "dialogues": [
@@ -74,15 +74,6 @@
       "target_gender": "unclear",
       "cause_raw": "treating love as a game",
       "theme_label": "Romantic Expression"
-    },
-    {
-      "dialogue_id": "p862_bolly",
-      "emotion": "pride",
-      "dialogue": "Are we in such dire straits, that a man....who was a mere worker in this company a few years ago....is being made the chairperson today? Has your standard fallen so much? How shameful! It's not shameful, but a matter of pride, Ms. Suchitra. My becoming the chairperson proves....that if an ordinary worker....works hard he can become the chairman of this company. It's the company's magnanimity....the credit for which goes to you all.",
-      "target_person": "Ms. Suchitra",
-      "target_gender": "female",
-      "cause_raw": "",
-      "theme_label": ""
     },
     {
       "dialogue_id": "p863_bolly",

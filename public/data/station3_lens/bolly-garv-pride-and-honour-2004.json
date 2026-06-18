@@ -10,12 +10,12 @@
   },
   "totals": {
     "shame": 0,
-    "pride": 11
+    "pride": 10
   },
   "themes": [
     {
       "label": "Patriotism",
-      "count": 5
+      "count": 4
     },
     {
       "label": "Heroic Bravery",
@@ -50,15 +50,6 @@
       "emotion": "pride",
       "dialogue": "We are proud of our country. We are proud! O Country, we will decorate your character. Come, we wwill guard you against evil.",
       "target_person": "speaker",
-      "target_gender": "unclear",
-      "cause_raw": "patriotism",
-      "theme_label": "Patriotism"
-    },
-    {
-      "dialogue_id": "p1086_bolly",
-      "emotion": "pride",
-      "dialogue": "We are proud of our country. We are proud! O Country, we will decorate your character. Come, we wwill guard you against evil.",
-      "target_person": "we",
       "target_gender": "unclear",
       "cause_raw": "patriotism",
       "theme_label": "Patriotism"

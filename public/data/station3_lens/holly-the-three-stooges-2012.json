@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 1,
-    "pride": 4
+    "pride": 3
   },
   "themes": [
     {
@@ -27,7 +27,7 @@
       "male": 1
     },
     "pride": {
-      "male": 3
+      "male": 2
     }
   },
   "dialogues": [
@@ -45,15 +45,6 @@
       "emotion": "pride",
       "dialogue": "Well, it's been a bad week for Lenny the Lion.  His nasty disposition has prompted local zoo officials  to put the proud cat an a short leash inside his pen.  Zoo employees were refusing to clean the arnery beast's cage  after several recent close calls.",
       "target_person": "Lenny the Lion",
-      "target_gender": "male",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
-      "dialogue_id": "WP294_holly",
-      "emotion": "pride",
-      "dialogue": "why didn't we go live with Teddy when we had the chance?  Now we got no Teddy, no seed money, no nothing.  Yeah, shame on you, Moe. You put your pride ahead of them kids.  How dare you accuse me of having pride!  Back off.",
-      "target_person": "Moe",
       "target_gender": "male",
       "cause_raw": "",
       "theme_label": ""

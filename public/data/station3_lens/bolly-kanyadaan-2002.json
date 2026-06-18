@@ -9,13 +9,13 @@
     "overview": "Utpal, the youngest son in a middle class joint family, falls in love with a woman from a wealthy family. Apart from his sisters-in-law, no one knows about his romance."
   },
   "totals": {
-    "shame": 10,
+    "shame": 9,
     "pride": 1
   },
   "themes": [
     {
       "label": "Shamelessness",
-      "count": 3
+      "count": 2
     },
     {
       "label": "Dishonesty",
@@ -53,15 +53,6 @@
     }
   },
   "dialogues": [
-    {
-      "dialogue_id": "s2960_bolly",
-      "emotion": "shame",
-      "dialogue": "Goddamn it! You've proved today that you're absolutely shame proof, my friend. It's part of the game. What's there to feel ashamed about? Maybe not for you, but we feel like drowning ourselves.",
-      "target_person": "friend",
-      "target_gender": "unclear",
-      "cause_raw": "lack of remorse or guilt",
-      "theme_label": "Shamelessness"
-    },
     {
       "dialogue_id": "s2960_bolly",
       "emotion": "shame",

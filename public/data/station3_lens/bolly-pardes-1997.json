@@ -9,7 +9,7 @@
     "overview": "Kishorilal wants an Indian bride for his westernised son. He gets him engaged to Ganga, his friend's daughter, and brings her to USA. But she shares a deeper bond with Arjun, Kishorilal's foster son."
   },
   "totals": {
-    "shame": 8,
+    "shame": 7,
     "pride": 0
   },
   "themes": [
@@ -18,12 +18,12 @@
       "count": 2
     },
     {
-      "label": "Nonconformity",
+      "label": "Sexual Harassment",
       "count": 2
     },
     {
-      "label": "Sexual Harassment",
-      "count": 2
+      "label": "Nonconformity",
+      "count": 1
     },
     {
       "label": "Promiscuity",
@@ -36,7 +36,7 @@
   ],
   "gender_breakdown": {
     "shame": {
-      "male": 3,
+      "male": 2,
       "female": 4
     }
   },
@@ -94,15 +94,6 @@
       "target_gender": "male",
       "cause_raw": "Intruding without informing",
       "theme_label": "Invasion of Privacy"
-    },
-    {
-      "dialogue_id": "s1297_bolly",
-      "emotion": "shame",
-      "dialogue": "Whether it's with an animal, or between a servant and his master. To form new relationships we don't break old ones! Do you have any shame, or not? Forgot the rules set here? It seems he's not fixing your betrothal......but you're confirming his! - My dear...Whatever Arjun's doing is for your own good. Imagine that he's a film director.",
-      "target_person": "Arjun",
-      "target_gender": "male",
-      "cause_raw": "breaking traditional norms and rules",
-      "theme_label": "Nonconformity"
     },
     {
       "dialogue_id": "s1298_bolly",

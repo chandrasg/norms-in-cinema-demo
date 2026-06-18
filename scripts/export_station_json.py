@@ -121,6 +121,35 @@ def _film_counts(dialogues: list[dict]) -> dict[str, int]:
     return _FILM_COUNT_CACHE
 
 
+def _norm_dialogue(text: str) -> str:
+    """Normalize a dialogue line for duplicate detection. The source corpus
+    extracts overlapping windows, so the same spoken line is sometimes
+    captured under multiple distinct dialogue_ids with identical text. We
+    collapse on lowercase + punctuation-stripped + whitespace-collapsed text
+    so those genuine duplicates dedupe, while distinct lines stay distinct.
+    Only ever applied WITHIN a single film or a single theme's example pool,
+    so cross-context collisions are a non-issue."""
+    t = (text or "").lower().strip()
+    t = re.sub(r"[^a-z0-9 ]", " ", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    return t
+
+
+def dedupe_by_dialogue(rows: list[dict]) -> list[dict]:
+    """Return rows with duplicate dialogue text removed, keeping first seen.
+    Preserves order. Used so no film page or theme example list shows the
+    same line twice."""
+    seen: set[str] = set()
+    out = []
+    for r in rows:
+        key = _norm_dialogue(r.get("dialogue", ""))
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        out.append(r)
+    return out
+
+
 # Films we explicitly want to keep OUT of the example surface — children's
 # animation, period dramas (Shakespeare in Love etc.), and titles colleagues
 # have flagged as unrepresentative of contemporary depictions.
@@ -449,7 +478,17 @@ def build_station2(dialogues: list[dict]) -> dict:
         # the dominant gender/industry pattern of this theme. Used by the
         # Theme Explorer to give Ana Maria's "directional but non-judgmental"
         # framing teeth.
-        counter_examples = pick_counter_examples(dialogues, tid, theme_gender[tid], delta, n=3)
+        example_ids = {e["dialogue_id"] for e in examples}
+        # Normalize from RAW dialogue (not the bleeped example text) so the
+        # text-exclusion matches the raw counter-example pool exactly.
+        example_texts = {
+            _norm_dialogue(r["dialogue"])
+            for r in dialogues if r["dialogue_id"] in example_ids
+        }
+        counter_examples = pick_counter_examples(
+            dialogues, tid, theme_gender[tid], delta, n=3,
+            exclude_ids=example_ids, exclude_texts=example_texts,
+        )
         gender_dist = dict(theme_gender[tid])
         themes.append({
             "id": int(tid),
@@ -476,22 +515,31 @@ def build_station2(dialogues: list[dict]) -> dict:
 
     themes.sort(key=lambda t: (-t["total"]))
 
-    # Films index: top films by dialogue count, for the search bar
+    # Films index: top films by dialogue count, for the search bar. Count
+    # DISTINCT dialogue lines per film (deduped the same way as the Lens
+    # pages in build_station3) so the search card's total_count — which the
+    # Atlas FilmSearch uses to decide whether a film is clickable through to
+    # Lens (hasDetail = total_count >= 3) — matches the set of Lens pages we
+    # actually write. Without this, a film with 3 overlapping-window rows but
+    # only 2 distinct lines would look clickable but have no detail page.
+    _film_rows = defaultdict(list)
+    for r in dialogues:
+        if r["film_matched"] == "1":
+            _film_rows[r["film_id"]].append(r)
     by_film = defaultdict(lambda: {"shame": 0, "pride": 0})
     film_meta = {}
-    for r in dialogues:
-        if r["film_matched"] != "1":
-            continue
-        fid = r["film_id"]
-        by_film[fid][r["emotion"]] += 1
+    for fid, rows in _film_rows.items():
+        for r in dedupe_by_dialogue(rows):
+            by_film[fid][r["emotion"]] += 1
+        first = rows[0]
         if fid not in film_meta:
             film_meta[fid] = {
                 "id": fid,
-                "title": r["film_title"],
-                "year": r["film_year"],
-                "industry": r["industry"],
-                "country": r["film_country"],
-                "poster_path": r["film_poster_path"],
+                "title": first["film_title"],
+                "year": first["film_year"],
+                "industry": first["industry"],
+                "country": first["film_country"],
+                "poster_path": first["film_poster_path"],
             }
     films_index = []
     for fid, counts in by_film.items():
@@ -529,6 +577,8 @@ def pick_counter_examples(
     theme_gender: Counter,
     delta: float,
     n: int = 3,
+    exclude_ids: set | None = None,
+    exclude_texts: set | None = None,
 ) -> list[dict]:
     """Pick dialogues from this theme that go against the dominant pattern.
 
@@ -539,6 +589,10 @@ def pick_counter_examples(
       - Cross-industry: examples from the minority industry of this theme
         (used as a tiebreaker when not enough cross-gender available)
 
+    `exclude_ids` / `exclude_texts` carry the dialogues already shown in the
+    theme's main example list, so a counter-example never repeats a line the
+    reader just saw above it.
+
     Note: this is a proxy. We don't have scene-level "narrative outcome"
     annotation in V1; that lands in V2. For now, surfacing dialogues that
     invert the dominant gender/industry trope gives the closest practical
@@ -546,6 +600,8 @@ def pick_counter_examples(
     monthly meeting.
     """
     fc = _film_counts(dialogues)
+    exclude_ids = exclude_ids or set()
+    exclude_texts = exclude_texts or set()
     fem = theme_gender.get("female", 0)
     male = theme_gender.get("male", 0)
     if fem > male:
@@ -557,11 +613,15 @@ def pick_counter_examples(
 
     minority_industry = "holly" if delta > 0 else "bolly"
 
+    # Exclude lines already shown in the main examples (by id and by text),
+    # so the counter-example list never repeats a dialogue from above.
     pool = [r for r in dialogues
             if r["theme_id"] == theme_id
             and r["film_matched"] == "1"
             and r["dialogue"]
-            and 40 <= len(r["dialogue"]) <= 220]
+            and 40 <= len(r["dialogue"]) <= 220
+            and r["dialogue_id"] not in exclude_ids
+            and _norm_dialogue(r["dialogue"]) not in exclude_texts]
 
     # Prefer cross-gender; fall back to cross-industry when scarce.
     cross_gender = [r for r in pool if r["target_gender"] == counter_gender] if counter_gender else []
@@ -572,20 +632,16 @@ def pick_counter_examples(
 
     out = []
     seen_ids = set()
-    for r in cross_gender:
+    seen_texts = set()
+    for r in cross_gender + cross_industry:
         if len(out) >= n:
             break
-        if r["dialogue_id"] in seen_ids:
+        key = _norm_dialogue(r["dialogue"])
+        if r["dialogue_id"] in seen_ids or key in seen_texts:
             continue
         out.append(r)
         seen_ids.add(r["dialogue_id"])
-    for r in cross_industry:
-        if len(out) >= n:
-            break
-        if r["dialogue_id"] in seen_ids:
-            continue
-        out.append(r)
-        seen_ids.add(r["dialogue_id"])
+        seen_texts.add(key)
 
     return [{
         "dialogue_id": r["dialogue_id"],
@@ -611,8 +667,11 @@ def pick_theme_examples(dialogues: list[dict], theme_id: str, n: int = 5, delta:
             if r["theme_id"] == theme_id
             and r["film_matched"] == "1"
             and 40 <= len(r["dialogue"] or "") <= 280]
-    # Rank pool by quality (recent + pithy + popular)
+    # Rank pool by quality (recent + pithy + popular), then drop duplicate
+    # lines so overlapping-window captures of the same dialogue don't show up
+    # twice in one theme.
     pool.sort(key=lambda r: -example_quality_score(r, fc))
+    pool = dedupe_by_dialogue(pool)
 
     # Bias toward the industry the theme leans toward (delta > 0 → Bollywood, < 0 → Hollywood)
     if delta > 0:
@@ -621,13 +680,32 @@ def pick_theme_examples(dialogues: list[dict], theme_id: str, n: int = 5, delta:
     else:
         n_dominant, n_other = max(n - 1, n * 3 // 4), max(1, n // 4)
         dominant, other = "holly", "bolly"
-    # Take top-quality from each industry within the ranked pool
-    dom_pool = [r for r in pool if r["industry"] == dominant][:n_dominant]
-    oth_pool = [r for r in pool if r["industry"] == other][:n_other]
+
+    # Pick at most one example per film so a single film can't fill the panel.
+    used_films: set = set()
+
+    def take(candidates, limit):
+        picked = []
+        for r in candidates:
+            if len(picked) >= limit:
+                break
+            if r["film_id"] in used_films:
+                continue
+            used_films.add(r["film_id"])
+            picked.append(r)
+        return picked
+
+    dom_pool = take([r for r in pool if r["industry"] == dominant], n_dominant)
+    oth_pool = take([r for r in pool if r["industry"] == other], n_other)
     out = (dom_pool + oth_pool)[:n]
     if len(out) < n:
-        rest = [r for r in pool if r not in out][: n - len(out)]
-        out += rest
+        # Fill remaining slots from any remaining film (still one-per-film).
+        out += take([r for r in pool if r not in out], n - len(out))
+    if len(out) < n:
+        # Last resort for tiny themes: relax the one-per-film rule rather
+        # than under-fill the panel.
+        chosen_ids = {r["dialogue_id"] for r in out}
+        out += [r for r in pool if r["dialogue_id"] not in chosen_ids][: n - len(out)]
     return [{
         "dialogue_id": r["dialogue_id"],
         "dialogue": bleep_curses(r["dialogue"]),
@@ -656,6 +734,13 @@ def build_station3(dialogues: list[dict], min_dialogues: int = 3) -> list[dict]:
         if r["film_matched"] != "1":
             continue
         by_film[r["film_id"]].append(r)
+
+    # Drop duplicate dialogue lines within each film. The source corpus
+    # captures overlapping windows, so the same spoken line can appear under
+    # multiple dialogue_ids — without this, a film page lists the same line
+    # twice. Deduping here keeps the page, its totals, and the films_index
+    # count (build_station2, deduped the same way) all internally consistent.
+    by_film = {fid: dedupe_by_dialogue(rows) for fid, rows in by_film.items()}
 
     scored = []
     for fid, rows in by_film.items():

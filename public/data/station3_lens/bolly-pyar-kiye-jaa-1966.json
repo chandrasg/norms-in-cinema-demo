@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 4,
-    "pride": 1
+    "pride": 0
   },
   "themes": [
     {
@@ -20,18 +20,11 @@
     {
       "label": "Self-Image Issues",
       "count": 2
-    },
-    {
-      "label": "Identity and Beauty",
-      "count": 1
     }
   ],
   "gender_breakdown": {
     "shame": {
       "male": 4
-    },
-    "pride": {
-      "male": 1
     }
   },
   "dialogues": [
@@ -70,15 +63,6 @@
       "target_gender": "male",
       "cause_raw": "feeling inferior due to social status",
       "theme_label": "Self-Image Issues"
-    },
-    {
-      "dialogue_id": "p804_bolly",
-      "emotion": "pride",
-      "dialogue": "Everything! Why are you standing? Sit down! Why are you embarrassing me? How can I sit in your presence?...Fie on my birth if I do so! Sir...I think... That the son of such a great man......was employed at my place. I feel proud sometimes......and sometimes, I am so ashamed! Ramlal... this has happened due to Ashok's childishness. Call it childishness or his youthfulness.",
-      "target_person": "Ramlal",
-      "target_gender": "male",
-      "cause_raw": "Employing the son of a great man",
-      "theme_label": "Identity and Beauty"
     }
   ]
 }

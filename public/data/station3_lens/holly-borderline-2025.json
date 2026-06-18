@@ -10,21 +10,21 @@
   },
   "totals": {
     "shame": 0,
-    "pride": 8
+    "pride": 4
   },
   "themes": [
     {
       "label": "Family Honor",
-      "count": 4
+      "count": 2
     },
     {
       "label": "Future Aspirations",
-      "count": 2
+      "count": 1
     }
   ],
   "gender_breakdown": {
     "pride": {
-      "male": 6
+      "male": 3
     }
   },
   "dialogues": [
@@ -57,42 +57,6 @@
     },
     {
       "dialogue_id": "WP199_holly",
-      "emotion": "pride",
-      "dialogue": "but maybe I didn't really teach him what that meant.  I don't even know if I know what that means anymore,  proud American.  World's changing all around us.  At each other's throats.",
-      "target_person": "",
-      "target_gender": "unclear",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
-      "dialogue_id": "WP2422_holly",
-      "emotion": "pride",
-      "dialogue": "I know that a lot of people feel that way,  but I'm not sure that's the case with Dylan.  Uh, he's a very proud man. You one-upped him yesterday.  You're a damn fine cowboy, Juan.  I don't know, sir.",
-      "target_person": "Juan",
-      "target_gender": "male",
-      "cause_raw": "being a good cowboy",
-      "theme_label": "Future Aspirations"
-    },
-    {
-      "dialogue_id": "WP2423_holly",
-      "emotion": "pride",
-      "dialogue": "Well... I don't know either.  I don't know either.  I just... I always taught my son to be a proud American,  I always taught my son to be a proud American,  but maybe I didn't really teach him what that meant.",
-      "target_person": "father",
-      "target_gender": "male",
-      "cause_raw": "teaching his son to be a proud American",
-      "theme_label": "Family Honor"
-    },
-    {
-      "dialogue_id": "WP2424_holly",
-      "emotion": "pride",
-      "dialogue": "I don't know either.  I just... I always taught my son to be a proud American,  I always taught my son to be a proud American,  but maybe I didn't really teach him what that meant.  I don't even know if I know what that means anymore,",
-      "target_person": "father",
-      "target_gender": "male",
-      "cause_raw": "teaching his son to be a proud American",
-      "theme_label": "Family Honor"
-    },
-    {
-      "dialogue_id": "WP2425_holly",
       "emotion": "pride",
       "dialogue": "but maybe I didn't really teach him what that meant.  I don't even know if I know what that means anymore,  proud American.  World's changing all around us.  At each other's throats.",
       "target_person": "",

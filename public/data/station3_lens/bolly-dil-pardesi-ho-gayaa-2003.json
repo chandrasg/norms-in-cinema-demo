@@ -10,12 +10,12 @@
   },
   "totals": {
     "shame": 2,
-    "pride": 24
+    "pride": 23
   },
   "themes": [
     {
       "label": "Patriotism",
-      "count": 19
+      "count": 18
     },
     {
       "label": "Parental Pride",
@@ -194,15 +194,6 @@
       "target_person": "county",
       "target_gender": "unclear",
       "cause_raw": "Sacrifice for the country",
-      "theme_label": "Patriotism"
-    },
-    {
-      "dialogue_id": "p603_bolly",
-      "emotion": "pride",
-      "dialogue": "O' Martyrs! Entire county is proud of you. Entire county is proud of you. You've sacrificed your life for the county. You've sacrificed your life for the county.",
-      "target_person": "entire county",
-      "target_gender": "unclear",
-      "cause_raw": "sacrifice for the country",
       "theme_label": "Patriotism"
     },
     {

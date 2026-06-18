@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 4,
-    "pride": 3
+    "pride": 2
   },
   "themes": [
     {
@@ -39,8 +39,8 @@
       "male": 3
     },
     "pride": {
-      "male": 2,
-      "female": 1
+      "female": 1,
+      "male": 1
     }
   },
   "dialogues": [
@@ -79,15 +79,6 @@
       "target_gender": "male",
       "cause_raw": "invading privacy",
       "theme_label": "Invasion of Privacy"
-    },
-    {
-      "dialogue_id": "p2319_bolly",
-      "emotion": "pride",
-      "dialogue": "My disrespected ancestors! Because of your inability, today I'd to go to the prison too. I'm ashamed that hitherto I used to....feel proud of useless Thakurs like you all. It's good that you all died. Otherwise today I would have killed you all.",
-      "target_person": "speaker",
-      "target_gender": "male",
-      "cause_raw": "",
-      "theme_label": ""
     },
     {
       "dialogue_id": "p2320_bolly",

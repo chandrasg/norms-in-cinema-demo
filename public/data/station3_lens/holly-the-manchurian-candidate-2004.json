@@ -9,20 +9,16 @@
     "overview": "Years after his squad was ambushed during the Gulf War, Major Ben Marco finds himself having terrible nightmares. He begins to doubt that his fellow squad-mate Sergeant Raymond Shaw, now a vice-presidential candidate, is the hero he remembers him being. As Marco's doubts deepen, Shaw's political power grows, and, when Marco finds a mysterious implant embedded in his back, the memory of what really happened begins to return."
   },
   "totals": {
-    "shame": 4,
-    "pride": 6
+    "shame": 3,
+    "pride": 3
   },
   "themes": [
     {
-      "label": "Self-Image Issues",
-      "count": 2
-    },
-    {
-      "label": "Future Aspirations",
-      "count": 2
-    },
-    {
       "label": "Betrayal",
+      "count": 1
+    },
+    {
+      "label": "Self-Image Issues",
       "count": 1
     },
     {
@@ -34,7 +30,7 @@
       "count": 1
     },
     {
-      "label": "Identity and Beauty",
+      "label": "Future Aspirations",
       "count": 1
     }
   ],
@@ -43,8 +39,8 @@
       "female": 2
     },
     "pride": {
-      "male": 4,
-      "female": 2
+      "male": 2,
+      "female": 1
     }
   },
   "dialogues": [
@@ -76,15 +72,6 @@
       "theme_label": "Sexual Harassment"
     },
     {
-      "dialogue_id": "WS1226_holly",
-      "emotion": "shame",
-      "dialogue": "who believes that human beings are essentially good  and that our power is somehow, I don't know,  shameful or evil or never to be used.  Make no mistake, the American people are terrified.  They know something's coming. They can feel it.",
-      "target_person": "American people",
-      "target_gender": "unclear",
-      "cause_raw": "fear of power and change",
-      "theme_label": "Self-Image Issues"
-    },
-    {
       "dialogue_id": "WP1305_holly",
       "emotion": "pride",
       "dialogue": "Won the Medal.  Been... Been the hero.  Well, sir, I'm just... I'm just proud that I was there.  Thank you.  Thank you very much.",
@@ -107,33 +94,6 @@
       "emotion": "pride",
       "dialogue": "Of course. Jocelyn, good to see you again.  - Mark. - Eleanor.  Raymond, your granddad would be so goddamn proud of you.  Thank you, Mr. Whiting.  Raymond, this is J.B. Johnston, from Manchurian Global.",
       "target_person": "Mr. Whiting",
-      "target_gender": "male",
-      "cause_raw": "",
-      "theme_label": ""
-    },
-    {
-      "dialogue_id": "WP2226_holly",
-      "emotion": "pride",
-      "dialogue": "Won the Medal.  Been... Been the hero.  Well, sir, I'm just... I'm just proud that I was there.  Thank you.  Thank you very much.",
-      "target_person": "sir",
-      "target_gender": "male",
-      "cause_raw": "being present at an important event",
-      "theme_label": "Identity and Beauty"
-    },
-    {
-      "dialogue_id": "WP2227_holly",
-      "emotion": "pride",
-      "dialogue": "-Leona, good evening. -Thank you, Ellie.  Well, they're gonna have to make their own decisions.  I am proud  to offer into nomination  the name of the next Vice President of these United States,",
-      "target_person": "Leona",
-      "target_gender": "female",
-      "cause_raw": "nominating the next Vice President",
-      "theme_label": "Future Aspirations"
-    },
-    {
-      "dialogue_id": "WP2228_holly",
-      "emotion": "pride",
-      "dialogue": "Of course. Jocelyn, good to see you again.  --Mark -Eleanor.  Raymond, your granddad would be so goddamn proud of you.  Thank you, Mr Whiting.  Raymond, this is J.B. Johnston, from Manchurian Global.",
-      "target_person": "Mr Whiting",
       "target_gender": "male",
       "cause_raw": "",
       "theme_label": ""

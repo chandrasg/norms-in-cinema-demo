@@ -9,17 +9,17 @@
     "overview": "When ad agency executive Pooja (Kirti Reddy) attends a wedding and meets lovable but broke Kabir (Abhishek Bachchan), it's love at first sight -- but only for Kabir. Pooja heads back to her fast-track life and gets in dutch with the head honcho for prolonging her vacation. To save her job, a co-worker explains Pooja's delay with a phony story about her engagement to Kabir, and all's well till she meets her dream man: the boss' son (Sanjay Suri)."
   },
   "totals": {
-    "shame": 4,
+    "shame": 3,
     "pride": 2
   },
   "themes": [
     {
-      "label": "Inappropriate Behavior",
+      "label": "Poverty",
       "count": 2
     },
     {
-      "label": "Poverty",
-      "count": 2
+      "label": "Inappropriate Behavior",
+      "count": 1
     },
     {
       "label": "Identity and Beauty",
@@ -53,15 +53,6 @@
       "target_gender": "female",
       "cause_raw": "poor quality of food",
       "theme_label": "Poverty"
-    },
-    {
-      "dialogue_id": "s4377_bolly",
-      "emotion": "shame",
-      "dialogue": "Tell me one thing brother. Where have you guys come from? From Bombay. - Oh, you're from Bombay? Why do you so misbehave and bring shame to Bombayites. Bombayites are so lovely and beautiful people. Look at yourself... and look at...How do I look?",
-      "target_person": "Bombayites",
-      "target_gender": "unclear",
-      "cause_raw": "misbehavior",
-      "theme_label": "Inappropriate Behavior"
     },
     {
       "dialogue_id": "s4378_bolly",

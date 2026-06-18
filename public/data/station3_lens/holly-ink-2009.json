@@ -10,7 +10,7 @@
   },
   "totals": {
     "shame": 7,
-    "pride": 3
+    "pride": 2
   },
   "themes": [
     {
@@ -33,9 +33,6 @@
   "gender_breakdown": {
     "shame": {
       "male": 4
-    },
-    "pride": {
-      "male": 1
     }
   },
   "dialogues": [
@@ -101,15 +98,6 @@
       "target_gender": "unclear",
       "cause_raw": "self-deprecation",
       "theme_label": "Self-Image Issues"
-    },
-    {
-      "dialogue_id": "WP2567_holly",
-      "emotion": "pride",
-      "dialogue": "One thing begets the next. A man has a weakness, he's flawed.  That flaw leads him to guilt. The guilt leads him to shame.  The shame he compensates with pride and vanity.  And when pride fails, despair takes over and they all lead to his destruction.  What will become his fate.",
-      "target_person": "",
-      "target_gender": "male",
-      "cause_raw": "",
-      "theme_label": ""
     },
     {
       "dialogue_id": "WP2568_holly",

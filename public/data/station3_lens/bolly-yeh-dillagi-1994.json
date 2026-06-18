@@ -9,18 +9,10 @@
     "overview": "Sapna, the daughter of a rich family's chauffeur, fantasizes about wealth and romance. When the family's younger playboy son falls for her, his parents and his responsible, workaholic older brother Vijay vow to break the couple up. However, things quickly become complicated when Vijay finds himself developing feelings for Sapna as well."
   },
   "totals": {
-    "shame": 10,
-    "pride": 2
+    "shame": 8,
+    "pride": 1
   },
   "themes": [
-    {
-      "label": "Disrespect",
-      "count": 2
-    },
-    {
-      "label": "Negligence",
-      "count": 2
-    },
     {
       "label": "Self-Image Issues",
       "count": 2
@@ -30,25 +22,33 @@
       "count": 2
     },
     {
-      "label": "Parental Pride",
-      "count": 2
+      "label": "Disrespect",
+      "count": 1
     },
     {
       "label": "Immodesty",
       "count": 1
     },
     {
+      "label": "Negligence",
+      "count": 1
+    },
+    {
       "label": "Suspicion and Deceit",
+      "count": 1
+    },
+    {
+      "label": "Parental Pride",
       "count": 1
     }
   ],
   "gender_breakdown": {
     "shame": {
-      "male": 8,
+      "male": 6,
       "female": 2
     },
     "pride": {
-      "male": 2
+      "male": 1
     }
   },
   "dialogues": [
@@ -98,15 +98,6 @@
       "theme_label": "Poverty"
     },
     {
-      "dialogue_id": "s4627_bolly",
-      "emotion": "shame",
-      "dialogue": "- Get me some water please. - Who's smoking cigarette here? Your son was enjoying the pleasure. You? It's a matter of great shame! If you cannot learn the right etiquette, don't. But at least learn to respect your father.",
-      "target_person": "son",
-      "target_gender": "male",
-      "cause_raw": "smoking and disrespecting father",
-      "theme_label": "Disrespect"
-    },
-    {
       "dialogue_id": "s4628_bolly",
       "emotion": "shame",
       "dialogue": "He told me the daughter of a driver will always be recognized as one. Besides, the lines of destiny on one's hands keep changing. It's a shame on our city to see you standing here. This city once used to be known for the fun and frolic here. And today, a beautiful girl like you stands alone!",
@@ -114,15 +105,6 @@
       "target_gender": "female",
       "cause_raw": "being a driver's daughter",
       "theme_label": "Suspicion and Deceit"
-    },
-    {
-      "dialogue_id": "s4629_bolly",
-      "emotion": "shame",
-      "dialogue": "I wanted to apologize for the misunderstanding we had in Simla. Even before I could say something, you came away to Bombay. Which makes my debt of shame and seeking apology unbearable. Tell me, how can I make up for it? You will be forgiven, on only one condition.",
-      "target_person": "speaker",
-      "target_gender": "male",
-      "cause_raw": "misunderstanding",
-      "theme_label": "Negligence"
     },
     {
       "dialogue_id": "s4630_bolly",
@@ -146,15 +128,6 @@
       "dialogue_id": "p2603_bolly",
       "emotion": "pride",
       "dialogue": "Uncle, look whom   I have brought along. You won't recognize her!   When I couldn't, how can you? She is the same super-brat,   proud and loud - Sapna! Daughter!   - Father! My child, you have   changed completely!",
-      "target_person": "father",
-      "target_gender": "male",
-      "cause_raw": "daughter's transformation",
-      "theme_label": "Parental Pride"
-    },
-    {
-      "dialogue_id": "p2609_bolly",
-      "emotion": "pride",
-      "dialogue": "Uncle, look whom I have brought along. You won't recognize her! When I couldn't, how can you? She is the same super-brat, proud and loud - Sapna! - Daughter! - Father! My child, you have changed completely!",
       "target_person": "father",
       "target_gender": "male",
       "cause_raw": "daughter's transformation",

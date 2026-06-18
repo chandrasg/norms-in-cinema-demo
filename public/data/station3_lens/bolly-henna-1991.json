@@ -9,20 +9,20 @@
     "overview": "Beautiful Henna Khan lives the life of a gypsy near the river, Jhelum, in Pakistan with her widowed dad, Khan Baba; three brothers, Ashraf, Razzak, and Zaman; and Razzak's wife, Najma. One day she comes across a male body that has been washed ashore. Khan Baba, Bibi Gul, and Henna take this male in, nurse him back to health, only to find out that he has lost his memory. The male in his sleep cries out the name of \"Chand\", and everyone starts calling him by that name."
   },
   "totals": {
-    "shame": 5,
+    "shame": 4,
     "pride": 0
   },
   "themes": [
-    {
-      "label": "Romantic Expression",
-      "count": 2
-    },
     {
       "label": "Nonconformity",
       "count": 1
     },
     {
       "label": "Marital Status",
+      "count": 1
+    },
+    {
+      "label": "Romantic Expression",
       "count": 1
     },
     {
@@ -33,7 +33,7 @@
   "gender_breakdown": {
     "shame": {
       "male": 1,
-      "female": 3
+      "female": 2
     }
   },
   "dialogues": [
@@ -54,15 +54,6 @@
       "target_gender": "female",
       "cause_raw": "loving one man and marrying another",
       "theme_label": "Marital Status"
-    },
-    {
-      "dialogue_id": "s2371_bolly",
-      "emotion": "shame",
-      "dialogue": "Very well, father. If this is your decision, then hear mine. If you don't marry me to Shahbaaz Khan...... I'll kill myself. I promise. - What are you doing? - Shameless one! Have you no care for my feelings? Is this why I lavished care on you? - So that today, you become my... - Enough, stop it!",
-      "target_person": "daughter",
-      "target_gender": "female",
-      "cause_raw": "choosing her own partner",
-      "theme_label": "Romantic Expression"
     },
     {
       "dialogue_id": "s2371_bolly",

@@ -9,16 +9,16 @@
     "overview": "Virat Bakshi, an Indian army soldier on vacation stumbles upon a terror plot to rip Mumbai apart with a series of bomb blasts and must hunt down the sleeper cell of the terror organisation before it's too late."
   },
   "totals": {
-    "shame": 6,
+    "shame": 5,
     "pride": 0
   },
   "themes": [
     {
-      "label": "Inappropriate Behavior",
-      "count": 2
+      "label": "Sexual Harassment",
+      "count": 1
     },
     {
-      "label": "Sexual Harassment",
+      "label": "Inappropriate Behavior",
       "count": 1
     },
     {
@@ -62,15 +62,6 @@
       "target_gender": "unclear",
       "cause_raw": "",
       "theme_label": ""
-    },
-    {
-      "dialogue_id": "s2437_bolly",
-      "emotion": "shame",
-      "dialogue": "“Just blame the night.” “Tonight. - Let's just give into the feeling.” “Blame the night.” “Let's be shameless.” “Blame the night.” “Let's do something daft.” “Blame the night.”",
-      "target_person": "individuals",
-      "target_gender": "unclear",
-      "cause_raw": "giving into reckless behavior",
-      "theme_label": "Inappropriate Behavior"
     },
     {
       "dialogue_id": "s2438_bolly",
