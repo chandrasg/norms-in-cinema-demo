@@ -103,7 +103,7 @@ norms-in-cinema-demo/
 │   │   ├── station1_mirror.json
 │   │   ├── station2_atlas.json
 │   │   ├── lens_index.json
-│   │   └── station3_lens/<slug>.json (×50)
+│   │   └── station3_lens/<slug>.json (×1,384 — one per film ≥3 distinct lines)
 │   └── logos/               Partner logos
 ├── logos/                   Source logos
 ├── paper_2025.naacl-long.568.pdf
