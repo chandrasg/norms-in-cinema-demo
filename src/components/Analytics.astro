@@ -1,0 +1,38 @@
+---
+// Privacy-friendly, cookieless web analytics — always-on pageview tracking.
+//
+// This is a static multi-page site (every route is a real page load), so a
+// single Plausible-style tag in <head> counts every visit to every station
+// automatically. No cookies, no consent banner, no per-click event
+// instrumentation: it just records visits, referrers, device, and country
+// for whatever session or event is live at the time — exactly what you want
+// to be able to point at any future SBCC/Cannes/funder session after the fact.
+//
+// Defaults to Plausible Cloud. To self-host Plausible or use another
+// Plausible-compatible endpoint, override PUBLIC_ANALYTICS_SRC. For Umami,
+// set PUBLIC_ANALYTICS_WEBSITE_ID instead of PUBLIC_ANALYTICS_DOMAIN and
+// point PUBLIC_ANALYTICS_SRC at your Umami script.
+//
+// Configure at build time (.env.local locally; the deploy/build env for
+// production). If neither identifier is set, NOTHING renders — so this is
+// safe to commit and ship before the analytics account exists.
+//
+//   PUBLIC_ANALYTICS_DOMAIN=chandrasg.github.io          # Plausible data-domain
+//   PUBLIC_ANALYTICS_SRC=https://plausible.io/js/script.js  # optional override
+//   PUBLIC_ANALYTICS_WEBSITE_ID=                          # Umami alternative
+//
+// Note on domain: chandrasg.github.io (and sharathg.cis.upenn.edu) host other
+// projects too, so in the analytics dashboard filter by the path prefix
+// (/norms-in-cinema-demo or /mapgen-demo) to isolate this site's traffic.
+const domain = import.meta.env.PUBLIC_ANALYTICS_DOMAIN || "";
+const websiteId = import.meta.env.PUBLIC_ANALYTICS_WEBSITE_ID || "";
+const src =
+  import.meta.env.PUBLIC_ANALYTICS_SRC ||
+  "https://plausible.io/js/script.js";
+---
+{domain && (
+  <script is:inline defer data-domain={domain} src={src}></script>
+)}
+{!domain && websiteId && (
+  <script is:inline defer data-website-id={websiteId} src={src}></script>
+)}

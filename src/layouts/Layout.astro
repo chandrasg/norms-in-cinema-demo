@@ -3,6 +3,7 @@ import "../styles/globals.css";
 import BrandHeader from "../components/BrandHeader.astro";
 import PartnerFooter from "../components/PartnerFooter.astro";
 import KioskMode from "../components/KioskMode.astro";
+import Analytics from "../components/Analytics.astro";
 
 interface Props {
   title?: string;
@@ -66,6 +67,9 @@ const canonical = SITE_URL + (station ? `/${station}` : "/");
       ],
       "isBasedOn": "https://aclanthology.org/2025.naacl-long.568"
     })} />
+
+    <!-- Privacy-friendly, cookieless analytics (no-op until env configured) -->
+    <Analytics />
 
     <link rel="preconnect" href="https://image.tmdb.org" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />

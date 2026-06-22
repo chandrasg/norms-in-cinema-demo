@@ -256,8 +256,17 @@ These are explicitly punted, not forgotten:
    French-translated. The dialogues themselves are already in English (paper
    used English translations of Bollywood subtitles).
 
-8. **Analytics.** Currently no telemetry. If you want to know which stations
-   are getting attention, add Plausible or similar lightweight event tracking.
+8. **Analytics.** Cookieless pageview analytics is wired via
+   `src/components/Analytics.astro` (included in `Layout.astro`). It's a no-op
+   until `PUBLIC_ANALYTICS_DOMAIN` is set at build time — defaults to Plausible
+   Cloud, override `PUBLIC_ANALYTICS_SRC` for self-hosted, or use
+   `PUBLIC_ANALYTICS_WEBSITE_ID` for Umami. Always-on pageviews, no custom
+   events. **To turn it on:** create a Plausible (or Umami) site, set the env
+   var in the deploy/build environment, rebuild. Filter by path prefix
+   (`/norms-in-cinema-demo` or `/mapgen-demo`) in the dashboard since the host
+   domain serves other projects too. NOTE: there was no telemetry before this,
+   so any session prior to first deploy-with-env (incl. the SBCC session) has
+   no recoverable visit data.
 
 ---
 
