@@ -16,22 +16,29 @@ Cannes 2026. Brings the Cross-Cultural Social Norms Dataset (Rai et al., NAACL
 Partner orgs (footer logos): University of Pennsylvania, World Bank Group,
 USC Annenberg Norman Lear Center.
 
-Hosted at: **https://sharathg.cis.upenn.edu/mapgen-demo**
-(Lens API on Vercel — deployed separately, see below.)
+Hosted on **GitHub Pages** (repo `chandrasg/norms-in-cinema-demo`). Served at
+both **https://chandrasg.github.io/norms-in-cinema-demo** and
+**https://sharathg.cis.upenn.edu/norms-in-cinema-demo** — the Penn URL is a
+DNS CNAME alias to `chandrasg.github.io` (custom domain set on the
+`chandrasg.github.io` user-site repo), so github.io 301-redirects to the Penn
+host and everything is one and the same GitHub Pages build. The Lens API is on
+Vercel — deployed separately, see below.
 
 ---
 
 ## Status as of last session
 
 **All 22 tasks completed.** The site builds clean, all stations work end-to-end
-on real data, and `dist/` is ready to ship. Two manual auth steps remain for
-Sharath:
+on real data, and it's live on GitHub Pages.
 
-1. `vercel login` + `vercel deploy --prod` for the Lens API
-2. `./scripts/deploy.sh` to rsync `dist/` to Penn CIS
+Deploy is automatic: **push to `main` → GitHub Actions
+(`.github/workflows/deploy.yml`) builds and publishes to Pages**, served at
+both the github.io and Penn-CNAME URLs. The only separate piece is the Lens
+API on Vercel (`vercel deploy --prod`), already deployed at
+`api-iota-seven-27.vercel.app`.
 
 Everything else (data pipeline, frontend, brand, content, accessibility,
-kiosk-mode) is done.
+kiosk-mode, cookieless analytics) is done.
 
 ### Coverage at last build
 - 12,387 dialogue records
@@ -83,8 +90,7 @@ norms-in-cinema-demo/
 │   ├── cluster_themes.py      Cause embeddings → 24 shame + 15 pride themes
 │   ├── backfill_gender.py     LLM single-shot pass on blank gender records
 │   ├── assemble_dialogues.py  Join everything → canonical dialogues.csv
-│   ├── export_station_json.py Per-station JSON for the frontend
-│   └── deploy.sh              rsync dist/ to Penn CIS
+│   └── export_station_json.py Per-station JSON for the frontend
 ├── data/
 │   ├── raw/                 (gitignored) — pulled from
 │   │   github.com/Khushangz/Cross-Cultural-Social-Norms-Dataset
@@ -102,7 +108,7 @@ norms-in-cinema-demo/
 ├── logos/                   Source logos
 ├── paper_2025.naacl-long.568.pdf
 ├── package.json
-├── astro.config.mjs         Sets base: '/mapgen-demo'
+├── astro.config.mjs         Sets base: '/norms-in-cinema-demo'
 ├── tailwind.config.mjs
 ├── tsconfig.json
 ├── README.md                Public-facing project doc
@@ -110,8 +116,9 @@ norms-in-cinema-demo/
 ```
 
 ### Astro config
-The site is built with `base: '/mapgen-demo'` so it lives at
-`sharathg.cis.upenn.edu/mapgen-demo`. **All internal links use
+The site is built with `base: '/norms-in-cinema-demo'` so it lives at
+`chandrasg.github.io/norms-in-cinema-demo` (and the Penn CNAME
+`sharathg.cis.upenn.edu/norms-in-cinema-demo`). **All internal links use
 `import.meta.env.BASE_URL` — never hard-code paths.**
 
 ### Caching
@@ -139,7 +146,7 @@ These are decisions Sharath approved — don't reverse without asking him.
 | **Audience-segmented policy close** | Three cards on the home page: For filmmakers / For funders / For festivals. The funder card teases V2 (250K films, 160 countries). |
 | **Lens Mode A is exploratory** | The paste-a-scene endpoint explicitly labels its output as extrapolation, not a peer-reviewed claim. |
 | **Cannes flagging via TMDB keyword: skipped** | TMDB's `9748 cannes_film_festival` keyword is too noisy (tagged Creepshow 2 and Rambo as Cannes films). Use TMDB popularity proxy for Station 3 curation. A real Cannes alumni list needs Wikipedia year-by-year scraping. |
-| **Static-only hosting on Penn CIS** | Lens Mode A's live LLM call is on a separate Vercel deployment, called from the static page via CORS. |
+| **Static hosting on GitHub Pages (Penn CNAME)** | Site is a static GitHub Pages build; `sharathg.cis.upenn.edu` is a CNAME alias to `chandrasg.github.io`. Lens Mode A's live LLM call is on a separate Vercel deployment, called from the static page via CORS. |
 
 ---
 
@@ -172,12 +179,21 @@ PUBLIC_LENS_ENDPOINT="https://YOUR-LENS-API.vercel.app/api/lens" npm run build
 
 ### Dev server
 ```bash
-npm run dev             # localhost:4321/mapgen-demo
+npm run dev             # localhost:4321/norms-in-cinema-demo
 ```
 
 ### Deploy
+
+The static site deploys **automatically on push to `main`** via GitHub
+Actions (`.github/workflows/deploy.yml`): it builds and publishes to GitHub
+Pages, served at `chandrasg.github.io/norms-in-cinema-demo` and the Penn
+CNAME `sharathg.cis.upenn.edu/norms-in-cinema-demo`. No manual rsync, no Penn
+server — the Penn URL is a DNS alias to GitHub Pages. Build-time config
+(`PUBLIC_LENS_ENDPOINT`, `PUBLIC_ANALYTICS_CF_TOKEN`, etc.) is set via repo
+secrets referenced in the workflow's `env:` block.
+
+The Lens API (Vercel) is the only separately-deployed piece:
 ```bash
-# 1. Deploy Lens API to Vercel (one-time setup, then re-run for updates)
 cd api
 vercel login            # one-time browser auth
 vercel link             # one-time project link
@@ -185,12 +201,8 @@ vercel env add OPENAI_API_KEY production
 vercel env add ALLOWED_ORIGIN production    # https://sharathg.cis.upenn.edu
 vercel env add LLM_MODEL production         # gpt-4o or gpt-5.5
 vercel deploy --prod
-# Note the deployed URL.
-
-# 2. Build + deploy static site to Penn CIS
-cd ..
-export PUBLIC_LENS_ENDPOINT="https://YOUR-LENS-URL/api/lens"
-./scripts/deploy.sh     # rsync dist/ → ~/html/mapgen-demo on Penn CIS
+# Then set PUBLIC_LENS_ENDPOINT (repo secret) to the deployed URL so the
+# next Pages build wires the frontend to it.
 ```
 
 ### Test the Lens API locally
@@ -262,19 +274,22 @@ These are explicitly punted, not forgotten:
    Web Analytics** (`PUBLIC_ANALYTICS_CF_TOKEN` — free, unlimited, the chosen
    default), Plausible (`PUBLIC_ANALYTICS_DOMAIN`, cloud is paid), and Umami
    (`PUBLIC_ANALYTICS_WEBSITE_ID`). Always-on pageviews, no custom events.
-   **To turn it on:** Cloudflare dashboard → Web Analytics → add the site →
-   copy the JS-snippet token → set `PUBLIC_ANALYTICS_CF_TOKEN` in the
-   deploy/build env → rebuild. Filter by path prefix (`/norms-in-cinema-demo`
-   or `/mapgen-demo`) in the dashboard since the host domain serves other
-   projects too. NOTE: there was no telemetry before this, so any session prior
-   to first deploy-with-env (incl. the SBCC session) has no recoverable data.
+   **LIVE:** Cloudflare Web Analytics is registered for `sharathg.cis.upenn.edu`
+   and its (public) beacon token is committed as the default in
+   `Analytics.astro`, so it's active on every deploy. Since github.io
+   301-redirects to the Penn host, the beacon reports `sharathg.cis.upenn.edu`
+   for all traffic. In the dashboard, filter by path prefix
+   `/norms-in-cinema-demo` since the host serves other projects too. NOTE:
+   there was no telemetry before May 2026, so any earlier session (incl. the
+   SBCC session) has no recoverable data.
 
 ---
 
 ## Things I'd be careful about
 
-- **Don't break the `import.meta.env.BASE_URL` pattern.** Penn CIS hosting
-  serves under `/mapgen-demo` — hard-coding `/` will produce 404s for assets.
+- **Don't break the `import.meta.env.BASE_URL` pattern.** GitHub Pages serves
+  under `/norms-in-cinema-demo` (same subpath on the Penn CNAME) — hard-coding
+  `/` will produce 404s for assets.
 - **Don't commit `.env.local` or anything from `data/raw/`.** Both are
   gitignored. The dataset is CC-BY-SA but Sharath prefers fetch-at-build.
 - **Don't run `npm run data:full` casually.** TMDB enrichment makes ~3,700 API
