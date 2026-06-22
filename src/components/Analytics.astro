@@ -14,25 +14,39 @@
 // point PUBLIC_ANALYTICS_SRC at your Umami script.
 //
 // Configure at build time (.env.local locally; the deploy/build env for
-// production). If neither identifier is set, NOTHING renders — so this is
-// safe to commit and ship before the analytics account exists.
+// production). If no identifier is set, NOTHING renders — so this is safe to
+// commit and ship before the analytics account exists.
 //
-//   PUBLIC_ANALYTICS_DOMAIN=chandrasg.github.io          # Plausible data-domain
-//   PUBLIC_ANALYTICS_SRC=https://plausible.io/js/script.js  # optional override
-//   PUBLIC_ANALYTICS_WEBSITE_ID=                          # Umami alternative
+// Pick ONE provider (checked in this order):
+//   Cloudflare Web Analytics (free, unlimited, cookieless — recommended):
+//     PUBLIC_ANALYTICS_CF_TOKEN=<token from the CF dashboard>
+//   Plausible (cloud is paid; self-host is free):
+//     PUBLIC_ANALYTICS_DOMAIN=chandrasg.github.io
+//     PUBLIC_ANALYTICS_SRC=https://plausible.io/js/script.js   # optional override
+//   Umami (free hobby tier):
+//     PUBLIC_ANALYTICS_WEBSITE_ID=<id>   plus PUBLIC_ANALYTICS_SRC=<umami script>
 //
 // Note on domain: chandrasg.github.io (and sharathg.cis.upenn.edu) host other
 // projects too, so in the analytics dashboard filter by the path prefix
 // (/norms-in-cinema-demo or /mapgen-demo) to isolate this site's traffic.
+const cfToken = import.meta.env.PUBLIC_ANALYTICS_CF_TOKEN || "";
 const domain = import.meta.env.PUBLIC_ANALYTICS_DOMAIN || "";
 const websiteId = import.meta.env.PUBLIC_ANALYTICS_WEBSITE_ID || "";
 const src =
   import.meta.env.PUBLIC_ANALYTICS_SRC ||
   "https://plausible.io/js/script.js";
 ---
-{domain && (
+{cfToken && (
+  <script
+    is:inline
+    defer
+    src="https://static.cloudflareinsights.com/beacon.min.js"
+    data-cf-beacon={`{"token": "${cfToken}"}`}
+  ></script>
+)}
+{!cfToken && domain && (
   <script is:inline defer data-domain={domain} src={src}></script>
 )}
-{!domain && websiteId && (
+{!cfToken && !domain && websiteId && (
   <script is:inline defer data-website-id={websiteId} src={src}></script>
 )}
