@@ -32,6 +32,11 @@ jobs:
         env:
           PUBLIC_LENS_ENDPOINT: ${{ secrets.PUBLIC_LENS_ENDPOINT || 'https://api-iota-seven-27.vercel.app/api/lens' }}
           PUBLIC_FEEDBACK_ENDPOINT: ${{ secrets.PUBLIC_FEEDBACK_ENDPOINT || '' }}
+          # Cloudflare Web Analytics token (Settings → Secrets and variables →
+          # Actions → New repository secret: PUBLIC_ANALYTICS_CF_TOKEN).
+          # Covers the github.io copy; the Penn copy gets it via deploy.sh /
+          # .env.local. No-op until the secret is set.
+          PUBLIC_ANALYTICS_CF_TOKEN: ${{ secrets.PUBLIC_ANALYTICS_CF_TOKEN || '' }}
 
       - uses: actions/upload-pages-artifact@v3
         with:
